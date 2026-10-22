@@ -1,0 +1,3236 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T20:17:16Z",
+      "timestamp": 1791317836724,
+      "version": "4.3.1"
+    },
+    "reference-count": 281,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              7
+            ]
+          ],
+          "date-time": "2024-05-07T00:00:00Z",
+          "timestamp": 1715040000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              7
+            ]
+          ],
+          "date-time": "2024-05-07T00:00:00Z",
+          "timestamp": 1715040000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nat Rev Psychol"
+    ],
+    "DOI": "10.1038/s44159-024-00312-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          7
+        ]
+      ],
+      "date-time": "2024-05-07T16:01:52Z",
+      "timestamp": 1715097712000
+    },
+    "page": "393-406",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+      "Stability and malleability of emotional autobiographical memories"
+    ],
+    "prefix": "10.1038",
+    "volume": "3",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2923-6637",
+        "authenticated-orcid": false,
+        "given": "Victoria",
+        "family": "Wardell",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8082-3522",
+        "authenticated-orcid": false,
+        "given": "Daniela J.",
+        "family": "Palombo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "312_CR1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Conway, M. A., Justice, L. V. & D’Argembeau, A. in The Organization and Structure of Autobiographical Memory (ed. Mace, J.) 28–51 (Oxford Univ. Press, 2019).",
+        "DOI": "10.1093/oso/9780198784845.003.0003"
+      },
+      {
+        "key": "312_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "559",
+        "DOI": "10.1146/annurev.psych.121208.131702",
+        "volume": "62",
+        "author": "R Fivush",
+        "year": "2011",
+        "unstructured": "Fivush, R. The development of autobiographical memory. Annu. Rev. Psychol. 62, 559–582 (2011).",
+        "journal-title": "Annu. Rev. Psychol."
+      },
+      {
+        "key": "312_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "623",
+        "DOI": "10.1002/acp.3949",
+        "volume": "36",
+        "author": "J Pociunaite",
+        "year": "2022",
+        "unstructured": "Pociunaite, J., Zimprich, D. & Wolf, T. Centrality of positive and negative autobiographical memories across adult life span. Appl. Cogn. Psychol. 36, 623–635 (2022).",
+        "journal-title": "Appl. Cogn. Psychol."
+      },
+      {
+        "key": "312_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "286",
+        "DOI": "10.1080/09658211.2012.725739",
+        "volume": "21",
+        "author": "Y Maki",
+        "year": "2012",
+        "unstructured": "Maki, Y., Janssen, S. M. J., Uemiya, A. & Naka, M. The phenomenology and temporal distributions of autobiographical memories elicited with emotional and neutral cue words. Memory 21, 286–300 (2012).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "1152",
+        "DOI": "10.1080/09658211.2014.962997",
+        "volume": "23",
+        "author": "A Zaragoza Scherman",
+        "year": "2015",
+        "unstructured": "Zaragoza Scherman, A., Salgado, S., Shao, Z. & Berntsen, D. Event centrality of positive and negative autobiographical memories to identity and life story across cultures. Memory 23, 1152–1171 (2015).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "16701",
+        "DOI": "10.1038/s41598-018-33792-2",
+        "volume": "8",
+        "author": "P Misra",
+        "year": "2018",
+        "unstructured": "Misra, P., Marconi, A., Peterson, M. & Kreiman, G. Minimal memory for details in real life events. Sci. Rep. 8, 16701 (2018).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "312_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "604",
+        "DOI": "10.1037/xge0000055",
+        "volume": "144",
+        "author": "W Hirst",
+        "year": "2015",
+        "unstructured": "Hirst, W. et al. A ten-year follow-up of a study of memory for the attack of September 11, 2001: flashbulb memories and memories for flashbulb events. J. Exp. Psychol. 144, 604–623 (2015).",
+        "journal-title": "J. Exp. Psychol."
+      },
+      {
+        "key": "312_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1449",
+        "DOI": "10.1177/0956797619864887",
+        "volume": "30",
+        "author": "G Murphy",
+        "year": "2019",
+        "unstructured": "Murphy, G., Loftus, E. F., Grady, R. H., Levine, L. J. & Greene, C. M. False memories for fake news during Ireland’s abortion referendum. Psychol. Sci. 30, 1449–1459 (2019).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR9",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Murphy, G., Loftus, E., Levine, L. J., Grady, R. H. & Greene, C. M. Weak correlations among 13 episodic memory tasks related to the same public event. Appl. Cogn. Psychol. https://doi.org/10.1002/acp.4103 (2023).",
+        "DOI": "10.1002/acp.4103"
+      },
+      {
+        "key": "312_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "455",
+        "DOI": "10.1111/1467-9280.02453",
+        "volume": "14",
+        "author": "JM Talarico",
+        "year": "2003",
+        "unstructured": "Talarico, J. M. & Rubin, D. C. Confidence, not consistency, characterizes flashbulb memories. Psychol. Sci. 14, 455–461 (2003).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "149",
+        "DOI": "10.1016/j.neuropsychologia.2015.12.006",
+        "volume": "81",
+        "author": "KA Kurkela",
+        "year": "2016",
+        "unstructured": "Kurkela, K. A. & Dennis, N. A. Event-related fMRI studies of false memory: an activation likelihood estimation meta-analysis. Neuropsychologia 81, 149–167 (2016).",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "312_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "2017",
+        "DOI": "10.3389/fpsyg.2015.02017",
+        "volume": "6",
+        "author": "AKR LePort",
+        "year": "2016",
+        "unstructured": "LePort, A. K. R., Stark, S. M., McGaugh, J. L. & Stark, C. E. L. Highly superior autobiographical memory: quality and quantity of retention over time. Front. Psychol. 6, 2017 (2016).",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "312_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "182",
+        "DOI": "10.1037/0003-066X.54.3.182",
+        "volume": "54",
+        "author": "DL Schacter",
+        "year": "1999",
+        "unstructured": "Schacter, D. L. The seven sins of memory: insights from psychology and cognitive neuroscience. Am. Psychol. 54, 182–203 (1999).",
+        "journal-title": "Am. Psychol."
+      },
+      {
+        "key": "312_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "37",
+        "DOI": "10.1080/09658211.2021.1873391",
+        "volume": "30",
+        "author": "DL Schacter",
+        "year": "2022",
+        "unstructured": "Schacter, D. L. The seven sins of memory: an update. Memory 30, 37–42 (2022).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "121",
+        "DOI": "10.1177/0963721419898122",
+        "volume": "29",
+        "author": "CR Brewin",
+        "year": "2020",
+        "unstructured": "Brewin, C. R., Andrews, B. & Mickes, L. Regaining consensus on the reliability of memory. Curr. Dir. Psychol. 29, 121–125 (2020).",
+        "journal-title": "Curr. Dir. Psychol."
+      },
+      {
+        "key": "312_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "633",
+        "DOI": "10.1080/09658211.2015.1010709",
+        "volume": "23",
+        "author": "ML Howe",
+        "year": "2015",
+        "unstructured": "Howe, M. L. & Knott, L. M. The fallibility of memory in judicial processes: lessons from the past and their modern consequences. Memory 23, 633–656 (2015).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "64",
+        "DOI": "10.1080/03036758.2018.1439071",
+        "volume": "48",
+        "author": "DR Addis",
+        "year": "2018",
+        "unstructured": "Addis, D. R. Are episodic memories special? On the sameness of remembered and imagined event simulation. J. R. Soc. N. Z. 48, 64–88 (2018).",
+        "journal-title": "J. R. Soc. N. Z."
+      },
+      {
+        "key": "312_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "16982",
+        "DOI": "10.1523/JNEUROSCI.2475-12.2012",
+        "volume": "47",
+        "author": "HM Bonnici",
+        "year": "2012",
+        "unstructured": "Bonnici, H. M. et al. Detecting representations of recent and remote autobiographical memories in vmPFC and hippocampus. J. Neurosci. 47, 16982–16991 (2012).",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "312_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "155",
+        "DOI": "10.1007/s11229-013-0247-7",
+        "volume": "191",
+        "author": "F De Brigard",
+        "year": "2014",
+        "unstructured": "De Brigard, F. Is memory for remembering? Recollection as a form of episodic hypothetical thinking. Synthese 191, 155–185 (2014).",
+        "journal-title": "Synthese"
+      },
+      {
+        "key": "312_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1544",
+        "DOI": "10.1177/0956797620954812",
+        "volume": "31",
+        "author": "NB Diamond",
+        "year": "2020",
+        "unstructured": "Diamond, N. B., Armson, M. J. & Levine, B. The truth is out there: accuracy in recall of verifiable real-world events. Psychol. Sci. 31, 1544–1556 (2020).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "204",
+        "DOI": "10.1080/09658211.2014.998680",
+        "volume": "24",
+        "author": "AL Devitt",
+        "year": "2016",
+        "unstructured": "Devitt, A. L., Monk-Fromont, E., Schacter, D. L. & Addis, D. R. Factors that influence the generation of autobiographical memory conjunction errors. Memory 24, 204–222 (2016).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "291",
+        "DOI": "10.1177/0956797614562862",
+        "volume": "26",
+        "author": "J Shaw",
+        "year": "2015",
+        "unstructured": "Shaw, J. & Porter, S. Constructing rich false memories of committing crime. Psychol. Sci. 26, 291–301 (2015).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "471",
+        "DOI": "10.1177/0956797617703667",
+        "volume": "29",
+        "author": "KA Wade",
+        "year": "2018",
+        "unstructured": "Wade, K. A., Garry, M. & Pezdek, K. Deconstructing rich false memories of committing crime: commentary on Shaw and Porter (2015). Psychol. Sci. 29, 471–476 (2018).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "932",
+        "DOI": "10.1177/09567976231180588",
+        "volume": "34",
+        "author": "V Wardell",
+        "year": "2023",
+        "unstructured": "Wardell, V. et al. Fade in, fade out: the role of visual perspective in memory maintenance. Psychol. Sci. 34, 932–946 (2023).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "301",
+        "DOI": "10.1007/s13164-020-00471-z",
+        "volume": "11",
+        "author": "M Werning",
+        "year": "2020",
+        "unstructured": "Werning, M. Predicting the past from minimal traces: episodic memory and its distinction from imagination and preservation. Rev. Phil. Psych. 11, 301–333 (2020).",
+        "journal-title": "Rev. Phil. Psych."
+      },
+      {
+        "key": "312_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "159",
+        "DOI": "10.1016/j.neuropsychologia.2017.05.014",
+        "volume": "110",
+        "author": "HM Bonnici",
+        "year": "2018",
+        "unstructured": "Bonnici, H. M. & Maguire, E. A. Two years later — revisiting autobiographical memory representations in vmPFC and hippocampus. Neuropsychologia 110, 159–169 (2018).",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "312_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "114",
+        "DOI": "10.1016/j.cobeha.2017.07.016",
+        "volume": "17",
+        "author": "J Robin",
+        "year": "2017",
+        "unstructured": "Robin, J. & Moscovitch, M. Details, gist and schema: hippocampal–neocortical interactions underlying recent and remote episodic and spatial memory. Curr. Opin. Behav. Sci. 17, 114–123 (2017).",
+        "journal-title": "Curr. Opin. Behav. Sci."
+      },
+      {
+        "key": "312_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1037/a0037907",
+        "volume": "122",
+        "author": "DC Rubin",
+        "year": "2015",
+        "unstructured": "Rubin, D. C. & Umanath, S. Event memory: a theory of memory for laboratory, autobiographical, and fictional events. Psychol. Rev. 122, 1–23 (2015).",
+        "journal-title": "Psychol. Rev."
+      },
+      {
+        "key": "312_CR29",
+        "unstructured": "Bartlett, F. C. Remembering: A Study in Experimental and Social Psychology (Cambridge Univ. Press, 1932)."
+      },
+      {
+        "key": "312_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "73",
+        "DOI": "10.1016/0010-0277(77)90018-X",
+        "volume": "5",
+        "author": "R Brown",
+        "year": "1977",
+        "unstructured": "Brown, R. & Kulik, J. Flashbulb memories. Cognition 5, 73–99 (1977).",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "312_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/0010-0277(81)90011-1",
+        "volume": "9",
+        "author": "U Neisser",
+        "year": "1981",
+        "unstructured": "Neisser, U. John Dean’s memory: a case study. Cognition 9, 1–22 (1981).",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "312_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "357",
+        "DOI": "10.1016/j.jecp.2014.05.009",
+        "volume": "126",
+        "author": "GA Baugerud",
+        "year": "2014",
+        "unstructured": "Baugerud, G. A., Magnussen, S. & Melinder, A. High accuracy but low consistency in children’s long-term recall of a real-life stressful event. J. Exp. Child. Psychol. 126, 357–368 (2014).",
+        "journal-title": "J. Exp. Child. Psychol."
+      },
+      {
+        "key": "312_CR33",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Nielsen, N. P., Gehrt, T. B. & Berntsen, D. Individual differences in autobiographical memory predict memory confidence but not memory accuracy. J. Appl. Res. Mem. Cogn. https://doi.org/10.1037/h0101869 (2022).",
+        "DOI": "10.1037/h0101869"
+      },
+      {
+        "key": "312_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "14",
+        "DOI": "10.1186/s41235-016-0012-9",
+        "volume": "1",
+        "author": "SE Stanley",
+        "year": "2016",
+        "unstructured": "Stanley, S. E. & Benjamin, A. S. That’s not what you said the first time: a theoretical account of the relationship between consistency and accuracy of recall. Cogn. Res.: Princ. Implic. 1, 14 (2016).",
+        "journal-title": "Cogn. Res.: Princ. Implic."
+      },
+      {
+        "key": "312_CR35",
+        "unstructured": "Tulving, E. in Organization of Memory (eds Tulving, E. & Donaldson, W.) 381–403 (Academic Press, 1972)."
+      },
+      {
+        "key": "312_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "550",
+        "DOI": "10.1016/j.tics.2012.09.003",
+        "volume": "16",
+        "author": "L Renoult",
+        "year": "2012",
+        "unstructured": "Renoult, L., Davidson, P. S., Palombo, D. J., Moscovitch, M. & Levine, B. Personal semantics: at the crossroads of semantic and episodic memory. Trends Cogn. Sci. 16, 550–558 (2012).",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "312_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "251",
+        "DOI": "10.1146/annurev-psych-010419-051123",
+        "volume": "71",
+        "author": "EA Kensinger",
+        "year": "2020",
+        "unstructured": "Kensinger, E. A. & Ford, J. H. Retrieval of emotional events from memory. Annu. Rev. Psychol. 71, 251–272 (2020).",
+        "journal-title": "Annu. Rev. Psychol."
+      },
+      {
+        "key": "312_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "869",
+        "DOI": "10.3758/s13415-022-01013-z",
+        "volume": "22",
+        "author": "SE Williams",
+        "year": "2022",
+        "unstructured": "Williams, S. E., Ford, J. H. & Kensinger, E. A. The power of negative and positive episodic memories. Cogn. Affect. Behav. Neurosci. 22, 869–903 (2022).",
+        "journal-title": "Cogn. Affect. Behav. Neurosci."
+      },
+      {
+        "key": "312_CR39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/wcs.1620",
+        "volume": "14",
+        "author": "R Fivush",
+        "year": "2022",
+        "unstructured": "Fivush, R. & Grysman, A. Accuracy and reconstruction in autobiographical memory: (re)consolidating neuroscience and sociocultural developmental approaches. Wiley Interdisc. Rev. Cogn. Sci. 14, e1620 (2022).",
+        "journal-title": "Wiley Interdisc. Rev. Cogn. Sci."
+      },
+      {
+        "key": "312_CR40",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Schacter, D. L., Greene, C. M. & Murphy, G. Bias and constructive processes in a self-memory system. Memory https://doi.org/10.1080/09658211.2023.2232568 (2023).",
+        "DOI": "10.1080/09658211.2023.2232568"
+      },
+      {
+        "key": "312_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "91",
+        "DOI": "10.1521/soco.23.1.91.59198",
+        "volume": "23",
+        "author": "S Bluck",
+        "year": "2005",
+        "unstructured": "Bluck, S., Alea, N., Habermas, T. & Rubin, D. C. A tale of three functions: the self-reported uses of autobiographical memory. Soc. Cogn. 23, 91–117 (2005).",
+        "journal-title": "Soc. Cogn."
+      },
+      {
+        "key": "312_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "491",
+        "DOI": "10.1521/soco.22.5.491.50768",
+        "volume": "22",
+        "author": "MA Conway",
+        "year": "2004",
+        "unstructured": "Conway, M. A., Singer, J. A. & Tagini, A. The self and autobiographical memory: correspondence and coherence. Soc. Cogn. 22, 491–529 (2004).",
+        "journal-title": "Soc. Cogn."
+      },
+      {
+        "key": "312_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "166",
+        "DOI": "10.1038/s44159-023-00148-1",
+        "volume": "2",
+        "author": "T Dalgleish",
+        "year": "2023",
+        "unstructured": "Dalgleish, T. & Hitchcock, C. Transdiagnostic distortions in autobiographical memory recollection. Nat. Rev. Psychol. 2, 166–182 (2023).",
+        "journal-title": "Nat. Rev. Psychol."
+      },
+      {
+        "key": "312_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "41",
+        "DOI": "10.1016/j.cortex.2021.11.013",
+        "volume": "147",
+        "author": "AA Wank",
+        "year": "2022",
+        "unstructured": "Wank, A. A. et al. Autobiographical memory unknown: pervasive autobiographical memory loss encompassing personality trait knowledge in an individual with medial temporal lobe amnesia. Cortex 147, 41–57 (2022).",
+        "journal-title": "Cortex"
+      },
+      {
+        "key": "312_CR45",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Clewett, D. & Murty, V. P. Echoes of emotions past: how neuromodulators determine what we recollect. eNeuro https://doi.org/10.1523/ENEURO.0108-18.2019 (2019).",
+        "DOI": "10.1523/ENEURO.0108-18.2019"
+      },
+      {
+        "key": "312_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "88",
+        "DOI": "10.1016/j.plrev.2010.01.006",
+        "volume": "7",
+        "author": "AC Holland",
+        "year": "2010",
+        "unstructured": "Holland, A. C. & Kensinger, E. A. Emotion and autobiographical memory. Phys. Life Rev. 7, 88–131 (2010).",
+        "journal-title": "Phys. Life Rev."
+      },
+      {
+        "key": "312_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "965",
+        "DOI": "10.1037/emo0000603",
+        "volume": "20",
+        "author": "S Simpson",
+        "year": "2020",
+        "unstructured": "Simpson, S. & Sheldon, S. Testing the impact of emotional mood and cue characteristics on detailed autobiographical memory retrieval. Emotion 20, 965–979 (2020).",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "312_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "129",
+        "DOI": "10.2466/09.02.15.PR0.111.4.129-148",
+        "volume": "111",
+        "author": "KD Young",
+        "year": "2012",
+        "unstructured": "Young, K. D., Erickson, K. & Drevets, W. C. Match between cue and memory valence during autobiographical memory recall in depression. Psychol. Rep. 111, 129–148 (2012).",
+        "journal-title": "Psychol. Rep."
+      },
+      {
+        "key": "312_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "519",
+        "DOI": "10.1111/bjop.12160",
+        "volume": "107",
+        "author": "K Barzykowski",
+        "year": "2016",
+        "unstructured": "Barzykowski, K. & Staugaard, S. R. Does retrieval intentionality really matter? Similarities and differences between involuntary memories and directly and generatively retrieved voluntary memories. Br. J. Psychol. 107, 519–536 (2016).",
+        "journal-title": "Br. J. Psychol."
+      },
+      {
+        "key": "312_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "1847",
+        "DOI": "10.1080/17470210701774242",
+        "volume": "61",
+        "author": "SM Janssen",
+        "year": "2008",
+        "unstructured": "Janssen, S. M. & Murre, J. M. Reminiscence bump in autobiographical memory: unexplained by novelty, emotionality, valence, or importance of personal events. Q. J. Exp. Psychol. 61, 1847–1860 (2008).",
+        "journal-title": "Q. J. Exp. Psychol."
+      },
+      {
+        "key": "312_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "173",
+        "DOI": "10.1080/03610730590915010",
+        "volume": "31",
+        "author": "C Comblain",
+        "year": "2005",
+        "unstructured": "Comblain, C., D’Argembeau, A. & Van der Linden, M. Phenomenal characteristics of autobiographical memories for emotional and neutral events in older and younger adults. Exp. Aging Res. 31, 173–189 (2005).",
+        "journal-title": "Exp. Aging Res."
+      },
+      {
+        "key": "312_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "487",
+        "DOI": "10.1177/2167702614542280",
+        "volume": "3",
+        "author": "MC McKinnon",
+        "year": "2015",
+        "unstructured": "McKinnon, M. C. et al. Threat of death and autobiographical memory: a study of passengers from Flight AT236. Clin. Psychol. Sci. 3, 487–502 (2015).",
+        "journal-title": "Clin. Psychol. Sci."
+      },
+      {
+        "key": "312_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "148",
+        "DOI": "10.1080/09658210344000648",
+        "volume": "13",
+        "author": "A Schaefer",
+        "year": "2005",
+        "unstructured": "Schaefer, A. & Philippot, P. Selective effects of emotion on the phenomenal characteristics of autobiographical memories. Memory 13, 148–160 (2005).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "1454",
+        "DOI": "10.1002/acp.3877",
+        "volume": "35",
+        "author": "V Wardell",
+        "year": "2021",
+        "unstructured": "Wardell, V. et al. How emotion influences the details recalled in autobiographical memory. Appl. Cogn. Psychol. 35, 1454–1465 (2021).",
+        "journal-title": "Appl. Cogn. Psychol."
+      },
+      {
+        "key": "312_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "281",
+        "DOI": "10.1002/acp.856",
+        "volume": "17",
+        "author": "A D’Argembeau",
+        "year": "2003",
+        "unstructured": "D’Argembeau, A., Comblain, C. & Van der Linden, M. Phenomenal characteristics of autobiographical memories for positive, negative, and neutral events. Appl. Cogn. Psychol. 17, 281–294 (2003).",
+        "journal-title": "Appl. Cogn. Psychol."
+      },
+      {
+        "key": "312_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "771",
+        "DOI": "10.1080/09658211.2012.704049",
+        "volume": "20",
+        "author": "JH Ford",
+        "year": "2012",
+        "unstructured": "Ford, J. H., Addis, D. R. & Giovanello, K. S. Differential effects of arousal in positive and negative autobiographical memories. Memory 20, 771–778 (2012).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "887",
+        "DOI": "10.3758/BF03196443",
+        "volume": "31",
+        "author": "DC Rubin",
+        "year": "2003",
+        "unstructured": "Rubin, D. C., Schrauf, R. W. & Greenberg, D. L. Belief and recollection of autobiographical memories. Mem. Cogn. 31, 887–901 (2003).",
+        "journal-title": "Mem. Cogn."
+      },
+      {
+        "key": "312_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "1118",
+        "DOI": "10.3758/BF03196886",
+        "volume": "32",
+        "author": "JM Talarico",
+        "year": "2004",
+        "unstructured": "Talarico, J. M., LaBar, K. S. & Rubin, D. C. Emotional intensity predicts autobiographical memory experience. Mem. Cogn. 32, 1118–1132 (2004).",
+        "journal-title": "Mem. Cogn."
+      },
+      {
+        "key": "312_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "393",
+        "DOI": "10.1016/j.tics.2007.08.005",
+        "volume": "11",
+        "author": "GL Clore",
+        "year": "2007",
+        "unstructured": "Clore, G. L. & Huntsinger, J. R. How emotions inform judgment and regulate thought. Trends Cogn. Sci. 11, 393–399 (2007).",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "312_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "925",
+        "DOI": "10.1037/xge0000097",
+        "volume": "144",
+        "author": "CM Fiacconi",
+        "year": "2015",
+        "unstructured": "Fiacconi, C. M., Dekraker, J. & Köhler, S. Psychophysiological evidence for the role of emotion in adaptive memory. J. Exp. Psychol. 144, 925–933 (2015).",
+        "journal-title": "J. Exp. Psychol."
+      },
+      {
+        "key": "312_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "833",
+        "DOI": "10.1080/02699930902738863",
+        "volume": "23",
+        "author": "LJ Levine",
+        "year": "2009",
+        "unstructured": "Levine, L. J. & Edelstein, R. S. Emotion and memory narrowing: a review and goal-relevance approach. Cogn. Emot. 23, 833–875 (2009).",
+        "journal-title": "Cogn. Emot."
+      },
+      {
+        "key": "312_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "24",
+        "DOI": "10.1525/collabra.111",
+        "volume": "3",
+        "author": "CR Madan",
+        "year": "2017",
+        "unstructured": "Madan, C. R. Motivated cognition: effects of reward, emotion, and other motivational factors across a variety of cognitive domains. Coll. Psychol. 3, 24 (2017).",
+        "journal-title": "Coll. Psychol."
+      },
+      {
+        "key": "312_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "176",
+        "DOI": "10.1111/j.1467-9280.2008.02064.x",
+        "volume": "19",
+        "author": "JS Nairne",
+        "year": "2008",
+        "unstructured": "Nairne, J. S., Pandeirada, J. N. S. & Thompson, S. R. Adaptive memory: the comparative value of survival processing. Psychol. Sci. 19, 176–180 (2008).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.1146/annurev-psych-010419-051044",
+        "volume": "71",
+        "author": "RM Todd",
+        "year": "2020",
+        "unstructured": "Todd, R. M., Miskovic, V., Chikazoe, J. & Anderson, A. K. Emotional objectivity: neural representations of emotions and their interaction with cognition. Annu. Rev. Psychol. 71, 25–48 (2020).",
+        "journal-title": "Annu. Rev. Psychol."
+      },
+      {
+        "key": "312_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "715",
+        "DOI": "10.1080/09658211.2023.2190570",
+        "volume": "31",
+        "author": "N Cheriet",
+        "year": "2023",
+        "unstructured": "Cheriet, N., Topçu, M., Hirst, W., Bastin, C. & Folville, A. A day that America will remember: flashbulb memory, collective memory, and future thinking for the capitol riots. Memory 31, 715–731 (2023).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "305",
+        "DOI": "10.1080/09658211.2021.1891253",
+        "volume": "29",
+        "author": "A Cordonnier",
+        "year": "2021",
+        "unstructured": "Cordonnier, A. & Luminet, O. Consistency and social identification: a test–retest study of flashbulb memories collected on the day of the 2016 Brussels bombings. Memory 29, 305–318 (2021).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "529",
+        "DOI": "10.1080/09658211.2014.908923",
+        "volume": "23",
+        "author": "A Curci",
+        "year": "2015",
+        "unstructured": "Curci, A., Lanciano, T., Maddalena, C., Mastandrea, S. & Sartori, G. Flashbulb memories of the pope’s resignation: explicit and implicit measures across differing religious groups. Memory 23, 529–544 (2015).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR68",
+        "doi-asserted-by": "publisher",
+        "first-page": "985287",
+        "DOI": "10.3389/fpsyg.2022.985287",
+        "volume": "13",
+        "author": "X Ma",
+        "year": "2022",
+        "unstructured": "Ma, X. & Wan, J. Exploring the role of digital media dependency on the relationship between personal involvement and flashbulb memory during the pandemic: empirical evidence from mainland China. Front. Psychol. 13, 985287 (2022).",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "312_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "766",
+        "DOI": "10.1080/09658211.2020.1778035",
+        "volume": "28",
+        "author": "B Muzzulini",
+        "year": "2020",
+        "unstructured": "Muzzulini, B., Tinti, C., Conway, M. A., Testa, S. & Schmidt, S. Flashbulb memory: referring back to Brown and Kulik’s definition. Memory 28, 766–782 (2020).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR70",
+        "doi-asserted-by": "publisher",
+        "first-page": "359",
+        "DOI": "10.1177/1750698017714835",
+        "volume": "12",
+        "author": "JM Talarico",
+        "year": "2019",
+        "unstructured": "Talarico, J. M., Kraha, A., Self, H. & Boals, A. How did you hear the news? The role of traditional media, social media, and personal communication in flashbulb memory. Mem. Stud. 12, 359–376 (2019).",
+        "journal-title": "Mem. Stud."
+      },
+      {
+        "key": "312_CR71",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Talarico, J. M. & Rubin, D. C. in Flashbulb Memories 2nd edn (eds Luminet, O. & Curci, A.) 73–95 (Routledge, 2017).",
+        "DOI": "10.4324/9781315623481-5"
+      },
+      {
+        "key": "312_CR72",
+        "doi-asserted-by": "publisher",
+        "first-page": "161",
+        "DOI": "10.1037/a0015527",
+        "volume": "138",
+        "author": "W Hirst",
+        "year": "2009",
+        "unstructured": "Hirst, W. et al. Long-term memory for the terrorist attack of September 11: flashbulb memories, event memories, and the factors that influence their retention. J. Exp. Psychol. 138, 161–176 (2009).",
+        "journal-title": "J. Exp. Psychol."
+      },
+      {
+        "key": "312_CR73",
+        "doi-asserted-by": "publisher",
+        "first-page": "452",
+        "DOI": "10.1080/09658210500477709",
+        "volume": "14",
+        "author": "E Coluccia",
+        "year": "2006",
+        "unstructured": "Coluccia, E., Bianco, C. & Brandimonte, M. A. Dissociating veridicality, consistency, and confidence in autobiographical and event memories for the columbia shuttle disaster. Memory 14, 452–470 (2006).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR74",
+        "doi-asserted-by": "publisher",
+        "first-page": "557",
+        "DOI": "10.1002/acp.1293",
+        "volume": "21",
+        "author": "JM Talarico",
+        "year": "2007",
+        "unstructured": "Talarico, J. M. & Rubin, D. C. Flashbulb memories are special after all; in phenomenology, not accuracy. Appl. Cogn. Psychol. 21, 557–578 (2007).",
+        "journal-title": "Appl. Cogn. Psychol."
+      },
+      {
+        "key": "312_CR75",
+        "doi-asserted-by": "publisher",
+        "first-page": "935",
+        "DOI": "10.1016/j.cpr.2005.04.011",
+        "volume": "25",
+        "author": "AE van Giezen",
+        "year": "2005",
+        "unstructured": "van Giezen, A. E., Arensman, E., Spinhoven, P. & Wolters, G. Consistency of memory for emotionally arousing events: a review of prospective and experimental studies. Clin. Psychol. Rev. 25, 935–953 (2005).",
+        "journal-title": "Clin. Psychol. Rev."
+      },
+      {
+        "key": "312_CR76",
+        "doi-asserted-by": "publisher",
+        "first-page": "52",
+        "DOI": "10.1037/emo0000788",
+        "volume": "23",
+        "author": "J Raw",
+        "year": "2023",
+        "unstructured": "Raw, J., Rorke, A., Ellis, J., Murayama, K. & Sakaki, M. Memory of the U.K.’s 2016 EU referendum: the effects of valence on the long-term measures of a public event. Emotion 23, 52–74 (2023).",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "312_CR77",
+        "doi-asserted-by": "publisher",
+        "first-page": "36",
+        "DOI": "10.1177/0963721415622487",
+        "volume": "25",
+        "author": "W Hirst",
+        "year": "2016",
+        "unstructured": "Hirst, W. & Phelps, E. A. Flashbulb memories. Curr. Dir. Psychol. 25, 36–41 (2016).",
+        "journal-title": "Curr. Dir. Psychol."
+      },
+      {
+        "key": "312_CR78",
+        "doi-asserted-by": "publisher",
+        "first-page": "209",
+        "DOI": "10.1080/096582100406775",
+        "volume": "8",
+        "author": "RG Winningham",
+        "year": "2000",
+        "unstructured": "Winningham, R. G., Hyman, I. E. & Dinnel, D. L. Flashbulb memories? The effects of when the initial memory report was obtained. Memory 8, 209–216 (2000).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR79",
+        "doi-asserted-by": "publisher",
+        "first-page": "556",
+        "DOI": "10.1016/j.jml.2009.07.004",
+        "volume": "61",
+        "author": "L Kvavilashvili",
+        "year": "2009",
+        "unstructured": "Kvavilashvili, L., Mirani, J., Schlagman, S., Foley, K. & Kornbrot, D. E. Consistency of flashbulb memories of September 11 over long delays: implications for consolidation and wrong time slice hypotheses. J. Mem. Lang. 61, 556–572 (2009).",
+        "journal-title": "J. Mem. Lang."
+      },
+      {
+        "key": "312_CR80",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1111/1467-9280.00212",
+        "volume": "11",
+        "author": "H Schmolck",
+        "year": "2000",
+        "unstructured": "Schmolck, H., Buffalo, E. A. & Squire, L. R. Memory distortions develop over time: recollections of the O. J. Simpson trial verdict after 15 and 32 months. Psychol. Sci. 11, 39–45 (2000).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR81",
+        "doi-asserted-by": "publisher",
+        "first-page": "196",
+        "DOI": "10.1080/13825580490904192",
+        "volume": "13",
+        "author": "PSR Davidson",
+        "year": "2006",
+        "unstructured": "Davidson, P. S. R., Cook, S. P. & Glisky, E. L. Flashbulb memories for September 11th can be preserved in older adults. Aging Neuropsychol. Cogn. 13, 196–206 (2006).",
+        "journal-title": "Aging Neuropsychol. Cogn."
+      },
+      {
+        "key": "312_CR82",
+        "doi-asserted-by": "publisher",
+        "first-page": "391",
+        "DOI": "10.1037/a0017532",
+        "volume": "25",
+        "author": "L Kvavilashvili",
+        "year": "2010",
+        "unstructured": "Kvavilashvili, L., Mirani, J., Schlagman, S., Erskine, J. A. K. & Kornbrot, D. E. Effects of age on phenomenology and consistency of flashbulb memories of September 11 and a staged control event. Psychol. Aging 25, 391–404 (2010).",
+        "journal-title": "Psychol. Aging"
+      },
+      {
+        "key": "312_CR83",
+        "doi-asserted-by": "publisher",
+        "first-page": "757",
+        "DOI": "10.3758/BF03193993",
+        "volume": "13",
+        "author": "EA Kensinger",
+        "year": "2006",
+        "unstructured": "Kensinger, E. A. & Schacter, D. L. When the Red Sox shocked the Yankees: comparing negative and positive memories. Psychon. Bull. Rev. 13, 757–763 (2006).",
+        "journal-title": "Psychon. Bull. Rev."
+      },
+      {
+        "key": "312_CR84",
+        "doi-asserted-by": "publisher",
+        "first-page": "21",
+        "DOI": "10.1101/lm.032409.113",
+        "volume": "21",
+        "author": "JA Bisby",
+        "year": "2014",
+        "unstructured": "Bisby, J. A. & Burgess, N. Negative affect impairs associative memory but not item memory. Learn. Mem. 21, 21–27 (2014).",
+        "journal-title": "Learn. Mem."
+      },
+      {
+        "key": "312_CR85",
+        "doi-asserted-by": "publisher",
+        "first-page": "981",
+        "DOI": "10.1093/scan/nsw028",
+        "volume": "11",
+        "author": "JA Bisby",
+        "year": "2016",
+        "unstructured": "Bisby, J. A., Horner, A. J., Hørlyck, L. D. & Burgess, N. Opposing effects of negative emotion on amygdalar and hippocampal memory for items and associations. Soc. Cogn. Affect. 11, 981–990 (2016).",
+        "journal-title": "Soc. Cogn. Affect."
+      },
+      {
+        "key": "312_CR86",
+        "doi-asserted-by": "publisher",
+        "first-page": "1745",
+        "DOI": "10.1080/02699931.2019.1602028",
+        "volume": "33",
+        "author": "JB Caplan",
+        "year": "2019",
+        "unstructured": "Caplan, J. B., Sommer, T., Madan, C. R. & Fujiwara, E. Reduced associative memory for negative information: impact of confidence and interactive imagery during study. Cogn. Emot. 33, 1745–1753 (2019).",
+        "journal-title": "Cogn. Emot."
+      },
+      {
+        "key": "312_CR87",
+        "doi-asserted-by": "publisher",
+        "first-page": "76",
+        "DOI": "10.1101/lm.052480.120",
+        "volume": "28",
+        "author": "E Fujiwara",
+        "year": "2021",
+        "unstructured": "Fujiwara, E., Madan, C. R., Caplan, J. B. & Sommer, T. Emotional arousal impairs association memory: roles of prefrontal cortex regions. Learn. Mem. 28, 76–81 (2021).",
+        "journal-title": "Learn. Mem."
+      },
+      {
+        "key": "312_CR88",
+        "doi-asserted-by": "publisher",
+        "first-page": "695",
+        "DOI": "10.1016/j.jml.2012.04.001",
+        "volume": "66",
+        "author": "CR Madan",
+        "year": "2012",
+        "unstructured": "Madan, C. R., Caplan, J. B., Lau, C. S. M. & Fujiwara, E. Emotional arousal does not enhance association-memory. J. Mem. Lang. 66, 695–716 (2012).",
+        "journal-title": "J. Mem. Lang."
+      },
+      {
+        "key": "312_CR89",
+        "doi-asserted-by": "publisher",
+        "first-page": "14",
+        "DOI": "10.1016/j.neuroimage.2017.04.065",
+        "volume": "156",
+        "author": "CR Madan",
+        "year": "2017",
+        "unstructured": "Madan, C. R., Fujiwara, E., Caplan, J. B. & Sommer, T. Emotional arousal impairs association-memory: roles of amygdala and hippocampus. NeuroImage 156, 14–28 (2017).",
+        "journal-title": "NeuroImage"
+      },
+      {
+        "key": "312_CR90",
+        "doi-asserted-by": "publisher",
+        "first-page": "1104",
+        "DOI": "10.1177/0956797621991548",
+        "volume": "32",
+        "author": "DJ Palombo",
+        "year": "2021",
+        "unstructured": "Palombo, D. J., Te, A. A., Checknita, K. J. & Madan, C. R. Exploring the facets of emotional episodic memory: remembering ‘what’, ‘when’ and ‘which’. Psychol. Sci. 32, 1104–1114 (2021).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR91",
+        "doi-asserted-by": "publisher",
+        "first-page": "961",
+        "DOI": "10.1037/emo0001147",
+        "volume": "23",
+        "author": "CI Stewardson",
+        "year": "2023",
+        "unstructured": "Stewardson, C. I., Hunsche, M. C., Wardell, V., Palombo, D. J. & Kerns, C. M. Episodic memory through a social and emotional lens. Emotion 23, 961–972 (2023).",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "312_CR92",
+        "doi-asserted-by": "publisher",
+        "first-page": "103",
+        "DOI": "10.3389/fpsyg.2013.00103",
+        "volume": "4",
+        "author": "Y Chiu",
+        "year": "2013",
+        "unstructured": "Chiu, Y., Dolcos, F., Gonsalves, B. D. & Cohen, N. J. On opposing effects of emotion on contextual or relational memory. Front. Psychol. 4, 103 (2013).",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "312_CR93",
+        "doi-asserted-by": "publisher",
+        "first-page": "575",
+        "DOI": "10.1016/j.jml.2006.05.004",
+        "volume": "56",
+        "author": "EA Kensinger",
+        "year": "2007",
+        "unstructured": "Kensinger, E. A., Garoff-Eaton, R. J. & Schacter, D. L. Effects of emotion on memory specificity: memory trade-offs elicited by negative visually arousing stimuli. J. Mem. Lang. 56, 575–591 (2007).",
+        "journal-title": "J. Mem. Lang."
+      },
+      {
+        "key": "312_CR94",
+        "doi-asserted-by": "publisher",
+        "first-page": "733",
+        "DOI": "10.1037/emo0000465",
+        "volume": "19",
+        "author": "CR Madan",
+        "year": "2019",
+        "unstructured": "Madan, C. R., Scott, S. M. E. & Kensinger, E. A. Positive emotion enhances association-memory. Emotion 19, 733–740 (2019).",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "312_CR95",
+        "doi-asserted-by": "publisher",
+        "first-page": "1255",
+        "DOI": "10.1080/02699931.2010.540821",
+        "volume": "25",
+        "author": "NS Yegiyan",
+        "year": "2011",
+        "unstructured": "Yegiyan, N. S. & Yonelinas, A. P. Encoding details: positive emotion leads to memory broadening. Cogn. Emot. 25, 1255–1262 (2011).",
+        "journal-title": "Cogn. Emot."
+      },
+      {
+        "key": "312_CR96",
+        "doi-asserted-by": "publisher",
+        "first-page": "870",
+        "DOI": "10.3758/s13423-017-1313-9",
+        "volume": "25",
+        "author": "HJ Bowen",
+        "year": "2018",
+        "unstructured": "Bowen, H. J., Kark, S. M. & Kensinger, E. A. NEVER forget: negative emotional valence enhances recapitulation. Psychol. Bull. Rev. 25, 870–891 (2018).",
+        "journal-title": "Psychol. Bull. Rev."
+      },
+      {
+        "key": "312_CR97",
+        "doi-asserted-by": "publisher",
+        "first-page": "512",
+        "DOI": "10.1038/nn1413",
+        "volume": "8",
+        "author": "R Adolphs",
+        "year": "2005",
+        "unstructured": "Adolphs, R., Tranel, D. & Buchanan, T. Amygdala damage impairs emotional memory for gist but not details of complex stimuli. Nat. Neurosci. 8, 512–518 (2005).",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "312_CR98",
+        "doi-asserted-by": "publisher",
+        "first-page": "510",
+        "DOI": "10.1037/mac0000015",
+        "volume": "11",
+        "author": "DK Dev",
+        "year": "2022",
+        "unstructured": "Dev, D. K. et al. Negative emotion enhances memory for the sequential unfolding of a naturalistic experience. J. Appl. Res. Mem. Cogn. 11, 510–521 (2022).",
+        "journal-title": "J. Appl. Res. Mem. Cogn."
+      },
+      {
+        "key": "312_CR99",
+        "doi-asserted-by": "publisher",
+        "first-page": "1149",
+        "DOI": "10.3758/BF03196888",
+        "volume": "32",
+        "author": "C Laney",
+        "year": "2004",
+        "unstructured": "Laney, C., Campbell, H. V., Heuer, F. & Reisberg, D. Memory for thematically arousing events. Mem. Cogn. 32, 1149–1159 (2004).",
+        "journal-title": "Mem. Cogn."
+      },
+      {
+        "key": "312_CR100",
+        "doi-asserted-by": "publisher",
+        "first-page": "1173",
+        "DOI": "10.3389/fpsyg.2015.01173",
+        "volume": "6",
+        "author": "T Lee",
+        "year": "2015",
+        "unstructured": "Lee, T., Greening, S. G. & Mather, M. Encoding of goal-relevant stimuli is strengthened by emotional arousal in memory. Front. Psychol. 6, 1173–1173 (2015).",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "312_CR101",
+        "doi-asserted-by": "publisher",
+        "first-page": "55",
+        "DOI": "10.1007/BF01044839",
+        "volume": "11",
+        "author": "EF Loftus",
+        "year": "1987",
+        "unstructured": "Loftus, E. F., Loftus, G. R. & Messo, J. Some facts about “weapon focus”. Law Hum. Behav. 11, 55–62 (1987).",
+        "journal-title": "Law Hum. Behav."
+      },
+      {
+        "key": "312_CR102",
+        "doi-asserted-by": "publisher",
+        "first-page": "114",
+        "DOI": "10.1177/1745691611400234",
+        "volume": "6",
+        "author": "M Mather",
+        "year": "2011",
+        "unstructured": "Mather, M. & Sutherland, M. R. Arousal-biased competition in perception and memory. Perspect. Psychol. Sci. 6, 114–133 (2011).",
+        "journal-title": "Perspect. Psychol. Sci."
+      },
+      {
+        "key": "312_CR103",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1002/acp.854",
+        "volume": "17",
+        "author": "R Fivush",
+        "year": "2003",
+        "unstructured": "Fivush, R., Hazzard, A., McDermott Sales, J., Sarfati, D. & Brown, T. Creating coherence out of chaos? Children’s narratives of emotionally positive and negative events. Appl. Cogn. Psychol. 17, 1–19 (2003).",
+        "journal-title": "Appl. Cogn. Psychol."
+      },
+      {
+        "key": "312_CR104",
+        "doi-asserted-by": "publisher",
+        "first-page": "11",
+        "DOI": "10.1037/abn0000126",
+        "volume": "125",
+        "author": "DC Rubin",
+        "year": "2016",
+        "unstructured": "Rubin, D. C. et al. Participant, rater, and computer measures of coherence in posttraumatic stress disorder. J. Abnorm. Psychol. 125, 11–25 (2016).",
+        "journal-title": "J. Abnorm. Psychol."
+      },
+      {
+        "key": "312_CR105",
+        "doi-asserted-by": "publisher",
+        "first-page": "296",
+        "DOI": "10.1007/s12124-015-9330-6",
+        "volume": "50",
+        "author": "A Smorti",
+        "year": "2016",
+        "unstructured": "Smorti, A. & Fioretti, C. Why narrating changes memory: a contribution to an integrative model of memory and narrative processes. Integr. Psych. Behav. 50, 296–319 (2016).",
+        "journal-title": "Integr. Psych. Behav."
+      },
+      {
+        "key": "312_CR106",
+        "doi-asserted-by": "publisher",
+        "first-page": "569",
+        "DOI": "10.1111/jopy.12005",
+        "volume": "81",
+        "author": "JA Singer",
+        "year": "2013",
+        "unstructured": "Singer, J. A., Blagov, P., Berry, M. & Oost, K. M. Self-defining memories, scripts, and the life story: narrative identity in personality and psychotherapy. J. Pers. 81, 569–582 (2013).",
+        "journal-title": "J. Pers."
+      },
+      {
+        "key": "312_CR107",
+        "doi-asserted-by": "publisher",
+        "first-page": "129",
+        "DOI": "10.1080/09658210601119762",
+        "volume": "15",
+        "author": "PL St. Jacques",
+        "year": "2007",
+        "unstructured": "St. Jacques, P. L. & Levine, B. Ageing and autobiographical memory for emotional and neutral events. Memory 15, 129–144 (2007).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR108",
+        "doi-asserted-by": "publisher",
+        "first-page": "1006",
+        "DOI": "10.1080/09658211.2021.1955934",
+        "volume": "29",
+        "author": "F Dégeilh",
+        "year": "2021",
+        "unstructured": "Dégeilh, F. et al. Changes over 10 years in the retelling of the flashbulb memories of the attack of 11 September 2001. Memory 29, 1006–1016 (2021).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR109",
+        "doi-asserted-by": "publisher",
+        "first-page": "406",
+        "DOI": "10.1080/09658211.2011.578073",
+        "volume": "19",
+        "author": "J Campbell",
+        "year": "2011",
+        "unstructured": "Campbell, J., Nadel, L., Duke, D. & Ryan, L. Remembering all that and then some: recollection of autobiographical memories after a 1-year delay. Memory 19, 406–415 (2011).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR110",
+        "doi-asserted-by": "publisher",
+        "first-page": "10421",
+        "DOI": "10.1016/j.cognition.2020.104217",
+        "volume": "198",
+        "author": "S Sheldon",
+        "year": "2020",
+        "unstructured": "Sheldon, S., Williams, K., Harrington, S. & Otto, A. R. Emotional cue effects on accessing and elaborating upon autobiographical memories. Cognition 198, 10421 (2020).",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "312_CR111",
+        "doi-asserted-by": "publisher",
+        "first-page": "2239",
+        "DOI": "10.1016/j.neuron.2021.04.025",
+        "volume": "109",
+        "author": "A Gilboa",
+        "year": "2021",
+        "unstructured": "Gilboa, A. & Moscovitch, M. No consolidation without representation: correspondence between neural and psychological representations in recent and remote memory. Neuron 109, 2239–2255 (2021).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "312_CR112",
+        "doi-asserted-by": "publisher",
+        "first-page": "427",
+        "DOI": "10.3758/BF03195836",
+        "volume": "32",
+        "author": "D Berntsen",
+        "year": "2004",
+        "unstructured": "Berntsen, D. & Rubin, D. C. Cultural life scripts structure recall from autobiographical memory. Mem. Cogn. 32, 427–442 (2004).",
+        "journal-title": "Mem. Cogn."
+      },
+      {
+        "key": "312_CR113",
+        "doi-asserted-by": "publisher",
+        "unstructured": "McAdams, D. P. ‘First we invented stories, then they changed us’: the evolution of narrative identity. Evol. Stud. Imaginative Cult. https://doi.org/10.26613/esic.3.1.110 (2019).",
+        "DOI": "10.26613/esic.3.1.110"
+      },
+      {
+        "key": "312_CR114",
+        "doi-asserted-by": "publisher",
+        "first-page": "318",
+        "DOI": "10.1159/000445817",
+        "volume": "58",
+        "author": "KC McLean",
+        "year": "2016",
+        "unstructured": "McLean, K. C. & Syed, M. Personal, master, and alternative narratives: an integrative framework for understanding identity development in context. Hum. Dev. 58, 318–349 (2016).",
+        "journal-title": "Hum. Dev."
+      },
+      {
+        "key": "312_CR115",
+        "doi-asserted-by": "publisher",
+        "first-page": "709",
+        "DOI": "10.1016/j.neuron.2017.06.041",
+        "volume": "95",
+        "author": "C Baldassano",
+        "year": "2017",
+        "unstructured": "Baldassano, C. et al. Discovering event structure in continuous narrative perception and memory. Neuron 95, 709–721.e5 (2017).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "312_CR116",
+        "doi-asserted-by": "publisher",
+        "first-page": "2339",
+        "DOI": "10.1016/j.neuropsychologia.2010.04.016",
+        "volume": "48",
+        "author": "G Winocur",
+        "year": "2010",
+        "unstructured": "Winocur, G., Moscovitch, M. & Bontempi, B. Memory formation and long-term retention in humans and animals: convergence towards a transformation account of hippocampal–neocortical interactions. Neuropsychologia 48, 2339–2356 (2010).",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "312_CR117",
+        "doi-asserted-by": "publisher",
+        "first-page": "1297",
+        "DOI": "10.1093/cercor/bht324",
+        "volume": "25",
+        "author": "C McCormick",
+        "year": "2015",
+        "unstructured": "McCormick, C., St-Laurent, M., Ty, A., Valiante, T. A. & McAndrews, M. P. Functional and effective hippocampal-neocortical connectivity during construction and elaboration of autobiographical memory retrieval. Cereb. Cortex 25, 1297–1305 (2015).",
+        "journal-title": "Cereb. Cortex"
+      },
+      {
+        "key": "312_CR118",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1016/j.neulet.2018.05.006",
+        "volume": "680",
+        "author": "MJ Sekeres",
+        "year": "2018",
+        "unstructured": "Sekeres, M. J., Winocur, G. & Moscovitch, M. The hippocampus and related neocortical structures in memory transformation. Neurosci. Lett. 680, 39–53 (2018).",
+        "journal-title": "Neurosci. Lett."
+      },
+      {
+        "key": "312_CR119",
+        "doi-asserted-by": "publisher",
+        "first-page": "710",
+        "DOI": "10.1111/tops.12358",
+        "volume": "11",
+        "author": "LM Bietti",
+        "year": "2019",
+        "unstructured": "Bietti, L. M., Tilston, O. & Bangerter, A. Storytelling as adaptive collective sensemaking. Top. Cogn. Sci. 11, 710–732 (2019).",
+        "journal-title": "Top. Cogn. Sci."
+      },
+      {
+        "key": "312_CR120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/wcs.1444",
+        "volume": "9",
+        "author": "B Boyd",
+        "year": "2018",
+        "unstructured": "Boyd, B. The evolution of stories: from mimesis to language, from fact to fiction. Wiley Interdisc. Rev. Cogn. Sci. 9, e1444 (2018).",
+        "journal-title": "Wiley Interdisc. Rev. Cogn. Sci."
+      },
+      {
+        "key": "312_CR121",
+        "doi-asserted-by": "publisher",
+        "first-page": "100",
+        "DOI": "10.1037/1089-2680.5.2.100",
+        "volume": "5",
+        "author": "DP McAdams",
+        "year": "2001",
+        "unstructured": "McAdams, D. P. The psychology of life stories. Rev. Gen. Psychol. 5, 100–122 (2001).",
+        "journal-title": "Rev. Gen. Psychol."
+      },
+      {
+        "key": "312_CR122",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-022-32113-6",
+        "volume": "13",
+        "author": "B Bellana",
+        "year": "2022",
+        "unstructured": "Bellana, B., Mahabal, A. & Honey, C. J. Narrative thinking lingers in spontaneous thought. Nat. Commun. 13, 4585 (2022).",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "312_CR123",
+        "doi-asserted-by": "publisher",
+        "first-page": "755783",
+        "DOI": "10.3389/fpsyg.2021.755783",
+        "volume": "12",
+        "author": "E Garcia-Pelegrin",
+        "year": "2021",
+        "unstructured": "Garcia-Pelegrin, E., Wilkins, C. & Clayton, N. S. The ape that lived to tell the tale. The evolution of the art of storytelling and its relationship to mental time travel and theory of mind. Front. Psychol. 12, 755783 (2021).",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "312_CR124",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-017-02036-8",
+        "volume": "8",
+        "author": "D Smith",
+        "year": "2017",
+        "unstructured": "Smith, D. et al. Cooperation and the evolution of hunter-gatherer storytelling. Nat. Commun. 8, 1853 (2017).",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "312_CR125",
+        "doi-asserted-by": "publisher",
+        "first-page": "203",
+        "DOI": "10.1037/0022-3514.88.1.203",
+        "volume": "88",
+        "author": "JJ Bauer",
+        "year": "2005",
+        "unstructured": "Bauer, J. J., McAdams, D. P. & Sakaeda, A. R. Interpreting the good life: growth memories in the lives of mature, happy people. J. Pers. Soc. Psychol. 88, 203–217 (2005).",
+        "journal-title": "J. Pers. Soc. Psychol."
+      },
+      {
+        "key": "312_CR126",
+        "doi-asserted-by": "publisher",
+        "first-page": "543",
+        "DOI": "10.1111/j.0022-3506.2004.00272.x",
+        "volume": "72",
+        "author": "S Bluck",
+        "year": "2004",
+        "unstructured": "Bluck, S. & Glück, J. Making things better and learning a lesson: experiencing wisdom across the lifespan. J. Pers. 72, 543–572 (2004).",
+        "journal-title": "J. Pers."
+      },
+      {
+        "key": "312_CR127",
+        "doi-asserted-by": "publisher",
+        "first-page": "1190",
+        "DOI": "10.1037/a0024940",
+        "volume": "11",
+        "author": "D Berntsen",
+        "year": "2011",
+        "unstructured": "Berntsen, D., Rubin, D. C. & Siegler, I. C. Two versions of life: emotionally negative and positive life events have different roles in the organization of life story and identity. Emotion 11, 1190–1201 (2011).",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "312_CR128",
+        "doi-asserted-by": "publisher",
+        "first-page": "594",
+        "DOI": "10.1016/j.jml.2005.08.005",
+        "volume": "53",
+        "author": "MA Conway",
+        "year": "2005",
+        "unstructured": "Conway, M. A. Memory and the self. J. Mem. Lang. 53, 594–628 (2005).",
+        "journal-title": "J. Mem. Lang."
+      },
+      {
+        "key": "312_CR129",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.jarmac.2015.12.003",
+        "volume": "5",
+        "author": "VF Reyna",
+        "year": "2016",
+        "unstructured": "Reyna, V. F., Corbin, J. C., Weldon, R. B. & Brainerd, C. J. How fuzzy-trace theory predicts true and false memories for words, sentences, and narratives. J. Appl. Res. Mem. Cogn. 5, 1–9 (2016).",
+        "journal-title": "J. Appl. Res. Mem. Cogn."
+      },
+      {
+        "key": "312_CR130",
+        "doi-asserted-by": "publisher",
+        "first-page": "15",
+        "DOI": "10.1016/j.cobeha.2020.01.015",
+        "volume": "32",
+        "author": "BE Sherman",
+        "year": "2020",
+        "unstructured": "Sherman, B. E., Graves, K. N. & Turk-Browne, N. B. The prevalence and importance of statistical learning in human cognition and behavior. Curr. Opin. Behav. Sci. 32, 15–20 (2020).",
+        "journal-title": "Curr. Opin. Behav. Sci."
+      },
+      {
+        "key": "312_CR131",
+        "doi-asserted-by": "publisher",
+        "first-page": "128",
+        "DOI": "10.1016/j.jarmac.2016.03.005",
+        "volume": "5",
+        "author": "NR Brown",
+        "year": "2016",
+        "unstructured": "Brown, N. R. Transition theory: a minimalist perspective on the organization of autobiographical memory. J. Appl. Res. Mem. Cogn. 5, 128–134 (2016).",
+        "journal-title": "J. Appl. Res. Mem. Cogn."
+      },
+      {
+        "key": "312_CR132",
+        "doi-asserted-by": "publisher",
+        "first-page": "87",
+        "DOI": "10.1007/s13164-021-00581-2",
+        "volume": "14",
+        "author": "R Dings",
+        "year": "2023",
+        "unstructured": "Dings, R. & Newen, A. Constructing the past: the relevance of the narrative self in modulating episodic memory. Rev. Phil. Psychol. 14, 87–112 (2023).",
+        "journal-title": "Rev. Phil. Psychol."
+      },
+      {
+        "key": "312_CR133",
+        "doi-asserted-by": "publisher",
+        "first-page": "367",
+        "DOI": "10.1037/a0025289",
+        "volume": "102",
+        "author": "JM Adler",
+        "year": "2012",
+        "unstructured": "Adler, J. M. Living into the story: agency and coherence in a longitudinal study of narrative identity development and mental health over the course of psychotherapy. J. Pers. Soc. Psychol. 102, 367–389 (2012).",
+        "journal-title": "J. Pers. Soc. Psychol."
+      },
+      {
+        "key": "312_CR134",
+        "doi-asserted-by": "publisher",
+        "first-page": "198",
+        "DOI": "10.1080/09658210903143858",
+        "volume": "18",
+        "author": "J Baddeley",
+        "year": "2010",
+        "unstructured": "Baddeley, J. & Singer, J. A. A loss in the family: silence, memory, and narrative identity after bereavement. Memory 18, 198–207 (2010).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR135",
+        "doi-asserted-by": "publisher",
+        "first-page": "469",
+        "DOI": "10.1007/s11019-012-9435-3",
+        "volume": "16",
+        "author": "C Laranjeira",
+        "year": "2013",
+        "unstructured": "Laranjeira, C. The role of narrative and metaphor in the cancer life story: a theoretical analysis. Med. Health Care Phil. 16, 469–481 (2013).",
+        "journal-title": "Med. Health Care Phil."
+      },
+      {
+        "key": "312_CR136",
+        "doi-asserted-by": "publisher",
+        "first-page": "476",
+        "DOI": "10.1037/a0038601",
+        "volume": "108",
+        "author": "JM Adler",
+        "year": "2015",
+        "unstructured": "Adler, J. M. et al. Variation in narrative identity is associated with trajectories of mental health over several years. J. Pers. Soc. Psychol. 108, 476–496 (2015).",
+        "journal-title": "J. Pers. Soc. Psychol."
+      },
+      {
+        "key": "312_CR137",
+        "doi-asserted-by": "publisher",
+        "first-page": "573",
+        "DOI": "10.1111/j.0022-3506.2004.00273.x",
+        "volume": "72",
+        "author": "JJ Bauer",
+        "year": "2004",
+        "unstructured": "Bauer, J. J. & McAdams, D. P. Personal growth in adults’ stories of life transitions. J. Pers. 72, 573–602 (2004).",
+        "journal-title": "J. Pers."
+      },
+      {
+        "key": "312_CR138",
+        "doi-asserted-by": "publisher",
+        "first-page": "1371",
+        "DOI": "10.1111/j.1467-6494.2006.00412.x",
+        "volume": "74",
+        "author": "DP McAdams",
+        "year": "2006",
+        "unstructured": "McAdams, D. P. et al. Continuity and change in the life story: a longitudinal study of autobiographical memories in emerging adulthood. J. Pers. 74, 1371–1400 (2006).",
+        "journal-title": "J. Pers."
+      },
+      {
+        "key": "312_CR139",
+        "doi-asserted-by": "publisher",
+        "first-page": "233",
+        "DOI": "10.1177/0963721413475622",
+        "volume": "22",
+        "author": "DP McAdams",
+        "year": "2013",
+        "unstructured": "McAdams, D. P. & McLean, K. C. Narrative identity. Curr. Dir. Psychol. 22, 233–238 (2013).",
+        "journal-title": "Curr. Dir. Psychol."
+      },
+      {
+        "key": "312_CR140",
+        "first-page": "1",
+        "volume": "131",
+        "author": "T Habermas",
+        "year": "2011",
+        "unstructured": "Habermas, T. Autobiographical reasoning: arguing and narrating from a biographical perspective. N. Dir. Youth Dev. 131, 1–17 (2011).",
+        "journal-title": "N. Dir. Youth Dev."
+      },
+      {
+        "key": "312_CR141",
+        "doi-asserted-by": "publisher",
+        "first-page": "540",
+        "DOI": "10.1080/09658210600590302",
+        "volume": "14",
+        "author": "WF Brewer",
+        "year": "2006",
+        "unstructured": "Brewer, W. F. & Sampaio, C. Processes leading to confidence and accuracy in sentence recognition: a metamemory approach. Memory 14, 540–552 (2006).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR142",
+        "doi-asserted-by": "publisher",
+        "first-page": "108",
+        "DOI": "10.1126/science.1203557",
+        "volume": "333",
+        "author": "M Edelson",
+        "year": "2011",
+        "unstructured": "Edelson, M., Sharot, T., Dolan, R. J. & Dudai, Y. Following the crowd: brain substrates of long-term memory conformity. Science 333, 108–111 (2011).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "312_CR143",
+        "doi-asserted-by": "publisher",
+        "first-page": "47",
+        "DOI": "10.1101/lm.365707",
+        "volume": "14",
+        "author": "A Hupbach",
+        "year": "2007",
+        "unstructured": "Hupbach, A., Gomez, R., Hardt, O. & Nadel, L. Reconsolidation of episodic memories: a subtle reminder triggers integration of new information. Learn. Mem. 14, 47–53 (2007).",
+        "journal-title": "Learn. Mem."
+      },
+      {
+        "key": "312_CR144",
+        "doi-asserted-by": "publisher",
+        "first-page": "369",
+        "DOI": "10.1101/lm.046912.117",
+        "volume": "25",
+        "author": "AH Sinclair",
+        "year": "2018",
+        "unstructured": "Sinclair, A. H. & Barense, M. D. Surprise and destabilize: prediction error influences episodic memory reconsolidation. Learn. Mem. 25, 369–381 (2018).",
+        "journal-title": "Learn. Mem."
+      },
+      {
+        "key": "312_CR145",
+        "doi-asserted-by": "publisher",
+        "first-page": "99",
+        "DOI": "10.1016/j.nlm.2016.12.012",
+        "volume": "142",
+        "author": "ID Scully",
+        "year": "2017",
+        "unstructured": "Scully, I. D., Napper, L. E. & Hupbach, A. Does reactivation trigger episodic memory change? A meta-analysis. Neurobiol. Learn. Mem. 142, 99–107 (2017).",
+        "journal-title": "Neurobiol. Learn. Mem."
+      },
+      {
+        "key": "312_CR146",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-020-65836-x",
+        "volume": "10",
+        "author": "KH Jardine",
+        "year": "2020",
+        "unstructured": "Jardine, K. H. et al. Activation of cortical M1 muscarinic receptors and related intracellular signaling is necessary for reactivation-induced object memory updating. Sci. Rep. 10, 9209 (2020).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "312_CR147",
+        "doi-asserted-by": "publisher",
+        "first-page": "91",
+        "DOI": "10.1101/lm.023408.111",
+        "volume": "19",
+        "author": "B Jones",
+        "year": "2012",
+        "unstructured": "Jones, B., Bukoski, E., Nadel, L. & Fellous, J. Remaking memories: reconsolidation updates positively motivated spatial memory in rats. Learn. Mem. 19, 91–98 (2012).",
+        "journal-title": "Learn. Mem."
+      },
+      {
+        "key": "312_CR148",
+        "doi-asserted-by": "publisher",
+        "first-page": "17719",
+        "DOI": "10.1523/JNEUROSCI.2968-11.2011",
+        "volume": "31",
+        "author": "BD Winters",
+        "year": "2011",
+        "unstructured": "Winters, B. D., Tucci, M. C., Jacklin, D. L., Reid, J. M. & Newsome, J. On the dynamic nature of the engram: evidence for circuit-level reorganization of object memory traces following reactivation. J. Neurosci. 31, 17719–17728 (2011).",
+        "journal-title": "J. Neurosci."
+      },
+      {
+        "key": "312_CR149",
+        "doi-asserted-by": "publisher",
+        "first-page": "104598",
+        "DOI": "10.1016/j.neubiorev.2022.104598",
+        "volume": "136",
+        "author": "KH Jardine",
+        "year": "2022",
+        "unstructured": "Jardine, K. H., Huff, A. E., Wideman, C. E., McGraw, S. D. & Winters, B. D. The evidence for and against reactivation-induced memory updating in humans and nonhuman animals. Neurosci. Biobehav. Rev. 136, 104598 (2022).",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "312_CR150",
+        "doi-asserted-by": "publisher",
+        "first-page": "272",
+        "DOI": "10.1038/nn0311-272",
+        "volume": "14",
+        "author": "J Payne",
+        "year": "2011",
+        "unstructured": "Payne, J. Sleep on it! Stabilizing and transforming memories during sleep. Nat. Neurosci 14, 272–274 (2011).",
+        "journal-title": "Nat. Neurosci"
+      },
+      {
+        "key": "312_CR151",
+        "doi-asserted-by": "publisher",
+        "first-page": "204",
+        "DOI": "10.1038/nn.3609",
+        "volume": "17",
+        "author": "MC Kroes",
+        "year": "2014",
+        "unstructured": "Kroes, M. C. et al. An electroconvulsive therapy procedure impairs reconsolidation of episodic memories in humans. Nat. Neurosci 17, 204–206 (2014).",
+        "journal-title": "Nat. Neurosci"
+      },
+      {
+        "key": "312_CR152",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0007519",
+        "volume": "4",
+        "author": "L Schwabe",
+        "year": "2009",
+        "unstructured": "Schwabe, L. & Wolf, O. T. New episodic learning interferes with the reconsolidation of autobiographical memories. PLoS One 4, e7519 (2009).",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "312_CR153",
+        "doi-asserted-by": "publisher",
+        "first-page": "380",
+        "DOI": "10.1016/j.biopsych.2011.10.028",
+        "volume": "71",
+        "author": "L Schwabe",
+        "year": "2012",
+        "unstructured": "Schwabe, L., Nader, K., Wolf, O. T., Beaudry, T. & Pruessner, J. C. Neural signature of reconsolidation impairments by propranolol in humans. Biol. Psychiat. 71, 380–386 (2012).",
+        "journal-title": "Biol. Psychiat."
+      },
+      {
+        "key": "312_CR154",
+        "doi-asserted-by": "publisher",
+        "first-page": "797",
+        "DOI": "10.1037/bul0000152",
+        "volume": "144",
+        "author": "JWB Elsey",
+        "year": "2018",
+        "unstructured": "Elsey, J. W. B., Van Ast, V. A. & Kindt, M. Human memory reconsolidation: a guiding framework and critical review of the evidence. Psychol. Bull. 144, 797–848 (2018).",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "312_CR155",
+        "doi-asserted-by": "publisher",
+        "first-page": "204",
+        "DOI": "10.1016/j.concog.2014.12.012",
+        "volume": "33",
+        "author": "CB Harris",
+        "year": "2015",
+        "unstructured": "Harris, C. B., O’Connor, A. R. & Sutton, J. Cue generation and memory construction in direct and generative autobiographical memory retrieval. Conscious. Cogn. 33, 204–216 (2015).",
+        "journal-title": "Conscious. Cogn."
+      },
+      {
+        "key": "312_CR156",
+        "doi-asserted-by": "publisher",
+        "first-page": "237",
+        "DOI": "10.1016/j.concog.2016.03.018",
+        "volume": "42",
+        "author": "AC Butler",
+        "year": "2016",
+        "unstructured": "Butler, A. C., Rice, H. J., Wooldridge, C. L. & Rubin, D. C. Visual imagery in autobiographical memory: the role of repeated retrieval in shifting perspective. Conscious. Cogn. 42, 237–253 (2016).",
+        "journal-title": "Conscious. Cogn."
+      },
+      {
+        "key": "312_CR157",
+        "doi-asserted-by": "publisher",
+        "first-page": "760",
+        "DOI": "10.1080/09658210903107846",
+        "volume": "17",
+        "author": "WR Walker",
+        "year": "2009",
+        "unstructured": "Walker, W. R., Skowronski, J. J., Gibbons, J. A., Vogl, R. J. & Ritchie, T. D. Why people rehearse their memories: frequency of use and relations to the intensity of emotions associated with autobiographical memories. Memory 17, 760–773 (2009).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR158",
+        "doi-asserted-by": "publisher",
+        "first-page": "1408",
+        "DOI": "10.1177/0956797611419171",
+        "volume": "22",
+        "author": "CW Breslin",
+        "year": "2011",
+        "unstructured": "Breslin, C. W. & Safer, M. A. Effects of event valence on long-term memory for two baseball championship games. Psychol. Sci. 22, 1408–1412 (2011).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR159",
+        "doi-asserted-by": "publisher",
+        "first-page": "390",
+        "DOI": "10.1037/xge0001080",
+        "volume": "151",
+        "author": "KS Chiew",
+        "year": "2022",
+        "unstructured": "Chiew, K. S., Harris, B. B. & Adcock, R. A. Remembering election night 2016: subjective but not objective metrics of autobiographical memory vary with political affiliation, affective valence, and surprise. J. Exp.Psychol. 151, 390–409 (2022).",
+        "journal-title": "J. Exp.Psychol."
+      },
+      {
+        "key": "312_CR160",
+        "doi-asserted-by": "publisher",
+        "first-page": "163",
+        "DOI": "10.1016/j.jarmac.2012.06.001",
+        "volume": "1",
+        "author": "AC Holland",
+        "year": "2012",
+        "unstructured": "Holland, A. C. & Kensinger, E. A. Younger, middle-aged, and older adults’ memories for the 2008 U.S. presidential election. J. Appl. Res. Mem. Cogn. 1, 163–170 (2012).",
+        "journal-title": "J. Appl. Res. Mem. Cogn."
+      },
+      {
+        "key": "312_CR161",
+        "doi-asserted-by": "publisher",
+        "first-page": "936",
+        "DOI": "10.1080/02699931.2021.1910496",
+        "volume": "35",
+        "author": "LJ Levine",
+        "year": "2021",
+        "unstructured": "Levine, L. J. et al. Remembering facts versus feelings in the wake of political events. Cogn. Emot. 35, 936–955 (2021).",
+        "journal-title": "Cogn. Emot."
+      },
+      {
+        "key": "312_CR162",
+        "doi-asserted-by": "publisher",
+        "first-page": "959",
+        "DOI": "10.1080/02699931.2018.1523137",
+        "volume": "33",
+        "author": "S Nørby",
+        "year": "2019",
+        "unstructured": "Nørby, S. Mnemonic emotion regulation: a three-process model. Cogn. Emot. 33, 959–975 (2019).",
+        "journal-title": "Cogn. Emot."
+      },
+      {
+        "key": "312_CR163",
+        "doi-asserted-by": "publisher",
+        "first-page": "982",
+        "DOI": "10.1016/j.tics.2018.07.015",
+        "volume": "22",
+        "author": "HG Engen",
+        "year": "2018",
+        "unstructured": "Engen, H. G. & Anderson, M. C. Memory control: a fundamental mechanism of emotion regulation. Trends Cogn. Sci. 22, 982–995 (2018).",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "312_CR164",
+        "doi-asserted-by": "publisher",
+        "first-page": "28",
+        "DOI": "10.1016/j.newideapsych.2016.12.001",
+        "volume": "45",
+        "author": "D Pascuzzi",
+        "year": "2017",
+        "unstructured": "Pascuzzi, D. & Smorti, A. Emotion regulation, autobiographical memories and life narratives. N. Ideas Psychol. 45, 28–37 (2017).",
+        "journal-title": "N. Ideas Psychol."
+      },
+      {
+        "key": "312_CR165",
+        "doi-asserted-by": "publisher",
+        "first-page": "26",
+        "DOI": "10.1177/2167702616647922",
+        "volume": "5",
+        "author": "A Werner-Seidler",
+        "year": "2017",
+        "unstructured": "Werner-Seidler, A., Tan, L. & Dalgleish, T. The vicissitudes of positive autobiographical recollection as an emotion regulation strategy in depression. Clin. Psychol. Sci. 5, 26–36 (2017).",
+        "journal-title": "Clin. Psychol. Sci."
+      },
+      {
+        "key": "312_CR166",
+        "doi-asserted-by": "publisher",
+        "first-page": "802",
+        "DOI": "10.1111/sode.12354",
+        "volume": "28",
+        "author": "JA Booker",
+        "year": "2019",
+        "unstructured": "Booker, J. A. Patterns in autobiographical reminiscing among early adults: implications for forgiveness and self‐compassion. Soc. Dev. 28, 802–819 (2019).",
+        "journal-title": "Soc. Dev."
+      },
+      {
+        "key": "312_CR167",
+        "doi-asserted-by": "publisher",
+        "first-page": "1004",
+        "DOI": "10.1111/aphw.12364",
+        "volume": "14",
+        "author": "DJ Hallford",
+        "year": "2022",
+        "unstructured": "Hallford, D. J. et al. Remembering for resilience: brief cognitive‐reminiscence therapy improves psychological resources and mental well‐being in young adults. Appl. Psychol. Health Well-being 14, 1004–1021 (2022).",
+        "journal-title": "Appl. Psychol. Health Well-being"
+      },
+      {
+        "key": "312_CR168",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ecc.12524",
+        "volume": "26",
+        "author": "C Fioretti",
+        "year": "2017",
+        "unstructured": "Fioretti, C. & Smorti, A. Narrating positive versus negative memories of illness: does narrating influence the emotional tone of memories? Eur. J. Cancer 26, e12524 (2017).",
+        "journal-title": "Eur. J. Cancer"
+      },
+      {
+        "key": "312_CR169",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/wcs.1635",
+        "volume": "14",
+        "author": "L Heux",
+        "year": "2023",
+        "unstructured": "Heux, L., Rathbone, C., Gensburger, S., Clifford, R. & Souchay, C. Collective memory and autobiographical memory: perspectives from the humanities and cognitive sciences. Wiley Interdisc. Rev. Cogn. Sci. 14, e1635 (2023).",
+        "journal-title": "Wiley Interdisc. Rev. Cogn. Sci."
+      },
+      {
+        "key": "312_CR170",
+        "doi-asserted-by": "publisher",
+        "first-page": "65",
+        "DOI": "10.1037/xge0000468",
+        "volume": "148",
+        "author": "R Maswood",
+        "year": "2019",
+        "unstructured": "Maswood, R., Rasmussen, A. S. & Rajaram, S. Collaborative remembering of emotional autobiographical memories: implications for emotion regulation and collective memory. J. Exp. Psychol. 148, 65–79 (2019).",
+        "journal-title": "J. Exp. Psychol."
+      },
+      {
+        "key": "312_CR171",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.2221919120",
+        "volume": "120",
+        "author": "N Rouhani",
+        "year": "2023",
+        "unstructured": "Rouhani, N. et al. Collective events and individual affect shape autobiographical memory. Proc. Natl Acad. Sci. USA 120, e2221919120 (2023).",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "312_CR172",
+        "doi-asserted-by": "publisher",
+        "first-page": "195",
+        "DOI": "10.1080/09658210143000065",
+        "volume": "9",
+        "author": "MA Safer",
+        "year": "2001",
+        "unstructured": "Safer, M. A., Bonanno, G. A. & Field, N. P. “It was never that bad”: biased recall of grief and long-term adjustment to the death of a spouse. Memory 9, 195–203 (2001).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR173",
+        "doi-asserted-by": "publisher",
+        "first-page": "819",
+        "DOI": "10.1002/acp.3806",
+        "volume": "35",
+        "author": "S Schmidt",
+        "year": "2021",
+        "unstructured": "Schmidt, S., Muzzulini, B., Levine, L. J. & Tinti, C. Sources of bias in memory for emotional reactions to Brexit: current feelings mediate the link between appraisals and memories. Appl. Cogn. Psychol. 35, 819–827 (2021).",
+        "journal-title": "Appl. Cogn. Psychol."
+      },
+      {
+        "key": "312_CR174",
+        "doi-asserted-by": "publisher",
+        "first-page": "871",
+        "DOI": "10.1080/02699931.2011.625403",
+        "volume": "26",
+        "author": "LJ Levine",
+        "year": "2012",
+        "unstructured": "Levine, L. J., Schmidt, S., Kang, H. S. & Tinti, C. Remembering the silver lining: reappraisal and positive bias in memory for emotion. Cogn. Emot. 26, 871–884 (2012).",
+        "journal-title": "Cogn. Emot."
+      },
+      {
+        "key": "312_CR175",
+        "doi-asserted-by": "publisher",
+        "first-page": "428",
+        "DOI": "10.1080/09658210902791665",
+        "volume": "17",
+        "author": "T Ritchie",
+        "year": "2009",
+        "unstructured": "Ritchie, T., Skowronski, J. J., Hartnett, J., Wells, B. & Walker, W. R. The fading affect bias in the context of emotion activation level, mood, and personal theories of emotion change. Memory 17, 428–444 (2009).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR176",
+        "doi-asserted-by": "publisher",
+        "first-page": "172",
+        "DOI": "10.1080/15298860600591222",
+        "volume": "5",
+        "author": "TD Ritchie",
+        "year": "2006",
+        "unstructured": "Ritchie, T. D. et al. Event self-importance, event rehearsal, and the fading affect bias in autobiographical memory. Self Identity 5, 172–195 (2006).",
+        "journal-title": "Self Identity"
+      },
+      {
+        "key": "312_CR177",
+        "doi-asserted-by": "publisher",
+        "first-page": "464",
+        "DOI": "10.1007/s11031-019-09796-4",
+        "volume": "44",
+        "author": "C Ottenstein",
+        "year": "2020",
+        "unstructured": "Ottenstein, C. & Lischetzke, T. Recall bias in emotional intensity ratings: investigating person-level and event-level predictors. Motiv. Emot. 44, 464–473 (2020).",
+        "journal-title": "Motiv. Emot."
+      },
+      {
+        "key": "312_CR178",
+        "doi-asserted-by": "publisher",
+        "first-page": "789",
+        "DOI": "10.3758/BF03195869",
+        "volume": "32",
+        "author": "D Berntsen",
+        "year": "2004",
+        "unstructured": "Berntsen, D. & Hall, N. M. The episodic nature of involuntary autobiographical memories. Mem. Cogn. 32, 789–803 (2004).",
+        "journal-title": "Mem. Cogn."
+      },
+      {
+        "key": "312_CR179",
+        "doi-asserted-by": "publisher",
+        "first-page": "530",
+        "DOI": "10.1007/s10608-017-9841-1",
+        "volume": "41",
+        "author": "A del Palacio-Gonzalez",
+        "year": "2017",
+        "unstructured": "del Palacio-Gonzalez, A., Berntsen, D. & Watson, L. A. Emotional intensity and emotion regulation in response to autobiographical memories during dysphoria. Cogn. Ther. Res. 41, 530–542 (2017).",
+        "journal-title": "Cogn. Ther. Res."
+      },
+      {
+        "key": "312_CR180",
+        "doi-asserted-by": "publisher",
+        "first-page": "840",
+        "DOI": "10.1016/j.concog.2011.03.015",
+        "volume": "20",
+        "author": "DC Rubin",
+        "year": "2011",
+        "unstructured": "Rubin, D. C., Dennis, M. F. & Beckham, J. C. Autobiographical memory for stressful events: the role of autobiographical memory in posttraumatic stress disorder. Conscious. Cogn. 20, 840–856 (2011).",
+        "journal-title": "Conscious. Cogn."
+      },
+      {
+        "key": "312_CR181",
+        "doi-asserted-by": "publisher",
+        "first-page": "471",
+        "DOI": "10.1080/741944919",
+        "volume": "7",
+        "author": "S Christianson",
+        "year": "1999",
+        "unstructured": "Christianson, S. & Engelberg, E. Memory and emotional consistency: the MS Estonia ferry disaster. Memory 7, 471–482 (1999).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR182",
+        "doi-asserted-by": "publisher",
+        "first-page": "202",
+        "DOI": "10.1027/1618-3169/a000489",
+        "volume": "67",
+        "author": "M Greenstein",
+        "year": "2020",
+        "unstructured": "Greenstein, M. & Franklin, N. Anger increases susceptibility to misinformation. Exp. Psychol. 67, 202–209 (2020).",
+        "journal-title": "Exp. Psychol."
+      },
+      {
+        "key": "312_CR183",
+        "doi-asserted-by": "publisher",
+        "first-page": "361",
+        "DOI": "10.1101/lm.94705",
+        "volume": "12",
+        "author": "EF Loftus",
+        "year": "2005",
+        "unstructured": "Loftus, E. F. Planting misinformation in the human mind: a 30-year investigation of the malleability of memory. Learn. Mem. 12, 361–366 (2005).",
+        "journal-title": "Learn. Mem."
+      },
+      {
+        "key": "312_CR184",
+        "doi-asserted-by": "publisher",
+        "unstructured": "O’Donnell, R. & Chan, J. C. K. Does blatantly contradictory information reduce the misinformation effect? A registered report replication of Loftus (1979). Leg. Criminol. Psychol. https://doi.org/10.1111/lcrp.12242 (2023).",
+        "DOI": "10.1111/lcrp.12242"
+      },
+      {
+        "key": "312_CR185",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1080/09658211.2022.2120623",
+        "volume": "31",
+        "author": "PR Sharma",
+        "year": "2023",
+        "unstructured": "Sharma, P. R., Wade, K. A. & Jobson, L. A systematic review of the relationship between emotion and susceptibility to misinformation. Memory 31, 1–21 (2023).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR186",
+        "doi-asserted-by": "publisher",
+        "first-page": "146",
+        "DOI": "10.1080/09658211.2016.1260747",
+        "volume": "25",
+        "author": "A Scoboria",
+        "year": "2017",
+        "unstructured": "Scoboria, A. et al. A mega-analysis of memory reports from eight peer-reviewed false memory implantation studies. Memory 25, 146–163 (2017).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR187",
+        "doi-asserted-by": "publisher",
+        "first-page": "215",
+        "DOI": "10.1348/1355325041719428",
+        "volume": "9",
+        "author": "F Gabbert",
+        "year": "2004",
+        "unstructured": "Gabbert, F., Memon, A., Allan, K. & Wright, D. B. Say it to my face: examining the effects of socially encountered misinformation. Leg. Criminol. Psychol. 9, 215–227 (2004).",
+        "journal-title": "Leg. Criminol. Psychol."
+      },
+      {
+        "key": "312_CR188",
+        "doi-asserted-by": "publisher",
+        "first-page": "104656",
+        "DOI": "10.1016/j.cognition.2021.104656",
+        "volume": "211",
+        "author": "MC Jalbert",
+        "year": "2021",
+        "unstructured": "Jalbert, M. C., Wulff, A. N. & Hyman, I. E. Stealing and sharing memories: source monitoring biases following collaborative remembering. Cognition 211, 104656 (2021).",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "312_CR189",
+        "doi-asserted-by": "publisher",
+        "first-page": "677",
+        "DOI": "10.1037/xap0000364",
+        "volume": "28",
+        "author": "CM Greene",
+        "year": "2022",
+        "unstructured": "Greene, C. M., Bradshaw, R., Huston, C. & Murphy, G. The medium and the message: comparing the effectiveness of six methods of misinformation delivery in an eyewitness memory paradigm. J. Exp. Psychol. Appl. 28, 677–693 (2022).",
+        "journal-title": "J. Exp. Psychol. Appl."
+      },
+      {
+        "key": "312_CR190",
+        "doi-asserted-by": "publisher",
+        "first-page": "823",
+        "DOI": "10.1177/070674370505001303",
+        "volume": "50",
+        "author": "C Laney",
+        "year": "2005",
+        "unstructured": "Laney, C. & Loftus, E. F. Traumatic memories are not necessarily accurate memories. Can. J. Psychiat. 50, 823–828 (2005).",
+        "journal-title": "Can. J. Psychiat."
+      },
+      {
+        "key": "312_CR191",
+        "doi-asserted-by": "publisher",
+        "first-page": "27",
+        "DOI": "10.3389/fpsyt.2015.00027",
+        "volume": "6",
+        "author": "D Strange",
+        "year": "2015",
+        "unstructured": "Strange, D. & Takarangi, M. K. T. Memory distortion for traumatic events: the role of mental imagery. Front. Psychiat. 6, 27 (2015).",
+        "journal-title": "Front. Psychiat."
+      },
+      {
+        "key": "312_CR192",
+        "doi-asserted-by": "publisher",
+        "first-page": "8",
+        "DOI": "10.1002/hbe2.228",
+        "volume": "3",
+        "author": "RL Greenspan",
+        "year": "2021",
+        "unstructured": "Greenspan, R. L. & Loftus, E. F. Pandemics and infodemics: research on the effects of misinformation on memory. Hum. Behav. Emerg. 3, 8–12 (2021).",
+        "journal-title": "Hum. Behav. Emerg."
+      },
+      {
+        "key": "312_CR193",
+        "doi-asserted-by": "publisher",
+        "first-page": "36",
+        "DOI": "10.1177/0956797616672268",
+        "volume": "28",
+        "author": "AL Putnam",
+        "year": "2017",
+        "unstructured": "Putnam, A. L., Sungkhasettee, V. W. & Roediger, H. L. When misinformation improves memory: the effects of recollecting change. Psychol. Sci. 28, 36–46 (2017).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR194",
+        "doi-asserted-by": "publisher",
+        "first-page": "8",
+        "DOI": "10.1177/1754073915601228",
+        "volume": "8",
+        "author": "RL Kaplan",
+        "year": "2016",
+        "unstructured": "Kaplan, R. L., Van Damme, I., Levine, L. J. & Loftus, E. F. Emotion and false memory. Emot. Rev. 8, 8–13 (2016).",
+        "journal-title": "Emot. Rev."
+      },
+      {
+        "key": "312_CR195",
+        "doi-asserted-by": "publisher",
+        "first-page": "559",
+        "DOI": "10.1080/02699930341000446",
+        "volume": "18",
+        "author": "L Levine",
+        "year": "2004",
+        "unstructured": "Levine, L. & Bluck, S. Painting with broad strokes: happiness and the malleability of event memory. Cogn. Emot. 18, 559–574 (2004).",
+        "journal-title": "Cogn. Emot."
+      },
+      {
+        "key": "312_CR196",
+        "doi-asserted-by": "publisher",
+        "first-page": "233",
+        "DOI": "10.1007/s13164-020-00470-0",
+        "volume": "11",
+        "author": "DR Addis",
+        "year": "2020",
+        "unstructured": "Addis, D. R. Mental time travel? A neurocognitive model of event simulation. Rev. Phil. Psych. 11, 233–259 (2020).",
+        "journal-title": "Rev. Phil. Psych."
+      },
+      {
+        "key": "312_CR197",
+        "doi-asserted-by": "publisher",
+        "first-page": "1351",
+        "DOI": "10.1126/science.1144161",
+        "volume": "317",
+        "author": "DT Gilbert",
+        "year": "2007",
+        "unstructured": "Gilbert, D. T. & Wilson, T. D. Prospection: experiencing the future. Science 317, 1351–1354 (2007).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "312_CR198",
+        "doi-asserted-by": "publisher",
+        "first-page": "299",
+        "DOI": "10.1016/j.tics.2007.05.001",
+        "volume": "11",
+        "author": "D Hassabis",
+        "year": "2007",
+        "unstructured": "Hassabis, D. & Maguire, E. A. Deconstructing episodic memory with construction. Trends Cogn. Sci. 11, 299–306 (2007).",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "312_CR199",
+        "doi-asserted-by": "publisher",
+        "first-page": "773",
+        "DOI": "10.1098/rstb.2007.2087",
+        "volume": "362",
+        "author": "DL Schacter",
+        "year": "2007",
+        "unstructured": "Schacter, D. L. & Addis, D. R. The cognitive neuroscience of constructive memory: remembering the past and imagining the future. Phil. Trans. R. Soc. Lond. B 362, 773–786 (2007).",
+        "journal-title": "Phil. Trans. R. Soc. Lond. B"
+      },
+      {
+        "key": "312_CR200",
+        "doi-asserted-by": "publisher",
+        "first-page": "14",
+        "DOI": "10.1016/j.nlm.2013.12.008",
+        "volume": "117",
+        "author": "DL Schacter",
+        "year": "2015",
+        "unstructured": "Schacter, D. L., Benoit, R. G., De Brigard, F. & Szpunar, K. K. Episodic future thinking and episodic counterfactual thinking: intersections between memory and decisions. Neurobiol. Learn. Mem. 117, 14–21 (2015).",
+        "journal-title": "Neurobiol. Learn. Mem."
+      },
+      {
+        "key": "312_CR201",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Szpunar, K. K., Spreng, R. N. & Schacter, D. L. in Seeing the Future: Theoretical Perspectives on Future-Oriented Mental Time Travel (ed. Michaelian, K.) 21–35 (Oxford Academic, 2016).",
+        "DOI": "10.1093/acprof:oso/9780190241537.003.0002"
+      },
+      {
+        "key": "312_CR202",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1196/annals.1440.001",
+        "volume": "1124",
+        "author": "DL Schacter",
+        "year": "2008",
+        "unstructured": "Schacter, D. L., Addis, D. R. & Buckner, R. L. Episodic simulation of future events: concepts, data, and applications. Ann. N. Y. Acad. Sci. 1124, 39–60 (2008).",
+        "journal-title": "Ann. N. Y. Acad. Sci."
+      },
+      {
+        "key": "312_CR203",
+        "doi-asserted-by": "publisher",
+        "first-page": "603",
+        "DOI": "10.1037/a0029869",
+        "volume": "67",
+        "author": "DL Schacter",
+        "year": "2012",
+        "unstructured": "Schacter, D. L. Adaptive constructive processes and the future of memory. Am. Psychol. 67, 603–613 (2012).",
+        "journal-title": "Am. Psychol."
+      },
+      {
+        "key": "312_CR204",
+        "doi-asserted-by": "publisher",
+        "first-page": "96",
+        "DOI": "10.1002/acp.1647",
+        "volume": "25",
+        "author": "A D’Argembeau",
+        "year": "2011",
+        "unstructured": "D’Argembeau, A., Renaud, O. & Van der Linden, M. Frequency, characteristics and functions of future-oriented thoughts in daily life. Appl. Cogn. Psychol. 25, 96–103 (2011).",
+        "journal-title": "Appl. Cogn. Psychol."
+      },
+      {
+        "key": "312_CR205",
+        "doi-asserted-by": "publisher",
+        "first-page": "1212",
+        "DOI": "10.1080/09658211.2022.2088796",
+        "volume": "30",
+        "author": "V Wardell",
+        "year": "2022",
+        "unstructured": "Wardell, V., Grilli, M. D. & Palombo, D. J. Simulating the best and worst of times: the powers and perils of emotional simulation. Memory 30, 1212–1225 (2022).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR206",
+        "doi-asserted-by": "publisher",
+        "first-page": "59",
+        "DOI": "10.1111/nyas.15011",
+        "volume": "1526",
+        "author": "CM Cocquyt",
+        "year": "2023",
+        "unstructured": "Cocquyt, C. M. & Palombo, D. J. Emotion in the mind’s eye: imagination for adaptive cognition. Ann. N. Y. Acad. Sci. 1526, 59–72 (2023).",
+        "journal-title": "Ann. N. Y. Acad. Sci."
+      },
+      {
+        "key": "312_CR207",
+        "doi-asserted-by": "publisher",
+        "first-page": "936",
+        "DOI": "10.1177/0956797617753936",
+        "volume": "29",
+        "author": "AL Devitt",
+        "year": "2018",
+        "unstructured": "Devitt, A. L. & Schacter, D. L. An optimistic outlook creates a rosy past: the impact of episodic simulation on subsequent memory. Psychol. Sci. 29, 936–946 (2018).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR208",
+        "doi-asserted-by": "publisher",
+        "first-page": "1255",
+        "DOI": "10.1080/09658211.2014.972960",
+        "volume": "23",
+        "author": "VC McLelland",
+        "year": "2015",
+        "unstructured": "McLelland, V. C., Devitt, A. L., Schacter, D. L. & Addis, D. R. Making the future memorable: the phenomenology of remembered future events. Memory 23, 1255–1263 (2015).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR209",
+        "doi-asserted-by": "publisher",
+        "first-page": "24",
+        "DOI": "10.1177/0956797611422237",
+        "volume": "23",
+        "author": "KK Szpunar",
+        "year": "2012",
+        "unstructured": "Szpunar, K. K., Addis, D. R. & Schacter, D. L. Memory for emotional simulations: remembering a rosy future. Psychol. Sci. 23, 24–29 (2012).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR210",
+        "first-page": "376",
+        "volume": "7",
+        "author": "B Gaesser",
+        "year": "2020",
+        "unstructured": "Gaesser, B. & Fowler, Z. Episodic simulation of prosocial interaction: investigating the roles of memory and imagination in facilitating a willingness to help others. Psychol. Conscious. 7, 376–387 (2020).",
+        "journal-title": "Psychol. Conscious."
+      },
+      {
+        "key": "312_CR211",
+        "doi-asserted-by": "publisher",
+        "first-page": "105202",
+        "DOI": "10.1016/j.cognition.2022.105202",
+        "volume": "227",
+        "author": "PC Paulus",
+        "year": "2022",
+        "unstructured": "Paulus, P. C., Dabas, A., Felber, A. & Benoit, R. G. Simulation-based learning influences real-life attitudes. Cognition 227, 105202 (2022).",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "312_CR212",
+        "doi-asserted-by": "publisher",
+        "first-page": "1606",
+        "DOI": "10.1037/xge0001148",
+        "volume": "151",
+        "author": "SA Rösch",
+        "year": "2021",
+        "unstructured": "Rösch, S. A., Stramaccia, D. F. & Benoit, R. G. Promoting farsighted decisions via episodic future thinking: a meta-analysis. J. Exp. Psychol. 151, 1606–1635 (2021).",
+        "journal-title": "J. Exp. Psychol."
+      },
+      {
+        "key": "312_CR213",
+        "doi-asserted-by": "publisher",
+        "first-page": "104558",
+        "DOI": "10.1016/j.cognition.2020.104558",
+        "volume": "209",
+        "author": "MC Vollberg",
+        "year": "2021",
+        "unstructured": "Vollberg, M. C., Gaesser, B. & Cikara, M. Activating episodic simulation increases affective empathy. Cognition 209, 104558 (2021).",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "312_CR214",
+        "doi-asserted-by": "publisher",
+        "first-page": "727",
+        "DOI": "10.1016/j.tins.2019.08.007",
+        "volume": "42",
+        "author": "AH Sinclair",
+        "year": "2019",
+        "unstructured": "Sinclair, A. H. & Barense, M. D. Prediction error and memory reactivation: how incomplete reminders drive reconsolidation. Trends Neurosci. 42, 727–739 (2019).",
+        "journal-title": "Trends Neurosci."
+      },
+      {
+        "key": "312_CR215",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/wcs.1625",
+        "volume": "14",
+        "author": "F Sow",
+        "year": "2023",
+        "unstructured": "Sow, F., Dijkstra, K. & Janssen, S. M. J. Developments in the functions of autobiographical memory: an advanced review. Wiley Interdisc. Rev. Cogn. Sci. 14, e1625 (2023).",
+        "journal-title": "Wiley Interdisc. Rev. Cogn. Sci."
+      },
+      {
+        "key": "312_CR216",
+        "doi-asserted-by": "publisher",
+        "first-page": "623",
+        "DOI": "10.1007/s11031-012-9322-5",
+        "volume": "37",
+        "author": "S Drace",
+        "year": "2013",
+        "unstructured": "Drace, S. Evidence for the role of affect in mood congruent recall of autobiographic memories. Motiv. Emot. 37, 623–628 (2013).",
+        "journal-title": "Motiv. Emot."
+      },
+      {
+        "key": "312_CR217",
+        "doi-asserted-by": "publisher",
+        "first-page": "653",
+        "DOI": "10.1037/0882-7974.17.4.653",
+        "volume": "17",
+        "author": "BG Knight",
+        "year": "2002",
+        "unstructured": "Knight, B. G., Maines, M. L. & Robinson, G. S. The effects of sad mood on memory in older adults: a test of the mood congruence effect. Psychol. Aging 17, 653–661 (2002).",
+        "journal-title": "Psychol. Aging"
+      },
+      {
+        "key": "312_CR218",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hashimoto, J., Kanayama, N., Miyatani, M. & Nakao, T. The mood repair effect of positive involuntary autobiographical memory among Japanese adults: an experimental study. SAGE Open https://doi.org/10.1177/21582440221093357 (2022).",
+        "DOI": "10.1177/21582440221093357"
+      },
+      {
+        "key": "312_CR219",
+        "doi-asserted-by": "publisher",
+        "first-page": "737",
+        "DOI": "10.1037/0022-3514.78.4.737",
+        "volume": "78",
+        "author": "CL Rusting",
+        "year": "2000",
+        "unstructured": "Rusting, C. L. & DeHart, T. Retrieving positive memories to regulate negative mood: consequences for mood-congruent memory. J. Pers. Soc. Psychol. 78, 737–752 (2000).",
+        "journal-title": "J. Pers. Soc. Psychol."
+      },
+      {
+        "key": "312_CR220",
+        "doi-asserted-by": "publisher",
+        "first-page": "289",
+        "DOI": "10.1016/j.jbtep.2015.10.005",
+        "volume": "50",
+        "author": "L Seebauer",
+        "year": "2016",
+        "unstructured": "Seebauer, L. et al. Mood repair in healthy individuals: both processing mode and imagery content matter. J. Behav. Ther. Exp. Psychiat. 50, 289–294 (2016).",
+        "journal-title": "J. Behav. Ther. Exp. Psychiat."
+      },
+      {
+        "key": "312_CR221",
+        "doi-asserted-by": "publisher",
+        "first-page": "342",
+        "DOI": "10.1080/09658211.2017.1346130",
+        "volume": "26",
+        "author": "S Nørby",
+        "year": "2018",
+        "unstructured": "Nørby, S. Forgetting and emotion regulation in mental health, anxiety and depression. Memory 26, 342–363 (2018).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR222",
+        "doi-asserted-by": "publisher",
+        "first-page": "66",
+        "DOI": "10.1016/j.jrp.2014.03.004",
+        "volume": "50",
+        "author": "K Cox",
+        "year": "2014",
+        "unstructured": "Cox, K. & McAdams, D. P. Meaning making during high and low point life story episodes predicts emotion regulation two years later: how the past informs the future. J. Res. Pers. 50, 66–70 (2014).",
+        "journal-title": "J. Res. Pers."
+      },
+      {
+        "key": "312_CR223",
+        "doi-asserted-by": "publisher",
+        "first-page": "203",
+        "DOI": "10.1037/1089-2680.7.2.203",
+        "volume": "7",
+        "author": "WR Walker",
+        "year": "2003",
+        "unstructured": "Walker, W. R., Skowronski, J. J. & Thompson, C. P. Life is pleasant — and memory helps to keep it that way! Rev. Gen. Psychol. 7, 203–210 (2003).",
+        "journal-title": "Rev. Gen. Psychol."
+      },
+      {
+        "key": "312_CR224",
+        "doi-asserted-by": "publisher",
+        "first-page": "906",
+        "DOI": "10.1007/s10608-020-10122-3",
+        "volume": "44",
+        "author": "D Colombo",
+        "year": "2020",
+        "unstructured": "Colombo, D. et al. Affect recall bias: being resilient by distorting reality. Cogn. Ther. Res. 44, 906–918 (2020).",
+        "journal-title": "Cogn. Ther. Res."
+      },
+      {
+        "key": "312_CR225",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.1080/09658211.2014.930495",
+        "volume": "23",
+        "author": "Q Wang",
+        "year": "2015",
+        "unstructured": "Wang, Q., Koh, J. B. K., Song, Q. & Hou, Y. Knowledge of memory functions in European and Asian American adults and children: the relation to autobiographical memory. Memory 23, 25–38 (2015).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR226",
+        "doi-asserted-by": "publisher",
+        "first-page": "525",
+        "DOI": "10.1080/09658211.2013.801494",
+        "volume": "22",
+        "author": "A Werner-Seidler",
+        "year": "2014",
+        "unstructured": "Werner-Seidler, A. & Moulds, M. L. Recalling positive self-defining memories in depression: the impact of processing mode. Memory 22, 525–535 (2014).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR227",
+        "doi-asserted-by": "publisher",
+        "first-page": "1162",
+        "DOI": "10.1007/s10608-020-10137-w",
+        "volume": "44",
+        "author": "A del Palacio-Gonzalez",
+        "year": "2020",
+        "unstructured": "del Palacio-Gonzalez, A. & Berntsen, D. Memory-related emotion regulation and its relation to internalizing symptoms. Cogn. Ther. Res. 44, 1162–1176 (2020).",
+        "journal-title": "Cogn. Ther. Res."
+      },
+      {
+        "key": "312_CR228",
+        "doi-asserted-by": "publisher",
+        "first-page": "596",
+        "DOI": "10.1016/j.tics.2014.06.010",
+        "volume": "18",
+        "author": "T Dalgleish",
+        "year": "2014",
+        "unstructured": "Dalgleish, T. & Werner-Seidler, A. Disruptions in autobiographical memory processing in depression and the emergence of memory therapeutics. Trends Cogn. Sci. 18, 596–604 (2014).",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "312_CR229",
+        "doi-asserted-by": "publisher",
+        "first-page": "179",
+        "DOI": "10.1037/0021-843X.113.2.179",
+        "volume": "113",
+        "author": "J Joormann",
+        "year": "2004",
+        "unstructured": "Joormann, J. & Siemer, M. Memory accessibility, mood regulation, and dysphoria: difficulties in repairing sad mood with happy memories? J. Abnorm. Psychol. 113, 179–188 (2004).",
+        "journal-title": "J. Abnorm. Psychol."
+      },
+      {
+        "key": "312_CR230",
+        "doi-asserted-by": "publisher",
+        "first-page": "7122",
+        "DOI": "10.3390/ijerph18137122",
+        "volume": "18",
+        "author": "D Colombo",
+        "year": "2021",
+        "unstructured": "Colombo, D. et al. The moderating role of emotion regulation in the recall of negative autobiographical memories. Int. J. Environ. Res. Public Health 18, 7122 (2021).",
+        "journal-title": "Int. J. Environ. Res. Public Health"
+      },
+      {
+        "key": "312_CR231",
+        "doi-asserted-by": "publisher",
+        "first-page": "712066",
+        "DOI": "10.3389/fpsyg.2021.712066",
+        "volume": "12",
+        "author": "N Parikh",
+        "year": "2022",
+        "unstructured": "Parikh, N., De Brigard, F. & LaBar, K. S. The efficacy of downward counterfactual thinking for regulating emotional memories in anxious individuals. Front. Psychol. 12, 712066 (2022).",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "312_CR232",
+        "doi-asserted-by": "publisher",
+        "first-page": "122",
+        "DOI": "10.1037/0033-2909.133.1.122",
+        "volume": "133",
+        "author": "JMG Williams",
+        "year": "2007",
+        "unstructured": "Williams, J. M. G. et al. Autobiographical memory specificity and emotional disorder. Psychol. Bull. 133, 122–148 (2007).",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "312_CR233",
+        "doi-asserted-by": "publisher",
+        "first-page": "92",
+        "DOI": "10.1016/j.cpr.2016.12.003",
+        "volume": "52",
+        "author": "C Hitchcock",
+        "year": "2017",
+        "unstructured": "Hitchcock, C., Werner-Seidler, A., Blackwell, S. E. & Dalgleish, T. Autobiographical episodic memory-based training for the treatment of mood, anxiety and stress-related disorders: a systematic review and meta-analysis. Clin. Psychol. Rev. 52, 92–107 (2017).",
+        "journal-title": "Clin. Psychol. Rev."
+      },
+      {
+        "key": "312_CR234",
+        "doi-asserted-by": "publisher",
+        "first-page": "28",
+        "DOI": "10.1016/j.copsyc.2021.02.002",
+        "volume": "41",
+        "author": "TJ Barry",
+        "year": "2021",
+        "unstructured": "Barry, T. J., Hallford, D. J., Hitchcock, C., Takano, K. & Raes, F. The current state of Memory Specificity Training (MeST) for emotional disorders. Curr. Opin. Psychol. 41, 28–33 (2021).",
+        "journal-title": "Curr. Opin. Psychol."
+      },
+      {
+        "key": "312_CR235",
+        "doi-asserted-by": "publisher",
+        "first-page": "E8492",
+        "DOI": "10.1073/pnas.1606604114",
+        "volume": "113",
+        "author": "RG Benoit",
+        "year": "2016",
+        "unstructured": "Benoit, R. G., Davies, D. J. & Anderson, M. C. Reducing future fears by suppressing the brain mechanisms underlying episodic simulation. Proc. Natl Acad. Sci. USA 113, E8492–E8501 (2016).",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "312_CR236",
+        "doi-asserted-by": "publisher",
+        "first-page": "617",
+        "DOI": "10.1007/s00426-021-01501-w",
+        "volume": "86",
+        "author": "JL Ji",
+        "year": "2022",
+        "unstructured": "Ji, J. L., Murphy, F. C., Grafton, B., MacLeod, C. & Holmes, E. A. Emotional mental imagery generation during spontaneous future thinking: relationship with optimism and negative mood. Psychol. Res. 86, 617–626 (2022).",
+        "journal-title": "Psychol. Res."
+      },
+      {
+        "key": "312_CR237",
+        "doi-asserted-by": "publisher",
+        "first-page": "402",
+        "DOI": "10.1037/xge0000142",
+        "volume": "145",
+        "author": "HG Jing",
+        "year": "2016",
+        "unstructured": "Jing, H. G., Madore, K. P. & Schacter, D. L. Worrying about the future: an episodic specificity induction impacts problem solving, reappraisal, and well-being. J. Exp. Psychol. 145, 402–418 (2016).",
+        "journal-title": "J. Exp. Psychol."
+      },
+      {
+        "key": "312_CR238",
+        "doi-asserted-by": "publisher",
+        "first-page": "404",
+        "DOI": "10.3389/fpsyg.2012.00404",
+        "volume": "3",
+        "author": "RL Kaplan",
+        "year": "2012",
+        "unstructured": "Kaplan, R. L., Van Damme, I. & Levine, L. J. Motivation matters: differing effects of pre-goal and post-goal emotions on attention and memory. Front. Psychol. 3, 404–404 (2012).",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "312_CR239",
+        "doi-asserted-by": "publisher",
+        "first-page": "530",
+        "DOI": "10.1521/soco.22.5.530.50767",
+        "volume": "22",
+        "author": "LJ Levine",
+        "year": "2004",
+        "unstructured": "Levine, L. J. & Pizarro, D. A. Emotion and memory research: a grumpy overview. Soc. Cogn. 22, 530–554 (2004).",
+        "journal-title": "Soc. Cogn."
+      },
+      {
+        "key": "312_CR240",
+        "doi-asserted-by": "publisher",
+        "first-page": "343",
+        "DOI": "10.1111/jopy.12669",
+        "volume": "90",
+        "author": "KC McLean",
+        "year": "2022",
+        "unstructured": "McLean, K. C., Dunlap, D., Jennings, S. C., Litvitskiy, N. S. & Lilgendahl, J. P. Stability and change in autobiographical reasoning: a 4‐year longitudinal study of narrative identity development. J. Pers. 90, 343–356 (2022).",
+        "journal-title": "J. Pers."
+      },
+      {
+        "key": "312_CR241",
+        "doi-asserted-by": "publisher",
+        "first-page": "486",
+        "DOI": "10.1177/0265407516644066",
+        "volume": "34",
+        "author": "ME Graci",
+        "year": "2017",
+        "unstructured": "Graci, M. E. & Fivush, R. Narrative meaning making, attachment, and psychological growth and stress. J. Soc. Pers. Relatsh. 34, 486–509 (2017).",
+        "journal-title": "J. Soc. Pers. Relatsh."
+      },
+      {
+        "key": "312_CR242",
+        "doi-asserted-by": "publisher",
+        "first-page": "275",
+        "DOI": "10.1016/j.adolescence.2020.01.018",
+        "volume": "79",
+        "author": "SL Berman",
+        "year": "2020",
+        "unstructured": "Berman, S. L., Montgomery, M. J. & Ratner, K. Trauma and identity: a reciprocal relationship? J. Adolesc. 79, 275–278 (2020).",
+        "journal-title": "J. Adolesc."
+      },
+      {
+        "key": "312_CR243",
+        "doi-asserted-by": "publisher",
+        "first-page": "2915",
+        "DOI": "10.1007/s10902-020-00352-3",
+        "volume": "22",
+        "author": "C Vazquez",
+        "year": "2021",
+        "unstructured": "Vazquez, C. et al. Post-traumatic growth and stress-related responses during the COVID-19 pandemic in a national representative sample: the role of positive core beliefs about the world and others. J. Happiness Stud. 22, 2915–2935 (2021).",
+        "journal-title": "J. Happiness Stud."
+      },
+      {
+        "key": "312_CR244",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Melega, G., Lancelotte, F. A., Hornberger, M., Levine, B. & Renoult, L. Evoking episodic and semantic details with instructional manipulation: the semantic autobiographical interview. Preprint at PsyArXiv https://doi.org/10.31234/osf.io/6h23t (2023).",
+        "DOI": "10.31234/osf.io/6h23t"
+      },
+      {
+        "key": "312_CR245",
+        "doi-asserted-by": "publisher",
+        "first-page": "107501",
+        "DOI": "10.1016/j.neuropsychologia.2020.107501",
+        "volume": "144",
+        "author": "L Renoult",
+        "year": "2020",
+        "unstructured": "Renoult, L. et al. Classification of general and personal semantic details in the autobiographical interview. Neuropsychologia 144, 107501 (2020).",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "312_CR246",
+        "doi-asserted-by": "publisher",
+        "first-page": "371",
+        "DOI": "10.1111/jnp.12160",
+        "volume": "13",
+        "author": "C Strikwerda‐Brown",
+        "year": "2019",
+        "unstructured": "Strikwerda‐Brown, C., Mothakunnel, A., Hodges, J. R., Piguet, O. & Irish, M. External details revisited — a new taxonomy for coding ‘non‐episodic’ content during autobiographical memory retrieval. J. Neuropsychol. 13, 371–397 (2019).",
+        "journal-title": "J. Neuropsychol."
+      },
+      {
+        "key": "312_CR247",
+        "doi-asserted-by": "publisher",
+        "first-page": "259",
+        "DOI": "10.1037/pas0000472",
+        "volume": "30",
+        "author": "K Takano",
+        "year": "2018",
+        "unstructured": "Takano, K., Gutenbrunner, C., Martens, K., Salmon, K. & Raes, F. Computerized scoring algorithms for the autobiographical memory test. Psychol. Assess. 30, 259–273 (2018).",
+        "journal-title": "Psychol. Assess."
+      },
+      {
+        "key": "312_CR248",
+        "doi-asserted-by": "publisher",
+        "first-page": "2243",
+        "DOI": "10.3758/s13428-023-02145-x",
+        "volume": "56",
+        "author": "R van Genugten",
+        "year": "2024",
+        "unstructured": "van Genugten, R. & Schacter, D. L. Automated scoring of the autobiographical interview with natural language processing. Behav. Res. Methods 56, 2243–2259 (2024).",
+        "journal-title": "Behav. Res. Methods"
+      },
+      {
+        "key": "312_CR249",
+        "doi-asserted-by": "publisher",
+        "first-page": "507",
+        "DOI": "10.3758/s13428-020-01437-w",
+        "volume": "53",
+        "author": "V Wardell",
+        "year": "2021",
+        "unstructured": "Wardell, V., Esposito, C. L., Madan, C. R. & Palombo, D. J. Semi-automated transcription and scoring of autobiographical memory narratives. Behav. Res. Methods 53, 507–517 (2021).",
+        "journal-title": "Behav. Res. Methods"
+      },
+      {
+        "key": "312_CR250",
+        "doi-asserted-by": "publisher",
+        "first-page": "76",
+        "DOI": "10.1002/hipo.22812",
+        "volume": "28",
+        "author": "KL Campbell",
+        "year": "2018",
+        "unstructured": "Campbell, K. L., Madore, K. P., Benoit, R. G., Thakral, P. P. & Schacter, D. L. Increased hippocampus to ventromedial prefrontal connectivity during the construction of episodic future events. Hippocampus 28, 76–80 (2018).",
+        "journal-title": "Hippocampus"
+      },
+      {
+        "key": "312_CR251",
+        "doi-asserted-by": "publisher",
+        "first-page": "635",
+        "DOI": "10.1177/0956797617743018",
+        "volume": "29",
+        "author": "AM Cleary",
+        "year": "2018",
+        "unstructured": "Cleary, A. M. & Claxton, A. B. Déjà vu: an illusion of prediction. Psychol. Sci. 29, 635–644 (2018).",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "312_CR252",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1080/10400419.2021.1976451",
+        "volume": "34",
+        "author": "RDI van Genugten",
+        "year": "2022",
+        "unstructured": "van Genugten, R. D. I., Beaty, R. E., Madore, K. P. & Schacter, D. L. Does episodic retrieval contribute to creative writing? An exploratory study. Creat. Res. J. 34, 145–158 (2022).",
+        "journal-title": "Creat. Res. J."
+      },
+      {
+        "key": "312_CR253",
+        "doi-asserted-by": "publisher",
+        "first-page": "335",
+        "DOI": "10.1037/xlm0000340",
+        "volume": "43",
+        "author": "AC Carpenter",
+        "year": "2017",
+        "unstructured": "Carpenter, A. C. & Schacter, D. L. Flexible retrieval: when true inferences produce false memories. J. Exp. Psychol. Learn. Mem. Cogn. 43, 335–349 (2017).",
+        "journal-title": "J. Exp. Psychol. Learn. Mem. Cogn."
+      },
+      {
+        "key": "312_CR254",
+        "doi-asserted-by": "publisher",
+        "first-page": "160",
+        "DOI": "10.1007/s41811-021-00102-0",
+        "volume": "14",
+        "author": "SE Blackwell",
+        "year": "2021",
+        "unstructured": "Blackwell, S. E. Mental imagery in the science and practice of cognitive behaviour therapy: past, present, and future perspectives. J. Cogn. Ther. 14, 160–181 (2021).",
+        "journal-title": "J. Cogn. Ther."
+      },
+      {
+        "key": "312_CR255",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-022-32246-8",
+        "volume": "13",
+        "author": "SL Grella",
+        "year": "2022",
+        "unstructured": "Grella, S. L. et al. Reactivating hippocampal-mediated memories during reconsolidation to disrupt fear. Nat. Commun. 13, 4733 (2022).",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "312_CR256",
+        "doi-asserted-by": "publisher",
+        "first-page": "435",
+        "DOI": "10.1037/bul0000367",
+        "volume": "148",
+        "author": "J Everaert",
+        "year": "2022",
+        "unstructured": "Everaert, J., Vrijsen, J. N., Martin-Willett, R., van de Kraats, L. & Joormann, J. A meta-analytic review of the relationship between explicit memory bias and depression: depression features an explicit memory bias that persists beyond a depressive episode. Psychol. Bull. 148, 435–463 (2022).",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "312_CR257",
+        "doi-asserted-by": "publisher",
+        "first-page": "909",
+        "DOI": "10.1017/S0033291721001343",
+        "volume": "51",
+        "author": "DJ Hallford",
+        "year": "2021",
+        "unstructured": "Hallford, D. J., Rusanov, D., Yeow, J. J. E. & Barry, T. J. Overgeneral and specific autobiographical memory predict the course of depression: an updated meta-analysis. Psychol. Med. 51, 909–926 (2021).",
+        "journal-title": "Psychol. Med."
+      },
+      {
+        "key": "312_CR258",
+        "doi-asserted-by": "publisher",
+        "first-page": "832",
+        "DOI": "10.1080/20445911.2017.1319374",
+        "volume": "29",
+        "author": "S Herrera",
+        "year": "2017",
+        "unstructured": "Herrera, S., Montorio, I., Cabrera, I. & Botella, J. Memory bias for threatening information related to anxiety: an updated meta-analytic review. Cogn. Psychol. 29, 832–854 (2017).",
+        "journal-title": "Cogn. Psychol."
+      },
+      {
+        "key": "312_CR259",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Barrett, L. F. & Westlin, C. in Emotion Measurement (ed. Meiselman, H. L.) 39–84 (Woodhead Publishing, 2021).",
+        "DOI": "10.1016/B978-0-12-821124-3.00002-8"
+      },
+      {
+        "key": "312_CR260",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kensinger, E. A. & Murray, B. D. in Encyclopedia of the Sciences of Learning (ed. Seel, N. M.) 1128–1131 (Springer, 2012).",
+        "DOI": "10.1007/978-1-4419-1428-6_1008"
+      },
+      {
+        "key": "312_CR261",
+        "doi-asserted-by": "publisher",
+        "first-page": "1193",
+        "DOI": "10.1080/02699930500371190",
+        "volume": "20",
+        "author": "D Berntsen",
+        "year": "2006",
+        "unstructured": "Berntsen, D. & Rubin, D. C. Emotion and vantage point in autobiographical. Cogn. Emot. 20, 1193–1215 (2006).",
+        "journal-title": "Cogn. Emot."
+      },
+      {
+        "key": "312_CR262",
+        "doi-asserted-by": "publisher",
+        "first-page": "538",
+        "DOI": "10.1080/09658210802010463",
+        "volume": "16",
+        "author": "A D’argembeau",
+        "year": "2008",
+        "unstructured": "D’argembeau, A. & Van der Linden, M. Remembering pride and shame: self-enhancement and the phenomenology of autobiographical memory. Memory 16, 538–547 (2008).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR263",
+        "doi-asserted-by": "publisher",
+        "first-page": "305",
+        "DOI": "10.1037/h0101839",
+        "volume": "8",
+        "author": "D Berntsen",
+        "year": "2019",
+        "unstructured": "Berntsen, D., Hoyle, R. H. & Rubin, D. C. The Autobiographical Recollection Test (ART): a measure of individual differences in autobiographical memory. J. Appl. Res. Mem. Cogn. 8, 305–318 (2019).",
+        "journal-title": "J. Appl. Res. Mem. Cogn."
+      },
+      {
+        "key": "312_CR264",
+        "doi-asserted-by": "publisher",
+        "first-page": "15",
+        "DOI": "10.1016/j.concog.2016.02.011",
+        "volume": "42",
+        "author": "M Luchetti",
+        "year": "2016",
+        "unstructured": "Luchetti, M., Rossi, N., Montebarocci, O. & Sutin, A. R. Continuity of phenomenology and (in)consistency of content of meaningful autobiographical memories. Conscious. Cogn. 42, 15–25 (2016).",
+        "journal-title": "Conscious. Cogn."
+      },
+      {
+        "key": "312_CR265",
+        "doi-asserted-by": "publisher",
+        "first-page": "104583",
+        "DOI": "10.1016/j.cognition.2021.104583",
+        "volume": "210",
+        "author": "DC Rubin",
+        "year": "2021",
+        "unstructured": "Rubin, D. C. Properties of autobiographical memories are reliable and stable individual differences. Cognition 210, 104583–104583 (2021).",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "312_CR266",
+        "doi-asserted-by": "publisher",
+        "first-page": "715",
+        "DOI": "10.1080/09658210344000512",
+        "volume": "12",
+        "author": "D Rubin",
+        "year": "2004",
+        "unstructured": "Rubin, D., Schrauf, R. & Greenberg, D. Stability in autobiographical memories. Memory 12, 715–721 (2004).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR267",
+        "doi-asserted-by": "crossref",
+        "unstructured": "American Psychiatric Association Diagnostic and Statistical Manual of Mental Disorders 5th edn (2022).",
+        "DOI": "10.1176/appi.books.9780890425787"
+      },
+      {
+        "key": "312_CR268",
+        "doi-asserted-by": "publisher",
+        "first-page": "31",
+        "DOI": "10.1080/09658211.2021.1872645",
+        "volume": "30",
+        "author": "D Berntsen",
+        "year": "2022",
+        "unstructured": "Berntsen, D. & Nielsen, N. P. The reconstructive nature of involuntary autobiographical memories. Memory 30, 31–36 (2022).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR269",
+        "doi-asserted-by": "publisher",
+        "first-page": "69",
+        "DOI": "10.1037/a0033722",
+        "volume": "140",
+        "author": "CR Brewin",
+        "year": "2014",
+        "unstructured": "Brewin, C. R. Episodic memory, perceptual memory, and their interaction: foundations for a theory of posttraumatic stress disorder. Psychol. Bull. 140, 69–97 (2014).",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "312_CR270",
+        "doi-asserted-by": "publisher",
+        "first-page": "267",
+        "DOI": "10.1177/0963721420917691",
+        "volume": "29",
+        "author": "JA Bisby",
+        "year": "2020",
+        "unstructured": "Bisby, J. A., Burgess, N. & Brewin, C. R. Reduced memory coherence for negative events and its relationship to posttraumatic stress disorder. Curr. Dir. Psychol. 29, 267–272 (2020).",
+        "journal-title": "Curr. Dir. Psychol."
+      },
+      {
+        "key": "312_CR271",
+        "doi-asserted-by": "publisher",
+        "first-page": "61",
+        "DOI": "10.1111/1467-8721.ep10771786",
+        "volume": "4",
+        "author": "EB Foa",
+        "year": "1995",
+        "unstructured": "Foa, E. B. & Riggs, D. S. Posttraumatic stress disorder following assault: theoretical considerations and empirical findings. Curr. Dir. Psychol. 4, 61–65 (1995).",
+        "journal-title": "Curr. Dir. Psychol."
+      },
+      {
+        "key": "312_CR272",
+        "doi-asserted-by": "publisher",
+        "first-page": "677",
+        "DOI": "10.1037/0882-7974.17.4.677",
+        "volume": "17",
+        "author": "B Levine",
+        "year": "2002",
+        "unstructured": "Levine, B., Svoboda, E., Hay, J. F., Winocur, G. & Moscovitch, M. Aging and autobiographical memory: dissociating episodic from semantic retrieval. Psychol. Aging 17, 677–689 (2002).",
+        "journal-title": "Psychol. Aging"
+      },
+      {
+        "key": "312_CR273",
+        "doi-asserted-by": "publisher",
+        "first-page": "1079",
+        "DOI": "10.1016/j.tics.2022.09.007",
+        "volume": "26",
+        "author": "MD Grilli",
+        "year": "2022",
+        "unstructured": "Grilli, M. D. & Sheldon, S. Autobiographical event memory and aging: older adults get the gist. Trends Cogn. Sci. 26, 1079–1089 (2022).",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "312_CR274",
+        "doi-asserted-by": "publisher",
+        "first-page": "242",
+        "DOI": "10.1016/j.neuropsychologia.2015.08.013",
+        "volume": "83",
+        "author": "L Renoult",
+        "year": "2016",
+        "unstructured": "Renoult, L. et al. Personal semantics: is it distinct from episodic and semantic memory? An electrophysiological study of memory for autobiographical facts and repeated events in honor of Shlomo Bentin. Neuropsychologia 83, 242–256 (2016).",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "312_CR275",
+        "doi-asserted-by": "publisher",
+        "first-page": "3164",
+        "DOI": "10.1016/j.neuropsychologia.2011.07.015",
+        "volume": "49",
+        "author": "AC Holland",
+        "year": "2011",
+        "unstructured": "Holland, A. C., Addis, D. R. & Kensinger, E. A. The neural correlates of specific versus general autobiographical memory construction and elaboration. Neuropsychologia 49, 3164–3177 (2011).",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "312_CR276",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Barzykowski, K. & Moulin, C. Are involuntary autobiographical memory and déjà vu natural products of memory retrieval? Behav. Brain Sci. https://doi.org/10.1017/S0140525X22002035 (2022).",
+        "DOI": "10.1017/S0140525X22002035"
+      },
+      {
+        "key": "312_CR277",
+        "doi-asserted-by": "publisher",
+        "first-page": "138",
+        "DOI": "10.1177/0963721410370301",
+        "volume": "19",
+        "author": "D Berntsen",
+        "year": "2010",
+        "unstructured": "Berntsen, D. The unbidden past: involuntary autobiographical memories as a basic mode of remembering. Curr. Dir. Psychol. 19, 138–142 (2010).",
+        "journal-title": "Curr. Dir. Psychol."
+      },
+      {
+        "key": "312_CR278",
+        "doi-asserted-by": "publisher",
+        "first-page": "20190693",
+        "DOI": "10.1098/rstb.2019.0693",
+        "volume": "376",
+        "author": "D Berntsen",
+        "year": "2021",
+        "unstructured": "Berntsen, D. Involuntary autobiographical memories and their relation to other forms of spontaneous thoughts. Phil. Trans. R. Soc. Lond. B 376, 20190693 (2021).",
+        "journal-title": "Phil. Trans. R. Soc. Lond. B"
+      },
+      {
+        "key": "312_CR279",
+        "doi-asserted-by": "publisher",
+        "first-page": "625",
+        "DOI": "10.1080/09658211.2011.595722",
+        "volume": "19",
+        "author": "H Finnbogadóttir",
+        "year": "2011",
+        "unstructured": "Finnbogadóttir, H. & Berntsen, D. Involuntary and voluntary mental time travel in high and low worriers. Memory 19, 625–640 (2011).",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "312_CR280",
+        "doi-asserted-by": "publisher",
+        "first-page": "20",
+        "DOI": "10.1002/acp.1634",
+        "volume": "25",
+        "author": "JH Mace",
+        "year": "2011",
+        "unstructured": "Mace, J. H., Atkinson, E., Moeckel, C. H. & Torres, V. Accuracy and perspective in involuntary autobiographical memory. Appl. Cogn. Psychol. 25, 20–28 (2011).",
+        "journal-title": "Appl. Cogn. Psychol."
+      },
+      {
+        "key": "312_CR281",
+        "doi-asserted-by": "publisher",
+        "first-page": "449",
+        "DOI": "10.3758/MC.36.2.449",
+        "volume": "36",
+        "author": "D Berntsen",
+        "year": "2008",
+        "unstructured": "Berntsen, D. & Rubin, D. C. The reappearance hypothesis revisited: recurrent involuntary memories after traumatic events and in everyday life. Mem. Cogn. 36, 449–460 (2008).",
+        "journal-title": "Mem. Cogn."
+      }
+    ],
+    "container-title": [
+      "Nature Reviews Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s44159-024-00312-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s44159-024-00312-1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s44159-024-00312-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ],
+      "date-time": "2024-06-12T13:15:21Z",
+      "timestamp": 1718198121000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s44159-024-00312-1"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          7
+        ]
+      ]
+    },
+    "references-count": 281,
+    "journal-issue": {
+      "issue": "6",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "312"
+    ],
+    "URL": "https://doi.org/10.1038/s44159-024-00312-1",
+    "relation": {},
+    "ISSN": [
+      "2731-0574"
+    ],
+    "issn-type": [
+      {
+        "value": "2731-0574",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "12 April 2024",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "7 May 2024",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ]
+  }
+}

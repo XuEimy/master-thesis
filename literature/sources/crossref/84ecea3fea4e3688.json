@@ -1,0 +1,906 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2026-06-20T05:51:57Z",
+      "timestamp": 1781934717094,
+      "version": "3.54.5"
+    },
+    "reference-count": 59,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              20
+            ]
+          ],
+          "date-time": "2026-06-20T00:00:00Z",
+          "timestamp": 1781913600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              20
+            ]
+          ],
+          "date-time": "2026-06-20T00:00:00Z",
+          "timestamp": 1781913600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100022419",
+        "name": "National Institute for Health Research Southampton Biomedical Research Centre",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NIHR203319"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NIHR203319"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100022419",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001871",
+        "name": "Fundação para a Ciência e a Tecnologia",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "UIDB/00183/2020"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIDB/00183/2020"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001871",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Rev.Phil.Psych."
+    ],
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The present paper explores how large language models (LLMs) can function as personal memory systems. Unlike conventional lifelogging technologies, which passively record data, LLMs can actively participate in memory processes through dialog, interpretation, and narrative generation. LLMs, we suggest, mark a new chapter in the history of memory technology, one characterized by the active solicitation of mnemonically-relevant information and the co-production of narrative artifacts. Courtesy of their conversational capabilities, LLMs are poised to influence memory in the manner of a human social companion. This, we suggest, blurs the distinction between technologically- and socially-situated approaches to the shaping of human memory.</jats:p>",
+    "DOI": "10.1007/s13164-026-00831-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2026-06-20T05:38:30Z",
+      "timestamp": 1781933910000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Story of Your Life: Large Language Models and Personal Memory"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9989-5307",
+        "authenticated-orcid": false,
+        "given": "Paul",
+        "family": "Smart",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2006-3917",
+        "authenticated-orcid": false,
+        "given": "Robert",
+        "family": "Clowes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0931-1596",
+        "authenticated-orcid": false,
+        "given": "Joel",
+        "family": "Krueger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9281-6095",
+        "authenticated-orcid": false,
+        "given": "Michael",
+        "family": "Boniface",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "4",
+        "key": "831_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "370",
+        "DOI": "10.1111/j.1745-6924.2009.01140.x",
+        "volume": "4",
+        "author": "DM Bernstein",
+        "year": "2009",
+        "unstructured": "Bernstein, D. M., and E. F. Loftus. 2009. How to tell if a particular memory is true or false. Perspectives on Psychological Science 4(4):370–374. https://doi.org/10.1111/j.1745-6924.2009.01140.x.",
+        "journal-title": "Perspectives on Psychological Science"
+      },
+      {
+        "issue": "2",
+        "key": "831_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "113",
+        "DOI": "10.1080/741938206",
+        "volume": "11",
+        "author": "S Bluck",
+        "year": "2003",
+        "unstructured": "Bluck, S. 2003. Autobiographical memory: Exploring its functions in everyday life. Memory (Hove, England) 11(2):113–123. https://doi.org/10.1080/741938206.",
+        "journal-title": "Memory (Hove, England)"
+      },
+      {
+        "key": "831_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "43",
+        "DOI": "10.7551/mitpress/8535.003.0003]",
+        "volume-title": "The Extended Mind",
+        "author": "A Clark",
+        "year": "2010",
+        "unstructured": "Clark, A. 2010. Memento’s revenge: The extended mind, extended. In The Extended Mind, ed. R. Menary. 43–66. Cambridge, Massachusetts, USA: MIT Press. https://doi.org/10.7551/mitpress/8535.003.0003."
+      },
+      {
+        "issue": "Article 4627",
+        "key": "831_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1038/s41467-025-59906-9",
+        "volume": "16",
+        "author": "A Clark",
+        "year": "2025",
+        "unstructured": "Clark, A. 2025. Extending Minds with Generative AI. Nature Communications 16(Article 4627):1–4. https://doi.org/10.1038/s41467-025-59906-9.",
+        "journal-title": "Nature Communications"
+      },
+      {
+        "issue": "1",
+        "key": "831_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "7",
+        "DOI": "10.1093/analys/58.1.7",
+        "volume": "58",
+        "author": "A Clark",
+        "year": "1998",
+        "unstructured": "Clark, A., and D. Chalmers. 1998. The Extended Mind. Analysis 58(1):7–19. https://doi.org/10.1093/analys/58.1.7.",
+        "journal-title": "Analysis"
+      },
+      {
+        "issue": "1",
+        "key": "831_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "107",
+        "DOI": "10.1007/s13164-013-0130-y",
+        "volume": "4",
+        "author": "RW Clowes",
+        "year": "2013",
+        "unstructured": "Clowes, R. W. 2013. The Cognitive Integration of E-Memory. Review of Philosophy and Psychology 4(1):107–133. https://doi.org/10.1007/s13164-013-0130-y.",
+        "journal-title": "Review of Philosophy and Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "831_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "261",
+        "DOI": "10.1007/s13347-014-0153-z",
+        "volume": "28",
+        "author": "R Clowes",
+        "year": "2015",
+        "unstructured": "Clowes, R. 2015. Thinking in the Cloud: The Cognitive Incorporation of Cloud-Based Technology. Philosophy & Technology 28(2):261–296. https://doi.org/10.1007/s13347-014-0153-z.",
+        "journal-title": "Philosophy &amp; Technology"
+      },
+      {
+        "key": "831_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "243",
+        "DOI": "10.4324/9781315687315-20",
+        "volume-title": "The Routledge Handbook of Philosophy of Memory",
+        "author": "RW Clowes",
+        "year": "2017",
+        "unstructured": "Clowes, R. W. 2017. Extended Memory. In The Routledge Handbook of Philosophy of Memory, ed. S. Bernecker, and K. Michaelian. 243–254. New York, New York, USA: Routledge."
+      },
+      {
+        "key": "831_CR9",
+        "unstructured": "Clowes, R. W. (in press) Generative AI Companions and the Cognitive and Affective Incorporation of the Ersatz Other. In V. C. Müller, A. R. Dewey, L. Dung & G. Löhr (Eds.), Philosophy of Artificial Intelligence. Springer, Berlin, Germany."
+      },
+      {
+        "issue": "2",
+        "key": "831_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "261",
+        "DOI": "10.1037/0033-295x.107.2.261",
+        "volume": "107",
+        "author": "MA Conway",
+        "year": "2000",
+        "unstructured": "Conway, M. A., and C. W. Pleydell-Pearce. 2000. The construction of autobiographical memories in the self-memory system. Psychological Review 107(2):261–288. https://doi.org/10.1037/0033-295x.107.2.261.",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "5",
+        "key": "831_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "491",
+        "DOI": "10.1521/soco.22.5.491.50768",
+        "volume": "22",
+        "author": "MA Conway",
+        "year": "2004",
+        "unstructured": "Conway, M. A., J. A. Singer, and A. Tagini. 2004. The self and autobiographical memory: Correspondence and coherence. Social Cognition 22(5):491–529. https://doi.org/10.1521/soco.22.5.491.50768.",
+        "journal-title": "Social Cognition"
+      },
+      {
+        "key": "831_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "47",
+        "DOI": "10.1007/978-3-030-30457-7_3]",
+        "volume-title": "Technology-Augmented Perception and Cognition",
+        "author": "T Dingler",
+        "year": "2021",
+        "unstructured": "Dingler, T., P. E. Agroudy, R. Rzayev, L. Lischke, T. Machulla, and A. Schmidt. 2021. Memory augmentation through lifelogging: opportunities and challenges. In Technology-Augmented Perception and Cognition, ed. T. Dingler, and E. Niforatos. 47–69. Cham, Switzerland: Springer. https://doi.org/10.1007/978-3-030-30457-7_3."
+      },
+      {
+        "key": "831_CR13",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Dong, C. V., Q. Lu, K. A. Norman, and S. Michelmann. (in press) Towards large language models with human-like episodic memory. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2025.06.016.",
+        "DOI": "10.1016/j.tics.2025.06.016"
+      },
+      {
+        "issue": "12",
+        "key": "831_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "735",
+        "DOI": "10.1016/j.neurol.2016.03.009",
+        "volume": "172",
+        "author": "L Dubourg",
+        "year": "2016",
+        "unstructured": "Dubourg, L., A. R. Silva, C. Fitamen, C. J. A. Moulin, and C. Souchay. 2016. SenseCam: A new tool for memory rehabilitation? Revue Neurologique 172(12):735–747. https://doi.org/10.1016/j.neurol.2016.03.009.",
+        "journal-title": "Revue Neurologique"
+      },
+      {
+        "issue": "12",
+        "key": "831_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "1797",
+        "DOI": "10.1017/S1041610218000376",
+        "volume": "30",
+        "author": "TR Elfrink",
+        "year": "2018",
+        "unstructured": "Elfrink, T. R., S. U. Zuidema, M. Kunz, and G. J. Westerhof. 2018. Life story books for people with dementia: a systematic review. International Psychogeriatrics 30(12):1797–1811. https://doi.org/10.1017/S1041610218000376.",
+        "journal-title": "International Psychogeriatrics"
+      },
+      {
+        "key": "831_CR16",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Fang, C. M., V. Danry, N. Whitmore, A. Bao, A. Hutchison, C. Pierce, and P. Maes. 2024. PhysioLLM: Supporting Personalized Health Insights with Wearables and Large Language Models. IEEE-EMBS International Conference on Biomedical and Health Informatics, Houston, Texas, USA. https://doi.org/10.1109/BHI62660.2024.10913781.",
+        "DOI": "10.1109/BHI62660.2024.10913781"
+      },
+      {
+        "key": "831_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "681",
+        "DOI": "10.1007/s11023-020-09548-1",
+        "volume": "30",
+        "author": "L Floridi",
+        "year": "2020",
+        "unstructured": "Floridi, L., and M. Chiriatti. 2020. GPT-3: Its nature, scope, limits, and consequences. Minds and Machines 30:681–694. https://doi.org/10.1007/s11023-020-09548-1.",
+        "journal-title": "Minds and Machines"
+      },
+      {
+        "key": "831_CR18",
+        "unstructured": "Fountas, Z., M. Benfeghoul, A. Oomerjee, F. Christopoulou, G. Lampouras, H. B. Ammar, and J. Wang. 2025. Human-inspired episodic memory for infinite context LLMs. The Thirteenth International Conference on Learning Representations, Singapore."
+      },
+      {
+        "key": "831_CR19",
+        "unstructured": "Gao, L., A. Madaan, S. Zhou, U. Alon, P. Liu, Y. Yang, J. Callan, and G. Neubig. 2023. PAL: Program-aided language models. Proceedings of the 40th International Conference on Machine Learning, Honolulu, Hawaii, USA."
+      },
+      {
+        "key": "831_CR20",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gao, Y., Y. Xiong, X. Gao, K. Jia, J. Pan, Y. Bi, Y. Dai, J. Sun, and H. Wang. 2024. Retrieval-augmented generation for large language models: A survey. arXiv:2312.10997. https://doi.org/10.48550/arXiv.2312.10997.",
+        "DOI": "10.48550/arXiv.2312.10997"
+      },
+      {
+        "key": "831_CR21",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Goffin, K., and A. Archer. (in press) Don’t go reading my emotions: affective harm, affective injustice and affective artificial intelligence. Philosophical Psychology, 1–24. https://doi.org/10.1080/09515089.2025.2571445.",
+        "DOI": "10.1080/09515089.2025.2571445"
+      },
+      {
+        "key": "831_CR22",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ha, J., D. Lee, and C. Oh. 2023. You Know What I’m Saying: Designing Conversational Strategies of AI Agent for Tip of the Tongue Phenomenon. Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, Hamburg, Germany. https://doi.org/10.1145/3544549.3585670.",
+        "DOI": "10.1145/3544549.3585670"
+      },
+      {
+        "issue": "5",
+        "key": "831_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "748",
+        "DOI": "10.1037/0033-2909.126.5.748",
+        "volume": "126",
+        "author": "T Habermas",
+        "year": "2000",
+        "unstructured": "Habermas, T., and S. Bluck. 2000. Getting a life: the emergence of the life story in adolescence. Psychological Bulletin 126(5):748–769. https://doi.org/10.1037/0033-2909.126.5.748.",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "3",
+        "key": "831_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "285",
+        "DOI": "10.1177/1750698014530619",
+        "volume": "7",
+        "author": "CB Harris",
+        "year": "2014",
+        "unstructured": "Harris, C. B., A. J. Barnier, J. Sutton, and P. G. Keil. 2014. Couples as socially distributed cognitive systems: Remembering in everyday social and material contexts. Memory Studies 7(3):285–297. https://doi.org/10.1177/1750698014530619.",
+        "journal-title": "Memory Studies"
+      },
+      {
+        "key": "831_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "14",
+        "DOI": "10.1016/j.pmcj.2015.12.002",
+        "volume": "27",
+        "author": "M Harvey",
+        "year": "2016",
+        "unstructured": "Harvey, M., M. Langheinrich, and G. Ward. 2016. Remembering through lifelogging: A survey of human memory augmentation. Pervasive and Mobile Computing 27:14–26. https://doi.org/10.1016/j.pmcj.2015.12.002.",
+        "journal-title": "Pervasive and Mobile Computing"
+      },
+      {
+        "issue": "Article 53",
+        "key": "831_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1007/s10539-020-09770-2",
+        "volume": "35",
+        "author": "R Heersmink",
+        "year": "2020",
+        "unstructured": "Heersmink, R. 2020. Narrative niche construction: memory ecologies and distributed narrative identities. Biology & Philosophy 35(Article 53):1–23. https://doi.org/10.1007/s10539-020-09770-2.",
+        "journal-title": "Biology &amp; Philosophy"
+      },
+      {
+        "issue": "Article 8",
+        "key": "831_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1007/s12152-022-09479-x",
+        "volume": "15",
+        "author": "R Heersmink",
+        "year": "2022",
+        "unstructured": "Heersmink, R. 2022a. Preserving narrative identity for dementia patients: Embodiment, active environments, and distributed memory. Neuroethics 15(Article 8):1–16. https://doi.org/10.1007/s12152-022-09479-x.",
+        "journal-title": "Neuroethics"
+      },
+      {
+        "issue": "4",
+        "key": "831_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "659",
+        "DOI": "10.1111/mila.12353",
+        "volume": "37",
+        "author": "R Heersmink",
+        "year": "2022",
+        "unstructured": "Heersmink, R. 2022b. Extended mind and artifactual autobiographical memory. Mind & Language 37(4):659–673. https://doi.org/10.1111/mila.12353.",
+        "journal-title": "Mind &amp; Language"
+      },
+      {
+        "key": "831_CR29",
+        "unstructured": "Heersmink, R. (in press). Memory and technology: Historical and developmental perspectives. In Oxford Handbook of Philosophy of Memory, ed. A. Sant’Anna, and C. F. Craver. Oxford, UK: Oxford University Press."
+      },
+      {
+        "key": "831_CR30",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hernández-Orallo, J., and K. Vold. 2019. AI Extenders: The Ethical and Societal Implications of Humans Cognitively Extended by AI. AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society, Honolulu, Hawaii, USA. https://doi.org/10.1145/3306618.3314238.",
+        "DOI": "10.1145/3306618.3314238"
+      },
+      {
+        "issue": "1",
+        "key": "831_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "55",
+        "DOI": "10.1146/annurev-psych-120710-100340",
+        "volume": "63",
+        "author": "W Hirst",
+        "year": "2012",
+        "unstructured": "Hirst, W., and G. Echterhoff. 2012. Remembering in conversations: The social sharing and reshaping of memories. Annual Review of Psychology 63(1):55–79. https://doi.org/10.1146/annurev-psych-120710-100340.",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "key": "831_CR32",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Kalnikaite, V., A. Sellen, S. Whittaker, and D. Kirk. 2010. Now let me see where I was: understanding how lifelogs mediate memory. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, Atlanta, Georgia, USA. https://doi.org/10.1145/1753326.1753638.",
+        "DOI": "10.1145/1753326.1753638"
+      },
+      {
+        "key": "831_CR33",
+        "volume-title": "Retrieval-augmented generation for knowledge-intensive NLP tasks",
+        "author": "P Lewis",
+        "year": "2020",
+        "unstructured": "Lewis, P., E. Perez, A. Piktus, F. Petroni, V. Karpukhin, N. Goyal, H. Küttler, M. Lewis, W.-t. Yih, T. Rocktäschel, S. Riedel, and D. Kiela. 2020. Retrieval-augmented generation for knowledge-intensive NLP tasks. Vancouver, Canada: Advances in Neural Information Processing Systems."
+      },
+      {
+        "key": "831_CR34",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Li, J. N., Z. J. Zhang, and J. Ma. 2025. OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering. Proceedings of the 2025 CHI Conference on Human Factors in Computing, Yokohama, Japan. https://doi.org/10.1145/3706598.3713448.",
+        "DOI": "10.1145/3706598.3713448"
+      },
+      {
+        "key": "831_CR35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.52202/075280-1516",
+        "volume-title": "Visual instruction tuning",
+        "author": "H Liu",
+        "year": "2023",
+        "unstructured": "Liu, H., C. Li, Q. Wu, and Y. J. Lee. 2023. Visual instruction tuning. New Orleans, Louisiana, USA: Advances in Neural Information Processing Systems."
+      },
+      {
+        "key": "831_CR36",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ma, X., Y. Gong, P. He, H. Zhao, and N. Duan. 2023. Query rewriting in retrieval-augmented large language models. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, Singapore. https://doi.org/10.18653/v1/2023.emnlp-main.322.",
+        "DOI": "10.18653/v1/2023.emnlp-main.322"
+      },
+      {
+        "key": "831_CR37",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Maniar, N., S. W. T. Chan, W. Zulfikar, S. Ren, C. Xu, and P. Maes. 2025. MemPal: Leveraging multimodal AI and LLMs for voice-activated object retrieval in homes of older adults. 30th International Conference on Intelligent User Interfaces, Cagliari, Italy. https://doi.org/10.1145/3708359.3712151.",
+        "DOI": "10.1145/3708359.3712151"
+      },
+      {
+        "issue": "2",
+        "key": "831_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "100",
+        "DOI": "10.1037/1089-2680.5.2.100",
+        "volume": "5",
+        "author": "DP McAdams",
+        "year": "2001",
+        "unstructured": "McAdams, D. P. 2001. The psychology of life stories. Review of General Psychology 5(2):100–122. https://doi.org/10.1037/1089-2680.5.2.100.",
+        "journal-title": "Review of General Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "831_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "233",
+        "DOI": "10.1177/0963721413475622",
+        "volume": "22",
+        "author": "DP McAdams",
+        "year": "2013",
+        "unstructured": "McAdams, D. P., and K. C. McLean. 2013. Narrative Identity. Current Directions in Psychological Science 22(3):233–238. https://doi.org/10.1177/0963721413475622.",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "key": "831_CR40",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Mialon, G., R. Dessì, M. Lomeli, C. Nalmpantis, R. Pasunuru, R. Raileanu, B. Rozière, T. Schick, J. Dwivedi-Yu, A. Celikyilmaz, E. Grave, Y. LeCun, and T. Scialom. 2023. Augmented language models: a survey. Transactions on Machine Learning Research 1–35. https://doi.org/10.48550/arXiv.2302.07842.",
+        "DOI": "10.48550/arXiv.2302.07842"
+      },
+      {
+        "issue": "3",
+        "key": "831_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "323",
+        "DOI": "10.1080/09515089.2011.559623",
+        "volume": "24",
+        "author": "K Michaelian",
+        "year": "2011",
+        "unstructured": "Michaelian, K. 2011. Generative memory. Philosophical Psychology 24(3):323–342. https://doi.org/10.1080/09515089.2011.559623.",
+        "journal-title": "Philosophical Psychology"
+      },
+      {
+        "issue": "7",
+        "key": "831_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "3580",
+        "DOI": "10.1109/TKDE.2024.3352100",
+        "volume": "36",
+        "author": "S Pan",
+        "year": "2024",
+        "unstructured": "Pan, S., L. Luo, Y. Wang, C. Chen, J. Wang, and X. Wu. 2024. Unifying large language models and knowledge graphs: A roadmap. IEEE Transactions on Knowledge and Data Engineering 36(7):3580–3599. https://doi.org/10.1109/TKDE.2024.3352100.",
+        "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+        "issue": "3–4",
+        "key": "831_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "685",
+        "DOI": "10.1147/sj.393.0685",
+        "volume": "39",
+        "author": "B Rhodes",
+        "year": "2000",
+        "unstructured": "Rhodes, B., and P. Maes. 2000. Just-in-time information retrieval agents. IBM Systems Journal 39(3–4):685–704. https://doi.org/10.1147/sj.393.0685.",
+        "journal-title": "IBM Systems Journal"
+      },
+      {
+        "issue": "8",
+        "key": "831_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "389",
+        "DOI": "10.5840/jphil2004101826",
+        "volume": "101",
+        "author": "R Rupert",
+        "year": "2004",
+        "unstructured": "Rupert, R. 2004. Challenges to the Hypothesis of Extended Cognition. Journal of Philosophy 101(8):389–428.",
+        "journal-title": "Journal of Philosophy"
+      },
+      {
+        "issue": "1",
+        "key": "831_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "9",
+        "DOI": "10.1353/ppp.2005.0032",
+        "volume": "12",
+        "author": "M Schechtman",
+        "year": "2005",
+        "unstructured": "Schechtman, M. 2005. Personal identity and the past. Philosophy Psychiatry & Psychology 12(1):9–22. https://doi.org/10.1353/ppp.2005.0032.",
+        "journal-title": "Philosophy Psychiatry &amp; Psychology"
+      },
+      {
+        "key": "831_CR46",
+        "volume-title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+        "author": "T Schick",
+        "year": "2023",
+        "unstructured": "Schick, T., J. Dwivedi-Yu, R. Dessì, R. Raileanu, M. Lomeli, L. Zettlemoyer, N. Cancedda, and T. Scialom. 2023. Toolformer: Language Models Can Teach Themselves to Use Tools. New Orleans, Louisiana, USA: Advances in Neural Information Processing Systems."
+      },
+      {
+        "issue": "2",
+        "key": "831_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "241313",
+        "DOI": "10.1098/rsos.241313",
+        "volume": "12",
+        "author": "TR Shultz",
+        "year": "2025",
+        "unstructured": "Shultz, T. R., J. M. Wise, and A. S. Nobandegani. 2025. Text understanding in GPT-4 versus humans. Royal Society Open Science 12(2):241313. https://doi.org/10.1098/rsos.241313.",
+        "journal-title": "Royal Society Open Science"
+      },
+      {
+        "issue": "Article 101202",
+        "key": "831_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.cogsys.2023.101202",
+        "volume": "84",
+        "author": "PR Smart",
+        "year": "2024",
+        "unstructured": "Smart, P. R. 2024. Extended X: Extending the Reach of Active Externalism. Cognitive Systems Research 84(Article 101202):1–12. https://doi.org/10.1016/j.cogsys.2023.101202.",
+        "journal-title": "Cognitive Systems Research"
+      },
+      {
+        "issue": "242",
+        "key": "831_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1007/s11229-025-05046-y",
+        "volume": "205",
+        "author": "PR Smart",
+        "year": "2025",
+        "unstructured": "Smart, P. R., R. W. Clowes, and A. Clark. 2025. ChatGPT, Extended: Large Language Models and the Extended Mind. Synthese 205(242):1–30. https://doi.org/10.1007/s11229-025-05046-y.",
+        "journal-title": "Synthese"
+      },
+      {
+        "issue": "4",
+        "key": "831_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "287",
+        "DOI": "10.1080/15228830903329831",
+        "volume": "27",
+        "author": "KL Smith",
+        "year": "2009",
+        "unstructured": "Smith, K. L., M. Crete-Nishihata, T. Damianakis, R. M. Baecker, and E. Marziali. 2009. Multimedia biographies: a reminiscence and social stimulus tool for persons with cognitive impairment. Journal of Technology in Human Services 27(4):287–306. https://doi.org/10.1080/15228830903329831.",
+        "journal-title": "Journal of Technology in Human Services"
+      },
+      {
+        "key": "831_CR51",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sui, P., E. Duede, S. Wu, and R. So. 2024. Confabulation: The Surprising Value of Large Language Model Hallucinations. 62nd Annual Meeting of the Association for Computational Linguistics, Bangkok, Thailand. https://doi.org/10.18653/v1/2024.acl-long.770.",
+        "DOI": "10.18653/v1/2024.acl-long.770"
+      },
+      {
+        "key": "831_CR52",
+        "unstructured": "Wu, Q., G. Bansal, J. Zhang, Y. Wu, B. Li, E. Zhu, L. Jiang, X. Zhang, S. Zhang, J. Liu, A. H. Awadallah, R. W. White, D. Burger, and C. Wang. 2024. AutoGen: Enabling next-gen LLM applications via multi-agent conversations. First Conference on Language Modeling, Philadelphia, Pennsylvania, USA."
+      },
+      {
+        "key": "831_CR53",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Xu, Z., H. Xu, Z. Lu, Y. Zhao, R. Zhu, Y. Wang, M. Dong, Y. Chang, Q. Lv, and R. P. Dick. 2024. Can large language models be good companions? An LLM-based eyewear system with conversational common ground. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 8(2), 1–41. https://doi.org/10.1145/3659600.",
+        "DOI": "10.1145/3659600"
+      },
+      {
+        "key": "831_CR54",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Xygkou, A., C. S. Ang, P. Siriaraya, J. P. Kopecki, A. Covaci, E. Kanjo, and W.-J. She. 2024. MindTalker: Navigating the Complexities of AI-Enhanced Social Engagement for People with Early-Stage Dementia. Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems, Honolulu, Hawaii, USA. https://doi.org/10.1145/3613904.3642538.",
+        "DOI": "10.1145/3613904.3642538"
+      },
+      {
+        "key": "831_CR55",
+        "unstructured": "Yao, S., J. Zhao, D. Yu, N. Du, I. Shafran, K. Narasimhan, and Y. Cao. 2023. ReAct: Synergizing reasoning and acting in language models. Eleventh International Conference on Learning Representations, Kigali, Rwanda."
+      },
+      {
+        "key": "831_CR56",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Yunusov, S., H. Sidat, and A. Emami. 2024. MirrorStories: Reflecting Diversity through Personalized Narrative Generation with Large Language Models. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, Miami, Florida, USA. https://doi.org/10.18653/v1/2024.emnlp-main.382.",
+        "DOI": "10.18653/v1/2024.emnlp-main.382"
+      },
+      {
+        "issue": "5",
+        "key": "831_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "856",
+        "DOI": "10.3390/math13050856",
+        "volume": "13",
+        "author": "W Zhang",
+        "year": "2025",
+        "unstructured": "Zhang, W., and J. Zhang. 2025. Hallucination mitigation for retrieval-augmented large language models: a review. Mathematics 13(5):856. https://doi.org/10.3390/math13050856.",
+        "journal-title": "Mathematics"
+      },
+      {
+        "key": "831_CR58",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zhong, W., L. Guo, Q. Gao, H. Ye, and Y. Wang. 2024. MemoryBank: Enhancing large language models with long-term memory. Thirty-Eighth AAAI Conference on Artificial Intelligence, Vancouver, Canada. https://doi.org/10.1609/aaai.v38i17.29946.",
+        "DOI": "10.1609/aaai.v38i17.29946"
+      },
+      {
+        "key": "831_CR59",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zulfikar, W. D., S. Chan, and P. Maes. 2024. Memoro: Using large language models to realize a concise interface for real-time memory augmentation. Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems, Honolulu, Hawaii, USA. https://doi.org/10.1145/3613904.3642450.",
+        "DOI": "10.1145/3613904.3642450"
+      }
+    ],
+    "container-title": [
+      "Review of Philosophy and Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s13164-026-00831-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s13164-026-00831-1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s13164-026-00831-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2026-06-20T05:38:33Z",
+      "timestamp": 1781933913000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s13164-026-00831-1"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ]
+    },
+    "references-count": 59,
+    "alternative-id": [
+      "831"
+    ],
+    "URL": "https://doi.org/10.1007/s13164-026-00831-1",
+    "relation": {},
+    "ISSN": [
+      "1878-5158",
+      "1878-5166"
+    ],
+    "issn-type": [
+      {
+        "value": "1878-5158",
+        "type": "print"
+      },
+      {
+        "value": "1878-5166",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "20 June 2025",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "27 May 2026",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "20 June 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics Approval"
+        }
+      },
+      {
+        "value": "Approval given by all authors.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for Publication"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent to Participate"
+        }
+      },
+      {
+        "value": "The authors declare they have no financial interests.",
+        "order": 5,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Financial interests"
+        }
+      },
+      {
+        "value": "The authors have no competing interests to declare that are relevant to the content of this article.",
+        "order": 6,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          10
+        ]
+      ],
+      "date-time": "2026-06-10T03:13:34Z",
+      "timestamp": 1781061214851,
+      "version": "3.54.1"
+    },
+    "reference-count": 27,
+    "publisher": "SAGE Publications",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              5,
+              15
+            ]
+          ],
+          "date-time": "2014-05-15T00:00:00Z",
+          "timestamp": 1400112000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "New Media &amp; Society"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:p>This article demonstrates the need always to consider change against continuity and continuity against change in the analysis of mnemonic technologies. It does so by exploring what has happened in the move from analogue to digital photography, looking, in particular, at how this has affected the meanings of personal photographs and the practices of remembering associated with them. In contrast with technologically determinist perspectives which have been, however latently, manifest in writing on new media, the value of exploring vernacular photography as a specifically mnemonic practice is that it turns our attention to the ways in which photographic practices are bound up with longer term social uses and cultural values. Our analysis focuses on changes in four key categories of photographic practice that relate to the analogue/digital shift: photo-taking, photo-storing, photo-viewing, photo-sharing – all of which have consequences for the uses of photography as a mnemonic resource. They have all been altered in varying degrees by the advent of digital technologies, but with people continually making comparative evaluations of old and new, drawing on the former as a key aspect of learning how to use the latter.</jats:p>",
+    "DOI": "10.1177/1461444814532062",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2014-05-15T05:35:54Z",
+      "timestamp": 1400132154000
+    },
+    "page": "576-593",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 59,
+    "title": [
+      "Technologies of memory: Practices of remembering in analogue and digital photography"
+    ],
+    "prefix": "10.1177",
+    "volume": "16",
+    "author": [
+      {
+        "given": "Emily",
+        "family": "Keightley",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Loughborough University, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Pickering",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Loughborough University, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          15
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-1461444814532062",
+        "unstructured": "Allett N, Keightley E, Pickering M (2011) Using self-interviews to research memory. Realities at the Morgan Centre. Available at: http://www.manchester.ac.uk/morgancentre/realities/toolkits/"
+      },
+      {
+        "key": "bibr2-1461444814532062",
+        "volume-title": "Memory Practices in the Sciences",
+        "author": "Bowker G",
+        "year": "2005"
+      },
+      {
+        "key": "bibr3-1461444814532062",
+        "volume-title": "Snapshot Versions of Life",
+        "author": "Chalfen R",
+        "year": "1987"
+      },
+      {
+        "key": "bibr4-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1470357209102110"
+      },
+      {
+        "key": "bibr5-1461444814532062",
+        "volume-title": "Techniques of the Observer",
+        "author": "Crary J",
+        "year": "1993"
+      },
+      {
+        "key": "bibr6-1461444814532062",
+        "first-page": "7",
+        "volume-title": "Displacing Place",
+        "author": "Gumpert G",
+        "year": "2007"
+      },
+      {
+        "key": "bibr7-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10304310701269107"
+      },
+      {
+        "key": "bibr8-1461444814532062",
+        "volume-title": "The Cell Phone: An Anthropology of Communication",
+        "author": "Horst H",
+        "year": "2006"
+      },
+      {
+        "key": "bibr9-1461444814532062",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Keightley E, Pickering M, Allett N (2012) The self-interview: a new method in social science research. International Journal for Social Research Methodology. Available at: http://www.tandfonline.com/doi/abs/10.1080/13645579.2011.632155",
+        "DOI": "10.1080/13645579.2011.632155"
+      },
+      {
+        "key": "bibr10-1461444814532062",
+        "volume-title": "The Reconfigured Eye: Visual Truth in the Post-Photographic Era",
+        "author": "Mitchell W",
+        "year": "1992"
+      },
+      {
+        "key": "bibr11-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1470412908091935"
+      },
+      {
+        "key": "bibr12-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17540763.2010.499623"
+      },
+      {
+        "key": "bibr13-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9780748683475-007"
+      },
+      {
+        "key": "bibr14-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/10748120110424816"
+      },
+      {
+        "key": "bibr15-1461444814532062",
+        "unstructured": "Prieur C, Cardon D, Beuscart JS, (2008) The strength of weak cooperation: a case study of Flickr. Available at: http://arxiv.org/abs/0802.2317"
+      },
+      {
+        "key": "bibr16-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3176/tr.2008.3.10"
+      },
+      {
+        "key": "bibr17-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725860903106179"
+      },
+      {
+        "key": "bibr18-1461444814532062",
+        "first-page": "28",
+        "volume-title": "The Critical Image",
+        "author": "Ritchin F",
+        "year": "1990"
+      },
+      {
+        "key": "bibr19-1461444814532062",
+        "first-page": "113",
+        "volume": "1",
+        "author": "Rubenstein D",
+        "year": "2005",
+        "journal-title": "Issues in Contemporary Culture and Aesthetics"
+      },
+      {
+        "key": "bibr20-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-85729-247-6"
+      },
+      {
+        "key": "bibr21-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5040/9780755699865"
+      },
+      {
+        "key": "bibr22-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1353/sor.2008.0046"
+      },
+      {
+        "key": "bibr23-1461444814532062",
+        "first-page": "48",
+        "author": "Tysome T",
+        "year": "1993",
+        "journal-title": "The Times Higher"
+      },
+      {
+        "key": "bibr24-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9780804779517"
+      },
+      {
+        "key": "bibr25-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1470357207084865"
+      },
+      {
+        "key": "bibr26-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698010385215"
+      },
+      {
+        "key": "bibr27-1461444814532062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1472586X.2011.571888"
+      }
+    ],
+    "container-title": [
+      "New Media &amp; Society"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1461444814532062",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/1461444814532062",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1461444814532062",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          2
+        ]
+      ],
+      "date-time": "2026-05-02T03:42:04Z",
+      "timestamp": 1777693324000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/1461444814532062"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          15
+        ]
+      ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/1461444814532062"
+    ],
+    "URL": "https://doi.org/10.1177/1461444814532062",
+    "relation": {},
+    "ISSN": [
+      "1461-4448",
+      "1461-7315"
+    ],
+    "issn-type": [
+      {
+        "value": "1461-4448",
+        "type": "print"
+      },
+      {
+        "value": "1461-7315",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          15
+        ]
+      ]
+    }
+  }
+}

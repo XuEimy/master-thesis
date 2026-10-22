@@ -1,0 +1,594 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2026-10-12T12:34:50Z",
+      "timestamp": 1791808490266,
+      "version": "4.3.4"
+    },
+    "reference-count": 35,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              3
+            ]
+          ],
+          "date-time": "2014-12-03T00:00:00Z",
+          "timestamp": 1417564800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Psychological Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1007/s00426-014-0632-y",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          12,
+          2
+        ]
+      ],
+      "date-time": "2014-12-02T12:46:08Z",
+      "timestamp": 1417524368000
+    },
+    "page": "1077-1085",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 56,
+    "title": [
+      "Why are we not flooded by involuntary autobiographical memories? Few cues are more effective than many"
+    ],
+    "prefix": "10.1007",
+    "volume": "79",
+    "author": [
+      {
+        "given": "Manila",
+        "family": "Vannucci",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Claudia",
+        "family": "Pelagatti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maciej",
+        "family": "Hanczakowski",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giuliana",
+        "family": "Mazzoni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Claudia Rossi",
+        "family": "Paccani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          12,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "632_CR1",
+        "first-page": "11",
+        "volume-title": "Theories of memory",
+        "author": "A Baddeley",
+        "year": "1993",
+        "unstructured": "Baddeley, A. (1993). Working memory and conscious awareness. In A. C. Collins, S. E. Gathercole, M. A. Conway, & P. E. M. Morris (Eds.), Theories of memory (pp. 11–28). Hove: Lawrence Erlbaum."
+      },
+      {
+        "key": "632_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1002/9780470774069.ch6",
+        "volume-title": "Involuntary memory",
+        "author": "CT Ball",
+        "year": "2007",
+        "unstructured": "Ball, C. T., Mace, J. H., & Corona, H. (2007). Cues to the gusts of memory. In J. H. Mace (Ed.), Involuntary memory (pp. 113–126). Malden: Blackwell Publishing. doi: 10.1002/9780470774069.ch6 ."
+      },
+      {
+        "key": "632_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "491",
+        "DOI": "10.1093/biomet/93.3.491",
+        "volume": "93",
+        "author": "Y Benjamini",
+        "year": "2006",
+        "unstructured": "Benjamini, Y., Krieger, A. M., & Yekutieli, D. (2006). Adaptive linear step-up false discovery rate controlling procedures. Biometrika, 93, 491–507. doi: 10.1093/biomet/93.3.491 .",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "632_CR4",
+        "unstructured": "Berntsen, D. (1996). Involuntary autobiographical memories. Applied Cognitive Psychology, 10, 435–454. doi:10.1002/(SICI)10990720(199610)10:5%3C435:AID-ACP408%3E3.0.CO;2-L."
+      },
+      {
+        "key": "632_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1080/741942071",
+        "volume": "6",
+        "author": "D Berntsen",
+        "year": "1998",
+        "unstructured": "Berntsen, D. (1998). Voluntary and involuntary access to autobiographical memory. Memory, 6, 113–141. doi: 10.1080/741942071 .",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "632_CR6",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9780511575921",
+        "volume-title": "Involuntary autobiographical memories. An introduction to the unbidden past",
+        "author": "D Berntsen",
+        "year": "2009",
+        "unstructured": "Berntsen, D. (2009). Involuntary autobiographical memories. An introduction to the unbidden past. Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511575921 ."
+      },
+      {
+        "key": "632_CR007",
+        "doi-asserted-by": "crossref",
+        "first-page": "138",
+        "DOI": "10.1177/0963721410370301",
+        "volume": "19",
+        "author": "D Berntsen",
+        "year": "2010",
+        "unstructured": "Berntsen, D. (2010). The unbidden past: Involuntary autobiographical memories as a basic mode of remembering. Current Directions in Psychological Science, 19, 138–142. doi: 10.1177/0963721410370301 .",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "key": "632_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "789",
+        "DOI": "10.3758/BF03195869",
+        "volume": "32",
+        "author": "D Berntsen",
+        "year": "2004",
+        "unstructured": "Berntsen, D., & Hall, N. M. (2004). The episodic nature of involuntary autobiographical memories. Memory & Cognition, 32, 789–803. doi: 10.3758/BF03195869 .",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "key": "632_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "426",
+        "DOI": "10.1037/a0029128",
+        "volume": "142",
+        "author": "D Berntsen",
+        "year": "2013",
+        "unstructured": "Berntsen, D., Staugaard, S. R., & Sørensen, L. M. T. (2013). Why am I remembering this now? Predicting the occurrence of involuntary (spontaneous) episodic memories. Journal of Experimental Psychology: General, 142, 426–444. doi: 10.1037/a0029128 .",
+        "journal-title": "Journal of Experimental Psychology: General"
+      },
+      {
+        "key": "632_CR001",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Christoff, K., Gordon, A. M., Smallwood, J., Smith, R., & Schooler, J. W. (2009). Experience sampling during fMRI reveals default network and executive system contributions to mind wandering. Proceedings of the National Academy of Sciences of the United States of America, 106, 8719–8724. doi: 10.1073/pnas.0900234106 .",
+        "DOI": "10.1073/pnas.0900234106"
+      },
+      {
+        "key": "632_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "597",
+        "DOI": "10.1016/j.jml.2005.08.005",
+        "volume": "53",
+        "author": "MA Conway",
+        "year": "2005",
+        "unstructured": "Conway, M. A. (2005). Memory and the self. Journal of Memory and Language, 53, 597–628. doi: 10.1016/j.jml.2005.08.005 .",
+        "journal-title": "Journal of Memory and Language"
+      },
+      {
+        "key": "632_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1037/0033-295X.107.2.261",
+        "volume": "107",
+        "author": "MA Conway",
+        "year": "2000",
+        "unstructured": "Conway, M. A., & Pleydell-Pearce, C. W. (2000). The construction of autobiographical memories in the self-memory system. Psychological Review, 107, 261–288.",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "key": "632_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1037/0096-3445.125.2.159",
+        "volume": "125",
+        "author": "FIM Craik",
+        "year": "1996",
+        "unstructured": "Craik, F. I. M., Govoni, R., Naveh-Benjmain, M., & Anderson, N. D. (1996). The effects of divided attention on encoding and retrieval processes in human memory. Journal of Experimental Psychology: General, 125, 159–180.",
+        "journal-title": "Journal of Experimental Psychology: General"
+      },
+      {
+        "key": "632_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.3758/BF03193146",
+        "volume": "39",
+        "author": "F Faul",
+        "year": "2007",
+        "unstructured": "Faul, F., Erdfelder, R., Lang, A.-G., & Buchner, A. (2007). G*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior Research Methods, 39, 175–191.",
+        "journal-title": "Behavior Research Methods"
+      },
+      {
+        "key": "632_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "200",
+        "DOI": "10.1080/13506280701465049",
+        "volume": "16",
+        "author": "S Forster",
+        "year": "2008",
+        "unstructured": "Forster, S., & Lavie, N. (2008a). Attentional capture by entirely irrelevant distractors. Visual Cognition, 16, 200–214. doi: 10.1080/13506280701465049 .",
+        "journal-title": "Visual Cognition"
+      },
+      {
+        "key": "632_CR14",
+        "first-page": "73",
+        "volume": "14",
+        "author": "S Forster",
+        "year": "2008",
+        "unstructured": "Forster, S., & Lavie, N. (2008b). Failures to ignore entirely irrelevant distractors: the role of load. Journal of Experimental Psychology: Applied, 14, 73–83.",
+        "journal-title": "Journal of Experimental Psychology: Applied"
+      },
+      {
+        "key": "632_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "653",
+        "DOI": "10.7551/mitpress/1480.003.0032",
+        "volume-title": "Attention and performance XVII",
+        "author": "L Hasher",
+        "year": "1999",
+        "unstructured": "Hasher, L., Zacks, R. T., & May, C. P. (1999). Inhibitory control, circadian arousal, and age. In D. Gopher & A. Koriat (Eds.), Attention and performance XVII (pp. 653–675). Cambridge: MIT Press."
+      },
+      {
+        "key": "632_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1464",
+        "DOI": "10.1177/0956797610382120",
+        "volume": "21",
+        "author": "MK Healey",
+        "year": "2010",
+        "unstructured": "Healey, M. K., Cambell, K. L., Hasher, L., & Ossher, L. (2010). Direct evidence for the role of inhibition in resolving interference in memory. Psychological Science, 21, 1464–1470.",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "632_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "721",
+        "DOI": "10.1037/a0033003",
+        "volume": "28",
+        "author": "MK Healey",
+        "year": "2013",
+        "unstructured": "Healey, M. K., Hasher, L., & Cambell, K. L. (2013). The role of suppression in resolving interference: evidence for an age-related deficit. Psychology and Aging, 28, 721–728.",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "key": "632_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "905",
+        "DOI": "10.1037/a0026781",
+        "volume": "38",
+        "author": "DM Jones",
+        "year": "2012",
+        "unstructured": "Jones, D. M., Marsh, J. E., & Hughes, R. W. (2012). Retrieval from memory: vulnerable or inviolable? Journal of Experimental Psychology. Learning, Memory, and Cognition, 38, 905–922.",
+        "journal-title": "Journal of Experimental Psychology. Learning, Memory, and Cognition"
+      },
+      {
+        "key": "632_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "318",
+        "DOI": "10.1016/j.neulet.2010.10.047",
+        "volume": "487",
+        "author": "K Kompus",
+        "year": "2011",
+        "unstructured": "Kompus, K. (2011). Default mode networks gates the retrieval of task-irrelevant incidental memories. Neuroscience Letters, 487, 318–321. doi: 10.1016/j.neulet.2010.10.047 .",
+        "journal-title": "Neuroscience Letters"
+      },
+      {
+        "key": "632_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1016/S0010-0285(03)00115-4",
+        "volume": "48",
+        "author": "L Kvavilashvili",
+        "year": "2004",
+        "unstructured": "Kvavilashvili, L., & Mandler, G. (2004). Out of one’s mind: a study of involuntary semantic memories. Cognitive Psychology, 48, 47–94. doi: 10.1016/S0010-0285(03)00115-4 .",
+        "journal-title": "Cognitive Psychology"
+      },
+      {
+        "key": "632_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "893",
+        "DOI": "10.1002/acp.1020",
+        "volume": "18",
+        "author": "JH Mace",
+        "year": "2004",
+        "unstructured": "Mace, J. H. (2004). Involuntary autobiographical memories are highly dependent on abstract cuing: the Proustian view is incorrect. Applied Cognitive Psychology, 18, 893–899. doi: 10.1002/acp.1020 .",
+        "journal-title": "Applied Cognitive Psychology"
+      },
+      {
+        "key": "632_CR22",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/9780470774069",
+        "volume-title": "Involuntary memory",
+        "author": "JH Mace",
+        "year": "2007",
+        "unstructured": "Mace, J. H. (2007). Involuntary memory. Malden: Blackwell Publishing. doi: 10.1002/9780470774069.fmatter ."
+      },
+      {
+        "key": "632_CR23",
+        "first-page": "3",
+        "volume-title": "Attention and performance. Conscious and unconscious information processing",
+        "author": "G Mandler",
+        "year": "1994",
+        "unstructured": "Mandler, G. (1994). Hypermnesia, incubation, and mind-popping: on remembering without really trying. In C. Umilta & M. Moscovitch (Eds.), Attention and performance. Conscious and unconscious information processing (pp. 3–33). Cambridge: MIT Press."
+      },
+      {
+        "key": "632_CR24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1076",
+        "DOI": "10.3758/s13421-014-0420-3",
+        "volume": "42",
+        "author": "G Mazzoni",
+        "year": "2014",
+        "unstructured": "Mazzoni, G., Vannucci, M., & Batool, I. (2014). Manipulating cues in involuntary autobiographical memory: verbal cues are more effective than pictorial cues. Memory and Cognition, 42, 1076–1085. doi: 10.3758/s13421-014-0420-3 .",
+        "journal-title": "Memory and Cognition"
+      },
+      {
+        "key": "632_CR25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1185",
+        "DOI": "10.1016/j.neuroimage.2005.09.030",
+        "volume": "29",
+        "author": "KA McKiernan",
+        "year": "2006",
+        "unstructured": "McKiernan, K. A., D’Angelo, B. R., Kaufman, J. N., & Binder, J. R. (2006). Interrupting the “stream of consciousness”: an fMRI investigation. Neuroimage, 29, 1185–1191. doi: 10.1016/j.neuroimage.2005.09.030 .",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "632_CR26",
+        "doi-asserted-by": "crossref",
+        "first-page": "676",
+        "DOI": "10.1073/pnas.98.2.676",
+        "volume": "98",
+        "author": "ME Raichle",
+        "year": "2001",
+        "unstructured": "Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. Proceedings of the National Academy of Sciences of the United States of America, 98, 676–682. doi: 10.1073/pnas.98.2.676 .",
+        "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+      },
+      {
+        "key": "632_CR27",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780195082111.001.0001",
+        "volume-title": "Memory in oral traditions. The cognitive psychology of epic, ballads, and counting-out rhymes",
+        "author": "DC Rubin",
+        "year": "1995",
+        "unstructured": "Rubin, D. C. (1995). Memory in oral traditions. The cognitive psychology of epic, ballads, and counting-out rhymes. New York: Oxford University Press."
+      },
+      {
+        "key": "632_CR28",
+        "doi-asserted-by": "crossref",
+        "first-page": "920",
+        "DOI": "10.3758/MC.36.5.920",
+        "volume": "36",
+        "author": "S Schlagman",
+        "year": "2008",
+        "unstructured": "Schlagman, S., & Kvavilashvili, L. (2008). Involuntary autobiographical memories in and outside the laboratory: how different are they from voluntary autobiographical memories? Memory & Cognition, 36, 920–932. doi: 10.3758/MC.36.5.920 .",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "key": "632_CR29",
+        "first-page": "319",
+        "volume": "15",
+        "author": "JW Schooler",
+        "year": "2011",
+        "unstructured": "Schooler, J. W., Smallwood, J., Christoff, K., Handy, T. C., Reichle, E. D., & Sayette, M. A. (2011). Meta-awareness, perceptual decoupling and the wandering mind. Trends in Cognitive Science, 15, 319–326. doi: 10.1016/j.tics.2011.05.006 .",
+        "journal-title": "Trends in Cognitive Science"
+      },
+      {
+        "key": "632_CR30",
+        "volume-title": "Daydreaming. An introduction to the experimental study of inner experience",
+        "author": "JL Singer",
+        "year": "1966",
+        "unstructured": "Singer, J. L. (1966). Daydreaming. An introduction to the experimental study of inner experience. New York: Random House."
+      },
+      {
+        "key": "632_CR31",
+        "volume-title": "The inner world of daydreaming",
+        "author": "JL Singer",
+        "year": "1975",
+        "unstructured": "Singer, J. L. (1975). The inner world of daydreaming. New York: Harper and Row Publishing."
+      },
+      {
+        "key": "632_CR32",
+        "doi-asserted-by": "crossref",
+        "first-page": "242",
+        "DOI": "10.3758/s13421-012-0261-x",
+        "volume": "41",
+        "author": "N Unsworth",
+        "year": "2013",
+        "unstructured": "Unsworth, N., Brewer, G. A., & Spillers, G. J. (2013). Working memory capacity and retrieval from long-term memory: the role of controlled search. Memory & Cognition, 41, 242–254.",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "key": "632_CR33",
+        "doi-asserted-by": "crossref",
+        "first-page": "e89582",
+        "DOI": "10.1371/journal.pone.0089582",
+        "volume": "9",
+        "author": "M Vannucci",
+        "year": "2014",
+        "unstructured": "Vannucci, M., Batool, I., Pelagatti, C., & Mazzoni, G. (2014). Modifying the frequency and characteristics of involuntary autobiographical memories. PLoS One, 9, e89582. doi: 10.1371/journal.pone.0089582 .",
+        "journal-title": "PLoS One"
+      }
+    ],
+    "container-title": [
+      "Psychological Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00426-014-0632-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s00426-014-0632-y/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00426-014-0632-y",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          5
+        ]
+      ],
+      "date-time": "2024-06-05T14:14:20Z",
+      "timestamp": 1717596860000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/s00426-014-0632-y"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          12,
+          3
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "632"
+    ],
+    "URL": "https://doi.org/10.1007/s00426-014-0632-y",
+    "relation": {},
+    "ISSN": [
+      "0340-0727",
+      "1430-2772"
+    ],
+    "issn-type": [
+      {
+        "value": "0340-0727",
+        "type": "print"
+      },
+      {
+        "value": "1430-2772",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          12,
+          3
+        ]
+      ]
+    }
+  }
+}

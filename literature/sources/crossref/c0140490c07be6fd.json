@@ -1,0 +1,674 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          1
+        ]
+      ],
+      "date-time": "2026-06-01T22:33:01Z",
+      "timestamp": 1780353181838,
+      "version": "3.54.1"
+    },
+    "reference-count": 81,
+    "publisher": "Informa UK Limited",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              3
+            ]
+          ],
+          "date-time": "2024-01-03T00:00:00Z",
+          "timestamp": 1704240000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Memory"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1080/09658211.2023.2296826",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          3
+        ]
+      ],
+      "date-time": "2024-01-03T09:19:53Z",
+      "timestamp": 1704273593000
+    },
+    "page": "723-737",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "The frequency and cueing mechanisms of involuntary autobiographical memories while driving"
+    ],
+    "prefix": "10.1080",
+    "volume": "32",
+    "author": [
+      {
+        "given": "Andrew",
+        "family": "Laughland",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, University of Hertfordshire, Hatfield, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lia",
+        "family": "Kvavilashvili",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, University of Hertfordshire, Hatfield, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "unstructured": "Audacity (2.1.2). (2016). [Computer software]. http://www.audacityteam.org/."
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069.ch7"
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2015.01.005"
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1264"
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2017.1353102"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037//1089-2680.5.4.323"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1099-0720(199610)10:5<435::AID-ACP408>3.0.CO;2-L"
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741942071"
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069.ch2"
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511575921"
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721410370301"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00426-018-1127-z"
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03195869"
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2008.03.001"
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0029128"
+      },
+      {
+        "key": "e_1_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2015.01.005"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00426-023-01802-2"
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/001872089403600210"
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trf.2017.11.002"
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2018.10.001"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "first-page": "131",
+        "volume-title": "Vision in Vehicles 7",
+        "author": "Chapman P.",
+        "year": "1999",
+        "unstructured": "Chapman, P., Ismail, R., & Underwood, G. J. (1999). In A. G. Gale et al. (Eds.), Vision in Vehicles 7 (pp.131-138), Oxford: Elsevier."
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trf.2011.04.010"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trf.2013.03.008"
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "volume-title": "Statistical power analysis for the behavioral sciences",
+        "author": "Cohen J.",
+        "year": "1988",
+        "unstructured": "Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Routledge.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00426-019-01193-3"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00426-019-01262-7"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "volume-title": "Autobiographical memory: An introduction",
+        "author": "Conway M. A.",
+        "year": "1990",
+        "unstructured": "Conway, M. A. (1990). Autobiographical memory: An introduction. Open University Press."
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2005.08.005"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03197023"
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.125.1.69"
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.107.2.261"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1348/135910710X492341"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.e8105"
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/brain/2.2.149"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0038876"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/ccog.1995.1001"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1369-8478(03)00006-8"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1745691611406924"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2010.01.009"
+      },
+      {
+        "key": "e_1_3_3_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-021-01211-z"
+      },
+      {
+        "key": "e_1_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2013.838630"
+      },
+      {
+        "key": "e_1_3_3_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4684-2466-9_9"
+      },
+      {
+        "key": "e_1_3_3_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0010-0285(03)00115-4"
+      },
+      {
+        "key": "e_1_3_3_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1089268020918843"
+      },
+      {
+        "key": "e_1_3_3_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2011.568495"
+      },
+      {
+        "key": "e_1_3_3_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2018.09.002"
+      },
+      {
+        "key": "e_1_3_3_49_1",
+        "unstructured": "Laughland A. & Kvavilashvili L. (2024). The nature and frequency of involuntary autobiographical memories: Comparing a 30-minute campus walk audio-diary and 1-day paper diary [In preparation]."
+      },
+      {
+        "key": "e_1_3_3_50_1",
+        "first-page": "376",
+        "volume-title": "Explorations in cognition",
+        "author": "Linton M.",
+        "year": "1975",
+        "unstructured": "Linton, M. (1975). Memory for real-world events. In D. A. Norman, & D. Rumehart (Eds.), Explorations in cognition (pp. 376–404). Freeman."
+      },
+      {
+        "key": "e_1_3_3_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511558313.007"
+      },
+      {
+        "key": "e_1_3_3_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1020"
+      },
+      {
+        "key": "e_1_3_3_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210444000485"
+      },
+      {
+        "key": "e_1_3_3_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210600759766"
+      },
+      {
+        "key": "e_1_3_3_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069"
+      },
+      {
+        "key": "e_1_3_3_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/27784409"
+      },
+      {
+        "key": "e_1_3_3_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9781444328202.ch3"
+      },
+      {
+        "key": "e_1_3_3_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1634"
+      },
+      {
+        "key": "e_1_3_3_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2014.900083"
+      },
+      {
+        "key": "e_1_3_3_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2012.726359"
+      },
+      {
+        "key": "e_1_3_3_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2010.514271"
+      },
+      {
+        "key": "e_1_3_3_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2022.103385"
+      },
+      {
+        "key": "e_1_3_3_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-022-01342-x"
+      },
+      {
+        "key": "e_1_3_3_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-018-0866-9"
+      },
+      {
+        "key": "e_1_3_3_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-023-01430-6"
+      },
+      {
+        "key": "e_1_3_3_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2020.103018"
+      },
+      {
+        "key": "e_1_3_3_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-020-01029-1"
+      },
+      {
+        "key": "e_1_3_3_68_1",
+        "first-page": "456",
+        "volume-title": "Contemporary Ergonomics",
+        "author": "May J.",
+        "year": "1998",
+        "unstructured": "May, J., & Gale, A. (1998). How did I get here? Driving without attention mode. In E. J. Lovesday, M. Hanson, M. A. Hanson, & S. A. Robertson (Eds.), Contemporary Ergonomics (pp. 456–460). Taylor & Francis."
+      },
+      {
+        "key": "e_1_3_3_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-014-0420-3"
+      },
+      {
+        "key": "e_1_3_3_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00140139508925170"
+      },
+      {
+        "key": "e_1_3_3_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2015.01.014"
+      },
+      {
+        "key": "e_1_3_3_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2011.07.010"
+      },
+      {
+        "key": "e_1_3_3_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/cns0000042"
+      },
+      {
+        "key": "e_1_3_3_74_1",
+        "volume-title": "A collection of moments: A study of involuntary memories",
+        "author": "Salaman E.",
+        "year": "1970",
+        "unstructured": "Salaman, E. (1970). A collection of moments: A study of involuntary memories (1st ed.). Prentice Hall Press.",
+        "edition": "1"
+      },
+      {
+        "key": "e_1_3_3_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511527920"
+      },
+      {
+        "key": "e_1_3_3_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/MC.36.5.920"
+      },
+      {
+        "key": "e_1_3_3_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069.ch5"
+      },
+      {
+        "key": "e_1_3_3_78_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-psych-010814-015331"
+      },
+      {
+        "key": "e_1_3_3_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.3888"
+      },
+      {
+        "key": "e_1_3_3_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0028142"
+      },
+      {
+        "key": "e_1_3_3_81_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0089582"
+      },
+      {
+        "key": "e_1_3_3_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00426-014-0632-y"
+      },
+      {
+        "key": "e_1_3_3_83_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0285(86)90013-7"
+      }
+    ],
+    "container-title": [
+      "Memory"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09658211.2023.2296826",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2024-09-24T20:59:14Z",
+      "timestamp": 1727211554000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2296826"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          3
+        ]
+      ]
+    },
+    "references-count": 81,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/09658211.2023.2296826"
+    ],
+    "URL": "https://doi.org/10.1080/09658211.2023.2296826",
+    "relation": {},
+    "ISSN": [
+      "0965-8211",
+      "1464-0686"
+    ],
+    "issn-type": [
+      {
+        "value": "0965-8211",
+        "type": "print"
+      },
+      {
+        "value": "1464-0686",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pmem20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pmem20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2023-06-26",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-12-13",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2024-01-03",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

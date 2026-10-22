@@ -1,0 +1,1027 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2026-08-28T12:03:08Z",
+      "timestamp": 1787918588467,
+      "version": "build-2784847793"
+    },
+    "reference-count": 72,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              4
+            ]
+          ],
+          "date-time": "2026-02-04T00:00:00Z",
+          "timestamp": 1770163200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              10
+            ]
+          ],
+          "date-time": "2026-02-10T00:00:00Z",
+          "timestamp": 1770681600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 6,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Humanit Soc Sci Commun"
+    ],
+    "DOI": "10.1057/s41599-025-06426-y",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ],
+      "date-time": "2026-02-04T14:36:26Z",
+      "timestamp": 1770215786000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "What might we learn about autobiographical narrative processing from Artificial Intelligence?"
+    ],
+    "prefix": "10.1057",
+    "volume": "13",
+    "author": [
+      {
+        "given": "Cade D.",
+        "family": "Mansfield",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jack J.",
+        "family": "Bauer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jordan",
+        "family": "Booker",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Azriel",
+        "family": "Grysman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jefferson",
+        "family": "Singer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robyn",
+        "family": "Fivush",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "2",
+        "key": "6426_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "367",
+        "DOI": "10.1037/a0025289",
+        "volume": "102",
+        "author": "JM Adler",
+        "year": "2012",
+        "unstructured": "Adler JM (2012) Living into the story: Agency and coherence in a longitudinal study of narrative identity development and mental health over the course of psychotherapy. J Pers Soc Psychol 102(2):367–389",
+        "journal-title": "J Pers Soc Psychol"
+      },
+      {
+        "issue": "4",
+        "key": "6426_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "903",
+        "DOI": "10.1111/j.1467-6494.2009.00569.x",
+        "volume": "77",
+        "author": "JM Adler",
+        "year": "2009",
+        "unstructured": "Adler JM, Poulin MJ (2009) The political is personal: Narrating 9/11 and psychological well-being. J Pers 77(4):903–932",
+        "journal-title": "J Pers"
+      },
+      {
+        "issue": "2",
+        "key": "6426_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "142",
+        "DOI": "10.1177/1088868315585068",
+        "volume": "20",
+        "author": "JM Adler",
+        "year": "2016",
+        "unstructured": "Adler JM, Lodi-Smith J, Philippe FL, Houle I (2016) The incremental validity of narrative identity in predicting well-being: a review of the field and recommendations for the future. Personal Soc Psychol Rev 20(2):142–175",
+        "journal-title": "Personal Soc Psychol Rev"
+      },
+      {
+        "issue": "1",
+        "key": "6426_CR4",
+        "first-page": "3",
+        "volume": "64",
+        "author": "PB Armstrong",
+        "year": "2018",
+        "unstructured": "Armstrong PB (2018) Neuroscience and the social powers of narrative: how stories configure our brains. Engl Lang Lit 64(1):3–24",
+        "journal-title": "Engl Lang Lit"
+      },
+      {
+        "issue": "1",
+        "key": "6426_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "10",
+        "DOI": "10.1080/09658211.2012.707213",
+        "volume": "21",
+        "author": "MV Banks",
+        "year": "2013",
+        "unstructured": "Banks MV, Salmon K (2013) Reasoning about the self in positive and negative ways: Relationship to psychological functioning in young adulthood. Memory 21(1):10–26",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "3",
+        "key": "6426_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "342",
+        "DOI": "10.1177/0276236617733844",
+        "volume": "37",
+        "author": "MV Banks",
+        "year": "2018",
+        "unstructured": "Banks MV, Salmon K (2018) Cognitive response styles and the construction of personal narratives: Implications for psychopathology in young adults. Imag Cogn Pers 37(3):342–358",
+        "journal-title": "Imag Cogn Pers"
+      },
+      {
+        "issue": "4",
+        "key": "6426_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "761",
+        "DOI": "10.1037/a0019654",
+        "volume": "46",
+        "author": "JJ Bauer",
+        "year": "2010",
+        "unstructured": "Bauer JJ, McAdams DP (2010) Eudaimonic growth: Narrative growth goals predict increases in ego development and subjective well-being 3 years later. Dev Psychol 46(4):761–772",
+        "journal-title": "Dev Psychol"
+      },
+      {
+        "key": "6426_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "104309",
+        "DOI": "10.1016/j.jrp.2022.104309",
+        "volume": "101",
+        "author": "JJ Bauer",
+        "year": "2022",
+        "unstructured": "Bauer JJ, Thomsen DK (2022) Introduction to the special issue on “Storying the good life: Pathways and pitfalls to adaptive narrative identity”. J Res Personal 101:104309",
+        "journal-title": "J Res Personal"
+      },
+      {
+        "issue": "5",
+        "key": "6426_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "1181",
+        "DOI": "10.1111/j.1467-6494.2005.00346.x",
+        "volume": "73",
+        "author": "JJ Bauer",
+        "year": "2005",
+        "unstructured": "Bauer JJ, McAdams DP, Sakaeda AR (2005) Crystallization of Desire and Crystallization of Discontent in Narratives of Life-Changing Decisions. J Pers 73(5):1181–1213",
+        "journal-title": "J Pers"
+      },
+      {
+        "key": "6426_CR10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2022.104303",
+        "volume": "101",
+        "author": "JJ Bauer",
+        "year": "2022",
+        "unstructured": "Bauer JJ, Graham L, Mooney S, Geisz A, Mueller M (2022) A good life story: Deconstructing (and integrating) elements of narrative identity and a good life, featuring themes of humanistic growth. J Res Personal 101: 104303",
+        "journal-title": "J Res Personal"
+      },
+      {
+        "key": "6426_CR11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bauer JJ (2021) The transformative self: personal growth, narrative identity, and the Good life. Oxford University Press",
+        "DOI": "10.1093/oso/9780199970742.001.0001"
+      },
+      {
+        "issue": "4",
+        "key": "6426_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "592",
+        "DOI": "10.1080/17439760.2023.2257666",
+        "volume": "19",
+        "author": "AP Blyler",
+        "year": "2024",
+        "unstructured": "Blyler AP, Seligman MEP (2024) Personal narrative and stream of consciousness: an AI approach. J Posit Psychol 19(4):592–598. https://doi.org/10.1080/17439760.2023.2257666",
+        "journal-title": "J Posit Psychol"
+      },
+      {
+        "issue": "4",
+        "key": "6426_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "802",
+        "DOI": "10.1111/sode.12354",
+        "volume": "28",
+        "author": "JA Booker",
+        "year": "2019",
+        "unstructured": "Booker JA (2019) Patterns in autobiographical reminiscing among early adults: Implications for forgiveness and self‐compassion. Soc Dev 28(4):802–819",
+        "journal-title": "Soc Dev"
+      },
+      {
+        "issue": "3",
+        "key": "6426_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "324",
+        "DOI": "10.1111/jopy.12668",
+        "volume": "90",
+        "author": "JA Booker",
+        "year": "2022",
+        "unstructured": "Booker JA, Fivush R, Graci ME (2022) Narrative identity informs psychological adjustment: Considering three themes captured across five time points and two event valences. J Personal 90(3):324–342",
+        "journal-title": "J Personal"
+      },
+      {
+        "key": "6426_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "116",
+        "DOI": "10.1016/j.jad.2020.04.009",
+        "volume": "272",
+        "author": "JA Booker",
+        "year": "2020",
+        "unstructured": "Booker JA, Fivush R, Graci ME, Heitz H, Hudak LA, Jovanovic T, Rothbaum BO, Stevens JS (2020) Longitudinal changes in trauma narratives over the first year and associations with coping and mental health. J Affect Disord 272:116–124",
+        "journal-title": "J Affect Disord"
+      },
+      {
+        "issue": "5",
+        "key": "6426_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "206",
+        "DOI": "10.5153/sro.2011",
+        "volume": "14",
+        "author": "A Borisenkova",
+        "year": "2009",
+        "unstructured": "Borisenkova A (2009) Narrative foundations of knowing: towards a new perspective in the sociology of knowledge. Sociological Res Online 14(5):206–212",
+        "journal-title": "Sociological Res Online"
+      },
+      {
+        "issue": "1",
+        "key": "6426_CR17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/wcs.1444",
+        "volume": "9",
+        "author": "B Boyd",
+        "year": "2018",
+        "unstructured": "Boyd B (2018) The evolution of stories: from mimesis to language, from fact to fiction. Wiley Interdiscip Rev Cogn Sci 9(1):e1444",
+        "journal-title": "Wiley Interdiscip Rev Cogn Sci"
+      },
+      {
+        "issue": "1",
+        "key": "6426_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "67",
+        "DOI": "10.2307/3333092",
+        "volume": "25",
+        "author": "J Bruner",
+        "year": "1991",
+        "unstructured": "Bruner J (1991a) Self-making and world-making. J Aesthetic Educ 25(1):67–78. https://doi.org/10.2307/3333092",
+        "journal-title": "J Aesthetic Educ"
+      },
+      {
+        "key": "6426_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1086/448619",
+        "volume": "18",
+        "author": "J Bruner",
+        "year": "1991",
+        "unstructured": "Bruner J (1991b) The narrative construction of reality. Crit Inq 18:1–21",
+        "journal-title": "Crit Inq"
+      },
+      {
+        "key": "6426_CR20",
+        "unstructured": "Couvat E (2024) ChatGPT-3.5 vs. 4 vs. 4o: Key differences. Perplexity AI. https://www.perplexity.ai/page/chatgpt-3-5-vs-4-vs-4o-key-dif-nEXAloovT1iUx9Snare0lQ Accessed on 3 Dec 2024"
+      },
+      {
+        "key": "6426_CR21",
+        "unstructured": "Damasio A (2012) Self comes to mind: constructing the conscious brain. NY: Vintage"
+      },
+      {
+        "key": "6426_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.langcom.2024.02.002",
+        "volume": "96",
+        "author": "E Demuro",
+        "year": "2024",
+        "unstructured": "Demuro E, Gurney L (2024) Artificial intelligence and the ethnographic encounter: Transhuman language ontologies, or what it means “to write like a human, think like a machine. Lang Commun 96:1–12",
+        "journal-title": "Lang Commun"
+      },
+      {
+        "key": "6426_CR23",
+        "unstructured": "Donald M (2001) A mind so rare: the evolution of human consciousness. WW Norton & Company"
+      },
+      {
+        "issue": "3",
+        "key": "6426_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "576",
+        "DOI": "10.1037/a0031185",
+        "volume": "104",
+        "author": "WL Dunlop",
+        "year": "2013",
+        "unstructured": "Dunlop WL, Tracy JL (2013) Sobering stories: Narratives of self-redemption predict behavioral change and improved health among recovering alcoholics. J Personal Soc Psychol 104(3):576–590. https://doi.org/10.1037/a0031185",
+        "journal-title": "J Personal Soc Psychol"
+      },
+      {
+        "key": "6426_CR25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dunlop WL (2021) Everything you wanted to know about redemptive stories* (*but were afraid to ask). J Res Personal 92:1–14",
+        "DOI": "10.1016/j.jrp.2021.104078"
+      },
+      {
+        "key": "6426_CR26",
+        "unstructured": "Eakin PJ (2011) Living autobiographically: how we create identity in narrative. Cornell University Press"
+      },
+      {
+        "issue": "2",
+        "key": "6426_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "88",
+        "DOI": "10.1080/09658210903029404",
+        "volume": "18",
+        "author": "R Fivush",
+        "year": "2010",
+        "unstructured": "Fivush R (2010) Speaking silence: the social construction of silence in autobiographical and cultural narratives. Memory 18(2):88–98. https://doi.org/10.1080/09658210903029404",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "6426_CR28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fivush R (2022) Autobiographical memory and narrative in childhood. Cambridge University Press",
+        "DOI": "10.1017/9781009086325"
+      },
+      {
+        "key": "6426_CR29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gallagher S & Hutto DD (2008) Understanding others through primary interaction and narrative practice (pp. 17-38). In Zlatev J, Racine T, Sinha C & Itkonen E (eds). The shared mind: perspectives on intersubjectivity. Amsterdam: John Benjamins",
+        "DOI": "10.1075/celcr.12.04gal"
+      },
+      {
+        "key": "6426_CR30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Goodman N (1978) Ways of worldmaking. Hackett Publishing",
+        "DOI": "10.5040/9781350928558"
+      },
+      {
+        "key": "6426_CR31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Grice HP (1975) Logic and conversation. In Cole P, Morgan JJ (Eds.) Syntax and semantics 3: speech acts. Academic Press, pp 41–58",
+        "DOI": "10.1163/9789004368811_003"
+      },
+      {
+        "issue": "5",
+        "key": "6426_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "748",
+        "DOI": "10.1037/0033-2909.126.5.748",
+        "volume": "126",
+        "author": "T Habermas",
+        "year": "2000",
+        "unstructured": "Habermas T, Bluck S (2000) Getting a life: The emergence of the life story in adolescence. Psychological Bull 126(5):748–769",
+        "journal-title": "Psychological Bull"
+      },
+      {
+        "issue": "3",
+        "key": "6426_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "222",
+        "DOI": "10.1177/1088868308316892",
+        "volume": "12",
+        "author": "PL Hammack",
+        "year": "2008",
+        "unstructured": "Hammack PL (2008) Narrative and the cultural psychology of identity. Personal Soc Psychol Rev 12(3):222–247",
+        "journal-title": "Personal Soc Psychol Rev"
+      },
+      {
+        "key": "6426_CR34",
+        "unstructured": "Hix LE (2017) The social function of redemption narratives for former offenders. Wake Forest University"
+      },
+      {
+        "issue": "3",
+        "key": "6426_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "647",
+        "DOI": "10.1111/j.1467-6494.2009.00560.x",
+        "volume": "77",
+        "author": "R Josselson",
+        "year": "2009",
+        "unstructured": "Josselson R (2009) The present of the past: Dialogues with memory over time. J Personal 77(3):647–668. https://doi.org/10.1111/j.1467-6494.2009.00560.x",
+        "journal-title": "J Personal"
+      },
+      {
+        "issue": "2",
+        "key": "6426_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "391",
+        "DOI": "10.1111/j.1467-6494.2010.00688.x",
+        "volume": "79",
+        "author": "JP Lilgendahl",
+        "year": "2011",
+        "unstructured": "Lilgendahl JP, McAdams DP (2011) Constructing stories of self‐growth: How individual differences in patterns of autobiographical reasoning relate to well‐being in midlife. J Pers 79(2):391–428",
+        "journal-title": "J Pers"
+      },
+      {
+        "key": "6426_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.jrp.2022.104283",
+        "volume": "100",
+        "author": "M Lind",
+        "year": "2022",
+        "unstructured": "Lind M (2022) Fulfilling or failing to fulfill narrative developmental themes: An indicator of living into the good life in late adolescence. J Res Personal 100:1–5",
+        "journal-title": "J Res Personal"
+      },
+      {
+        "issue": "2",
+        "key": "6426_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "246",
+        "DOI": "10.1075/ni.20.2.02man",
+        "volume": "20",
+        "author": "CD Mansfield",
+        "year": "2010",
+        "unstructured": "Mansfield CD, McLean KC, Lilgendahl JP (2010) Narrating traumas and transgressions: Links between narrative processing, wisdom, and well-being. Narrative Inq 20(2):246–273",
+        "journal-title": "Narrative Inq"
+      },
+      {
+        "key": "6426_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "69",
+        "DOI": "10.1016/j.jrp.2015.05.008",
+        "volume": "58",
+        "author": "CD Mansfield",
+        "year": "2015",
+        "unstructured": "Mansfield CD, Pasupathi M, McLean KC (2015) Is narrating growth in stories of personal transgressions associated with increased well-being, self-compassion, and forgiveness of others?. J Res Personal 58:69–83",
+        "journal-title": "J Res Personal"
+      },
+      {
+        "issue": "8",
+        "key": "6426_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "1127",
+        "DOI": "10.3390/bs15081127",
+        "volume": "15",
+        "author": "CD Mansfield",
+        "year": "2025",
+        "unstructured": "Mansfield CD, Carrington M, Shaw LA (2025) A comparison of turning point memories among US and UK emerging adults: adversity, redemption, and unresolved Trauma. Behav Sci 15(8):1127. https://doi.org/10.3390/bs15081127",
+        "journal-title": "Behav Sci"
+      },
+      {
+        "key": "6426_CR41",
+        "unstructured": "Mansfield CD & Overton MD (2024 August 6-9). Redemptive Meaning-Making as a Contextualized Behavior: Do Personality and Situation Factors Matter? [Conference Presentation] 2024, European Conference on Personality, Berlin Germany. https://ecp21berlin.org"
+      },
+      {
+        "issue": "1",
+        "key": "6426_CR42",
+        "first-page": "20",
+        "volume": "43",
+        "author": "DP McAdams",
+        "year": "2008",
+        "unstructured": "McAdams DP (2008) American identity: the redemptive self. Gen Psychol 43(1):20–27",
+        "journal-title": "Gen Psychol"
+      },
+      {
+        "issue": "4",
+        "key": "6426_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "475",
+        "DOI": "10.1177/0956797614568318",
+        "volume": "26",
+        "author": "DP McAdams",
+        "year": "2015",
+        "unstructured": "McAdams DP, Guo J (2015) Narrating the generative life. Psychol Sci 26(4):475–483",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "6426_CR45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2022.104286",
+        "volume": "100",
+        "author": "DP McAdams",
+        "year": "2022",
+        "unstructured": "McAdams DP, Logan R, Reischer H (2022) Beyond the redemptive self: Narratives of acceptance in later life (and in other contexts). J Res Personal 100: 104286",
+        "journal-title": "J Res Personal"
+      },
+      {
+        "issue": "4",
+        "key": "6426_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "474",
+        "DOI": "10.1177/0146167201274008",
+        "volume": "27",
+        "author": "DP McAdams",
+        "year": "2001",
+        "unstructured": "McAdams DP, Reynolds J, Lewis M, Patten AH, Bowman PJ (2001) When bad things turn good and good things turn bad: sequences of redemption and contamination in life narrative and their relation to psychosocial adaptation in midlife adults and in students. Personal Soc Psychol Bull 27(4):474–485. 10/fqbmwx",
+        "journal-title": "Personal Soc Psychol Bull"
+      },
+      {
+        "key": "6426_CR47",
+        "unstructured": "McAdams DP (1992) Unity and purpose in human lives: the emergence of identity as a life story. In Zucker RA, Rabin AI, Aronoff J & Frank SJ (Eds) Personality structure in the life course, New York, NY: Springer, pp. 323−375"
+      },
+      {
+        "key": "6426_CR73",
+        "doi-asserted-by": "publisher",
+        "first-page": "1371",
+        "DOI": "10.1111/j.1467-6494.2006.00412.x",
+        "volume": "74",
+        "author": "DP McAdams",
+        "year": "2006",
+        "unstructured": "McAdams DP, Bauer JJ, Sakaeda AR, Anyidoho NA, Machado MA, Magrino-Failla K, White KW, Pals JL (2006) Continuity and Change in the Life Story: A Longitudinal Study of Autobiographical Memories in Emerging Adulthood. J Pers 74:1371–1400",
+        "journal-title": "J Pers"
+      },
+      {
+        "key": "6426_CR48",
+        "doi-asserted-by": "crossref",
+        "unstructured": "McAdams DP, Guo J (2015) Narrating the generative life. Psychol Sci 26(4):475–483",
+        "DOI": "10.1177/0956797614568318"
+      },
+      {
+        "issue": "3",
+        "key": "6426_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "702",
+        "DOI": "10.1037/a0015207",
+        "volume": "45",
+        "author": "KC McLean",
+        "year": "2009",
+        "unstructured": "McLean KC, Breen AV (2009) Processes and content of narrative identity development in adolescence: Gender and well-being. Dev Psychol 45(3):702–710",
+        "journal-title": "Dev Psychol"
+      },
+      {
+        "issue": "6",
+        "key": "6426_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "318",
+        "DOI": "10.1159/000445817",
+        "volume": "58",
+        "author": "KC McLean",
+        "year": "2016",
+        "unstructured": "McLean KC, Syed M (2016) Personal, master, and alternative narratives: An integrative framework for understanding identity development in context. Hum Dev 58(6):318–349. https://doi.org/10.1159/000445817",
+        "journal-title": "Hum Dev"
+      },
+      {
+        "issue": "3",
+        "key": "6426_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "262",
+        "DOI": "10.1177/1088868307301034",
+        "volume": "11",
+        "author": "KC McLean",
+        "year": "2007",
+        "unstructured": "McLean KC, Pasupathi M, Pals JL (2007) Selves creating stories creating selves: A process model of self-development. Personal Soc Psychol Rev 11(3):262–278",
+        "journal-title": "Personal Soc Psychol Rev"
+      },
+      {
+        "key": "6426_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "55",
+        "DOI": "10.1016/j.jrp.2016.04.003",
+        "volume": "69",
+        "author": "KC McLean",
+        "year": "2017",
+        "unstructured": "McLean KC, Pasupathi M, Greenhoot AF, Fivush R (2017) Does intra-individual variability in narration matter and for what?. J Res Personal 69:55–66",
+        "journal-title": "J Res Personal"
+      },
+      {
+        "issue": "1",
+        "key": "6426_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1525/collabra.369",
+        "volume": "6",
+        "author": "KC McLean",
+        "year": "2020",
+        "unstructured": "McLean KC, Delker BC, Dunlop WL, Salton R, Syed M (2020) Redemptive stories and those who tell them are preferred in the U. S Collabra: Psychol 6(1):39. 10/gg7mpb",
+        "journal-title": "S Collabra: Psychol"
+      },
+      {
+        "issue": "4",
+        "key": "6426_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "920",
+        "DOI": "10.1037/pspp0000247",
+        "volume": "119",
+        "author": "KC McLean",
+        "year": "2020",
+        "unstructured": "McLean KC, Syed M, Pasupathi M, Adler JM, Dunlop WL, Drustrup D, Fivush R, Graci ME, Lilgendahl JP, Lodi-Smith J, McAdams DP, McCoy TP (2020) The empirical structure of narrative identity: the initial big three. J Personal Soc Psychol 119(4):920",
+        "journal-title": "J Personal Soc Psychol"
+      },
+      {
+        "issue": "10",
+        "key": "6426_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "1321",
+        "DOI": "10.1080/09658211.2015.1104358",
+        "volume": "24",
+        "author": "N Merrill",
+        "year": "2016",
+        "unstructured": "Merrill N, Waters TEA, Fivush R (2016) Connecting the self to traumatic and positive events: Links to identity and well-being. Memory 24(10):1321–1328",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "6426_CR56",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mori M, MacDorman KF & Kageki N (2012) The Uncanny Valley [From the Field]. in IEEE robotics & automation magazine, pp 98−100",
+        "DOI": "10.1109/MRA.2012.2192811"
+      },
+      {
+        "issue": "4",
+        "key": "6426_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "1079",
+        "DOI": "10.1111/j.1467-6494.2006.00403.x",
+        "volume": "74",
+        "author": "JL Pals",
+        "year": "2006",
+        "unstructured": "Pals JL (2006) Narrative identity processing of difficult life experiences: pathways of personality development and positive self-transformation in adulthood. J Personal 74(4):1079–1110. https://doi.org/10.1111/j.1467-6494.2006.00403.x",
+        "journal-title": "J Personal"
+      },
+      {
+        "issue": "1",
+        "key": "6426_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.1111/j.1467-6494.2008.00539.x",
+        "volume": "77",
+        "author": "M Pasupathi",
+        "year": "2009",
+        "unstructured": "Pasupathi M, McLean KC, Weeks T (2009) To tell or not to tell: Disclosure and the narrative self. J Personal 77(1):89–124",
+        "journal-title": "J Personal"
+      },
+      {
+        "issue": "1",
+        "key": "6426_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "23",
+        "DOI": "10.1159/000514357",
+        "volume": "65",
+        "author": "JD Perlin",
+        "year": "2021",
+        "unstructured": "Perlin JD, Fivush R (2021) Revisiting redemption: a life span developmental account of the functions of narrative redemption. Hum Dev 65(1):23–42",
+        "journal-title": "Hum Dev"
+      },
+      {
+        "key": "6426_CR60",
+        "unstructured": "Polkinghorne DE (1988) Narrative knowing and the human sciences"
+      },
+      {
+        "key": "6426_CR61",
+        "unstructured": "Postman N (1998) Neil postman: five things we need to know about technological change. https://student.cs.uwaterloo.ca/~cs492/papers/neil-postman--five-things.html Accessed on 28 March 1998"
+      },
+      {
+        "key": "6426_CR72",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Reese E, Haden CA, Baker-Ward L, Bauer P, Fivush R, Ornstein PA (2011) Coherence of personal narratives across the lifespan: a multidimensional model and coding method. J Cogn Dev 12(4):424–462. https://doi.org/10.1080/15248372.2011.587854",
+        "DOI": "10.1080/15248372.2011.587854"
+      },
+      {
+        "key": "6426_CR62",
+        "unstructured": "Ricoeur, P (1991). Life in quest of narrative. In D Wood (Ed.) On Paul Ricoeur: Narrative and interpretation. London: Routledge, 20-33"
+      },
+      {
+        "issue": "2",
+        "key": "6426_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "91",
+        "DOI": "10.1037/1089-2680.5.2.91",
+        "volume": "5",
+        "author": "JA Singer",
+        "year": "2001",
+        "unstructured": "Singer JA, Bluck S (2001) New perspectives on autobiographical memory: the integration of narrative processing and autobiographical reasoning. Rev Gen Psychol 5(2):91–99",
+        "journal-title": "Rev Gen Psychol"
+      },
+      {
+        "issue": "6",
+        "key": "6426_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "569",
+        "DOI": "10.1111/jopy.12005",
+        "volume": "81",
+        "author": "JA Singer",
+        "year": "2013",
+        "unstructured": "Singer JA, Blagov P, Berry M, Oost KM (2013) Self-defining memories, scripts, and the life story: Narrative identity in personality and psychotherapy. J Personal 81(6):569–582",
+        "journal-title": "J Personal"
+      },
+      {
+        "key": "6426_CR65",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Singer JA (2004). Narrative identity and meaning making across the adult lifespan: an introduction. Journal of personality, 72(3)",
+        "DOI": "10.1111/j.0022-3506.2004.00268.x"
+      },
+      {
+        "issue": "3",
+        "key": "6426_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "793",
+        "DOI": "10.1111/j.1467-6494.2005.00329.x",
+        "volume": "73",
+        "author": "AR Sutin",
+        "year": "2005",
+        "unstructured": "Sutin AR, Robins RW (2005) Continuity and Correlates of Emotions and Motives in Self-Defining Memories. J Pers 73(3):793–824",
+        "journal-title": "J Pers"
+      },
+      {
+        "key": "6426_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "104285",
+        "DOI": "10.1016/j.jrp.2022.104285",
+        "volume": "100",
+        "author": "M Syed",
+        "year": "2022",
+        "unstructured": "Syed M, McLean KC (2022) Who gets to live the good life? master narratives, identity, and well-being within a marginalizing society. J Res Personal 100:104285",
+        "journal-title": "J Res Personal"
+      },
+      {
+        "key": "6426_CR68",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Turner AF, Thomsen DK, Tuval-Mashiach R, Sevilla-Liu A, Cowan HR, Sumner S & McAdams DP (2024) Narrative identity in context: how adults in Japan, Denmark, Israel, and the United States narrate difficult life events. J Pers Soc Psychol 127(6):1263−1287",
+        "DOI": "10.1037/pspp0000523"
+      },
+      {
+        "issue": "4",
+        "key": "6426_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "393",
+        "DOI": "10.1037/gpr0000056",
+        "volume": "19",
+        "author": "S Wang",
+        "year": "2015",
+        "unstructured": "Wang S, Lilienfeld SO, Rochat P (2015) The uncanny valley: Existence and explanations. Rev Gen Psychol 19(4):393–407. https://doi.org/10.1037/gpr0000056",
+        "journal-title": "Rev Gen Psychol"
+      },
+      {
+        "issue": "1",
+        "key": "6426_CR70",
+        "doi-asserted-by": "publisher",
+        "first-page": "111",
+        "DOI": "10.1080/09658211.2012.705300",
+        "volume": "21",
+        "author": "TEA Waters",
+        "year": "2013",
+        "unstructured": "Waters TEA, Shallcross JF, Fivush R (2013) The many facets of meaning making: Comparing multiple measures of meaning making and their relations to psychological distress. Memory 21(1):111–124",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "6426_CR71",
+        "first-page": "2",
+        "volume": "2015",
+        "author": "PJ Zak",
+        "year": "2015",
+        "unstructured": "Zak PJ (2015) Why inspiring stories make us react: the neuroscience of narrative. Cerebrum Dana Forum Brain Sci 2015:2",
+        "journal-title": "Cerebrum Dana Forum Brain Sci"
+      }
+    ],
+    "container-title": [
+      "Humanities and Social Sciences Communications"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41599-025-06426-y",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41599-025-06426-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41599-025-06426-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2026-02-11T03:06:05Z",
+      "timestamp": 1770779165000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41599-025-06426-y"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
+    "references-count": 72,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "6426"
+    ],
+    "URL": "https://doi.org/10.1057/s41599-025-06426-y",
+    "relation": {},
+    "ISSN": [
+      "2662-9992"
+    ],
+    "issn-type": [
+      {
+        "value": "2662-9992",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "9 May 2025",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "8 December 2025",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "4 February 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      },
+      {
+        "value": "All research performed was done in accordance with the ethical standards as laid down in the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards. All participants completed IRB-approved informed consent forms prior to participating. The fourth author’s home institution is the IRB of record.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethical declaration"
+        }
+      },
+      {
+        "value": "All materials and procedures used were approved by the Institutional Review Board at Dickinson College as the IRB of record for Protocol #1143 on 5/8/2023. All research performed was done in accordance with the ethical standards as laid down in the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards. The studies were granted exemption status according to 45CFR46. 101(b)(2): (2) Surveys, Interviews, Educational Tests, Public Observation. The study involved survey data only and participant responses could not be readily linked back to any individual as responses were given a random ID. Participants were not asked to share any sensitive information.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics"
+        }
+      },
+      {
+        "value": "All participants read an informed consent form prior to participating. The informed consent form explained the study procedures and informed participants that they could copy and pasted the informed consent into an email to themselves or document if they wanted a copy of it. It also indicated that the information participants provided were anonymous. The data could not be linked back to participants as we were not collecting any identifying information. It included a section on the expected duration of the study (30 min), the potential risks and benefits, and the voluntary nature of the study which informed participants that they could withdraw their consent at any point without penalty. Consent and subsequent participation occurred between April and May of 2024. Consent was obtained as part of the online Qualtrics form procedure at the time of participation. Participants read the consent form and those who opted to participate simply clicked the radio button on the Qualtrics survey, which read “I agree to participate”. It advanced them to the first set of questionnaires in the survey. Those who chose not to participate clicked the radio button on the Qualtrics survey, which read “I do not agree to participate”. That link advanced them to the webpage of the study’s home institution.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Informed consent"
+        }
+      }
+    ],
+    "article-number": "182"
+  }
+}

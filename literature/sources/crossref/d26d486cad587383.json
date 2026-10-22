@@ -1,0 +1,172 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ],
+      "date-time": "2026-10-19T13:23:26Z",
+      "timestamp": 1792416206236,
+      "version": "4.4.0"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2005,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2005-10-01T00:00:00Z",
+          "timestamp": 1128124800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Memory and Language"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jml.2005.08.005",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2005-11-10T07:17:48Z",
+      "timestamp": 1131607068000
+    },
+    "page": "594-628",
+    "source": "Crossref",
+    "is-referenced-by-count": 1844,
+    "title": [
+      "Memory and the self☆"
+    ],
+    "prefix": "10.1016",
+    "volume": "53",
+    "author": [
+      {
+        "given": "Martin A.",
+        "family": "Conway",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Journal of Memory and Language"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0749596X05000987?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0749596X05000987?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          20
+        ]
+      ],
+      "date-time": "2019-01-20T22:59:32Z",
+      "timestamp": 1548025172000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0749596X05000987"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          10
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0749596X05000987"
+    ],
+    "URL": "https://doi.org/10.1016/j.jml.2005.08.005",
+    "relation": {},
+    "ISSN": [
+      "0749-596X"
+    ],
+    "issn-type": [
+      {
+        "value": "0749-596X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2005,
+          10
+        ]
+      ]
+    }
+  }
+}

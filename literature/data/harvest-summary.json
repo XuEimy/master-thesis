@@ -1,0 +1,9 @@
+{
+  "raw_records": 40723,
+  "unique_reports": 30852,
+  "searches": 86,
+  "complete_searches": 75,
+  "incomplete_searches": 11,
+  "screened_studies": null,
+  "note": "候选报告数，不是纳入研究数；自动标签和排序不构成人工筛选。"
+}

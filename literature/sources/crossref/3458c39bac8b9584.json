@@ -1,0 +1,201 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2026-10-13T12:10:38Z",
+      "timestamp": 1791893438130,
+      "version": "4.3.4"
+    },
+    "reference-count": 0,
+    "publisher": "American Psychological Association (APA)",
+    "issue": "2",
+    "funder": [
+      {
+        "DOI": "10.13039/100009335",
+        "name": "Marketing Science Institute",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100009335",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "Baker"
+      },
+      {
+        "name": "Ackoff"
+      },
+      {
+        "name": "The Wharton School"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Personality and Social Psychology"
+    ],
+    "DOI": "10.1037/pspa0000055",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2016-06-06T14:56:11Z",
+      "timestamp": 1465224971000
+    },
+    "page": "119-140",
+    "source": "Crossref",
+    "is-referenced-by-count": 138,
+    "title": [
+      "How taking photos increases enjoyment of experiences."
+    ],
+    "prefix": "10.1037",
+    "volume": "111",
+    "author": [
+      {
+        "given": "Kristin",
+        "family": "Diehl",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gal",
+        "family": "Zauberman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alixandra",
+        "family": "Barasch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          8
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Personality and Social Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/journals/psp/111/2/119.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2024-02-05T23:21:46Z",
+      "timestamp": 1707175306000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1037/pspa0000055"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          8
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2016-27715-001",
+      "27267324"
+    ],
+    "URL": "https://doi.org/10.1037/pspa0000055",
+    "relation": {},
+    "ISSN": [
+      "1939-1315",
+      "0022-3514"
+    ],
+    "issn-type": [
+      {
+        "value": "1939-1315",
+        "type": "electronic"
+      },
+      {
+        "value": "0022-3514",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          8
+        ]
+      ]
+    }
+  }
+}

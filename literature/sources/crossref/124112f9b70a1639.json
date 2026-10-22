@@ -1,0 +1,444 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          23
+        ]
+      ],
+      "date-time": "2026-09-23T23:23:25Z",
+      "timestamp": 1790205805169,
+      "version": "4.1.0"
+    },
+    "reference-count": 43,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2024-04-01T00:00:00Z",
+          "timestamp": 1711929600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Personality Science"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The functionalist approach claims that autobiographical memory functions could be part of narrative identity. If so, the use of memory functions in personal narratives should be as stable as other properties of narrative identity. Testing this claim, the present study elicited repeated narratives and functional self-ratings for turning point and low point memories from 145 undergraduates (68.90 % female) in a two-wave eight-month longitudinal study. Stability of memory functions in specific memories was conceptualized in terms of mean-level and rank-order stability. Results showed little mean-level stability, yet substantial rank-order stability for memory functions regardless of assessment. The later use of the same memory functions in repeated narratives was predicted by baseline of functions at T1, age of event, valence, and frequency of rehearsal. Combining these results with theories on autobiographical memory and narrative identity suggests that memory functions might be a stable property of narrative identity hitherto overlooked.</jats:p>",
+    "DOI": "10.1177/27000710241264452",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          20
+        ]
+      ],
+      "date-time": "2024-07-20T00:00:50Z",
+      "timestamp": 1721433650000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 17,
+    "title": [
+      "Autobiographical memory functions as a stable property of narrative identity"
+    ],
+    "prefix": "10.1177",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Christin",
+        "family": "Camia",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Zayed University Abu Dhabi, Abu Dhabi, United Arab Emirates"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kate C",
+        "family": "McLean",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Western Washington University, Bellingham, WA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Theodore EA",
+        "family": "Waters",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "New York University Abu Dhabi, Abu Dhabi, United Arab Emirates"
+          },
+          {
+            "name": "New York University, New York, NY, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          19
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741938207"
+      },
+      {
+        "key": "bibr2-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1316"
+      },
+      {
+        "key": "bibr3-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2014.929704"
+      },
+      {
+        "key": "bibr4-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2014.972416"
+      },
+      {
+        "key": "bibr5-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0033294119852578"
+      },
+      {
+        "key": "bibr6-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.brat.2005.01.009"
+      },
+      {
+        "key": "bibr7-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741938206"
+      },
+      {
+        "key": "bibr8-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2014.937721"
+      },
+      {
+        "key": "bibr9-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2011.590500"
+      },
+      {
+        "key": "bibr10-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780198784845.003.0006"
+      },
+      {
+        "key": "bibr11-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2020.1737133"
+      },
+      {
+        "key": "bibr12-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15283488.2023.2231982"
+      },
+      {
+        "key": "bibr13-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2020.1761397"
+      },
+      {
+        "key": "bibr14-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2022.104304"
+      },
+      {
+        "key": "bibr15-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780198784845.003.0003"
+      },
+      {
+        "key": "bibr16-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.107.2.261"
+      },
+      {
+        "key": "bibr17-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698016645264"
+      },
+      {
+        "key": "bibr18-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2019.05.017"
+      },
+      {
+        "key": "bibr19-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000145"
+      },
+      {
+        "key": "bibr20-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/MC.38.4.461"
+      },
+      {
+        "key": "bibr21-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000438764"
+      },
+      {
+        "key": "bibr22-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2014.930153"
+      },
+      {
+        "key": "bibr23-27000710241264452",
+        "volume-title": "The stories we live by: Personal myths and the making of the self",
+        "author": "McAdams D. P.",
+        "year": "1993"
+      },
+      {
+        "key": "bibr24-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.1995.tb00500.x"
+      },
+      {
+        "key": "bibr25-27000710241264452",
+        "first-page": "36",
+        "volume-title": "Social psychological foundations of clincial psychology",
+        "author": "McAdams D. P.",
+        "year": "2010"
+      },
+      {
+        "key": "bibr26-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2006.00412.x"
+      },
+      {
+        "key": "bibr27-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jopy.12669"
+      },
+      {
+        "key": "bibr28-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868307301034"
+      },
+      {
+        "key": "bibr29-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741938203"
+      },
+      {
+        "key": "bibr30-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ejsp.1880"
+      },
+      {
+        "key": "bibr31-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2006.00403.x"
+      },
+      {
+        "key": "bibr32-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741938208"
+      },
+      {
+        "key": "bibr33-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.3949"
+      },
+      {
+        "key": "bibr34-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/MC.37.4.477"
+      },
+      {
+        "key": "bibr35-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2021.104583"
+      },
+      {
+        "key": "bibr36-27000710241264452",
+        "volume-title": "The remembered self",
+        "author": "Singer J. A.",
+        "year": "1993"
+      },
+      {
+        "key": "bibr37-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2015.06.011"
+      },
+      {
+        "key": "bibr38-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2012.01.006"
+      },
+      {
+        "key": "bibr39-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2020.622527"
+      },
+      {
+        "key": "bibr40-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.2976"
+      },
+      {
+        "key": "bibr41-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jopy.12377"
+      },
+      {
+        "key": "bibr42-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2021.103119"
+      },
+      {
+        "key": "bibr43-27000710241264452",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2014.971815"
+      }
+    ],
+    "container-title": [
+      "Personality Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/27000710241264452",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/27000710241264452",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/27000710241264452",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2026-05-01T01:29:11Z",
+      "timestamp": 1777598951000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/27000710241264452"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4
+        ]
+      ]
+    },
+    "references-count": 43,
+    "alternative-id": [
+      "10.1177/27000710241264452"
+    ],
+    "URL": "https://doi.org/10.1177/27000710241264452",
+    "relation": {},
+    "ISSN": [
+      "2700-0710",
+      "2700-0710"
+    ],
+    "issn-type": [
+      {
+        "value": "2700-0710",
+        "type": "print"
+      },
+      {
+        "value": "2700-0710",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          4
+        ]
+      ]
+    },
+    "article-number": "27000710241264452"
+  }
+}

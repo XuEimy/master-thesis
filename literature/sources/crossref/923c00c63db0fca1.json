@@ -1,0 +1,341 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          14
+        ]
+      ],
+      "date-time": "2026-07-14T04:34:45Z",
+      "timestamp": 1784003685924,
+      "version": "3.55.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 14,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2012,
+              6,
+              11
+            ]
+          ],
+          "date-time": "2012-06-11T00:00:00Z",
+          "timestamp": 1339372800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1145/2317956.2318055",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          7,
+          3
+        ]
+      ],
+      "date-time": "2012-07-03T11:53:15Z",
+      "timestamp": 1341316395000
+    },
+    "page": "665-668",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 92,
+    "title": [
+      "Photobox"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "William",
+        "family": "Odom",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Carnegie Mellon University, Pittsburgh, PA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Selby",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Nottingham, Nottingham, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abigail",
+        "family": "Sellen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Microsoft Research, Cambridge, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Kirk",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Newcastle University, Newcastle, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Banks",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Microsoft Research, Cambridge, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tim",
+        "family": "Regan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Microsoft Research, Cambridge, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_1_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/642611.642652"
+      },
+      {
+        "key": "e_1_3_2_1_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1753326.1753665"
+      },
+      {
+        "key": "e_1_3_2_1_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/332040.332433"
+      },
+      {
+        "key": "e_1_3_2_1_4_1",
+        "unstructured": "Good J. 2011. How many photos have ever been taken? http://1000memories.com/blog/94-number-of-photos-ever-taken-digital-and-analog-in-shoebox  Good J. 2011. How many photos have ever been taken? http://1000memories.com/blog/94-number-of-photos-ever-taken-digital-and-analog-in-shoebox"
+      },
+      {
+        "key": "e_1_3_2_1_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/PL00000019"
+      },
+      {
+        "key": "e_1_3_2_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/642611.642616"
+      },
+      {
+        "key": "e_1_3_2_1_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14626260802550777"
+      },
+      {
+        "key": "e_1_3_2_1_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1978942.1979077"
+      },
+      {
+        "key": "e_1_3_2_1_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2008176.2008189"
+      },
+      {
+        "key": "e_1_3_2_1_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2207676.2207723"
+      },
+      {
+        "key": "e_1_3_2_1_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1518701.1518862"
+      },
+      {
+        "key": "e_1_3_2_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/229868.230044"
+      },
+      {
+        "key": "e_1_3_2_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1094562.1094569"
+      },
+      {
+        "key": "e_1_3_2_1_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1518701.1519022"
+      }
+    ],
+    "event": {
+      "name": "DIS '12: Designing Interactive Systems Conference 2012",
+      "location": "Newcastle Upon Tyne United Kingdom",
+      "acronym": "DIS '12",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the Designing Interactive Systems Conference"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/2317956.2318055",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/2317956.2318055",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T11:05:56Z",
+      "timestamp": 1750244756000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/2317956.2318055"
+      }
+    },
+    "subtitle": [
+      "on the design of a slow technology"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          11
+        ]
+      ]
+    },
+    "references-count": 14,
+    "alternative-id": [
+      "10.1145/2317956.2318055",
+      "10.1145/2317956"
+    ],
+    "URL": "https://doi.org/10.1145/2317956.2318055",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2012-06-11",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

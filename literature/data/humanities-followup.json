@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-23",
+  "source": "sources/web/batch18-humanities-links.json",
+  "candidates": [
+    {
+      "title": "Givers, takers, framers: the ethics of auto/biographical documentary",
+      "author": "Paola Bilbrough",
+      "year": 2015,
+      "type": "doctoral-thesis",
+      "url": "https://vuir.vu.edu.au/26229/",
+      "status": "机构库摘要已读，全文待核读；本轮不继续沿整个领域扩展",
+      "reason": "创作者与被摄者关系，个人叙事不可避免涉及他人",
+      "pdf": "https://vuir.vu.edu.au/26229/1/Paola%20Bilbough.pdf"
+    },
+    {
+      "title": "Handbook of Research on the Relationship Between Autobiographical Memory and Photography",
+      "year": 2023,
+      "type": "edited-book",
+      "url": "https://ualresearchonline.arts.ac.uk/id/eprint/19659/",
+      "status": "机构库目录及部分章摘要已见，需逐章筛选；本轮不继续沿整个领域扩展",
+      "reason": "不能只因文献无期刊格式或实验结果而遗漏；书章单独去重，27章未全部核读"
+    },
+    {
+      "title": "Eliciting Sound Memories",
+      "doi": "10.1525/tph.2015.37.4.14",
+      "status": "摘要等已核读并已有文献卡；作为访谈取材方法按需调用，全文待获取",
+      "reason": "口述史声音线索方法"
+    },
+    {
+      "title": "Sensory Roadmaps: How to Capture Sensory Detail in an Interview and Why Doing so Has Exciting Implications for Oral History",
+      "doi": "10.1080/00940798.2022.2049586",
+      "status": "摘要等已核读并已有文献卡；作为访谈取材方法按需调用，全文待获取",
+      "reason": "访谈如何获取感官记忆"
+    },
+    {
+      "title": "Art, Collaboration and Multi-Sensory Approaches in Public Microhistory: Journey with Absent Friends",
+      "doi": "10.1093/hwj/dbaa010",
+      "status": "参考文献候选；未核读；本轮不继续沿整个领域扩展",
+      "reason": "公共历史和个人回忆连接，需判断个体层适用性"
+    }
+  ]
+}

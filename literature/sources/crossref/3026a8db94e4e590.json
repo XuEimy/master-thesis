@@ -1,0 +1,657 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          2
+        ]
+      ],
+      "date-time": "2026-06-02T11:57:33Z",
+      "timestamp": 1780401453064,
+      "version": "3.54.1"
+    },
+    "reference-count": 44,
+    "publisher": "Cambridge University Press (CUP)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              15
+            ]
+          ],
+          "date-time": "2025-04-15T00:00:00Z",
+          "timestamp": 1744675200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 104,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mem. Mind &amp; Media"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n\t  <jats:p>The ubiquity of social media platforms allows individuals to easily share and curate their personal lives with friends, family, and the world. The selective nature of sharing one’s personal life may reinforce the memories and details of the shared experiences while simultaneously inducing the forgetting of related, unshared memories/experiences. This is a well-established psychological phenomenon known as retrieval-induced forgetting (RIF, Anderson <jats:italic>et al.</jats:italic>). To examine this phenomenon in the context of social media, two experiments were conducted using an adapted version of the RIF paradigm in which participants either shared experimenter-contrived (Study 1) or personal photographs (Study 2) on social media platforms. Study 1 revealed that participants had more accurate recall of the details surrounding the shared photographs as well as enhanced recognition of the shared photographs. Study 2 revealed that participants had more consistent recall of event details captured in the shared photographs than details captured or uncaptured in the unshared photographs. These results suggest that selectively sharing photographs on social media may specifically enhance the recollection of event details associated with the shared photographs. The novel and ecologically embedded methods provide fodder for future research to better understand the important role of social media in shaping how individuals remember their personal experiences.</jats:p>",
+    "DOI": "10.1017/mem.2025.3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          15
+        ]
+      ],
+      "date-time": "2025-04-15T13:54:21Z",
+      "timestamp": 1744725261000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Sharing photographs on social media enhances recollection of photograph-related details"
+    ],
+    "prefix": "10.1017",
+    "volume": "4",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4772-1353",
+        "authenticated-orcid": false,
+        "given": "Angelina N.",
+        "family": "Vasquez",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-9374-1075",
+        "authenticated-orcid": false,
+        "given": "Shayla J.",
+        "family": "Dockery",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4662-2924",
+        "authenticated-orcid": false,
+        "given": "Jessica M.",
+        "family": "Karanian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2404-2585",
+        "authenticated-orcid": false,
+        "given": "Qi",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1655-007X",
+        "authenticated-orcid": false,
+        "given": "Charles B.",
+        "family": "Stone",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "56",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          15
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "S2635023825000037_r19",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/16094069221084433",
+        "article-title": "Doors Started to Appear:’ A methodological framework for analyzing visuo-verbal data drawing on Roland Barthes’s classification of text-image relations",
+        "volume": "21",
+        "author": "Grange",
+        "year": "2022",
+        "journal-title": "International Journal of Qualitative Methods"
+      },
+      {
+        "key": "S2635023825000037_r15",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.3758/BF03193146",
+        "article-title": "G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences",
+        "volume": "39",
+        "author": "Faul",
+        "year": "2007",
+        "journal-title": "Behavior Research Methods"
+      },
+      {
+        "key": "S2635023825000037_r31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1027",
+        "DOI": "10.1177/0956797616645673",
+        "article-title": "The power of the like in adolescence: Effects of peer influence on neural and behavioral responses to social media",
+        "volume": "27",
+        "author": "Sherman",
+        "year": "2016",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "S2635023825000037_r43",
+        "doi-asserted-by": "crossref",
+        "first-page": "375",
+        "DOI": "10.1177/2167696815587648",
+        "article-title": "Guidelines for establishing reliability when coding narrative data",
+        "volume": "3",
+        "author": "Syed",
+        "year": "2015",
+        "journal-title": "Emerging Adulthood"
+      },
+      {
+        "key": "S2635023825000037_r45",
+        "unstructured": "Thomson, TJ , Angus, D and Dootson, P (2020, Novembers 2) 3.2 billion images and 720,000 hours of video are shared online daily. Can you sort real from fake? The Conversation. https://theconversation.com/3-2-billion-images-and-720-000-hours-of-video-are-shared-online-daily-can-you-sort-real-from-fake-"
+      },
+      {
+        "key": "S2635023825000037_r1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2056305117691544",
+        "DOI": "10.1177/2056305117691544",
+        "article-title": "A tale of four platforms: Motivations and uses of Facebook, Twitter, Instagram, and Snapchat among college students?",
+        "volume": "3",
+        "author": "Alhabash",
+        "year": "2017",
+        "journal-title": "Social Media+ Society"
+      },
+      {
+        "key": "S2635023825000037_r50",
+        "doi-asserted-by": "crossref",
+        "first-page": "605",
+        "DOI": "10.3389/fpsyg.2017.00605",
+        "article-title": "Smartphones and cognition: A review of research exploring the links between mobile technology habits and cognitive functioning",
+        "volume": "8",
+        "author": "Wilmer",
+        "year": "2017",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "key": "S2635023825000037_r6",
+        "doi-asserted-by": "crossref",
+        "first-page": "457",
+        "DOI": "10.1080/0269993034000392",
+        "article-title": "Retrieval-induced forgetting of emotional and unemotional autobiographical memories",
+        "volume": "18",
+        "author": "Barnier",
+        "year": "2004",
+        "journal-title": "Cognition and Emotion"
+      },
+      {
+        "key": "S2635023825000037_r13",
+        "doi-asserted-by": "crossref",
+        "first-page": "727",
+        "DOI": "10.1111/j.1467-9280.2007.01967.x",
+        "article-title": "Silence is not golden: A case for socially shared retrieval-induced forgetting",
+        "volume": "18",
+        "author": "Cuc",
+        "year": "2007",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "S2635023825000037_r16",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1386/ubiq.3.1-2.3_1",
+        "article-title": "Photography and the disruption of memory and meaning",
+        "volume": "3",
+        "author": "Fawns",
+        "year": "2014",
+        "journal-title": "Ubiquity"
+      },
+      {
+        "key": "S2635023825000037_r39",
+        "doi-asserted-by": "crossref",
+        "first-page": "450",
+        "DOI": "10.1080/09658211.2022.2040534",
+        "article-title": "Why do people share memories online? An examination of the motives and characteristics of social media users",
+        "volume": "30",
+        "author": "Stone",
+        "year": "2022",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "S2635023825000037_r30",
+        "unstructured": "Pew Research Center. (2024, January 31) Social media fact sheet. https://www.pewresearch.org/internet/fact-sheet/social-media/"
+      },
+      {
+        "key": "S2635023825000037_r2",
+        "first-page": "1063",
+        "article-title": "Remembering can cause forgetting: Retrieval dynamics in long-term memory",
+        "volume": "20",
+        "author": "Anderson",
+        "year": "1994",
+        "journal-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition"
+      },
+      {
+        "key": "S2635023825000037_r35",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.3758/BF03337426",
+        "article-title": "Perception and memory for pictures: Single-trial learning of 2500 visual stimuli",
+        "volume": "19",
+        "author": "Standing",
+        "year": "1970",
+        "journal-title": "Psychonomic Science"
+      },
+      {
+        "key": "S2635023825000037_r40",
+        "doi-asserted-by": "crossref",
+        "first-page": "774",
+        "DOI": "10.1111/tops.12369",
+        "article-title": "From conversations to digital communication: The mnemonic consequences of consuming and producing information via social media",
+        "volume": "11",
+        "author": "Stone",
+        "year": "2019",
+        "journal-title": "Topics in Cognitive Science"
+      },
+      {
+        "key": "S2635023825000037_r26",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1080/13869795.2018.1562087",
+        "article-title": "Looking at the self: perspectival memory and personal identity",
+        "volume": "22",
+        "author": "McCarroll",
+        "year": "2019",
+        "journal-title": "Philosophical Explorations"
+      },
+      {
+        "key": "S2635023825000037_r24",
+        "doi-asserted-by": "crossref",
+        "first-page": "151",
+        "DOI": "10.1016/j.jml.2006.09.004",
+        "article-title": "Repeated retrieval during learning is the key to long-term retention",
+        "volume": "57",
+        "author": "Karpicke",
+        "year": "2007",
+        "journal-title": "Journal of Memory and Language"
+      },
+      {
+        "key": "S2635023825000037_r38",
+        "doi-asserted-by": "crossref",
+        "first-page": "1084",
+        "DOI": "10.1037/a0030739",
+        "article-title": "Forgetting our personal past: Socially shared retrieval-induced forgetting of autobiographical memories",
+        "volume": "142",
+        "author": "Stone",
+        "year": "2013",
+        "journal-title": "Journal of Experimental Psychology: General"
+      },
+      {
+        "key": "S2635023825000037_r5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1056",
+        "DOI": "10.1177/0956797617694868",
+        "article-title": "Photographic memory: The effects of volitional photo taking on memory for visual and auditory aspects of an experience",
+        "volume": "28",
+        "author": "Barasch",
+        "year": "2017",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "S2635023825000037_r46",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1177/1470357207084865",
+        "article-title": "Digital photography: Communication, identity, memory",
+        "volume": "7",
+        "author": "Van Dijck",
+        "year": "2008",
+        "journal-title": "Visual Communication"
+      },
+      {
+        "key": "S2635023825000037_r47",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.20982/tqmp.03.2.p043",
+        "article-title": "Understanding power and rules of thumb for determining sample sizes",
+        "volume": "3",
+        "author": "VanVoorhis",
+        "year": "2007",
+        "journal-title": "Tutorials in Quantitative Methods for Psychology"
+      },
+      {
+        "key": "S2635023825000037_r4",
+        "doi-asserted-by": "crossref",
+        "first-page": "295",
+        "DOI": "10.1037/met0000337",
+        "article-title": "Power contours: Optimising sample size and precision in experimental psychology and human neuroscience",
+        "volume": "26",
+        "author": "Baker",
+        "year": "2021",
+        "journal-title": "Psychological Methods"
+      },
+      {
+        "key": "S2635023825000037_r17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1551",
+        "DOI": "10.3758/s13423-014-0639-9",
+        "article-title": "The effect of Twitter exposure on false memory formation",
+        "volume": "21",
+        "author": "Fenn",
+        "year": "2014",
+        "journal-title": "Psychonomic Bulletin and Review"
+      },
+      {
+        "key": "S2635023825000037_r8",
+        "volume-title": "Effects of social media photography on memory",
+        "author": "Berry",
+        "year": "2019"
+      },
+      {
+        "key": "S2635023825000037_r41",
+        "doi-asserted-by": "crossref",
+        "first-page": "1023",
+        "DOI": "10.3758/BF03213919",
+        "article-title": "Is retrieval success a necessary condition for retrieval-induced forgetting?",
+        "volume": "13",
+        "author": "Storm",
+        "year": "2006",
+        "journal-title": "Psychonomic Bulletin and Review"
+      },
+      {
+        "key": "S2635023825000037_r21",
+        "doi-asserted-by": "crossref",
+        "first-page": "675",
+        "DOI": "10.1177/17506980211010936",
+        "article-title": "The new grey of memory: Andrew Hoskins in conversation with Huw Halstead",
+        "volume": "14",
+        "author": "Hoskins",
+        "year": "2021",
+        "journal-title": "Memory Studies"
+      },
+      {
+        "key": "S2635023825000037_r33",
+        "doi-asserted-by": "crossref",
+        "first-page": "154",
+        "DOI": "10.1016/j.jarmac.2017.10.004",
+        "article-title": "Forget in a flash: A further investigation of the photo- taking-impairment effect",
+        "volume": "7",
+        "author": "Soares",
+        "year": "2018",
+        "journal-title": "Journal of Applied Research in Memory and Cognition"
+      },
+      {
+        "key": "S2635023825000037_r42",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1007/s11098-010-9498-z",
+        "article-title": "Observer perspective and acentred memory: Some puzzles about point of view in personal memory",
+        "volume": "148",
+        "author": "Sutton",
+        "year": "2010",
+        "journal-title": "Philosophical Studies"
+      },
+      {
+        "key": "S2635023825000037_r44",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1016/j.jesp.2018.01.006",
+        "article-title": "Media usage diminishes memory for experiences",
+        "volume": "76",
+        "author": "Tamir",
+        "year": "2018",
+        "journal-title": "Journal of Experimental Social Psychology"
+      },
+      {
+        "key": "S2635023825000037_r18",
+        "doi-asserted-by": "crossref",
+        "first-page": "585",
+        "DOI": "10.1348/0261510042378272",
+        "article-title": "Retrieval-induced forgetting: A developmental study",
+        "volume": "22",
+        "author": "Ford",
+        "year": "2004",
+        "journal-title": "British Journal of Developmental Psychology"
+      },
+      {
+        "key": "S2635023825000037_r28",
+        "doi-asserted-by": "crossref",
+        "first-page": "481",
+        "DOI": "10.3758/s13421-012-0281-6",
+        "article-title": "Major memory for microblogs",
+        "volume": "41",
+        "author": "Mickes",
+        "year": "2013",
+        "journal-title": "Memory and Cognition"
+      },
+      {
+        "key": "S2635023825000037_r9",
+        "doi-asserted-by": "crossref",
+        "first-page": "247",
+        "DOI": "10.1080/09658211.2022.2144892",
+        "article-title": "Remembering and forgetting information about the COVID-19 vaccine on Twitter",
+        "volume": "31",
+        "author": "Bilgin",
+        "year": "2023",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "S2635023825000037_r34",
+        "doi-asserted-by": "crossref",
+        "first-page": "776",
+        "DOI": "10.1126/science.1207745",
+        "article-title": "Google effects on memory: Cognitive consequences of having information at our fingertips",
+        "volume": "333",
+        "author": "Sparrow",
+        "year": "2011",
+        "journal-title": "Science"
+      },
+      {
+        "key": "S2635023825000037_r49",
+        "doi-asserted-by": "crossref",
+        "first-page": "772",
+        "DOI": "10.1080/09658211.2016.1221115",
+        "article-title": "Externalising the autobiographical self: sharing personal memories online facilitated memory retention",
+        "volume": "25",
+        "author": "Wang",
+        "year": "2017",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "S2635023825000037_r14",
+        "unstructured": "eMarketer (2018, March 14) US social network users: eMarketer’s estimates for 2018–2022. Research report. https://www.emarketer.com/Report/US-Social-Network-Users-eMarketers-Estimates-20182022/2002222."
+      },
+      {
+        "key": "S2635023825000037_r23",
+        "doi-asserted-by": "crossref",
+        "first-page": "745",
+        "DOI": "10.1089/cyber.2020.0511",
+        "article-title": "Sharing personal memories on ephemeral social media facilitates autobiographical memory",
+        "volume": "24",
+        "author": "Johnson",
+        "year": "2021",
+        "journal-title": "Cyberpsychology, Behavior, and Social Networking"
+      },
+      {
+        "key": "S2635023825000037_r37",
+        "doi-asserted-by": "crossref",
+        "first-page": "138",
+        "DOI": "10.1080/1047840X.2024.2384142",
+        "article-title": "Is a novel model of autobiographical remembering needed in the digital age? A commentary on Hutmacher, Appel, and Schwan",
+        "volume": "35",
+        "author": "Stone",
+        "year": "2024b",
+        "journal-title": "Psychological Inquiry"
+      },
+      {
+        "key": "S2635023825000037_r36",
+        "volume-title": "Breaking Down the Silos: Memory Between Cognition, Culture, and Political Momentum",
+        "author": "Stone",
+        "year": "2024a"
+      },
+      {
+        "key": "S2635023825000037_r7",
+        "first-page": "82",
+        "volume-title": "Learning from memory: Body, memory and technology in a globalizing world",
+        "author": "Bartoletti",
+        "year": "2011"
+      },
+      {
+        "key": "S2635023825000037_r3",
+        "first-page": "608",
+        "article-title": "Integration as a general boundary condition on retrieval-induced forgetting",
+        "volume": "25",
+        "author": "Anderson",
+        "year": "1999",
+        "journal-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition"
+      },
+      {
+        "key": "S2635023825000037_r48",
+        "article-title": "Memory online: Remembering in the age of the Internet and social media",
+        "volume": "30",
+        "author": "Wang",
+        "year": "2022",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "S2635023825000037_r22",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1080/1047840X.2024.2384125",
+        "article-title": "Understanding autobiographical memory in the digital age: The AMEDIA-model",
+        "volume": "35",
+        "author": "Hutmacher",
+        "year": "2024",
+        "journal-title": "Psychological Inquiry"
+      },
+      {
+        "key": "S2635023825000037_r25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1037/amp0000263",
+        "article-title": "Editorial: Journal article reporting standards",
+        "volume": "73",
+        "author": "Kazak",
+        "year": "2018",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "key": "S2635023825000037_r27",
+        "volume-title": "Life on social media platforms, in user’s own words",
+        "author": "Mcclain",
+        "year": "2023"
+      }
+    ],
+    "container-title": [
+      "Memory, Mind &amp; Media"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S2635023825000037",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          15
+        ]
+      ],
+      "date-time": "2025-04-15T13:54:32Z",
+      "timestamp": 1744725272000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.cambridge.org/core/product/identifier/S2635023825000037/type/journal_article"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "references-count": 44,
+    "alternative-id": [
+      "S2635023825000037"
+    ],
+    "URL": "https://doi.org/10.1017/mem.2025.3",
+    "relation": {},
+    "ISSN": [
+      "2635-0238"
+    ],
+    "issn-type": [
+      {
+        "value": "2635-0238",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "article-number": "e3"
+  }
+}

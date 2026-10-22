@@ -1,0 +1,459 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2026-09-18T11:56:18Z",
+      "timestamp": 1789732578939,
+      "version": "4.0.1"
+    },
+    "reference-count": 35,
+    "publisher": "Informa UK Limited",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2024-05-18T00:00:00Z",
+          "timestamp": 1715990400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "PGW.20.010"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PGW.20.010"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Studies in Documentary Film"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1080/17503280.2024.2350603",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          18
+        ]
+      ],
+      "date-time": "2024-05-18T12:04:52Z",
+      "timestamp": 1716033892000
+    },
+    "page": "189-204",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Cinematic hometactics: negotiating belonging in first-person documentary"
+    ],
+    "prefix": "10.1080",
+    "volume": "18",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1439-5720",
+        "authenticated-orcid": false,
+        "given": "Nadica",
+        "family": "Denić",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Media Studies, University of Amsterdam, Amsterdam, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_4_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2056305119854222"
+      },
+      {
+        "key": "e_1_3_4_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1386/9781783209866"
+      },
+      {
+        "key": "e_1_3_4_4_1",
+        "volume-title": "Borderlands: The New Mestiza",
+        "author": "Anzaldúa Gloria.",
+        "year": "1987",
+        "unstructured": "Anzaldúa, Gloria. 1987. Borderlands: The New Mestiza. San Francisco, CA: Aunt Lute Books."
+      },
+      {
+        "key": "e_1_3_4_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1068/d13008"
+      },
+      {
+        "key": "e_1_3_4_6_1",
+        "volume-title": "On the Inconvenience of Other People",
+        "author": "Berlant Lauren.",
+        "year": "2022",
+        "unstructured": "Berlant, Lauren. 2022. On the Inconvenience of Other People. Durham, NC: Duke University Press."
+      },
+      {
+        "key": "e_1_3_4_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780429445637-10"
+      },
+      {
+        "key": "e_1_3_4_8_1",
+        "volume-title": "The Force of Nonviolence: An Ethico-Political Bind",
+        "author": "Butler Judith.",
+        "year": "2021",
+        "unstructured": "Butler, Judith. 2021. The Force of Nonviolence: An Ethico-Political Bind. London, UK: Verso Books."
+      },
+      {
+        "key": "e_1_3_4_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.6092/issn.2280-9481/10228"
+      },
+      {
+        "key": "e_1_3_4_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5749/minnesota/9780816645480.001.0001"
+      },
+      {
+        "key": "e_1_3_4_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7312/cuev19596"
+      },
+      {
+        "key": "e_1_3_4_12_1",
+        "volume-title": "Postcolonial Publics: Art and Citizen Media in Europe",
+        "author": "Denić Nadica.",
+        "year": "2023",
+        "unstructured": "Denić, Nadica. 2023. “Epistemic Decolonization of Migration: Digital Witnessing of Crisis and Borders in For Sama.” In Postcolonial Publics: Art and Citizen Media in Europe, edited by Bolette Blaagaard, Sabrina Marchetti, Sandra Ponzanesi, and Shaul Bassi. Studi e Ricerche 30. Venice, IT: Edizioni Ca’ Foscari. https://dspace.library.uu.nl/handle/1874/426973."
+      },
+      {
+        "key": "e_1_3_4_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5117/9789463725774"
+      },
+      {
+        "key": "e_1_3_4_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1215/03335372-2007-019"
+      },
+      {
+        "key": "e_1_3_4_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18566/apolit.v9n16.a09"
+      },
+      {
+        "key": "e_1_3_4_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9789048525294"
+      },
+      {
+        "key": "e_1_3_4_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315265018-14"
+      },
+      {
+        "key": "e_1_3_4_18_1",
+        "unstructured": "Hothothot Louis. 2023. The Making of Four Journeys Interview by Nadica Denić."
+      },
+      {
+        "key": "e_1_3_4_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5040/9781501301353"
+      },
+      {
+        "key": "e_1_3_4_20_1",
+        "volume-title": "Family Secrets: Acts of Memory and Imagination",
+        "author": "Kuhn Annette.",
+        "year": "2002",
+        "unstructured": "Kuhn, Annette. 2002. Family Secrets: Acts of Memory and Imagination. London, UK: Verso."
+      },
+      {
+        "key": "e_1_3_4_21_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lebow Alisa. 2003. “Memory Once Removed: Indirect Memory and Transitive Autobiography in Chantal Akerman’s D’Est.” Camera Obscura May 34–84.",
+        "DOI": "10.1215/02705346-18-1_52-35"
+      },
+      {
+        "key": "e_1_3_4_22_1",
+        "first-page": "219",
+        "volume-title": "The Cinema of Me: The Self and Subjectivity in First Person Documentary",
+        "author": "Lebow Alisa.",
+        "year": "2012",
+        "unstructured": "Lebow, Alisa. 2012a. “The Camera as Peripatetic Migration Machine.” In The Cinema of Me: The Self and Subjectivity in First Person Documentary, edited by Alisa Lebow, 219–232. New York, NY: Wallflower Press."
+      },
+      {
+        "key": "e_1_3_4_23_1",
+        "volume-title": "The Cinema of Me: The Self and Subjectivity in First Person Documentary",
+        "author": "Lebow Alisa.",
+        "year": "2012",
+        "unstructured": "Lebow, Alisa. 2012b. The Cinema of Me: The Self and Subjectivity in First Person Documentary. New York, NY: Wallflower Press."
+      },
+      {
+        "key": "e_1_3_4_24_1",
+        "volume-title": "There’s No Place like Home Video",
+        "author": "Moran James M.",
+        "year": "2002",
+        "unstructured": "Moran, James M. 2002. There’s No Place like Home Video. Visible Evidence Vol. 12. Minneapolis, MN: University of Minnesota Press."
+      },
+      {
+        "key": "e_1_3_4_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9780691186214"
+      },
+      {
+        "key": "e_1_3_4_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/20403526.2016.1217626"
+      },
+      {
+        "key": "e_1_3_4_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9781438459783"
+      },
+      {
+        "key": "e_1_3_4_28_1",
+        "volume-title": "Matters of Care: Speculative Ethics in More than Human Worlds",
+        "author": "Puig de la Bellacasa María.",
+        "year": "2017",
+        "unstructured": "Puig de la Bellacasa, María. 2017. Matters of Care: Speculative Ethics in More than Human Worlds. Minneapolis, MN: University of Minnesota Press."
+      },
+      {
+        "key": "e_1_3_4_29_1",
+        "volume-title": "The Subject of Documentary",
+        "author": "Renov Michael.",
+        "year": "2004",
+        "unstructured": "Renov, Michael. 2004. The Subject of Documentary. Minneapolis, MN: University of Minnesota Press."
+      },
+      {
+        "key": "e_1_3_4_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17503280.2014.908490"
+      },
+      {
+        "key": "e_1_3_4_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.36019/9780813566306-013"
+      },
+      {
+        "key": "e_1_3_4_32_1",
+        "volume-title": "Ciné-Ethnography",
+        "author": "Rouch Jean.",
+        "year": "2003",
+        "unstructured": "Rouch, Jean. 2003. “On the Vicissitudes of the Self: The Possessed Dancer, the Magician, the Sorcerer, the Filmmaker, and the Ethnographer.” In Ciné-Ethnography, edited by Steven Feld, NED-New edition. Vol. 13. Minneapolis: MN: University of Minnesota Press. https://www.jstor.org/stable/10.5749j.ctttsm0c."
+      },
+      {
+        "key": "e_1_3_4_33_1",
+        "unstructured": "Wahlberg Malin. 2020. “Memory History and Forgetting: Knowledge Production and Commemoration in the Films by Susana de Sousa Dias.” In Soundscapes of Recollection. Konferenser / Kungl. Vitterhets Historie Och Antikvitets Akademien. http://urn.kb.se/resolve?urn = urn:nbn:se:su:diva-178734."
+      },
+      {
+        "key": "e_1_3_4_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5040/9781501309205"
+      },
+      {
+        "key": "e_1_3_4_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9780748698226"
+      },
+      {
+        "key": "e_1_3_4_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/9780520939684-004"
+      }
+    ],
+    "container-title": [
+      "Studies in Documentary Film"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17503280.2024.2350603",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2024-11-12T17:25:51Z",
+      "timestamp": 1731432351000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17503280.2024.2350603"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          18
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/17503280.2024.2350603"
+    ],
+    "URL": "https://doi.org/10.1080/17503280.2024.2350603",
+    "relation": {},
+    "ISSN": [
+      "1750-3280",
+      "1750-3299"
+    ],
+    "issn-type": [
+      {
+        "value": "1750-3280",
+        "type": "print"
+      },
+      {
+        "value": "1750-3299",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          18
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rsdf20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rsdf20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2023-10-27",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2024-04-29",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2024-05-18",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

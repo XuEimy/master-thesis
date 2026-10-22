@@ -1,0 +1,383 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          20
+        ]
+      ],
+      "date-time": "2026-10-20T07:24:50Z",
+      "timestamp": 1792481090220,
+      "version": "4.5.0"
+    },
+    "reference-count": 31,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2013-06-01T00:00:00Z",
+          "timestamp": 1370044800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Curr Dir Psychol Sci"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Narrative identity is a person’s internalized and evolving life story, integrating the reconstructed past and imagined future to provide life with some degree of unity and purpose. In recent studies on narrative identity, researchers have paid a great deal of attention to (a) psychological adaptation and (b) development. Research into the relation between life stories and adaptation shows that narrators who find redemptive meanings in suffering and adversity, and who construct life stories that feature themes of personal agency and exploration, tend to enjoy higher levels of mental health, well-being, and maturity. Researchers have tracked the development of narrative identity from its origins in conversations between parents and their young children to the articulation of sophisticated meaning-making strategies in the personal stories told in adolescence and the emerging adulthood years. Future researchers need to (a) disentangle causal relations between features of life stories and positive psychological adaptation and (b) explore further the role of broad cultural contexts in the development of narrative identity.</jats:p>",
+    "DOI": "10.1177/0963721413475622",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          6,
+          5
+        ]
+      ],
+      "date-time": "2013-06-05T03:33:14Z",
+      "timestamp": 1370403194000
+    },
+    "page": "233-238",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1380,
+    "title": [
+      "Narrative Identity"
+    ],
+    "prefix": "10.1177",
+    "volume": "22",
+    "author": [
+      {
+        "given": "Dan P.",
+        "family": "McAdams",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychology and School of Education and Social Policy, Northwestern University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kate C.",
+        "family": "McLean",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Western Washington University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          6,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0025289"
+      },
+      {
+        "key": "bibr2-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10503300802326020"
+      },
+      {
+        "key": "bibr3-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.88.1.203"
+      },
+      {
+        "key": "bibr4-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2012.693934"
+      },
+      {
+        "key": "bibr5-0963721413475622",
+        "volume-title": "Childhood and society",
+        "author": "Erikson E. H.",
+        "year": "1963",
+        "edition": "2"
+      },
+      {
+        "key": "bibr6-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8624.2006.00960.x"
+      },
+      {
+        "key": "bibr7-0963721413475622",
+        "first-page": "1",
+        "volume-title": "Memory",
+        "volume": "21",
+        "author": "Greenhoot A.",
+        "year": "2013"
+      },
+      {
+        "key": "bibr8-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.126.5.748"
+      },
+      {
+        "key": "bibr9-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.44.3.707"
+      },
+      {
+        "key": "bibr10-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868308316892"
+      },
+      {
+        "key": "bibr11-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.62.7.625"
+      },
+      {
+        "key": "bibr12-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2010.00688.x"
+      },
+      {
+        "key": "bibr13-0963721413475622",
+        "volume-title": "Power, intimacy, and the life story: Personological inquiries into identity",
+        "author": "McAdams D. P.",
+        "year": "1985"
+      },
+      {
+        "key": "bibr14-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1089-2680.5.2.100"
+      },
+      {
+        "key": "bibr15-0963721413475622",
+        "volume-title": "The redemptive self: Stories Americans live by",
+        "author": "McAdams D. P.",
+        "year": "2013"
+      },
+      {
+        "key": "bibr16-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0012650"
+      },
+      {
+        "key": "bibr17-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0146167201274008"
+      },
+      {
+        "key": "bibr18-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.41.4.683"
+      },
+      {
+        "key": "bibr19-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015207"
+      },
+      {
+        "key": "bibr20-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1532-7795.2009.00633.x"
+      },
+      {
+        "key": "bibr21-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2010.00676.x"
+      },
+      {
+        "key": "bibr22-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868307301034"
+      },
+      {
+        "key": "bibr23-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.42.4.714"
+      },
+      {
+        "key": "bibr24-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/11414-008"
+      },
+      {
+        "key": "bibr25-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210902992917"
+      },
+      {
+        "key": "bibr26-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0018897"
+      },
+      {
+        "key": "bibr27-0963721413475622",
+        "first-page": "352",
+        "volume": "25",
+        "author": "Reese E.",
+        "year": "2010",
+        "journal-title": "Child Development"
+      },
+      {
+        "key": "bibr28-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0022-3506.2004.00268.x"
+      },
+      {
+        "key": "bibr29-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0017825"
+      },
+      {
+        "key": "bibr30-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0026326"
+      },
+      {
+        "key": "bibr31-0963721413475622",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.93.5.845"
+      }
+    ],
+    "container-title": [
+      "Current Directions in Psychological Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0963721413475622",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0963721413475622",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0963721413475622",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T14:27:44Z",
+      "timestamp": 1777386464000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/0963721413475622"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          6
+        ]
+      ]
+    },
+    "references-count": 31,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/0963721413475622"
+    ],
+    "URL": "https://doi.org/10.1177/0963721413475622",
+    "relation": {},
+    "ISSN": [
+      "0963-7214",
+      "1467-8721"
+    ],
+    "issn-type": [
+      {
+        "value": "0963-7214",
+        "type": "print"
+      },
+      {
+        "value": "1467-8721",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          6
+        ]
+      ]
+    }
+  }
+}

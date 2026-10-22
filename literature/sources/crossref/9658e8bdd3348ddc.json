@@ -1,0 +1,590 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          21
+        ]
+      ],
+      "date-time": "2026-05-21T05:39:10Z",
+      "timestamp": 1779341950695,
+      "version": "3.51.4"
+    },
+    "reference-count": 54,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              22
+            ]
+          ],
+          "date-time": "2023-11-22T00:00:00Z",
+          "timestamp": 1700611200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001804",
+        "name": "Canada Research Chairs",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001804",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000038",
+        "name": "Natural Sciences and Engineering Research Council of Canada",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DGECR‐2019‐00407"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DGECR‐2019‐00407"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000038",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000038",
+        "name": "Natural Sciences and Engineering Research Council of Canada",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "RGPIN‐2019‐06080"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "RGPIN‐2019‐06080"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000038",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Applied Cognitive Psychology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Photographs are frequently taken to preserve memories of events from the personal past, but they can also bias how we remember. For example, photographs often capture events from a novel visual perspective (e.g., seeing ourselves in the image). Here, we examined how the presence of the self in photographs influences autobiographical memories. Participants provided subjective ratings for specific autobiographical memories, and then, following the retrieval phase, they were asked to indicate whether they had photographs for these memories and the nature of these images. Across three studies (<jats:italic>N</jats:italic> = 378), we found that autobiographical memories that participants reported the presence of photographs containing the self were more likely to be remembered from an observer‐like perspective than memories with photographs in which the self was not visible. These findings have important implications for understanding how the growing number of photographs taken in everyday life biases the perspective of our memories.</jats:p>",
+    "DOI": "10.1002/acp.4150",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          23
+        ]
+      ],
+      "date-time": "2023-11-23T16:25:28Z",
+      "timestamp": 1700756728000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "When having photographs of events influences the visual perspective of autobiographical memories"
+    ],
+    "prefix": "10.1002",
+    "volume": "38",
+    "author": [
+      {
+        "given": "Chloe I.",
+        "family": "King",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychology University of Alberta  Edmonton Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Azra A.",
+        "family": "Panjwani",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology University of Alberta  Edmonton Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0935-4588",
+        "authenticated-orcid": false,
+        "given": "Peggy L.",
+        "family": "St. Jacques",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology University of Alberta  Edmonton Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          22
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_16_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jcr/ucx112"
+      },
+      {
+        "key": "e_1_2_16_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797617694868"
+      },
+      {
+        "key": "e_1_2_16_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5334/joc.72"
+      },
+      {
+        "key": "e_1_2_16_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03194390"
+      },
+      {
+        "key": "e_1_2_16_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/nyas.13353"
+      },
+      {
+        "key": "e_1_2_16_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xge0000441"
+      },
+      {
+        "key": "e_1_2_16_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2014.12.002"
+      },
+      {
+        "key": "e_1_2_16_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspa0000055"
+      },
+      {
+        "key": "e_1_2_16_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698019829891"
+      },
+      {
+        "key": "e_1_2_16_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2010.532807"
+      },
+      {
+        "key": "e_1_2_16_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797613504438"
+      },
+      {
+        "key": "e_1_2_16_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2020.07.002"
+      },
+      {
+        "key": "e_1_2_16_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0000208-006"
+      },
+      {
+        "key": "e_1_2_16_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.114.1.3"
+      },
+      {
+        "key": "e_1_2_16_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2021.103148"
+      },
+      {
+        "key": "e_1_2_16_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2017.06.034"
+      },
+      {
+        "key": "e_1_2_16_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jtr.2069"
+      },
+      {
+        "key": "e_1_2_16_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.13.2.277"
+      },
+      {
+        "key": "e_1_2_16_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03211542"
+      },
+      {
+        "key": "e_1_2_16_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnhum.2022.928583"
+      },
+      {
+        "key": "e_1_2_16_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0956-7976.2004.01503002.x"
+      },
+      {
+        "key": "e_1_2_16_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2011.610803"
+      },
+      {
+        "key": "e_1_2_16_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2017.1329441"
+      },
+      {
+        "key": "e_1_2_16_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/20445911.2021.1935972"
+      },
+      {
+        "key": "e_1_2_16_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-014-0435-9"
+      },
+      {
+        "key": "e_1_2_16_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.2214285119"
+      },
+      {
+        "key": "e_1_2_16_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2013.07.008"
+      },
+      {
+        "key": "e_1_2_16_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neubiorev.2012.03.001"
+      },
+      {
+        "key": "e_1_2_16_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/MC.37.4.414"
+      },
+      {
+        "key": "e_1_2_16_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/19485506231163012"
+      },
+      {
+        "key": "e_1_2_16_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2011.613839"
+      },
+      {
+        "key": "e_1_2_16_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03196443"
+      },
+      {
+        "key": "e_1_2_16_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0037907"
+      },
+      {
+        "key": "e_1_2_16_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.31887/DCNS.2012.14.1/dschacter"
+      },
+      {
+        "key": "e_1_2_16_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2007.2087"
+      },
+      {
+        "key": "e_1_2_16_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2011.08.004"
+      },
+      {
+        "key": "e_1_2_16_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/DCOSS.2013.59"
+      },
+      {
+        "key": "e_1_2_16_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.4.6.592"
+      },
+      {
+        "key": "e_1_2_16_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2017.10.004"
+      },
+      {
+        "key": "e_1_2_16_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/17506980211044712"
+      },
+      {
+        "key": "e_1_2_16_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1207745"
+      },
+      {
+        "key": "e_1_2_16_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781003158134-17"
+      },
+      {
+        "key": "e_1_2_16_44_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "St. Jacques P. L.(2023).Perspective matters: When visual perspective reshapes autobiographical memories.https://doi.org/10.31234/osf.io/x6eq8",
+        "DOI": "10.31234/osf.io/x6eq8"
+      },
+      {
+        "key": "e_1_2_16_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn.2010.21518"
+      },
+      {
+        "key": "e_1_2_16_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn.2008.20091"
+      },
+      {
+        "key": "e_1_2_16_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797612457377"
+      },
+      {
+        "key": "e_1_2_16_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1390"
+      },
+      {
+        "key": "e_1_2_16_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2021.1903040"
+      },
+      {
+        "key": "e_1_2_16_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721413498893"
+      },
+      {
+        "key": "e_1_2_16_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jesp.2018.01.006"
+      },
+      {
+        "key": "e_1_2_16_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2018.1539499"
+      },
+      {
+        "key": "e_1_2_16_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2372732218788092"
+      },
+      {
+        "key": "e_1_2_16_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nn.2693"
+      },
+      {
+        "key": "e_1_2_16_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03196318"
+      }
+    ],
+    "container-title": [
+      "Applied Cognitive Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.4150",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          26
+        ]
+      ],
+      "date-time": "2024-02-26T00:48:16Z",
+      "timestamp": 1708908496000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/acp.4150"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          22
+        ]
+      ]
+    },
+    "references-count": 54,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/acp.4150"
+    ],
+    "URL": "https://doi.org/10.1002/acp.4150",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0888-4080",
+      "1099-0720"
+    ],
+    "issn-type": [
+      {
+        "value": "0888-4080",
+        "type": "print"
+      },
+      {
+        "value": "1099-0720",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          22
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2023-07-10",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-10-31",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-11-22",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e4150"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T10:04:32Z",
+      "timestamp": 1791281072424,
+      "version": "4.1.0"
+    },
+    "reference-count": 10,
+    "publisher": "SAGE Publications",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              6,
+              26
+            ]
+          ],
+          "date-time": "2017-06-26T00:00:00Z",
+          "timestamp": 1498435200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Psychol Sci"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "abstract": "<jats:p>How does volitional photo taking affect unaided memory for visual and auditory aspects of experiences? Across one field and three lab studies, we found that, even without revisiting any photos, participants who could freely take photographs during an experience recognized more of what they saw and less of what they heard, compared with those who could not take any photographs. Further, merely taking mental photos had similar effects on memory. These results provide support for the idea that photo taking induces a shift in attention toward visual aspects and away from auditory aspects of an experience. Additional findings were in line with this mechanism: Participants with a camera had better recognition of aspects of the scene that they photographed than of aspects they did not photograph. Furthermore, participants who used a camera during their experience recognized even nonphotographed aspects better than participants without a camera did. Meta-analyses including all reported studies support these findings.</jats:p>",
+    "DOI": "10.1177/0956797617694868",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          26
+        ]
+      ],
+      "date-time": "2017-06-26T12:00:18Z",
+      "timestamp": 1498478418000
+    },
+    "page": "1056-1066",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 82,
+    "title": [
+      "Photographic Memory: The Effects of Volitional Photo Taking on Memory for Visual and Auditory Aspects of an Experience"
+    ],
+    "prefix": "10.1177",
+    "volume": "28",
+    "author": [
+      {
+        "given": "Alixandra",
+        "family": "Barasch",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Stern School of Business, New York University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kristin",
+        "family": "Diehl",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Marshall School of Business, University of Southern California"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jackie",
+        "family": "Silverman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Wharton School, University of Pennsylvania"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gal",
+        "family": "Zauberman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Yale School of Management, Yale University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-0956797617694868",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspa0000055"
+      },
+      {
+        "key": "bibr2-0956797617694868",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797613504438"
+      },
+      {
+        "key": "bibr3-0956797617694868",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.104.3.499"
+      },
+      {
+        "key": "bibr4-0956797617694868",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015525"
+      },
+      {
+        "key": "bibr5-0956797617694868",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.13.2.277"
+      },
+      {
+        "key": "bibr6-0956797617694868",
+        "volume-title": "Practical meta-analysis",
+        "author": "Lipsey M. W.",
+        "year": "2001"
+      },
+      {
+        "key": "bibr7-0956797617694868",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1878061.1878075"
+      },
+      {
+        "key": "bibr8-0956797617694868",
+        "unstructured": "Okabe D., Ito M. (2003). Camera phones changing the definition of picture-worthy. Japan Media Review. Retrieved from https://pdfs.semanticscholar.org/3129/7f3ee2a3d05f09c336374a39c38965e7c401.pdf"
+      },
+      {
+        "key": "bibr9-0956797617694868",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1207745"
+      },
+      {
+        "key": "bibr10-0956797617694868",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0218-7"
+      }
+    ],
+    "container-title": [
+      "Psychological Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0956797617694868",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0956797617694868",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0956797617694868",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2026-05-01T21:29:06Z",
+      "timestamp": 1777670946000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/0956797617694868"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          26
+        ]
+      ]
+    },
+    "references-count": 10,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/0956797617694868"
+    ],
+    "URL": "https://doi.org/10.1177/0956797617694868",
+    "relation": {},
+    "ISSN": [
+      "0956-7976",
+      "1467-9280"
+    ],
+    "issn-type": [
+      {
+        "value": "0956-7976",
+        "type": "print"
+      },
+      {
+        "value": "1467-9280",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          26
+        ]
+      ]
+    }
+  }
+}

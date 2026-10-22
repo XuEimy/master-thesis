@@ -1,0 +1,432 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          4
+        ]
+      ],
+      "date-time": "2026-09-04T09:40:33Z",
+      "timestamp": 1788514833442,
+      "version": "build-2803163510"
+    },
+    "reference-count": 32,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              27
+            ]
+          ],
+          "date-time": "2023-04-27T00:00:00Z",
+          "timestamp": 1682553600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "1729482"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "1729482"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Social Psychological and Personality Science"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:p>When photographing moments in their lives, people can use a first-person (capturing the scene as they saw it) or third-person (capturing the scene with themselves in it) perspective. Past research suggests third-person (vs. first-person) images better depict the meaning (vs. physical experience) of events. The current work suggests the use and impact of perspective in personal photography follow this representational function. Across six studies ( N = 2,113), we find that the goal to capture meaning (vs. physical experience) causes people to be more likely to use third-person (vs. first-person) photos, that people are reminded more of the meaning (vs. physical experience) when viewing their own actual third-person (vs. first-person) photos, and that people like their photos better when the perspective matched (vs. mismatched) their goal for taking the photo. Discussion focuses on theoretical and practical implications of extending the representational function of imagery perspective to everyday uses of photographic imagery.</jats:p>",
+    "DOI": "10.1177/19485506231163012",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          27
+        ]
+      ],
+      "date-time": "2023-04-27T09:00:29Z",
+      "timestamp": 1682586029000
+    },
+    "page": "309-317",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Picturing Your Life: The Role of Imagery Perspective in Personal Photos"
+    ],
+    "prefix": "10.1177",
+    "volume": "15",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8174-9344",
+        "authenticated-orcid": false,
+        "given": "Zachary Adolph",
+        "family": "Niese",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Eberhard Karls Universität Tübingen, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lisa K.",
+        "family": "Libby",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Ohio State University, Columbus, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard P.",
+        "family": "Eibach",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Waterloo, Ontario, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2018.01.001"
+      },
+      {
+        "key": "bibr2-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jcr/ucx112"
+      },
+      {
+        "key": "bibr3-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550617732390"
+      },
+      {
+        "key": "bibr4-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/qup0000158"
+      },
+      {
+        "key": "bibr5-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015914"
+      },
+      {
+        "key": "bibr6-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.copsyc.2022.101334"
+      },
+      {
+        "key": "bibr7-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspa0000055"
+      },
+      {
+        "key": "bibr8-19485506231163012",
+        "unstructured": "Dixon S. (2022, February 8). Instagram—Statistics & facts. Statista. https://www.statista.com/topics/1882/instagram/#topicHeader__wrapper"
+      },
+      {
+        "key": "bibr9-19485506231163012",
+        "first-page": "1607",
+        "volume": "9",
+        "author": "Frosh P.",
+        "year": "2015",
+        "journal-title": "International Journal of Communication"
+      },
+      {
+        "key": "bibr10-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jesp.2007.10.005"
+      },
+      {
+        "key": "bibr11-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2016.03.019"
+      },
+      {
+        "key": "bibr12-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0963-7214.2005.00366.x"
+      },
+      {
+        "key": "bibr13-19485506231163012",
+        "volume-title": "The principles of psychology",
+        "volume": "1",
+        "author": "James W.",
+        "year": "1950"
+      },
+      {
+        "key": "bibr14-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jesp.2020.104009"
+      },
+      {
+        "key": "bibr15-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2021.654474"
+      },
+      {
+        "key": "bibr16-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/678392"
+      },
+      {
+        "key": "bibr17-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-0-12-385522-0.00004-4"
+      },
+      {
+        "key": "bibr18-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0016795"
+      },
+      {
+        "key": "bibr19-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0033705"
+      },
+      {
+        "key": "bibr20-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0265407514536304"
+      },
+      {
+        "key": "bibr21-19485506231163012",
+        "unstructured": "Marr B. (2021). How much data do we create every day? The mind-blowing stats everyone should read. Bernard Marr & Co. https://bernardmarr.com/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/"
+      },
+      {
+        "key": "bibr22-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/bs.adms.2019.10.001"
+      },
+      {
+        "key": "bibr23-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/20445911.2021.1912051"
+      },
+      {
+        "key": "bibr24-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xge0000612"
+      },
+      {
+        "key": "bibr25-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspa0000136"
+      },
+      {
+        "key": "bibr26-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijhcs.2013.09.009"
+      },
+      {
+        "key": "bibr27-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xge0000073"
+      },
+      {
+        "key": "bibr28-19485506231163012",
+        "volume-title": "On photography",
+        "author": "Sontag S.",
+        "year": "1977"
+      },
+      {
+        "key": "bibr29-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0034782"
+      },
+      {
+        "key": "bibr30-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0018963"
+      },
+      {
+        "key": "bibr31-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1472586X.2011.571888"
+      },
+      {
+        "key": "bibr32-19485506231163012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0012939"
+      }
+    ],
+    "container-title": [
+      "Social Psychological and Personality Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/19485506231163012",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/19485506231163012",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/19485506231163012",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/19485506231163012",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2026-04-30T22:13:32Z",
+      "timestamp": 1777587212000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/19485506231163012"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          27
+        ]
+      ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/19485506231163012"
+    ],
+    "URL": "https://doi.org/10.1177/19485506231163012",
+    "relation": {},
+    "ISSN": [
+      "1948-5506",
+      "1948-5514"
+    ],
+    "issn-type": [
+      {
+        "value": "1948-5506",
+        "type": "print"
+      },
+      {
+        "value": "1948-5514",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          27
+        ]
+      ]
+    }
+  }
+}

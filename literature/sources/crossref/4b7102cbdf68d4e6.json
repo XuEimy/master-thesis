@@ -1,0 +1,196 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2025-02-07T23:40:20Z",
+      "timestamp": 1738971620420,
+      "version": "3.37.0"
+    },
+    "reference-count": 0,
+    "publisher": "Ethnologia Fennica",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              4
+            ]
+          ],
+          "date-time": "2025-02-04T00:00:00Z",
+          "timestamp": 1738627200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "EF"
+    ],
+    "abstract": "<jats:p>Places are significant for people, providing grounds for a sense of belonging, identity, and well-being. This article draws on a research project examining people-place relations within the everyday material environment of central Reykjavík. Grounded in a critical heritage studies perspective, the project aims to contribute to an understanding of how individuals ascribe meaning and value to the historic urban landscape and analyse the emotions and affective qualities that emerge through sensory engagement with places perceived as material embodiments of the past. The article addresses the method of solitary, self-led participant walks using audio-visual recording glasses, supplemented with follow-up interviews. This approach facilitates in-situ, on-the-move observations of participants’ spatial encounters, offering insights into their emotional and sensory experiences of the urban landscape. The article delineates how the method enabled participants to immerse themselves in the flow of their walks, evoking a variety of sensorial expressions, mnemonic fragments, and shared narratives prompted by encounters with the material facets of the city centre. The findings highlight the potential of the method to provide partial yet meaningful access to the affective and emotional dimensions of people’s interactions with urban spaces, offering insights into the ways individuals experience and value the historic urban landscape.</jats:p>",
+    "DOI": "10.23991/ef.v51i2.142184",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ],
+      "date-time": "2025-02-04T23:22:06Z",
+      "timestamp": 1738711326000
+    },
+    "page": "7-34",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Engaging (with) Places"
+    ],
+    "prefix": "10.23991",
+    "volume": "51",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0006-8638-9505",
+        "authenticated-orcid": false,
+        "given": "Snjolaug",
+        "family": "Johannesdottir",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3679-8638",
+        "authenticated-orcid": false,
+        "given": "Olafur",
+        "family": "Rastrick",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "10080",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ]
+    },
+    "container-title": [
+      "Ethnologia Fennica"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://journal.fi/ethnolfenn/article/download/142184/102062",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journal.fi/ethnolfenn/article/download/142184/102062",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2025-02-07T23:22:18Z",
+      "timestamp": 1738970538000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journal.fi/ethnolfenn/article/view/142184"
+      }
+    },
+    "subtitle": [
+      "Employing audio-visual recording glasses to study emplaced attachments to everyday features of the historic urban landscape"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            4
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.23991/ef.v51i2.142184",
+    "relation": {},
+    "ISSN": [
+      "2489-4982",
+      "0355-1776"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2489-4982"
+      },
+      {
+        "type": "print",
+        "value": "0355-1776"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ]
+    }
+  }
+}

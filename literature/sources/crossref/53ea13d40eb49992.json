@@ -1,0 +1,405 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          4
+        ]
+      ],
+      "date-time": "2026-05-04T23:55:09Z",
+      "timestamp": 1777938909164,
+      "version": "3.51.4"
+    },
+    "reference-count": 37,
+    "publisher": "Japanese Society for Artificial Intelligence",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Transactions of the Japanese Society for Artificial Intelligence"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1527/tjsai.41-3_a-p73",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2026-04-30T22:16:53Z",
+      "timestamp": 1777587413000
+    },
+    "page": "A-P73_1-13",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Memory Recall Support through Externalization of Remembered Scenes Using Generative AI",
+      "画像生成AIを用いた思い出の情景の外在化に基づく想起支援"
+    ],
+    "prefix": "10.1527",
+    "volume": "41",
+    "author": [
+      {
+        "given": "Masayuki",
+        "family": "Ando",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Faculty of Business Data Science, Kansai University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kouyou",
+        "family": "Otsu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Science and Engineering, Aoyama Gakuin University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tomoko",
+        "family": "Izumi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Information Science and Engineering, Ritsumeikan University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "410",
+    "reference": [
+      {
+        "key": "1",
+        "unstructured": "[安藤 23] 安藤雅行, 大津耕陽, 泉 朋子: 思い出の情景を表す画像生成とインタラクティブな修正による思い出想起支援, ヒューマンインタフェースシンポジウム2023, No.6T-D8, pp.70-77 (2023)."
+      },
+      {
+        "key": "2",
+        "unstructured": "[安藤 24a] 安藤雅行, 大津耕陽, 泉 朋子: 思い出の情景の画像生成に基づく想起支援：青年期の学校風景を対象としたインタラクティブな修正の効果検証, 第211回ヒューマンインタフェース学会研究会, Vol.26, No.4, pp.223-228 (2024)."
+      },
+      {
+        "key": "3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Ando 24b] Ando, M., Otsu, K., and Izumi, T.: Enhancing episodic memory recall through nostalgic image generation and interactive modification, in Proceedings of 26th International Conference on Human Computer Interaction (HCII2024), pp.247-261 (2024).",
+        "DOI": "10.1007/978-3-031-60405-8_16"
+      },
+      {
+        "issue": "4",
+        "key": "4",
+        "doi-asserted-by": "crossref",
+        "first-page": "582",
+        "DOI": "10.1080/09602010601029780",
+        "volume": "17",
+        "author": "E Berry",
+        "year": "2007",
+        "unstructured": "[Berry 07] Berry, E., Hampshire, A., Rowe, J., Hodges, S., Kapur, N., Watson, P., et al., and Owen, A. M.: The use of a wearable camera, SenseCam, as a pictorial diary to improve autobiographical memory in a patient with limbic encephalitis: A preliminary report, Neuropsychological Rehabilitation, Vol.17, No.4-5, pp.582-601 (2007).",
+        "journal-title": "Neuropsychological Rehabilitation",
+        "ISSN": "https://id.crossref.org/issn/0960-2011",
+        "issn-type": "print"
+      },
+      {
+        "key": "5",
+        "doi-asserted-by": "publisher",
+        "unstructured": "[Bower 79] Bower, G. H., Black, J. B., and Turner, T. J.: Scripts in memory for text, Cognitive Psychology, Vol.11, No.2, pp.177-220 (1979).",
+        "DOI": "10.1016/0010-0285(79)90009-4"
+      },
+      {
+        "key": "6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Brade 23] Brade, S., Wang, B., Sousa, M., Oore, S., and Grossman, T.: Promptify: Text-to-image generation through interactive prompt exploration with large language models, in Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST &apos;23), No.96, pp.1-14 (2023).",
+        "DOI": "10.1145/3586183.3606725"
+      },
+      {
+        "key": "7",
+        "doi-asserted-by": "publisher",
+        "unstructured": "[Buckner 07] Buckner, R. L., and Carroll, D. C.: Self-projection and the brain, Trends in Cognitive Sciences, Vol.11, No.2, pp.49-57 (2007).",
+        "DOI": "10.1016/j.tics.2006.11.004"
+      },
+      {
+        "key": "8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Chen 24] Chen, S. X., Vaxman, Y., Ben Baruch, E., Asulin, D., Moreshet, A., Lien, K.-C., Sra, M., and Sen, P.: TiNO-Edit: Timestep and noise optimization for robust diffusion-based image editing, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024), pp.6108-6117 (2024).",
+        "DOI": "10.1109/CVPR52733.2024.00606"
+      },
+      {
+        "key": "9",
+        "unstructured": "[Cohen 88] Cohen, J.: Statistical Power Analysis for the Behavioral Sciences (2nd ed.), Lawrence Erlbaum Associates (1988)."
+      },
+      {
+        "key": "10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Chung 23]                  Chung        J. J. Y.      ,              Adar        E.          :    PromptPaint: Steering text-to-image generation through paint medium-like interactions,    in Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST &apos;23),    pp. 1–17 (2023).",
+        "DOI": "10.1145/3586183.3606777"
+      },
+      {
+        "key": "11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Frohlich 20] Frohlich, D. M., Corrigan-Kavanagh, E., Campbell, S., Chrysanthaki, T., Castro, P., Zaine, I., and Pimentel, M. G. C.: Assistive media for well-being, HCI and Design in the Context of Dementia, 2020, pp.189-205 (2020).",
+        "DOI": "10.1007/978-3-030-32835-1_12"
+      },
+      {
+        "key": "12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Gamborino 21] Gamborino, E., Herrera Ruiz, A., Wang, J. F., Tseng, T. Y., Yeh, S. L., and Fu, L. C.: Towards effective robot-assisted photo reminiscence: Personalizing interactions through visual understanding and inferring, in International Conference on Human-Computer Interaction, pp.335-349 (2021).",
+        "DOI": "10.1007/978-3-030-77080-8_27"
+      },
+      {
+        "key": "13",
+        "unstructured": "[Hass-Cohen 08] Hass-Cohen, N., and Carr, R.: Art Therapy and Clinical Neuroscience, Jessica Kingsley Publishers (2008)."
+      },
+      {
+        "key": "14",
+        "unstructured": "[Hertz 23] Hertz, A., Mokady, R., Tenenbaum, J., Aberman, K., Pritch, Y., and Cohen-Or, D.: Prompt-to-Prompt Image Editing with Cross-Attention Control, in Proceedings of the International Conference on Learning Representations (ICLR), (2023)."
+      },
+      {
+        "key": "15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Hodges 06] Hodges, S., Williams, L., Berry, E., Izadi, S., Srinivasan, J., Butler, A., et al., and Wood, K.: SenseCam: A retrospective memory aid, in Proceedings of UbiComp 2006: Ubiquitous Computing, pp.177-193, Springer, Berlin, Heidelberg (2006).",
+        "DOI": "10.1007/11853565_11"
+      },
+      {
+        "key": "16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Kemelmacher-Shlizerman 16] Kemelmacher-Shlizerman, I.: Transfiguring portraits, ACM Transactions on Graphics (TOG), Vol.35, No.4, pp.1-8 (2016).",
+        "DOI": "10.1145/2897824.2925871"
+      },
+      {
+        "key": "17",
+        "unstructured": "[Meng 22] Meng, C., He, Y., Song, Y., Song, J., Wu, J., Zhu, J.-Y., and Ermon, S.: SDEdit: Guided image synthesis and editing with stochastic differential equations, in Proceedings of the International Conference on Learning Representations (ICLR 2022) (2022)."
+      },
+      {
+        "key": "18",
+        "unstructured": "[MyHeritage 24] MyHeritage: Deep Nostalgia, https://www.myheritage.com/deep-nostalgia (参照 2024-11-22)."
+      },
+      {
+        "key": "19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Nan 25] Nan, L., Siriaraya, P., She, W. J., and Kuwahara, N.: The kimono era has long passed: Generative AI-assisted reminiscence therapy for individuals with late-stage dementia, in Adjunct Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP Adjunct &apos;25), pp.114-119 (2025).",
+        "DOI": "10.1145/3708319.3733691"
+      },
+      {
+        "key": "20",
+        "unstructured": "[OpenAI 24] OpenAI: ChatGPT API, OpenAI, https://developers.openai.com/api/docs/models/gpt-4o (参照 2024-11-22)."
+      },
+      {
+        "key": "21",
+        "unstructured": "[Ottarsdottir 18] Ottarsdottir, U.: Processing emotions and memorising coursework through memory drawing, ATOL: Art Therapy OnLine, Vol.9, No.1 (2018)."
+      },
+      {
+        "key": "22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Peesapati 10] Peesapati, S. T., Schwanda, V., Schultz, J., Lepage, M., Jeong, S. Y., and Cosley, D.: Pensieve: supporting everyday reminiscence, in Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pp.2027-2036 (2010).",
+        "DOI": "10.1145/1753326.1753635"
+      },
+      {
+        "key": "23",
+        "doi-asserted-by": "publisher",
+        "unstructured": "[Pennebaker 99] Pennebaker, J. W., and Seagal, J. D.: Forming a story: The health benefits of narrative, Journal of Clinical Psychology, Vol.55, No.10, pp.1243-1254 (1999).",
+        "DOI": "10.1002/(SICI)1097-4679(199910)55:10<1243::AID-JCLP6>3.0.CO;2-N"
+      },
+      {
+        "key": "24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Perry 11] Perry, D., Hendler, T., and Shamay-Tsoory, S. G.: Project-ing memories: the role of the hippocampus in emotional mentalizing, Neuroimage, Vol.54, No.2, pp.1669-1676 (2011).",
+        "DOI": "10.1016/j.neuroimage.2010.08.057"
+      },
+      {
+        "key": "25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Peters 19] Peters, S. L., Fan, C. L., and Sheldon, S.: Episodic memory contributions to autobiographical memory and open-ended problem-solving specificity in younger and older adults, Memory &amp; Cognition, Vol.47, No.8, pp.1592-1605 (2019).",
+        "DOI": "10.3758/s13421-019-00953-1"
+      },
+      {
+        "key": "26",
+        "doi-asserted-by": "publisher",
+        "unstructured": "[Reed 25] Reed, J. M., Dodson, T., Petrinec, A., Hughes, J., and Miller, R. D.: The HARMONEE project: Using GenAI images for reminiscence with older adults in long-term care, Geriatric Nursing, Vol.65, pp.103448 (2025).",
+        "DOI": "10.1016/j.gerinurse.2025.103448"
+      },
+      {
+        "key": "27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Rombach 23] Rombach, R., Blattmann, A., Lorenz, D., Esser, P., and Ommer, B.: High-resolution image synthesis with latent diffusion models, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp.10684-10695 (2023).",
+        "DOI": "10.1109/CVPR52729.2023.02161"
+      },
+      {
+        "key": "28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Sellen 07] Sellen, A. J., Fogg, A., Aitken, M., Hodges, S., Rother, C., and Wood, K.: Do life-logging technologies support memory for the past? an experimental study using sensecam, in Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI), pp.81-90 (2007).",
+        "DOI": "10.1145/1240624.1240636"
+      },
+      {
+        "key": "29",
+        "doi-asserted-by": "publisher",
+        "unstructured": "[Shimizu 24] Shimizu, K., Hamaguchi, N., Dongeun, C., Iwamoto, M., Siriaraya, P., and Kuwahara, N.: Exploring AI-generated images as memory aids in elderly care, 科学・技術研究, Vol.13, No.2, pp.101-108 (2024).",
+        "DOI": "10.11425/sst.13.101"
+      },
+      {
+        "key": "30",
+        "doi-asserted-by": "publisher",
+        "unstructured": "[Souchay 13] Souchay, C., and Smith, S. J.: Autobiographical memory in Parkinson&apos;s disease: a retrieval deficit, Journal of Neuropsychology, Vol.7, No.2, pp.164-178 (2013).",
+        "DOI": "10.1111/jnp.12014"
+      },
+      {
+        "key": "31",
+        "doi-asserted-by": "publisher",
+        "unstructured": "[Souder 04] Souder, E., Beck, C. K., Bader, J. L., and O&apos;Sullivan, P. S.: Personal photograph enhancement as a memory aid for persons with Alzheimer&apos;s disease, Journal of Gerontological Nursing, Vol.30, No.8, pp.19-26 (2004).",
+        "DOI": "10.3928/0098-9134-20040801-06"
+      },
+      {
+        "key": "32",
+        "unstructured": "[StabilityAI 24] Stability AI: Stable Diffusion 2.1, Hugging Face, https://huggingface.co/stabilityai/stable-diffusion-2-1 (参照 2024-11-22)."
+      },
+      {
+        "key": "33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Wang 23] Wang, Y., Shen, S., and Lim, B. Y.: RePrompt: Automatic prompt editing to refine AI-generative art towards precise expressions, in Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI &apos;23), No.22, pp.1-19 (2023).",
+        "DOI": "10.1145/3544548.3581402"
+      },
+      {
+        "key": "34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Wang 24] Wang, Y., and Zhang, Y.: Enhancing cognitive recall in dementia patients: Integrating generative AI with virtual reality for behavioral and memory rehabilitation, in Proceedings of the 2024 6th International Conference on Big-data Service and Intelligent Computation (BDSIC &apos;24), pp.86-91 (2024).",
+        "DOI": "10.1145/3686540.3686552"
+      },
+      {
+        "key": "35",
+        "doi-asserted-by": "publisher",
+        "unstructured": "[Yasuda 09] Yasuda, K., Kuwahara, N., Kuwabara, K., Morimoto, K., and Tetsutani, N.: Effectiveness of personalised reminiscence photo videos for individuals with dementia, Neuropsychological Rehabilitation, Vol.19, No.4, pp.603-619 (2009).",
+        "DOI": "10.1080/09602010802586216"
+      },
+      {
+        "key": "36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Zhai 24]                  Zhai        Y.      ,              Zhang        J.      , and              Jeung        J.          :    Exploring older adults&apos; reminiscing with ChatGPT and text-to-image technology,    in Proceedings of the 26th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS &apos;24),    pp. 1–7 (2024).",
+        "DOI": "10.1145/3663548.3688521"
+      },
+      {
+        "key": "37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "[Zhang 16]                  Zhang        R.      ,              Isola        P.      ,              Efros        A. A.      ,              Shechtman        E.      , and              Wang        O.          :    Colorful image colorization,    in Proceedings of the European Conference on Computer Vision (ECCV 2016),    pp. 649–666, Springer, Cham (2016).",
+        "DOI": "10.1007/978-3-319-46487-9_40"
+      }
+    ],
+    "container-title": [
+      "Transactions of the Japanese Society for Artificial Intelligence"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.jstage.jst.go.jp/article/tjsai/41/3/41_41-3_A-P73/_pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          2
+        ]
+      ],
+      "date-time": "2026-05-02T04:55:57Z",
+      "timestamp": 1777697757000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.jstage.jst.go.jp/article/tjsai/41/3/41_41-3_A-P73/_article/-char/ja/"
+      }
+    },
+    "subtitle": [
+      "Evaluating the Effects of Iterative Image Modification Process",
+      "反復的な画像修正プロセスの効果検証"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1527/tjsai.41-3_a-p73",
+    "relation": {},
+    "ISSN": [
+      "1346-0714",
+      "1346-8030"
+    ],
+    "issn-type": [
+      {
+        "value": "1346-0714",
+        "type": "print"
+      },
+      {
+        "value": "1346-8030",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ]
+    },
+    "article-number": "41-3_A-P73"
+  }
+}

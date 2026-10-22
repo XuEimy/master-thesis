@@ -1,0 +1,426 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2026-03-05T09:16:00Z",
+      "timestamp": 1772702160779,
+      "version": "3.50.1"
+    },
+    "reference-count": 30,
+    "publisher": "Informa UK Limited",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100021638",
+        "name": "Social Sciences and Humanities Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "Insight Grant #435-2020-0649"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "Insight Grant #435-2020-0649"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100021638",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Lesbian Studies"
+    ],
+    "DOI": "10.1080/10894160.2026.2612802",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2026-03-05T08:48:57Z",
+      "timestamp": 1772700537000
+    },
+    "page": "1-22",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Sensing the Palace: Somatic Elicitation in Queer Oral History"
+    ],
+    "prefix": "10.1080",
+    "author": [
+      {
+        "given": "Alisha",
+        "family": "Stranges",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Historical Studies, University of Toronto",
+            "place": [
+              "Toronto, Canada"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Elspeth H.",
+        "family": "Brown",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Historical Studies, University of Toronto",
+            "place": [
+              "Toronto, Canada"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_6_2_1",
+        "first-page": "191",
+        "volume-title": "Memory, mobility, and material culture",
+        "author": "Bond E.",
+        "year": "2023",
+        "unstructured": "Bond, E., & Bozdog, M. (2023). The smells and tastes of memory: Accessing transnational pasts through material culture. In C. Giuliani & K. Hodgson (Eds.), Memory, mobility, and material culture (1st ed., Vol. 1, pp. 191–207). Routledge.",
+        "edition": "1"
+      },
+      {
+        "key": "e_1_3_6_3_1",
+        "first-page": "6",
+        "article-title": "Archival activism, symbolic annihilation, and the LGBTQ2+ community archive",
+        "volume": "89",
+        "author": "Brown E. H.",
+        "year": "2020",
+        "unstructured": "Brown, E. H. (2020). Archival activism, symbolic annihilation, and the LGBTQ2+ community archive. Archivaria, 89, 6–33.",
+        "journal-title": "Archivaria,"
+      },
+      {
+        "key": "e_1_3_6_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00940798.2024.2316904"
+      },
+      {
+        "key": "e_1_3_6_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.17723/0360-9081.79.1.103"
+      },
+      {
+        "key": "e_1_3_6_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1353/lib.2016.0010"
+      },
+      {
+        "key": "e_1_3_6_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08164649.2017.1357014"
+      },
+      {
+        "key": "e_1_3_6_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5406/illinois/9780252034930.001.0001"
+      },
+      {
+        "key": "e_1_3_6_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1215/9780822384434"
+      },
+      {
+        "key": "e_1_3_6_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1057/9780230120099"
+      },
+      {
+        "key": "e_1_3_6_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1353/book21974"
+      },
+      {
+        "key": "e_1_3_6_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09518398.2021.1888164"
+      },
+      {
+        "key": "e_1_3_6_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2019.02012"
+      },
+      {
+        "key": "e_1_3_6_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-57212-9_7"
+      },
+      {
+        "key": "e_1_3_6_15_1",
+        "first-page": "219",
+        "volume-title": "The Oxford handbook of oral history",
+        "author": "Hamilton P.",
+        "year": "2010",
+        "unstructured": "Hamilton, P. (2010). The Proust effect: Oral history and the senses. In D. A. Ritchie (Ed.), The Oxford handbook of oral history (pp. 219–233). Oxford University Press."
+      },
+      {
+        "key": "e_1_3_6_16_1",
+        "first-page": "341",
+        "volume-title": "Bone, breath & gesture: Practices of embodiment",
+        "author": "Hanna T.",
+        "year": "1995",
+        "unstructured": "Hanna, T. (1995). What is somatics? In D. Johnson (Ed.), Bone, breath & gesture: Practices of embodiment (pp. 341–352). North Atlantic Books."
+      },
+      {
+        "key": "e_1_3_6_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/tph.2015.37.4.14"
+      },
+      {
+        "key": "e_1_3_6_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315856032"
+      },
+      {
+        "key": "e_1_3_6_19_1",
+        "first-page": "262",
+        "article-title": "Archival excess: Sensational histories beyond the audiovisual",
+        "author": "McMurray P.",
+        "year": "2015",
+        "unstructured": "McMurray, P. (2015). Archival excess: Sensational histories beyond the audiovisual. Fontes Artis Musicae, 62(3), 262–275.",
+        "journal-title": "Fontes Artis Musicae,"
+      },
+      {
+        "key": "e_1_3_6_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3998/mpub.12366495"
+      },
+      {
+        "key": "e_1_3_6_21_1",
+        "first-page": "60",
+        "article-title": "Using the five senses to trigger memory: From reminiscence to oral history",
+        "volume": "29",
+        "author": "Mitchell B.",
+        "year": "2007",
+        "unstructured": "Mitchell, B. (2007). Using the five senses to trigger memory: From reminiscence to oral history. The Oral History Association of Australia Journal, 29, 60–63.",
+        "journal-title": "The Oral History Association of Australia Journal,"
+      },
+      {
+        "key": "e_1_3_6_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.59962/9780774817257"
+      },
+      {
+        "key": "e_1_3_6_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/j.ctv47wbfs"
+      },
+      {
+        "key": "e_1_3_6_24_1",
+        "first-page": "123",
+        "article-title": "Accessing Transgender // Desiring Queer(er?) Archival Logics",
+        "author": "Rawson K. J.",
+        "year": "2009",
+        "unstructured": "Rawson, K. J. (2009). Accessing Transgender // Desiring Queer(er?) Archival Logics. Archivaria, 68, 123–140.",
+        "journal-title": "Archivaria, 68,"
+      },
+      {
+        "key": "e_1_3_6_25_1",
+        "volume-title": "How Race is made: Slavery, segregation, and the senses",
+        "author": "Smith M. M.",
+        "year": "2006",
+        "unstructured": "Smith, M. M. (2006). How Race is made: Slavery, segregation, and the senses. UNCP."
+      },
+      {
+        "key": "e_1_3_6_26_1",
+        "volume-title": "Sensing the past: Seeing, hearing, smelling, tasting, and touching in history",
+        "author": "Smith M. M.",
+        "year": "2007",
+        "unstructured": "Smith, M. M. (2007). Sensing the past: Seeing, hearing, smelling, tasting, and touching in history. University of California Press."
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_6_27_1",
+        "first-page": "115",
+        "article-title": "Memories in motion: Film elicitation and home movies from East Germany",
+        "volume": "49",
+        "author": "Thalheim S.",
+        "year": "2021",
+        "unstructured": "Thalheim, S. (2021). Memories in motion: Film elicitation and home movies from East Germany. Oral History (Colchester), 49(1), 115–124.",
+        "journal-title": "Oral History (Colchester)"
+      },
+      {
+        "key": "e_1_3_6_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5040/9781350371811"
+      },
+      {
+        "key": "e_1_3_6_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780198844136.001.0001"
+      },
+      {
+        "key": "e_1_3_6_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1468-229X.13246"
+      },
+      {
+        "key": "e_1_3_6_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00940798.2022.2049586"
+      }
+    ],
+    "container-title": [
+      "Journal of Lesbian Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/10894160.2026.2612802",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2026-03-05T08:48:59Z",
+      "timestamp": 1772700539000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/10894160.2026.2612802"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "references-count": 30,
+    "alternative-id": [
+      "10.1080/10894160.2026.2612802"
+    ],
+    "URL": "https://doi.org/10.1080/10894160.2026.2612802",
+    "relation": {},
+    "ISSN": [
+      "1089-4160",
+      "1540-3548"
+    ],
+    "issn-type": [
+      {
+        "value": "1089-4160",
+        "type": "print"
+      },
+      {
+        "value": "1540-3548",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=wjls20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=wjls20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2026-03-01",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

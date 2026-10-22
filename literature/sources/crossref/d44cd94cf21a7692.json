@@ -1,0 +1,407 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          13
+        ]
+      ],
+      "date-time": "2026-06-13T20:02:07Z",
+      "timestamp": 1781380927224,
+      "version": "3.54.1"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 32,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              2,
+              6
+            ]
+          ],
+          "date-time": "2010-02-06T00:00:00Z",
+          "timestamp": 1265414400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1145/1718918.1718985",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          24
+        ]
+      ],
+      "date-time": "2010-08-24T13:16:50Z",
+      "timestamp": 1282655810000
+    },
+    "page": "391-400",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 65,
+    "title": [
+      "Sonic souvenirs"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "Lina",
+        "family": "Dib",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Rice University, Houston, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniela",
+        "family": "Petrelli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Sheffield, Sheffield, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Steve",
+        "family": "Whittaker",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Sheffield, Sheffield, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          6
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_1_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/scientificamerican0307-58"
+      },
+      {
+        "key": "e_1_3_2_1_2_1",
+        "volume-title": "Snapshot Versions of Life",
+        "author": "Chalfen R.",
+        "year": "1987",
+        "unstructured": "Chalfen , R. , ( 1987 ) Snapshot Versions of Life . Bowling Green State University Popular Press , USA. Chalfen, R., (1987) Snapshot Versions of Life. Bowling Green State University Popular Press, USA."
+      },
+      {
+        "key": "e_1_3_2_1_3_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9781139167611",
+        "volume-title": "The meaning of things -- Domestic symbols and the self",
+        "author": "Csikszentmihalyi M.",
+        "year": "1981",
+        "unstructured": "Csikszentmihalyi , M. , and Rochberg-Halton , E. , ( 1981 ) The meaning of things -- Domestic symbols and the self . Cambridge University Press . Csikszentmihalyi, M., and Rochberg-Halton, E., (1981) The meaning of things -- Domestic symbols and the self. Cambridge University Press."
+      },
+      {
+        "key": "e_1_3_2_1_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1031607.1031673"
+      },
+      {
+        "key": "e_1_3_2_1_5_1",
+        "first-page": "38",
+        "article-title": "Memory as Concept in the Design of Digital Recording Devices, New Methods, New Challenges: Anthropology and New Technologies, Special Edition",
+        "volume": "5",
+        "author": "Dib L.",
+        "year": "2008",
+        "unstructured": "Dib , L. , ( 2008 ) Memory as Concept in the Design of Digital Recording Devices, New Methods, New Challenges: Anthropology and New Technologies, Special Edition , Alterites , vol. 5 , pp. 38 -- 53 . Dib, L., (2008) Memory as Concept in the Design of Digital Recording Devices, New Methods, New Challenges: Anthropology and New Technologies, Special Edition, Alterites, vol. 5, pp. 38--53.",
+        "journal-title": "Alterites"
+      },
+      {
+        "key": "e_1_3_2_1_6_1",
+        "volume-title": "Sketching and Contextualizing Sonic Family Memories. Workshop on Designing for Families, CSCW",
+        "author": "Dib L.",
+        "year": "2008",
+        "unstructured": "Dib , L. & Kalnikaité , V. ( 2008 ). Sketching and Contextualizing Sonic Family Memories. Workshop on Designing for Families, CSCW 2008. Dib, L. & Kalnikaité, V. (2008). Sketching and Contextualizing Sonic Family Memories. Workshop on Designing for Families, CSCW 2008."
+      },
+      {
+        "key": "e_1_3_2_1_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1226969.1227005"
+      },
+      {
+        "key": "e_1_3_2_1_8_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-4020-2210-4",
+        "volume-title": "Audiophotography: Bringing Photos to Life with Sounds",
+        "author": "Frohlich D.",
+        "year": "2004",
+        "unstructured": "Frohlich , D. , ( 2004 ). Audiophotography: Bringing Photos to Life with Sounds . Kluwer , London . Frohlich, D., (2004). Audiophotography: Bringing Photos to Life with Sounds. Kluwer, London."
+      },
+      {
+        "key": "e_1_3_2_1_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/587078.587102"
+      },
+      {
+        "key": "e_1_3_2_1_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/PL00000011"
+      },
+      {
+        "key": "e_1_3_2_1_11_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7208/chicago/9780226774497.001.0001",
+        "volume-title": "On Collective Memory",
+        "author": "Halbwachs M.",
+        "year": "1992",
+        "unstructured": "Halbwachs , M. ( 1992 ) On Collective Memory , University of Chicago Press. Halbwachs, M. (1992) On Collective Memory, University of Chicago Press."
+      },
+      {
+        "key": "e_1_3_2_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1394445.1394474"
+      },
+      {
+        "key": "e_1_3_2_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/365024.383749"
+      },
+      {
+        "key": "e_1_3_2_1_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/11853565_11"
+      },
+      {
+        "key": "e_1_3_2_1_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/642611.642616"
+      },
+      {
+        "key": "e_1_3_2_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1056808.1056958"
+      },
+      {
+        "key": "e_1_3_2_1_17_1",
+        "volume-title": "Proceedings of IS&T Archiving",
+        "author": "Marshall C.",
+        "year": "2006",
+        "unstructured": "Marshall , C. , Bly , S. , Brun-Cottan , F. , ( 2006 ) The long term fate of our digital belongings: Toward a service model of personal archives . Proceedings of IS&T Archiving , Ottawa, Canada , May 23-26. Marshall, C., Bly, S., Brun-Cottan, F., (2006) The long term fate of our digital belongings: Toward a service model of personal archives. Proceedings of IS&T Archiving, Ottawa, Canada, May 23-26."
+      },
+      {
+        "key": "e_1_3_2_1_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1240624.1240682"
+      },
+      {
+        "key": "e_1_3_2_1_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/365024.365126"
+      },
+      {
+        "key": "e_1_3_2_1_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5555/1531514.1531537"
+      },
+      {
+        "key": "e_1_3_2_1_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1357054.1357277"
+      },
+      {
+        "key": "e_1_3_2_1_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1518701.1518966"
+      },
+      {
+        "key": "e_1_3_2_1_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1183456.1183458"
+      },
+      {
+        "key": "e_1_3_2_1_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1054972.1055074"
+      },
+      {
+        "key": "e_1_3_2_1_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1125451.1125694"
+      },
+      {
+        "key": "e_1_3_2_1_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1240624.1240636"
+      },
+      {
+        "key": "e_1_3_2_1_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-003-0220-4"
+      },
+      {
+        "key": "e_1_3_2_1_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1124772.1124941"
+      },
+      {
+        "key": "e_1_3_2_1_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1354067X02008001618"
+      },
+      {
+        "key": "e_1_3_2_1_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-006-0090-7"
+      },
+      {
+        "key": "e_1_3_2_1_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0218-7"
+      },
+      {
+        "key": "e_1_3_2_1_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1240624.1240642"
+      }
+    ],
+    "event": {
+      "name": "CSCW '10: Computer Supported Cooperative Work",
+      "location": "Savannah Georgia USA",
+      "acronym": "CSCW '10",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2010 ACM conference on Computer supported cooperative work"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/1718918.1718985",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/1718918.1718985",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T12:41:25Z",
+      "timestamp": 1750250485000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/1718918.1718985"
+      }
+    },
+    "subtitle": [
+      "exploring the paradoxes of recorded sound for family remembering"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          6
+        ]
+      ]
+    },
+    "references-count": 32,
+    "alternative-id": [
+      "10.1145/1718918.1718985",
+      "10.1145/1718918"
+    ],
+    "URL": "https://doi.org/10.1145/1718918.1718985",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2010-02-06",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

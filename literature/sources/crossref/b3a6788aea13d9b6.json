@@ -1,0 +1,429 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          15
+        ]
+      ],
+      "date-time": "2026-09-15T11:23:59Z",
+      "timestamp": 1789471439589,
+      "version": "build-2803163510"
+    },
+    "reference-count": 48,
+    "publisher": "Cambridge University Press (CUP)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              4
+            ]
+          ],
+          "date-time": "2022-08-04T00:00:00Z",
+          "timestamp": 1659571200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 215,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mem. Mind &amp; Media"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n\t  <jats:p>Studies that locate memory entirely within the head may pay less attention to the properties, practices or cultures of the media with which people remember than studies of ‘memory in the wild’, where memory is seen to extend beyond the individual, into the distributed activities of people and material things. While memory in the head is, apparently, individual and susceptible to universal effects, memory in the wild is emergent and relational. Studies of memory in the wild, therefore, produce results that are harder to pin down but may form a stronger basis for interpreting the importance of context. It is an important, interdisciplinary challenge to reconcile evidence from studies based on these different conceptions, so that we can better understand how people remember and forget, individually and collectively, and the relationship between context, environment, and memory. I argue that wherever <jats:italic>memory</jats:italic> is located or studied, all <jats:italic>remembering</jats:italic> can be framed as in the wild, and that doing so supports ecological validity, conceptual precision, reflexivity, and realistic application of conclusions beyond the research context. A key part of my argument is that the relationship between media, technology, and memory is situated, highly complex, and not easily generalisable. Remembering in the wild supports the conceptual precision needed to understand the subtle and entangled implications of technological change in relation to memory.</jats:p>",
+    "DOI": "10.1017/mem.2022.5",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          4
+        ]
+      ],
+      "date-time": "2022-08-04T09:07:32Z",
+      "timestamp": 1659604052000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Remembering in the wild: recontextualising and reconciling studies of media and memory"
+    ],
+    "prefix": "10.1017",
+    "volume": "1",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5014-2662",
+        "authenticated-orcid": false,
+        "given": "Tim",
+        "family": "Fawns",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "56",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "S2635023822000054_ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698018806440"
+      },
+      {
+        "key": "S2635023822000054_ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.117.4.371"
+      },
+      {
+        "key": "S2635023822000054_ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/tops.12350"
+      },
+      {
+        "key": "S2635023822000054_ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698014558660"
+      },
+      {
+        "key": "S2635023822000054_ref7",
+        "first-page": "200",
+        "article-title": "Embodiment and place in autobiographical remembering a relational-material approach",
+        "volume": "25",
+        "author": "Brown",
+        "year": "2018",
+        "journal-title": "Journal of Consciousness Studies"
+      },
+      {
+        "key": "S2635023822000054_ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7208/chicago/9780226774497.001.0001"
+      },
+      {
+        "key": "S2635023822000054_ref33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2021.3"
+      },
+      {
+        "key": "S2635023822000054_ref26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.114.1.3"
+      },
+      {
+        "key": "S2635023822000054_ref31",
+        "first-page": "25",
+        "article-title": "The myth of external validity",
+        "volume": "1984",
+        "author": "Mook",
+        "year": "2013",
+        "journal-title": "Everyday Cognition in Adulthood and Late Life"
+      },
+      {
+        "key": "S2635023822000054_ref18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2007.05.001"
+      },
+      {
+        "key": "S2635023822000054_ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2022.854051"
+      },
+      {
+        "key": "S2635023822000054_ref27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1461444814532062"
+      },
+      {
+        "key": "S2635023822000054_ref35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2008.0301"
+      },
+      {
+        "key": "S2635023822000054_ref39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1353/shq.2005.0065"
+      },
+      {
+        "key": "S2635023822000054_ref43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.46.1.41"
+      },
+      {
+        "key": "S2635023822000054_ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698019829891"
+      },
+      {
+        "key": "S2635023822000054_ref40",
+        "first-page": "381",
+        "volume-title": "Organization of Memory",
+        "author": "Tulving",
+        "year": "1972"
+      },
+      {
+        "key": "S2635023822000054_ref44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.53.100901.135114"
+      },
+      {
+        "key": "S2635023822000054_ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/19434471003597399"
+      },
+      {
+        "key": "S2635023822000054_ref29",
+        "first-page": "59",
+        "article-title": "Ecological validity and the real-life/laboratory controversy in memory research: A critical and historical review",
+        "volume": "6",
+        "author": "Kvavilashvili",
+        "year": "2004",
+        "journal-title": "History and Philosophy of Psychology"
+      },
+      {
+        "key": "S2635023822000054_ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698014530619"
+      },
+      {
+        "key": "S2635023822000054_ref36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/9780262014038.003.0009"
+      },
+      {
+        "key": "S2635023822000054_ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797613504438"
+      },
+      {
+        "key": "S2635023822000054_ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2018.02385"
+      },
+      {
+        "key": "S2635023822000054_ref12",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/17506980211073093",
+        "article-title": "Cued recall: Using photo-elicitation to examine the distributed processes of remembering with photographs",
+        "author": "Fawns",
+        "year": "2022",
+        "journal-title": "Memory Studies"
+      },
+      {
+        "key": "S2635023822000054_ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11023-016-9404-3"
+      },
+      {
+        "key": "S2635023822000054_ref28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.51.1.481"
+      },
+      {
+        "key": "S2635023822000054_ref45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9780804779517"
+      },
+      {
+        "key": "S2635023822000054_ref8",
+        "volume-title": "The Shallows: How the Internet Is Changing the Way We Think, Read and Remember",
+        "author": "Carr",
+        "year": "2010"
+      },
+      {
+        "key": "S2635023822000054_ref10",
+        "volume-title": "Origins of the Modern Mind",
+        "author": "Donald",
+        "year": "1991"
+      },
+      {
+        "key": "S2635023822000054_ref30",
+        "volume-title": "Prosthetic Memory: The Transformation of American Remembrance in the Age of Mass Culture",
+        "author": "Landsberg",
+        "year": "2004"
+      },
+      {
+        "key": "S2635023822000054_ref46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780198784845.003.0005"
+      },
+      {
+        "key": "S2635023822000054_ref48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511664014.003"
+      },
+      {
+        "key": "S2635023822000054_ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1756-8765.2010.01089.x"
+      },
+      {
+        "key": "S2635023822000054_ref42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X0004440X"
+      },
+      {
+        "key": "S2635023822000054_ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/analys/58.1.7"
+      },
+      {
+        "key": "S2635023822000054_ref23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698016645274"
+      },
+      {
+        "key": "S2635023822000054_ref37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11097-010-9182-y"
+      },
+      {
+        "key": "S2635023822000054_ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5040/9781350197725"
+      },
+      {
+        "key": "S2635023822000054_ref21",
+        "volume-title": "Family Frames: Photography, Narrative, and Postmemory",
+        "author": "Hirsch",
+        "year": "1997"
+      },
+      {
+        "key": "S2635023822000054_ref3",
+        "volume-title": "Remembering: A Study in Experimental and Social Psychology",
+        "author": "Bartlett",
+        "year": "1932"
+      },
+      {
+        "key": "S2635023822000054_ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13534645.2011.605573"
+      },
+      {
+        "key": "S2635023822000054_ref34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1207745"
+      },
+      {
+        "key": "S2635023822000054_ref38",
+        "unstructured": "Sutton, J , Bicknell, K and Harris, C (2020) The Wisconsin moment: A cognitive ethnography of collaborative recall experiments. Paper presented at the Conference on Interactivity, Language, & Cognition (CILC), 20 September, Warsaw."
+      },
+      {
+        "key": "S2635023822000054_ref41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0080641"
+      },
+      {
+        "key": "S2635023822000054_ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/scan/nsac019"
+      },
+      {
+        "key": "S2635023822000054_ref32",
+        "first-page": "3",
+        "volume-title": "Practical Aspects of Memory",
+        "author": "Neisser",
+        "year": "1978"
+      },
+      {
+        "key": "S2635023822000054_ref47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4612-4634-3_9"
+      }
+    ],
+    "container-title": [
+      "Memory, Mind &amp; Media"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S2635023822000054",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          4
+        ]
+      ],
+      "date-time": "2022-08-04T09:08:05Z",
+      "timestamp": 1659604085000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.cambridge.org/core/product/identifier/S2635023822000054/type/journal_article"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "references-count": 48,
+    "alternative-id": [
+      "S2635023822000054"
+    ],
+    "URL": "https://doi.org/10.1017/mem.2022.5",
+    "relation": {},
+    "ISSN": [
+      "2635-0238"
+    ],
+    "issn-type": [
+      {
+        "value": "2635-0238",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "article-number": "e11"
+  }
+}

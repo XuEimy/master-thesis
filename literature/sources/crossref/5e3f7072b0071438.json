@@ -1,0 +1,458 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2026-06-25T06:50:39Z",
+      "timestamp": 1782370239331,
+      "version": "3.54.5"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 46,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              13
+            ]
+          ],
+          "date-time": "2026-04-13T00:00:00Z",
+          "timestamp": 1776038400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.1145/3772318.3791325",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2026-04-13T04:12:21Z",
+      "timestamp": 1776053541000
+    },
+    "page": "1-18",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0000-8305-997X",
+        "authenticated-orcid": false,
+        "given": "Zhou",
+        "family": "Fang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "industrial design, Eindhoven University of Technology, Eindhoven, Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8204-4327",
+        "authenticated-orcid": false,
+        "given": "Janet Yi-Ching",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Industrial Design, Eindhoven University of Technology, Eindhoven, Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_1_2_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bruno Berberian Jean-Christophe Sarrazin Patrick Le Blaye and Patrick Haggard. 2012. Automation Technology and Sense of Control: A Window on Human Agency. PLOS ONE 7 3 (03 2012) 1–6. 10.1371/journal.pone.0034075",
+        "DOI": "10.1371/journal.pone.0034075"
+      },
+      {
+        "key": "e_1_3_3_1_3_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Virginia Braun and Victoria Clarke. 2006. Using thematic analysis in psychology. Qualitative research in psychology 3 2 (2006) 77–101.",
+        "DOI": "10.1191/1478088706qp063oa"
+      },
+      {
+        "key": "e_1_3_3_1_4_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Anneli Cassel and Kate Humphreys. 2015. Psychological therapy for psychogenic amnesia: Successful treatment in a single case study. Neuropsychological Rehabilitation 26 3 (April 2015) 374–391. 10.1080/09602011.2015.1033431",
+        "DOI": "10.1080/09602011.2015.1033431"
+      },
+      {
+        "key": "e_1_3_3_1_5_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Luciano Cavalcante Siebert Maria Luce Lupetti Evgeni Aizenberg Niek Beckers Arkady Zgonnikov Herman Veluwenkamp David Abbink Elisa Giaccardi Geert-Jan Houben Catholijn M Jonker et al. 2023. Meaningful human control: actionable properties for AI system development. AI and Ethics 3 1 (2023) 241–255.",
+        "DOI": "10.1007/s43681-022-00167-3"
+      },
+      {
+        "key": "e_1_3_3_1_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3563657.3596020"
+      },
+      {
+        "key": "e_1_3_3_1_7_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Martin A. Conway and Christopher W. Pleydell-Pearce. 2000. The construction of autobiographical memories in the self-memory system.Psychological Review 107 2 (2000) 261–288. 10.1037/0033-295x.107.2.261",
+        "DOI": "10.1037/0033-295x.107.2.261"
+      },
+      {
+        "key": "e_1_3_3_1_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2207676.2208350"
+      },
+      {
+        "key": "e_1_3_3_1_9_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Johnathon Schultz S. Tejaswi Peesapati Dan Cosley Victoria Schwanda Sosik and Soyoung Lee. 2012. Experiences With Designing Tools for Everyday Reminiscing. Human–Computer Interaction 27 1-2 (2012) 175–198. arXiv:https://www.tandfonline.com/doi/pdf/10.1080/07370024.2012.65604710.1080/07370024.2012.656047",
+        "DOI": "10.1080/07370024.2012.656047"
+      },
+      {
+        "key": "e_1_3_3_1_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/7221.001.0001"
+      },
+      {
+        "key": "e_1_3_3_1_11_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Alison F. Eardley and Linda Pring. 2006. Remembering the past and imagining the future: A role for nonvisual imagery in the everyday cognition of blind and sighted people. Memory 14 8 (2006) 925–936. arXiv:10.1080/0965821060085958210.1080/09658210600859582PMID: 17077028.",
+        "DOI": "10.1080/09658210600859582"
+      },
+      {
+        "key": "e_1_3_3_1_12_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Paul S Foster Candias Wakefield Scott Pryjmak Katelyn M Roosa Kaylei K Branch Valeria Drago David W Harrison and Ronald Ruff. 2017. Spreading activation in nonverbal memory networks. Brain Informatics 4 3 (2017) 187–199.",
+        "DOI": "10.1007/s40708-016-0058-y"
+      },
+      {
+        "key": "e_1_3_3_1_13_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Christopher D. Frith Sarah-Jayne Blakemore and Daniel M. Wolpert. 2000. Abnormalities in the awareness and control of action. Philosophical Transactions of the Royal Society B: Biological Sciences 355 1404 (12 2000) 1771–1788. arXiv:https://royalsocietypublishing.org/rstb/article-pdf/355/1404/1771/85858/rstb.2000.0734.pdf10.1098/rstb.2000.0734",
+        "DOI": "10.1098/rstb.2000.0734"
+      },
+      {
+        "key": "e_1_3_3_1_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2207676.2208538"
+      },
+      {
+        "key": "e_1_3_3_1_15_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lars Hallnäs and Johan Redström. 2001. Slow Technology – Designing for Reflection. Personal and Ubiquitous Computing 5 3 (Aug. 2001) 201–212. 10.1007/pl00000019",
+        "DOI": "10.1007/pl00000019"
+      },
+      {
+        "key": "e_1_3_3_1_16_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jochen Hartmann Yannick Exner and Samuel Domdey. 2025. The power of generative marketing: Can generative AI create superhuman visual marketing content?International Journal of Research in Marketing 42 1 (2025) 13–31.",
+        "DOI": "10.1016/j.ijresmar.2024.09.002"
+      },
+      {
+        "key": "e_1_3_3_1_17_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "R. S. Herz. 2004. A Naturalistic Analysis of Autobiographical Memories Triggered by Olfactory Visual and Auditory Stimuli. Chemical Senses 29 3 (March 2004) 217–224. 10.1093/chemse/bjh025",
+        "DOI": "10.1093/chemse/bjh025"
+      },
+      {
+        "key": "e_1_3_3_1_18_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Michael Townsen Hicks James Humphries and Joe Slater. 2024. ChatGPT is bullshit. Ethics and Information Technology 26 2 (2024) 1–10.",
+        "DOI": "10.1007/s10676-024-09775-5"
+      },
+      {
+        "key": "e_1_3_3_1_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/258549.258715"
+      },
+      {
+        "key": "e_1_3_3_1_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613905.3650979"
+      },
+      {
+        "key": "e_1_3_3_1_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2019.00453"
+      },
+      {
+        "key": "e_1_3_3_1_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3532106.3533456"
+      },
+      {
+        "key": "e_1_3_3_1_23_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Amanda Lazar Hilaire Thompson and George Demiris. 2014. A Systematic Review of the Use of Technology for Reminiscence Therapy. Health Education & Behavior 41 1_suppl (oct 2014) 51S–61S. 10.1177/1090198114537067",
+        "DOI": "10.1177/1090198114537067"
+      },
+      {
+        "key": "e_1_3_3_1_24_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hannah Limerick David Coyle and James W Moore. 2014. The experience of agency in human-computer interactions: a review. Frontiers in human neuroscience 8 (2014) 643.",
+        "DOI": "10.3389/fnhum.2014.00643"
+      },
+      {
+        "key": "e_1_3_3_1_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376739"
+      },
+      {
+        "key": "e_1_3_3_1_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642861"
+      },
+      {
+        "key": "e_1_3_3_1_27_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tim Miller. 2019. Explanation in artificial intelligence: Insights from the social sciences. Artificial intelligence 267 (2019) 1–38.",
+        "DOI": "10.1016/j.artint.2018.07.007"
+      },
+      {
+        "key": "e_1_3_3_1_28_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "James W Moore and Paul C Fletcher. 2012. Sense of agency in health and disease: a review of cue integration approaches. Consciousness and cognition 21 1 (2012) 59–68.",
+        "DOI": "10.1016/j.concog.2011.08.010"
+      },
+      {
+        "key": "e_1_3_3_1_29_2",
+        "unstructured": "Jakob Nielsen. 2023. AI: First new UI paradigm in 60 years. Nielsen Norman Group 18 06 (2023) 2023."
+      },
+      {
+        "key": "e_1_3_3_1_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2839462.2856524"
+      },
+      {
+        "key": "e_1_3_3_1_31_2",
+        "volume-title": "Emotional design: Why we love (or hate) everyday things",
+        "author": "Norman Don",
+        "year": "2007",
+        "unstructured": "Don Norman. 2007. Emotional design: Why we love (or hate) everyday things. Basic books."
+      },
+      {
+        "key": "e_1_3_3_1_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290605.3300264"
+      },
+      {
+        "key": "e_1_3_3_1_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2556288.2557178"
+      },
+      {
+        "key": "e_1_3_3_1_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3706598.3713697"
+      },
+      {
+        "key": "e_1_3_3_1_35_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sally C. Prebble Donna Rose Addis and Lynette J. Tippett. 2013. Autobiographical memory and sense of self.Psychological Bulletin 139 4 (July 2013) 815–840. 10.1037/a0030146",
+        "DOI": "10.1037/a0030146"
+      },
+      {
+        "key": "e_1_3_3_1_36_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Daniel L Schacter and Donna Rose Addis. 2007. The cognitive neuroscience of constructive memory: remembering the past and imagining the future. Philosophical Transactions of the Royal Society B: Biological Sciences 362 1481 (March 2007) 773–786. 10.1098/rstb.2007.2087",
+        "DOI": "10.1098/rstb.2007.2087"
+      },
+      {
+        "key": "e_1_3_3_1_37_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ben Shneiderman. 1983. Direct manipulation: A step beyond programming languages. Computer 16 08 (1983) 57–69.",
+        "DOI": "10.1109/MC.1983.1654471"
+      },
+      {
+        "key": "e_1_3_3_1_38_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ponnusamy Subramaniam Bob Woods and Chris Whitaker. 2013. Life review and life story books for people with mild to moderate dementia: a randomised controlled trial. Aging & Mental Health 18 3 (Sept. 2013) 363–375. 10.1080/13607863.2013.837144",
+        "DOI": "10.1080/13607863.2013.837144"
+      },
+      {
+        "key": "e_1_3_3_1_39_2",
+        "unstructured": "Wenn-Chieh Tsai and Elise van den Hoven. 2018. Memory probes: exploring retrospective user experience through traces of use on cherished objects. International Journal of Design 12 3 (Dec. 2018) 57–72."
+      },
+      {
+        "key": "e_1_3_3_1_40_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Elise van den Hoven. 2014. A future-proof past: Designing for remembering experiences. Memory Studies 7 3 (2014) 370–384. arXiv:10.1177/175069801453062510.1177/1750698014530625",
+        "DOI": "10.1177/1750698014530625"
+      },
+      {
+        "key": "e_1_3_3_1_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3294109.3295649"
+      },
+      {
+        "key": "e_1_3_3_1_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581426"
+      },
+      {
+        "key": "e_1_3_3_1_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4899-4523-5_5"
+      },
+      {
+        "key": "e_1_3_3_1_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3654777.3676336"
+      },
+      {
+        "key": "e_1_3_3_1_45_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Takashi Yamauchi Jinsil Hwaryoung Seo and Annie Sungkajun. 2018. Interactive Plants: Multisensory Visual-Tactile Interaction Enhances Emotional Experience. Mathematics 6 11 (2018). 10.3390/math6110225",
+        "DOI": "10.3390/math6110225"
+      },
+      {
+        "key": "e_1_3_3_1_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1240624.1240704"
+      },
+      {
+        "key": "e_1_3_3_1_47_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Robert Zinko Paul Stolk Zhan Furner and Brad Almond. 2019. A picture is worth a thousand words: how images influence information quality and information load in online reviews. Electronic Markets 30 4 (April 2019) 775–789. 10.1007/s12525-019-00345-y",
+        "DOI": "10.1007/s12525-019-00345-y"
+      }
+    ],
+    "event": {
+      "name": "CHI 2026: CHI Conference on Human Factors in Computing Systems",
+      "location": "Barcelona Spain",
+      "acronym": "CHI '26",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3772318.3791325",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2026-06-25T06:34:53Z",
+      "timestamp": 1782369293000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3772318.3791325"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "references-count": 46,
+    "alternative-id": [
+      "10.1145/3772318.3791325",
+      "10.1145/3772318"
+    ],
+    "URL": "https://doi.org/10.1145/3772318.3791325",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2026-04-13",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

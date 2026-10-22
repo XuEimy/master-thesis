@@ -1,0 +1,1334 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ],
+      "date-time": "2026-10-19T13:43:34Z",
+      "timestamp": 1792417414518,
+      "version": "4.4.0"
+    },
+    "reference-count": 117,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              19
+            ]
+          ],
+          "date-time": "2026-10-19T00:00:00Z",
+          "timestamp": 1792368000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              19
+            ]
+          ],
+          "date-time": "2026-10-19T00:00:00Z",
+          "timestamp": 1792368000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Evolutionary Anthropology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Humans routinely keep souvenirs objects retained for the memories they evoke, yet the evolutionary and cognitive consequences of mnemonic collecting remain unclear. Existing discussions of curated objects concentrate on later prehistory and modern humans and view such objects at the social level, as carriers of shared cultural meaning or as markers of status. Here, we address an earlier time period and locate the phenomenon at the personal rather than the social level. By integrating archaeology with theories of extended memory and niche construction, we synthesize evidence consistent with systematic curation of items beyond purely utilitarian needs from the terminal Lower Palaeolithic (~500 kya) onward, including transported distinctive stones, fossils, and the prolonged retention of patinated “old” stone tools whose earlier surfaces were deliberately preserved. We propose that curated keepsakes functioned as portable external memory devices. Beyond cueing recall, they may have helped authenticate self‐relevant past events by providing durable material traces that support source monitoring—distinguishing experienced from imagined events. As such practices became routine, they could have created a “souvenir niche” in which individuals who better integrated internal recollection with external tokens gained fitness benefits. The token's reference is personal, but its consequences can be social, supporting tasks like tracking alliances, reciprocity, and place‐based obligations. These benefits may have strengthened selection on neural systems facilitating the development of autobiographical memory and sense of self via gene–culture coevolution. We outline archaeological, developmental, and experimental predictions that distinguish this mnemonic‐authentication account from aesthetic or economic explanations and suggest approaches for testing them. Viewing curated objects as memory technology links early material culture to the evolutionary shaping of human autobiographical memory.</jats:p>",
+    "DOI": "10.1002/evan.70051",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ],
+      "date-time": "2026-10-19T13:03:54Z",
+      "timestamp": 1792415034000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Homo Memorabiliaxis: Souvenirs and the Evolution of Autobiographical Memory and Self"
+    ],
+    "prefix": "10.1002",
+    "volume": "35",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8125-8788",
+        "authenticated-orcid": false,
+        "given": "Ran",
+        "family": "Barkai",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Archaeology and Near Eastern Cultures Tel Aviv University Tel Aviv Israel"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0489-7436",
+        "authenticated-orcid": false,
+        "given": "Ella",
+        "family": "Assaf",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Archaeology and Near Eastern Cultures Tel Aviv University Tel Aviv Israel"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bar",
+        "family": "Efrati",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Archaeology University of Oxford Oxford UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tal",
+        "family": "Simon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Independent Researcher Pardes Hanna–Karkur Israel"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3564-6445",
+        "authenticated-orcid": false,
+        "given": "Liad",
+        "family": "Mudrik",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Psychological Sciences Tel Aviv University Tel Aviv Israel"
+          },
+          {
+            "name": "Sagol School of Neuroscience Tel Aviv University Tel Aviv Israel"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9653-4458",
+        "authenticated-orcid": false,
+        "given": "Yoav",
+        "family": "Ram",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sagol School of Neuroscience Tel Aviv University Tel Aviv Israel"
+          },
+          {
+            "name": "School of Zoology, Faculty of Life Sciences Tel Aviv University Tel Aviv Israel"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_13_2_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jaa.2025.101704",
+        "article-title": "Who Made the Oldowan? Reviewing African Hominin Fossils and Archaeological Sites from 3.5 Million Years Ago",
+        "volume": "79",
+        "author": "Williams E. M.",
+        "year": "2025",
+        "journal-title": "Journal of Anthropological Archaeology"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_3_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "9401",
+        "DOI": "10.1038/s41467-025-64244-x",
+        "article-title": "Early Oldowan Technology Thrived During Pliocene Environmental Change in the Turkana Basin, Kenya",
+        "volume": "16",
+        "author": "Braun D. R.",
+        "year": "2025",
+        "journal-title": "Nature Communications"
+      },
+      {
+        "issue": "33",
+        "key": "e_1_2_13_4_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1126/sciadv.adu5838",
+        "article-title": "Selective Use of Distant Stone Resources by the Earliest Oldowan Toolmakers",
+        "volume": "11",
+        "author": "Finestone E. M.",
+        "year": "2025",
+        "journal-title": "Science Advances"
+      },
+      {
+        "issue": "7552",
+        "key": "e_1_2_13_5_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "310",
+        "DOI": "10.1038/nature14464",
+        "article-title": "3.3‐million‐year‐old Stone Tools From Lomekwi 3, West Turkana, Kenya",
+        "volume": "521",
+        "author": "Harmand S.",
+        "year": "2015",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "e_1_2_13_6_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.1146/annurev-anthro-071923-112250",
+        "article-title": "The First Million Years of Technology: The Lomekwian and the Early Oldowan",
+        "volume": "54",
+        "author": "Plummer T. W.",
+        "year": "2025",
+        "journal-title": "Annual Review of Anthropology"
+      },
+      {
+        "key": "e_1_2_13_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11097-024-10002-1"
+      },
+      {
+        "key": "e_1_2_13_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0030146"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_13_9_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.1177/1059712320967184",
+        "article-title": "4E Cognition in the Lower Palaeolithic",
+        "volume": "29",
+        "author": "Wynn T.",
+        "year": "2021",
+        "journal-title": "Adaptive Behavior"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_10_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1093/analys/58.1.7",
+        "article-title": "The Extended Mind",
+        "volume": "58",
+        "author": "Clark A.",
+        "year": "1998",
+        "journal-title": "Analysis"
+      },
+      {
+        "key": "e_1_2_13_11_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1093/oso/9780190662813.003.0012",
+        "volume-title": "Andy Clark and His Critics",
+        "author": "Sterelny K.",
+        "year": "2019"
+      },
+      {
+        "key": "e_1_2_13_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2024.0448"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_13_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1017/S0140525X00002417",
+        "article-title": "Niche Construction, Biological Evolution, and Cultural Change",
+        "volume": "23",
+        "author": "Laland K. N.",
+        "year": "2000",
+        "journal-title": "Behavioral and Brain Sciences"
+      },
+      {
+        "key": "e_1_2_13_14_1",
+        "volume-title": "Niche Construction: The Neglected Process in Evolution",
+        "author": "Odling‐Smee F. J.",
+        "year": "2003"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_13_15_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "10918",
+        "DOI": "10.1073/pnas.1100290108",
+        "article-title": "The Cultural Niche: Why Social Learning Is Essential for Human Adaptation",
+        "volume": "108",
+        "author": "Boyd R.",
+        "year": "2011",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_16_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41598-024-77452-0",
+        "article-title": "Exploring the Cognitive Underpinnings of Early Hominin Stone Tool Use Through An Experimental Eeg Approach",
+        "volume": "14",
+        "author": "Affinito S.",
+        "year": "2024",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "issue": "30",
+        "key": "e_1_2_13_17_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "7861",
+        "DOI": "10.1073/pnas.1620738114",
+        "article-title": "Evolutionary Neuroscience of Cumulative Culture",
+        "volume": "114",
+        "author": "Stout D.",
+        "year": "2017",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "key": "e_1_2_13_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00429-014-0789-6"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_19_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2877",
+        "DOI": "10.1038/s41598-023-29994-y",
+        "article-title": "Neuroplasticity Enables Bio‐Cultural Feedback in Paleolithic Stone‐Tool Making",
+        "volume": "13",
+        "author": "Hecht E. E.",
+        "year": "2023",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "issue": "43",
+        "key": "e_1_2_13_20_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "18379",
+        "DOI": "10.1073/pnas.0909751106",
+        "article-title": "Gray and White Matter Changes Associated with Tool‐Use Learning in Macaque Monkeys",
+        "volume": "106",
+        "author": "Quallo M. M.",
+        "year": "2009",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "key": "e_1_2_13_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2011.0190"
+      },
+      {
+        "key": "e_1_2_13_22_1",
+        "volume-title": "Oxford Handbook of Cultural Evolution, 1st",
+        "author": "Lotem A.",
+        "year": "2023"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_23_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1016/j.aeae.2012.05.004",
+        "article-title": "Non‐Utilitarian Lithic Objects from the European Paleolithic",
+        "volume": "40",
+        "author": "Moncel M. H.",
+        "year": "2012",
+        "journal-title": "Archaeology, Ethnology and Anthropology of Eurasia"
+      },
+      {
+        "issue": "12",
+        "key": "e_1_2_13_24_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0028689",
+        "article-title": "Man the Fat Hunter: The Demise of Homo Erectus and the Emergence of a New Hominin Lineage in the Middle Pleistocene (Ca. 400 Kyr) Levant",
+        "volume": "6",
+        "author": "Ben‐Dor M.",
+        "year": "2011",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "e_1_2_13_25_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1017/ppr.2018.2",
+        "article-title": "The Acheulean Handaxe Technological Persistence: A Case of Preferred Cultural Conservatism?",
+        "volume": "84",
+        "author": "Finkel M.",
+        "year": "2018",
+        "journal-title": "Proceedings of the Prehistoric Society"
+      },
+      {
+        "issue": "16",
+        "key": "e_1_2_13_26_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "S314",
+        "DOI": "10.1086/691211",
+        "article-title": "Fire for a Reason: Barbecue at Middle Pleistocene Qesem Cave, Israel",
+        "volume": "58",
+        "author": "Barkai R.",
+        "year": "2017",
+        "journal-title": "Current Anthropology"
+      },
+      {
+        "key": "e_1_2_13_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/quat7040049"
+      },
+      {
+        "key": "e_1_2_13_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0068572"
+      },
+      {
+        "key": "e_1_2_13_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.crpv.2016.04.013"
+      },
+      {
+        "key": "e_1_2_13_30_1",
+        "first-page": "237",
+        "volume-title": "Hominidae: Proceedings of the 2nd International Congress of Human Paleontology",
+        "author": "d'Errico F.",
+        "year": "1989"
+      },
+      {
+        "key": "e_1_2_13_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0119802"
+      },
+      {
+        "key": "e_1_2_13_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/sciadv.adx4722"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_33_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2218/jls.2616",
+        "article-title": "Paleolithic Aesthetics: Collecting Colorful Flint Pebbles at Middle Pleistocene Qesem Cave, Israel",
+        "volume": "5",
+        "author": "Assaf E.",
+        "year": "2018",
+        "journal-title": "Journal of Lithic Studies"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_34_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1080/03344355.2026.2637187",
+        "article-title": "Lower Palaeolithic Tools of Potency: Handaxes Shaped Around Fossils and Other Extraordinary Features at Sakhnin Valley, Israel Tel‐Aviv.",
+        "volume": "53",
+        "author": "Barkai R.",
+        "year": "2026",
+        "journal-title": "Journal of the Institute of Archaeology of Tel Aviv University"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_13_35_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "337",
+        "DOI": "10.1017/S0959774320000372",
+        "article-title": "Memory Scrapers: Readymade Concepts and Techniques as Reflected in Collecting and Recycling Patinated Lower Palaeolithic Items at Qesem Cave, Israel",
+        "volume": "31",
+        "author": "Efrati B.",
+        "year": "2021",
+        "journal-title": "Cambridge Archaeological Journal"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_2_13_36_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.3390/quat7040058",
+        "article-title": "The Magnitude of a Practice: Collection and Recycling of Patinated ‘Old’ Flint Items During the Levantine Late Lower Paleolithic",
+        "volume": "7",
+        "author": "Efrati B.",
+        "year": "2024",
+        "journal-title": "Quaternary"
+      },
+      {
+        "key": "e_1_2_13_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-022-06823-2"
+      },
+      {
+        "key": "e_1_2_13_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11759-024-09490-z"
+      },
+      {
+        "key": "e_1_2_13_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.copsyc.2023.101560"
+      },
+      {
+        "key": "e_1_2_13_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15184/aqy.2021.81"
+      },
+      {
+        "key": "e_1_2_13_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0959774317000014"
+      },
+      {
+        "key": "e_1_2_13_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jasrep.2024.104478"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_13_43_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1023/A:1021999319447",
+        "article-title": "Objects of Memory: The Ethnography and Archaeology of Heirlooms",
+        "volume": "6",
+        "author": "Lillios K. T.",
+        "year": "1999",
+        "journal-title": "Journal of Archaeological Method and Theory"
+      },
+      {
+        "key": "e_1_2_13_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15184/aqy.2020.152"
+      },
+      {
+        "key": "e_1_2_13_45_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "679",
+        "DOI": "10.7183/0002-7316.79.4.679679",
+        "article-title": "Gifts of the Ancestors: Secondary Lithic Recycling in Appalachian Summit Prehistory",
+        "volume": "79",
+        "author": "Whyte T. R.",
+        "year": "2014",
+        "journal-title": "American Antiquity"
+      },
+      {
+        "key": "e_1_2_13_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11759-020-09405-8"
+      },
+      {
+        "key": "e_1_2_13_47_1",
+        "first-page": "4",
+        "article-title": "The Social Importance of Volcanic Peaks for the Indigenous Peoples of British Columbia",
+        "volume": "52",
+        "author": "Reimer R.",
+        "year": "2018",
+        "journal-title": "J. Northwest Anthropology"
+      },
+      {
+        "issue": "5",
+        "key": "e_1_2_13_48_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "541",
+        "DOI": "10.1016/j.pgeola.2019.01.001",
+        "article-title": "Interest in Geological and Palaeontological Curiosities by Southern African Non‐Western Societies: A Review and Perspectives for Future Study",
+        "volume": "130",
+        "author": "Helm C. W.",
+        "year": "2019",
+        "journal-title": "Proceedings of the Geologists' Association"
+      },
+      {
+        "key": "e_1_2_13_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1359183519832630"
+      },
+      {
+        "key": "e_1_2_13_50_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.quascirev.2021.107316",
+        "article-title": "Levantine Overkill: 1.5 Million Years of Hunting down the Body Size Distribution",
+        "volume": "276",
+        "author": "Dembitzer J.",
+        "year": "2022",
+        "journal-title": "Quaternary Science Reviews"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_51_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.3390/quat4010007",
+        "article-title": "Prey Size Decline as a Unifying Ecological Selecting Agent in Pleistocene Human Evolution",
+        "volume": "4",
+        "author": "Ben‐Dor M.",
+        "year": "2021",
+        "journal-title": "Quaternary"
+      },
+      {
+        "key": "e_1_2_13_52_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.quascirev.2026.109872",
+        "article-title": "The Heavy Connection: Decline in Heavy‐Duty Tools Correlates with Megaherbivore Disappearance in the Paleolithic Levant",
+        "volume": "377",
+        "author": "Litov V.",
+        "year": "2026",
+        "journal-title": "Quaternary Science Reviews"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_53_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1080/1751696X.2020.1718309",
+        "article-title": "The Material and Mental Effects of Animal Disappearance on Indigenous Hunter‐Gatherers, Past and Present",
+        "volume": "13",
+        "author": "Halfon E.",
+        "year": "2020",
+        "journal-title": "Time and Mind"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_13_54_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1017/S0959774320000359",
+        "article-title": "Beyond Tools and Function: The Selection of Materials and the Ontology of Hunter‐Gatherers. Ethnographic Evidences and Implications for Palaeolithic Archaeology",
+        "volume": "31",
+        "author": "Assaf E.",
+        "year": "2021",
+        "journal-title": "Cambridge Archaeological Journal"
+      },
+      {
+        "issue": "11",
+        "key": "e_1_2_13_55_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1007/s12520-021-01460-8",
+        "article-title": "Seasonality, Duration of the Hominin Occupations and Hunting Grounds at Middle Pleistocene Qesem Cave (Israel)",
+        "volume": "13",
+        "author": "Rivals F.",
+        "year": "2021",
+        "journal-title": "Archaeological and Anthropological Sciences"
+      },
+      {
+        "key": "e_1_2_13_56_1",
+        "volume-title": "Inalienable Possessions: The Paradox of Keeping‐While‐Giving",
+        "author": "Weiner A. B.",
+        "year": "1992"
+      },
+      {
+        "key": "e_1_2_13_57_1",
+        "volume-title": "Biographical Objects: How Things Tell the Stories of People's Lives",
+        "author": "Hoskins J.",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_13_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/724462"
+      },
+      {
+        "key": "e_1_2_13_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11098-017-0935-0"
+      },
+      {
+        "key": "e_1_2_13_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/mila.12353"
+      },
+      {
+        "key": "e_1_2_13_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10539-020-09770-2"
+      },
+      {
+        "key": "e_1_2_13_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.53.100901.135114"
+      },
+      {
+        "key": "e_1_2_13_63_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7551/mitpress/10591.001.0001",
+        "volume-title": "Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past",
+        "author": "Michaelian K.",
+        "year": "2016"
+      },
+      {
+        "key": "e_1_2_13_64_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7208/chicago/9780226713465.001.0001",
+        "volume-title": "Memory, History, Forgetting",
+        "author": "Ricoeur P.",
+        "year": "2004"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_65_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1177/1359183516679187",
+        "article-title": "A Stone That Feels Right in the Hand: Tactile Memory, the Abduction of Agency and Presence of the Past",
+        "volume": "22",
+        "author": "Harries J.",
+        "year": "2017",
+        "journal-title": "Journal of Material Culture"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_13_66_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "331",
+        "DOI": "10.1017/S0959774311000400",
+        "article-title": "Astronomy in the Upper Palaeolithic?",
+        "volume": "21",
+        "author": "Hayden B.",
+        "year": "2011",
+        "journal-title": "Cambridge Archaeological Journal"
+      },
+      {
+        "key": "e_1_2_13_67_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0143002",
+        "article-title": "Looking at the Camp: Paleolithic Depiction of a Hunter‐Gatherer Campsite",
+        "volume": "10",
+        "author": "García‐Diez M.",
+        "year": "2015",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "e_1_2_13_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.110.4.611"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_69_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1037/0033-2909.114.1.3",
+        "article-title": "Source Monitoring",
+        "volume": "114",
+        "author": "Johnson M. K.",
+        "year": "1993",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "key": "e_1_2_13_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X17000012"
+      },
+      {
+        "key": "e_1_2_13_71_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "181",
+        "DOI": "10.4324/9781315159591-10",
+        "volume-title": "New Directions in the Philosophy of Memory",
+        "author": "Sutton J.",
+        "year": "2018"
+      },
+      {
+        "issue": "8",
+        "key": "e_1_2_13_72_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1157",
+        "DOI": "10.1080/09515089.2014.976334",
+        "article-title": "Scaffoldings of the Affective Mind",
+        "volume": "28",
+        "author": "Colombetti G.",
+        "year": "2015",
+        "journal-title": "Philosophical Psychology"
+      },
+      {
+        "key": "e_1_2_13_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10071-014-0794-4"
+      },
+      {
+        "key": "e_1_2_13_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2005.3144"
+      },
+      {
+        "key": "e_1_2_13_75_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "443",
+        "DOI": "10.1038/35106560",
+        "article-title": "Effects of Experience and Social Context on Prospective Caching Strategies by Scrub‐Jays",
+        "volume": "414",
+        "author": "Emery N. J.",
+        "year": "2001",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "e_1_2_13_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2015.0278"
+      },
+      {
+        "key": "e_1_2_13_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0003-3472(85)80140-8"
+      },
+      {
+        "key": "e_1_2_13_78_1",
+        "volume-title": "Food Hoarding in Animals",
+        "author": "Vander Wall S. B.",
+        "year": "1990"
+      },
+      {
+        "key": "e_1_2_13_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biocon.2013.01.008"
+      },
+      {
+        "key": "e_1_2_13_80_1",
+        "volume-title": "Packrat Middens: The Last 40,000 Years of Biotic Change",
+        "author": "Betancourt J. L.",
+        "year": "1990"
+      },
+      {
+        "issue": "6",
+        "key": "e_1_2_13_81_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "828",
+        "DOI": "10.1086/688855",
+        "article-title": "Do Orangutans Share Early Human Interest in Odd Objects?",
+        "volume": "57",
+        "author": "Borel A.",
+        "year": "2016",
+        "journal-title": "Current Anthropology"
+      },
+      {
+        "key": "e_1_2_13_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2026.1633599"
+      },
+      {
+        "key": "e_1_2_13_83_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "117",
+        "DOI": "10.1016/j.anbehav.2009.09.035",
+        "article-title": "Indirect Social Influence in the Maintenance of the Stone‐Handling Tradition in Japanese Macaques Macaca fuscata",
+        "volume": "79",
+        "author": "Leca J. B.",
+        "year": "2010",
+        "journal-title": "Animal Behaviour"
+      },
+      {
+        "key": "e_1_2_13_84_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11065-024-09653-3"
+      },
+      {
+        "key": "e_1_2_13_85_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2019.09.008"
+      },
+      {
+        "key": "e_1_2_13_86_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cortex.2023.05.006"
+      },
+      {
+        "issue": "12",
+        "key": "e_1_2_13_87_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2189",
+        "DOI": "10.1016/j.neuropsychologia.2006.05.023",
+        "article-title": "The Functional Neuroanatomy of Autobiographical Memory: A Meta‐Analysis",
+        "volume": "44",
+        "author": "Svoboda E.",
+        "year": "2006",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_13_88_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "255",
+        "DOI": "10.1016/j.conb.2012.11.005",
+        "article-title": "Brain Networks Underlying Episodic Memory Retrieval",
+        "volume": "23",
+        "author": "Rugg M. D.",
+        "year": "2013",
+        "journal-title": "Current Opinion in Neurobiology"
+      },
+      {
+        "key": "e_1_2_13_89_1",
+        "first-page": "15",
+        "article-title": "Source Monitoring 15 Years Later: What have We Learned from fMRI About the Neural Mechanisms of Source Memory?",
+        "volume": "51",
+        "author": "Mitchell K. J.",
+        "year": "2009",
+        "journal-title": "Psychology of Learning and Motivation"
+      },
+      {
+        "key": "e_1_2_13_90_1",
+        "first-page": "123",
+        "volume-title": "Critical Advances in Reminiscence Work: From Theory to Application",
+        "author": "Habermas T.",
+        "year": "2002"
+      },
+      {
+        "key": "e_1_2_13_91_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "151",
+        "DOI": "10.1146/annurev-psych-070920-023638",
+        "article-title": "The Cultural Foundation of Human Memory",
+        "volume": "72",
+        "author": "Wang Q.",
+        "year": "2021",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "issue": "9",
+        "key": "e_1_2_13_92_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "573",
+        "DOI": "10.1111/j.0956-7976.2004.00722.x",
+        "article-title": "Culture and Language in the Emergence of Autobiographical Memory",
+        "volume": "15",
+        "author": "Fivush R.",
+        "year": "2004",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "e_1_2_13_93_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2017.03.012"
+      },
+      {
+        "issue": "40",
+        "key": "e_1_2_13_94_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "14308",
+        "DOI": "10.1523/JNEUROSCI.3595-11.2011",
+        "article-title": "A Specific Brain Structural Basis for Individual Differences in Reality Monitoring",
+        "volume": "31",
+        "author": "Buda M.",
+        "year": "2011",
+        "journal-title": "The Journal of neuroscience"
+      },
+      {
+        "issue": "9",
+        "key": "e_1_2_13_95_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "676",
+        "DOI": "10.1016/j.tics.2016.07.002",
+        "article-title": "Cognitive Offloading",
+        "volume": "20",
+        "author": "Risko E. F.",
+        "year": "2016",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "issue": "9",
+        "key": "e_1_2_13_96_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.1016/j.tics.2011.07.005",
+        "article-title": "Genetics of Human Episodic Memory: Dealing With Complexity",
+        "volume": "15",
+        "author": "Papassotiropoulos A.",
+        "year": "2011",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "key": "e_1_2_13_97_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.evolhumbehav.2009.01.004"
+      },
+      {
+        "key": "e_1_2_13_98_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1016/j.cognition.2019.01.014",
+        "article-title": "Adaptive Memory: Source Memory is Positively Associated with Adaptive Social Decision Making",
+        "volume": "186",
+        "author": "Schaper M. L.",
+        "year": "2019",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "e_1_2_13_99_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.3389/fpsyg.2010.00235",
+        "article-title": "Forgetting Constrains the Emergence of Cooperative Decision Strategies",
+        "volume": "1",
+        "author": "Stevens J. R.",
+        "year": "2011",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "key": "e_1_2_13_100_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10539-017-9593-z"
+      },
+      {
+        "key": "e_1_2_13_101_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2020.08.006"
+      },
+      {
+        "key": "e_1_2_13_102_1",
+        "volume-title": "Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition",
+        "author": "Donald M.",
+        "year": "1991"
+      },
+      {
+        "key": "e_1_2_13_103_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.7551/mitpress/8535.003.0009",
+        "volume-title": "The Extended Mind",
+        "author": "Sutton J.",
+        "year": "2010"
+      },
+      {
+        "key": "e_1_2_13_104_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7551/mitpress/9476.001.0001",
+        "volume-title": "How Things Shape the Mind: A Theory of Material Engagement",
+        "author": "Malafouris L.",
+        "year": "2013"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_2_13_105_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "962",
+        "DOI": "10.1177/17506980221108475",
+        "article-title": "Enacting Memories Through and With Things: Remembering as Material Engagement",
+        "volume": "16",
+        "author": "Prezioso E.",
+        "year": "2023",
+        "journal-title": "Memory Studies"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_13_106_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1016/0162-3095(94)00073-G",
+        "article-title": "Why Does Culture Increase Human Adaptability?",
+        "volume": "16",
+        "author": "Boyd R.",
+        "year": "1995",
+        "journal-title": "Ethology and Sociobiology"
+      },
+      {
+        "key": "e_1_2_13_107_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7551/mitpress/9780262016797.001.0001",
+        "volume-title": "The Evolved Apprentice: How Evolution Made Humans Unique",
+        "author": "Sterelny K.",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_13_108_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/CBO9781107444973",
+        "volume-title": "Knowledge and Power in Prehistoric Societies: Orality, Memory, and the Transmission of Culture",
+        "author": "Kelly L.",
+        "year": "2015"
+      },
+      {
+        "key": "e_1_2_13_109_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.quaint.2014.08.033"
+      },
+      {
+        "key": "e_1_2_13_110_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1093/oso/9780190854614.003.0008",
+        "volume-title": "Squeezing Minds from Stones: Cognitive Archaeology and the Evolution of the Human Mind",
+        "author": "Brumm A.",
+        "year": "2019"
+      },
+      {
+        "key": "e_1_2_13_111_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.quaint.2016.02.006"
+      },
+      {
+        "key": "e_1_2_13_112_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18520/cs/v118/i1/123-132"
+      },
+      {
+        "key": "e_1_2_13_113_1",
+        "first-page": "98",
+        "volume-title": "The Hominid Individual in Context: Archaeological Investigations of Lower and Middle Palaeolithic Landscapes, Locales and Artefacts",
+        "author": "Pope M.",
+        "year": "2005"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_13_114_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1016/j.crpv.2005.11.010",
+        "article-title": "The Emergence of a Symbolic Behaviour: The Sepulchral Pit of Sima De Los Huesos, Sierra De Atapuerca, Burgos, Spain",
+        "volume": "5",
+        "author": "Carbonell E.",
+        "year": "2006",
+        "journal-title": "Comptes Rendus Palevol"
+      },
+      {
+        "issue": "6",
+        "key": "e_1_2_13_115_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1007/s12520-025-02243-1",
+        "article-title": "More Than a Fingerprint on a Pebble: A Pigment‐Marked Object from San Lázaro Rock‐Shelter in the Context of Neanderthal Symbolic Behavior",
+        "volume": "17",
+        "author": "Álvarez‐Alonso D.",
+        "year": "2025",
+        "journal-title": "Archaeological and Anthropological Sciences"
+      },
+      {
+        "key": "e_1_2_13_116_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41562-022-01503-7"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_13_117_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1086/209154",
+        "article-title": "Possessions and the Extended Self",
+        "volume": "15",
+        "author": "Belk R. W.",
+        "year": "1988",
+        "journal-title": "Journal of Consumer Research"
+      },
+      {
+        "key": "e_1_2_13_118_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "209",
+        "DOI": "10.1017/9781108753616.014",
+        "volume-title": "Consciousness, Creativity and Self at the Dawn of Settled Life",
+        "author": "Sutton J.",
+        "year": "2020"
+      }
+    ],
+    "container-title": [
+      "Evolutionary Anthropology: Issues, News, and Reviews"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/evan.70051",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/evan.70051",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/evan.70051",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ],
+      "date-time": "2026-10-19T13:04:04Z",
+      "timestamp": 1792415044000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/evan.70051"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "references-count": 117,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/evan.70051"
+    ],
+    "URL": "https://doi.org/10.1002/evan.70051",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "1060-1538",
+      "1520-6505"
+    ],
+    "issn-type": [
+      {
+        "value": "1060-1538",
+        "type": "print"
+      },
+      {
+        "value": "1520-6505",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2026-04-15",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-10-07",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-10-19",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e70051"
+  }
+}

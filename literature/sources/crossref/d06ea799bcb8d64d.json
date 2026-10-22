@@ -1,0 +1,176 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T16:30:10Z",
+      "timestamp": 1648917010309
+    },
+    "reference-count": 0,
+    "publisher": "China Science Publishing & Media Ltd.",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Advances in Psychological Science"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": "10.3724/sp.j.1042.2014.00269",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          19
+        ]
+      ],
+      "date-time": "2016-12-19T09:45:51Z",
+      "timestamp": 1482140751000
+    },
+    "page": "269",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Functions, Characteristics, and Theoretical Explanations of Involuntary Autobiographical Memories"
+    ],
+    "prefix": "10.3724",
+    "volume": "22",
+    "author": [
+      {
+        "given": "Xiaolan",
+        "family": "QU",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yiping",
+        "family": "ZHONG",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Qingsong",
+        "family": "YANG",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hong",
+        "family": "MENG",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2026",
+    "container-title": [
+      "Advances in Psychological Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://journal.psych.ac.cn/xlkxjz/CN/article/downloadArticleFile.do?attachType=PDF&id=3031",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          8
+        ]
+      ],
+      "date-time": "2022-03-08T07:34:06Z",
+      "timestamp": 1646724846000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2014.00269"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.3724/sp.j.1042.2014.00269",
+    "relation": {},
+    "ISSN": [
+      "1671-3710"
+    ],
+    "issn-type": [
+      {
+        "value": "1671-3710",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,1029 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          22
+        ]
+      ],
+      "date-time": "2026-05-22T12:12:45Z",
+      "timestamp": 1779451965241,
+      "version": "3.53.1"
+    },
+    "reference-count": 88,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              27
+            ]
+          ],
+          "date-time": "2025-10-27T00:00:00Z",
+          "timestamp": 1761523200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              27
+            ]
+          ],
+          "date-time": "2025-10-27T00:00:00Z",
+          "timestamp": 1761523200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "AI &amp; Soc"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1007/s00146-025-02688-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2025-10-27T07:04:07Z",
+      "timestamp": 1761548647000
+    },
+    "page": "3325-3346",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Stories by the campfire: use of generative A.I. voice assistants to support older adult reminiscence self-efficacy"
+    ],
+    "prefix": "10.1007",
+    "volume": "41",
+    "author": [
+      {
+        "given": "Noah Zijie",
+        "family": "Qu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jamy",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Chignell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2688_CR1",
+        "first-page": "114",
+        "volume": "4.3",
+        "author": "B Aaron",
+        "year": "2009",
+        "unstructured": "Aaron B, Kortum P, Miller J (2009) Determining what individual SUS scores mean: adding an adjective rating scale. J Usab Stud 4.3:114–123",
+        "journal-title": "J Usab Stud"
+      },
+      {
+        "key": "2688_CR2",
+        "volume-title": "Self-efficacy: the exercise of control",
+        "author": "B Albert",
+        "year": "1997",
+        "unstructured": "Albert B (1997) Self-efficacy: the exercise of control. Macmillan"
+      },
+      {
+        "key": "2688_CR3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Alizadeh F et al (2022) On appropriation and nostalgic reminiscence of technology. In: CHI Conference on Human Factors in Computing Systems Extended Abstracts, pp. 1–6",
+        "DOI": "10.1145/3491101.3519676"
+      },
+      {
+        "issue": "2",
+        "key": "2688_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.5964/ejop.v16i2.2097",
+        "volume": "16",
+        "author": "AP Allen",
+        "year": "2020",
+        "unstructured": "Allen AP, Doyle C, Roche RAP (2020) The impact of reminiscence on autobiographical memory, cognition and psychological well-being in healthy older adults. Eur J Psychol 16(2):317",
+        "journal-title": "Eur J Psychol"
+      },
+      {
+        "key": "2688_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "100",
+        "DOI": "10.1080/17483107.2022.2065369",
+        "volume": "19.1",
+        "author": "A Arnold",
+        "year": "2024",
+        "unstructured": "Arnold A et al (2024) What does the literature say about the use of personal voice assistants in older adults? A scoping review. Disab Rehabil Assist Technol 19.1:100–111",
+        "journal-title": "Disab Rehabil Assist Technol"
+      },
+      {
+        "issue": "4",
+        "key": "2688_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "596",
+        "DOI": "10.1037/0022-3514.63.4.596",
+        "volume": "63",
+        "author": "A Aron",
+        "year": "1992",
+        "unstructured": "Aron A, Aron EN, Smollan D (1992) Inclusion of other in the self scale and the structure of interpersonal closeness. J Pers Soc Psychol 63(4):596",
+        "journal-title": "J Pers Soc Psychol"
+      },
+      {
+        "key": "2688_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1007/s11031-006-9045-6",
+        "volume": "31.1",
+        "author": "DG Bazzini",
+        "year": "2007",
+        "unstructured": "Bazzini DG et al (2007) The effect of reminiscing about laughter on relationship satisfaction. Motiv Emotion 31.1:25–34",
+        "journal-title": "Motiv Emotion"
+      },
+      {
+        "key": "2688_CR8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Beaudoin M, Desrichard O (2016) Memory self-efficacy and memory performance in older adults. Swiss J Psychol, 76(1), 23-33.",
+        "DOI": "10.1024/1421-0185/a000188"
+      },
+      {
+        "key": "2688_CR9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Benett A, Saryazdi R, Munteanu C (2022) Design is worth a thousand words: The effect of digital interaction design on picture-prompted reminiscence. In: Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, pp. 1–12",
+        "DOI": "10.1145/3491102.3517692"
+      },
+      {
+        "issue": "5",
+        "key": "2688_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "701",
+        "DOI": "10.1037/0012-1649.25.5.701",
+        "volume": "25",
+        "author": "JM Berry",
+        "year": "1989",
+        "unstructured": "Berry JM, Robin RL, Dennehey DM (1989) Reliability and validity of the memory self-efficacy questionnaire. Dev Psychol 25(5):701",
+        "journal-title": "Dev Psychol"
+      },
+      {
+        "key": "2688_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "639",
+        "DOI": "10.1080/13607860802343209",
+        "volume": "12.5",
+        "author": "ET Bohlmeijer",
+        "year": "2008",
+        "unstructured": "Bohlmeijer ET, Westerhof GJ, Jong ME (2008) The effects of integrative reminiscence on meaning in life: results of a quasi-experimental study. Aging Ment Health 12.5:639–646",
+        "journal-title": "Aging Ment Health"
+      },
+      {
+        "key": "2688_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1038/s41598-023-50229-7",
+        "volume": "14.1",
+        "author": "F Breithaupt",
+        "year": "2024",
+        "unstructured": "Breithaupt F et al (2024) Humans create more novelty than ChatGPT when asked to retell a story. Sci Rep 14.1:875",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "2688_CR13",
+        "unstructured": "Brooke J (2013) SUS: a retrospective. Journal of usability studies, 8(2)."
+      },
+      {
+        "issue": "194",
+        "key": "2688_CR14",
+        "first-page": "4",
+        "volume": "189",
+        "author": "J Brooke",
+        "year": "1996",
+        "unstructured": "Brooke J et al (1996) SUS-A quick and dirty usability scale. Usabil Eval Ind 189(194):4–7",
+        "journal-title": "Usabil Eval Ind"
+      },
+      {
+        "issue": "3",
+        "key": "2688_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "266",
+        "DOI": "10.1016/j.jaging.2007.06.003",
+        "volume": "22",
+        "author": "P Cappeliez",
+        "year": "2008",
+        "unstructured": "Cappeliez P, Guindon M, Robitaille A (2008) Functions of reminiscence and emotional regulation among older adults. J Aging Stud 22(3):266–272",
+        "journal-title": "J Aging Stud"
+      },
+      {
+        "key": "2688_CR16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Carós et al (2020) Automatic reminiscence therapy for dementia. In: Proceedings of the 2020 International Conference on Multimedia Retrieval, pp. 383–387",
+        "DOI": "10.1145/3372278.3391927"
+      },
+      {
+        "key": "2688_CR17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Céspedes N et al (2022) A feasibility study of a data-driven human-robot conversational interface for reminiscence therapy. In: 2022 IEEE-RAS 21st International Conference on Humanoid Robots (Humanoids). IEEE, pp. 708–713",
+        "DOI": "10.1109/Humanoids53995.2022.10000119"
+      },
+      {
+        "key": "2688_CR19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chu H, Liu S (2024) Can AI tell good stories? Narrative transportation and persuasion with ChatGPT. Journal of Communication, 74(5), 347-358.",
+        "DOI": "10.1093/joc/jqae029"
+      },
+      {
+        "key": "2688_CR18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chu SL et al (2016) Understanding storytelling as a design framework for cognitive support technologies for older adults. In: Proceedings of the International Symposium on Interactive Technology and Ageing Populations, pp. 24–33",
+        "DOI": "10.1145/2996267.2996270"
+      },
+      {
+        "key": "2688_CR20",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpubh.2021.742012",
+        "volume": "9",
+        "author": "CF Corbett",
+        "year": "2021",
+        "unstructured": "Corbett CF et al (2021) Voice-activated virtual home assistant use and social isolation and loneliness among older adults: mini review. Front Public Health 9:742012",
+        "journal-title": "Front Public Health"
+      },
+      {
+        "key": "2688_CR21",
+        "first-page": "211",
+        "volume-title": "Handbook of memory disorders",
+        "author": "FIM Craik",
+        "year": "1995",
+        "unstructured": "Craik FIM et al (1995) Memory changes in normal ageing. In: Baddeley AD, Wilson BA, Watts FN (eds) Handbook of memory disorders. Wiley, Chichester, pp 211–241"
+      },
+      {
+        "key": "2688_CR22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dahlbäck N, Jönsson A, Ahrenberg L (1993) Wizard of Oz studies: why and how. In: Proceedings of the 1st International Conference on intelligent user interfaces, pp. 193–200",
+        "DOI": "10.1145/169891.169968"
+      },
+      {
+        "key": "2688_CR23",
+        "volume": "138",
+        "author": "A De Antonella",
+        "year": "2020",
+        "unstructured": "De Antonella A et al (2020) Desires for active ageing technology. Int J Hum-Comput Stud 138:102412",
+        "journal-title": "Int J Hum-Comput Stud"
+      },
+      {
+        "key": "2688_CR24",
+        "unstructured": "Deci EL, Ryan RM (2003) Intrinsic motivation inventory. Self-Determination Theory [On-line]"
+      },
+      {
+        "key": "2688_CR25",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.7717/peerj-cs.1918",
+        "volume": "10",
+        "author": "AM Deshmukh",
+        "year": "2024",
+        "unstructured": "Deshmukh AM, Chalmeta R (2024) Validation of system usability scale as a usability metric to evaluate voice user interfaces. PeerJ Comput Sci 10:e1918",
+        "journal-title": "PeerJ Comput Sci"
+      },
+      {
+        "key": "2688_CR26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Faruk, L. I. D., Babakerkhell, M. D., Mongkolnam, P., Chongsuphajaisiddhi, V., Funilkul, S., & Pal, D. (2024). A review of subjective scales measuring the user experience of voice assistants. IEEE Access, 12, 14893-14917.",
+        "DOI": "10.1109/ACCESS.2024.3358423"
+      },
+      {
+        "issue": "3",
+        "key": "2688_CR27",
+        "doi-asserted-by": "crossref",
+        "first-page": "501",
+        "DOI": "10.1017/S0144686X18001058",
+        "volume": "40",
+        "author": "SR Fu",
+        "year": "2020",
+        "unstructured": "Fu SR, Lee MF, Sheng Jung O (2020) Effects of reminiscing about nostalgic smells on the physiological and psychological responses of older people in long-term care facilities. Ageing Soc 40(3):501–511",
+        "journal-title": "Ageing Soc"
+      },
+      {
+        "key": "2688_CR28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ghosh D et al (2018) Assessing the utility of the system usability scale for evaluating voice-based user interfaces. In: Proceedings of the Sixth International Symposium of Chinese CHI, pp. 11–15",
+        "DOI": "10.1145/3202667.3204844"
+      },
+      {
+        "key": "2688_CR29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gray S et al (2020) Towards a design for life: redesigning for reminiscence with looked after children. In: Proceedings of the 2020 CHI Conference on human factors in computing systems, pp. 1–14",
+        "DOI": "10.1145/3313831.3376824"
+      },
+      {
+        "key": "2688_CR30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Haddington, P., Eilittä, T., Kamunen, A., Kohonen-Aho, L., Oittinen, T., Rautiainen, I., & Vatanen, A. (2023). Ethnomethodological Conversation Analysis in Motion: Emerging Methods and New Technologies. Taylor & Francis. https://books.google.ca/books?id=YMnOEAAAQBAJ",
+        "DOI": "10.4324/9781003424888"
+      },
+      {
+        "issue": "3",
+        "key": "2688_CR31",
+        "doi-asserted-by": "crossref",
+        "first-page": "374",
+        "DOI": "10.3390/brainsci12030374",
+        "volume": "12",
+        "author": "CB Harris",
+        "year": "2022",
+        "unstructured": "Harris CB et al (2022) Teaching elaborative reminiscing to support autobiographical memory and relationships in residential and community aged care services. Brain Sci 12(3):374",
+        "journal-title": "Brain Sci"
+      },
+      {
+        "issue": "1",
+        "key": "2688_CR32",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.1037/0012-1649.25.1.109",
+        "volume": "25",
+        "author": "J Heckhausen",
+        "year": "1989",
+        "unstructured": "Heckhausen J, Dixon RA, Baltes PB (1989) Gains and losses in development throughout adulthood as perceived by different adult age groups. Dev Psychol 25(1):109",
+        "journal-title": "Dev Psychol"
+      },
+      {
+        "key": "2688_CR33",
+        "first-page": "81",
+        "volume": "37.1",
+        "author": "MB Hoy",
+        "year": "2018",
+        "unstructured": "Hoy MB (2018) Alexa, Siri, Cortana, and more: an introduction to voice assistants. Med Ref Serv Q 37.1:81–88",
+        "journal-title": "Med Ref Serv Q"
+      },
+      {
+        "key": "2688_CR34",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.33879/AMH.114.2020.04011",
+        "volume": "11",
+        "author": "E Ildarabadi",
+        "year": "2020",
+        "unstructured": "Ildarabadi E et al (2020) Effectiveness of group reminiscence therapy on mental health status and levels of happiness among elderly patients on hemodialysis: a randomized clinical trial. Aging Med Healthc 11:129–35",
+        "journal-title": "Aging Med Healthc"
+      },
+      {
+        "key": "2688_CR35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jeung JL, Huang JY-C (2024) Unlocking memories with AI: exploring the role of AI-generated cues in personal reminiscing. In: Extended Abstracts of the CHI Conference on human factors in computing systems, pp. 1–6",
+        "DOI": "10.1145/3613905.3650979"
+      },
+      {
+        "key": "2688_CR36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jin Y et al (2024) Exploring the design of generative AI in supporting music-based reminiscence for older adults. In: Proceedings of the CHI Conference on human factors in computing systems, pp. 1–17",
+        "DOI": "10.1145/3613904.3642800"
+      },
+      {
+        "key": "2688_CR37",
+        "doi-asserted-by": "crossref",
+        "first-page": "279",
+        "DOI": "10.1080/016128402753543018",
+        "volume": "23.3",
+        "author": "ED Jones",
+        "year": "2002",
+        "unstructured": "Jones ED, Beck-Little R (2002) The use of reminiscence therapy for the treatment of depression in rural-dwelling older adults. Issues Ment Health Nurs 23.3:279–290",
+        "journal-title": "Issues Ment Health Nurs"
+      },
+      {
+        "key": "2688_CR38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kim S et al (2022) Slide2Remember: an interactive wall frame enriching reminiscence experiences by providing re-encounters of taken photos and heard music in a similar period. In: Proceedings of the 2022 ACM Designing Interactive Systems Conference, pp. 288–300",
+        "DOI": "10.1145/3532106.3533456"
+      },
+      {
+        "key": "2688_CR39",
+        "volume": "187",
+        "author": "D Kim",
+        "year": "2024",
+        "unstructured": "Kim D, Song H (2024) Designing an age-friendly conversational AI agent for mobile banking: the effects of voice modality and lip movement. Int J Hum-Comput Stud 187:103262",
+        "journal-title": "Int J Hum-Comput Stud"
+      },
+      {
+        "key": "2688_CR40",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1007/s12008-014-0227-2",
+        "volume": "9",
+        "author": "J Koo",
+        "year": "2015",
+        "unstructured": "Koo J et al (2015) Why did my car just do that? Explaining semi-autonomous driving actions to improve driver understanding, trust, and performance. Int J Interactive Des Manuf (IJIDeM) 9:269–275",
+        "journal-title": "Int J Interactive Des Manuf (IJIDeM)"
+      },
+      {
+        "key": "2688_CR41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kowalski J et al (2019) Older adults and voice interaction: a pilot study with google home. In: Extended Abstracts of the 2019 CHI Conference on human factors in computing systems, pp. 1–6",
+        "DOI": "10.1145/3290607.3312973"
+      },
+      {
+        "key": "2688_CR42",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.3758/MC.38.4.461",
+        "volume": "38.4",
+        "author": "S Kulkofsky",
+        "year": "2010",
+        "unstructured": "Kulkofsky S, Wang Q, Hou Y (2010) Why I remember that: the influence of contextual factors on beliefs about everyday memory. Mem Cognit 38.4:461–473",
+        "journal-title": "Mem Cognit"
+      },
+      {
+        "key": "2688_CR43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lee M et al (2019) Caring for Vincent: a chatbot for self-compassion. In: Proceedings of the 2019 CHI Conference on human factors in computing systems, pp. 1–13",
+        "DOI": "10.1145/3290605.3300932"
+      },
+      {
+        "key": "2688_CR44",
+        "volume": "5.2",
+        "author": "H Lee",
+        "year": "2022",
+        "unstructured": "Lee H et al (2022) The effect of cognitive function health care using artificial intelligence robots for older adults: systematic review and meta-analysis. JMIR Aging 5.2:e38896",
+        "journal-title": "JMIR Aging"
+      },
+      {
+        "key": "2688_CR45",
+        "doi-asserted-by": "crossref",
+        "first-page": "699",
+        "DOI": "10.1007/s10902-022-00616-0",
+        "volume": "24.2",
+        "author": "B Li",
+        "year": "2023",
+        "unstructured": "Li B et al (2023) Can good memories of the past instill happiness? Nostalgia improves subjective well-being by increasing gratitude. J Happiness Stud 24.2:699–715",
+        "journal-title": "J Happiness Stud"
+      },
+      {
+        "key": "2688_CR46",
+        "volume": "10.11",
+        "author": "R Lin",
+        "year": "2020",
+        "unstructured": "Lin R et al (2020) Effects of Creative Expressive Arts-based Storytelling (CrEAS) programme on older adults with mild cognitive impairment: protocol for a randomised, controlled three-arm trial. BMJ Open 10.11:e036915",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "key": "2688_CR47",
+        "first-page": "274",
+        "volume-title": "Eyewitness testimony",
+        "author": "EF Loftus",
+        "year": "1996",
+        "unstructured": "Loftus EF (1996) Eyewitness testimony. Harvard University Press, p 274 (isbn: 978-0-674-28777-8)"
+      },
+      {
+        "key": "2688_CR48",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Majlesi, A. R., Cumbal, R., Engwall, O., Gillet, S., Kunitz, S., Lymer, G., … Tuncer, S. (2023). Managing Turn-Taking in Human-Robot Interactions: The Case of Projections and Overlaps, and the Anticipation of Turn Design by Human Participants. Social Interaction. Video-Based Studies of Human Sociality, 6(1). https://doi.org/10.7146/si.v6i1.137380",
+        "DOI": "10.7146/si.v6i1.137380"
+      },
+      {
+        "issue": "1",
+        "key": "2688_CR49",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1080/02701367.1989.10607413",
+        "volume": "60",
+        "author": "E McAuley",
+        "year": "1989",
+        "unstructured": "McAuley E, Duncan T, Tammen VV (1989) Psychometric properties of the Intrinsic Motivation Inventory in a competitive sport setting: a confirmatory factor analysis. Res Q Exerc Sport 60(1):48–58",
+        "journal-title": "Res Q Exerc Sport"
+      },
+      {
+        "key": "2688_CR50",
+        "unstructured": "McDowd JM, Shaw RJ (2000) Attention and aging: a functional perspective. In F. I. M. Craik & T. A. Salthouse (Eds.), The handbook of aging and cognition (2nd ed., pp. 221–292). Lawrence Erlbaum Associates Publishers."
+      },
+      {
+        "issue": "8",
+        "key": "2688_CR51",
+        "doi-asserted-by": "crossref",
+        "first-page": "1036",
+        "DOI": "10.3390/healthcare9081036",
+        "volume": "9",
+        "author": "V Morales-de-Jesús",
+        "year": "2021",
+        "unstructured": "Morales-de-Jesús V et al (2021) Conversational system as assistant tool in reminiscence therapy for people with early-stage of Alzheimer’s. Healthcare 9(8):1036",
+        "journal-title": "Healthcare"
+      },
+      {
+        "key": "2688_CR52",
+        "doi-asserted-by": "crossref",
+        "first-page": "5997",
+        "DOI": "10.3390/ijerph19105997",
+        "volume": "19.10",
+        "author": "À Nebot",
+        "year": "2022",
+        "unstructured": "Nebot À et al (2022) LONG-REMI: an AI-based technological application to promote healthy mental longevity grounded in reminiscence therapy. Int J Environ Res Public Health 19.10:5997",
+        "journal-title": "Int J Environ Res Public Health"
+      },
+      {
+        "key": "2688_CR53",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nikitina S, Sara C, Baez M (2018) Smart conversational agents for reminiscence. In: Proceedings of the 1st International Workshop on Software Engineering for Cognitive Services, pp. 52–57",
+        "DOI": "10.1145/3195555.3195567"
+      },
+      {
+        "key": "2688_CR54",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Noh Y-G, Hong J-H (2024) Know me inside-out: conversational and quiz-based system for reminiscence therapy for people with dementia. In: Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing, pp. 809–815",
+        "DOI": "10.1145/3675094.3678377"
+      },
+      {
+        "key": "2688_CR55",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/frobt.2021.633076",
+        "volume": "8",
+        "author": "M Otake-Matsuura",
+        "year": "2021",
+        "unstructured": "Otake-Matsuura M et al (2021) Cognitive intervention through photo-integrated conversation moderated by robots (PICMOR) program: a randomized controlled trial. Front Robot AI 8:633076",
+        "journal-title": "Front Robot AI"
+      },
+      {
+        "key": "2688_CR56",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pal D et al (2019) User experience with smart voice assistants: the accent perspective. In: 2019 10th International Conference on Computing, Communication and Networking Technologies (ICCCNT). IEEE, pp. 1–6",
+        "DOI": "10.1109/ICCCNT45670.2019.8944754"
+      },
+      {
+        "issue": "15",
+        "key": "2688_CR57",
+        "doi-asserted-by": "crossref",
+        "first-page": "8198",
+        "DOI": "10.3390/ijerph18158198",
+        "volume": "18",
+        "author": "E-A Park",
+        "year": "2021",
+        "unstructured": "Park E-A, Ae-Ri J, Kyoung-A L (2021) The humanoid robot Sil-Bot in a cognitive training program for community-dwelling elderly people with mild cognitive impairment during the COVID-19 pandemic: a randomized controlled trial. Int J Environ Res Public Health 18(15):8198",
+        "journal-title": "Int J Environ Res Public Health"
+      },
+      {
+        "key": "2688_CR58",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Peesapati ST et al. (2010) Pensieve: supporting everyday reminiscence. In: Proceedings of the SIGCHI Conference on human factors in computing systems, pp. 2027–2036",
+        "DOI": "10.1145/1753326.1753635"
+      },
+      {
+        "issue": "4",
+        "key": "2688_CR59",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3373759",
+        "volume": "27",
+        "author": "A Pradhan",
+        "year": "2020",
+        "unstructured": "Pradhan A, Lazar A, Findlater L (2020) Use of intelligent voice assistants by older adults with low technology use. ACM Trans Comput-Hum Interact (TOCHI) 27(4):1–27",
+        "journal-title": "ACM Trans Comput-Hum Interact (TOCHI)"
+      },
+      {
+        "issue": "10",
+        "key": "2688_CR60",
+        "first-page": "19",
+        "volume": "10",
+        "author": "B Reeves",
+        "year": "1996",
+        "unstructured": "Reeves B, Nass C (1996) The media equation: How people treat computers, television, and new media like real people. Cambridge UK 10(10):19–36",
+        "journal-title": "Cambridge UK"
+      },
+      {
+        "key": "2688_CR61",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1016/j.ijhcs.2017.06.005",
+        "volume": "108",
+        "author": "V Righi",
+        "year": "2017",
+        "unstructured": "Righi V, Sayago S, Blat J (2017) When we talk about older people in HCI, who are we talking about? Towards a ‘turn to community’ in the design of technologies for a growing ageing population. Int J Hum Comput Stud 108:15–31",
+        "journal-title": "Int J Hum Comput Stud"
+      },
+      {
+        "key": "2688_CR62",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Roediger, H. L., Wixted, J. T., & DeSoto, K. A. (2012). The curious complexity between confidence and accuracy in reports from memory. Memory and law, 84.",
+        "DOI": "10.1093/acprof:oso/9780199920754.003.0004"
+      },
+      {
+        "issue": "11",
+        "key": "2688_CR63",
+        "doi-asserted-by": "crossref",
+        "first-page": "803",
+        "DOI": "10.1016/j.ijhcs.2010.06.007",
+        "volume": "68",
+        "author": "A Salovaara",
+        "year": "2010",
+        "unstructured": "Salovaara A et al (2010) Information technologies and transitions in the lives of 55–65-year-olds: the case of colliding life interests. Int J Hum-Comput Stud 68(11):803–821",
+        "journal-title": "Int J Hum-Comput Stud"
+      },
+      {
+        "key": "2688_CR64",
+        "volume-title": "Searching for memory: the brain, the mind, and the past",
+        "author": "DL Schacter",
+        "year": "2008",
+        "unstructured": "Schacter DL (2008) Searching for memory: the brain, the mind, and the past. BasicBooks"
+      },
+      {
+        "issue": "3",
+        "key": "2688_CR65",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1080/17533015.2015.1010443",
+        "volume": "7",
+        "author": "C Smiraglia",
+        "year": "2015",
+        "unstructured": "Smiraglia C (2015) Museum programming and mood: Participant responses to an object-based reminiscence outreach program in retirement communities. Arts Health 7(3):187–201",
+        "journal-title": "Arts Health"
+      },
+      {
+        "issue": "4",
+        "key": "2688_CR66",
+        "doi-asserted-by": "crossref",
+        "first-page": "517",
+        "DOI": "10.1111/inr.12190",
+        "volume": "62",
+        "author": "SR Sok",
+        "year": "2015",
+        "unstructured": "Sok SR (2015) Effects of individual reminiscence therapy for older women living alone. Int Nurs Rev 62(4):517–524",
+        "journal-title": "Int Nurs Rev"
+      },
+      {
+        "issue": "1",
+        "key": "2688_CR67",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2196/28113",
+        "volume": "24",
+        "author": "J Stargatt",
+        "year": "2022",
+        "unstructured": "Stargatt J et al (2022) Digital storytelling for health-related outcomes in older adults: systematic review. J Med Internet Res 24(1):e28113",
+        "journal-title": "J Med Internet Res"
+      },
+      {
+        "key": "2688_CR68",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Street D, Wilck J (2023) ’Let’s Have a Chat’: principles for the effective application of ChatGPT and large language models in the practice of forensic accounting. Journal of Forensic and Investigative Accounting, July to December 2023 issue, forthcoming., Available at SSRN: https://ssrn.com/abstract=4351817",
+        "DOI": "10.2139/ssrn.4351817"
+      },
+      {
+        "key": "2688_CR69",
+        "unstructured": "Sun Y et al (2023) Fictional worlds, real connections: developing community storytelling social chatbots through LLMs. In: arXiv Preprint arXiv:2309.11478"
+      },
+      {
+        "key": "2688_CR70",
+        "volume": "114",
+        "author": "W Tam",
+        "year": "2021",
+        "unstructured": "Tam W et al (2021) The effectiveness of reminiscence-based intervention on improving psychological well-being in cognitively intact older adults: A systematic review and meta-analysis. Int J Nurs Stud 114:103847",
+        "journal-title": "Int J Nurs Stud"
+      },
+      {
+        "issue": "9",
+        "key": "2688_CR71",
+        "first-page": "CR550",
+        "volume": "18",
+        "author": "M Tanaka",
+        "year": "2012",
+        "unstructured": "Tanaka M et al (2012) ‘Effect of a human-type communication robot on cognitive function in elderly women living alone. Med Sci Monit Int Med J Exp Clin Res 18(9):CR550",
+        "journal-title": "Med Sci Monit Int Med J Exp Clin Res"
+      },
+      {
+        "issue": "4",
+        "key": "2688_CR72",
+        "doi-asserted-by": "crossref",
+        "first-page": "808",
+        "DOI": "10.1177/1354856520913866",
+        "volume": "26",
+        "author": "S Thorne",
+        "year": "2020",
+        "unstructured": "Thorne S (2020) Hey Siri, tell me a story: digital storytelling and AI authorship. Convergence 26(4):808–823",
+        "journal-title": "Convergence"
+      },
+      {
+        "key": "2688_CR73",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tucci C et al (2024) RetroMind and the image of memories: a preliminary study of a support tool for reminiscence therapy. In: International Conference on human-computer interaction. Springer, pp. 456–468",
+        "DOI": "10.1007/978-3-031-60615-1_31"
+      },
+      {
+        "key": "2688_CR74",
+        "unstructured": "Turner AM et al (2021) Recruiting older adult participants through crowdsourcing platforms: Mechanical Turk versus Prolific Academic. In: AMIA Annual Symposium Proceedings 2020:1230"
+      },
+      {
+        "key": "2688_CR76",
+        "unstructured": "Wang R, Siau KL, Zhang Z (2023) Using AI and ChatGPT in brand storytelling. In: AMCIS 2023 Proceedings. 14"
+      },
+      {
+        "key": "2688_CR75",
+        "volume": "7.1",
+        "author": "X Wang",
+        "year": "2024",
+        "unstructured": "Wang X et al (2024) Promoting personalized reminiscence among cognitively intact older adults through an ai-driven interactive multimodal photo album: development and usability study. JMIR Aging 7.1:e49415",
+        "journal-title": "JMIR Aging"
+      },
+      {
+        "key": "2688_CR77",
+        "doi-asserted-by": "crossref",
+        "first-page": "302",
+        "DOI": "10.1080/13825580701440510",
+        "volume": "15.3",
+        "author": "RL West",
+        "year": "2008",
+        "unstructured": "West RL, Bagwell DK, Dark-Freudeman A (2008) Self-efficacy and memory aging: The impact of a memory intervention based on self-efficacy. Aging Neuropsychol Cognit 15.3:302–329",
+        "journal-title": "Aging Neuropsychol Cognit"
+      },
+      {
+        "key": "2688_CR78",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1016/j.jaging.2014.02.003",
+        "volume": "29",
+        "author": "GJ Westerhof",
+        "year": "2014",
+        "unstructured": "Westerhof GJ, Bohlmeijer ET (2014) Celebrating fifty years of research and applications in reminiscence and life review: state of the art and new directions. J Aging Stud 29:107–114",
+        "journal-title": "J Aging Stud"
+      },
+      {
+        "key": "2688_CR79",
+        "doi-asserted-by": "crossref",
+        "first-page": "751",
+        "DOI": "10.1080/03601270490498016",
+        "volume": "30.9",
+        "author": "GJ Westerhof",
+        "year": "2004",
+        "unstructured": "Westerhof GJ, Bohlmeijer E, Valenkamp MW (2004) In search of meaning: a reminiscence program for older persons. Educ Gerontol 30.9:751–766",
+        "journal-title": "Educ Gerontol"
+      },
+      {
+        "key": "2688_CR80",
+        "doi-asserted-by": "crossref",
+        "unstructured": "White J et al (2023) Memory tracer & memory compass: investigating personal location histories as a design material for everyday reminiscence. In: Proceedings of the 2023 CHI Conference on human factors in computing systems, pp. 1–19",
+        "DOI": "10.1145/3544548.3581426"
+      },
+      {
+        "key": "2688_CR81",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Woods B, O'Philbin L, Farrell EM, Spector AE, Orrell M. Reminiscence therapy for dementia. Cochrane Database of Systematic Reviews 2018, Issue 3. Art. No.: CD001120. https://doi.org/10.1002/14651858.CD001120.pub3. Accessed 24 October 2025.",
+        "DOI": "10.1002/14651858.CD001120.pub3"
+      },
+      {
+        "issue": "3",
+        "key": "2688_CR82",
+        "first-page": "439",
+        "volume": "12",
+        "author": "Y-L Wu",
+        "year": "2019",
+        "unstructured": "Wu Y-L, Gamborino E, Li-Chen F (2019) Interactive question-posing system for robot-assisted reminiscence from personal photographs. Trans Cognit Dev Syst 12(3):439–450",
+        "journal-title": "Trans Cognit Dev Syst"
+      },
+      {
+        "key": "2688_CR83",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Xu S et al (2024) Memory reviver: supporting photo-collection reminiscence for people with visual impairment via a proactive Chatbot. In: Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology. UIST ’24. Pittsburgh, PA, USA: Association for Computing Machinery. isbn: 9798400706288. https://doi.org/10.1145/3654777.3676336",
+        "DOI": "10.1145/3654777.3676336"
+      },
+      {
+        "key": "2688_CR84",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ijhcs.2024.103403",
+        "volume": "194",
+        "author": "Y Yücel",
+        "year": "2025",
+        "unstructured": "Yücel Y, Kerem R (2025) Breaking down barriers: a new approach to virtual museum navigation for people with visual impairments through voice assistants. Int J Hum-Comput Stud 194:103403",
+        "journal-title": "Int J Hum-Comput Stud"
+      },
+      {
+        "key": "2688_CR85",
+        "unstructured": "Zacks, R. T., Hasher, L., & Li, K. Z. H. (2000). Human memory. In F. I. M. Craik & T. A. Salthouse (Eds.), The handbook of aging and cognition (2nd ed., pp. 293–357). Lawrence Erlbaum Associates Publishers."
+      },
+      {
+        "key": "2688_CR86",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhang C et al (2024) Mathemyths: leveraging large language models to teach mathematical language through Child-AI co-creative storytelling. In: Proceedings of the CHI Conference on human factors in computing systems, pp. 1–23",
+        "DOI": "10.1145/3613904.3642647"
+      },
+      {
+        "key": "2688_CR87",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zwakman DS et al (2020) Usability of voice-based intelligent personal assistants. In: 2020 International Conference on Information and Communication Technology Convergence (ICTC). IEEE, pp. 652–657",
+        "DOI": "10.1109/ICTC49870.2020.9289550"
+      },
+      {
+        "issue": "1",
+        "key": "2688_CR88",
+        "doi-asserted-by": "crossref",
+        "first-page": "28",
+        "DOI": "10.1007/s42979-020-00424-4",
+        "volume": "2",
+        "author": "DS Zwakman",
+        "year": "2021",
+        "unstructured": "Zwakman DS, Pal D, Arpnikanondt C (2021) Usability evaluation of artificial intelligence-based voice assistants: the case of Amazon Alexa. SN Comput Sci 2(1):28",
+        "journal-title": "SN Comput Sci"
+      }
+    ],
+    "container-title": [
+      "AI &amp; SOCIETY"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00146-025-02688-x.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s00146-025-02688-x",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00146-025-02688-x.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          22
+        ]
+      ],
+      "date-time": "2026-05-22T11:54:22Z",
+      "timestamp": 1779450862000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s00146-025-02688-x"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ]
+    },
+    "references-count": 88,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2688"
+    ],
+    "URL": "https://doi.org/10.1007/s00146-025-02688-x",
+    "relation": {},
+    "ISSN": [
+      "0951-5666",
+      "1435-5655"
+    ],
+    "issn-type": [
+      {
+        "value": "0951-5666",
+        "type": "print"
+      },
+      {
+        "value": "1435-5655",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "5 March 2025",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "7 October 2025",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "27 October 2025",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      }
+    ]
+  }
+}

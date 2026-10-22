@@ -1,0 +1,512 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2026-09-22T17:58:42Z",
+      "timestamp": 1790099922967,
+      "version": "4.0.1"
+    },
+    "reference-count": 22,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              19
+            ]
+          ],
+          "date-time": "2022-07-19T00:00:00Z",
+          "timestamp": 1658188800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              19
+            ]
+          ],
+          "date-time": "2022-07-19T00:00:00Z",
+          "timestamp": 1658188800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Psychon Bull Rev"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.3758/s13423-022-02149-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          19
+        ]
+      ],
+      "date-time": "2022-07-19T18:03:18Z",
+      "timestamp": 1658253798000
+    },
+    "page": "2211-2218",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 20,
+    "title": [
+      "Does taking multiple photos lead to a photo-taking-impairment effect?"
+    ],
+    "prefix": "10.3758",
+    "volume": "29",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9738-1254",
+        "authenticated-orcid": false,
+        "given": "Julia S.",
+        "family": "Soares",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Benjamin C.",
+        "family": "Storm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          19
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "8",
+        "key": "2149_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "1056",
+        "DOI": "10.1177/0956797617694868",
+        "volume": "28",
+        "author": "A Barasch",
+        "year": "2017",
+        "unstructured": "Barasch, A., Diehl, K., Silverman, J., & Zauberman, G. (2017). Photographic memory: The effects of volitional photo taking on memory for visual and auditory aspects of an experience. Psychological Science, 28(8), 1056–1066. https://doi.org/10.1177/0956797617694868",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "4",
+        "key": "2149_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1310",
+        "DOI": "10.3758/s13423-019-01575-z",
+        "volume": "26",
+        "author": "ME Coverdale",
+        "year": "2019",
+        "unstructured": "Coverdale, M. E., & Nairne, J. S. (2019). The mnemonic effect of choice. Psychonomic Bulletin & Review, 26(4), 1310–1316. https://doi.org/10.3758/s13423-019-01575-z",
+        "journal-title": "Psychonomic Bulletin & Review"
+      },
+      {
+        "issue": "1",
+        "key": "2149_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "108",
+        "DOI": "10.1016/S0022-5371(73)80066-0",
+        "volume": "12",
+        "author": "PR D’Agostino",
+        "year": "1973",
+        "unstructured": "D’Agostino, P. R., & DeRemer, P. (1973). Repetition effects as a function of rehearsal and encoding variability. Journal of Verbal Learning and Verbal Behavior, 12(1), 108–113. https://doi.org/10.1016/S0022-5371(73)80066-0",
+        "journal-title": "Journal of Verbal Learning and Verbal Behavior"
+      },
+      {
+        "issue": "2",
+        "key": "2149_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "94",
+        "DOI": "10.1037/h0058559",
+        "volume": "57",
+        "author": "WK Estes",
+        "year": "1950",
+        "unstructured": "Estes, W. K. (1950). Toward a statistical theory of learning. Psychological Review, 57(2), 94–107. https://doi.org/10.1037/h0058559",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "key": "2149_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.1007/978-3-319-99169-6_3",
+        "volume-title": "Memory and technology: How we use information in the brain and the world",
+        "author": "JR Finley",
+        "year": "2018",
+        "unstructured": "Finley, J. R., Naaz, F., & Goh, F. W. (2018). Results: Behaviors and experiences with internal and external memory. In J. R. Finley, F. Naaz, & F. W. Goh (Eds.), Memory and technology: How we use information in the brain and the world (pp. 25–48). Springer International Publishing. https://doi.org/10.1007/978-3-319-99169-6_3"
+      },
+      {
+        "issue": "2",
+        "key": "2149_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "95",
+        "DOI": "10.3758/BF03197590",
+        "volume": "7",
+        "author": "AM Glenberg",
+        "year": "1979",
+        "unstructured": "Glenberg, A. M. (1979). Component-levels theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95–112. https://doi.org/10.3758/BF03197590",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "issue": "2",
+        "key": "2149_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "396",
+        "DOI": "10.1177/0956797613504438",
+        "volume": "25",
+        "author": "LA Henkel",
+        "year": "2014",
+        "unstructured": "Henkel, L. A. (2014). Point-and-shoot memories: The influence of taking photos on memory for a museum tour. Psychological Science, 25(2), 396–402. https://doi.org/10.1177/0956797613504438",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "5",
+        "key": "2149_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "539",
+        "DOI": "10.1037/0278-7393.4.5.539",
+        "volume": "4",
+        "author": "DL Hintzman",
+        "year": "1978",
+        "unstructured": "Hintzman, D. L., & Stern, L. D. (1978). Contextual variability and memory for frequency. Journal of Experimental Psychology: Human Learning and Memory, 4(5), 539–549. https://doi.org/10.1037/0278-7393.4.5.539",
+        "journal-title": "Journal of Experimental Psychology: Human Learning and Memory"
+      },
+      {
+        "issue": "8",
+        "key": "2149_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "1467",
+        "DOI": "10.1080/17470210903511236",
+        "volume": "63",
+        "author": "TL Hubbard",
+        "year": "2010",
+        "unstructured": "Hubbard, T. L., Hutchison, J. L., & Courtney, J. R. (2010). Boundary extension: Findings and theories. Quarterly Journal of Experimental Psychology, 63(8), 1467–1494. https://doi.org/10.1080/17470210903511236",
+        "journal-title": "Quarterly Journal of Experimental Psychology"
+      },
+      {
+        "key": "2149_CR10",
+        "unstructured": "IBM Corp (2021) IBM SPSS statistics for windows, Version 28.0. Armonk, NY: IBM Corp"
+      },
+      {
+        "issue": "2",
+        "key": "2149_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "289",
+        "DOI": "10.1016/j.jarmac.2020.11.002",
+        "volume": "10",
+        "author": "R Lurie",
+        "year": "2021",
+        "unstructured": "Lurie, R., & Westerman, D. L. (2021). Photo-taking impairs memory on perceptual and conceptual memory tests. Journal of Applied Research in Memory and Cognition, 10(2), 289–297. https://doi.org/10.1016/j.jarmac.2020.11.002",
+        "journal-title": "Journal of Applied Research in Memory and Cognition"
+      },
+      {
+        "issue": "8",
+        "key": "2149_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "1211",
+        "DOI": "10.3758/s13421-014-0435-9",
+        "volume": "42",
+        "author": "D Markant",
+        "year": "2014",
+        "unstructured": "Markant, D., DuBrow, S., Davachi, L., & Gureckis, T. M. (2014). Deconstructing the effect of self-directed study on episodic memory. Memory & Cognition, 42(8), 1211–1224. https://doi.org/10.3758/s13421-014-0435-9",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "issue": "5",
+        "key": "2149_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "421",
+        "DOI": "10.1037/h0026301",
+        "volume": "75",
+        "author": "E Martin",
+        "year": "1968",
+        "unstructured": "Martin, E. (1968). Stimulus meaningfulness and paired-associate transfer: An encoding variability hypothesis. Psychological Review, 75(5), 421–441. https://doi.org/10.1037/h0026301",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "2",
+        "key": "2149_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1145/3090086",
+        "volume": "1",
+        "author": "E Niforatos",
+        "year": "2017",
+        "unstructured": "Niforatos, E., Cinel, C., Mack, C. C., Langheinrich, M., & Ward, G. (2017). Can less be more?: Contrasting limited, unlimited, and automatic picture capture for augmenting memory recall. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 1(2), 1–22. https://doi.org/10.1145/3090086",
+        "journal-title": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
+      },
+      {
+        "issue": "9",
+        "key": "2149_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "1101",
+        "DOI": "10.1080/09658211.2021.1962356",
+        "volume": "29",
+        "author": "JN Schooler",
+        "year": "2021",
+        "unstructured": "Schooler, J. N., & Storm, B. C. (2021). Saved information is remembered less well than deleted information, if the saving process is perceived as reliable. Memory, 29(9), 1101–1110. https://doi.org/10.1080/09658211.2021.1962356",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "4",
+        "key": "2149_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "342",
+        "DOI": "10.3758/BF03197465",
+        "volume": "6",
+        "author": "SM Smith",
+        "year": "1978",
+        "unstructured": "Smith, S. M., Glenberg, A., & Bjork, R. A. (1978). Environmental context and human memory. Memory & Cognition, 6(4), 342–353. https://doi.org/10.3758/BF03197465",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "issue": "1",
+        "key": "2149_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "154",
+        "DOI": "10.1016/j.jarmac.2017.10.004",
+        "volume": "7",
+        "author": "JS Soares",
+        "year": "2018",
+        "unstructured": "Soares, J. S., & Storm, B. C. (2018). Forget in a flash: A further investigation of the photo-taking-impairment effect. Journal of Applied Research in Memory and Cognition, 7(1), 154–160. https://doi.org/10.1016/j.jarmac.2017.10.004",
+        "journal-title": "Journal of Applied Research in Memory and Cognition"
+      },
+      {
+        "key": "2149_CR18",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Soares, J. S., & Storm, B. C. (2021). Exploring functions of and recollections with photos in the age of smartphone cameras. Memory Studies, 15(2), 287–303. https://doi.org/10.1177/17506980211044712",
+        "DOI": "10.1177/17506980211044712"
+      },
+      {
+        "issue": "6043",
+        "key": "2149_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "776",
+        "DOI": "10.1126/science.1207745",
+        "volume": "333",
+        "author": "B Sparrow",
+        "year": "2011",
+        "unstructured": "Sparrow, B., Liu, J., & Wegner, D. M. (2011). Google effects on memory: Cognitive consequences of having information at our fingertips. Science, 333(6043), 776–778. https://doi.org/10.1126/science.1207745",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "2",
+        "key": "2149_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "182",
+        "DOI": "10.1177/0956797614559285",
+        "volume": "26",
+        "author": "BC Storm",
+        "year": "2015",
+        "unstructured": "Storm, B. C., & Stone, S. M. (2015). Saving-enhanced memory: The benefits of saving on the learning and remembering of new information. Psychological Science, 26(2), 182–188. https://doi.org/10.1177/0956797614559285",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "2149_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "161",
+        "DOI": "10.1016/j.jesp.2018.01.006",
+        "volume": "76",
+        "author": "DI Tamir",
+        "year": "2018",
+        "unstructured": "Tamir, D. I., Templeton, E. M., Ward, A. F., & Zaki, J. (2018). Media usage diminishes memory for experiences. Journal of Experimental Social Psychology, 76, 161–168. https://doi.org/10.1016/j.jesp.2018.01.006",
+        "journal-title": "Journal of Experimental Social Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "2149_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "31",
+        "DOI": "10.1007/s00779-009-0218-7",
+        "volume": "14",
+        "author": "S Whittaker",
+        "year": "2010",
+        "unstructured": "Whittaker, S., Bergman, O., & Clough, P. (2010). Easy on that trigger dad: A study of long-term family photo retrieval. Personal and Ubiquitous Computing, 14(1), 31–43. https://doi.org/10.1007/s00779-009-0218-7",
+        "journal-title": "Personal and Ubiquitous Computing"
+      }
+    ],
+    "container-title": [
+      "Psychonomic Bulletin &amp; Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.3758/s13423-022-02149-2.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.3758/s13423-022-02149-2/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.3758/s13423-022-02149-2.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          18
+        ]
+      ],
+      "date-time": "2023-07-18T23:10:35Z",
+      "timestamp": 1689721835000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.3758/s13423-022-02149-2"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          19
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2149"
+    ],
+    "URL": "https://doi.org/10.3758/s13423-022-02149-2",
+    "relation": {},
+    "ISSN": [
+      "1069-9384",
+      "1531-5320"
+    ],
+    "issn-type": [
+      {
+        "value": "1069-9384",
+        "type": "print"
+      },
+      {
+        "value": "1531-5320",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          19
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "8 July 2022",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "19 July 2022",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Full data sets as well as all electronic materials are available freely online through the Open Science Framework (). None of the studies reported was formally preregistered.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Open Practices Statement"
+        }
+      },
+      {
+        "value": "This content has been made available to all.",
+        "name": "free",
+        "label": "Free to read"
+      }
+    ]
+  }
+}

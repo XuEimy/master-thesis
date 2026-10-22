@@ -1,0 +1,550 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2026-10-22T03:40:42Z",
+      "timestamp": 1792640442040,
+      "version": "4.5.0"
+    },
+    "reference-count": 63,
+    "publisher": "Informa UK Limited",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Visual Studies"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2002,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1080/14725860220137345",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2002-09-30T13:03:48Z",
+      "timestamp": 1033391028000
+    },
+    "page": "13-26",
+    "source": "Crossref",
+    "is-referenced-by-count": 2779,
+    "title": [
+      "Talking about pictures: A case for photo elicitation"
+    ],
+    "prefix": "10.1080",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Douglas",
+        "family": "Harper",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          11,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_1_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4135/9780857020284"
+      },
+      {
+        "key": "e_1_2_1_2_1",
+        "volume-title": "Education and Social Change: A Photographic Study of Peru",
+        "author": "Barndt Deborah.",
+        "year": "1980",
+        "unstructured": "Barndt, Deborah. , 1980. Education and Social Change: A Photographic Study of Peru . Dubuque, IA: Kendall Hunt; 1980."
+      },
+      {
+        "key": "e_1_2_1_3_1",
+        "volume-title": "To Change This House: Popular Education Under the Sandinistas",
+        "author": "Barndt Deborah.",
+        "year": "1990",
+        "unstructured": "Barndt, Deborah. , 1990. To Change This House: Popular Education Under the Sandinistas . Toronto: Between the Lines Press; 1990."
+      },
+      {
+        "key": "e_1_2_1_4_1",
+        "volume-title": "Keeping a Rendezvous",
+        "author": "Berger John.",
+        "year": "1992",
+        "unstructured": "Berger, John. , 1992. Keeping a Rendezvous . New York: Vintage International; 1992."
+      },
+      {
+        "key": "e_1_2_1_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08949468.1991.9966559"
+      },
+      {
+        "key": "e_1_2_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08949468.2000.9966796"
+      },
+      {
+        "key": "e_1_2_1_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/01443579810236610"
+      },
+      {
+        "key": "e_1_2_1_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/var.1978.5.1.37"
+      },
+      {
+        "key": "e_1_2_1_9_1",
+        "volume-title": "Sellers and Servants: Working Women in Lima, Peru",
+        "author": "Bunster Ximena",
+        "year": "1989",
+        "unstructured": "Bunster, Ximena , Chaney, Elsa , and Young., Ellan , 1989. Sellers and Servants: Working Women in Lima, Peru . New York: Bergin and Garvey; 1989."
+      },
+      {
+        "key": "e_1_2_1_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.2326-8492.1985.tb00032.x"
+      },
+      {
+        "key": "e_1_2_1_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725868908583636"
+      },
+      {
+        "key": "e_1_2_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869908583801"
+      },
+      {
+        "key": "e_1_2_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/aa.1957.59.5.02a00100"
+      },
+      {
+        "key": "e_1_2_1_14_1",
+        "volume-title": "Visual Anthropology: Photography as a Research Method",
+        "author": "______",
+        "year": "1967",
+        "unstructured": "______, , 1967. Visual Anthropology: Photography as a Research Method . New York, Holt: Rinehart and Winston; 1967."
+      },
+      {
+        "key": "e_1_2_1_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08949468.1987.9966459"
+      },
+      {
+        "key": "e_1_2_1_16_1",
+        "volume-title": "Visual Anthropology: Photography as a Research Method (revised and expanded)",
+        "author": "Collier John",
+        "year": "1986",
+        "unstructured": "Collier, John , and Collier., Malcolm , 1986. Visual Anthropology: Photography as a Research Method (revised and expanded) . Albuquerque: University of New Mexico Press; 1986."
+      },
+      {
+        "key": "e_1_2_1_17_1",
+        "volume-title": "Jero Tapakan: Balinese Healer, an Ethnographic Film Monograph",
+        "author": "Connor Linda",
+        "year": "1986",
+        "unstructured": "Connor, Linda , Asch, Patsy , and Asch., Timothy , 1986. Jero Tapakan: Balinese Healer, an Ethnographic Film Monograph . Cambridge: Cambridge University Press; 1986."
+      },
+      {
+        "key": "e_1_2_1_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869908583804"
+      },
+      {
+        "key": "e_1_2_1_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869708583773"
+      },
+      {
+        "key": "e_1_2_1_20_1",
+        "first-page": "192",
+        "article-title": "\"A little pain never hurt anybody: a photo-essay on the normalization of sports injuries",
+        "volume": "11",
+        "author": "Curry Timothy Jon",
+        "year": "1986",
+        "unstructured": "Curry, Timothy Jon , and Strauss., Richard , 1986. \"A little pain never hurt anybody: a photo-essay on the normalization of sports injuries , Sociology of Sport Journal 11 ((2)) (1986), pp. 192–208.",
+        "journal-title": "Sociology of Sport Journal"
+      },
+      {
+        "key": "e_1_2_1_21_1",
+        "first-page": "55",
+        "article-title": "\"Using photo-interviewing as a tool for research and evaluation",
+        "volume": "34",
+        "author": "Dempsey John V.",
+        "year": "1994",
+        "unstructured": "Dempsey, John V. , and Tucker., Susan A. , 1994. \"Using photo-interviewing as a tool for research and evaluation , Educational-Technology 34 ((4)) (1994), pp. 55–62.",
+        "journal-title": "Educational-Technology"
+      },
+      {
+        "key": "e_1_2_1_22_1",
+        "volume-title": "Researching the Visual: Images, Objects, Contexts and Interactions in Social and Cultural Inquiry",
+        "author": "Emmison Michael",
+        "year": "2001",
+        "unstructured": "Emmison, Michael , and Smith., Philip , 2001. Researching the Visual: Images, Objects, Contexts and Interactions in Social and Cultural Inquiry . London: Sage; 2001."
+      },
+      {
+        "key": "e_1_2_1_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869808583795"
+      },
+      {
+        "key": "e_1_2_1_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869108583688"
+      },
+      {
+        "key": "e_1_2_1_25_1",
+        "volume-title": "Constructing the Life Course",
+        "author": "Gubrium Jaber F.",
+        "year": "1994",
+        "unstructured": "Gubrium, Jaber F. , Holstein, James , and Buckholdt., David R. , 1994. Constructing the Life Course . New York: General Hall; 1994."
+      },
+      {
+        "key": "e_1_2_1_26_1",
+        "first-page": "459",
+        "volume-title": "Handbook of Methods in Cultural Anthropology",
+        "author": "Guindi Fadwa El.",
+        "year": "1998",
+        "unstructured": "Guindi, Fadwa El. , 1998. \"\"From pictorializing to visual anthropology,\"\". In: Heraard, H. Russel , ed. Handbook of Methods in Cultural Anthropology . London: Sage; 1998. pp. 459–511."
+      },
+      {
+        "key": "e_1_2_1_27_1",
+        "unstructured": "Guschker Stefan. 2000. \"\"Picture world and reality of life --a sociological study about the role of private photos for the meaningfulness of identity \"\". Germany. 2000 Ph.D. dissertation (in German)."
+      },
+      {
+        "key": "e_1_2_1_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08949468.1987.9966457"
+      },
+      {
+        "key": "e_1_2_1_29_1",
+        "volume-title": "Working Knowledge: Skill and Community in a Small Shop",
+        "author": "______",
+        "year": "1987",
+        "unstructured": "______, , 1987b. Working Knowledge: Skill and Community in a Small Shop . Chicago: University of Chicago Press; 1987b."
+      },
+      {
+        "key": "e_1_2_1_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02692374"
+      },
+      {
+        "key": "e_1_2_1_31_1",
+        "first-page": "403",
+        "volume-title": "Handbook of Qualitative Research",
+        "author": "______",
+        "year": "1993",
+        "unstructured": "______, , 1993. \"\"On the authority of the image: visual sociology at the crossroads,\"\". In: Denzin, Norman K. , and Lincoln, Yvonna , eds. Handbook of Qualitative Research . Newbury Park, CA: Sage Publications; 1993. pp. 403–412."
+      },
+      {
+        "key": "e_1_2_1_32_1",
+        "volume-title": "Cape Breton, 1952: The Anthropological Vision of Timothy Asch",
+        "author": "______",
+        "year": "1994",
+        "unstructured": "1994. ______, , ed. Cape Breton, 1952: The Anthropological Vision of Timothy Asch . Louisville: International Visual Sociology Association; 1994."
+      },
+      {
+        "key": "e_1_2_1_33_1",
+        "first-page": "24",
+        "volume-title": "Image-based Research: A Sourcebook for Qualitative Researchers",
+        "author": "______",
+        "year": "1998",
+        "unstructured": "______, , 1998. \"\"An argument for visual sociology,\"\". In: Presser, Jon , ed. Image-based Research: A Sourcebook for Qualitative Researchers . London: Palmer Press; 1998. pp. 24–41."
+      },
+      {
+        "key": "e_1_2_1_34_1",
+        "first-page": "717",
+        "volume-title": "Handbook of Qualitative Research,",
+        "author": "______",
+        "year": "2000",
+        "unstructured": "______, , 2000. \"\"Reimagining visual methods: Galileo to Neuromancer,\"\". In: Denzin, Norman , and Lincoln, Yvonna , eds. Handbook of Qualitative Research, . Thousand Oaks, CA: Sage Publications; 2000. pp. 717–732."
+      },
+      {
+        "key": "e_1_2_1_35_1",
+        "volume-title": "Changing Works: Visions of a Lost Agriculture",
+        "author": "______",
+        "year": "2001",
+        "unstructured": "______, , 2001. Changing Works: Visions of a Lost Agriculture . Chicago: University of Chicago Press; 2001."
+      },
+      {
+        "key": "e_1_2_1_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725860008583814"
+      },
+      {
+        "key": "e_1_2_1_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869908583805"
+      },
+      {
+        "key": "e_1_2_1_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9783112415405"
+      },
+      {
+        "key": "e_1_2_1_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869108583679"
+      },
+      {
+        "key": "e_1_2_1_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08949468.1993.9966592"
+      },
+      {
+        "key": "e_1_2_1_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9783112415405-021"
+      },
+      {
+        "key": "e_1_2_1_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869308583721"
+      },
+      {
+        "key": "e_1_2_1_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/var.1977.4.2.99"
+      },
+      {
+        "key": "e_1_2_1_44_1",
+        "volume-title": "Representing Reality",
+        "author": "Nichols Bill.",
+        "year": "1991",
+        "unstructured": "Nichols, Bill. , 1991. Representing Reality . Bloomington: Indiana University Press; 1991."
+      },
+      {
+        "key": "e_1_2_1_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869908583803"
+      },
+      {
+        "key": "e_1_2_1_46_1",
+        "volume-title": "Suburbia",
+        "author": "Owens Bill.",
+        "year": "1972",
+        "unstructured": "Owens, Bill. , 1972. Suburbia . San Francisco: Straight Arrow Books; 1972."
+      },
+      {
+        "key": "e_1_2_1_47_1",
+        "first-page": "139",
+        "article-title": "\"Framing a house: photography and the performance of heritage",
+        "volume": "17",
+        "author": "Rusted Brian.",
+        "year": "1995",
+        "unstructured": "Rusted, Brian. , 1995. \"Framing a house: photography and the performance of heritage , Canadian Folklore 17 ((2)) (1995), pp. 139–157.",
+        "journal-title": "Canadian Folklore"
+      },
+      {
+        "key": "e_1_2_1_48_1",
+        "unstructured": "Sampson-Cordle Alice Vera. 2001. \"\"Exploring the relationship between a small rural school in Northeast Georgia and its community: an image-based study using participant-produced photographs \"\". Georgia: Athens; 2001 Ph.D. dissertation."
+      },
+      {
+        "key": "e_1_2_1_49_1",
+        "volume-title": "Waucoma Twilight: Generations of the Farm",
+        "author": "Schwarte Dona.",
+        "year": "1992",
+        "unstructured": "Schwarte, Dona. , 1992. Waucoma Twilight: Generations of the Farm . Washington, DC: Smithsonian Press; 1992."
+      },
+      {
+        "key": "e_1_2_1_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/107769589805300403"
+      },
+      {
+        "key": "e_1_2_1_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1123/ssj.7.3.254"
+      },
+      {
+        "key": "e_1_2_1_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00989746"
+      },
+      {
+        "key": "e_1_2_1_53_1",
+        "volume-title": "Putting Myself in the Picture: A Political Personal and Photographic Autobiography",
+        "author": "Spence Jo.",
+        "year": "1986",
+        "unstructured": "Spence, Jo. , 1986. Putting Myself in the Picture: A Political Personal and Photographic Autobiography . Seattle: Real Comet Press; 1986."
+      },
+      {
+        "key": "e_1_2_1_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869508583747"
+      },
+      {
+        "key": "e_1_2_1_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869908583806"
+      },
+      {
+        "key": "e_1_2_1_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725868808583618"
+      },
+      {
+        "key": "e_1_2_1_57_1",
+        "first-page": "165",
+        "article-title": "\"Icons and images of gentrification: the changed material culture of an urban community,\"",
+        "volume": "2",
+        "author": "______",
+        "year": "1992",
+        "unstructured": "______, , 1992. \"Icons and images of gentrification: the changed material culture of an urban community,\" , Gentrification and Urban Change: Research in Urban Sociology 2 (1992), pp. 165–192.",
+        "journal-title": "Gentrification and Urban Change: Research in Urban Sociology"
+      },
+      {
+        "key": "e_1_2_1_58_1",
+        "first-page": "149",
+        "article-title": "\"Judging the adequacy of shelter: a case from Lincoln Park",
+        "volume": "11",
+        "author": "Suchar Charles S.",
+        "year": "1994",
+        "unstructured": "Suchar, Charles S. , and Rotenberg., Robert , 1994. \"Judging the adequacy of shelter: a case from Lincoln Park , Journal of Architectural and Planning Research 11 ((2)) (1994), pp. 149–165.",
+        "journal-title": "Journal of Architectural and Planning Research"
+      },
+      {
+        "key": "e_1_2_1_59_1",
+        "unstructured": "Sustik Anne. 1999. \"\"An auto-photographic naturalistic investigation of the adjustment of refugees from the former Soviet Union to life in the United States \"\". Loyola University; 1999 Ph.D. dissertation."
+      },
+      {
+        "key": "e_1_2_1_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0193841X9101500507"
+      },
+      {
+        "key": "e_1_2_1_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725869208583694"
+      },
+      {
+        "key": "e_1_2_1_62_1",
+        "first-page": "85",
+        "volume-title": "Images of Information",
+        "author": "Wagner Jon.",
+        "year": "1978",
+        "unstructured": "Wagner, Jon. , 1978. \"\"Perceiving a planned community,\"\". In: Wagner, Jon , ed. Images of Information . Beverly Hills, CA: Sage Publishers; 1978. pp. 85–100."
+      },
+      {
+        "key": "e_1_2_1_63_1",
+        "volume-title": "Social Mindscapes: An Invitation to Cognitive Sociology",
+        "author": "Zerubavel Evitar.",
+        "year": "1997",
+        "unstructured": "Zerubavel, Evitar. , 1997. Social Mindscapes: An Invitation to Cognitive Sociology . Cambridge, MA: Harvard University Press; 1997."
+      }
+    ],
+    "container-title": [
+      "Visual Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/14725860220137345",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2026-02-06T12:15:30Z",
+      "timestamp": 1770380130000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/14725860220137345"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          4
+        ]
+      ]
+    },
+    "references-count": 63,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2002,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/14725860220137345"
+    ],
+    "URL": "https://doi.org/10.1080/14725860220137345",
+    "relation": {},
+    "ISSN": [
+      "1472-586X",
+      "1472-5878"
+    ],
+    "issn-type": [
+      {
+        "value": "1472-586X",
+        "type": "print"
+      },
+      {
+        "value": "1472-5878",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2002,
+          4
+        ]
+      ]
+    }
+  }
+}

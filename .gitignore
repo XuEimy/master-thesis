@@ -10,3 +10,14 @@ __pycache__/
 !.env.example
 /tmp/
 /private-materials/
+
+# Local literature source cache; traceable metadata and original URLs remain tracked.
+/literature/sources/*
+!/literature/sources/crossref/
+/literature/data/records.jsonl
+/literature/data/文献总库.csv
+/literature/data/候选-*.txt
+
+# Registered preprint metadata is small and auditable; candidate snapshots remain local.
+!/literature/sources/datacite/
+/literature/data/候选-*.json

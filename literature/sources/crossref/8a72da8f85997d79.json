@@ -1,0 +1,464 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          19
+        ]
+      ],
+      "date-time": "2026-08-19T18:06:09Z",
+      "timestamp": 1787162769378,
+      "version": "build-2736575974"
+    },
+    "reference-count": 46,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              2,
+              8
+            ]
+          ],
+          "date-time": "2022-02-08T00:00:00Z",
+          "timestamp": 1644278400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              2,
+              8
+            ]
+          ],
+          "date-time": "2022-02-08T00:00:00Z",
+          "timestamp": 1644278400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Memory Studies"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                    In studies of cued recall, responses to photographic stimuli have often been examined in isolation of related photography practices (e.g. taking, organising, or sharing images), and without considering\n                    <jats:italic toggle=\"yes\">how</jats:italic>\n                    photographs are used. In contrast, photo-elicitation methods position photographs not simply as cues, but as meaningful artefacts around which accounts of the past are constructed. Drawing on photo-elicitation interviews, I examine cued recall from a distributed cognition perspective, proposing that it consists of varying combinations of several, potentially-distributed processes. First, looking at photographs can catalyse remembering by surfacing relevant ideas, followed by: stimulation (of feelings and emotions), simulation and narrative production, association, inference, and meaning-making. Using examples from my interviews, I consider how each process is socially and materially configured. I then discuss the role of diverse photographic practices in the convergence of these processes, and the implications for conceptions of cueing, recall, and autobiographical memory.\n                  </jats:p>",
+    "DOI": "10.1177/17506980211073093",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2022-02-08T07:09:17Z",
+      "timestamp": 1644304157000
+    },
+    "page": "264-279",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Cued recall: Using photo-elicitation to examine the distributed processes of remembering with photographs"
+    ],
+    "prefix": "10.1177",
+    "volume": "16",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5014-2662",
+        "authenticated-orcid": false,
+        "given": "Tim",
+        "family": "Fawns",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "The University of Edinburgh, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_4_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797617694868"
+      },
+      {
+        "key": "e_1_3_4_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698018806440"
+      },
+      {
+        "key": "e_1_3_4_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2017.1375529"
+      },
+      {
+        "key": "e_1_3_4_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/is.16.3.04bie"
+      },
+      {
+        "key": "e_1_3_4_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4288/jafpos.28.0_9"
+      },
+      {
+        "key": "e_1_3_4_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1542-734X.1984.0701_22.x"
+      },
+      {
+        "key": "e_1_3_4_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09515089.2014.976334"
+      },
+      {
+        "key": "e_1_3_4_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10979-006-9008-1"
+      },
+      {
+        "key": "e_1_3_4_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspa0000055"
+      },
+      {
+        "key": "e_1_3_4_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698019829891"
+      },
+      {
+        "key": "e_1_3_4_12_1",
+        "first-page": "487",
+        "volume-title": "Visual Methods in Psychology",
+        "author": "Fawns T",
+        "year": "2020",
+        "unstructured": "Fawns T (2020) The photo-elicitation interview as a multimodal site for reflexivity. In: Reavey P (ed.) Visual Methods in Psychology 2nd ed. London: Routledge, pp. 487–501.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_4_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1089268020958686"
+      },
+      {
+        "key": "e_1_3_4_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1219"
+      },
+      {
+        "key": "e_1_3_4_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/587078.587102"
+      },
+      {
+        "key": "e_1_3_4_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-012-0612-4"
+      },
+      {
+        "key": "e_1_3_4_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0963-7214.2005.00390.x"
+      },
+      {
+        "key": "e_1_3_4_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/bhh082"
+      },
+      {
+        "key": "e_1_3_4_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725860220137345"
+      },
+      {
+        "key": "e_1_3_4_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698014530619"
+      },
+      {
+        "key": "e_1_3_4_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/0163853X.2010.541854"
+      },
+      {
+        "key": "e_1_3_4_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797613504438"
+      },
+      {
+        "key": "e_1_3_4_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0101858"
+      },
+      {
+        "key": "e_1_3_4_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnbeh.2013.00027"
+      },
+      {
+        "key": "e_1_3_4_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cobeha.2020.01.016"
+      },
+      {
+        "key": "e_1_3_4_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1461444814532062"
+      },
+      {
+        "key": "e_1_3_4_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.51.1.481"
+      },
+      {
+        "key": "e_1_3_4_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.13.2.277"
+      },
+      {
+        "key": "e_1_3_4_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03211542"
+      },
+      {
+        "key": "e_1_3_4_30_1",
+        "volume-title": "Qualitative Data Analysis. The NIHR RDS for the East Midlands / Yorkshire & the Humber",
+        "author": "Lacey A",
+        "year": "2007",
+        "unstructured": "Lacey A, Luff D (2007) Qualitative Data Analysis. The NIHR RDS for the East Midlands / Yorkshire & the Humber. Nottingham: The NIHR RDS EM / YH."
+      },
+      {
+        "key": "e_1_3_4_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2011.610803"
+      },
+      {
+        "key": "e_1_3_4_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/fampra/13.6.522"
+      },
+      {
+        "key": "e_1_3_4_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2012.04.008"
+      },
+      {
+        "key": "e_1_3_4_34_1",
+        "first-page": "3",
+        "volume-title": "Practical Aspects of Memory",
+        "author": "Neisser U",
+        "year": "1978",
+        "unstructured": "Neisser U (1978) Memory: what are the important questions. In: Gruneberg MM, Morris PE, Sykes RN (eds) Practical Aspects of Memory. London: Academic, pp. 3–19."
+      },
+      {
+        "key": "e_1_3_4_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2015.06.010"
+      },
+      {
+        "key": "e_1_3_4_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2012.09.003"
+      },
+      {
+        "key": "e_1_3_4_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2019.09.008"
+      },
+      {
+        "key": "e_1_3_4_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1364-6613(00)01445-5"
+      },
+      {
+        "key": "e_1_3_4_39_1",
+        "first-page": "129",
+        "volume-title": "The Photographic Image in Digital Culture",
+        "author": "Slater D",
+        "year": "1995",
+        "unstructured": "Slater D (1995) Domestic photography and digital culture. In: Lister M (ed.) The Photographic Image in Digital Culture. London: Routledge, pp. 129–146."
+      },
+      {
+        "key": "e_1_3_4_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2017.10.004"
+      },
+      {
+        "key": "e_1_3_4_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/17506980211044712."
+      },
+      {
+        "key": "e_1_3_4_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/8535.003.0009"
+      },
+      {
+        "key": "e_1_3_4_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315159591-10"
+      },
+      {
+        "key": "e_1_3_4_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1056808.1057039"
+      },
+      {
+        "key": "e_1_3_4_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.121.3.331"
+      },
+      {
+        "key": "e_1_3_4_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0218-7"
+      },
+      {
+        "key": "e_1_3_4_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698017709872"
+      }
+    ],
+    "container-title": [
+      "Memory Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/17506980211073093",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/17506980211073093",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/17506980211073093",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2026-01-05T19:15:34Z",
+      "timestamp": 1767640534000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/17506980211073093"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          8
+        ]
+      ]
+    },
+    "references-count": 46,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/17506980211073093"
+    ],
+    "URL": "https://doi.org/10.1177/17506980211073093",
+    "relation": {},
+    "ISSN": [
+      "1750-6980",
+      "1750-6999"
+    ],
+    "issn-type": [
+      {
+        "value": "1750-6980",
+        "type": "print"
+      },
+      {
+        "value": "1750-6999",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          8
+        ]
+      ]
+    }
+  }
+}

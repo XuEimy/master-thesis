@@ -1,0 +1,434 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          3
+        ]
+      ],
+      "date-time": "2026-10-03T03:51:15Z",
+      "timestamp": 1790999475275,
+      "version": "4.1.0"
+    },
+    "reference-count": 38,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              4
+            ]
+          ],
+          "date-time": "2024-07-04T00:00:00Z",
+          "timestamp": 1720051200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 3,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Applied Cognitive Psychology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          7
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Our aim in the current study was to examine how different diary methods might impact the results of involuntary memory studies. We compared three different commonly used diary methods, record all memories experienced per day, record up to two memories per day, or record only the first two per day. Results showed that the record‐all group had the most memories, and in all conditions, more memories were recorded during the first week compared to the second week. Additionally, results showed that the record any‐two group reported more perceptually cued memories compared to the other two conditions, and the record‐all group reported the most memory cued memories. The record‐all group reported being the most confident in their involuntary memories. The results may help explain some discrepancies in the literature, and they may assist future researchers by allowing them to tailor their methods according to their research questions.</jats:p>",
+    "DOI": "10.1002/acp.4225",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2024-07-04T07:18:36Z",
+      "timestamp": 1720077516000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Studying naturally occurring involuntary autobiographical memories with the diary approach: A comparison of diary methods"
+    ],
+    "prefix": "10.1002",
+    "volume": "38",
+    "author": [
+      {
+        "given": "Amanda M.",
+        "family": "Clevinger",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychology Eastern Illinois University  Charleston Illinois USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4904-6865",
+        "authenticated-orcid": false,
+        "given": "John H.",
+        "family": "Mace",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology Eastern Illinois University  Charleston Illinois USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyt.2020.567189"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.schres.2020.12.013"
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1264"
+      },
+      {
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1099-0720(199610)10:5<435::AID-ACP408>3.0.CO;2-L"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741942071"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511575921"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721410370301"
+      },
+      {
+        "key": "e_1_2_9_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2019.0693"
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03195869"
+      },
+      {
+        "key": "e_1_2_9_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2008.03.001"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pag0000157"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.17.4.636"
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0029128"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2005.08.005"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.107.2.261"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2020.1738497"
+      },
+      {
+        "key": "e_1_2_9_18_1",
+        "volume-title": "Memory: A contribution to experimental psychology",
+        "author": "Ebbinghaus H.",
+        "year": "1885"
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2012.06.014"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2010.01.009"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2013.838630"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S00100285(03)00115-4"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2018.09.002"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1020"
+      },
+      {
+        "key": "e_1_2_9_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210444000485"
+      },
+      {
+        "key": "e_1_2_9_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069"
+      },
+      {
+        "key": "e_1_2_9_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1634"
+      },
+      {
+        "key": "e_1_2_9_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2014.900083"
+      },
+      {
+        "key": "e_1_2_9_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1634"
+      },
+      {
+        "key": "e_1_2_9_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0285(83)90016-6"
+      },
+      {
+        "key": "e_1_2_9_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2011.07.010"
+      },
+      {
+        "key": "e_1_2_9_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2014.09.008"
+      },
+      {
+        "key": "e_1_2_9_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/cns0000042"
+      },
+      {
+        "key": "e_1_2_9_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/37.5.679"
+      },
+      {
+        "key": "e_1_2_9_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/MC.36.5.920"
+      },
+      {
+        "key": "e_1_2_9_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069.ch5"
+      },
+      {
+        "key": "e_1_2_9_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2012.06.016"
+      },
+      {
+        "key": "e_1_2_9_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jbtep.2012.06.001"
+      },
+      {
+        "key": "e_1_2_9_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0023473"
+      }
+    ],
+    "container-title": [
+      "Applied Cognitive Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.4225",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2024-08-22T19:35:23Z",
+      "timestamp": 1724355323000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/acp.4225"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7
+        ]
+      ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/acp.4225"
+    ],
+    "URL": "https://doi.org/10.1002/acp.4225",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0888-4080",
+      "1099-0720"
+    ],
+    "issn-type": [
+      {
+        "value": "0888-4080",
+        "type": "print"
+      },
+      {
+        "value": "1099-0720",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2023-06-09",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2024-06-26",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2024-07-04",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e4225"
+  }
+}

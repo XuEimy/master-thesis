@@ -1,0 +1,749 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2026-06-09T10:57:30Z",
+      "timestamp": 1781002650237,
+      "version": "3.54.1"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 97,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              13
+            ]
+          ],
+          "date-time": "2026-04-13T00:00:00Z",
+          "timestamp": 1776038400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.1145/3772318.3790927",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2026-04-13T04:12:21Z",
+      "timestamp": 1776053541000
+    },
+    "page": "1-18",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "“I'm happy even though it's not real”: GenAI Photo Editing as a Remembering Experience"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0005-6537-7161",
+        "authenticated-orcid": false,
+        "given": "Yufeng",
+        "family": "Wu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Computer Science, University of Technology Sydney, Sydney, NSW, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-7519-5118",
+        "authenticated-orcid": false,
+        "given": "Qing",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Computer Science, University of Technology Sydney, Sydney, NSW, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0888-1426",
+        "authenticated-orcid": false,
+        "given": "Elise",
+        "family": "van den Hoven",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Materialising Memories &amp; Visualisation Institute, University of Technology Sydney, Sydney, NSW, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8328-5317",
+        "authenticated-orcid": false,
+        "given": "A. Baki",
+        "family": "Kocaballi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Computer Science, University of Technology Sydney, Sydney, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1_2",
+        "volume-title": "Wilson",
+        "author": "Baddeley Alan D.",
+        "year": "2004",
+        "unstructured": "Alan D. Baddeley, Michael Kopelman, and Barbara A. Wilson. 2004. The Essential Handbook of Memory Disorders for Clinicians. John Wiley & Sons."
+      },
+      {
+        "key": "e_1_3_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.2044-8279.1933.tb02913.x"
+      },
+      {
+        "key": "e_1_3_3_2_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV51070.2023.00474"
+      },
+      {
+        "key": "e_1_3_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0957926510373973"
+      },
+      {
+        "key": "e_1_3_3_2_5_2",
+        "volume-title": "Thematic Analysis: A Practical Guide. SAGE.",
+        "author": "Braun Virginia",
+        "year": "2021",
+        "unstructured": "Virginia Braun and Victoria Clarke. 2021. Thematic Analysis: A Practical Guide. SAGE."
+      },
+      {
+        "key": "e_1_3_3_2_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/0144929X.2017.1288266"
+      },
+      {
+        "key": "e_1_3_3_2_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5555/3620237.3620531"
+      },
+      {
+        "key": "e_1_3_3_2_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1054972.1055098"
+      },
+      {
+        "key": "e_1_3_3_2_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1472586022000032215"
+      },
+      {
+        "key": "e_1_3_3_2_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2005.08.005"
+      },
+      {
+        "key": "e_1_3_3_2_11_2",
+        "volume-title": "Beyond the Filter: How AI Photo Restoration is Silently Erasing Our History. Medium. Retrieved",
+        "author": "Megan DeHerrera",
+        "year": "2025",
+        "unstructured": "DeHerrera Megan. 2025. Beyond the Filter: How AI Photo Restoration is Silently Erasing Our History. Medium. Retrieved December 4, 2025 from https://medium.com/@megan_deherrera/beyond-the-filter-how-ai-photo-restoration-is-silently-erasing-our-history-b5ed6d16e908"
+      },
+      {
+        "key": "e_1_3_3_2_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-30371-6"
+      },
+      {
+        "key": "e_1_3_3_2_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1470357207084865"
+      },
+      {
+        "key": "e_1_3_3_2_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613905.3650750"
+      },
+      {
+        "key": "e_1_3_3_2_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10462-024-11075-9"
+      },
+      {
+        "key": "e_1_3_3_2_16_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ziv Epstein Aaron Hertzmann and the Investigators of Human Creativity. 2023. Art and the science of generative AI. Science 380 6650: 1110–1111. 10.1126/science.adh4451",
+        "DOI": "10.1126/science.adh4451"
+      },
+      {
+        "key": "e_1_3_3_2_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2079216.2079264"
+      },
+      {
+        "key": "e_1_3_3_2_18_2",
+        "volume-title": "TIME. Retrieved",
+        "author": "Farid Hany",
+        "year": "2024",
+        "unstructured": "Hany Farid. 2024. How Kate Middleton's Pic Was Altered and the Promise of Provenance Credentialing. TIME. Retrieved August 31, 2025 from https://time.com/6899993/princess-kate-middleton-photo-forensics-digital-provenance-credentials/"
+      },
+      {
+        "key": "e_1_3_3_2_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/sci6010003"
+      },
+      {
+        "key": "e_1_3_3_2_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2010.532807"
+      },
+      {
+        "key": "e_1_3_3_2_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jesp.2012.10.013"
+      },
+      {
+        "key": "e_1_3_3_2_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0963-7214.2005.00390.x"
+      },
+      {
+        "key": "e_1_3_3_2_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.2044-8295.1975.tb01468.x"
+      },
+      {
+        "key": "e_1_3_3_2_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-011-0487-9"
+      },
+      {
+        "key": "e_1_3_3_2_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2024.16"
+      },
+      {
+        "key": "e_1_3_3_2_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698014530625"
+      },
+      {
+        "key": "e_1_3_3_2_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-007-0177-9"
+      },
+      {
+        "key": "e_1_3_3_2_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1027/2151-2604/a000172"
+      },
+      {
+        "key": "e_1_3_3_2_29_2",
+        "volume-title": "Documenting Family Information and Life Histories: Transnational Perspectives",
+        "author": "van den Hoven Elise",
+        "unstructured": "Elise van den Hoven, Berry Eggen, Annemarie Zijlema, Doménique van Gennip, Ine Mols, Mendel Broekhuijsen, Nathalie Overdevest, and Panos Markopoulos. in press. RX: the Remembering Experience. In Documenting Family Information and Life Histories: Transnational Perspectives. Routledge Books."
+      },
+      {
+        "key": "e_1_3_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1806923.1806924"
+      },
+      {
+        "key": "e_1_3_3_2_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1124772.1124885"
+      },
+      {
+        "key": "e_1_3_3_2_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4135/9781071878781"
+      },
+      {
+        "key": "e_1_3_3_2_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pmcj.2021.101369"
+      },
+      {
+        "key": "e_1_3_3_2_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3334480.3375158"
+      },
+      {
+        "key": "e_1_3_3_2_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR52733.2024.00779"
+      },
+      {
+        "key": "e_1_3_3_2_36_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Chang Liu and Han Yu. 2023. AI-Empowered Persuasive Video Generation: A Survey. ACM Comput. Surv. 55 13s: 285:1-285:31. 10.1145/3588764",
+        "DOI": "10.1145/3588764"
+      },
+      {
+        "key": "e_1_3_3_2_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X10001263"
+      },
+      {
+        "key": "e_1_3_3_2_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10462-024-11024-6"
+      },
+      {
+        "key": "e_1_3_3_2_39_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Elizabeth Loftus. 2005. Planting misinformation in the human mind: A 30-year investigation of the malleability of memory. Learning & memory (Cold Spring Harbor N.Y.) 12: 361–6. 10.1101/lm.94705",
+        "DOI": "10.1101/lm.94705"
+      },
+      {
+        "key": "e_1_3_3_2_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3928/0048-5713-19951201-07"
+      },
+      {
+        "key": "e_1_3_3_2_41_2",
+        "volume-title": "Proceedings of the 37th International Conference on Neural Information Processing Systems (NIPS ’23)",
+        "author": "Luccioni Alexandra Sasha",
+        "year": "2023",
+        "unstructured": "Alexandra Sasha Luccioni, Christopher Akiki, Margaret Mitchell, and Yacine Jernite. 2023. Stable bias: evaluating societal representations in diffusion models. In Proceedings of the 37th International Conference on Neural Information Processing Systems (NIPS ’23), 56338–56351."
+      },
+      {
+        "key": "e_1_3_3_2_42_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Celia Lury. 2013. Prosthetic Culture. Routledge London. 10.4324/9780203425251",
+        "DOI": "10.4324/9780203425251"
+      },
+      {
+        "key": "e_1_3_3_2_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cogr.2023.06.001"
+      },
+      {
+        "key": "e_1_3_3_2_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPAMI.2025.3569700"
+      },
+      {
+        "key": "e_1_3_3_2_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0033650"
+      },
+      {
+        "key": "e_1_3_3_2_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13164-013-0131-x"
+      },
+      {
+        "key": "e_1_3_3_2_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12877-020-01563-2"
+      },
+      {
+        "key": "e_1_3_3_2_48_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Martez Mott Thomas Donahue G. Michael Poor and Laura Leventhal. 2012. Leveraging motor learning for a tangible password system. In CHI ’12 Extended Abstracts on Human Factors in Computing Systems (CHI EA ’12) 2597–2602. 10.1145/2212776.2223842",
+        "DOI": "10.1145/2212776.2223842"
+      },
+      {
+        "key": "e_1_3_3_2_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2021.1919715"
+      },
+      {
+        "key": "e_1_3_3_2_50_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3600211.3604711"
+      },
+      {
+        "key": "e_1_3_3_2_51_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.2120481119"
+      },
+      {
+        "key": "e_1_3_3_2_52_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0285(83)90016-6"
+      },
+      {
+        "key": "e_1_3_3_2_53_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2207676.2207723"
+      },
+      {
+        "key": "e_1_3_3_2_54_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2317956.2318055"
+      },
+      {
+        "key": "e_1_3_3_2_55_2",
+        "volume-title": "Retrieved",
+        "author": "O'Flaherty Kate",
+        "year": "2025",
+        "unstructured": "Kate O'Flaherty. Think Twice Before Creating That ChatGPT Action Figure. Wired. Retrieved September 7, 2025 from https://www.wired.com/story/chatgpt-image-generator-action-figure-privacy/"
+      },
+      {
+        "key": "e_1_3_3_2_56_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3563657.3595999"
+      },
+      {
+        "key": "e_1_3_3_2_57_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40359-023-01143-0"
+      },
+      {
+        "key": "e_1_3_3_2_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.patcog.2024.110799"
+      },
+      {
+        "key": "e_1_3_3_2_59_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3706598.3713697"
+      },
+      {
+        "key": "e_1_3_3_2_60_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/2024.acl-long.246"
+      },
+      {
+        "key": "e_1_3_3_2_61_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1518701.1518966"
+      },
+      {
+        "key": "e_1_3_3_2_62_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0279-7"
+      },
+      {
+        "key": "e_1_3_3_2_63_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1357054.1357065"
+      },
+      {
+        "key": "e_1_3_3_2_64_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijnurstu.2025.105085"
+      },
+      {
+        "key": "e_1_3_3_2_65_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR52734.2025.00253"
+      },
+      {
+        "key": "e_1_3_3_2_66_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.26556/jesp.v22i2.1628"
+      },
+      {
+        "key": "e_1_3_3_2_67_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2984751.2984776"
+      },
+      {
+        "key": "e_1_3_3_2_68_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-85729-247-6"
+      },
+      {
+        "key": "e_1_3_3_2_69_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.31887/DCNS.2012.14.1/dschacter"
+      },
+      {
+        "key": "e_1_3_3_2_70_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2007.2087"
+      },
+      {
+        "key": "e_1_3_3_2_71_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10462-024-10973-2"
+      },
+      {
+        "key": "e_1_3_3_2_72_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Felix Simon and Sacha Altay. 2025. Don't Panic (Yet): Assessing the Evidence and Discourse Around Generative AI and Elections. 10.13140/RG.2.2.23142.33602",
+        "DOI": "10.13140/RG.2.2.23142.33602"
+      },
+      {
+        "key": "e_1_3_3_2_73_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544549.3583178"
+      },
+      {
+        "key": "e_1_3_3_2_74_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Endel Tulving. 1985. Memory and consciousness. Canadian Psychology / Psychologie canadienne 26 1: 1–12. 10.1037/h0080017",
+        "DOI": "10.1037/h0080017"
+      },
+      {
+        "key": "e_1_3_3_2_75_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11245-022-09815-z"
+      },
+      {
+        "key": "e_1_3_3_2_76_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03196318"
+      },
+      {
+        "key": "e_1_3_3_2_77_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Runpu Wei Zijin Yin Shuo Zhang Lanxiang Zhou Xueyi Wang Chao Ban Tianwei Cao Hao Sun Zhongjiang He Kongming Liang and Zhanyu Ma. 2025. OmniEraser: Remove Objects and Their Effects in Images with Paired Video-Frame Data. 10.48550/arXiv.2501.07397",
+        "DOI": "10.48550/arXiv.2501.07397"
+      },
+      {
+        "key": "e_1_3_3_2_78_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13140/RG.2.1.2802.4489"
+      },
+      {
+        "key": "e_1_3_3_2_79_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3531146.3533183"
+      },
+      {
+        "key": "e_1_3_3_2_80_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/14651858.CD001120.pub3"
+      },
+      {
+        "key": "e_1_3_3_2_81_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2024.105934"
+      },
+      {
+        "key": "e_1_3_3_2_82_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642877"
+      },
+      {
+        "key": "e_1_3_3_2_83_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3711094"
+      },
+      {
+        "key": "e_1_3_3_2_84_2",
+        "unstructured": "2022. DALL·E 2. Retrieved August 31 2025 from https://openai.com/index/dall-e-2/"
+      },
+      {
+        "key": "e_1_3_3_2_85_2",
+        "volume-title": "How Best Take makes your group photos better. Google. Retrieved",
+        "year": "2025",
+        "unstructured": "2024. How Best Take makes your group photos better. Google. Retrieved September 4, 2025 from https://blog.google/products/photos/how-google-photos-best-take-works/"
+      },
+      {
+        "key": "e_1_3_3_2_86_2",
+        "volume-title": "Google Photos. Retrieved",
+        "author": "Edit Photos",
+        "year": "2025",
+        "unstructured": "Edit Photos with AI: Magic Eraser & Unblur. Google Photos. Retrieved August 31, 2025 from https://www.google.com/photos/editing/"
+      },
+      {
+        "key": "e_1_3_3_2_87_2",
+        "unstructured": "Use Apple Intelligence in Photos on iPhone. Apple Support. Retrieved August 31 2025 from https://support.apple.com/en-au/guide/iphone/iphf7de217f0/ios"
+      },
+      {
+        "key": "e_1_3_3_2_88_2",
+        "volume-title": "Retrieved",
+        "author": "Fill Photoshop Generative",
+        "year": "2025",
+        "unstructured": "Photoshop Generative Fill: Use AI to Fill in Images - Adobe | Adobe Australia. Retrieved August 31, 2025 from https://www.adobe.com/au/products/photoshop/generative-fill.html"
+      },
+      {
+        "key": "e_1_3_3_2_89_2",
+        "unstructured": "Sora. Retrieved September 4 2025 from https://openai.com/sora/"
+      },
+      {
+        "key": "e_1_3_3_2_90_2",
+        "unstructured": "Dream Machine AI | Free AI Video Generator. Retrieved September 4 2025 from https://dream-machine-ai.com/"
+      },
+      {
+        "key": "e_1_3_3_2_91_2",
+        "volume-title": "Next-Generation AI Creative Studio. Retrieved",
+        "author": "Kling",
+        "year": "2025",
+        "unstructured": "Kling AI: Next-Generation AI Creative Studio. Retrieved September 4, 2025 from https://www.klingai.com/global/"
+      },
+      {
+        "key": "e_1_3_3_2_92_2",
+        "volume-title": "Retrieved",
+        "author": "Ethics",
+        "year": "2026",
+        "unstructured": "Ethics guidelines for trustworthy AI | Shaping Europe's digital future. Retrieved January 22, 2026 from https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai"
+      },
+      {
+        "key": "e_1_3_3_2_93_2",
+        "unstructured": "FLUX.1 Kontext | Black Forest Labs. Retrieved August 31 2025 from https://bfl.ai/models/flux-kontext"
+      },
+      {
+        "key": "e_1_3_3_2_94_2",
+        "unstructured": "Google AI Studio. Retrieved August 31 2025 from https://aistudio.google.com/"
+      },
+      {
+        "key": "e_1_3_3_2_95_2",
+        "unstructured": "DALL·E 3. Retrieved August 31 2025 from https://openai.com/index/dall-e-3/"
+      },
+      {
+        "key": "e_1_3_3_2_96_2",
+        "volume-title": "Video AI Models 4x Faster | fal.ai. Retrieved",
+        "author": "Run Img Generative AI",
+        "year": "2025",
+        "unstructured": "Generative AI APIs | Run Img, 3D, Video AI Models 4x Faster | fal.ai. Retrieved September 3, 2025 from https://fal.ai"
+      },
+      {
+        "key": "e_1_3_3_2_97_2",
+        "unstructured": "Stable Diffusion Online. Retrieved August 31 2025 from https://stablediffusionweb.com/"
+      }
+    ],
+    "event": {
+      "name": "CHI 2026: CHI Conference on Human Factors in Computing Systems",
+      "location": "Barcelona Spain",
+      "acronym": "CHI '26",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3772318.3790927",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2026-06-09T10:02:02Z",
+      "timestamp": 1780999322000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3772318.3790927"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "references-count": 97,
+    "alternative-id": [
+      "10.1145/3772318.3790927",
+      "10.1145/3772318"
+    ],
+    "URL": "https://doi.org/10.1145/3772318.3790927",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2026-04-13",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

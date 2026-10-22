@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-23",
+  "results": [
+    {
+      "platform": "openalex",
+      "url": "https://api.openalex.org/works?search=%22lifelogging%22&per_page=1",
+      "status": 200,
+      "bytes": 29345,
+      "content_type": "application/json",
+      "keys": [
+        "meta",
+        "results",
+        "group_by"
+      ],
+      "total": 4737
+    },
+    {
+      "platform": "crossref",
+      "url": "https://api.crossref.org/works?query=lifelogging+autobiographical+memory&rows=1",
+      "status": 200,
+      "bytes": 1799,
+      "content_type": "application/json",
+      "keys": [
+        "status",
+        "message-type",
+        "message-version",
+        "message"
+      ],
+      "total": 551087
+    },
+    {
+      "platform": "europepmc",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=lifelogging&format=json&pageSize=1&resultType=core",
+      "status": 200,
+      "bytes": 5043,
+      "content_type": "application/json;charset=UTF-8",
+      "keys": [
+        "version",
+        "hitCount",
+        "nextCursorMark",
+        "nextPageUrl",
+        "request",
+        "resultList"
+      ],
+      "total": 269
+    },
+    {
+      "platform": "pubmed",
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=lifelogging&retmode=json&retmax=1",
+      "status": 200,
+      "bytes": 364,
+      "content_type": "application/json; charset=UTF-8",
+      "keys": [
+        "header",
+        "esearchresult"
+      ],
+      "total": null
+    },
+    {
+      "platform": "semanticscholar",
+      "url": "https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=%22lifelogging%22&fields=title%2Cyear%2CexternalIds%2Cabstract%2Curl",
+      "status": 200,
+      "bytes": 1264503,
+      "content_type": "application/json",
+      "keys": [
+        "total",
+        "token",
+        "data"
+      ],
+      "total": 812
+    },
+    {
+      "platform": "arxiv",
+      "url": "https://export.arxiv.org/api/query?search_query=all%3Alifelogging&max_results=1",
+      "status": 200,
+      "bytes": 2888,
+      "content_type": "application/atom+xml; charset=utf-8"
+    },
+    {
+      "platform": "dblp",
+      "url": "https://dblp.org/search/publ/api?q=lifelogging&format=json&h=1",
+      "status": 202,
+      "bytes": 2977,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "platform": "google_scholar",
+      "url": "https://scholar.google.com/scholar?q=lifelogging+autobiographical+memory",
+      "status": 200,
+      "bytes": 143536,
+      "content_type": "text/html; charset=ISO-8859-1"
+    },
+    {
+      "platform": "doaj",
+      "url": "https://doaj.org/api/search/articles/bibjson.title%3Alifelogging",
+      "status": 200,
+      "bytes": 28907,
+      "content_type": "application/json",
+      "keys": [
+        "total",
+        "page",
+        "pageSize",
+        "timestamp",
+        "query",
+        "results",
+        "next",
+        "last"
+      ],
+      "total": 13
+    },
+    {
+      "platform": "cnki",
+      "url": "https://kns.cnki.net/kns8s/defaultresult/index?kw=%E8%87%AA%E4%BC%A0%E4%BD%93%E8%AE%B0%E5%BF%86+%E7%BA%BF%E7%B4%A2",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kns.cnki.net'. (_ssl.c:1081)>"
+    },
+    {
+      "platform": "wanfang",
+      "url": "https://s.wanfangdata.com.cn/paper?q=%E8%87%AA%E4%BC%A0%E4%BD%93%E8%AE%B0%E5%BF%86+%E7%BA%BF%E7%B4%A2",
+      "status": 200,
+      "bytes": 171424,
+      "content_type": "text/html"
+    },
+    {
+      "platform": "psycnet",
+      "url": "https://psycnet.apa.org/search/results?term=autobiographical+memory+photographs",
+      "status": 200,
+      "bytes": 8162,
+      "content_type": "text/html; charset=UTF-8"
+    }
+  ]
+}

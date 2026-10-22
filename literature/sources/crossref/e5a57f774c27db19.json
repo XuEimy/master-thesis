@@ -1,0 +1,165 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2026-10-22T05:46:25Z",
+      "timestamp": 1792647985420,
+      "version": "4.5.0"
+    },
+    "reference-count": 0,
+    "publisher": "American Psychological Association (APA)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Psychological Review"
+    ],
+    "DOI": "10.1037/0033-295x.107.2.261",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2005-10-05T16:09:06Z",
+      "timestamp": 1128528546000
+    },
+    "page": "261-288",
+    "source": "Crossref",
+    "is-referenced-by-count": 3163,
+    "title": [
+      "The construction of autobiographical memories in the self-memory system."
+    ],
+    "prefix": "10.1037",
+    "volume": "107",
+    "author": [
+      {
+        "given": "Martin A.",
+        "family": "Conway",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christopher W.",
+        "family": "Pleydell-Pearce",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "published-online": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "container-title": [
+      "Psychological Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/journals/rev/107/2/261.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2024-02-06T15:22:11Z",
+      "timestamp": 1707232931000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1037/0033-295X.107.2.261"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "references-count": 0,
+    "aliases": [
+      "10.1037//0033-295x.107.2.261"
+    ],
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2000
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2000-15248-002",
+      "10789197"
+    ],
+    "URL": "https://doi.org/10.1037/0033-295x.107.2.261",
+    "relation": {},
+    "ISSN": [
+      "1939-1471",
+      "0033-295X"
+    ],
+    "issn-type": [
+      {
+        "value": "1939-1471",
+        "type": "electronic"
+      },
+      {
+        "value": "0033-295X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  }
+}

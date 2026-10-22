@@ -1,0 +1,506 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          18
+        ]
+      ],
+      "date-time": "2026-10-18T01:36:58Z",
+      "timestamp": 1792287418317,
+      "version": "4.4.0"
+    },
+    "reference-count": 45,
+    "publisher": "Informa UK Limited",
+    "issue": "3",
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Studies in Documentary Film"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1080/17503280.2020.1815123",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          2
+        ]
+      ],
+      "date-time": "2020-09-02T17:31:33Z",
+      "timestamp": 1599067893000
+    },
+    "page": "203-219",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "The autobiographical documentary: archive and montage to represent the self"
+    ],
+    "prefix": "10.1080",
+    "volume": "15",
+    "author": [
+      {
+        "given": "Vladimir",
+        "family": "Rosas",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Faculty of Arts, Universidad Academia de Humanismo Cristiano, Santiago, Chile"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rubén",
+        "family": "Dittus",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Communications, Universidad Central, Santiago, Chile"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          2
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "CIT0001",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08989575.2017.1288030"
+      },
+      {
+        "key": "CIT0002",
+        "volume-title": "The Poetics of Reverie: Childhood, Language and the Cosmos",
+        "author": "Bachelard G.",
+        "year": "1969"
+      },
+      {
+        "key": "CIT0003",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780195078985.001.0001",
+        "volume-title": "Documentary",
+        "author": "Barnouw E.",
+        "year": "1993"
+      },
+      {
+        "key": "CIT0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780203066935"
+      },
+      {
+        "key": "CIT0005",
+        "volume-title": "¿Qué es el cine?",
+        "author": "Bazin A.",
+        "year": "2008"
+      },
+      {
+        "key": "CIT0001a",
+        "volume-title": "51 Birch Street",
+        "author": "Black Doug",
+        "year": "2005"
+      },
+      {
+        "key": "CIT0006",
+        "first-page": "27",
+        "volume-title": "Cineastas frente al espejo",
+        "author": "Bergala A.",
+        "year": "2008"
+      },
+      {
+        "key": "CIT0007",
+        "volume-title": "El documental. La otra cara del cine",
+        "author": "Breschand J.",
+        "year": "2004"
+      },
+      {
+        "key": "CIT0008",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9781400856312.296"
+      },
+      {
+        "key": "CIT0009",
+        "volume-title": "New Documentary: A Critical Introduction",
+        "author": "Bruzzi S.",
+        "year": "2000"
+      },
+      {
+        "key": "CIT0010",
+        "unstructured": "Carpenter, L. 2011. “Marina Lutz interview: The sins of my father”.The Guardian. Accessed 19 April 2018. https://www.theguardian.com/artanddesign/2011/apr/17/photography-children."
+      },
+      {
+        "key": "CIT0002a",
+        "volume-title": "Tarnation",
+        "author": "Caouette Jonathan",
+        "year": "2003"
+      },
+      {
+        "key": "CIT0011",
+        "volume-title": "Home Movies and Other Necessary Fictions",
+        "author": "Citron M.",
+        "year": "1999"
+      },
+      {
+        "key": "CIT0012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1386/sdf.7.1.17_1"
+      },
+      {
+        "key": "CIT0013",
+        "unstructured": "Czach, E. 2008.Careless Rapture: Artifacts and Archives of the Home Movie. PhD diss. University of Rochester, New York."
+      },
+      {
+        "key": "CIT0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14682753.2017.1306338"
+      },
+      {
+        "issue": "42",
+        "key": "CIT0015",
+        "first-page": "175",
+        "volume": "22",
+        "author": "Del Rincón M.",
+        "year": "2017",
+        "journal-title": "Zer"
+      },
+      {
+        "key": "CIT0016",
+        "volume-title": "Freakshow: First Person Media and Factual Television",
+        "author": "Dovey J.",
+        "year": "2000"
+      },
+      {
+        "issue": "3",
+        "key": "CIT0017",
+        "first-page": "263",
+        "volume": "7",
+        "author": "Dowmunt T.",
+        "year": "2013",
+        "journal-title": "Studies in Documentary Film"
+      },
+      {
+        "key": "CIT0018",
+        "volume-title": "Mirror Talk: Genres of Crisis in Contemporary Autobiography",
+        "author": "Egan S.",
+        "year": "1999"
+      },
+      {
+        "key": "CIT0019",
+        "unstructured": "Erhart, J. 2001. “Performing Memory: Compensation and Redress in Contemporany Feminist First-person Documentary”.Screening the past. Accessed 29 March 2019. http://www.screeningthepast.com/2014/12/performing-memory-compensation-and-redress-in-contemporary-feminist-first-person-documentary/."
+      },
+      {
+        "key": "CIT0020",
+        "volume-title": "Un cinèma de non-fiction",
+        "author": "Guynn W.",
+        "year": "1990"
+      },
+      {
+        "key": "CIT0021",
+        "volume-title": "Cine documental y memoria. Material pedagógico",
+        "author": "Guzmán P.",
+        "year": "2018"
+      },
+      {
+        "key": "CIT0022",
+        "volume-title": "Afterimage: Film, Trauma and the Holocaust",
+        "author": "Hirsch J.",
+        "year": "2004"
+      },
+      {
+        "key": "CIT0023",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08989575.2017.1337995"
+      },
+      {
+        "key": "CIT0024",
+        "volume-title": "The Autobiographical Documentary in America",
+        "author": "Lane J.",
+        "year": "2002"
+      },
+      {
+        "key": "CIT0025",
+        "volume-title": "The Cinema of Me: The Self and Subjectivity in First Person Documentary",
+        "author": "Lebow A.",
+        "year": "2012"
+      },
+      {
+        "key": "CIT0026",
+        "first-page": "7",
+        "volume": "19",
+        "author": "Lejeune P.",
+        "year": "1987",
+        "journal-title": "Revue Belge du Cinema"
+      },
+      {
+        "key": "CIT0027",
+        "volume-title": "El pacto autobiográfico y otros estudios",
+        "author": "Lejeune P.",
+        "year": "1994"
+      },
+      {
+        "key": "CIT0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1353/bio.1999.0015"
+      },
+      {
+        "key": "CIT0003a",
+        "volume-title": "The Marina Experiment",
+        "author": "Lutz Marina",
+        "year": "2009"
+      },
+      {
+        "key": "CIT0029",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF01205448"
+      },
+      {
+        "key": "CIT0030",
+        "volume-title": "Cineastas frente al espejo",
+        "author": "Martín Gutiérrez G.",
+        "year": "2008"
+      },
+      {
+        "key": "CIT0031",
+        "volume-title": "La invención de la verdad. Nueve ensayos sobre cine documental",
+        "author": "Mendoza C.",
+        "year": "2008"
+      },
+      {
+        "key": "CIT0032",
+        "volume-title": "Introduction to Documentary",
+        "author": "Nichols B.",
+        "year": "2001"
+      },
+      {
+        "key": "CIT0033",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13569320500382500"
+      },
+      {
+        "issue": "2",
+        "key": "CIT0034",
+        "first-page": "340",
+        "volume": "1",
+        "author": "Odin R.",
+        "year": "1979",
+        "journal-title": "Revue D’Esthétique"
+      },
+      {
+        "key": "CIT0035",
+        "volume-title": "Documenting gay men",
+        "author": "Pullen C.",
+        "year": "2007"
+      },
+      {
+        "key": "CIT0036",
+        "first-page": "140",
+        "volume-title": "Collecting Visible Evidences",
+        "author": "Renov Michael.",
+        "year": "1999"
+      },
+      {
+        "key": "CIT0037",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08989575.2019.1542826"
+      },
+      {
+        "key": "CIT0038",
+        "volume-title": "Doing Family Photography the Domestic, the Public and the Politics of Sentiment. Re-Materialising Cultural Geography",
+        "author": "Rose G.",
+        "year": "2010"
+      },
+      {
+        "key": "CIT0039",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5749/minnesota/9780816645862.001.0001"
+      },
+      {
+        "key": "CIT0040",
+        "volume-title": "Desvíos de lo real. El cine de no ficción",
+        "author": "Weinrichter A.",
+        "year": "2004"
+      },
+      {
+        "issue": "2",
+        "key": "CIT0041",
+        "first-page": "3",
+        "volume": "12",
+        "author": "Wilson S.",
+        "year": "2011",
+        "journal-title": "Online Magazine of the Visual Narrative"
+      },
+      {
+        "key": "CIT0042",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/j.ctvr7fc4q.26"
+      }
+    ],
+    "container-title": [
+      "Studies in Documentary Film"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17503280.2020.1815123",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          13
+        ]
+      ],
+      "date-time": "2024-08-13T02:39:31Z",
+      "timestamp": 1723516771000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17503280.2020.1815123"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          2
+        ]
+      ]
+    },
+    "references-count": 45,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            9,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/17503280.2020.1815123"
+    ],
+    "URL": "https://doi.org/10.1080/17503280.2020.1815123",
+    "relation": {},
+    "ISSN": [
+      "1750-3280",
+      "1750-3299"
+    ],
+    "issn-type": [
+      {
+        "value": "1750-3280",
+        "type": "print"
+      },
+      {
+        "value": "1750-3299",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rsdf20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rsdf20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2019-01-25",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-08-02",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-09-02",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

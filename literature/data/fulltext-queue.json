@@ -1,0 +1,704 @@
+[
+  {
+    "id": "L9c2fa5792ce5",
+    "doi": "10.1037/0033-295x.107.2.261",
+    "title": "The construction of autobiographical memories in the self-memory system.",
+    "url": "https://doi.org/10.1037/0033-295x.107.2.261",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读知识层级、目标调控及直接与生成性提取的原文定义。"
+  },
+  {
+    "id": "L66e09ba76048",
+    "doi": "10.1111/j.1745-6916.2006.00017.x",
+    "title": "The Basic-Systems Model of Episodic Memory",
+    "url": "https://doi.org/10.1111/j.1745-6916.2006.00017.x",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读各系统的相互作用及其支持证据，区分直接采集与间接唤起。"
+  },
+  {
+    "id": "Ld76a50aa49ec",
+    "doi": "10.1146/annurev-psych-010419-051101",
+    "title": "Event Perception and Memory",
+    "url": "https://doi.org/10.1146/annurev-psych-010419-051101",
+    "status": "PDF 直取 HTTP 403；摘要可读",
+    "action": "尝试机构订阅或作者稿",
+    "question": "核读自然事件与实验材料的区别，以及边界对跨事件记忆的影响。"
+  },
+  {
+    "id": "Lf5b683d3beba",
+    "doi": "10.1177/0963721413475622",
+    "title": "Narrative Identity",
+    "url": "https://doi.org/10.1177/0963721413475622",
+    "status": "出版社显示 Restricted access；摘要可读",
+    "action": "优先机构登录或合法作者稿",
+    "question": "区分事件级回忆与生命故事级叙事，核读文化情境与意义建构。"
+  },
+  {
+    "id": "L0deb95a5d02c",
+    "doi": "10.1177/27000710241264452",
+    "title": "Autobiographical memory functions as a stable property of narrative identity",
+    "url": "https://doi.org/10.1177/27000710241264452",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核对功能编码、稳定性效应、样本流失和事件类型。"
+  },
+  {
+    "id": "L4a34232367f4",
+    "doi": "10.1177/1470357207084865",
+    "title": "Digital photography: communication, identity, memory",
+    "url": "https://doi.org/10.1177/1470357207084865",
+    "status": "作者接受稿已下载，部分正文已读",
+    "action": "本机 sources/fulltext/vanDijck-2008.pdf；继续核读，不需先登录",
+    "question": "作者接受稿已获取；继续核读全文，并追溯与本题有关的原始研究。"
+  },
+  {
+    "id": "L183253b41130",
+    "doi": "10.1177/1461444814532062",
+    "title": "Technologies of memory: Practices of remembering in analogue and digital photography",
+    "url": "https://doi.org/10.1177/1461444814532062",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读材料来源与分析方式，比较具体人群和使用情境。"
+  },
+  {
+    "id": "L9c89b2479f6b",
+    "doi": "10.1177/1750698019829891",
+    "title": "Blended memory: A framework for understanding distributed autobiographical remembering with photography",
+    "url": "https://doi.org/10.1177/1750698019829891",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读两研究与后续 Cued recall 是否共用样本，建立报告与研究对应。"
+  },
+  {
+    "id": "Le8fa72e5fa6b",
+    "doi": "10.1177/17506980211073093",
+    "title": "Cued recall: Using photo-elicitation to examine the distributed processes of remembering with photographs",
+    "url": "https://doi.org/10.1177/17506980211073093",
+    "status": "开放获取网页，方法与结果开头已读；再次打开超时",
+    "action": "重试开放正文；无需据超时推定需订阅",
+    "question": "继续核读后续结果与讨论；核对与 Blended memory 的样本重叠。"
+  },
+  {
+    "id": "L956cd606b49d",
+    "doi": "10.1080/14725860220137345",
+    "title": "Talking about pictures: A case for photo elicitation",
+    "url": "https://doi.org/10.1080/14725860220137345",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读取材来源、访谈者作用及图片选择方法。"
+  },
+  {
+    "id": "Ldf9584fe5f5e",
+    "doi": "10.1080/1472586x.2011.571888",
+    "title": "Personal photography, digital technologies and the uses of the visual",
+    "url": "https://doi.org/10.1080/1472586x.2011.571888",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读各研究的样本和方法，提炼适合访谈的实践问题。"
+  },
+  {
+    "id": "L527b74338803",
+    "doi": "10.1080/17503280.2020.1815123",
+    "title": "The autobiographical documentary: archive and montage to represent the self",
+    "url": "https://doi.org/10.1080/17503280.2020.1815123",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读片段分析与档案、访谈、观察素材的对应方式。"
+  },
+  {
+    "id": "Ldf06caacd7e3",
+    "doi": "10.1080/17503280.2024.2350603",
+    "title": "Cinematic hometactics: negotiating belonging in first-person documentary",
+    "url": "https://doi.org/10.1080/17503280.2024.2350603",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读三种层次的重叠、作者立场与可迁移的记录方法。"
+  },
+  {
+    "id": "Lcafe4c85f846",
+    "doi": "10.1002/acp.4150",
+    "title": "When having photographs of events influences the visual perspective of autobiographical memories",
+    "url": "https://doi.org/10.1002/acp.4150",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读自报告照片分类、控制变量及各研究设计。"
+  },
+  {
+    "id": "L613ac28f19a2",
+    "doi": "10.1177/19485506231163012",
+    "title": "Picturing Your Life: The Role of Imagery Perspective in Personal Photos",
+    "url": "https://doi.org/10.1177/19485506231163012",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读各研究因变量，将选择、意义唤起与喜爱程度分开。"
+  },
+  {
+    "id": "L6332300cdd6b",
+    "doi": "10.1080/09658211.2024.2377193",
+    "title": "Accuracy and completeness of autobiographical memory: evidence from a wearable camera study",
+    "url": "https://doi.org/10.1080/09658211.2024.2377193",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读计分单元、遗漏分类、上界估计和准确性评分。"
+  },
+  {
+    "id": "Lb9adc3c94c5f",
+    "doi": "10.3389/fpsyg.2025.1574855",
+    "title": "Emotional impact of using different sensory modalities for autobiographical activation: a systematic review and meta-analysis",
+    "url": "https://doi.org/10.3389/fpsyg.2025.1574855",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读纳入人群、感官操作、异质性和偏倚；追溯单篇实验。"
+  },
+  {
+    "id": "L8a305bce8eb1",
+    "doi": "10.1080/1047840x.2024.2384125",
+    "title": "Understanding Autobiographical Memory in the Digital Age: The AMEDIA-Model",
+    "url": "https://doi.org/10.1080/1047840x.2024.2384125",
+    "status": "机构库返回 HTML，出版社直取 HTTP 403",
+    "action": "先尝试可用机构库版本；必要时登录出版社；403 不等于已证实付费墙",
+    "question": "原文下载返回 HTML，网页直取 403；继续取得正文比较本论文拟议映射的增量。"
+  },
+  {
+    "id": "L0fc4062d5c52",
+    "doi": "10.1080/09658211.2025.2602077",
+    "title": "Birthday memories: an experimental think-aloud study on autobiographical remembering in the digital age",
+    "url": "https://doi.org/10.1080/09658211.2025.2602077",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读生日任务、编码及准确性验证；区分网络首发 2025 与卷期 2026。"
+  },
+  {
+    "id": "Lb01e1959da3c",
+    "doi": "10.1017/mem.2024.16",
+    "title": "AI and memory",
+    "url": "https://doi.org/10.1017/mem.2024.16",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读概念定义与案例来源，将相关论点转化为具体表达边界。"
+  },
+  {
+    "id": "L79045be90d7c",
+    "doi": "10.2196/30517",
+    "title": "Lifelog Retrieval From Daily Digital Data: Narrative Review",
+    "url": "https://doi.org/10.2196/30517",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读研究表格，分别提取传感、事件组织、检索及用户评价。"
+  },
+  {
+    "id": "L97d001746be9",
+    "doi": "10.3758/s13428-023-02145-x",
+    "title": "Automated scoring of the autobiographical interview with natural language processing",
+    "url": "https://doi.org/10.3758/s13428-023-02145-x",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读评分标注、数据划分、预处理及迁移限制。"
+  },
+  {
+    "id": "Lb3a6c4b99118",
+    "doi": "10.3758/s13428-025-02767-3",
+    "title": "Modeling memories, predicting prospections: Automated scoring of autobiographical detail narration using large language models",
+    "url": "https://doi.org/10.3758/s13428-025-02767-3",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "核读模型训练、外部验证、错误类型、开放实现与语言范围。"
+  },
+  {
+    "id": "L922e7eea8236",
+    "doi": "10.3724/sp.j.1042.2014.00269",
+    "title": "Functions, Characteristics, and Theoretical Explanations of Involuntary Autobiographical Memories",
+    "url": "https://doi.org/10.3724/sp.j.1042.2014.00269",
+    "status": "摘要已核读，尚未逐一尝试全文获取",
+    "action": "先检查开放版本；需要时再机构登录",
+    "question": "继续取得中文全文，追溯直接提取与线索启动研究。"
+  },
+  {
+    "status": "Europe PMC 全文 XML 两次 HTTP 500；摘要可读",
+    "action": "尝试 PMC 网页或出版社；不能据 500 判为付费墙",
+    "id": "L46dfecb96f0e",
+    "doi": "10.1098/rstb.2019.0693",
+    "title": "Involuntary autobiographical memories and their relation to other forms of spontaneous thoughts",
+    "url": "https://doi.org/10.1098/rstb.2019.0693",
+    "question": "全文 XML 两次返回 500，继续尝试出版社或 PMC 网页；核对线索重叠与时间距离证据。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "Lfe77445a526e",
+    "doi": "10.1080/09658211.2023.2294690",
+    "title": "Direct retrieval as a theory of involuntary autobiographical memories: evaluation and future directions",
+    "url": "https://doi.org/10.1080/09658211.2023.2294690",
+    "question": "核读具体预测与不支持证据，和 Conway 2000 建立明确的修正关系。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L957a8fda7679",
+    "doi": "10.1007/s00426-014-0632-y",
+    "title": "Why are we not flooded by involuntary autobiographical memories? Few cues are more effective than many",
+    "url": "https://doi.org/10.1007/s00426-014-0632-y",
+    "question": "核对样本、线索暴露及负荷操纵，分清提取减少和报告减少。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L040e355d7db5",
+    "doi": "10.1080/09658211.2023.2296826",
+    "title": "The frequency and cueing mechanisms of involuntary autobiographical memories while driving",
+    "url": "https://doi.org/10.1080/09658211.2023.2296826",
+    "question": "核读记录过程与编码；仅借鉴情境和回忆链的观察思路。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "Ldb07c563ccf2",
+    "doi": "10.1002/acp.4225",
+    "title": "Studying naturally occurring involuntary autobiographical memories with the diary approach: A comparison of diary methods",
+    "url": "https://doi.org/10.1002/acp.4225",
+    "question": "核读分组、遵从情况及疲劳效应，选择与问题对应的采样方式。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "Lcf0ed59a3c1c",
+    "doi": "10.1080/09658211.2014.900083",
+    "title": "Individual differences in recognising involuntary autobiographical memories: Impact on the reporting of abstract cues",
+    "url": "https://doi.org/10.1080/09658211.2014.900083",
+    "question": "核读样本及指导语，考虑用户研究前的定义说明与例子是否改变报告。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "Laa124d78caa2",
+    "doi": "10.1007/s00426-020-01304-5",
+    "title": "Through the gateway of the senses: investigating the influence of sensory modality-specific retrieval cues on involuntary episodic memory",
+    "url": "https://doi.org/10.1007/s00426-020-01304-5",
+    "question": "核对材料、间隔、模态操作和依变量，连接编码—提取匹配。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L5e415db16444",
+    "doi": "10.1016/j.copsyc.2022.101334",
+    "title": "Capturing life or missing it: How mindful photo-taking can affect experiences",
+    "url": "https://doi.org/10.1016/j.copsyc.2022.101334",
+    "question": "追溯支持和反例，分别记录拍摄目标、注意过程及后续回看。"
+  },
+  {
+    "status": "正文已核读，附录／原始数据等尚未复核",
+    "action": "按文献卡及 verification-notes.json 进行后续核实",
+    "id": "L66afd41ae9d5",
+    "doi": "10.3758/s13423-022-02149-2",
+    "title": "Does taking multiple photos lead to a photo-taking-impairment effect?",
+    "url": "https://doi.org/10.3758/s13423-022-02149-2",
+    "question": "正文已读；核对图 1、开放数据及实验 2 结果段内部方向表述，再引用具体效应量。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L57f39ae4d3d5",
+    "doi": "10.1016/j.jarmac.2020.11.002",
+    "title": "Photo-taking impairs memory on perceptual and conceptual memory tests.",
+    "url": "https://doi.org/10.1016/j.jarmac.2020.11.002",
+    "question": "核读实验逐项结果，不将同一论文四项实验当四篇独立文献。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L59770441f4db",
+    "doi": "10.1016/j.jarmac.2017.10.004",
+    "title": "Forget in a flash: A further investigation of the photo-taking-impairment effect.",
+    "url": "https://doi.org/10.1016/j.jarmac.2017.10.004",
+    "question": "核读相机操作及预期操纵检查，比较注意脱离解释。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "Ld76d04bc25fe",
+    "doi": "10.1093/jcr/ucx112",
+    "title": "How the Intention to Share Can Undermine Enjoyment: Photo-Taking Goals and Evaluation of Experiences",
+    "url": "https://doi.org/10.1093/jcr/ucx112",
+    "question": "核对正文与补充研究范围；作者博客概述 12 项研究，摘要为 5 项，不能混用计数。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L55df4ef85853",
+    "doi": "10.1145/2556288.2557178",
+    "title": "Designing for slowness, anticipation and re-visitation: a long term field study of the photobox",
+    "url": "https://doi.org/10.1145/2556288.2557178",
+    "question": "取得并核读完整方法及结果；区分 2012 设计论文与 2014 部署研究。"
+  },
+  {
+    "status": "正文已核读，附录／原始数据等尚未复核",
+    "action": "按文献卡及 verification-notes.json 进行后续核实",
+    "id": "L91ea34ef5d41",
+    "doi": "10.1002/evan.70051",
+    "title": "Homo Memorabiliaxis: Souvenirs and the Evolution of Autobiographical Memory and Self",
+    "url": "https://doi.org/10.1002/evan.70051",
+    "question": "正文及出版日期已核；后续追溯物质参与、来源监控和现代纪念物研究，避免把进化假说当设计定律。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L4ea81dc80bf2",
+    "doi": "10.1145/1718918.1718985",
+    "title": "Sonic souvenirs: exploring the paradoxes of recorded sound for family remembering",
+    "url": "https://doi.org/10.1145/1718918.1718985",
+    "question": "核读取材与讨论方法，提取声音记录什么、为何保留的实践问题。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L3eeb4dd1ef24",
+    "doi": "10.1145/2702123.2702460",
+    "title": "Things That Make Us Reminisce: Everyday Memory Cues as Opportunities for Interaction Design",
+    "url": "https://doi.org/10.1145/2702123.2702460",
+    "question": "核读日记提示及分析，和日记方法差异文献比较。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L9f49f261c95f",
+    "doi": "10.1177/2372732218788092",
+    "title": "Self-Generated Memory Cues: Effective Tools for Learning, Training, and Remembering",
+    "url": "https://doi.org/10.1177/2372732218788092",
+    "question": "核读原始实验，分别考察本人选择、本人命名与算法生成。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L75c192ef2f83",
+    "doi": "10.1177/0956797613504438",
+    "title": "Point-and-Shoot Memories: The Influence of Taking Photos on Memory for a Museum Tour",
+    "url": "https://doi.org/10.1177/0956797613504438",
+    "question": "核读过程、测验和延迟，与后续自主拍摄及多张拍摄实验逐项比较。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "Ld4d51b3270dc",
+    "doi": "10.1177/0956797617694868",
+    "title": "Photographic Memory: The Effects of Volitional Photo Taking on Memory for Visual and Auditory Aspects of an Experience",
+    "url": "https://doi.org/10.1177/0956797617694868",
+    "question": "核读材料选择、自由度及记忆测试，与受指令拍摄研究比较。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L44a0c7588b10",
+    "doi": "10.1037/pspa0000055",
+    "title": "How taking photos increases enjoyment of experiences.",
+    "url": "https://doi.org/10.1037/pspa0000055",
+    "question": "核读九项实验的操纵及讨论；PubMed 首发日期与 Crossref 日期标记不同，保留差异。"
+  },
+  {
+    "status": "已确认开放获取；摘要或局部正文已读",
+    "action": "继续完整正文核读，无需优先等待登录",
+    "id": "Lb324c09b255a",
+    "doi": "10.1186/s41235-025-00627-4",
+    "title": "Mediated autobiographical remembering in the digital age: insights from an experimental think-aloud study",
+    "url": "https://doi.org/10.1186/s41235-025-00627-4",
+    "question": "已确认开放全文，下一步核读任务、编码、资源类别、结果及限制，和 AMEDIA 与生日研究对应。"
+  },
+  {
+    "status": "已确认开放获取；摘要或局部正文已读",
+    "action": "继续完整正文核读，无需优先等待登录",
+    "id": "L83bea44943c5",
+    "doi": "10.1017/mem.2025.3",
+    "title": "Sharing photographs on social media enhances recollection of photograph-related details",
+    "url": "https://doi.org/10.1017/mem.2025.3",
+    "question": "完整核读两项方法、对照及统计功效；将拍摄时打算分享和事后实际分享分开。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L28c05fe8325e",
+    "doi": "10.1017/mem.2022.5",
+    "title": "Remembering in the wild: recontextualising and reconciling studies of media and memory",
+    "url": "https://doi.org/10.1017/mem.2022.5",
+    "question": "核读具体比较及方法建议，用于统一不同学科证据的使用边界。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L1a777b6deb94",
+    "doi": "10.3724/sp.j.1042.2023.00480",
+    "title": "The double-edged sword effect of consumers’ photo-taking behavior on consumption experience",
+    "url": "https://doi.org/10.3724/sp.j.1042.2023.00480",
+    "question": "中文题名为《消费者拍照行为影响消费体验的双刃剑效应》；取得全文并逐条连接主要原始研究。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L91cb4d80d70b",
+    "doi": "10.1080/09658211.2026.2710049",
+    "title": "What makes you feel nostalgic? A self-generated approach to nostalgia-evoking cues",
+    "url": "https://doi.org/10.1080/09658211.2026.2710049",
+    "question": "核读编码、样本和文化背景；将开放式征集与预设分类的研究比较。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L1bb583fd0049",
+    "doi": "10.1002/mar.21194",
+    "title": "How and when taking pictures undermines the enjoyment of experiences",
+    "url": "https://doi.org/10.1002/mar.21194",
+    "question": "核读具体实验及投入程度，和 Diehl 2016 的调节条件进行直接比较。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L3dd4b7079ee6",
+    "doi": "10.5130/csr.v20i2.3995",
+    "title": "Making Room For Ghosts: Memory, History and Family Biography on Film",
+    "url": "https://doi.org/10.5130/csr.v20i2.3995",
+    "question": "核读完整作品分析、档案材料与再演的使用；区分导演自身回忆与家族记忆。"
+  },
+  {
+    "doi": "10.23991/ef.v51i2.142184",
+    "status": "机构库完整 PDF 已取得；理论方法讨论已读",
+    "action": "核读中间案例与编码，见 humanities-access.json",
+    "id": "L582c1c2017c5",
+    "title": "Engaging (with) Places: Employing audio-visual recording glasses to study emplaced attachments to everyday features of the historic urban landscape",
+    "url": "https://doi.org/10.23991/ef.v51i2.142184",
+    "question": "继续核读中间案例和编码过程，追溯 Cooke 与 Buckley 的方法来源；分析研究取材与长期生活记录的差异。"
+  },
+  {
+    "doi": "10.1080/13642529.2025.2491159",
+    "status": "开放获取论文；DOI 跳转曾 403，摘要及正文片段可读",
+    "action": "尝试出版社其他合法入口或作者机构库",
+    "id": "L495b080baad9",
+    "title": "Making memories: creative research and sensory history",
+    "url": "https://doi.org/10.1080/13642529.2025.2491159",
+    "question": "核读取样、活动过程、材料分析及限制，区分活动诱发的回忆与研究者解释；网络首发 2025、卷期 2026。"
+  },
+  {
+    "doi": "10.1111/var.12273",
+    "status": "Wiley 开放网页可读；摘要引言已读",
+    "action": "继续方法论和影片分析正文",
+    "id": "L81e9ddee0d9c",
+    "title": "Feminist Sensory Ethnography: Embodied Filmmaking as a Politic of Necessity",
+    "url": "https://doi.org/10.1111/var.12273",
+    "question": "核读三种方法在具体影片中的材料与表达，比较观察拍摄、表演和动画的不同作用；核对 2022 卷期与 2023 网络发表日期。"
+  },
+  {
+    "doi": "10.4018/978-1-6684-5337-7.ch020",
+    "status": "已读两页试读；完整章节未取得",
+    "action": "机构图书馆或出版社获取其余 21 页；不重复把试读当全文",
+    "id": "L2b60792e8294",
+    "title": "Understanding, Reactivating, and Reproducing Autobiographical Memory: Discovering the Historical Family Archive",
+    "url": "https://doi.org/10.4018/978-1-6684-5337-7.ch020",
+    "question": "获取第 438–458 页；核对对话材料、排序实例与分析，再判断对 AI 辅助表达的启发。"
+  },
+  {
+    "doi": "10.1007/s13164-026-00831-1",
+    "status": "开放 PDF 已下载，部分正文已核读",
+    "action": "按卡片继续未读章节，无需等待登录",
+    "id": "Lb139df09606c",
+    "title": "The Story of Your Life: Large Language Models and Personal Memory",
+    "url": "https://doi.org/10.1007/s13164-026-00831-1",
+    "question": "继续核读第 3.2、4 节与所引原始系统研究，对照叙事加工实验和错误记忆实验。"
+  },
+  {
+    "doi": "10.1057/s41599-025-06426-y",
+    "status": "开放 PDF 已下载，方法、结果及部分讨论已核读",
+    "action": "核对量表及多重比较，不要求本轮读完全部细节",
+    "id": "L8aa733308670",
+    "title": "What might we learn about autobiographical narrative processing from Artificial Intelligence?",
+    "url": "https://doi.org/10.1057/s41599-025-06426-y",
+    "question": "核对模型时间与提示、材料抽样、量表及多重比较；把文中回顾的前一研究与本项研究分开。实际发表为 2026，DOI 中的 2025 不是出版年。"
+  },
+  {
+    "doi": "10.1007/s00146-025-02688-x",
+    "status": "出版社显示订阅预览；摘要已读",
+    "action": "登录后核对四组结果和自我效能量表",
+    "id": "Lf5779c15aee7",
+    "title": "Stories by the campfire: use of generative A.I. voice assistants to support older adult reminiscence self-efficacy",
+    "url": "https://doi.org/10.1007/s00146-025-02688-x",
+    "question": "机构访问获取正文，核对四组人数、对比方式、量表和访谈；网上首发 2025-10-27，卷期 2026。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L5239091dfe6f",
+    "doi": "10.1145/3772318.3791390",
+    "title": "Remembering with Reminiscope: Codesigning with Generative AI for Reminiscence Among Older Adults",
+    "url": "https://doi.org/10.1145/3772318.3791390",
+    "question": "核读招募、拼贴到生成的步骤、用户修改权和分析方法；标明报告与参与者重叠。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L647b3b66bc22",
+    "doi": "10.1145/3706598.3713810",
+    "title": "Chorus of the Past: Toward Designing a Multi-agent Conversational Reminiscence System with Digital Artifacts for Older Adults",
+    "url": "https://doi.org/10.1145/3706598.3713810",
+    "question": "取得全文核对样本、比较设计、角色脚本及评价；检查年龄角色与内容设置的混杂。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L49092deb1e6c",
+    "doi": "10.1145/3746059.3747681",
+    "title": "StorySage: Conversational Autobiography Writing Powered by a Multi-Agent Framework",
+    "url": "https://doi.org/10.1145/3746059.3747681",
+    "question": "核读基线、任务时长、用户材料、完整度评分和生成内容核查。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L941c76b84eb6",
+    "doi": "10.1145/3708319.3733691",
+    "title": "The Kimono Era Has Long Passed: Generative AI-Assisted Reminiscence Therapy for Individuals with Late-Stage Dementia",
+    "url": "https://doi.org/10.1145/3708319.3733691",
+    "question": "核读参与者过程、照护者代理评价、影像错误和研究边界，追溯早期原型报告。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L196f2c574c99",
+    "doi": "10.1145/3613904.3642800",
+    "title": "Exploring the Design of Generative AI in Supporting Music-based Reminiscence for Older Adults",
+    "url": "https://doi.org/10.1145/3613904.3642800",
+    "question": "核读工作坊材料、参与者认知情况、音乐选择和生成参与方式；核对预印本与正式版。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L3652dc4b4d7d",
+    "doi": "10.1145/3654777.3676336",
+    "title": "Memory Reviver: Supporting Photo-Collection Reminiscence for People with Visual Impairment via a Proactive Chatbot",
+    "url": "https://doi.org/10.1145/3654777.3676336",
+    "question": "核读基线、主动策略触发、照片信息来源与错误处理；明确照片描述和用户原有记忆的区别。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L4c049cf626c3",
+    "doi": "10.1145/3772318.3791325",
+    "title": "Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation",
+    "url": "https://doi.org/10.1145/3772318.3791325",
+    "question": "核读比较条件、样本经历、量表和质性分析；查明错误记忆是测量结果还是访谈担忧。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L825137c68a98",
+    "doi": "10.1145/3757650",
+    "title": "Remini: Leveraging Chatbot-Mediated Mutual Reminiscence for Promoting Positive Affect and Feeling of Connectedness among Loved Ones",
+    "url": "https://doi.org/10.1145/3757650",
+    "question": "核读组间和组内设计分别如何实施、统计单位和基线内容；把社会结果与个人记忆结果分开。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "Le240ce18d19c",
+    "doi": "10.1145/3613905.3650979",
+    "title": "Unlocking Memories with AI: Exploring the Role of AI-Generated Cues in Personal Reminiscing",
+    "url": "https://doi.org/10.1145/3613905.3650979",
+    "question": "核读参与者关系、问题生成依据、物件选择、流程和编码，明确是否有可比基线。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "Lf3f46330b194",
+    "doi": "10.1016/j.regg.2023.01.006",
+    "title": "Programa de reminiscencia apoyado en inteligencia artificial y basado en el patrimonio cultural inmaterial dirigido a personas mayores: un estudio piloto",
+    "url": "https://doi.org/10.1016/j.regg.2023.01.006",
+    "question": "核读不同认知组、退出情况、技术个性化方式和原始量表，避免把 AI 标签当作独立干预效应。"
+  },
+  {
+    "doi": "10.1145/3706598.3713697",
+    "status": "预印本 PDF 已读方法；正式版 MIT 下载 429，ACM 403",
+    "action": "取得修订正式版后再引用精确效应，不把访问失败写成付费墙",
+    "id": "Ldf9856898a99",
+    "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+    "url": "https://doi.org/10.1145/3706598.3713697",
+    "question": "MIT 正式版下载返回 429，ACM 返回 403；继续取得修订后的 VOR，核对统计检验、图表、注册与预印本差异，暂不引用倍数效果。"
+  },
+  {
+    "doi": "10.48550/arxiv.2408.04681",
+    "status": "预印本 PDF 已下载并读方法，正式发表尚未确认",
+    "action": "保留作为诱导对话的边界证据，本轮不展开司法研究",
+    "id": "L49868b991da5",
+    "title": "Conversational AI Powered by Large Language Models Amplifies False Memories in Witness Interviews",
+    "url": "https://doi.org/10.48550/arxiv.2408.04681",
+    "question": "核读完整结果和统计补充，追查正式发表；确认剔除、后测缺失和不同条件的信息量。"
+  },
+  {
+    "doi": "10.1145/3708359.3712112",
+    "status": "正式 PDF 已下载，方法及部分结果已读",
+    "action": "核对方法与结果的多重比较表述差异",
+    "id": "L748585a965b5",
+    "title": "Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation",
+    "url": "https://doi.org/10.1145/3708359.3712112",
+    "question": "核读原始数据、五组实际人数和任务时长；方法写 Bonferroni 而结果写 FDR，需查注册及分析代码；不混同另一项 200 人录像研究。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L0491889e77e1",
+    "doi": "10.1145/3772318.3790927",
+    "title": "“I'm happy even though it's not real”: GenAI Photo Editing as a Remembering Experience",
+    "url": "https://doi.org/10.1145/3772318.3790927",
+    "question": "核读招募、RX 引导、照片选择、研究者参与和反例；取得完整正文核实与预印本的对应。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L0ca00270a6ab",
+    "doi": "10.1525/tph.2015.37.4.14",
+    "title": "Eliciting Sound Memories",
+    "url": "https://doi.org/10.1525/tph.2015.37.4.14",
+    "question": "取得原文，区分声音实物提示、场景回返和语言回忆声音的作用。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L112ba6f08e79",
+    "doi": "10.1080/00940798.2022.2049586",
+    "title": "Sensory Roadmaps: How to Capture Sensory Detail in an Interview and Why Doing So Has Exciting Implications for Oral History",
+    "url": "https://doi.org/10.1080/00940798.2022.2049586",
+    "question": "取得期刊全文，核对具体提问与原始话语；作者博客是补充材料，不能冒充全文。"
+  },
+  {
+    "status": "摘要或局部正文已核读，尚未逐一尝试完整原文获取",
+    "action": "先检查开放版本，必要时机构登录",
+    "id": "L99e9b2003633",
+    "doi": "10.1080/10894160.2026.2612802",
+    "title": "Sensing the Palace: Somatic Elicitation in Queer Oral History",
+    "url": "https://doi.org/10.1080/10894160.2026.2612802",
+    "question": "核读访谈实践、分析和局限，比较现场声音提示与身体内在注意；不把缺少录像等同于无法回忆。"
+  },
+  {
+    "doi": "10.1527/tjsai.41-3_a-p73",
+    "status": "J-STAGE 开放摘要已读，有 HTML 和 PDF 入口",
+    "action": "按需要核读方法；不能将摘要当作完整正文",
+    "id": "Lcf363277fc92",
+    "title": "Memory Recall Support through Externalization of Remembered Scenes Using Generative AI: Evaluating the Effects of Iterative Image Modification Process",
+    "url": "https://doi.org/10.1527/tjsai.41-3_a-p73",
+    "question": "J-STAGE 开放正文可继续核读；核对样本、计数方法、修改交互与比较结果。用于区分生成过程体验和回忆结果。"
+  },
+  {
+    "doi": "10.1007/s00779-023-01726-z",
+    "status": "已确认开放全文，摘要与部分正文已读",
+    "action": "模型作为记录需求与实现的参照",
+    "id": "L127fdf870111",
+    "title": "LAD: an application design model to support the analysis of large-scale personal data collections generated by lifelogging",
+    "url": "https://doi.org/10.1007/s00779-023-01726-z",
+    "question": "开放正文；需要实现方案时进一步核对模型第 3 节，不沿全部生活日志用途扩展检索。"
+  },
+  {
+    "doi": "10.1080/17540763.2025.2607747",
+    "status": "出版社摘要及注释可读，正文显示机构访问入口",
+    "action": "登录后核对手机摄影实践材料",
+    "id": "Ld6da35af632f",
+    "title": "The fate of the ‘magical substitute’: personal photography, memory and AI",
+    "url": "https://doi.org/10.1080/17540763.2025.2607747",
+    "question": "出版社显示机构访问入口；获取正文后核对访谈材料、个人选择与平台选择的关系，不扩展为整部摄影理论史。"
+  }
+]

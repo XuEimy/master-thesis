@@ -1,0 +1,713 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2026-09-24T18:07:19Z",
+      "timestamp": 1790273239567,
+      "version": "4.1.0"
+    },
+    "reference-count": 76,
+    "publisher": "Informa UK Limited",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              18
+            ]
+          ],
+          "date-time": "2026-08-18T00:00:00Z",
+          "timestamp": 1787011200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              18
+            ]
+          ],
+          "date-time": "2026-08-18T00:00:00Z",
+          "timestamp": 1787011200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.1080/policies-text-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Memory"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          21
+        ]
+      ]
+    },
+    "DOI": "10.1080/09658211.2026.2710049",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2026-08-18T08:58:46Z",
+      "timestamp": 1787043526000
+    },
+    "page": "1061-1078",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "<i>What makes you feel nostalgic?</i>\n                    A self-generated approach to nostalgia-evoking cues"
+    ],
+    "prefix": "10.1080",
+    "volume": "34",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7239-3200",
+        "authenticated-orcid": false,
+        "given": "Alejandra",
+        "family": "Zaragoza Scherman",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Aarhus University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-5484-8945",
+        "authenticated-orcid": false,
+        "given": "Astrid Endrup",
+        "family": "Iversen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Aarhus University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-8740-8583",
+        "authenticated-orcid": false,
+        "given": "Ebbe",
+        "family": "Grarup Mollerup",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Aarhus University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_5_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00913367.2022.2036652"
+      },
+      {
+        "key": "e_1_3_5_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00913367.2022.2036652"
+      },
+      {
+        "key": "e_1_3_5_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0019006"
+      },
+      {
+        "key": "e_1_3_5_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2466/pms.1995.80.1.131"
+      },
+      {
+        "key": "e_1_3_5_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/20445410"
+      },
+      {
+        "key": "e_1_3_5_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2016.03.088"
+      },
+      {
+        "key": "e_1_3_5_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2016.03.088"
+      },
+      {
+        "key": "e_1_3_5_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.nlm.2020.107191"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_5_10_1",
+        "first-page": "613",
+        "article-title": "Remembrance of things past: Music, autobiographical memory, and emotion",
+        "volume": "19",
+        "author": "Baumgartner H.",
+        "year": "1992",
+        "unstructured": "Baumgartner, H. (1992). Remembrance of things past: Music, autobiographical memory, and emotion. Advances in Consumer Research, 19(1), 613–620.",
+        "journal-title": "Advances in Consumer Research"
+      },
+      {
+        "key": "e_1_3_5_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2015.1061012"
+      },
+      {
+        "key": "e_1_3_5_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03195869"
+      },
+      {
+        "key": "e_1_3_5_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03195836"
+      },
+      {
+        "key": "e_1_3_5_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.copsyc.2022.101544"
+      },
+      {
+        "key": "e_1_3_5_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0029069"
+      },
+      {
+        "key": "e_1_3_5_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4419-1465-1_21"
+      },
+      {
+        "key": "e_1_3_5_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699931.2019.1649247"
+      },
+      {
+        "key": "e_1_3_5_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2017.1346129"
+      },
+      {
+        "key": "e_1_3_5_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0146167213499187"
+      },
+      {
+        "key": "e_1_3_5_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0002764204266236"
+      },
+      {
+        "key": "e_1_3_5_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9781139167611"
+      },
+      {
+        "key": "e_1_3_5_22_1",
+        "volume-title": "Yearning for yesterday: A sociology of nostalgia",
+        "author": "Davis F.",
+        "year": "1979",
+        "unstructured": "Davis, F. (1979). Yearning for yesterday: A sociology of nostalgia. Free Press."
+      },
+      {
+        "key": "e_1_3_5_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13803395.2020.1825636"
+      },
+      {
+        "key": "e_1_3_5_24_1",
+        "unstructured": "European Institute for Gender Equality. (2025). Gender equality index 2025: Denmark. https://eige.europa.eu/gender-equality-index/2025/country/DK."
+      },
+      {
+        "key": "e_1_3_5_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/17506980211073093"
+      },
+      {
+        "key": "e_1_3_5_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2022.929380"
+      },
+      {
+        "key": "e_1_3_5_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0895-4356(90)90158-L"
+      },
+      {
+        "key": "e_1_3_5_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.121208.131702"
+      },
+      {
+        "key": "e_1_3_5_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781410607478-15"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_5_30_1",
+        "first-page": "542",
+        "article-title": "An exploratory study of age related vicarious nostalgia and aesthetic consumption",
+        "volume": "29",
+        "author": "Goulding C.",
+        "year": "2002",
+        "unstructured": "Goulding, C. (2002). An exploratory study of age related vicarious nostalgia and aesthetic consumption. Advances in Consumer Research, 29(1), 542–546.",
+        "journal-title": "Advances in Consumer Research"
+      },
+      {
+        "key": "e_1_3_5_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.copsyc.2023.101562"
+      },
+      {
+        "key": "e_1_3_5_32_1",
+        "unstructured": "Gross J. (2018). Use nostalgia to improve your marketing results. Forbes. https://www.forbes.com/sites/forbesagencycouncil/2018/05/24/use-nostalgia-to-improve-your-marketing-results/."
+      },
+      {
+        "key": "e_1_3_5_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0025167"
+      },
+      {
+        "key": "e_1_3_5_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xge0001521"
+      },
+      {
+        "key": "e_1_3_5_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0036790"
+      },
+      {
+        "key": "e_1_3_5_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.4095"
+      },
+      {
+        "issue": "6",
+        "key": "e_1_3_5_37_1",
+        "first-page": "376",
+        "article-title": "Medical dissertation on nostalgia (C.K. Anspach, Trans.)",
+        "volume": "2",
+        "author": "Hofer J.",
+        "year": "1934",
+        "unstructured": "Hofer, J. (1934/1688). Medical dissertation on nostalgia (C.K. Anspach, Trans.). Bulletin of the Institute of the History of Medicine, 2(6), 376–391. Original work published 1688. http://www.jstor.org/stable/44437799.",
+        "journal-title": "Bulletin of the Institute of the History of Medicine"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_5_38_1",
+        "first-page": "380",
+        "article-title": "Nostalgia: An exploratory study of themes and emotions in the nostalgic experience",
+        "volume": "19",
+        "author": "Holak S. L.",
+        "year": "1992",
+        "unstructured": "Holak, S. L., & Havlena, W. J. (1992). Nostalgia: An exploratory study of themes and emotions in the nostalgic experience. Advances in Consumer Research, 19(1), 380–387.",
+        "journal-title": "Advances in Consumer Research"
+      },
+      {
+        "key": "e_1_3_5_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/209346"
+      },
+      {
+        "key": "e_1_3_5_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210701734593"
+      },
+      {
+        "key": "e_1_3_5_41_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jenkins H. (2013). Textual poachers: Television fans and participatory culture (Updated 20th anniversary ed.). Routledge.",
+        "DOI": "10.4324/9780203114339"
+      },
+      {
+        "key": "e_1_3_5_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.copsyc.2022.101545"
+      },
+      {
+        "key": "e_1_3_5_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/emo0000720"
+      },
+      {
+        "key": "e_1_3_5_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/20563051231207850"
+      },
+      {
+        "key": "e_1_3_5_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781003364924-11"
+      },
+      {
+        "key": "e_1_3_5_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2017.06.034"
+      },
+      {
+        "key": "e_1_3_5_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/16094069231165714"
+      },
+      {
+        "key": "e_1_3_5_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8551.12740"
+      },
+      {
+        "key": "e_1_3_5_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jbusres.2012.05.021"
+      },
+      {
+        "key": "e_1_3_5_50_1",
+        "unstructured": "Meta. (2016). Engineering for nostalgia: Building a personalized ‘On This Day’ experience. https://research.facebook.com/blog/2016/3/engineering-for-nostalgia-building-a-personalized-on-this-day-experience/."
+      },
+      {
+        "key": "e_1_3_5_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2020.02185"
+      },
+      {
+        "key": "e_1_3_5_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000236"
+      },
+      {
+        "key": "e_1_3_5_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.copsyc.2023.101561"
+      },
+      {
+        "key": "e_1_3_5_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5114/cipp.2021.108146"
+      },
+      {
+        "key": "e_1_3_5_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/scan/nsv073"
+      },
+      {
+        "key": "e_1_3_5_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02699931.2022.2142525"
+      },
+      {
+        "key": "e_1_3_5_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2013.876048"
+      },
+      {
+        "key": "e_1_3_5_58_1",
+        "volume-title": "Nostalgia: A psychological resource",
+        "author": "Routledge C.",
+        "year": "2016",
+        "unstructured": "Routledge, C. (2016). Nostalgia: A psychological resource. Psychology Press."
+      },
+      {
+        "key": "e_1_3_5_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0024292"
+      },
+      {
+        "key": "e_1_3_5_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/gpr0000109"
+      },
+      {
+        "key": "e_1_3_5_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/18344909221091649"
+      },
+      {
+        "key": "e_1_3_5_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8721.2008.00595.x"
+      },
+      {
+        "key": "e_1_3_5_63_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sedikides C. Wildschut T. Routledge C. Arndt J. Hepper E. G. & Zhou X. (2015). To nostalgize: Mixing memory with affect and desire. In M. O. James & P. Z. Mark (Eds.) Advances in experimental social psychology (Vol. 51 pp. 189-273). Academic Press.",
+        "DOI": "10.1016/bs.aesp.2014.10.001"
+      },
+      {
+        "key": "e_1_3_5_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0030442"
+      },
+      {
+        "key": "e_1_3_5_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/QMR-06-2012-0027"
+      },
+      {
+        "key": "e_1_3_5_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0037760"
+      },
+      {
+        "key": "e_1_3_5_67_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wildschut T. & Sedikides C. (2020). The psychology of nostalgia: Delineating the emotion’s nature and functions. In M. H. Jacobsen (Ed.) Nostalgia now (1st ed. pp. 47-65). Routledge.",
+        "DOI": "10.4324/9780429287602-2"
+      },
+      {
+        "key": "e_1_3_5_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781003364924-6"
+      },
+      {
+        "key": "e_1_3_5_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.91.5.975"
+      },
+      {
+        "key": "e_1_3_5_70_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wilson J. L. (2020). Future imaginings: Nostalgia for unrealized possible selves. In M. H. Jacobsen (Ed.) Nostalgia now (1st ed. pp. 66–77). Routledge.",
+        "DOI": "10.4324/9780429287602-3"
+      },
+      {
+        "key": "e_1_3_5_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/ppm0000208"
+      },
+      {
+        "key": "e_1_3_5_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-93789-8_6-1"
+      },
+      {
+        "key": "e_1_3_5_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2016.11.007"
+      },
+      {
+        "key": "e_1_3_5_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.8.4.494"
+      },
+      {
+        "key": "e_1_3_5_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2008.02194.x"
+      },
+      {
+        "key": "e_1_3_5_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.appet.2019.05.007"
+      },
+      {
+        "key": "e_1_3_5_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0027236"
+      }
+    ],
+    "container-title": [
+      "Memory"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09658211.2026.2710049",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.tandfonline.com/doi/full-xml/10.1080/09658211.2026.2710049",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09658211.2026.2710049",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2026-09-24T17:27:38Z",
+      "timestamp": 1790270858000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/09658211.2026.2710049"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ]
+    },
+    "references-count": 76,
+    "journal-issue": {
+      "issue": "9",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/09658211.2026.2710049"
+    ],
+    "URL": "https://doi.org/10.1080/09658211.2026.2710049",
+    "relation": {},
+    "ISSN": [
+      "0965-8211",
+      "1464-0686"
+    ],
+    "issn-type": [
+      {
+        "value": "0965-8211",
+        "type": "print"
+      },
+      {
+        "value": "1464-0686",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pmem20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pmem20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2025-11-12",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-07-06",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-08-18",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

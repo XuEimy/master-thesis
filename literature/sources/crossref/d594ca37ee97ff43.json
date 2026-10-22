@@ -1,0 +1,586 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2026-10-12T20:49:06Z",
+      "timestamp": 1791838146223,
+      "version": "4.3.4"
+    },
+    "reference-count": 33,
+    "publisher": "American Psychological Association (APA)",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2018-03-01T00:00:00Z",
+          "timestamp": 1519862400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Applied Research in Memory and Cognition"
+    ],
+    "DOI": "10.1016/j.jarmac.2017.10.004",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2017-11-10T13:17:53Z",
+      "timestamp": 1510319873000
+    },
+    "page": "154-160",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 79,
+    "title": [
+      "Forget in a flash: A further investigation of the photo-taking-impairment effect."
+    ],
+    "prefix": "10.1037",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Julia S.",
+        "family": "Soares",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Benjamin C.",
+        "family": "Storm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0005",
+        "article-title": "For creating travel memories, Russell Banks prefers words to images",
+        "author": "Banks",
+        "year": "2015",
+        "journal-title": "PBS NewsHour"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1056",
+        "DOI": "10.1177/0956797617694868",
+        "article-title": "Photographic memory: The effects of volitional photo taking on memory for visual and auditory aspects of an experience",
+        "volume": "28",
+        "author": "Barasch",
+        "year": "2017",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "4–5",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "582",
+        "DOI": "10.1080/09602010601029780",
+        "article-title": "The use of a wearable camera, SenseCam, as a pictorial diary to improve autobiographical memory in a patient with limbic encephalitis: A preliminary report",
+        "volume": "17",
+        "author": "Berry",
+        "year": "2007",
+        "journal-title": "Neuropsychological Rehabilitation"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "417",
+        "DOI": "10.1146/annurev-psych-113011-143823",
+        "article-title": "Self-regulated learning: Beliefs, techniques, and illusions",
+        "volume": "64",
+        "author": "Bjork",
+        "year": "2013",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0025",
+        "series-title": "Image-based research: A sourcebook for qualitative researchers",
+        "first-page": "190",
+        "article-title": "Interpreting family photography as pictorial communication",
+        "author": "Chalfen",
+        "year": "1998"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "671",
+        "DOI": "10.1016/S0022-5371(72)80001-X",
+        "article-title": "Levels of processing: A framework for memory research",
+        "volume": "11",
+        "author": "Craik",
+        "year": "1972",
+        "journal-title": "Journal of Verbal Learning and Verbal Behavior"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1080/741938177",
+        "article-title": "Reinstatement of 2-year-olds’ event memory using photographs",
+        "volume": "11",
+        "author": "Deocampo",
+        "year": "2003",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1037/pspa0000055",
+        "article-title": "How taking photos increases enjoyment of experiences",
+        "volume": "111",
+        "author": "Diehl",
+        "year": "2016",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.3758/s13421-013-0362-1",
+        "article-title": "Intentional forgetting: Note-taking as a naturalistic example",
+        "volume": "42",
+        "author": "Eskritt",
+        "year": "2014",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "94",
+        "DOI": "10.1037/h0058559",
+        "article-title": "Toward a statistical theory of learning",
+        "volume": "57",
+        "author": "Estes",
+        "year": "1950",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1016/j.concog.2015.08.008",
+        "article-title": "Answers at your fingertips: Access to the Internet influences willingness to answer questions",
+        "volume": "37",
+        "author": "Ferguson",
+        "year": "2015",
+        "journal-title": "Consciousness and Cognition"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.3758/BF03197590",
+        "article-title": "Component-levels theory of the effects of spacing of repetitions on recall and recognition",
+        "volume": "7",
+        "author": "Glenberg",
+        "year": "1979",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1075/ni.12.1.14har",
+        "article-title": "Photographic visions and narrative inquiry",
+        "volume": "12",
+        "author": "Harrison",
+        "year": "2002",
+        "journal-title": "Narrative Inquiry"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "396",
+        "DOI": "10.1177/0956797613504438",
+        "article-title": "Point-and-shoot memories: The influence of taking photos on memory for a museum tour",
+        "volume": "25",
+        "author": "Henkel",
+        "year": "2014",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0075",
+        "first-page": "22",
+        "article-title": "Encoding fluency is a cue used for judgments about learning",
+        "volume": "29",
+        "author": "Hertzog",
+        "year": "2003",
+        "journal-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0080",
+        "article-title": "Photos, photos everywhere",
+        "author": "Heyman",
+        "year": "2015",
+        "journal-title": "The New York Times"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "685",
+        "DOI": "10.1080/09658211.2011.605591",
+        "article-title": "SenseCam: A wearable camera that stimulates and rehabilitates autobiographical memory",
+        "volume": "19",
+        "author": "Hodges",
+        "year": "2011",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "609",
+        "DOI": "10.1037/0033-295X.100.4.609",
+        "article-title": "How do we know that we know? The accessibility model of the feeling of knowing",
+        "volume": "100",
+        "author": "Koriat",
+        "year": "1993",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "697",
+        "DOI": "10.1080/09658211.2011.610803",
+        "article-title": "Using SenseCam with an amnesic patient: Accessing inaccessible everyday memories",
+        "volume": "19",
+        "author": "Loveday",
+        "year": "2011",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "653",
+        "DOI": "10.1145/2838739.2838758",
+        "article-title": "Do we ruin the moment? Exploring the design of novel capturing technologies",
+        "volume": "27",
+        "author": "Mols",
+        "year": "2015",
+        "journal-title": "Proceedings of the Annual Meeting of the Australian Special Interest Group for Computer Human Interaction"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0105",
+        "series-title": "Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies",
+        "article-title": "Can less be more? Contrasting limited, unlimited, and automatic picture capture for augmenting memory recall",
+        "author": "Niforatos",
+        "year": "2017"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0110",
+        "first-page": "12",
+        "article-title": "The role of underlining and annotating in remembering textual information",
+        "volume": "27",
+        "author": "Nist",
+        "year": "1987",
+        "journal-title": "Literacy Research and Instruction"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "676",
+        "DOI": "10.1016/j.tics.2016.07.002",
+        "article-title": "Cognitive offloading",
+        "volume": "20",
+        "author": "Risko",
+        "year": "2016",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "issue": "6043",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "776",
+        "DOI": "10.1126/science.1207745",
+        "article-title": "Google effects on memory: Cognitive consequences of having information at our fingertips",
+        "volume": "333",
+        "author": "Sparrow",
+        "year": "2011",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "537",
+        "DOI": "10.1177/0956797612457377",
+        "article-title": "Modifying memory: Selectively enhancing and updating personal memories for a museum tour by reactivating them",
+        "volume": "24",
+        "author": "St Jacques",
+        "year": "2013",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1177/0956797614559285",
+        "article-title": "Saving-enhanced memory: The benefits of saving on the learning and remembering of new information",
+        "volume": "26",
+        "author": "Storm",
+        "year": "2015",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1007/BF02409636",
+        "article-title": "Über die wirkung von bereichsbildungen im spurenfeld",
+        "volume": "18",
+        "author": "Von Restorff",
+        "year": "1933",
+        "journal-title": "Psychological Research"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "410",
+        "DOI": "10.1037/h0022001",
+        "article-title": "Review of the historical, empirical, and theoretical status of the von Restorff phenomenon",
+        "volume": "63",
+        "author": "Wallace",
+        "year": "1965",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1080/1047840X.2013.850148",
+        "article-title": "Supernormal: How the Internet is changing our memories and our minds",
+        "volume": "24",
+        "author": "Ward",
+        "year": "2013",
+        "journal-title": "Psychological Inquiry"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0150",
+        "series-title": "Compatible and incompatible relationships",
+        "first-page": "253",
+        "article-title": "Cognitive interdependence in close relationships",
+        "author": "Wegner",
+        "year": "1985"
+      },
+      {
+        "key": "10.1016/j.jarmac.2017.10.004_bib0155",
+        "series-title": "Theories of group behavior",
+        "first-page": "185",
+        "article-title": "Transactive memory: A contemporary analysis of the group mind",
+        "author": "Wegner",
+        "year": "1987"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "923",
+        "DOI": "10.1037/0022-3514.61.6.923",
+        "article-title": "Transactive memory in close relationships",
+        "volume": "61",
+        "author": "Wegner",
+        "year": "1991",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jarmac.2017.10.004_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1007/s00779-009-0218-7",
+        "article-title": "Easy on that trigger dad: A study of long term family photo retrieval",
+        "volume": "14",
+        "author": "Whittaker",
+        "year": "2010",
+        "journal-title": "Personal and Ubiquitous Computing"
+      }
+    ],
+    "container-title": [
+      "Journal of Applied Research in Memory and Cognition"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2211368117301687?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2211368117301687?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://psycnet.apa.org/journals/mac/7/1/154.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2025-09-24T16:22:44Z",
+      "timestamp": 1758730964000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1016/j.jarmac.2017.10.004"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "references-count": 33,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2018-15854-020"
+    ],
+    "URL": "https://doi.org/10.1016/j.jarmac.2017.10.004",
+    "relation": {},
+    "ISSN": [
+      "2211-369X",
+      "2211-3681"
+    ],
+    "issn-type": [
+      {
+        "value": "2211-369X",
+        "type": "electronic"
+      },
+      {
+        "value": "2211-3681",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Forget in a Flash: A Further Investigation of the Photo-Taking-Impairment Effect",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Applied Research in Memory and Cognition",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jarmac.2017.10.004",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2017 Society for Applied Research in Memory and Cognition. Published by Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

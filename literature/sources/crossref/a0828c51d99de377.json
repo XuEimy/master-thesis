@@ -1,0 +1,754 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ],
+      "date-time": "2026-10-14T13:05:13Z",
+      "timestamp": 1791983113748,
+      "version": "4.4.0"
+    },
+    "reference-count": 46,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2025-08-01T00:00:00Z",
+          "timestamp": 1754006400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2025-08-01T00:00:00Z",
+          "timestamp": 1754006400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Behav Res"
+    ],
+    "DOI": "10.3758/s13428-025-02767-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          1
+        ]
+      ],
+      "date-time": "2025-08-01T18:32:12Z",
+      "timestamp": 1754073132000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Modeling memories, predicting prospections: Automated scoring of autobiographical detail narration using large language models"
+    ],
+    "prefix": "10.3758",
+    "volume": "57",
+    "author": [
+      {
+        "given": "Jonas",
+        "family": "Klus",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel E.",
+        "family": "Cohen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexis N.",
+        "family": "Garcia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Hennessy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matthias R.",
+        "family": "Mehl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jessica R.",
+        "family": "Andrews‑Hanna",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0089-3243",
+        "authenticated-orcid": false,
+        "given": "Matthew D.",
+        "family": "Grilli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "2",
+        "key": "2767_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "194",
+        "DOI": "10.1037/neu0000866",
+        "volume": "37",
+        "author": "MC Acevedo-Molina",
+        "year": "2023",
+        "unstructured": "Acevedo-Molina, M. C., Thayer, S. C., Horn, K., Nkulu, H., Ryan, L., Andrews-Hanna, J. R., & Grilli, M. D. (2023). Past and future episodic detail retrieval is reduced among clinically normal older adults at higher genetic risk for late-onset Alzheimer’s disease. Neuropsychology, 37(2), 194–203. https://doi.org/10.1037/neu0000866",
+        "journal-title": "Neuropsychology"
+      },
+      {
+        "issue": "2",
+        "key": "2767_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "369",
+        "DOI": "10.1037/a0017280",
+        "volume": "25",
+        "author": "DR Addis",
+        "year": "2010",
+        "unstructured": "Addis, D. R., Musicaro, R., Pan, L., & Schacter, D. L. (2010). Episodic simulation of past and future events in older adults: Evidence from an experimental recombination task. Psychology and Aging, 25(2), 369. https://doi.org/10.1037/a0017280",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "issue": "1",
+        "key": "2767_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "33",
+        "DOI": "10.1111/j.1467-9280.2008.02043.x",
+        "volume": "19",
+        "author": "DR Addis",
+        "year": "2008",
+        "unstructured": "Addis, D. R., Wong, A. T., & Schacter, D. L. (2008). Age-related changes in the episodic simulation of future events. Psychological Science, 19(1), 33–41. https://doi.org/10.1111/j.1467-9280.2008.02043.x",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "2767_CR4",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bondi, M. W., Edmonds, E. C., Jak, A. J., Clark, L. R., Delano-Wood, L., McDonald, C. R., Nation, D. A., Libon, D. J., Au, R., Galasko, D., Salmon, D. P., & Initiative, for the A. D. N. (2014). Neuropsychological criteria for mild cognitive impairment improves diagnostic precision, biomarker associations, and progression rates. Journal of Alzheimer’s Disease, 42(1), 275–289. https://doi.org/10.3233/JAD-140276",
+        "DOI": "10.3233/JAD-140276"
+      },
+      {
+        "key": "2767_CR5",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Chung, H. W., Hou, L., Longpre, S., Zoph, B., Tay, Y., Fedus, W., Li, Y., Wang, X., Dehghani, M., Brahma, S., Webson, A., Gu, S. S., Dai, Z., Suzgun, M., Chen, X., Chowdhery, A., Castro-Ros, A., Pellat, M., Robinson, K., … Wei, J. (2022). Scaling Instruction-Finetuned Language Models (arXiv:2210.11416). arXiv. https://doi.org/10.48550/arXiv.2210.11416",
+        "DOI": "10.48550/arXiv.2210.11416"
+      },
+      {
+        "issue": "1",
+        "key": "2767_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "113",
+        "DOI": "10.1017/S1351324920000601",
+        "volume": "27",
+        "author": "R Dale",
+        "year": "2021",
+        "unstructured": "Dale, R. (2021). GPT-3: What’s it good for? Natural Language Engineering, 27(1), 113–118. https://doi.org/10.1017/S1351324920000601",
+        "journal-title": "Natural Language Engineering"
+      },
+      {
+        "key": "2767_CR7",
+        "unstructured": "DeepL Translate. (n.d.). Retrieved November 22, 2024, from https://www.deepl.com/translator"
+      },
+      {
+        "key": "2767_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "10088",
+        "DOI": "10.52202/075280-0441",
+        "volume": "36",
+        "author": "T Dettmers",
+        "year": "2023",
+        "unstructured": "Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). QLoRA: Efficient finetuning of quantized LLMs. Advances in Neural Information Processing Systems, 36, 10088–10115.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "2767_CR9",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In J. Burstein, C. Doran, & T. Solorio (Eds.), Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 4171–4186). Association for Computational Linguistics. https://doi.org/10.18653/v1/N19-1423",
+        "DOI": "10.18653/v1/N19-1423"
+      },
+      {
+        "key": "2767_CR10",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Dubey, A., Jauhri, A., Pandey, A., Kadian, A., Al-Dahle, A., Letman, A., Mathur, A., Schelten, A., Yang, A., Fan, A., Goyal, A., Hartshorn, A., Yang, A., Mitra, A., Sravankumar, A., Korenev, A., Hinsvark, A., Rao, A., Zhang, A., … Zhao, Z. (2024). The Llama 3 Herd of Models (arXiv:2407.21783). arXiv. https://doi.org/10.48550/arXiv.2407.21783",
+        "DOI": "10.48550/arXiv.2407.21783"
+      },
+      {
+        "key": "2767_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.cortex.2017.01.007",
+        "volume": "89",
+        "author": "C Esopenko",
+        "year": "2017",
+        "unstructured": "Esopenko, C., & Levine, B. (2017). Autobiographical memory and structural brain changes in chronic phase TBI. Cortex, 89, 1–10. https://doi.org/10.1016/j.cortex.2017.01.007",
+        "journal-title": "Cortex"
+      },
+      {
+        "key": "2767_CR12",
+        "volume-title": "Deep Learning",
+        "author": "I Goodfellow",
+        "year": "2016",
+        "unstructured": "Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press."
+      },
+      {
+        "issue": "10",
+        "key": "2767_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1073",
+        "DOI": "10.1017/S1355617718000577",
+        "volume": "24",
+        "author": "MD Grilli",
+        "year": "2018",
+        "unstructured": "Grilli, M. D., Wank, A. A., Bercel, J. J., & Ryan, L. (2018). Evidence for reduced autobiographical memory episodic specificity in cognitively normal middle-aged and older individuals at increased risk for alzheimer’s disease dementia. Journal of the International Neuropsychological Society, 24(10), 1073–1083. https://doi.org/10.1017/S1355617718000577",
+        "journal-title": "Journal of the International Neuropsychological Society"
+      },
+      {
+        "key": "2767_CR14",
+        "doi-asserted-by": "publisher",
+        "unstructured": "He, P., Liu, X., Gao, J., & Chen, W. (2021). DeBERTa: Decoding-enhanced BERT with Disentangled Attention (arXiv:2006.03654). arXiv. https://doi.org/10.48550/arXiv.2006.03654",
+        "DOI": "10.48550/arXiv.2006.03654"
+      },
+      {
+        "issue": "5",
+        "key": "2767_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "1437",
+        "DOI": "10.1007/s00426-024-01938-9",
+        "volume": "88",
+        "author": "DA Hernandez",
+        "year": "2024",
+        "unstructured": "Hernandez, D. A., Griffith, C. X., Deffner, A. M., Nkulu, H., Hovhannisyan, M., Ruiz, J. M., Andrews-Hanna, J. R., & Grilli, M. D. (2024). Retrieving autobiographical memories in autobiographical contexts: Are age-related differences in narrated episodic specificity present outside of the laboratory? Psychological Research, 88(5), 1437–1447. https://doi.org/10.1007/s00426-024-01938-9",
+        "journal-title": "Psychological Research"
+      },
+      {
+        "key": "2767_CR16",
+        "unstructured": "Houlsby, N., Giurgiu, A., Jastrzebski, S., Morrone, B., Laroussilhe, Q. D., Gesmundo, A., Attariyan, M., & Gelly, S. (2019). Parameter-Efficient Transfer Learning for NLP. Proceedings of the 36th International Conference on Machine Learning, 2790–2799. https://proceedings.mlr.press/v97/houlsby19a.html"
+      },
+      {
+        "key": "2767_CR17",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Howard, J., & Ruder, S. (2018). Universal Language Model Fine-tuning for Text Classification (arXiv:1801.06146). arXiv. https://doi.org/10.48550/arXiv.1801.06146",
+        "DOI": "10.48550/arXiv.1801.06146"
+      },
+      {
+        "key": "2767_CR18",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., & Chen, W. (2021). LoRA: Low-Rank Adaptation of Large Language Models (arXiv:2106.09685). arXiv. https://doi.org/10.48550/arXiv.2106.09685",
+        "DOI": "10.48550/arXiv.2106.09685"
+      },
+      {
+        "key": "2767_CR19",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Kaddour, J., Harris, J., Mozes, M., Bradley, H., Raileanu, R., & McHardy, R. (2023). Challenges and applications of large language models (arXiv:2307.10169). arXiv. https://doi.org/10.48550/arXiv.2307.10169",
+        "DOI": "10.48550/arXiv.2307.10169"
+      },
+      {
+        "key": "2767_CR20",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Karita, S., Chen, N., Hayashi, T., Hori, T., Inaguma, H., Jiang, Z., Someki, M., Soplin, N. E. Y., Yamamoto, R., Wang, X., Watanabe, S., Yoshimura, T., & Zhang, W. (2019). A Comparative Study on Transformer vs RNN in Speech Applications (arXiv:1909.06317). arXiv. https://doi.org/10.48550/arXiv.1909.06317",
+        "DOI": "10.48550/arXiv.1909.06317"
+      },
+      {
+        "issue": "2",
+        "key": "2767_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "155",
+        "DOI": "10.1016/j.jcm.2016.02.012",
+        "volume": "15",
+        "author": "TK Koo",
+        "year": "2016",
+        "unstructured": "Koo, T. K., & Li, M. Y. (2016). A guideline of selecting and reporting intraclass correlation coefficients for reliability research. Journal of Chiropractic Medicine, 15(2), 155–163. https://doi.org/10.1016/j.jcm.2016.02.012",
+        "journal-title": "Journal of Chiropractic Medicine"
+      },
+      {
+        "issue": "1",
+        "key": "2767_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "54",
+        "DOI": "10.1016/S0278-2626(03)00280-X",
+        "volume": "55",
+        "author": "B Levine",
+        "year": "2004",
+        "unstructured": "Levine, B. (2004). Autobiographical memory and the self in time: Brain lesion effects, functional neuroanatomy, and lifespan development. Brain and Cognition, 55(1), 54–68. https://doi.org/10.1016/S0278-2626(03)00280-X",
+        "journal-title": "Brain and Cognition"
+      },
+      {
+        "issue": "4",
+        "key": "2767_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "677",
+        "DOI": "10.1037/0882-7974.17.4.677",
+        "volume": "17",
+        "author": "B Levine",
+        "year": "2002",
+        "unstructured": "Levine, B., Svoboda, E., Hay, J. F., Winocur, G., & Moscovitch, M. (2002). Aging and autobiographical memory: Dissociating episodic from semantic retrieval. Psychology and Aging, 17(4), 677–689. https://doi.org/10.1037/0882-7974.17.4.677",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "key": "2767_CR24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2024.108943",
+        "volume": "201",
+        "author": "A Li-Chay-Chung",
+        "year": "2024",
+        "unstructured": "Li-Chay-Chung, A., Starrs, F., Ryan, J. D., Barense, M., Olsen, R. K., & Addis, D. R. (2024). Integrity of autobiographical memory and episodic future thinking in older adults varies with cognitive functioning. Neuropsychologia, 201, Article 108943. https://doi.org/10.1016/j.neuropsychologia.2024.108943",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "2767_CR25",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). RoBERTa: A Robustly Optimized BERT Pretraining Approach (arXiv:1907.11692). arXiv. https://doi.org/10.48550/arXiv.1907.11692",
+        "DOI": "10.48550/arXiv.1907.11692"
+      },
+      {
+        "key": "2767_CR26",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Minaee, S., Kalchbrenner, N., Cambria, E., Nikzad, N., Chenaghlu, M., & Gao, J. (2021). Deep Learning--based Text Classification: A Comprehensive Review. ACM Comput. Surv., 54(3), 62:1-62:40. https://doi.org/10.1145/3439726",
+        "DOI": "10.1145/3439726"
+      },
+      {
+        "issue": "7",
+        "key": "2767_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "6707",
+        "DOI": "10.3758/s13428-024-02385-5",
+        "volume": "56",
+        "author": "M Mistica",
+        "year": "2024",
+        "unstructured": "Mistica, M., Haylock, P., Michalewicz, A., Raad, S., Fitzgerald, E., & Hitchcock, C. (2024). A natural language model to automate scoring of autobiographical memories. Behavior Research Methods, 56(7), 6707–6720. https://doi.org/10.3758/s13428-024-02385-5",
+        "journal-title": "Behavior Research Methods"
+      },
+      {
+        "key": "2767_CR28",
+        "doi-asserted-by": "publisher",
+        "unstructured": "OpenAI, Achiam, J., Adler, S., Agarwal, S., Ahmad, L., Akkaya, I., Aleman, F. L., Almeida, D., Altenschmidt, J., Altman, S., Anadkat, S., Avila, R., Babuschkin, I., Balaji, S., Balcom, V., Baltescu, P., Bao, H., Bavarian, M., Belgum, J., … Zoph, B. (2023). GPT-4 Technical Report (arXiv:2303.08774). arXiv. https://doi.org/10.48550/arXiv.2303.08774",
+        "DOI": "10.48550/arXiv.2303.08774"
+      },
+      {
+        "issue": "1",
+        "key": "2767_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "14989",
+        "DOI": "10.1038/s41598-017-14433-6",
+        "volume": "7",
+        "author": "J Peters",
+        "year": "2017",
+        "unstructured": "Peters, J., Wiehler, A., & Bromberg, U. (2017). Quantitative text feature analysis of autobiographical interview data: Prediction of episodic details, semantic details and temporal discounting. Scientific Reports, 7(1), 14989. https://doi.org/10.1038/s41598-017-14433-6",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "issue": "28",
+        "key": "2767_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "10262",
+        "DOI": "10.1523/JNEUROSCI.1145-11.2011",
+        "volume": "31",
+        "author": "E Race",
+        "year": "2011",
+        "unstructured": "Race, E., Keane, M. M., & Verfaellie, M. (2011). Medial temporal lobe damage causes deficits in episodic memory and episodic future thinking not attributable to deficits in narrative construction. Journal of Neuroscience, 31(28), 10262–10269. https://doi.org/10.1523/JNEUROSCI.1145-11.2011",
+        "journal-title": "Journal of Neuroscience"
+      },
+      {
+        "key": "2767_CR31",
+        "unstructured": "Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving Language Understanding by Generative Pre-Training."
+      },
+      {
+        "key": "2767_CR32",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sanh, V., Debut, L., Chaumond, J., & Wolf, T. (2019). DistilBERT, a distilled version of BERT: Smaller, faster, cheaper and lighter. https://doi.org/10.48550/arXiv.1910.01108",
+        "DOI": "10.48550/arXiv.1910.01108"
+      },
+      {
+        "issue": "1481",
+        "key": "2767_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "773",
+        "DOI": "10.1098/rstb.2007.2087",
+        "volume": "362",
+        "author": "DL Schacter",
+        "year": "2007",
+        "unstructured": "Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. Philosophical Transactions of the Royal Society B: Biological Sciences, 362(1481), 773. https://doi.org/10.1098/rstb.2007.2087",
+        "journal-title": "Philosophical Transactions of the Royal Society B: Biological Sciences"
+      },
+      {
+        "key": "2767_CR34",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Shaw, P., Uszkoreit, J., & Vaswani, A. (2018). Self-Attention with Relative Position Representations (arXiv:1803.02155). arXiv. https://doi.org/10.48550/arXiv.1803.02155",
+        "DOI": "10.48550/arXiv.1803.02155"
+      },
+      {
+        "issue": "10",
+        "key": "2767_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "1617",
+        "DOI": "10.1093/geronb/gbad077",
+        "volume": "78",
+        "author": "S Simpson",
+        "year": "2023",
+        "unstructured": "Simpson, S., Eskandaripour, M., & Levine, B. (2023). Effects of healthy and neuropathological aging on autobiographical memory: a meta-analysis of studies using the autobiographical interview. The Journals of Gerontology: Series B, 78(10), 1617–1624. https://doi.org/10.1093/geronb/gbad077",
+        "journal-title": "The Journals of Gerontology: Series B"
+      },
+      {
+        "issue": "1",
+        "key": "2767_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "51",
+        "DOI": "10.1037/a0035610",
+        "volume": "123",
+        "author": "H Söderlund",
+        "year": "2014",
+        "unstructured": "Söderlund, H., Moscovitch, M., Kumar, N., Daskalakis, Z. J., Flint, A., Herrmann, N., & Levine, B. (2014). Autobiographical episodic memory in major depressive disorder. Journal of Abnormal Psychology, 123(1), 51–60. https://doi.org/10.1037/a0035610",
+        "journal-title": "Journal of Abnormal Psychology"
+      },
+      {
+        "key": "2767_CR37",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sun, K., & Wang, R. (2024). Automatic Essay Multi-dimensional Scoring with Fine-tuning and Multiple Regression (arXiv:2406.01198). arXiv. https://doi.org/10.48550/arXiv.2406.01198",
+        "DOI": "10.48550/arXiv.2406.01198"
+      },
+      {
+        "issue": "2",
+        "key": "2767_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "259",
+        "DOI": "10.1037/pas0000472",
+        "volume": "30",
+        "author": "K Takano",
+        "year": "2018",
+        "unstructured": "Takano, K., Gutenbrunner, C., Martens, K., Salmon, K., & Raes, F. (2018). Computerized scoring algorithms for the Autobiographical Memory Test. Psychological Assessment, 30(2), 259–273. https://doi.org/10.1037/pas0000472",
+        "journal-title": "Psychological Assessment"
+      },
+      {
+        "issue": "3",
+        "key": "2767_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "306",
+        "DOI": "10.1080/09658211.2018.1507042",
+        "volume": "27",
+        "author": "K Takano",
+        "year": "2019",
+        "unstructured": "Takano, K., Hallford, D. J., Vanderveren, E., Austin, D. W., & Raes, F. (2019). The computerized scoring algorithm for the autobiographical memory test: Updates and extensions for analyzing memories of English-speaking adults. Memory, 27(3), 306–313. https://doi.org/10.1080/09658211.2018.1507042",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "3",
+        "key": "2767_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "835",
+        "DOI": "10.3758/s13428-016-0753-x",
+        "volume": "49",
+        "author": "K Takano",
+        "year": "2017",
+        "unstructured": "Takano, K., Ueno, M., Moriya, J., Mori, M., Nishiguchi, Y., & Raes, F. (2017). Unraveling the linguistic nature of specific autobiographical memories using a computerized classification algorithm. Behavior Research Methods, 49(3), 835–852. https://doi.org/10.3758/s13428-016-0753-x",
+        "journal-title": "Behavior Research Methods"
+      },
+      {
+        "key": "2767_CR41",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Touvron, H., Lavril, T., Izacard, G., Martinet, X., Lachaux, M.-A., Lacroix, T., Rozière, B., Goyal, N., Hambro, E., Azhar, F., Rodriguez, A., Joulin, A., Grave, E., & Lample, G. (2023). LLaMA: Open and Efficient Foundation Language Models (arXiv:2302.13971). arXiv. https://doi.org/10.48550/arXiv.2302.13971",
+        "DOI": "10.48550/arXiv.2302.13971"
+      },
+      {
+        "issue": "3",
+        "key": "2767_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "2243",
+        "DOI": "10.3758/s13428-023-02145-x",
+        "volume": "56",
+        "author": "RDI van Genugten",
+        "year": "2024",
+        "unstructured": "van Genugten, R. D. I., & Schacter, D. L. (2024). Automated scoring of the autobiographical interview with natural language processing. Behavior Research Methods, 56(3), 2243–2259. https://doi.org/10.3758/s13428-023-02145-x",
+        "journal-title": "Behavior Research Methods"
+      },
+      {
+        "key": "2767_CR43",
+        "unstructured": "Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł. ukasz, & Polosukhin, I. (2017). Attention is All you Need. Advances in Neural Information Processing Systems, 30. https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html"
+      },
+      {
+        "issue": "2",
+        "key": "2767_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "144",
+        "DOI": "10.1037/0021-843X.95.2.144",
+        "volume": "95",
+        "author": "JM Williams",
+        "year": "1986",
+        "unstructured": "Williams, J. M., & Broadbent, K. (1986). Autobiographical memory in suicide attempters. Journal of Abnormal Psychology, 95(2), 144–149. https://doi.org/10.1037/0021-843X.95.2.144",
+        "journal-title": "Journal of Abnormal Psychology"
+      },
+      {
+        "key": "2767_CR45",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Wolf, T., Debut, L., Sanh, V., Chaumond, J., Delangue, C., Moi, A., Cistac, P., Rault, T., Louf, R., Funtowicz, M., Davison, J., Shleifer, S., von Platen, P., Ma, C., Jernite, Y., Plu, J., Xu, C., Le Scao, T., Gugger, S., … Rush, A. (2020). Transformers: state-of-the-art natural language processing. In Q. Liu & D. Schlangen (Eds.), Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (pp. 38–45). Association for Computational Linguistics. https://doi.org/10.18653/v1/2020.emnlp-demos.6",
+        "DOI": "10.18653/v1/2020.emnlp-demos.6"
+      },
+      {
+        "key": "2767_CR46",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Yang, R., Cao, J., Wen, Z., Wu, Y., & He, X. (2020). Enhancing Automated Essay Scoring Performance via Fine-tuning Pre-trained Language Models with Combination of Regression and Ranking. In T. Cohn, Y. He, & Y. Liu (Eds.), Findings of the Association for Computational Linguistics: EMNLP 2020 (pp. 1560–1569). Association for Computational Linguistics. https://doi.org/10.18653/v1/2020.findings-emnlp.141",
+        "DOI": "10.18653/v1/2020.findings-emnlp.141"
+      }
+    ],
+    "container-title": [
+      "Behavior Research Methods"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.3758/s13428-025-02767-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.3758/s13428-025-02767-3",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.3758/s13428-025-02767-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          1
+        ]
+      ],
+      "date-time": "2026-08-01T00:03:53Z",
+      "timestamp": 1785542633000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.3758/s13428-025-02767-3"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          1
+        ]
+      ]
+    },
+    "references-count": 46,
+    "journal-issue": {
+      "issue": "9",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2767"
+    ],
+    "URL": "https://doi.org/10.3758/s13428-025-02767-3",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.31234/osf.io/n7cvq_v2",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "1554-3528"
+    ],
+    "issn-type": [
+      {
+        "value": "1554-3528",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "25 June 2025",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "1 August 2025",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "This research was approved by the Institutional Review Board at the University of Arizona.",
+        "order": 1,
+        "name": "Ethics",
+        "label": "Ethics approval",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Written consent was obtained from all participants.",
+        "order": 2,
+        "name": "Ethics",
+        "label": "Consent to participate",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Informed consent included the possibility of publication.",
+        "order": 3,
+        "name": "Ethics",
+        "label": "Consent for publication",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare no conflicts or competing interests.",
+        "order": 4,
+        "name": "Ethics",
+        "label": "Conflicts of interest/Competing interests",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "This content has been made available to all.",
+        "name": "free",
+        "label": "Free to read"
+      }
+    ],
+    "article-number": "245"
+  }
+}

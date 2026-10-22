@@ -1,0 +1,436 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2026-04-13T18:58:35Z",
+      "timestamp": 1776106715374,
+      "version": "3.50.1"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 32,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              18
+            ]
+          ],
+          "date-time": "2015-04-18T00:00:00Z",
+          "timestamp": 1429315200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003246",
+        "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "016.128.303"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "016.128.303"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003246",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          18
+        ]
+      ]
+    },
+    "DOI": "10.1145/2702123.2702460",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          17
+        ]
+      ],
+      "date-time": "2015-04-17T22:11:35Z",
+      "timestamp": 1429308695000
+    },
+    "page": "3443-3452",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 47,
+    "title": [
+      "Things That Make Us Reminisce"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "Doménique",
+        "family": "van Gennip",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Technology, Sydney &amp; Eindhoven University of Technology, Sydney, NSW, Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Elise",
+        "family": "van den Hoven",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Technology Sydney &amp; Eindhoven University of Technology, Sydney, NSW, Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Panos",
+        "family": "Markopoulos",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Eindhoven University of Technology &amp; University of Technology, Sydney, Eindhoven, Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_1_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijhcs.2010.12.003"
+      },
+      {
+        "key": "e_1_3_2_1_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-014-0775-2"
+      },
+      {
+        "key": "e_1_3_2_1_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15710880600608230"
+      },
+      {
+        "key": "e_1_3_2_1_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511575921"
+      },
+      {
+        "key": "e_1_3_2_1_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1191/1478088706qp063oa"
+      },
+      {
+        "key": "e_1_3_2_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10902-005-3889-4"
+      },
+      {
+        "key": "e_1_3_2_1_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1054972.1055098"
+      },
+      {
+        "key": "e_1_3_2_1_8_1",
+        "volume-title": "The construction of autobiographical memories in the selfmemory system. Psychological review 107, 2",
+        "author": "Conway M.A.",
+        "year": "2000"
+      },
+      {
+        "key": "e_1_3_2_1_9_1",
+        "first-page": "175",
+        "article-title": "Experiences With Designing Tools for Everyday Reminiscing",
+        "volume": "27",
+        "author": "Cosley D.",
+        "year": "2012",
+        "journal-title": "Human-Computer Interaction"
+      },
+      {
+        "key": "e_1_3_2_1_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9781139167611"
+      },
+      {
+        "key": "e_1_3_2_1_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/PL00000011"
+      },
+      {
+        "key": "e_1_3_2_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-011-0487-9"
+      },
+      {
+        "key": "e_1_3_2_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2466240"
+      },
+      {
+        "key": "e_1_3_2_1_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5555/2042118.2042154"
+      },
+      {
+        "key": "e_1_3_2_1_15_1",
+        "first-page": "2",
+        "article-title": "van den and Eggen, B. The cue is key: Design for real-life remembering",
+        "volume": "222",
+        "author": "Hoven E.",
+        "year": "2014",
+        "journal-title": "Zeitschrift für Psychologie"
+      },
+      {
+        "key": "e_1_3_2_1_16_1",
+        "first-page": "1",
+        "article-title": "van den and Eggen, J.H. The effect of cue media on recollections",
+        "volume": "5",
+        "author": "Hoven E.",
+        "year": "2009",
+        "journal-title": "Human Technology"
+      },
+      {
+        "key": "e_1_3_2_1_17_1",
+        "first-page": "1",
+        "article-title": "Introduction to this Special Issue on Designing for Personal Memories: Past, Present, and Future",
+        "volume": "27",
+        "author": "Hoven E.",
+        "year": "2012",
+        "journal-title": "Human-Computer Interaction"
+      },
+      {
+        "key": "e_1_3_2_1_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2466137"
+      },
+      {
+        "key": "e_1_3_2_1_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijhcs.2010.12.004"
+      },
+      {
+        "key": "e_1_3_2_1_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1806923.1806924"
+      },
+      {
+        "key": "e_1_3_2_1_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1753326.1753600"
+      },
+      {
+        "key": "e_1_3_2_1_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2598510.2598516"
+      },
+      {
+        "key": "e_1_3_2_1_23_1",
+        "first-page": "1",
+        "article-title": "Food for Talk: Phototalk in the Context of Sharing a Meal",
+        "volume": "27",
+        "author": "O'Hara K.",
+        "year": "2012",
+        "journal-title": "Human-Computer Interaction"
+      },
+      {
+        "key": "e_1_3_2_1_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2556288.2557008"
+      },
+      {
+        "key": "e_1_3_2_1_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0279-7"
+      },
+      {
+        "key": "e_1_3_2_1_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1518701.1518966"
+      },
+      {
+        "key": "e_1_3_2_1_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1357054.1357065"
+      },
+      {
+        "key": "e_1_3_2_1_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069.ch5"
+      },
+      {
+        "key": "e_1_3_2_1_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698013490591"
+      },
+      {
+        "key": "e_1_3_2_1_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1735223.1735243"
+      },
+      {
+        "key": "e_1_3_2_1_31_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1515/9780804779517",
+        "volume-title": "Mediated Memories in the Digital Age",
+        "author": "van Dijck J.",
+        "year": "2007"
+      },
+      {
+        "key": "e_1_3_2_1_32_1",
+        "first-page": "37",
+        "article-title": "SocioTechnical Lifelogging: Deriving Design Principles for a Future Proof Digital Past",
+        "volume": "27",
+        "author": "Whittaker S.",
+        "year": "2012",
+        "journal-title": "Human-Computer Interaction"
+      }
+    ],
+    "event": {
+      "name": "CHI '15: CHI Conference on Human Factors in Computing Systems",
+      "location": "Seoul Republic of Korea",
+      "acronym": "CHI '15",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/2702123.2702460",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/2702123.2702460",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T06:12:39Z",
+      "timestamp": 1750227159000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/2702123.2702460"
+      }
+    },
+    "subtitle": [
+      "Everyday Memory Cues as Opportunities for Interaction Design"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          18
+        ]
+      ]
+    },
+    "references-count": 32,
+    "alternative-id": [
+      "10.1145/2702123.2702460",
+      "10.1145/2702123"
+    ],
+    "URL": "https://doi.org/10.1145/2702123.2702460",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          18
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2015-04-18",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

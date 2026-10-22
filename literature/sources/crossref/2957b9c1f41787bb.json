@@ -1,0 +1,1017 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2026-10-13T12:10:38Z",
+      "timestamp": 1791893438053,
+      "version": "4.3.4"
+    },
+    "reference-count": 74,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              11,
+              14
+            ]
+          ],
+          "date-time": "2017-11-14T00:00:00Z",
+          "timestamp": 1510617600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://academic.oup.com/journals/pages/about_us/legal/notices"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>People often share their experiences with others who were not originally present, which provides them with both personal and interpersonal benefits. However, most prior work on this form of sharing has examined the decision to share one’s experience only after the experience is over. We investigate a distinct, unexplored aspect of the sharing process: when the decision to share is already salient during an experience and hence can impact the experience itself. We examine this research question within the context of photo-taking, an increasingly ubiquitous and integral part of people’s experiences. Across two field and three laboratory studies, we find that relative to taking pictures for oneself (e.g., to preserve one’s memories), taking pictures with the intention to share them with others (e.g., to post on social media) reduces enjoyment of experiences. This effect occurs because taking photos with the intention to share increases self-presentational concern during the experience, which can reduce enjoyment directly, as well as indirectly by lowering engagement with the experience. We identify several factors that moderate the effect of photo-taking goals on enjoyment, such as individual differences in the extent to which individuals care about how others perceive them and the closeness of the intended audience.</jats:p>",
+    "DOI": "10.1093/jcr/ucx112",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          13
+        ]
+      ],
+      "date-time": "2017-11-13T15:18:21Z",
+      "timestamp": 1510586301000
+    },
+    "page": "1220-1237",
+    "source": "Crossref",
+    "is-referenced-by-count": 113,
+    "title": [
+      "How the Intention to Share Can Undermine Enjoyment: Photo-Taking Goals and Evaluation of Experiences"
+    ],
+    "prefix": "10.1093",
+    "volume": "44",
+    "author": [
+      {
+        "given": "Alixandra",
+        "family": "Barasch",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Alixandra Barasch (abarasch@stern.nyu.edu) is an assistant professor of marketing, Stern School of Business, New York University, 40 W. 4th St, New York, NY 10012. Gal Zauberman (gal.zauberman@yale.edu) is a professor of marketing, Yale School of Management, Yale University, 165 Whitney Avenue, New Haven, CT 06511. Kristin Diehl (kdiehl@marshall.usc.edu) is an associate professor of marketing, Marshall School of Business, the University of Southern California, 701 Exposition Blvd, HOH 324 Los Angeles CA 90089"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gal",
+        "family": "Zauberman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Alixandra Barasch (abarasch@stern.nyu.edu) is an assistant professor of marketing, Stern School of Business, New York University, 40 W. 4th St, New York, NY 10012. Gal Zauberman (gal.zauberman@yale.edu) is a professor of marketing, Yale School of Management, Yale University, 165 Whitney Avenue, New Haven, CT 06511. Kristin Diehl (kdiehl@marshall.usc.edu) is an associate professor of marketing, Marshall School of Business, the University of Southern California, 701 Exposition Blvd, HOH 324 Los Angeles CA 90089"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kristin",
+        "family": "Diehl",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Alixandra Barasch (abarasch@stern.nyu.edu) is an assistant professor of marketing, Stern School of Business, New York University, 40 W. 4th St, New York, NY 10012. Gal Zauberman (gal.zauberman@yale.edu) is a professor of marketing, Yale School of Management, Yale University, 165 Whitney Avenue, New Haven, CT 06511. Kristin Diehl (kdiehl@marshall.usc.edu) is an associate professor of marketing, Marshall School of Business, the University of Southern California, 701 Exposition Blvd, HOH 324 Los Angeles CA 90089"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          14
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2023051112070741100_ucx112-B1",
+        "volume-title": "Multiple Regression: Testing and Interpreting Interactions",
+        "author": "Aiken",
+        "year": "1991"
+      },
+      {
+        "issue": "3",
+        "key": "2023051112070741100_ucx112-B2",
+        "doi-asserted-by": "crossref",
+        "first-page": "279",
+        "DOI": "10.1086/317585",
+        "article-title": "“Sequential Choice in Group Settings: Taking the Road Less Traveled and Less Enjoyed,”",
+        "volume": "27",
+        "author": "Ariely",
+        "year": "2000",
+        "journal-title": "Journal of Consumer Research"
+      },
+      {
+        "issue": "3",
+        "key": "2023051112070741100_ucx112-B3",
+        "doi-asserted-by": "crossref",
+        "first-page": "286",
+        "DOI": "10.1509/jmr.13.0238",
+        "article-title": "“Broadcasting and Narrowcasting: How Audience Size Affects What People Share,”",
+        "volume": "51",
+        "author": "Barasch",
+        "year": "2014",
+        "journal-title": "Journal of Marketing Research"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B4",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/0956797617694868",
+        "article-title": "“Photographic Memory: The Effects of Volitional Photo Taking on Memory for Visual and Auditory Aspects of an Experience,”",
+        "author": "Barasch",
+        "year": "2017",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B5",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1037/0033-2909.91.1.3",
+        "article-title": "“A Self-Presentational View of Social Phenomena,”",
+        "volume": "91",
+        "author": "Baumeister",
+        "year": "1982",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "4",
+        "key": "2023051112070741100_ucx112-B6",
+        "doi-asserted-by": "crossref",
+        "first-page": "434",
+        "DOI": "10.1037/xge0000143",
+        "article-title": "“Is Sharing Specific Autobiographical Memories a Distinct Form of Self-Disclosure?”",
+        "volume": "145",
+        "author": "Beike",
+        "year": "2016",
+        "journal-title": "Journal of Experimental Psychology: General"
+      },
+      {
+        "issue": "1",
+        "key": "2023051112070741100_ucx112-B7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1086/674724",
+        "article-title": "“Happiness from Ordinary and Extraordinary Experiences,”",
+        "volume": "41",
+        "author": "Bhattacharjee",
+        "year": "2014",
+        "journal-title": "Journal of Consumer Research"
+      },
+      {
+        "issue": "3",
+        "key": "2023051112070741100_ucx112-B8",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.3102/00346543064003363",
+        "article-title": "“Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis,”",
+        "volume": "64",
+        "author": "Cameron",
+        "year": "1994",
+        "journal-title": "Review of Educational Research"
+      },
+      {
+        "issue": "6",
+        "key": "2023051112070741100_ucx112-B9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1304",
+        "DOI": "10.1037/a0027407",
+        "article-title": "“I Am What I Do, Not What I Have: The Differential Centrality of Experiential and Material Purchases to the Self,”",
+        "volume": "102",
+        "author": "Carter",
+        "year": "2012",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "2023051112070741100_ucx112-B200",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1037/0096-3445.125.2.159",
+        "article-title": "“The effects of divided attention on encoding and retrieval processes in human memory,”",
+        "volume": "125",
+        "author": "Craik",
+        "year": "1996",
+        "journal-title": "Journal of Experimental Psychology: General"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B10",
+        "volume-title": "Flow and the Psychology of Discovery and Invention",
+        "author": "Csikszentmihalyi",
+        "year": "1997"
+      },
+      {
+        "issue": "1",
+        "key": "2023051112070741100_ucx112-B11",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1037/h0030644",
+        "article-title": "“Effects of Externally Mediated Rewards on Intrinsic Motivation,”",
+        "volume": "18",
+        "author": "Deci",
+        "year": "1971",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "2023051112070741100_ucx112-B12",
+        "doi-asserted-by": "crossref",
+        "first-page": "627",
+        "DOI": "10.1037/0033-2909.125.6.627",
+        "article-title": "“A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation,”",
+        "volume": "125",
+        "author": "Deci",
+        "year": "1999",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "2",
+        "key": "2023051112070741100_ucx112-B13",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1037/h0049064",
+        "article-title": "“Ambiguity and Anxiety,”",
+        "volume": "56",
+        "author": "Dibner",
+        "year": "1958",
+        "journal-title": "Journal of Abnormal and Social Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "2023051112070741100_ucx112-B14",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1037/pspa0000055",
+        "article-title": "“How Taking Photos Increases Enjoyment of Experiences,”",
+        "volume": "111",
+        "author": "Diehl",
+        "year": "2016",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "7",
+        "key": "2023051112070741100_ucx112-B15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1160",
+        "DOI": "10.1037/0022-3514.37.7.1160",
+        "article-title": "“Deindividuation, Self-Awareness, and Disinhibition,”",
+        "volume": "37",
+        "author": "Diener",
+        "year": "1979",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B16",
+        "first-page": "213",
+        "volume-title": "Choice over Time",
+        "author": "Elster",
+        "year": "1992"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B17",
+        "year": "2013"
+      },
+      {
+        "issue": "4",
+        "key": "2023051112070741100_ucx112-B18",
+        "doi-asserted-by": "crossref",
+        "first-page": "522",
+        "DOI": "10.1037/h0076760",
+        "article-title": "“Public and Private Self-Consciousness: Assessment and Theory,”",
+        "volume": "43",
+        "author": "Fenigstein",
+        "year": "1975",
+        "journal-title": "Journal of Consulting and Clinical Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "2023051112070741100_ucx112-B19",
+        "doi-asserted-by": "crossref",
+        "first-page": "723",
+        "DOI": "10.1016/j.jesp.2004.04.001",
+        "article-title": "“Emotional Transfer in Goal Systems,”",
+        "volume": "40",
+        "author": "Fishbach",
+        "year": "2004",
+        "journal-title": "Journal of Experimental Social Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "2023051112070741100_ucx112-B20",
+        "doi-asserted-by": "crossref",
+        "first-page": "152",
+        "DOI": "10.1016/j.jcps.2014.08.004",
+        "article-title": "“A Wonderful Life: Experiential Consumption and the Pursuit of Happiness,”",
+        "volume": "25",
+        "author": "Gilovich",
+        "year": "2015",
+        "journal-title": "Journal of Consumer Psychology"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B21",
+        "volume-title": "The Presentation of Self in Everyday Life",
+        "author": "Goffman",
+        "year": "1959"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B22",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1007/978-1-4613-9564-5_7",
+        "volume-title": "Public Self and Private Self",
+        "author": "Gollwitzer",
+        "year": "1986"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B23",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1089/cyber.2009.0411",
+        "article-title": "“Mirror, Mirror on My Facebook Wall: Effects of Facebook Exposure on Self Esteem,”",
+        "volume": "14",
+        "author": "Gonzales",
+        "year": "2011",
+        "journal-title": "Cyberpsychology, Behavior, and Social Networking"
+      },
+      {
+        "issue": "2",
+        "key": "2023051112070741100_ucx112-B24",
+        "doi-asserted-by": "crossref",
+        "first-page": "274",
+        "DOI": "10.1037/h0045637",
+        "article-title": "“The Effects of Anxiety and of Situational Stress on Communicative Efficiency,”",
+        "volume": "54",
+        "author": "Gynther",
+        "year": "1957",
+        "journal-title": "Journal of Abnormal and Social Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "2023051112070741100_ucx112-B26",
+        "doi-asserted-by": "crossref",
+        "first-page": "439",
+        "DOI": "10.1037/0033-295X.113.3.439",
+        "article-title": "“Value from Hedonic Experience and Engagement,”",
+        "volume": "113",
+        "author": "Higgins",
+        "year": "2006",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "6",
+        "key": "2023051112070741100_ucx112-B27",
+        "doi-asserted-by": "crossref",
+        "first-page": "714",
+        "DOI": "10.1016/j.jbusres.2006.01.008",
+        "article-title": "“Consumption Experience, Customer Value, and Subjective Personal Introspection: An Illustrative Photographic Essay,”",
+        "volume": "59",
+        "author": "Holbrook",
+        "year": "2006",
+        "journal-title": "Journal of Business Research"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B28",
+        "author": "Houghton",
+        "year": "2013"
+      },
+      {
+        "issue": "6",
+        "key": "2023051112070741100_ucx112-B29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1103",
+        "DOI": "10.1086/661529",
+        "article-title": "“Lenses of the Heart: How Actors’ and Observers’ Perspectives Influence Emotional Experiences,”",
+        "volume": "38",
+        "author": "Hung",
+        "year": "2012",
+        "journal-title": "Journal of Consumer Research"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B30",
+        "author": "Instagram Press",
+        "year": "2017"
+      },
+      {
+        "issue": "3",
+        "key": "2023051112070741100_ucx112-B31",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1002/bdm.3960050304",
+        "article-title": "“Predicting a Changing Taste: Do People Know What They Will Like?”",
+        "volume": "5",
+        "author": "Kahneman",
+        "year": "1992",
+        "journal-title": "Journal of Behavioral Decision Making"
+      },
+      {
+        "issue": "6",
+        "key": "2023051112070741100_ucx112-B32",
+        "doi-asserted-by": "crossref",
+        "first-page": "935",
+        "DOI": "10.1086/657163",
+        "article-title": "“Productivity Orientation and the Consumption of Collectable Experiences,”",
+        "volume": "37",
+        "author": "Keinan",
+        "year": "2011",
+        "journal-title": "Journal of Consumer Research"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B33",
+        "author": "Kharpal",
+        "year": "2015"
+      },
+      {
+        "issue": "6006",
+        "key": "2023051112070741100_ucx112-B34",
+        "doi-asserted-by": "crossref",
+        "first-page": "932",
+        "DOI": "10.1126/science.1192439",
+        "article-title": "“A Wandering Mind Is an Unhappy Mind,”",
+        "volume": "330",
+        "author": "Killingsworth",
+        "year": "2010",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "1",
+        "key": "2023051112070741100_ucx112-B35",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1177/0265407512449400",
+        "article-title": "“A Boost of Positive Affect: The Perks of Sharing Positive Experiences,”",
+        "volume": "30",
+        "author": "Lambert",
+        "year": "2013",
+        "journal-title": "Journal of Social and Personal Relationships"
+      },
+      {
+        "issue": "6",
+        "key": "2023051112070741100_ucx112-B36",
+        "doi-asserted-by": "crossref",
+        "first-page": "1112",
+        "DOI": "10.1037/0022-3514.67.6.1112",
+        "article-title": "“Capitalizing On and Coping with Daily-Life Events: Expressive Responses to Positive Events,”",
+        "volume": "67",
+        "author": "Langston",
+        "year": "1994",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B37",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1146/annurev.psych.58.110405.085658",
+        "article-title": "“Motivational and Emotional Aspects of the Self,”",
+        "volume": "58",
+        "author": "Leary",
+        "year": "2007",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B38",
+        "first-page": "1",
+        "volume-title": "Advances in Experimental Social Psychology, Vol. 32",
+        "author": "Leary",
+        "year": "2000"
+      },
+      {
+        "issue": "1",
+        "key": "2023051112070741100_ucx112-B39",
+        "doi-asserted-by": "crossref",
+        "first-page": "34",
+        "DOI": "10.1037/0033-2909.107.1.34",
+        "article-title": "“Impression Management: A Literature Review and Two-Component Model,”",
+        "volume": "107",
+        "author": "Leary",
+        "year": "1990",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "1",
+        "key": "2023051112070741100_ucx112-B40",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1037/h0035519",
+        "article-title": "“Undermining Children’s Intrinsic Interest with Extrinsic Reward: A Test of the ‘Overjustification’ Hypothesis,”",
+        "volume": "28",
+        "author": "Lepper",
+        "year": "1973",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B41",
+        "first-page": "185",
+        "volume-title": "Advances in Experimental Social Psychology, Vol 44",
+        "author": "Libby",
+        "year": "2011"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B42",
+        "volume-title": "Review of Personality and Social Psychology: Group Processes",
+        "author": "Mackie",
+        "year": "1987"
+      },
+      {
+        "issue": "1",
+        "key": "2023051112070741100_ucx112-B43",
+        "doi-asserted-by": "crossref",
+        "first-page": "593",
+        "DOI": "10.1146/annurev.psych.58.110405.085542",
+        "article-title": "“Mediation Analysis,”",
+        "volume": "58",
+        "author": "MacKinnon",
+        "year": "2007",
+        "journal-title": "Annual Review of Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "2023051112070741100_ucx112-B44",
+        "doi-asserted-by": "crossref",
+        "first-page": "446",
+        "DOI": "10.1016/j.appdev.2008.07.001",
+        "article-title": "“Self-Presentation and Gender on MySpace,”",
+        "volume": "29",
+        "author": "Manago",
+        "year": "2008",
+        "journal-title": "Journal of Applied Developmental Psychology"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B45",
+        "author": "Mancini",
+        "year": "2014"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B46",
+        "doi-asserted-by": "crossref",
+        "first-page": "807",
+        "DOI": "10.1037/a0022010",
+        "article-title": "“Can Seeking Happiness Make People Unhappy? Paradoxical Effects of Valuing Happiness,”",
+        "volume": "11",
+        "author": "Mauss",
+        "year": "2011",
+        "journal-title": "Emotion"
+      },
+      {
+        "issue": "2",
+        "key": "2023051112070741100_ucx112-B47",
+        "doi-asserted-by": "crossref",
+        "first-page": "190",
+        "DOI": "10.1177/0146167292182010",
+        "article-title": "“The Nature and Severity of Self-Reported Embarrassing Circumstances,”",
+        "volume": "18",
+        "author": "Miller",
+        "year": "1992",
+        "journal-title": "Personality and Social Psychology Bulletin"
+      },
+      {
+        "issue": "1",
+        "key": "2023051112070741100_ucx112-B48",
+        "doi-asserted-by": "crossref",
+        "first-page": "56",
+        "DOI": "10.1037/0003-066X.55.1.56",
+        "article-title": "“The Funds, Friends, and Faith of Happy People,”",
+        "volume": "55",
+        "author": "Myers",
+        "year": "2000",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "issue": "2",
+        "key": "2023051112070741100_ucx112-B49",
+        "doi-asserted-by": "crossref",
+        "first-page": "160",
+        "DOI": "10.1086/597030",
+        "article-title": "“Enhancing the Television-Viewing Experience through Commercial Interruptions,”",
+        "volume": "36",
+        "author": "Nelson",
+        "year": "2009",
+        "journal-title": "Journal of Consumer Research"
+      },
+      {
+        "issue": "4",
+        "key": "2023051112070741100_ucx112-B50",
+        "doi-asserted-by": "crossref",
+        "first-page": "467",
+        "DOI": "10.1016/0010-0285(83)90016-6",
+        "article-title": "“Point of View in Personal Memories,”",
+        "volume": "15",
+        "author": "Nigro",
+        "year": "1983",
+        "journal-title": "Cognitive Psychology"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B51",
+        "doi-asserted-by": "crossref",
+        "first-page": "596",
+        "DOI": "10.1111/j.1467-6494.1977.tb00174.x",
+        "article-title": "“The Behavioral Consequences of Shyness,”",
+        "volume": "45",
+        "author": "Pilkonis",
+        "year": "1977",
+        "journal-title": "Journal of Personality"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B52",
+        "volume-title": "The Experience Economy: Work Is Theater and Every Business a Stage",
+        "author": "Pine",
+        "year": "1999"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B53",
+        "doi-asserted-by": "crossref",
+        "first-page": "185",
+        "DOI": "10.1080/00273170701341316",
+        "article-title": "“Addressing Moderated Mediation Hypotheses: Theory, Methods, and Prescriptions,”",
+        "volume": "42",
+        "author": "Preacher",
+        "year": "2007",
+        "journal-title": "Multivariate Behavioral Research"
+      },
+      {
+        "issue": "2",
+        "key": "2023051112070741100_ucx112-B54",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.1037/0022-3514.90.2.197",
+        "article-title": "“Temporal Differences in Trait Self-Ascription: When the Self Is Seen as an Other,”",
+        "volume": "90",
+        "author": "Pronin",
+        "year": "2006",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "2023051112070741100_ucx112-B55",
+        "doi-asserted-by": "crossref",
+        "first-page": "386",
+        "DOI": "10.1509/jmkr.43.3.386",
+        "article-title": "“Is Happiness Shared Doubled and Sadness Shared Halved? Social Influence on Enjoyment of Hedonic Experiences,”",
+        "volume": "43",
+        "author": "Raghunathan",
+        "year": "2006",
+        "journal-title": "Journal of Marketing Research"
+      },
+      {
+        "issue": "4",
+        "key": "2023051112070741100_ucx112-B56",
+        "doi-asserted-by": "crossref",
+        "first-page": "506",
+        "DOI": "10.1086/520074",
+        "article-title": "“Consuming with Others: Social Influences on Moment-to-Moment and Retrospective Evaluations of an Experience,”",
+        "volume": "34",
+        "author": "Ramanathan",
+        "year": "2007",
+        "journal-title": "Journal of Consumer Research"
+      },
+      {
+        "issue": "2",
+        "key": "2023051112070741100_ucx112-B57",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1037/a0018344",
+        "article-title": "“Are You Happy for Me? How Sharing Positive Events with Others Provides Personal and Interpersonal Benefits,”",
+        "volume": "99",
+        "author": "Reis",
+        "year": "2010",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "8",
+        "key": "2023051112070741100_ucx112-B58",
+        "doi-asserted-by": "crossref",
+        "first-page": "687",
+        "DOI": "10.1111/j.1559-1816.1985.tb02268.x",
+        "article-title": "“The Self-Consciousness Scale: A Revised Version for Use with General Populations,”",
+        "volume": "15",
+        "author": "Scheier",
+        "year": "1985",
+        "journal-title": "Journal of Applied Social Psychology"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B59",
+        "volume-title": "Impression Management: The Self-Concept, Social Identity, and Interpersonal Relations",
+        "author": "Schlenker",
+        "year": "1980"
+      },
+      {
+        "issue": "3",
+        "key": "2023051112070741100_ucx112-B60",
+        "doi-asserted-by": "crossref",
+        "first-page": "641",
+        "DOI": "10.1037/0033-2909.92.3.641",
+        "article-title": "“Social Anxiety and Self-Presentation: A Conceptualization Model,”",
+        "volume": "92",
+        "author": "Schlenker",
+        "year": "1982",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B61",
+        "volume-title": "Experiential Marketing: How to Get Customers to Sense, Feel, Think, Act, and Relate to Your Company and Brands",
+        "author": "Schmitt",
+        "year": "1999"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B62",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1093/oso/9780199251063.003.0003",
+        "article-title": "“The Pursuit and Assessment of Happiness Can Be Self-Defeating,”",
+        "volume": "1",
+        "author": "Schooler",
+        "year": "2003",
+        "journal-title": "Psychology of Economic Decisions"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B63",
+        "author": "Smith",
+        "year": "2016"
+      },
+      {
+        "issue": "2",
+        "key": "2023051112070741100_ucx112-B64",
+        "doi-asserted-by": "crossref",
+        "first-page": "277",
+        "DOI": "10.1509/jmr.12.0420",
+        "article-title": "“Spotlights, Floodlights, and the Magic Number Zero: Simple Effects Tests in Moderated Regression,”",
+        "volume": "50",
+        "author": "Spiller",
+        "year": "2013",
+        "journal-title": "Journal of Marketing Research"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B65",
+        "author": "Stapinski",
+        "year": "2013"
+      },
+      {
+        "issue": "21",
+        "key": "2023051112070741100_ucx112-B66",
+        "doi-asserted-by": "crossref",
+        "first-page": "8038",
+        "DOI": "10.1073/pnas.1202129109",
+        "article-title": "“Disclosing Information About the Self Is Intrinsically Rewarding,”",
+        "volume": "109",
+        "author": "Tamir",
+        "year": "2012",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B67",
+        "volume-title": "Impression Management Theory and Social Psychological Research",
+        "author": "Tedeschi",
+        "year": "1981"
+      },
+      {
+        "issue": "6",
+        "key": "2023051112070741100_ucx112-B68",
+        "doi-asserted-by": "crossref",
+        "first-page": "1120",
+        "DOI": "10.1037/0022-3514.69.6.1120",
+        "article-title": "“When Modesty Prevails: Differential Favorability of Self-Presentation to Friends and Strangers,”",
+        "volume": "69",
+        "author": "Tice",
+        "year": "1995",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "2023051112070741100_ucx112-B69",
+        "doi-asserted-by": "crossref",
+        "first-page": "1193",
+        "DOI": "10.1037/0022-3514.85.6.1193",
+        "article-title": "“To Do or to Have? That Is the Question,”",
+        "volume": "85",
+        "author": "Van Boven",
+        "year": "2003",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B70",
+        "author": "Veix",
+        "year": "2013"
+      },
+      {
+        "issue": "3",
+        "key": "2023051112070741100_ucx112-B71",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1111/j.0963-7214.2005.00355.x",
+        "article-title": "“Affective Forecasting: Knowing What to Want,”",
+        "volume": "14",
+        "author": "Wilson",
+        "year": "2005",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B72",
+        "author": "Wright",
+        "year": "2012"
+      },
+      {
+        "issue": "5",
+        "key": "2023051112070741100_ucx112-B73",
+        "doi-asserted-by": "crossref",
+        "first-page": "715",
+        "DOI": "10.1086/592943",
+        "article-title": "“Memories as Assets: Strategic Memory Protection in Choice over Time,”",
+        "volume": "35",
+        "author": "Zauberman",
+        "year": "2009",
+        "journal-title": "Journal of Consumer Research"
+      },
+      {
+        "key": "2023051112070741100_ucx112-B74",
+        "volume-title": "Shyness: What It Is, What to Do About It",
+        "author": "Zimbardo",
+        "year": "1977"
+      }
+    ],
+    "container-title": [
+      "Journal of Consumer Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://academic.oup.com/jcr/article-pdf/44/6/1220/50266891/jcr_44_6_1220.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/jcr/article-pdf/44/6/1220/50266891/jcr_44_6_1220.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          28
+        ]
+      ],
+      "date-time": "2024-06-28T12:28:37Z",
+      "timestamp": 1719577717000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/jcr/article/44/6/1220/4627834"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Gita",
+        "family": "Johar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Alixandra Barasch (abarasch@stern.nyu.edu) is an assistant professor of marketing, Stern School of Business, New York University, 40 W. 4th St, New York, NY 10012. Gal Zauberman (gal.zauberman@yale.edu) is a professor of marketing, Yale School of Management, Yale University, 165 Whitney Avenue, New Haven, CT 06511. Kristin Diehl (kdiehl@marshall.usc.edu) is an associate professor of marketing, Marshall School of Business, the University of Southern California, 701 Exposition Blvd, HOH 324 Los Angeles CA 90089"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      },
+      {
+        "given": "Rebecca",
+        "family": "Hamilton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Alixandra Barasch (abarasch@stern.nyu.edu) is an assistant professor of marketing, Stern School of Business, New York University, 40 W. 4th St, New York, NY 10012. Gal Zauberman (gal.zauberman@yale.edu) is a professor of marketing, Yale School of Management, Yale University, 165 Whitney Avenue, New Haven, CT 06511. Kristin Diehl (kdiehl@marshall.usc.edu) is an associate professor of marketing, Marshall School of Business, the University of Southern California, 701 Exposition Blvd, HOH 324 Los Angeles CA 90089"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          14
+        ]
+      ]
+    },
+    "references-count": 74,
+    "journal-issue": {
+      "issue": "6",
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            11,
+            14
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/jcr/ucx112",
+    "relation": {},
+    "ISSN": [
+      "0093-5301",
+      "1537-5277"
+    ],
+    "issn-type": [
+      {
+        "value": "0093-5301",
+        "type": "print"
+      },
+      {
+        "value": "1537-5277",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published-other": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          14
+        ]
+      ]
+    }
+  }
+}

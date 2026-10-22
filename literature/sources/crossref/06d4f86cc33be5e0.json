@@ -1,0 +1,840 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2026-08-18T03:46:59Z",
+      "timestamp": 1787024819139,
+      "version": "build-2736575974"
+    },
+    "reference-count": 123,
+    "publisher": "JMIR Publications Inc.",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JMIR Mhealth Uhealth"
+    ],
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Over the past decade, the wide availability and small size of different types of sensors, together with the decrease in pricing, have allowed the acquisition of a substantial amount of data about a person’s life in real time. These sensors can be incorporated into personal electronic devices available at a reasonable cost, such as smartphones and small wearable devices. They allow the acquisition of images, audio, location, physical activity, and physiological signals among other data. With these data, usually denoted as lifelog data, we can then analyze and understand personal experiences and behaviors. This process is called lifelogging.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>The objective of this paper was to present a narrative review of the existing literature about lifelogging over the past decade. To achieve this goal, we analyzed lifelogging applications used to retrieve relevant information from daily digital data, some of them with the purpose of monitoring and assisting people with memory issues and others designed for memory augmentation. We aimed for this review to be used by researchers to obtain a broad idea of the type of data used, methodologies, and applications available in this research field.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>We followed a narrative review methodology to conduct a comprehensive search for relevant publications in Google Scholar and Scopus databases using lifelog topic–related keywords. A total of 411 publications were retrieved and screened. Of these 411 publications, 114 (27.7%) publications were fully reviewed. In addition, 30 publications were manually included based on our bibliographical knowledge of this research field.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>From the 144 reviewed publications, a total of 113 (78.5%) were selected and included in this narrative review based on content analysis. The findings of this narrative review suggest that lifelogs are prone to become powerful tools to retrieve memories or increase knowledge about an individual’s experiences or behaviors. Several computational tools are already available for a considerable range of applications. These tools use multimodal data of different natures, with visual lifelogs being one of the most used and rich sources of information. Different approaches and algorithms to process these data are currently in use, as this review will unravel. Moreover, we identified several open questions and possible lines of investigation in lifelogging.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>The use of personal lifelogs can be beneficial to improve the quality of our life, as they can serve as tools for memory augmentation or for providing support to people with memory issues. Through the acquisition and analysis of lifelog data, lifelogging systems can create digital memories that can be potentially used as surrogate memory. Through this narrative review, we understand that contextual information can be extracted from lifelogs, which provides an understanding of the daily life of a person based on events, experiences, and behaviors.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.2196/30517",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2022-03-11T15:50:53Z",
+      "timestamp": 1647013853000
+    },
+    "page": "e30517",
+    "source": "Crossref",
+    "is-referenced-by-count": 36,
+    "title": [
+      "Lifelog Retrieval From Daily Digital Data: Narrative Review"
+    ],
+    "prefix": "10.2196",
+    "volume": "10",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0411-5182",
+        "authenticated-orcid": false,
+        "given": "Ricardo",
+        "family": "Ribeiro",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7613-1435",
+        "authenticated-orcid": false,
+        "given": "Alina",
+        "family": "Trifan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5433-6667",
+        "authenticated-orcid": false,
+        "given": "António J R",
+        "family": "Neves",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1010",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          2
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1068/b32041t"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1561/1500000033"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/227181.227186"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/2.566147"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/iswc.1998.729538"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1026653.1026654"
+      },
+      {
+        "key": "ref7",
+        "unstructured": "MannSFungJAimoneCSehgalAChenDDesigning EyeTap digital eyeglasses for continuous lifelong capture and sharing of personal experiences2005CHI 2005April 2-7, 2005Portland, Oregon"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2072298.2072005"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ccece.2012.6335012"
+      },
+      {
+        "key": "ref10",
+        "unstructured": "MannSAliMLoRWuHFreeGlass for developers, “haccessibility”, and Digital Eye Glass + Lifeglogging research in a (sur/sous)veillance societyProceedings of the International Conference on Information Society (i-Society 2013)2013International Conference on Information Society (i-Society 2013)Jun 24-26, 2013Toronto, ON, Canada"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/healthcom46333.2019.9009592"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/641007.641053"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/982484.982500"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1107458.1107460"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/scientificamerican0307-58"
+      },
+      {
+        "key": "ref16",
+        "author": "Bell, G",
+        "year": "2009",
+        "journal-title": "Total Recall: How the E-Memory Revolution Will Change Everything"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "177",
+        "DOI": "10.1007/11853565_11",
+        "author": "Hodges, S",
+        "year": "2006",
+        "journal-title": "UbiComp 2006: Ubiquitous Computing. UbiComp 2006. Lecture Notes in Computer Science, vol 4206"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2011.605591"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11036-013-0489-0"
+      },
+      {
+        "key": "ref20",
+        "first-page": "537",
+        "author": "Gurrin, C",
+        "year": "2008",
+        "journal-title": "Information Retrieval Technology. AIRS 2008: Lecture Notes in Computer Science, vol 4993"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pmcj.2015.12.002"
+      },
+      {
+        "key": "ref22",
+        "year": "2019",
+        "journal-title": "World Population Ageing 2017 Highlights"
+      },
+      {
+        "key": "ref23",
+        "year": "2017",
+        "journal-title": "Global Action Plan on the Public Health Response to Dementia 2017 - 2025"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1504/ijcih.2012.051798"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1179/2047480615z.000000000329"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/eci.12931"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.31222/osf.io/jb4dx"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/wiamis.2008.32"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chb.2011.05.002"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amepre.2012.11.010"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2010.494046"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ins.2012.12.028"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cviu.2015.09.014"
+      },
+      {
+        "key": "ref34",
+        "author": "Song, S",
+        "year": "2015",
+        "journal-title": "Computer Vision - ACCV 2014 Workshops"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/bibm.2013.6732563"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/icmew.2015.7169863"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-19390-8_37"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cviu.2016.10.005"
+      },
+      {
+        "key": "ref39",
+        "author": "Gupta, R",
+        "year": "2018",
+        "journal-title": "MultiMedia Modeling. MMM 2018. Lecture Notes in Computer Science, vol 10704"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvcir.2018.05.008"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3240508.3240624"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvcir.2018.01.019"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1016/B978-0-12-814601-9.00016-X",
+        "author": "Oliveira-Barra, G",
+        "year": "2019",
+        "journal-title": "Multimodal Behavior Analysis in the Wild: Advances and Challenges"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1026653.1026659"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/iccitechn.2008.4803018"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/espa.2012.6152455"
+      },
+      {
+        "key": "ref47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ubicomm.2009.57"
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/icassp.2013.6639176"
+      },
+      {
+        "key": "ref49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/icce.2018.8326116"
+      },
+      {
+        "key": "ref50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14569/ijacsa.2015.060216"
+      },
+      {
+        "key": "ref51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/icip.2001.958135"
+      },
+      {
+        "key": "ref52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/973264.973270"
+      },
+      {
+        "key": "ref53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1099083.1099092"
+      },
+      {
+        "key": "ref54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1479-5868-10-22"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpubh.2014.00002"
+      },
+      {
+        "key": "ref56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/cit/iucc/dasc/picom.2015.341"
+      },
+      {
+        "key": "ref57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/tsmc.2016.2586075"
+      },
+      {
+        "key": "ref58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neucom.2016.02.088"
+      },
+      {
+        "key": "ref59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejor.2019.05.035"
+      },
+      {
+        "key": "ref60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/tce.2019.2924466"
+      },
+      {
+        "key": "ref61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10916-016-0534-1"
+      },
+      {
+        "key": "ref62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/tmc.2018.2840153"
+      },
+      {
+        "key": "ref63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07370024.2012.656050"
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1016/B978-0-12-803468-2.00002-3",
+        "author": "Dobbins, C",
+        "year": "2016",
+        "journal-title": "Applied Computing in Medicine and Health"
+      },
+      {
+        "key": "ref65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00530-008-0129-x"
+      },
+      {
+        "key": "ref66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1471301214532643"
+      },
+      {
+        "key": "ref67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjhci-2019-100064"
+      },
+      {
+        "key": "ref68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/jsen.2014.2357257"
+      },
+      {
+        "key": "ref69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/tbme.2014.2309951"
+      },
+      {
+        "key": "ref70",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/1026653",
+        "author": "Gemmell, J",
+        "year": "2004",
+        "journal-title": "CARPE'04: Proceedings of the the 1st ACM workshop on Continuous archival and retrieval of personal experiences"
+      },
+      {
+        "key": "ref71",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/1099083",
+        "author": "Gemmell, J",
+        "year": "2005",
+        "journal-title": "CARPE '05: Proceedings of the 2nd ACM workshop on Continuous archival and retrieval of personal experiences"
+      },
+      {
+        "key": "ref72",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/1178657",
+        "author": "Mase, K",
+        "year": "2006",
+        "journal-title": "CARPE '06: Proceedings of the 3rd ACM workshop on Continuous archival and retrival of personal experences"
+      },
+      {
+        "key": "ref73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1026653.1026660"
+      },
+      {
+        "key": "ref74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1026653.1026656"
+      },
+      {
+        "key": "ref75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2911451.2914680"
+      },
+      {
+        "key": "ref76",
+        "unstructured": "GurrinCJohoHHopfgartnerFZhouLGuptaRAlbatalRDang-NguyenD-TOverview of NTCIR-13 Lifelog-2 TaskProceedings of the The Thirteenth NTCIR conference (NTCIR-13)2017The Thirteenth NTCIR conference (NTCIR-13)Dec 5-8, 2017,Tokyo, Japan"
+      },
+      {
+        "key": "ref77",
+        "unstructured": "GurrinCJohoHHopfgartnerFZhouLNinhH-TLeT-KAlbatalRDang-NguyenD-THealyGOverview of the NTCIR-14 Lifelog-3 taskProceedings of the 14th NTCIR Conference on Evaluation of Information Access Technologies201914th NTCIR Conference on Evaluation of Information Access TechnologiesJun 10-13, 2019Tokyo Japan"
+      },
+      {
+        "key": "ref78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/thms.2016.2616296"
+      },
+      {
+        "key": "ref79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2911451.2914680"
+      },
+      {
+        "key": "ref80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2964284.2980534"
+      },
+      {
+        "key": "ref81",
+        "author": "Dang-Nguyen, D",
+        "year": "2017",
+        "journal-title": "ImageCLEF"
+      },
+      {
+        "key": "ref82",
+        "unstructured": "Dang-NguyenDTPirasLRieglerMZhouLLuxMGurrinCOverview of ImageCLEFlifelog 2018: daily living understanding and lifelog moment retrievalProceedings of the Conference and Labs of the Evaluation Forum2018Conference and Labs of the Evaluation ForumSep 10-14, 2018Avignon, France"
+      },
+      {
+        "key": "ref83",
+        "unstructured": "Dang-NguyenDTPirasLRieglerMZhouLLuxMTranM-TLeT-KNinhV-TGurrinCOverview of ImageCLEFlifelog 2019: solve my life puzzle and lifelog moment retrievalProceedings of CLEF 20192019CLEF 2019Sep 9-12, 2019Lugano, Switzerland"
+      },
+      {
+        "key": "ref84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379172.3391724"
+      },
+      {
+        "key": "ref85",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/3210539",
+        "author": "Gurrin, C",
+        "year": "2018",
+        "journal-title": "LSC '18: Proceedings of the 2018 ACM Workshop on The Lifelog Search Challenge"
+      },
+      {
+        "key": "ref86",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/3326460",
+        "author": "Gurrin, C",
+        "year": "2019",
+        "journal-title": "LSC '19: Proceedings of the ACM Workshop on Lifelog Search Challenge"
+      },
+      {
+        "key": "ref87",
+        "author": "Gurrin, C",
+        "year": "2020",
+        "journal-title": "LSC '20: Proceedings of the Third Annual Workshop on Lifelog Search Challenge"
+      },
+      {
+        "key": "ref88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-012-0511-8"
+      },
+      {
+        "key": "ref89",
+        "first-page": "1639",
+        "author": "Bolaños, M",
+        "year": "2015",
+        "journal-title": "arXiv"
+      },
+      {
+        "key": "ref90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvcir.2017.11.022"
+      },
+      {
+        "key": "ref91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3210539.3210541"
+      },
+      {
+        "key": "ref92",
+        "first-page": "457",
+        "author": "Schoeffmann, K",
+        "year": "2017",
+        "journal-title": "MultiMedia Modeling. MMM 2017. Lecture Notes in Computer Science, vol 10133"
+      },
+      {
+        "key": "ref93",
+        "first-page": "438",
+        "author": "Primus, MJ",
+        "year": "2018",
+        "journal-title": "MultiMedia Modeling. MMM 2018. Lecture Notes in Computer Science, vol 10705"
+      },
+      {
+        "key": "ref94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-37734-2_65"
+      },
+      {
+        "key": "ref95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3326460.3329157"
+      },
+      {
+        "key": "ref96",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379172.3391721"
+      },
+      {
+        "key": "ref97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3210539.3210543"
+      },
+      {
+        "key": "ref98",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3323873.3325034"
+      },
+      {
+        "key": "ref99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3326460.3329159"
+      },
+      {
+        "key": "ref100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379172.3391725"
+      },
+      {
+        "key": "ref101",
+        "doi-asserted-by": "crossref",
+        "first-page": "419",
+        "DOI": "10.1007/978-3-319-73600-6_44",
+        "author": "Lokoč, J",
+        "year": "2018",
+        "journal-title": "International Conference on Multimedia Modeling"
+      },
+      {
+        "key": "ref102",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3326460.3329160"
+      },
+      {
+        "key": "ref103",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379172.3391715"
+      },
+      {
+        "key": "ref104",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2964284.2973797"
+      },
+      {
+        "key": "ref105",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3323873.3326921"
+      },
+      {
+        "key": "ref106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3210539.3210542"
+      },
+      {
+        "key": "ref107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3210539.3210542"
+      },
+      {
+        "key": "ref108",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379172.3391724"
+      },
+      {
+        "key": "ref109",
+        "unstructured": "RibeiroRSilvaJTrifanAOliveiraJLNevesAJUA.PT Bioinformatics at ImageCLEF 2020: lifelog moment retrieval web based toolProceedings of the CLEF 20202020CLEF 2020Sep 22-25, 2020Thessaloniki, Greece"
+      },
+      {
+        "key": "ref110",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379172.3391724"
+      },
+      {
+        "key": "ref111",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379172.3391722"
+      },
+      {
+        "key": "ref112",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379172.3391726"
+      },
+      {
+        "key": "ref113",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379172.3391717"
+      },
+      {
+        "key": "ref114",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3379172.3391718"
+      },
+      {
+        "key": "ref115",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5582/bst.2019.01124"
+      },
+      {
+        "key": "ref116",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjopen-2018-025939"
+      },
+      {
+        "key": "ref117",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.comcom.2013.06.008"
+      },
+      {
+        "key": "ref118",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/access.2018.2805304"
+      },
+      {
+        "key": "ref119",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11948-013-9456-1"
+      },
+      {
+        "key": "ref120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amepre.2012.11.008"
+      },
+      {
+        "key": "ref121",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/icce-berlin.2018.8576191"
+      },
+      {
+        "key": "ref122",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1735223.1735243"
+      },
+      {
+        "key": "ref123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pmcj.2013.10.009"
+      }
+    ],
+    "container-title": [
+      "JMIR mHealth and uHealth"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://mhealth.jmir.org/2022/5/e30517",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ],
+      "date-time": "2026-06-30T17:46:31Z",
+      "timestamp": 1782841591000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://mhealth.jmir.org/2022/5/e30517"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          2
+        ]
+      ]
+    },
+    "references-count": 123,
+    "journal-issue": {
+      "issue": "5",
+      "published-online": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.2196/30517",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.2196/preprints.30517",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "2291-5222"
+    ],
+    "issn-type": [
+      {
+        "value": "2291-5222",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          2
+        ]
+      ]
+    }
+  }
+}

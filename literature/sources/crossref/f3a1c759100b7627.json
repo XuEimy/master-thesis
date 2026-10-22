@@ -1,0 +1,763 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2026-09-30T12:38:16Z",
+      "timestamp": 1790771896072,
+      "version": "4.1.0"
+    },
+    "reference-count": 95,
+    "publisher": "Wiley",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              5
+            ]
+          ],
+          "date-time": "2023-01-05T00:00:00Z",
+          "timestamp": 1672876800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 126,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "anthrosource.onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Visual Anthropology Review"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>In this article, we call for a feminist sensory ethnography that centers relations of care, subjectivity, and power between filmmakers, film \"subjects,\" and audiences. Through in‐depth discussion of two films, <jats:italic>Smile4Kime</jats:italic> (Guzman 2023) and <jats:italic>Nobel Nok Dah</jats:italic> (Hong, Lai, and Mihai 2015) we explore three techniques of feminist sensory ethnography—a multisensorial theory of the flesh, sensory accompaniment, and narrative intimacy—that draw on feminist and non‐Western genealogies of sensory knowledge production. We see this move away from observational filmmaking as a “politic of necessity” (Moraga and Anzaldúa 2015) through which the sensory is imbued with embodied knowledge.</jats:p>",
+    "DOI": "10.1111/var.12273",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2023-01-05T12:43:30Z",
+      "timestamp": 1672922610000
+    },
+    "page": "184-210",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "Feminist Sensory Ethnography"
+    ],
+    "prefix": "10.1111",
+    "volume": "38",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6038-5385",
+        "authenticated-orcid": false,
+        "given": "Elena H.",
+        "family": "Guzman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9901-436X",
+        "authenticated-orcid": false,
+        "given": "Emily",
+        "family": "Hong",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "volume-title": "Terrace of the Sea",
+        "author": "Allan Diana",
+        "year": "2009"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "first-page": "11",
+        "volume-title": "Women's Words: The Feminist Practice of Oral History",
+        "author": "Anderson Kathryn",
+        "year": "1991"
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "first-page": "2014",
+        "volume-title": "I Am Somebody",
+        "author": "Anderson Madeline",
+        "year": "1969"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1177/1746847711417954",
+        "article-title": "Absence, Excess and Epistemological Expansion: Towards a Framework for the Study of Animated Documentary",
+        "volume": "6",
+        "author": "Annabelle Honess Roe",
+        "year": "2011",
+        "journal-title": "Animation: An Interdisciplinary Journal"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1215/9780822375036"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "volume-title": "Anthropology & the Colonial Encounter",
+        "author": "Asad Talal",
+        "year": "1973"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "volume-title": "The Ax Fight",
+        "author": "Asch Timothy",
+        "year": "1975"
+      },
+      {
+        "key": "e_1_2_9_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0891243218801523"
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "volume-title": "The Vulnerable Observer: Anthropology that Breaks your Heart",
+        "author": "Behar Ruth",
+        "year": "1996"
+      },
+      {
+        "key": "e_1_2_9_11_1",
+        "volume-title": "El Mar La Mar",
+        "author": "Bonetta Joshua",
+        "year": "2017"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "first-page": "2014",
+        "volume-title": "Born in Flames",
+        "author": "Borden Lizzie",
+        "year": "1983"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/13762.001.0001"
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "volume-title": "Sweetgrass",
+        "author": "Castaing‐Taylor Lucien",
+        "year": "2009"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "volume-title": "Leviathan",
+        "author": "Castaing‐Taylor Lucien",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1532708617728955"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "unstructured": "Childress Sonya.2017. “Beyond Empathy.” Firelight Media Medium(blog). Accessed March 20 2017.https://firelightmedia.medium.com/beyond‐empathy‐ad6b5ad8a1d8."
+      },
+      {
+        "key": "e_1_2_9_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780429196997-4"
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/aman.12826"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1215/9780822375371"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "first-page": "139",
+        "article-title": "Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Policies",
+        "volume": "1",
+        "author": "Crenshaw Kimberlé",
+        "year": "1989",
+        "journal-title": "University of Chicago Legal Forum"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/aman.13183"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/aman.12112"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "volume-title": "Meshes of the Afternoon",
+        "author": "Deren Maya",
+        "year": "1943"
+      },
+      {
+        "key": "e_1_2_9_25_1",
+        "unstructured": "Documentary Accountability Working Group.2022. Accessed November 7 2022. https://www.docaccountability.org/."
+      },
+      {
+        "key": "e_1_2_9_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1440-172X.2006.00605.x"
+      },
+      {
+        "key": "e_1_2_9_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1215/9780822374695"
+      },
+      {
+        "key": "e_1_2_9_28_1",
+        "unstructured": "Ethnocine Collective.2020. “Ethnocine: An Introduction.” Visual and New Media Review Fieldsights. Accessed April 11 2020.https://culanth.org/fieldsights/ethnocine‐an‐introduction."
+      },
+      {
+        "key": "e_1_2_9_29_1",
+        "volume-title": "Time and the Other: How Anthropology Makes its Object",
+        "author": "Fabian Johannes",
+        "year": "1983"
+      },
+      {
+        "key": "e_1_2_9_30_1",
+        "first-page": "233",
+        "volume-title": "From to Repair the World: Paul Farmer Speaks to the Next Generation",
+        "author": "Farmer Paul",
+        "year": "2011"
+      },
+      {
+        "key": "e_1_2_9_31_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Georgis Dina.2013.The Better Story: Queer Affects from the Middle East.Albany:SUNY Press.",
+        "DOI": "10.1353/book21974"
+      },
+      {
+        "key": "e_1_2_9_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/9780520914704-014"
+      },
+      {
+        "key": "e_1_2_9_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/fq.2018.72.1.39"
+      },
+      {
+        "key": "e_1_2_9_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3998/mpub.10257"
+      },
+      {
+        "key": "e_1_2_9_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2979/blackcamera.6.2.187"
+      },
+      {
+        "key": "e_1_2_9_36_1",
+        "unstructured": "Green Kai M. dir.2011.It Gets Messy in Here."
+      },
+      {
+        "key": "e_1_2_9_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07491409.2012.724524"
+      },
+      {
+        "key": "e_1_2_9_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467‐9655.2009.01573.x"
+      },
+      {
+        "key": "e_1_2_9_39_1",
+        "volume-title": "Smile4Kime, 23:40 mins",
+        "author": "Guzman Elena",
+        "year": "2023"
+      },
+      {
+        "key": "e_1_2_9_40_1",
+        "volume-title": "Decolonizing Anthropology: Moving Further toward an Anthropology for Liberation",
+        "author": "Harrison Faye Venetia",
+        "year": "2010"
+      },
+      {
+        "key": "e_1_2_9_41_1",
+        "unstructured": "Harvard Sensory Ethnography Lab.2022. Accessed July 12 2022.https://sel.fas.harvard.edu/."
+      },
+      {
+        "key": "e_1_2_9_42_1",
+        "unstructured": "Hong Emily andJa Htoi PanMaran.2017. “Political Affect in a Time of War: The Power of Kachin New Media Arts.” Presentation at the War in Kachinland: History Culture Power and Perspectives Kachinland Studies Symposium Myitkyina 2017."
+      },
+      {
+        "key": "e_1_2_9_43_1",
+        "volume-title": "Nobel Nok Dah",
+        "author": "Hong Emily",
+        "year": "2015"
+      },
+      {
+        "key": "e_1_2_9_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14506/ca36.4.09"
+      },
+      {
+        "key": "e_1_2_9_45_1",
+        "volume-title": "Feminist Theory: From Margin to Center",
+        "author": "hooks bell",
+        "year": "1984"
+      },
+      {
+        "key": "e_1_2_9_46_1",
+        "unstructured": "Hue Emily.2020a. “Feminist Praxis in Ethno‐Fiction.”Fieldsightswebsite. Accessed March 5 2021.https://culanth.org/fieldsights/feminist‐praxis‐in‐ethno‐fiction."
+      },
+      {
+        "key": "e_1_2_9_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5749/CES.0602.hue"
+      },
+      {
+        "key": "e_1_2_9_48_1",
+        "volume-title": "Tell my Horse",
+        "author": "Hurston Zora Neale",
+        "year": "1938"
+      },
+      {
+        "key": "e_1_2_9_49_1",
+        "volume-title": "Dust Tracks on a Road: An Autobiography",
+        "author": "Hurston Zora Neale",
+        "year": "1971"
+      },
+      {
+        "key": "e_1_2_9_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/aa.2004.106.1.32"
+      },
+      {
+        "key": "e_1_2_9_51_1",
+        "volume-title": "Expedition Content",
+        "author": "Karel Ernst",
+        "year": "2020"
+      },
+      {
+        "key": "e_1_2_9_52_1",
+        "unstructured": "Karrabing Film Collective dir.2015.Windjarrameru(The Stealing C*nt$)."
+      },
+      {
+        "key": "e_1_2_9_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780429196997-19"
+      },
+      {
+        "key": "e_1_2_9_54_1",
+        "volume-title": "Love Means Having No Fear",
+        "author": "Krishnamurti Jiddu",
+        "year": "1978"
+      },
+      {
+        "key": "e_1_2_9_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/var.12184"
+      },
+      {
+        "key": "e_1_2_9_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.25969/mediarep/15056"
+      },
+      {
+        "key": "e_1_2_9_57_1",
+        "volume-title": "Accompanying: Pathways to Social Change",
+        "author": "Lynd Staughton",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_9_58_1",
+        "volume-title": "Transcultural Cinema",
+        "author": "MacDougall David",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_9_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1215/9780822381372"
+      },
+      {
+        "key": "e_1_2_9_60_1",
+        "volume-title": "A Joking Relationship",
+        "author": "Marshall John",
+        "year": "1962"
+      },
+      {
+        "key": "e_1_2_9_61_1",
+        "volume-title": "Her Silent Life",
+        "author": "McIntyre Lindsay",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_9_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1215/9781478012573"
+      },
+      {
+        "key": "e_1_2_9_63_1",
+        "first-page": "3",
+        "volume-title": "Principles of Visual Anthropology",
+        "author": "Mead Margaret",
+        "year": "1974"
+      },
+      {
+        "key": "e_1_2_9_64_1",
+        "volume-title": "Phone & Spear: A Yuta Anthropology",
+        "author": "Media Miyarrka",
+        "year": "2019"
+      },
+      {
+        "key": "e_1_2_9_65_1",
+        "volume-title": "This Bridge Called my Back: Writings by Radical Women of Color",
+        "author": "Moraga Cherríe",
+        "year": "2015"
+      },
+      {
+        "key": "e_1_2_9_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1548‐1433.2012.01544.x"
+      },
+      {
+        "key": "e_1_2_9_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/9780520964587"
+      },
+      {
+        "key": "e_1_2_9_68_1",
+        "article-title": "How to Cross the US‐Mexico Border: Making El Mar La Mar",
+        "author": "Oltermann Philip",
+        "year": "2017",
+        "journal-title": "The Guardian"
+      },
+      {
+        "key": "e_1_2_9_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780190698904.001.0001"
+      },
+      {
+        "key": "e_1_2_9_70_1",
+        "volume-title": "Love and Rage: The Path of Liberation through Anger",
+        "author": "Owens Lama Rod",
+        "year": "2020"
+      },
+      {
+        "key": "e_1_2_9_71_1",
+        "volume-title": "Handbook of Autoethnography",
+        "author": "Pathak Archana",
+        "year": "2013"
+      },
+      {
+        "key": "e_1_2_9_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4135/9781473917057"
+      },
+      {
+        "key": "e_1_2_9_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/fmh.2015.1.3.95"
+      },
+      {
+        "key": "e_1_2_9_74_1",
+        "volume-title": "Auto/Ethnography: Rewriting the Self and the Social",
+        "author": "Reed‐Danahay Deborah",
+        "year": "1997"
+      },
+      {
+        "key": "e_1_2_9_75_1",
+        "volume-title": "Chronicle of a Summer",
+        "author": "Rouch Jean",
+        "year": "1961"
+      },
+      {
+        "key": "e_1_2_9_76_1",
+        "volume-title": "Ciné‐Ethnography",
+        "author": "Rouch Jean",
+        "year": "2003"
+      },
+      {
+        "key": "e_1_2_9_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/var.12059"
+      },
+      {
+        "key": "e_1_2_9_78_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02560046.2013.855513"
+      },
+      {
+        "key": "e_1_2_9_79_1",
+        "volume-title": "DDR/DDR",
+        "author": "Siegel Amie",
+        "year": "2008"
+      },
+      {
+        "key": "e_1_2_9_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/var.12028"
+      },
+      {
+        "key": "e_1_2_9_81_1",
+        "volume-title": "Picturing Oriental Girls: A [Re] Educational Videotape",
+        "author": "Soe Valerie",
+        "year": "1992"
+      },
+      {
+        "key": "e_1_2_9_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5840/philosophin200314275"
+      },
+      {
+        "key": "e_1_2_9_83_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.9783/9780812203141"
+      },
+      {
+        "key": "e_1_2_9_84_1",
+        "first-page": "2019",
+        "volume-title": "Fake Fruit Factory",
+        "author": "Strand Chick",
+        "year": "1986"
+      },
+      {
+        "key": "e_1_2_9_85_1",
+        "volume-title": "History and Memory: For Akiko and Takashige",
+        "author": "Tajiri Rea",
+        "year": "1991"
+      },
+      {
+        "key": "e_1_2_9_86_1",
+        "volume-title": "Mimesis and Alterity: A Particular History of the Senses",
+        "author": "Taussig Michael",
+        "year": "1993"
+      },
+      {
+        "key": "e_1_2_9_87_1",
+        "unstructured": "The Cinema Guild.2017.“El Mar La Mar”The Cinema GuildWebsite. Accessed June 23 2021.http://www.cinemaguild.com/theatrical/elmarlamar.html."
+      },
+      {
+        "key": "e_1_2_9_88_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1215/9780822394556"
+      },
+      {
+        "key": "e_1_2_9_89_1",
+        "volume-title": "Flash of the Spirit",
+        "author": "Thompson Robert Farris",
+        "year": "1983"
+      },
+      {
+        "key": "e_1_2_9_90_1",
+        "volume-title": "Surname Viet Given Name Nam",
+        "author": "Trinh T. Minh‐ha",
+        "year": "1985"
+      },
+      {
+        "key": "e_1_2_9_91_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/778886"
+      },
+      {
+        "key": "e_1_2_9_92_1",
+        "volume-title": "Silencing the Past: Power and the Production of History",
+        "author": "Trouillot Michel‐Rolph",
+        "year": "1995"
+      },
+      {
+        "key": "e_1_2_9_93_1",
+        "volume-title": "Scattered Africa Faces and Voices of the African Diaspora",
+        "author": "Walker Sheila S",
+        "year": "2002"
+      },
+      {
+        "key": "e_1_2_9_94_1",
+        "volume-title": "Familiar Faces/Unexpected Places: A Global African Diaspora",
+        "author": "Walker Shelia S",
+        "year": "2018"
+      },
+      {
+        "key": "e_1_2_9_95_1",
+        "volume-title": "Four Days in May: Kingston 2010",
+        "author": "Wedderburn Junior “Gabu”",
+        "year": "2017"
+      },
+      {
+        "key": "e_1_2_9_96_1",
+        "first-page": "238",
+        "volume-title": "Ex‐Iles: Essays on Caribbean Cinema",
+        "author": "Wynter Sylvia",
+        "year": "1992"
+      }
+    ],
+    "container-title": [
+      "Visual Anthropology Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/var.12273",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/var.12273",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/var.12273",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          17
+        ]
+      ],
+      "date-time": "2023-08-17T16:01:46Z",
+      "timestamp": 1692288106000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/var.12273"
+      }
+    },
+    "subtitle": [
+      "Embodied Filmmaking as a Politic of Necessity"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9
+        ]
+      ]
+    },
+    "references-count": 95,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/var.12273"
+    ],
+    "URL": "https://doi.org/10.1111/var.12273",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "1058-7187",
+      "1548-7458"
+    ],
+    "issn-type": [
+      {
+        "value": "1058-7187",
+        "type": "print"
+      },
+      {
+        "value": "1548-7458",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2023-01-05",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2026-03-30T15:44:43Z",
+      "timestamp": 1774885483434,
+      "version": "3.50.1"
+    },
+    "reference-count": 44,
+    "publisher": "Informa UK Limited",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              28
+            ]
+          ],
+          "date-time": "2025-04-28T00:00:00Z",
+          "timestamp": 1745798400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "UKRI Future Leaders Fellowship ‘Sensing Spaces of Healthcare’"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Rethinking History"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1080/13642529.2025.2491159",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2025-04-28T07:14:32Z",
+      "timestamp": 1745824472000
+    },
+    "page": "28-59",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Making memories: creative research and sensory history"
+    ],
+    "prefix": "10.1080",
+    "volume": "30",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3106-7764",
+        "authenticated-orcid": false,
+        "given": "Victoria",
+        "family": "Bates",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Bristol",
+            "place": [
+              "Bristol, UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0098-579X",
+        "authenticated-orcid": false,
+        "given": "Rebecka",
+        "family": "Fleetwood-Smith",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Bristol",
+            "place": [
+              "Bristol, UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          28
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_6_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1353/crt.2005.0001"
+      },
+      {
+        "key": "e_1_3_6_3_1",
+        "first-page": "1",
+        "volume-title": "The Routledge Handbook of Reenactment Studies: Key Terms in the Field",
+        "author": "Agnew Vanessa",
+        "year": "2020",
+        "unstructured": "Agnew, Vanessa, Lamb Jonathan, and Tomann. Juliane. 2020. “Introduction: What is Reenactment Studies?” In The Routledge Handbook of Reenactment Studies: Key Terms in the Field, edited by Vanessa Agnew; Jonathan Lamb, and Juliane Tomann, 1–11. Abingdon; New York: Routledge."
+      },
+      {
+        "key": "e_1_3_6_4_1",
+        "unstructured": "Arnold-Forster Agnes. 2024. Nostalgia: A History of a Dangerous Emotion. Pan Macmillan."
+      },
+      {
+        "key": "e_1_3_6_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5130/phrj.v18i0.2135"
+      },
+      {
+        "key": "e_1_3_6_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/9781108885010"
+      },
+      {
+        "key": "e_1_3_6_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.wss.2022.100099"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_3_6_8_1",
+        "article-title": "The Power of Visual Approaches in Qualitative Inquiry: The Use of Collage Making and Concept Mapping in Experiential Research",
+        "volume": "6",
+        "author": "Butler-Kisber Lynn",
+        "year": "2010",
+        "unstructured": "Butler-Kisber, Lynn, and Tiiu Poldma. 2010. “The Power of Visual Approaches in Qualitative Inquiry: The Use of Collage Making and Concept Mapping in Experiential Research.” Journal of Research Practice 6 (2).",
+        "journal-title": "Journal of Research Practice"
+      },
+      {
+        "key": "e_1_3_6_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/16094069231165932"
+      },
+      {
+        "key": "e_1_3_6_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ohr/ohv003"
+      },
+      {
+        "key": "e_1_3_6_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/shm/hkaa041"
+      },
+      {
+        "key": "e_1_3_6_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18546/LRE.17.3.03"
+      },
+      {
+        "key": "e_1_3_6_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315666273-6"
+      },
+      {
+        "key": "e_1_3_6_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1386/jaah_00078_1"
+      },
+      {
+        "key": "e_1_3_6_15_1",
+        "unstructured": "Flexer Michael. “Messages in Bottles.” Accessed August 25 2023. https://waitingtimes.exeter.ac.uk/the-work/messages-in-bottle-project-with-hospiscare/."
+      },
+      {
+        "key": "e_1_3_6_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/291224.291235"
+      },
+      {
+        "key": "e_1_3_6_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/hwj/dbaa010"
+      },
+      {
+        "key": "e_1_3_6_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1525/tph.2015.37.4.14"
+      },
+      {
+        "key": "e_1_3_6_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13642529.2023.2270265"
+      },
+      {
+        "key": "e_1_3_6_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14626268.2022.2082487"
+      },
+      {
+        "key": "e_1_3_6_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7765/9781526152732.00011"
+      },
+      {
+        "key": "e_1_3_6_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780203559055"
+      },
+      {
+        "key": "e_1_3_6_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315727240"
+      },
+      {
+        "key": "e_1_3_6_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1057/9781137393890_3"
+      },
+      {
+        "key": "e_1_3_6_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/j.ctt1t88xn4"
+      },
+      {
+        "key": "e_1_3_6_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.51952/9781447356769"
+      },
+      {
+        "key": "e_1_3_6_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/hwj/dbv015"
+      },
+      {
+        "key": "e_1_3_6_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(18)33173-8"
+      },
+      {
+        "key": "e_1_3_6_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315775760"
+      },
+      {
+        "key": "e_1_3_6_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-658-30956-5_12"
+      },
+      {
+        "key": "e_1_3_6_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1057/s41285-019-00089-x"
+      },
+      {
+        "key": "e_1_3_6_32_1",
+        "volume-title": "Making Sense of Medicine: Material Culture and the Reproduction of Medical Knowledge",
+        "author": "Nott John",
+        "year": "2022",
+        "unstructured": "Nott, John, and Anna Harris, eds. 2022. Making Sense of Medicine: Material Culture and the Reproduction of Medical Knowledge. Bristol: Intellect Books."
+      },
+      {
+        "key": "e_1_3_6_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14324/111.9781787352636"
+      },
+      {
+        "key": "e_1_3_6_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4135/9781473917057"
+      },
+      {
+        "key": "e_1_3_6_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1937586719900954"
+      },
+      {
+        "key": "e_1_3_6_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jdh/epl022"
+      },
+      {
+        "key": "e_1_3_6_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12910-015-0004-1"
+      },
+      {
+        "key": "e_1_3_6_38_1",
+        "unstructured": "Texture of Air. 2020. https://www.thetextureofair.uk."
+      },
+      {
+        "key": "e_1_3_6_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1468794117708008"
+      },
+      {
+        "key": "e_1_3_6_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2466473"
+      },
+      {
+        "key": "e_1_3_6_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00940798.2022.2049586"
+      },
+      {
+        "issue": "2008",
+        "key": "e_1_3_6_42_1",
+        "first-page": "41",
+        "article-title": "Telling Objects: Material Culture and Memory in Oral History Interviews",
+        "volume": "30",
+        "author": "Wilton Janis.",
+        "year": "2008",
+        "unstructured": "Wilton, Janis. 2008. “Telling Objects: Material Culture and Memory in Oral History Interviews.” The Oral History Association of Australia Journal 30 (2008): 41–49.",
+        "journal-title": "The Oral History Association of Australia Journal"
+      },
+      {
+        "key": "e_1_3_6_43_1",
+        "volume-title": "Material Methods: Researching and Thinking with Things",
+        "author": "Woodward Sophie.",
+        "year": "2019",
+        "unstructured": "Woodward, Sophie. 2019. Material Methods: Researching and Thinking with Things. London: Sage."
+      },
+      {
+        "key": "e_1_3_6_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2021.700514"
+      },
+      {
+        "key": "e_1_3_6_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/24735132.2021.1883822"
+      }
+    ],
+    "container-title": [
+      "Rethinking History"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/13642529.2025.2491159",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2026-03-30T14:44:47Z",
+      "timestamp": 1774881887000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/13642529.2025.2491159"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          28
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/13642529.2025.2491159"
+    ],
+    "URL": "https://doi.org/10.1080/13642529.2025.2491159",
+    "relation": {},
+    "ISSN": [
+      "1364-2529",
+      "1470-1154"
+    ],
+    "issn-type": [
+      {
+        "value": "1364-2529",
+        "type": "print"
+      },
+      {
+        "value": "1470-1154",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          28
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rrhi20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rrhi20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2024-04-29",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-04-02",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-04-28",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

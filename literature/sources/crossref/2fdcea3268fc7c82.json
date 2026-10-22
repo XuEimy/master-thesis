@@ -1,0 +1,1262 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ],
+      "date-time": "2026-09-20T08:54:09Z",
+      "timestamp": 1789894449564,
+      "version": "4.0.1"
+    },
+    "reference-count": 97,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              23
+            ]
+          ],
+          "date-time": "2025-10-23T00:00:00Z",
+          "timestamp": 1761177600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100007480",
+        "name": "Universidad de Castilla-La Mancha",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100007480",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Psychol."
+    ],
+    "abstract": "<jats:sec>\n                    <jats:title>Introduction</jats:title>\n                    <jats:p>To the best of our knowledge, no previous work has synthesized the efficacy of MIPs based on the retrieval of AMs in relation to a wide range of both basic and complex emotions. This gap highlights the need to better understand how these interventions influence emotional states.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methodology</jats:title>\n                    <jats:p>Accordingly, we conducted a systematic review of the literature and, when data were sufficient, a meta-analysis of pre-post changes in affective state. Our aim was to identify the most effective procedures for manipulating mood within empirical studies, and to develop a coherent framework to organize and interpret the efficacy of these types of MIPs, providing a foundation for future research.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>The existing evidence is fragmented across heterogeneous protocols and lacks a unified quantitative synthesis. This fragmentation underscores the necessity of a systematic review and meta-analysis, which the present article undertakes to address.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>Furthermore, we consider the growing interest in the field of “memory therapy”, given its clinical benefits in helping individuals access past events and allowing them to relive experiences and their associated emotions. This area holds promise for enhancing emotional regulation and therapeutic outcomes.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Systematic review registration</jats:title>\n                    <jats:p>\n                      <jats:ext-link>https://www.crd.york.ac.uk/PROSPERO/view/CRD42021249072</jats:ext-link>\n                      , identifier: CRD42021249072.\n                    </jats:p>\n                  </jats:sec>",
+    "DOI": "10.3389/fpsyg.2025.1574855",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ],
+      "date-time": "2025-10-23T13:37:04Z",
+      "timestamp": 1761226624000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Emotional impact of using different sensory modalities for autobiographical activation: a systematic review and meta-analysis"
+    ],
+    "prefix": "10.3389",
+    "volume": "16",
+    "author": [
+      {
+        "given": "Dolores",
+        "family": "Fernández-Pérez",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Beatriz",
+        "family": "Navarro-Bravo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abel",
+        "family": "Toledano-González",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jorge Javier",
+        "family": "Ricarte",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jose Miguel",
+        "family": "Latorre-Postigo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura",
+        "family": "Ros",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "first-page": "237",
+        "DOI": "10.1016/j.actpsy.2014.07.003",
+        "article-title": "Recollecting positive and negative autobiographical memories disrupts working memory",
+        "volume": "151",
+        "author": "Allen",
+        "year": "2014",
+        "journal-title": "Acta Psychol."
+      },
+      {
+        "key": "B2",
+        "first-page": "149",
+        "article-title": "The validity and reliability of the iranian version of the self-compassion scale",
+        "volume": "1",
+        "author": "Azizi",
+        "year": "2013",
+        "journal-title": "Pract. Clin. Psychol."
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "234",
+        "DOI": "10.1016/j.neuropsychologia.2016.08.012",
+        "article-title": "Neural responses to nostalgia-evoking music modeled by elements of dynamic musical structure and individual differences in affective traits",
+        "volume": "91",
+        "author": "Barrett",
+        "year": "2016",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "first-page": "169",
+        "DOI": "10.1089/acm.2018.0086",
+        "article-title": "The bioavailability of various oral forms of folate supplementation in healthy populations and animal models: a systematic review",
+        "volume": "25",
+        "author": "Bayes",
+        "year": "2019",
+        "journal-title": "J. Altern. Complement. Med."
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "893",
+        "DOI": "10.1037/0022-006X.56.6.893",
+        "article-title": "An inventory for measuring clinical anxiety: psychometric properties",
+        "volume": "56",
+        "author": "Beck",
+        "year": "",
+        "journal-title": "J. Consult. Clin. Psychol."
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "first-page": "77",
+        "DOI": "10.1016/0272-7358(88)90050-5",
+        "article-title": "Psychometric properties of the Beck Depression Inventory: twenty-five years of evaluation",
+        "volume": "8",
+        "author": "Beck",
+        "year": "",
+        "journal-title": "Clin. Psychol. Rev."
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "979",
+        "DOI": "10.1080/09658211.2015.1061012",
+        "article-title": "Music evokes vivid autobiographical memories",
+        "volume": "24",
+        "author": "Belfi",
+        "year": "2016",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "479",
+        "DOI": "10.1007/s10339-020-00966-8",
+        "article-title": "Time flies faster when you're feeling blue: sad mood induction accelerates the perception of time in a temporal judgment task",
+        "volume": "21",
+        "author": "Benau",
+        "year": "2020",
+        "journal-title": "Cogn. Process."
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "first-page": "49",
+        "DOI": "10.1016/0005-7916(94)90063-9",
+        "article-title": "Measuring emotion: the self-assessment manikin and the semantic differential",
+        "volume": "25",
+        "author": "Bradley",
+        "year": "1994",
+        "journal-title": "J. Behav. Ther. Exp. Psychiatry"
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "first-page": "103",
+        "DOI": "10.1159/000515317",
+        "article-title": "Quality of life assessment in older adults with dementia: a systematic review",
+        "volume": "50",
+        "author": "Burks",
+        "year": "2021",
+        "journal-title": "Dement. Geriatr. Cogn. Disord."
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "109",
+        "DOI": "10.1016/S0304-3959(03)00298-7",
+        "article-title": "Emotion induction moderates effects of anger management style on acute pain sensitivity",
+        "volume": "106",
+        "author": "Burns",
+        "year": "2003",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "first-page": "157",
+        "DOI": "10.1177/0305735607085010",
+        "article-title": "Using music to cue autobiographical memories of different lifetime periods",
+        "volume": "36",
+        "author": "Cady",
+        "year": "2008",
+        "journal-title": "Psychol. Music"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "157",
+        "DOI": "10.1007/s40520-019-01147-0",
+        "article-title": "Effects of positive personal and non-personal autobiographical stimuli on emotional regulation in older adults",
+        "volume": "32",
+        "author": "Carretero",
+        "year": "2020",
+        "journal-title": "Aging Clin. Exp. Res."
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "546",
+        "DOI": "10.1080/00223891.1990.9674019",
+        "article-title": "Measuring generalized expectancies for negative mood regulation: initial scale development and implications",
+        "volume": "54",
+        "author": "Catanzaro",
+        "year": "1990",
+        "journal-title": "J. Pers. Assess."
+      },
+      {
+        "key": "B15",
+        "volume-title": "Statistical Power Analysis for the Behavioral Sciences, 2nd Edn",
+        "author": "Cohen",
+        "year": "1988"
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "76",
+        "DOI": "10.1002/da.10113",
+        "article-title": "Development of a new resilience scale: the Connor-Davidson resilience scale (CD-RISC)",
+        "volume": "18",
+        "author": "Connor",
+        "year": "2003",
+        "journal-title": "Depress. Anxiety"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1375",
+        "DOI": "10.1098/rstb.2001.0940",
+        "article-title": "Sensory–perceptual episodic memory and its context: autobiographical memory",
+        "volume": "356",
+        "author": "Conway",
+        "year": "2001",
+        "journal-title": "Philos. Trans. R. Soc. Lond. B Biol. Sci."
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "208",
+        "DOI": "10.1111/j.1467-9280.2007.01874.x",
+        "article-title": "Emotions and false memories: valence or arousal?",
+        "volume": "18",
+        "author": "Corson",
+        "year": "2007",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "first-page": "596",
+        "DOI": "10.1016/j.tics.2014.06.010",
+        "article-title": "Disruptions in autobiographical memory processing in depression and the emergence of memory therapeutics",
+        "volume": "18",
+        "author": "Dalgleish",
+        "year": "2014",
+        "journal-title": "Trends Cogn. Sci."
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1946",
+        "DOI": "10.1016/j.neubiorev.2011.04.004",
+        "article-title": "The brain's emotional foundations of human personality and the affective neuroscience personality scales",
+        "volume": "35",
+        "author": "Davis",
+        "year": "2011",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "57",
+        "DOI": "10.1080/15294145.2003.10773410",
+        "article-title": "The affective neuroscience personality scales: normative data and implications",
+        "volume": "5",
+        "author": "Davis",
+        "year": "2003",
+        "journal-title": "Neuropsychoanalysis"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "first-page": "369",
+        "DOI": "10.1111/j.1467-6494.1994.tb00302.x",
+        "article-title": "The heritability of characteristics associated with dispositional empathy",
+        "volume": "62",
+        "author": "Davis",
+        "year": "1994",
+        "journal-title": "J. Personal."
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "first-page": "988890",
+        "DOI": "10.3389/fnhum.2022.988890",
+        "article-title": "Probing fMRI brain connectivity and activity changes during emotion regulation by EEG neurofeedback",
+        "volume": "16",
+        "author": "Dehghani",
+        "year": "2022",
+        "journal-title": "Front. Hum. Neurosci."
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "first-page": "54",
+        "DOI": "10.1016/j.actpsy.2017.02.002",
+        "article-title": "Eye movement during retrieval of emotional autobiographical memories",
+        "volume": "174",
+        "author": "El Haj",
+        "year": "2017",
+        "journal-title": "Acta Psychol."
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "first-page": "2974",
+        "DOI": "10.1016/j.neuroimage.2011.09.078",
+        "article-title": "Don't look back in anger: neural correlates of reappraisal, analytical rumination, and angry rumination during recall of an anger-inducing autobiographical memory",
+        "volume": "59",
+        "author": "Fabiansson",
+        "year": "2012",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "first-page": "3523",
+        "DOI": "10.1007/s12144-023-04582-5",
+        "article-title": "The role of the personal relevance of images in retrieving autobiographical memories for emotion regulation: a randomized controlled trial study",
+        "volume": "43",
+        "author": "Fernández-Pérez",
+        "year": "2023",
+        "journal-title": "Curr. Psychol."
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0269381",
+        "DOI": "10.1371/journal.pone.0269381",
+        "article-title": "Use of autobiographical stimuli as a mood manipulation procedure: systematic mapping review",
+        "volume": "17",
+        "author": "Fernández-Pérez",
+        "year": "2022",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "first-page": "131",
+        "DOI": "10.1037/1528-3542.5.2.131",
+        "article-title": "Negative mood, self-focused attention, and the experience of physical symptoms: the joint impact hypothesis",
+        "volume": "5",
+        "author": "Gendolla",
+        "year": "2005",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "first-page": "12",
+        "DOI": "10.1037/1528-3542.1.1.12",
+        "article-title": "The informational impact of mood on effort mobilization: a study of cardiovascular and electrodermal responses",
+        "volume": "1",
+        "author": "Gendolla",
+        "year": "2001",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1145/3546155.3546704",
+        "article-title": "Real-world methods of autobiographical recall in virtual reality",
+        "volume": "31",
+        "author": "Gotz",
+        "year": "2022",
+        "journal-title": "Proceedings"
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "first-page": "45",
+        "DOI": "10.1177/1029864910393417",
+        "article-title": "Exploring engagement with music in everyday life using experience sampling methodology",
+        "volume": "15",
+        "author": "Greasley",
+        "year": "2011",
+        "journal-title": "Musicae Sci."
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "first-page": "559",
+        "DOI": "10.1080/09658211.2013.806555",
+        "article-title": "The functions of autobiographical memory: an integrative approach",
+        "volume": "22",
+        "author": "Harris",
+        "year": "2014",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "B33",
+        "first-page": "98",
+        "article-title": "Experimental development of the graphic rating method",
+        "volume": "18",
+        "author": "Hayes",
+        "year": "1921",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "B34",
+        "volume-title": "The Differentia Emotions Scale: A Method of Measuring the Meaning of Subjective Experience of Discrete Emotions",
+        "author": "Izard",
+        "year": "1974"
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "first-page": "318",
+        "DOI": "10.3758/BRM.42.1.318",
+        "article-title": "Inducing changes in arousal and valence: comparison of two mood induction procedures",
+        "volume": "42",
+        "author": "Jallais",
+        "year": "2010",
+        "journal-title": "Behav. Res. Methods"
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "first-page": "755",
+        "DOI": "10.1080/09658210701539646",
+        "article-title": "Temporal distribution of favourite books, movies, and records: differential encoding and re-sampling",
+        "volume": "15",
+        "author": "Janssen",
+        "year": "2007",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "first-page": "58",
+        "DOI": "10.1097/XEB.0000000000000155",
+        "article-title": "The updated Joanna Briggs Institute model of evidence-based healthcare",
+        "volume": "17",
+        "author": "Jordan",
+        "year": "2019",
+        "journal-title": "Int. J. Evid. Based Healthc."
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "2016",
+        "DOI": "10.1016/j.sbspro.2011.04.046",
+        "article-title": "International positive and negative affect schedule short-form (I-PANAS-SF): testing for factorial invariance across cultures",
+        "volume": "15",
+        "author": "Karim",
+        "year": "2011",
+        "journal-title": "Procedia Soc. Behav. Sci."
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "first-page": "225",
+        "DOI": "10.15027/32396",
+        "article-title": "Reliability and validity of the Japanese version of the 20-item Positive and Negative Affect Schedule",
+        "volume": "11",
+        "author": "Kawahito",
+        "year": "2011",
+        "journal-title": "Hiroshima Psychol. Res."
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "first-page": "998",
+        "DOI": "10.1016/j.neuroimage.2008.03.059",
+        "article-title": "Functional grouping and cortical–subcortical interactions in emotion: a meta-analysis of neuroimaging studies",
+        "volume": "42",
+        "author": "Kober",
+        "year": "2008",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "first-page": "635",
+        "DOI": "10.1038/35090055",
+        "article-title": "Neural foundations of imagery",
+        "volume": "2",
+        "author": "Kosslyn",
+        "year": "2001",
+        "journal-title": "Nat. Rev. Neurosci."
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "first-page": "651",
+        "DOI": "10.1007/s00115-006-2098-7",
+        "article-title": "Reliability and validity of the Revised Beck Depression Inventory (BDI-II). Results from German samples",
+        "volume": "78",
+        "author": "Kühner",
+        "year": "2007",
+        "journal-title": "Nervenarzt."
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "first-page": "1581",
+        "DOI": "10.1007/s00371-020-01912-7",
+        "article-title": "Effects of individual's emotions on saliency and visual search",
+        "volume": "37",
+        "author": "Laco",
+        "year": "2021",
+        "journal-title": "Vis. Comput."
+      },
+      {
+        "key": "B44",
+        "doi-asserted-by": "publisher",
+        "first-page": "926",
+        "DOI": "10.1176/ajp.154.7.926",
+        "article-title": "Neuroanatomical correlates of happiness, sadness, and disgust",
+        "volume": "154",
+        "author": "Lane",
+        "year": "1997",
+        "journal-title": "Am. J. Psychiatry"
+      },
+      {
+        "key": "B45",
+        "volume-title": "International Affective Picture System (IAPS): Affective Ratings of Pictures and Instruction Manual (Technical Report A-8)",
+        "author": "Lang",
+        "year": "2008"
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "first-page": "28",
+        "DOI": "10.1037/0882-7974.6.1.28",
+        "article-title": "Emotion, physiology, and expression in old age",
+        "volume": "6",
+        "author": "Levenson",
+        "year": "1991",
+        "journal-title": "Psychol. Aging"
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "first-page": "135",
+        "DOI": "10.1016/j.jbtep.2016.07.016",
+        "article-title": "The impact of angry rumination on anger-primed cognitive control",
+        "volume": "54",
+        "author": "Lievaart",
+        "year": "2017",
+        "journal-title": "J. Behav. Ther. Exp. Psychiatry"
+      },
+      {
+        "key": "B48",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0238434",
+        "DOI": "10.1371/journal.pone.0238434",
+        "article-title": "Autobiographical emotional induction in older people through popular songs: effect of reminiscence bump and enculturation",
+        "volume": "15",
+        "author": "López-Cano",
+        "year": "2020",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B49",
+        "doi-asserted-by": "publisher",
+        "first-page": "241",
+        "DOI": "10.1007/s10484-013-9226-5",
+        "article-title": "Utilizing heartbeat evoked potentials to identify cardiac regulation of vagal afferents during emotion and resonant breathing",
+        "volume": "38",
+        "author": "MacKinnon",
+        "year": "2013",
+        "journal-title": "Appl. Psychophysiol. Biofeedback"
+      },
+      {
+        "key": "B50",
+        "doi-asserted-by": "publisher",
+        "first-page": "243",
+        "DOI": "10.3758/CABN.7.3.243",
+        "article-title": "Autonomic and prefrontal cortex responses to autobiographical recall of emotions",
+        "volume": "7",
+        "author": "Marci",
+        "year": "2007",
+        "journal-title": "Cogn. Affect. Behav. Neurosci."
+      },
+      {
+        "key": "B51",
+        "doi-asserted-by": "publisher",
+        "first-page": "17",
+        "DOI": "10.1111/j.2044-8295.1990.tb02343.x",
+        "article-title": "Refining the measurement of mood: the UWIST mood adjective checklist",
+        "volume": "81",
+        "author": "Matthews",
+        "year": "1990",
+        "journal-title": "Br. J. Psychol."
+      },
+      {
+        "key": "B52",
+        "doi-asserted-by": "publisher",
+        "first-page": "102",
+        "DOI": "10.1037/0022-3514.55.1.102",
+        "article-title": "The experience and meta-experience of mood",
+        "volume": "55",
+        "author": "Mayer",
+        "year": "1988",
+        "journal-title": "J. Pers. Soc. Psychol."
+      },
+      {
+        "key": "B53",
+        "doi-asserted-by": "publisher",
+        "first-page": "186",
+        "DOI": "10.1046/j.1432-1327.2000.01821.x",
+        "article-title": "Imagination can create false autobiographical memories",
+        "volume": "14",
+        "author": "Mazzoni",
+        "year": "2003",
+        "journal-title": "Psychol. Sci."
+      },
+      {
+        "key": "B54",
+        "doi-asserted-by": "publisher",
+        "first-page": "191",
+        "DOI": "10.1016/0304-3959(87)91074-8",
+        "article-title": "The short form of the McGill pain questionnaire",
+        "volume": "30",
+        "author": "Melzack",
+        "year": "1987",
+        "journal-title": "Pain"
+      },
+      {
+        "key": "B55",
+        "volume-title": "The Anthropology of Music",
+        "author": "Merriam",
+        "year": "1964"
+      },
+      {
+        "key": "B56",
+        "doi-asserted-by": "publisher",
+        "first-page": "e95837",
+        "DOI": "10.1371/journal.pone.0095837",
+        "article-title": "On the validity of the autobiographical emotional memory task for emotion induction",
+        "volume": "9",
+        "author": "Mills",
+        "year": "2014",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B57",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0293871",
+        "DOI": "10.1371/journal.pone.0293871",
+        "article-title": "Duration of mood effects following a Japanese version of the mood induction task",
+        "volume": "19",
+        "author": "Monno",
+        "year": "2024",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B58",
+        "doi-asserted-by": "publisher",
+        "first-page": "235",
+        "DOI": "10.5964/ejop.4629",
+        "article-title": "Deliberately retrieved negative memories can improve mood beyond the intention to do so",
+        "volume": "18",
+        "author": "Nourkova",
+        "year": "2022",
+        "journal-title": "Eur. J. Psychol."
+      },
+      {
+        "key": "B59",
+        "first-page": "352",
+        "article-title": "“Research with the mood adjective check list,”",
+        "volume-title": "Affect, Cognition and Personality",
+        "author": "Nowlis",
+        "year": "1965"
+      },
+      {
+        "key": "B60",
+        "doi-asserted-by": "publisher",
+        "first-page": "15",
+        "DOI": "10.1080/09658211.2017.1316510",
+        "article-title": "Autobiographical remembering regulates emotions: a functional perspective",
+        "volume": "26",
+        "author": "Öner",
+        "year": "2018",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "B61",
+        "doi-asserted-by": "publisher",
+        "first-page": "618676",
+        "DOI": "10.3389/fpsyg.2021.618676",
+        "article-title": "Emotions induced by recalling memories about interpersonal stress",
+        "volume": "12",
+        "author": "Ozawa",
+        "year": "2021",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "B62",
+        "doi-asserted-by": "publisher",
+        "first-page": "203",
+        "DOI": "10.1037/a0034289",
+        "article-title": "Sadness increases distraction by auditory deviant stimuli",
+        "volume": "14",
+        "author": "Pacheco-Unguetti",
+        "year": "2014",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "B63",
+        "doi-asserted-by": "publisher",
+        "first-page": "419",
+        "DOI": "10.1111/bjop.12148",
+        "article-title": "Happiness increases distraction by auditory deviant stimuli",
+        "volume": "107",
+        "author": "Pacheco-Unguetti",
+        "year": "2016",
+        "journal-title": "Br. J. Psychol."
+      },
+      {
+        "key": "B64",
+        "doi-asserted-by": "publisher",
+        "first-page": "28",
+        "DOI": "10.1016/j.newideapsych.2016.12.001",
+        "article-title": "Emotion regulation, autobiographical memories and life narratives",
+        "volume": "45",
+        "author": "Pascuzzi",
+        "year": "2017",
+        "journal-title": "New Ideas Psychol."
+      },
+      {
+        "key": "B65",
+        "doi-asserted-by": "publisher",
+        "first-page": "270",
+        "DOI": "10.1037/1528-3542.3.3.270",
+        "article-title": "Consequences of specific processing of emotional information: impact of general versus specific autobiographical memory priming on emotion elicitation",
+        "volume": "3",
+        "author": "Philippot",
+        "year": "2003",
+        "journal-title": "Emotion"
+      },
+      {
+        "key": "B66",
+        "first-page": "249",
+        "article-title": "Revision of the positive affect and negative affect scale",
+        "volume": "3",
+        "author": "Qiu",
+        "year": "2008",
+        "journal-title": "Chin. J. Appl. Psychol."
+      },
+      {
+        "key": "B67",
+        "doi-asserted-by": "publisher",
+        "first-page": "396",
+        "DOI": "10.1080/09658211.2021.1896736",
+        "article-title": "Does self-focus orientation influence recall of autobiographical memories and subsequent mood in dysphoria?",
+        "volume": "29",
+        "author": "Quigley",
+        "year": "2021",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "B68",
+        "doi-asserted-by": "publisher",
+        "first-page": "500",
+        "DOI": "10.1037/a0016063",
+        "article-title": "When nonsense sounds happy or helpless: the implicit positive and negative affect test (IPANAT)",
+        "volume": "97",
+        "author": "Quirin",
+        "year": "2009",
+        "journal-title": "J. Personal. Soc. Psychol."
+      },
+      {
+        "key": "B69",
+        "doi-asserted-by": "publisher",
+        "first-page": "5",
+        "DOI": "10.1016/j.ijpsycho.2005.10.024",
+        "article-title": "Basic emotions are associated with distinct patterns of cardiorespiratory activity",
+        "volume": "61",
+        "author": "Rainville",
+        "year": "2006",
+        "journal-title": "Int. J. Psychophysiol."
+      },
+      {
+        "key": "B70",
+        "doi-asserted-by": "publisher",
+        "first-page": "147",
+        "DOI": "10.1002/acp.858",
+        "article-title": "Intuitions and introspections about imagery: the role of imagery experience in shaping an investigator's theoretical views",
+        "volume": "17",
+        "author": "Reisberg",
+        "year": "2003",
+        "journal-title": "Appl. Cogn. Psychol."
+      },
+      {
+        "key": "B71",
+        "doi-asserted-by": "publisher",
+        "first-page": "435",
+        "DOI": "10.1080/02699939108411052",
+        "article-title": "Beyond the emotional event: six studies on the social sharing of emotion",
+        "volume": "5",
+        "author": "Rimé",
+        "year": "1991",
+        "journal-title": "Cogn. Emot."
+      },
+      {
+        "key": "B72",
+        "doi-asserted-by": "publisher",
+        "first-page": "603",
+        "DOI": "10.1080/10615806.2011.582948",
+        "article-title": "Transient state-dependent fluctuations in anxiety measured using STAI, POMS, PANAS or VAS: a comparative review",
+        "volume": "25",
+        "author": "Rossi",
+        "year": "2012",
+        "journal-title": "Anxiety Stress Coping"
+      },
+      {
+        "key": "B73",
+        "doi-asserted-by": "publisher",
+        "first-page": "887",
+        "DOI": "10.3758/BF03196443",
+        "article-title": "Belief and recollection of autobiographical memories",
+        "volume": "31",
+        "author": "Rubin",
+        "year": "2003",
+        "journal-title": "Mem. Cogn."
+      },
+      {
+        "key": "B74",
+        "doi-asserted-by": "publisher",
+        "first-page": "493",
+        "DOI": "10.1037/0022-3514.57.3.493",
+        "article-title": "Affect grid: a single-item scale of pleasure and activation",
+        "volume": "57",
+        "author": "Russell",
+        "year": "1989",
+        "journal-title": "J. Pers. Soc. Psychol."
+      },
+      {
+        "key": "B75",
+        "first-page": "71",
+        "article-title": "Un instrumento para evaluar la eficacia de los procedimientos de inducción de estado de ánimo: “la escala de valoración del estado de ánimo” (EVEA) [An instrument to assess mood induction procedures: the “mood evaluation scale”]",
+        "volume": "27",
+        "author": "Sanz",
+        "year": "2001",
+        "journal-title": "Anál. Modif. Conducta"
+      },
+      {
+        "key": "B76",
+        "doi-asserted-by": "publisher",
+        "first-page": "1153",
+        "DOI": "10.1080/02699930903274322",
+        "article-title": "Assessing the effectiveness of a large database of emotion-eliciting films: a new tool for emotion researchers",
+        "volume": "24",
+        "author": "Schaefer",
+        "year": "2010",
+        "journal-title": "Cogn. Emot."
+      },
+      {
+        "key": "B77",
+        "doi-asserted-by": "publisher",
+        "first-page": "304",
+        "DOI": "10.1016/j.neuroimage.2010.11.051",
+        "article-title": "The neural basis of visual dominance in the context of audio-visual object processing",
+        "volume": "55",
+        "author": "Schmid",
+        "year": "2011",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "B78",
+        "doi-asserted-by": "publisher",
+        "first-page": "304",
+        "DOI": "10.1111/j.1467-8721.2008.00595.x",
+        "article-title": "Nostalgia past, present, and future",
+        "volume": "17",
+        "author": "Sedikides",
+        "year": "2008",
+        "journal-title": "Curr. Dir. Psychol. Sci."
+      },
+      {
+        "key": "B79",
+        "doi-asserted-by": "publisher",
+        "first-page": "289",
+        "DOI": "10.1016/j.jbtep.2015.10.005",
+        "article-title": "Mood repair in healthy individuals: both processing mode and imagery content matter",
+        "volume": "50",
+        "author": "Seebauer",
+        "year": "2016",
+        "journal-title": "J. Behav. Ther. Exp. Psychiatry"
+      },
+      {
+        "key": "B80",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0117105",
+        "DOI": "10.1371/journal.pone.0117105",
+        "article-title": "Negative emotional events that people ruminate about feel closer in time",
+        "volume": "10",
+        "author": "Siedlecka",
+        "year": "2015",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B81",
+        "doi-asserted-by": "publisher",
+        "first-page": "87",
+        "DOI": "10.1177/1754073917749016",
+        "article-title": "Experimental methods for inducing basic emotions: a qualitative review",
+        "volume": "11",
+        "author": "Siedlecka",
+        "year": "2019",
+        "journal-title": "Emot. Rev."
+      },
+      {
+        "key": "B82",
+        "doi-asserted-by": "publisher",
+        "first-page": "673",
+        "DOI": "10.3758/BF03193770",
+        "article-title": "Visual dominance and attention: the Colavita effect revisited",
+        "volume": "69",
+        "author": "Sinnett",
+        "year": "2007",
+        "journal-title": "Percept. Psychophys."
+      },
+      {
+        "key": "B83",
+        "doi-asserted-by": "publisher",
+        "first-page": "0093",
+        "DOI": "10.1038/s41562-017-0093",
+        "article-title": "Reminiscing about positive memories buffers acute stress responses",
+        "volume": "1",
+        "author": "Speer",
+        "year": "2017",
+        "journal-title": "Nat. Hum. Behav."
+      },
+      {
+        "key": "B84",
+        "doi-asserted-by": "publisher",
+        "first-page": "387",
+        "DOI": "10.1037/h0020742",
+        "article-title": "Review of Profile of Mood States [Review of the book Profile of mood states, by D. M. McNair, M. Lorr, and L. F. Droppleman]",
+        "volume": "3",
+        "author": "Spielberger",
+        "year": "1972",
+        "journal-title": "Prof. Psychol."
+      },
+      {
+        "key": "B85",
+        "first-page": "5",
+        "article-title": "“The experience and expression of anger: construction and validation of an anger expression scale,”",
+        "volume-title": "Anger and Hostility in Cardiovascular and Behavioral Disorders",
+        "author": "Spielberger",
+        "year": "1985"
+      },
+      {
+        "key": "B86",
+        "doi-asserted-by": "publisher",
+        "first-page": "383",
+        "DOI": "10.3758/s13415-016-0414-7",
+        "article-title": "The neural correlates of happiness: a review of PET and fMRI studies using autobiographical recall methods",
+        "volume": "16",
+        "author": "Suardi",
+        "year": "2016",
+        "journal-title": "Cogn. Affect. Behav. Neurosci."
+      },
+      {
+        "key": "B87",
+        "doi-asserted-by": "publisher",
+        "first-page": "1317",
+        "DOI": "10.1098/rstb.2008.0301",
+        "article-title": "Mental time travel and the shaping of the human mind",
+        "volume": "364",
+        "author": "Suddendorf",
+        "year": "2009",
+        "journal-title": "Philos. Trans. R. Soc. B Biol. Sci."
+      },
+      {
+        "key": "B88",
+        "doi-asserted-by": "publisher",
+        "first-page": "84",
+        "DOI": "10.1016/j.actpsy.2016.11.012",
+        "article-title": "The effect of cue content on retrieval from autobiographical memory",
+        "volume": "172",
+        "author": "Uzer",
+        "year": "2017",
+        "journal-title": "Acta Psychol."
+      },
+      {
+        "key": "B89",
+        "doi-asserted-by": "publisher",
+        "first-page": "48",
+        "DOI": "10.1016/j.brat.2008.10.014",
+        "article-title": "Concreteness training reduces dysphoria: a pilot proof-of-principle study",
+        "volume": "47",
+        "author": "Watkins",
+        "year": "2009",
+        "journal-title": "Behav. Res. Ther."
+      },
+      {
+        "key": "B90",
+        "doi-asserted-by": "publisher",
+        "first-page": "1063",
+        "DOI": "10.1037/0022-3514.54.6.1063",
+        "article-title": "Development and validation of brief measures of positive and negative affect: the PANAS scales",
+        "volume": "54",
+        "author": "Watson",
+        "year": "1988",
+        "journal-title": "J. Pers. Soc. Psychol."
+      },
+      {
+        "key": "B91",
+        "doi-asserted-by": "publisher",
+        "first-page": "557",
+        "DOI": "10.1002/(SICI)1099-0992(199607)26:4&lt;557::AID-EJSP769&gt;3.0.CO;2-4",
+        "article-title": "Relative effectiveness and validity of mood induction procedures: a meta-analysis",
+        "volume": "26",
+        "author": "Westermann",
+        "year": "1996",
+        "journal-title": "Eur. J. Soc. Psychol."
+      },
+      {
+        "key": "B92",
+        "doi-asserted-by": "publisher",
+        "first-page": "331",
+        "DOI": "10.1037/0033-2909.121.3.331",
+        "article-title": "Toward a theory of episodic memory: the frontal lobes and autonoetic consciousness",
+        "volume": "121",
+        "author": "Wheeler",
+        "year": "1997",
+        "journal-title": "Psychol. Bull."
+      },
+      {
+        "key": "B93",
+        "doi-asserted-by": "publisher",
+        "first-page": "240",
+        "DOI": "10.3758/BF03193837",
+        "article-title": "Smell your way back to childhood: autobiographical odor memory",
+        "volume": "13",
+        "author": "Willander",
+        "year": "2006",
+        "journal-title": "Psychon. Bull. Rev."
+      },
+      {
+        "key": "B94",
+        "doi-asserted-by": "publisher",
+        "first-page": "1681",
+        "DOI": "10.3389/fpsyg.2015.01681",
+        "article-title": "Multimodal retrieval of autobiographical memories: sensory information contributes differently to the recollection of events",
+        "volume": "6",
+        "author": "Willander",
+        "year": "2015",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "B95",
+        "doi-asserted-by": "publisher",
+        "first-page": "517",
+        "DOI": "10.1007/s10339-018-0872-7",
+        "article-title": "The influence of induced mood on music preference",
+        "volume": "19",
+        "author": "Xue",
+        "year": "2018",
+        "journal-title": "Cogn. Process."
+      },
+      {
+        "key": "B96",
+        "unstructured": "Zator\n              K.\n            \n          \n          Ph.D. thesis\n          Popular Music-Evoked Autobiographical Memories—Developing a Database of Songs and Studying the Role of Cue Emotionality and Relevance on Recalled Memories\n          \n          2017"
+      },
+      {
+        "key": "B97",
+        "doi-asserted-by": "publisher",
+        "first-page": "1271",
+        "DOI": "10.1037/0022-3514.77.6.1271",
+        "article-title": "Putting time in perspective: a valid, reliable individual-differences metric",
+        "volume": "77",
+        "author": "Zimbardo",
+        "year": "1999",
+        "journal-title": "J. Personal. Soc. Psychol."
+      }
+    ],
+    "container-title": [
+      "Frontiers in Psychology"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1574855/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ],
+      "date-time": "2025-10-23T13:37:08Z",
+      "timestamp": 1761226628000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fpsyg.2025.1574855/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ]
+    },
+    "references-count": 97,
+    "alternative-id": [
+      "10.3389/fpsyg.2025.1574855"
+    ],
+    "URL": "https://doi.org/10.3389/fpsyg.2025.1574855",
+    "relation": {},
+    "ISSN": [
+      "1664-1078"
+    ],
+    "issn-type": [
+      {
+        "value": "1664-1078",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ]
+    },
+    "article-number": "1574855"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2026-10-07T22:25:59Z",
+      "timestamp": 1791411959289,
+      "version": "4.3.3"
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "value": "9780199737833",
+        "type": "print"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          20
+        ]
+      ]
+    },
+    "DOI": "10.1093/acprof:oso/9780199737833.001.0001",
+    "type": "monograph",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          1
+        ]
+      ],
+      "date-time": "2013-10-01T15:49:13Z",
+      "timestamp": 1380642553000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 155,
+    "title": [
+      "The Autobiographical Self in Time and Culture"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Qi",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "container-title": [],
+    "original-title": [],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2022-08-02T22:56:00Z",
+      "timestamp": 1659480960000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/book/5828"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          20
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780199737833"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acprof:oso/9780199737833.001.0001",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          20
+        ]
+      ]
+    }
+  }
+}

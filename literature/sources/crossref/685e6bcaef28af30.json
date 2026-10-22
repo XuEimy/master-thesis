@@ -1,0 +1,294 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          3
+        ]
+      ],
+      "date-time": "2026-07-03T14:22:03Z",
+      "timestamp": 1783088523613,
+      "version": "3.54.6"
+    },
+    "reference-count": 20,
+    "publisher": "Peoples' Friendship University of Russia",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              12,
+              15
+            ]
+          ],
+          "date-time": "2026-12-15T00:00:00Z",
+          "timestamp": 1797292800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Vestn. Ross. univ. družby nar., Ser. Literaturoved. žurnal."
+    ],
+    "abstract": "<jats:p>The study draws on a four-level analytical framework that integrates the concepts of deep mediatization (Hepp), hybrid agency, the media logics of practices, and the new memory ecology (Hoskins). Methodologically, it combines netnography and case-study research; the empirical corpus includes international projects (2022-2025) that use generative images to work with personal, family, and collective memory. The analysis identifies two core media logics: augmentation (creating visual representations of events that were not captured on film) and transformation (altering the modality of existing material). It is shown that generative technologies shift memory from a regime of reproduction to a regime of production, generating hybrid forms of memory that are simultaneously personal and collective. The findings also highlight the ambivalence of these technologies’ effects-from therapeutic applications and the decolonization of visual archives to the risks of commodifying emotions and producing false memories.</jats:p>",
+    "DOI": "10.22363/2312-9220-2026-31-2-485-497",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          3
+        ]
+      ],
+      "date-time": "2026-07-03T13:52:28Z",
+      "timestamp": 1783086748000
+    },
+    "page": "485-497",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Mediatization of Personal Memories Using Generative Photorealistic Images"
+    ],
+    "prefix": "10.22363",
+    "volume": "31",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1406-5406",
+        "authenticated-orcid": false,
+        "given": "Stanislav V.",
+        "family": "Milovidov",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "HSE University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "9635",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          12,
+          15
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bañuelos Capistrán, J., Zavala-Scherer, D., & Lugo Rodríguez, N. (2025). Art, community and AI: images for an affective memory. Frontiers in Communication, 10, 1567694. https://doi.org/10.3389/fcomm.2025.1567694",
+        "DOI": "10.3389/fcomm.2025.1567694"
+      },
+      {
+        "key": "ref2",
+        "unstructured": "Barthes, R. (1981). Camera Lucida: Reflections on Photography. Hill and Wang."
+      },
+      {
+        "key": "ref3",
+        "unstructured": "Bunz, M. (2025). Thinking through generated writing. In H. Bajohr (Ed.), Thinking with AI: Machine Learning the Humanities (pp. 58–84). Open Humanities Press."
+      },
+      {
+        "key": "ref4",
+        "unstructured": "Bylieva, D.S. (2024). Generativnyi iskusstvennyi intellekt: konstruirovanie real’nosti v tsifrovom prostranstve [Generative artificial intelligence: Constructing reality in digital space]. In M.S. Arkannikova (Ed.), Engineers of Meaning: From Concept to Professionalization (pp. 176–189). St. Petersburg: Politekh-Press. (In Russ.) EDN: ALQPGR"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fadeeva, T.E., Persheeva A.D., & Pronina A.U. (2024). Between an index and an icon: photography in the context of neural networks. Articult, (1), 48–63. (In Russ.) https://doi.org/10.28995/2227-6165-2024-1-48-63",
+        "DOI": "10.28995/2227-6165-2024-1-48-63"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fortunatov, A.N. (2023). Neurohistoricism as an imitative reality: special features of the formation of visual images of Russian cities using neural networks. Izvestiya of Saratov University. Philosophy. Psychology. Pedagogy, 23(3), 293–297. (In Russ.) https://doi.org/10.18500/1819-7671-2023-23-3-293-297 EDN: AFCDHB",
+        "DOI": "10.18500/1819-7671-2023-23-3-293-297"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Foucault, M. (2019). Truth and power. In A.L. Macfie (Ed.), Orientalism: A Reader (pp. 41–44). Edinburgh University Press. https://doi.org/10.1515/9781474470476",
+        "DOI": "10.1515/9781474470476-010"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hepp, A. (2020). Deep Mediatization. Routledge.",
+        "DOI": "10.4324/9781351064903"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hepp, A. Bolin, G., Guzman, A., & Loosen, W. (2024). Mediatization and human-machine communication: trajectories, discussions, perspectives. Human-Machine Communication, 7, 7–21. https://doi.org/10.30658/hmc.7.1",
+        "DOI": "10.30658/hmc.7.1"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hepp, A., Loosen, W., Dreyer, S., Jarke, J., Kannengießer, S., Katzenbach, C., Malaka, R., Pfadenhauer, M., Puschmann, C., & Schulz, W. (2023). ChatGPT, LaMDA, and the hype around communicative AI: the automation of communication as a field of research in media and communication studies. Human-Machine Communication, 6, 41–63. https://doi.org/10.30658/hmc.6.4",
+        "DOI": "10.30658/hmc.6.4"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoskins, A. (2024). AI and memory. Memory, Mind & Media, 3, e18. https://doi.org/10.1017/mem.2024.16",
+        "DOI": "10.1017/mem.2024.16"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoskins, A. (2017). Digital media and the precarity of memory. In M.L. Meade, C.B. Harris, P. Van Bergen, J. Sutton, A.J. Barnier (Eds.), Collaborative Remembering: Theories, Research, and Applications. Oxford University Press. https://doi.org/10.1093/oso/9780198737865.003.0021",
+        "DOI": "10.1093/oso/9780198737865.003.0021"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoskins, A. (2001). New memory: mediating history. Historical Journal of Film, Radio and Television, 21(4), 333–346. https://doi.org/10.1080/01439680120075473",
+        "DOI": "10.1080/01439680120075473"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kozinets, R.V., & Gambetti, R. (2021). Netnography Unlimited: Understanding Technoculture Using Qualitative Social Media Research. Routledge.",
+        "DOI": "10.4324/9781003001430"
+      },
+      {
+        "key": "ref15",
+        "unstructured": "Manovich, L., & Arielli, E. (2024). Artificial Aesthetics: Generative AI, Art and Visual Media. https://manovich.net/index.php/projects/artificial-aesthetics"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Manovich, L. (2020). Cultural Analytics. The MIT Press.",
+        "DOI": "10.7551/mitpress/11214.001.0001"
+      },
+      {
+        "key": "ref17",
+        "unstructured": "Offert, F. (2025). On the concept of history (in foundation models). In Thinking with AI: Machine Learning the Humanities (pp. 111–125). Open Humanities Press."
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shomova, S.A. (2025). “Ah, It’s So Easy to Deceive Me…”: The phenomenon of political deepfake in Runet communication practices. Communications. Media. Design, 10(4), 5–29. (In Russ.) https://doi.org/10.17323/cmd.2025.30456",
+        "DOI": "10.17323/cmd.2025.30456"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Vinogradova, E.A. (2024). Potential threats of unauthorized use of political deepfakes during political elections: international experience. World Politics, (3), 44–60. (In Russ.) https://doi.org/10.25136/2409-8671.2024.3.71519",
+        "DOI": "10.25136/2409-8671.2024.3.71519"
+      },
+      {
+        "key": "ref20",
+        "unstructured": "Xu, J., Liu, X., Wu, Y., Tong, Y., Li, Q., Ding, M., Tang, J., & Dong, Y. (2023). ImageReward: learning and evaluating human preferences for text-to-image generation. ArXiv, 2304.05977v4. https://doi.org/10.48550/arXiv.2304.05977"
+      }
+    ],
+    "container-title": [
+      "RUDN Journal of Studies in Literature and Journalism"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://journals.rudn.ru/literary-criticism/article/viewFile/50989/27211",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.rudn.ru/literary-criticism/article/viewFile/50989/27211",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          3
+        ]
+      ],
+      "date-time": "2026-07-03T13:54:07Z",
+      "timestamp": 1783086847000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.rudn.ru/literary-criticism/article/view/50989"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          12,
+          15
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            30
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.22363/2312-9220-2026-31-2-485-497",
+    "relation": {},
+    "ISSN": [
+      "2312-9247",
+      "2312-9220"
+    ],
+    "issn-type": [
+      {
+        "value": "2312-9247",
+        "type": "electronic"
+      },
+      {
+        "value": "2312-9220",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          12,
+          15
+        ]
+      ]
+    }
+  }
+}

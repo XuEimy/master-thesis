@@ -1,0 +1,731 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2026-10-10T06:02:10Z",
+      "timestamp": 1791612130397,
+      "version": "4.3.4"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 84,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              13
+            ]
+          ],
+          "date-time": "2026-04-13T00:00:00Z",
+          "timestamp": 1776038400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "funder": [
+      {
+        "name": "The Guangdong Philosophy and Social Science Foundation Youth Fund 2025",
+        "award": [
+          "GD25YYS63"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "GD25YYS63"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "The Ministry of Education Humanities and Social Sciences Youth Fund 2025",
+        "award": [
+          "25YJC760054"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "25YJC760054"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.1145/3772318.3791390",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2026-04-13T04:12:26Z",
+      "timestamp": 1776053546000
+    },
+    "page": "1-21",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Remembering with Reminiscope: Codesigning with Generative AI for Reminiscence Among Older Adults"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0008-0338-2100",
+        "authenticated-orcid": false,
+        "given": "Lisha",
+        "family": "Zhu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Design, Southern University of Science and Technology, Shenzhen, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-5562-4741",
+        "authenticated-orcid": false,
+        "given": "Rui",
+        "family": "Qi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Design, Southern University of Science and Technology, Shenzhen, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2280-9770",
+        "authenticated-orcid": false,
+        "given": "Siyuan",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Design, Management and Production, University of Twente, Enschede, Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6454-4061",
+        "authenticated-orcid": false,
+        "given": "Xueliang",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Design, Southern University of Science and Technology, Shenzhen, Guangdong, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_2_2",
+        "unstructured": "Golbahar Akhoondzadeh Shamsolmamalek Jalalmanesh and Hamid Hojjati. 2014. Effect of reminiscence on cognitive status and memory of the elderly people. Iranian Journal of Psychiatry and Behavioral Sciences 8 3 (2014) 75–80."
+      },
+      {
+        "key": "e_1_3_3_2_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICARA64554.2025.10977621"
+      },
+      {
+        "key": "e_1_3_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Keith A. Anderson Marla Berg-Weger Olu Olofinboba and Tom Plocher. 2025. A Qualitative Examination of a Reminiscence Intervention for Older Adults Using Three-Dimensional (3D) Printed Objects. Journal of Applied Gerontology 44 1 (2025) 147–155. 10.1177/07334648241263234",
+        "DOI": "10.1177/07334648241263234"
+      },
+      {
+        "key": "e_1_3_3_2_5_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Steven Baker Ryan M. Kelly Jenny Waycott Romina Carrasco Roger Bell Zaher Joukhadar Thuong Hoang Elizabeth Ozanne and Frank Vetere. 2021. School’s Back: Scaffolding Reminiscence in Social Virtual Reality with Older Adults. Proceedings of the ACM on Human-Computer Interaction 4 (2021) 1–25. Issue CSCW3. 10.1145/3434176",
+        "DOI": "10.1145/3434176"
+      },
+      {
+        "key": "e_1_3_3_2_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780203108543.ch3"
+      },
+      {
+        "key": "e_1_3_3_2_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642783"
+      },
+      {
+        "key": "e_1_3_3_2_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2702613.2732918"
+      },
+      {
+        "key": "e_1_3_3_2_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2505323.2505333"
+      },
+      {
+        "key": "e_1_3_3_2_10_2",
+        "unstructured": "Susan Bluck and Hsiao-Wen Liao. 2013. I was therefore I am: Creating self-continuity through remembering our personal past. The International Journal of Reminiscence and Life Review 1 1 (2013) 7–12."
+      },
+      {
+        "key": "e_1_3_3_2_11_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ernst Bohlmeijer Marte Roemer Pim Cuijpers and Filip Smit. 2007. The effects of reminiscence on psychological well-being in older adults: A meta-analysis. Aging & Mental Health 11 3 (2007) 291–300. 10.1080/13607860600963547",
+        "DOI": "10.1080/13607860600963547"
+      },
+      {
+        "key": "e_1_3_3_2_12_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Marianne Bossema Rob Saunders and Somaya Ben Allouch. 2023. Human-Machine Co-Creativity with Older Adults – A Learning Community to Study Explainable Dialogues. 10.48550/ARXIV.2309.07028",
+        "DOI": "10.48550/ARXIV.2309.07028"
+      },
+      {
+        "key": "e_1_3_3_2_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2940299.2940303"
+      },
+      {
+        "key": "e_1_3_3_2_14_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Virginia Braun and Victoria Clarke. 2006. Using thematic analysis in psychology. Qualitative research in psychology 3 2 (2006) 77–101.",
+        "DOI": "10.1191/1478088706qp063oa"
+      },
+      {
+        "key": "e_1_3_3_2_15_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fred B. Bryant. 2021. Current progress and future directions for theory and research on savoring. Frontiers in psychology 12 (2021) 771698.",
+        "DOI": "10.3389/fpsyg.2021.771698"
+      },
+      {
+        "key": "e_1_3_3_2_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315088426"
+      },
+      {
+        "key": "e_1_3_3_2_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/347642.347802"
+      },
+      {
+        "key": "e_1_3_3_2_18_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Marie-Frederique Camerlynck Ottilie Sedgwick and Helen Lister. 2021. Can music reminiscence approaches be used in moderate–severe dementia? A pilot of music mirrors. Dementia 20 3 (2021) 1162–1171. 10.1177/1471301220960847",
+        "DOI": "10.1177/1471301220960847"
+      },
+      {
+        "key": "e_1_3_3_2_19_2",
+        "unstructured": "Kathleen Carney. 2016. Making Art and Making Memories: A Study on the Effects of Art Making as a Possible Intervention to Memory Loss. Online Submission (2016)."
+      },
+      {
+        "key": "e_1_3_3_2_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3706598.3713984"
+      },
+      {
+        "key": "e_1_3_3_2_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3568444.3568456"
+      },
+      {
+        "key": "e_1_3_3_2_22_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "R Collins C Tsabary and L Hopper. 2023. 52 ‘ I remember when... ’—environmental event-based and personally relevant objects that support reminiscence in virtual reality and other digital settings. Age and Ageing 52 (2023) afad156.078. Issue Supplement_3. 10.1093/ageing/afad156.078",
+        "DOI": "10.1093/ageing/afad156.078"
+      },
+      {
+        "key": "e_1_3_3_2_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3746175.3746183"
+      },
+      {
+        "key": "e_1_3_3_2_24_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Burcu Demiray Marianne Mischler and Mike Martin. 2019. Reminiscence in Everyday Conversations: A Naturalistic Observation Study of Older Adults. The Journals of Gerontology: Series B 74 5 (2019) 745–755. 10.1093/geronb/gbx141",
+        "DOI": "10.1093/geronb/gbx141"
+      },
+      {
+        "key": "e_1_3_3_2_25_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xuejun Du Pengcheng An Justin Leung April Li Linda E. Chapman and Jian Zhao. 2024. DeepThInk: Designing and probing human-AI co-creation in digital art therapy. International journal of human-computer studies 181 (2024) 103139.",
+        "DOI": "10.1016/j.ijhcs.2023.103139"
+      },
+      {
+        "key": "e_1_3_3_2_26_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Evelyne Durocher Janet Njelesani and Emily Crosby. 2022. Art Activities in Long-Term Care: A Scoping Review. Canadian Journal of Occupational Therapy 89 1 (2022) 36–43. 10.1177/00084174211064497",
+        "DOI": "10.1177/00084174211064497"
+      },
+      {
+        "key": "e_1_3_3_2_27_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ali Eryılmaz Emre Yıldırım Hacer Yıldırım Kurtulus and Murat Yıldırım. 2025. Group reminiscence therapy interventions in non-clinical older adults: A systematic review. Geriatric Nursing 63 (2025) 35–44. 10.1016/j.gerinurse.2025.03.004",
+        "DOI": "10.1016/j.gerinurse.2025.03.004"
+      },
+      {
+        "key": "e_1_3_3_2_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3706598.3713478"
+      },
+      {
+        "key": "e_1_3_3_2_29_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Andrea Ferrario and Burcu Demiray. 2024. Understanding reminiscence and its negative functions in the everyday conversations of young adults: A machine learning approach. Heliyon 10 1 (2024) e23825. 10.1016/j.heliyon.2023.e23825",
+        "DOI": "10.1016/j.heliyon.2023.e23825"
+      },
+      {
+        "key": "e_1_3_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Emily Fisher Isobel Chick Jane Fossey and Aimee Spector. 2025. Barriers and Facilitators to Implementing Cognitive Stimulation and Reminiscence Therapy for Dementia in Care Homes: Systematic Review. International Journal of Geriatric Psychiatry 40 7 (2025) e70124. 10.1002/gps.70124",
+        "DOI": "10.1002/gps.70124"
+      },
+      {
+        "key": "e_1_3_3_2_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/642611.642653"
+      },
+      {
+        "key": "e_1_3_3_2_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3572921.3572942"
+      },
+      {
+        "key": "e_1_3_3_2_33_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Helena Hansson and Otto Von Busch. 2023. Co-crafting the social: material manifestations through collaborative crafts. CoDesign 19 2 (2023) 162–176. 10.1080/15710882.2022.2138448",
+        "DOI": "10.1080/15710882.2022.2138448"
+      },
+      {
+        "key": "e_1_3_3_2_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376486"
+      },
+      {
+        "key": "e_1_3_3_2_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3706598.3714256"
+      },
+      {
+        "key": "e_1_3_3_2_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2851581.2890384"
+      },
+      {
+        "key": "e_1_3_3_2_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613905.3650979"
+      },
+      {
+        "key": "e_1_3_3_2_38_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ziwei Ji Nayeon Lee Rita Frieske Tiezheng Yu Dan Su Yan Xu Etsuko Ishii Ye Jin Bang Andrea Madotto and Pascale Fung. 2023. Survey of Hallucination in Natural Language Generation. ACM Comput. Surv. 55 12 (2023) 248:1–248:38. 10.1145/3571730",
+        "DOI": "10.1145/3571730"
+      },
+      {
+        "key": "e_1_3_3_2_39_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zhuoqun Jiang ShunYi Yeo Wei Xuan Seow Donovan and Simon Tangi Perrault. 2025. Remini: Leveraging Chatbot-Mediated Mutual Reminiscence for Promoting Positive Affect and Feeling of Connectedness among Loved Ones. Proc. ACM Hum.-Comput. Interact. 9 7 (2025) CSCW469:1–CSCW469:43. 10.1145/3757650",
+        "DOI": "10.1145/3757650"
+      },
+      {
+        "key": "e_1_3_3_2_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642800"
+      },
+      {
+        "key": "e_1_3_3_2_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445688"
+      },
+      {
+        "key": "e_1_3_3_2_42_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Colleen M. Kelley and Larry L. Jacoby. 1990. The construction of Subjective Experience: Memory Attributions. Mind & Language 5 1 (1990) 49–68. 10.1111/j.1468-0017.1990.tb00152.x",
+        "DOI": "10.1111/j.1468-0017.1990.tb00152.x"
+      },
+      {
+        "key": "e_1_3_3_2_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3706598.3713718"
+      },
+      {
+        "key": "e_1_3_3_2_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3532106.3533456"
+      },
+      {
+        "key": "e_1_3_3_2_45_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Robert Laidlaw Richard McGrath Caroline Adams Saravana Kumar and Carolyn Murray. 2023. Improved Mental Health Social Connections and Sense of Self: A Mixed Methods Systematic Review Exploring the Impact and Experience of Community Reminiscence Programs. Journal of Multidisciplinary Healthcare Volume 16 (2023) 4111–4132. 10.2147/JMDH.S438730",
+        "DOI": "10.2147/JMDH.S438730"
+      },
+      {
+        "key": "e_1_3_3_2_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3173574.3173925"
+      },
+      {
+        "key": "e_1_3_3_2_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2598784.2602769"
+      },
+      {
+        "key": "e_1_3_3_2_48_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Cun Li Jun Hu Bart Hengeveld and Caroline Hummels. 2022. Supporting intergenerational memento storytelling for older adults through a tangible display: a case study. Personal and Ubiquitous Computing 26 3 (2022) 625–649. 10.1007/s00779-020-01364-9",
+        "DOI": "10.1007/s00779-020-01364-9"
+      },
+      {
+        "key": "e_1_3_3_2_49_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Luna Xingyu Li Ray-yuan Chung Feng Chen Wenyu Zeng Yein Jeon and Oleg Zaslavsky. 2025. Learning from Elders: Making an LLM-powered Chatbot for Retirement Communities more Accessible through User-centered Design. (2025). 10.48550/ARXIV.2504.08985",
+        "DOI": "10.48550/ARXIV.2504.08985"
+      },
+      {
+        "key": "e_1_3_3_2_50_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ruohao Li Jiawei Li Jia Sun Zhiqing Wu Zisu Li Ziyan Wang Ge Lin and Mingming Fan. 2025. RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality. Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies 9 3 (2025) 1–25. 10.1145/3749505",
+        "DOI": "10.1145/3749505"
+      },
+      {
+        "key": "e_1_3_3_2_51_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zisu Li Li Feng Chen Liang Yuru Huang and Mingming Fan. 2023. Exploring the Opportunities of AR for Enriching Storytelling with Family Photos between Grandparents and Grandchildren. Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies 7 3 (2023) 1–26. 10.1145/3610903",
+        "DOI": "10.1145/3610903"
+      },
+      {
+        "key": "e_1_3_3_2_52_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Cláudia Lima Susana Barreto and Catarina Sousa. 2025. The Potential of Cultural Elements in the Sensory and Cognitive Stimulation of Persons with Dementia: An Exploratory Study Through Textile Artefacts. Journal of Dementia and Alzheimer’s Disease 2 2 (2025) 14. 10.3390/jdad2020014",
+        "DOI": "10.3390/jdad2020014"
+      },
+      {
+        "key": "e_1_3_3_2_53_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642852"
+      },
+      {
+        "key": "e_1_3_3_2_54_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Guiyue Ma and Xiaoqin Ma. 2023. Music Intervention for older adults: Evidence Map of Systematic Reviews. Medicine 102 48 (2023) e36016. 10.1097/MD.0000000000036016",
+        "DOI": "10.1097/MD.0000000000036016"
+      },
+      {
+        "key": "e_1_3_3_2_55_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Qian Mao Zhen Zhao Lisha Yu Yang Zhao and Hailiang Wang. 2024. The Effects of Virtual Reality–Based Reminiscence Therapies for Older Adults With Cognitive Impairment: Systematic Review. Journal of Medical Internet Research 26 (2024) e53348. 10.2196/53348",
+        "DOI": "10.2196/53348"
+      },
+      {
+        "key": "e_1_3_3_2_56_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Philippa Mothersill and V. Michael Bove. 2019. Beyond Average Tools. On the use of ‘dumb’ computation and purposeful ambiguity to enhance the creative process. The Design Journal 22 (2019) 1147–1161. Issue sup1. 10.1080/14606925.2019.1594981",
+        "DOI": "10.1080/14606925.2019.1594981"
+      },
+      {
+        "key": "e_1_3_3_2_57_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Emily L Mroz Maya Shah Hanzhen Lan Ajua Duker Maria Sperduto Becca R Levy and Joan K Monin. 2022. When Harry Met Sally: Older Adult Spouses’ First Encounter Reminiscing and Well-Being. The Gerontologist 62 10 (2022) 1486–1495. 10.1093/geront/gnac053",
+        "DOI": "10.1093/geront/gnac053"
+      },
+      {
+        "key": "e_1_3_3_2_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1226969.1227016"
+      },
+      {
+        "key": "e_1_3_3_2_59_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Allen Pincus. 1970. Reminiscence in Aging and Its Implications for Social Work Practice. Social Work 15 3 (1970) 47–53. 10.1093/sw/15.3.47",
+        "DOI": "10.1093/sw/15.3.47"
+      },
+      {
+        "key": "e_1_3_3_2_60_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sinikka Hannele Pöllänen and Reetta Marja Hirsimäki. 2014. Crafts as Memory Triggers in Reminiscence: A Case Study of Older Women with Dementia. Occupational Therapy In Health Care 28 4 (2014) 410–430. 10.3109/07380577.2014.941052",
+        "DOI": "10.3109/07380577.2014.941052"
+      },
+      {
+        "key": "e_1_3_3_2_61_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sanna Read Adelina Comas-Herrera and Emily Grundy. 2020. Social Isolation and Memory Decline in Later-life. The Journals of Gerontology: Series B 75 2 (2020) 367–376. 10.1093/geronb/gbz152",
+        "DOI": "10.1093/geronb/gbz152"
+      },
+      {
+        "key": "e_1_3_3_2_62_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Alba Villasán Rueda Antonio Sánchez Cabaco Manuel Alejandro Mejía-Ramírez Rosa Marina Afonso and Eduardo Castillo-Riedel. 2023. Cross-cultural effects of reminiscence therapy on life satisfaction and autobiographical memory of older adults: a pilot study across Mexico and Spain. Alzheimer’s Research & Therapy 15 1 (2023) 204. 10.1186/s13195-023-01347-x",
+        "DOI": "10.1186/s13195-023-01347-x"
+      },
+      {
+        "key": "e_1_3_3_2_63_2",
+        "volume-title": "Weave me through a dream: How can textile craft, specifically tapestry weaving, help create a more creative environment when caring for elders with dementia, and what benefits could come from that?",
+        "author": "Rådenman Nanny",
+        "year": "2024",
+        "unstructured": "Nanny Rådenman. 2024. Weave me through a dream: How can textile craft, specifically tapestry weaving, help create a more creative environment when caring for elders with dementia, and what benefits could come from that?"
+      },
+      {
+        "key": "e_1_3_3_2_64_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Jinsil Hwaryoung Seo Annie Sungkajun and Brittany Garcia. 2021. Developing the Art–Technology Intergenerational Community Program for Older Adults’ Health and Social Connectedness. Frontiers in Public Health 9 (2021) 589589. 10.3389/fpubh.2021.589589",
+        "DOI": "10.3389/fpubh.2021.589589"
+      },
+      {
+        "key": "e_1_3_3_2_65_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Eunyoung Shin Myeongshin Kim Seyoon Kim and Sohyune Sok. 2023. Effects of reminiscence therapy on quality of life and life satisfaction of the elderly in the community: a systematic review. BMC Geriatrics 23 1 (2023) 420. 10.1186/s12877-023-04001-1",
+        "DOI": "10.1186/s12877-023-04001-1"
+      },
+      {
+        "key": "e_1_3_3_2_66_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jennifer L. Smith Patrick R. Harrison Jaime L. Kurtz and Fred B. Bryant. 2014. Nurturing the capacity to savor: Interventions to enhance the enjoyment of positive experiences. The Wiley Blackwell handbook of positive psychological interventions (2014) 42–65.",
+        "DOI": "10.1002/9781118315927.ch3"
+      },
+      {
+        "key": "e_1_3_3_2_67_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Jessica Woolhiser Stallings. 2010. Collage as a Therapeutic Modality for Reminiscence in Patients With Dementia. Art Therapy 27 3 (2010) 136–140. 10.1080/07421656.2010.10129667",
+        "DOI": "10.1080/07421656.2010.10129667"
+      },
+      {
+        "key": "e_1_3_3_2_68_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ponnusamy Subramaniam Bob Woods and Chris Whitaker. 2014. Life review and life story books for people with mild to moderate dementia: a randomised controlled trial. Aging & Mental Health 18 3 (2014) 363–375. 10.1080/13607863.2013.837144",
+        "DOI": "10.1080/13607863.2013.837144"
+      },
+      {
+        "key": "e_1_3_3_2_69_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Wilson Tam Sum Nok Poon Rathi Mahendran Ee Heok Kua and Xi Vivien Wu. 2021. The effectiveness of reminiscence-based intervention on improving psychological well-being in cognitively intact older adults: A systematic review and meta-analysis. International Journal of Nursing Studies 114 (2021) 103847. 10.1016/j.ijnurstu.2020.103847",
+        "DOI": "10.1016/j.ijnurstu.2020.103847"
+      },
+      {
+        "key": "e_1_3_3_2_70_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Michael Koon Boon Tan. 2018. Connecting reminiscence art making and cultural heritage: A pilot art-for-dementia care programme. Journal of Applied Arts & Health 9 1 (2018) 25–36. 10.1386/jaah.9.1.25_1",
+        "DOI": "10.1386/jaah.9.1.25_1"
+      },
+      {
+        "key": "e_1_3_3_2_71_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3635636.3664250"
+      },
+      {
+        "key": "e_1_3_3_2_72_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-031-60615-1_31"
+      },
+      {
+        "key": "e_1_3_3_2_73_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heli Vaartio-Rajalin Regina Santamäki-Fischer Pamela Jokisalo and Lisbeth Fagerström. 2021. Art making and expressive art therapy in adult health and nursing care: A scoping review. International journal of nursing sciences 8 1 (2021) 102–119.",
+        "DOI": "10.1016/j.ijnss.2020.09.011"
+      },
+      {
+        "key": "e_1_3_3_2_74_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "P. Van Bogaert D. Tolson R. Eerlingen D. Carvers K. Wouters K. Paque O. Timmermans T. Dilles and S. Engelborghs. 2016. SolCos model‐based individual reminiscence for older adults with mild to moderate dementia in nursing homes: a randomized controlled intervention study. Journal of Psychiatric and Mental Health Nursing 23 9 (2016) 568–575. 10.1111/jpm.12336",
+        "DOI": "10.1111/jpm.12336"
+      },
+      {
+        "key": "e_1_3_3_2_75_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gerben J. Westerhof and Ernst T. Bohlmeijer. 2014. Celebrating fifty years of research and applications in reminiscence and life review: State of the art and new directions. Journal of Aging Studies 29 (2014) 107–114. 10.1016/j.jaging.2014.02.003",
+        "DOI": "10.1016/j.jaging.2014.02.003"
+      },
+      {
+        "key": "e_1_3_3_2_76_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581426"
+      },
+      {
+        "key": "e_1_3_3_2_77_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3322276.3322297"
+      },
+      {
+        "key": "e_1_3_3_2_78_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3654777.3676336"
+      },
+      {
+        "key": "e_1_3_3_2_79_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yuan-jiao Yan Rong Lin Yi Zhou Yu-ting Luo Zhen-zhen Cai Kai-yan Zhu and Hong Li. 2021. Effects of expressive arts therapy in older adults with mild cognitive impairment: A pilot study. Geriatric Nursing 42 1 (2021) 129–136.",
+        "DOI": "10.1016/j.gerinurse.2020.11.011"
+      },
+      {
+        "key": "e_1_3_3_2_80_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445212"
+      },
+      {
+        "key": "e_1_3_3_2_81_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "JungKyoon Yoon Shuran Li and Yu Hao. 2022. Design-Mediated Positive Emotion Regulation: The Development of an Interactive Device that Supports Daily Practice of Positive Mental Time Traveling. International Journal of Human–Computer Interaction 38 5 (2022) 432–446. 10.1080/10447318.2021.1948685",
+        "DOI": "10.1080/10447318.2021.1948685"
+      },
+      {
+        "key": "e_1_3_3_2_82_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3770445.3770461"
+      },
+      {
+        "key": "e_1_3_3_2_83_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3706598.3714277"
+      },
+      {
+        "key": "e_1_3_3_2_84_2",
+        "unstructured": "Yiwen Zhang Jianing Hao Zhan Wang Hongling Sheng and Wei Zeng. 2025. Facilitating Video Story Interaction with Multi-Agent Collaborative System. arXiv preprint arXiv:https://arXiv.org/abs/2505.03807 (2025)."
+      },
+      {
+        "key": "e_1_3_3_2_85_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zhongyue Zhang Lina Xu Xingkai Wang Xu Zhang and Mingming Fan. 2025. Understanding and Co-designing Photo-based Reminiscence with Older Adults. Proceedings of the ACM on Human-Computer Interaction 9 2 (2025) 1–30. 10.1145/3711094",
+        "DOI": "10.1145/3711094"
+      }
+    ],
+    "event": {
+      "name": "CHI 2026: CHI Conference on Human Factors in Computing Systems",
+      "location": "Barcelona Spain",
+      "acronym": "CHI '26",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3772318.3791390",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2026-06-25T05:53:51Z",
+      "timestamp": 1782366831000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3772318.3791390"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "references-count": 84,
+    "alternative-id": [
+      "10.1145/3772318.3791390",
+      "10.1145/3772318"
+    ],
+    "URL": "https://doi.org/10.1145/3772318.3791390",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2026-04-13",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

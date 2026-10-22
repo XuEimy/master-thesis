@@ -1,0 +1,145 @@
+[
+  {
+    "date": "2026-10-23",
+    "request": {
+      "open": [
+        {
+          "ref_id": "https://www.jstage.jst.go.jp/article/tjsai/41/3/41_41-3_A-P73/_article/-char/ja/"
+        }
+      ],
+      "search_query": [
+        {
+          "q": "\"personal\" \"lifelogging\" \"capture\" \"reminiscence\" camera"
+        },
+        {
+          "q": "\"个人\" \"回忆\" \"生活记录\" 摄影 论文"
+        },
+        {
+          "q": "\"photo-taking\" \"personal\" \"memory cues\" habits"
+        }
+      ],
+      "response_length": "long"
+    },
+    "raw_source": "sources/web/focused01.json",
+    "mode": "补充网页发现／原文定点核对，不是数据库完整分页",
+    "status": "已执行；按主线筛选，相关结果与重复均保留原始响应"
+  },
+  {
+    "date": "2026-10-23",
+    "request": {
+      "open": [
+        {
+          "ref_id": "https://www.jstage.jst.go.jp/article/tjsai/41/3/41_41-3_A-P73/_article/-char/ja/",
+          "lineno": 40
+        },
+        {
+          "ref_id": "https://link.springer.com/article/10.1007/s00779-023-01726-z",
+          "lineno": 25
+        }
+      ],
+      "response_length": "short"
+    },
+    "raw_source": "sources/web/focused02.json",
+    "mode": "补充网页发现／原文定点核对，不是数据库完整分页",
+    "status": "已执行；按主线筛选，相关结果与重复均保留原始响应"
+  },
+  {
+    "date": "2026-10-23",
+    "request": {
+      "search_query": [
+        {
+          "q": "\"The Fate of the\" \"Magical Substitute\" Palmer",
+          "domains": [
+            "tandfonline.com",
+            "research.monash.edu",
+            "monash.edu"
+          ]
+        },
+        {
+          "q": "\"个人回忆\" \"人工智能\" 影像 论文",
+          "domains": [
+            "cnki.net",
+            "wanfangdata.com.cn",
+            "cqvip.com"
+          ]
+        }
+      ],
+      "response_length": "short"
+    },
+    "raw_source": "sources/web/focused03.json",
+    "mode": "补充网页发现／原文定点核对，不是数据库完整分页",
+    "status": "已执行；按主线筛选，相关结果与重复均保留原始响应"
+  },
+  {
+    "date": "2026-10-23",
+    "request": {
+      "search_query": [
+        {
+          "q": "\"autobiographical memory\" photography reminiscence",
+          "domains": [
+            "scholar.google.com",
+            "scopus.com",
+            "webofscience.com",
+            "dimensions.ai"
+          ]
+        },
+        {
+          "q": "\"personal memory\" photography reminiscence",
+          "domains": [
+            "jstor.org",
+            "muse.jhu.edu",
+            "proquest.com"
+          ]
+        },
+        {
+          "q": "\"自传体记忆\" 照片 回忆",
+          "domains": [
+            "cnki.net",
+            "wanfangdata.com.cn",
+            "cqvip.com",
+            "nssd.cn"
+          ]
+        }
+      ],
+      "response_length": "long"
+    },
+    "raw_source": "sources/web/focused-platform-0.json",
+    "mode": "补充网页发现／原文定点核对，不是数据库完整分页",
+    "status": "已执行；按主线筛选，相关结果与重复均保留原始响应"
+  },
+  {
+    "date": "2026-10-23",
+    "request": {
+      "search_query": [
+        {
+          "q": "\"personal photography\" \"remembering\"",
+          "domains": [
+            "sagepub.com",
+            "tandfonline.com"
+          ]
+        },
+        {
+          "q": "\"autobiographical memory\" \"photo\" \"cue\"",
+          "domains": [
+            "psycnet.apa.org",
+            "onlinelibrary.wiley.com",
+            "sciencedirect.com"
+          ]
+        },
+        {
+          "q": "\"reminiscence\" \"generative\" \"AI\"",
+          "domains": [
+            "dl.acm.org",
+            "ieeexplore.ieee.org",
+            "dblp.org",
+            "jstage.jst.go.jp"
+          ]
+        }
+      ],
+      "response_length": "long"
+    },
+    "raw_source": "sources/web/focused-platform-1.json",
+    "mode": "补充网页发现／原文定点核对，不是数据库完整分页",
+    "status": "已执行；按主线筛选，相关结果与重复均保留原始响应"
+  }
+]

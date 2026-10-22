@@ -1,0 +1,39 @@
+[
+  {
+    "params": {
+      "search_query": "ti:reminiscence",
+      "max_results": 5
+    },
+    "total": "60",
+    "titles": [
+      "Reminiscences",
+      "Reminiscences",
+      "Reminiscences by a student of Langlands",
+      "Smart Conversational Agents for Reminiscence",
+      "Reminiscence on the Birth of String Theory"
+    ]
+  },
+  {
+    "params": {
+      "search_query": "all:\"reminiscence\"",
+      "max_results": 5
+    },
+    "total": "4903",
+    "titles": [
+      "Smart Conversational Agents for Reminiscence",
+      "Understanding and Co-designing Photo-based Reminiscence with Older Adults",
+      "Automatic Reminiscence Therapy for Dementia",
+      "Crowdsourcing for Reminiscence Chatbot Design",
+      "RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality"
+    ]
+  },
+  {
+    "params": {
+      "id_list": "2601.21001"
+    },
+    "total": "1",
+    "titles": [
+      "Designing the Interactive Memory Archive (IMA): A Socio-Technical Framework for AI-Mediated Reminiscence and Cultural Memory Preservation"
+    ]
+  }
+]

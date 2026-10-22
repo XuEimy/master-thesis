@@ -1,0 +1,1004 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2026-10-21T16:03:22Z",
+      "timestamp": 1792598602003,
+      "version": "4.5.0"
+    },
+    "reference-count": 163,
+    "publisher": "Annual Reviews",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Annu. Rev. Psychol."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Events make up much of our lived experience, and the perceptual mechanisms that represent events in experience have pervasive effects on action control, language use, and remembering. Event representations in both perception and memory have rich internal structure and connections one to another, and both are heavily informed by knowledge accumulated from previous experiences. Event perception and memory have been identified with specific computational and neural mechanisms, which show protracted development in childhood and are affected by language use, expertise, and brain disorders and injuries. Current theoretical approaches focus on the mechanisms by which events are segmented from ongoing experience, and emphasize the common coding of events for perception, action, and memory. Abetted by developments in eye-tracking, neuroimaging, and computer science, research on event perception and memory is moving from small-scale laboratory analogs to the complexity of events in the wild.</jats:p>",
+    "DOI": "10.1146/annurev-psych-010419-051101",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          6
+        ]
+      ],
+      "date-time": "2020-01-06T14:54:07Z",
+      "timestamp": 1578322447000
+    },
+    "page": "165-191",
+    "source": "Crossref",
+    "is-referenced-by-count": 282,
+    "title": [
+      "Event Perception and Memory"
+    ],
+    "prefix": "10.1146",
+    "volume": "71",
+    "author": [
+      {
+        "given": "Jeffrey M.",
+        "family": "Zacks",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychological and Brain Sciences, Washington University in St. Louis, St. Louis, Missouri 63130, USA;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "22",
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003-066X.36.7.715"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2006.10.016"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797610383434"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1551-6709.2009.01022.x"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnhum.2013.00057"
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.132.4.543"
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2013.06.022"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797612466676"
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2014.11.030"
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2017.06.041"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.0251-18.2018"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-8624.00310"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13423-018-1526-6"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2008.0315"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/11177-000"
+      },
+      {
+        "key": "B16",
+        "first-page": "373",
+        "volume-title": "Handbook of Child Psychology: Cognition, Perception, and Language",
+        "author": "Bauer PJ.",
+        "year": "2006",
+        "edition": "6"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.0702-11.2011"
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0033558"
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.1892-14.2014"
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721410370301"
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.psychsport.2008.10.001"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hipo.22539"
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.nlm.2018.02.017"
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.9.1.117"
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.brainres.2012.01.055"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0021-9010.88.2.195"
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1521/soco.23.1.35.59194"
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neunet.2019.05.001"
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2016.12.007"
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0163-6383(98)90040-6"
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cogpsych.2013.07.002"
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bandc.2017.09.001"
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0277(81)90027-5"
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.actpsy.2014.03.003"
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1353/lan.2016.0076"
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.nlm.2016.07.011"
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/PBR.15.6.1185"
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41235-018-0146-z"
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/rev0000133"
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797610393742"
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41235-018-0129-0"
+      },
+      {
+        "key": "B42",
+        "volume-title": "Platform for object detection research",
+        "author": "Facebook Res",
+        "year": "2019"
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/jmla.2000.2728"
+      },
+      {
+        "key": "B44",
+        "first-page": "139",
+        "volume-title": "The Development of Memory in Childhood",
+        "author": "Fivush R.",
+        "year": "1997"
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature01861"
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2015.04.006"
+      },
+      {
+        "key": "B47",
+        "first-page": "45",
+        "volume": "6",
+        "author": "Flecken M",
+        "year": "2014",
+        "journal-title": "Interdiscip. J. Lang. Cogn. Sci."
+      },
+      {
+        "key": "B48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xlm0000367"
+      },
+      {
+        "key": "B49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13414-013-0461-x"
+      },
+      {
+        "key": "B50",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Franklin N, Norman KA, Ranganath C, Zacks JM, Gershman SJ. 2019. Structured event memory: a neuro-symbolic model of event cognition. bioRxiv 541607",
+        "DOI": "10.1101/541607"
+      },
+      {
+        "key": "B51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0010-0277(01)00166-4"
+      },
+      {
+        "key": "B52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2018.07.008"
+      },
+      {
+        "key": "B53",
+        "volume-title": "The Ecological Approach to Visual Perception",
+        "author": "Gibson JJ.",
+        "year": "1979"
+      },
+      {
+        "key": "B54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0894-4105.22.2.235"
+      },
+      {
+        "key": "B55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/neu0000132"
+      },
+      {
+        "key": "B56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41235-016-0043-2"
+      },
+      {
+        "key": "B57",
+        "volume-title": "AI and machine learning products",
+        "author": "Google",
+        "year": "2019"
+      },
+      {
+        "key": "B58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cobeha.2017.09.001"
+      },
+      {
+        "key": "B59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0030045"
+      },
+      {
+        "key": "B60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2018.02.011"
+      },
+      {
+        "key": "B61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0024310"
+      },
+      {
+        "key": "B62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03193267"
+      },
+      {
+        "key": "B63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2015.04.006"
+      },
+      {
+        "key": "B64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/JNEUROSCI.5487-07.2008"
+      },
+      {
+        "key": "B65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2005.02.009"
+      },
+      {
+        "key": "B66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/acprof:oso/9780195188370.003.0016"
+      },
+      {
+        "key": "B67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2010.00243"
+      },
+      {
+        "key": "B68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.imavis.2017.01.010"
+      },
+      {
+        "key": "B69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neunet.2010.07.010"
+      },
+      {
+        "key": "B70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0014145"
+      },
+      {
+        "key": "B71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2012.725737"
+      },
+      {
+        "key": "B72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0140525X01000103"
+      },
+      {
+        "key": "B73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2014.01.015"
+      },
+      {
+        "key": "B74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.2350060604"
+      },
+      {
+        "key": "B75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0036780"
+      },
+      {
+        "key": "B76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13506285.2012.705359"
+      },
+      {
+        "key": "B77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0079-7421(10)52006-1"
+      },
+      {
+        "key": "B78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/11059-000"
+      },
+      {
+        "key": "B79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00426-018-1047-y"
+      },
+      {
+        "key": "B80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.ps.31.020180.000331"
+      },
+      {
+        "key": "B81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/bhx218"
+      },
+      {
+        "key": "B82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-016-0642-7"
+      },
+      {
+        "key": "B83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-013-0334-5"
+      },
+      {
+        "key": "B84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cercor/bhm121"
+      },
+      {
+        "key": "B85",
+        "volume-title": "Gestalt Psychology",
+        "author": "Köhler W.",
+        "year": "1929"
+      },
+      {
+        "key": "B86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03211542"
+      },
+      {
+        "key": "B87",
+        "first-page": "153",
+        "volume": "19",
+        "author": "Kubovy M.",
+        "year": "2015",
+        "journal-title": "Philos. Sci."
+      },
+      {
+        "key": "B88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-010-0027-2"
+      },
+      {
+        "key": "B89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pag0000226"
+      },
+      {
+        "key": "B90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2014.980429"
+      },
+      {
+        "key": "B91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15213260903563006"
+      },
+      {
+        "key": "B92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0142474"
+      },
+      {
+        "key": "B93",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cogs.12446"
+      },
+      {
+        "key": "B94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0301006616652054"
+      },
+      {
+        "key": "B95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.3421"
+      },
+      {
+        "key": "B96",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/20445911.2014.930042"
+      },
+      {
+        "key": "B97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2012.01.009"
+      },
+      {
+        "key": "B98",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3097983.3098075"
+      },
+      {
+        "key": "B99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03193221"
+      },
+      {
+        "key": "B100",
+        "volume-title": "The Perception of Causality",
+        "author": "Michotte AE.",
+        "year": "1946"
+      },
+      {
+        "key": "B101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/10039-000"
+      },
+      {
+        "key": "B102",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4159/harvard.9780674421288"
+      },
+      {
+        "key": "B103",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuropsychologia.2017.05.007"
+      },
+      {
+        "key": "B104",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-018-0788-6"
+      },
+      {
+        "key": "B105",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep44086"
+      },
+      {
+        "key": "B106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0035584"
+      },
+      {
+        "key": "B107",
+        "first-page": "223",
+        "volume-title": "New Directions in Attribution Research",
+        "author": "Newtson D.",
+        "year": "1976"
+      },
+      {
+        "key": "B108",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1507104112"
+      },
+      {
+        "key": "B109",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1551-6709.2010.01107.x"
+      },
+      {
+        "key": "B110",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2008.02.007"
+      },
+      {
+        "key": "B111",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41235-018-0151-2"
+      },
+      {
+        "key": "B112",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17470218.2015.1101478"
+      },
+      {
+        "key": "B113",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-016-0619-6"
+      },
+      {
+        "key": "B114",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2015.12.013"
+      },
+      {
+        "key": "B115",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721412451274"
+      },
+      {
+        "key": "B116",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03193261"
+      },
+      {
+        "key": "B117",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1076/anec.10.2.158.14459"
+      },
+      {
+        "key": "B118",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03193088"
+      },
+      {
+        "key": "B119",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17470218.2011.571267"
+      },
+      {
+        "key": "B120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-017-0713-4"
+      },
+      {
+        "key": "B121",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/PBR.17.6.900"
+      },
+      {
+        "key": "B122",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/acprof:oso/9780199898138.001.0001"
+      },
+      {
+        "key": "B123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.24.5.1224"
+      },
+      {
+        "key": "B124",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn3338"
+      },
+      {
+        "key": "B125",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15326900701399913"
+      },
+      {
+        "key": "B126",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2016.11.002"
+      },
+      {
+        "key": "B127",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03211832"
+      },
+      {
+        "key": "B128",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0037907"
+      },
+      {
+        "key": "B129",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2013.07.002"
+      },
+      {
+        "key": "B130",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15248370709336996"
+      },
+      {
+        "key": "B131",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2012.11.001"
+      },
+      {
+        "key": "B132",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9280.00068"
+      },
+      {
+        "key": "B133",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658219408258958"
+      },
+      {
+        "key": "B134",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ncomms12141"
+      },
+      {
+        "key": "B135",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn_a_00866"
+      },
+      {
+        "key": "B136",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cub.2017.09.057"
+      },
+      {
+        "key": "B137",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2016.02.006"
+      },
+      {
+        "key": "B138",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/sjop.12351"
+      },
+      {
+        "key": "B139",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2007.01920.x"
+      },
+      {
+        "key": "B140",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/tops.12450"
+      },
+      {
+        "key": "B141",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2011.04.007"
+      },
+      {
+        "key": "B142",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0037750"
+      },
+      {
+        "key": "B143",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn.2010.21524"
+      },
+      {
+        "key": "B144",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2018.04.019"
+      },
+      {
+        "key": "B145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015631"
+      },
+      {
+        "key": "B146",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.actpsy.2015.03.007"
+      },
+      {
+        "key": "B147",
+        "first-page": "237",
+        "volume-title": "Developmental Spans in Event Comprehension and Representation: Bridging Fictional and Actual Events",
+        "author": "Trabasso T",
+        "year": "1997"
+      },
+      {
+        "key": "B148",
+        "volume-title": "Elements of Episodic Memory",
+        "author": "Tulving E.",
+        "year": "1983"
+      },
+      {
+        "key": "B149",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xge0000458"
+      },
+      {
+        "key": "B150",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cogpsych.2018.10.003"
+      },
+      {
+        "key": "B151",
+        "volume-title": "Persistence and Change: Proceedings of the First International Conference on Event Perception",
+        "author": "Warren WH",
+        "year": "1985"
+      },
+      {
+        "key": "B152",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.actpsy.2009.09.001"
+      },
+      {
+        "key": "B153",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuroimage.2009.04.037"
+      },
+      {
+        "key": "B154",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8721.2009.01605.x"
+      },
+      {
+        "key": "B155",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.49.2.301"
+      },
+      {
+        "key": "B156",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.1996.tb00350.x"
+      },
+      {
+        "key": "B157",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/88486"
+      },
+      {
+        "key": "B158",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn_a_00078"
+      },
+      {
+        "key": "B159",
+        "first-page": "253",
+        "volume-title": "The Psychology of Learning and Motivation",
+        "author": "Zacks JM",
+        "year": "2010"
+      },
+      {
+        "key": "B160",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.133.2.273"
+      },
+      {
+        "key": "B161",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-32320-1"
+      },
+      {
+        "key": "B162",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.123.2.162"
+      },
+      {
+        "key": "B163",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00426-011-0338-3"
+      }
+    ],
+    "container-title": [
+      "Annual Review of Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-010419-051101",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          17
+        ]
+      ],
+      "date-time": "2021-10-17T11:57:34Z",
+      "timestamp": 1634471854000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.annualreviews.org/doi/10.1146/annurev-psych-010419-051101"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          4
+        ]
+      ]
+    },
+    "references-count": 163,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1146/annurev-psych-010419-051101"
+    ],
+    "URL": "https://doi.org/10.1146/annurev-psych-010419-051101",
+    "relation": {},
+    "ISSN": [
+      "0066-4308",
+      "1545-2085"
+    ],
+    "issn-type": [
+      {
+        "value": "0066-4308",
+        "type": "print"
+      },
+      {
+        "value": "1545-2085",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          4
+        ]
+      ]
+    }
+  }
+}

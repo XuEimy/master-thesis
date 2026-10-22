@@ -1,0 +1,297 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2026-09-17T17:24:28Z",
+      "timestamp": 1789665868076,
+      "version": "4.0.1"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 17,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              2
+            ]
+          ],
+          "date-time": "2024-05-02T00:00:00Z",
+          "timestamp": 1714608000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1145/3613905.3650979",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          11
+        ]
+      ],
+      "date-time": "2024-05-11T08:15:21Z",
+      "timestamp": 1715415321000
+    },
+    "page": "1-6",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "Unlocking Memories with AI: Exploring the Role of AI-Generated Cues in Personal Reminiscing"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0008-0510-3718",
+        "authenticated-orcid": false,
+        "given": "Jun Li",
+        "family": "Jeung",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Industrial Design, Eindhoven University of Technology, Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8204-4327",
+        "authenticated-orcid": false,
+        "given": "Janet Yi-Ching",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Industrial Design, Eindhoven University of Technology, Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_3_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1952222.1952269"
+      },
+      {
+        "key": "e_1_3_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/iwc"
+      },
+      {
+        "key": "e_1_3_3_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/PL00000011"
+      },
+      {
+        "key": "e_1_3_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/brainsci12030374"
+      },
+      {
+        "key": "e_1_3_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3532106.3533456"
+      },
+      {
+        "key": "e_1_3_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1718918.1718968"
+      },
+      {
+        "key": "e_1_3_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/MC.38.4.461"
+      },
+      {
+        "key": "e_1_3_3_3_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3294109.3300979"
+      },
+      {
+        "key": "e_1_3_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2839462.2856524"
+      },
+      {
+        "key": "e_1_3_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3195555.3195567"
+      },
+      {
+        "key": "e_1_3_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2207676.2207723"
+      },
+      {
+        "key": "e_1_3_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2556288.2557178"
+      },
+      {
+        "key": "e_1_3_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3584931.3606993"
+      },
+      {
+        "key": "e_1_3_3_3_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3173574.3173753"
+      },
+      {
+        "key": "e_1_3_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Daniel Street and Joseph Wilck. 2023. ’Let’s Have a Chat’: Principles for the Effective Application of ChatGPT and Large Language Models in the Practice of Forensic Accounting. https://doi.org/10.2139/ssrn.4351817",
+        "DOI": "10.2139/ssrn.4351817"
+      },
+      {
+        "key": "e_1_3_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2702123.2702460"
+      },
+      {
+        "key": "e_1_3_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/978-1-61499-820-4-453"
+      }
+    ],
+    "event": {
+      "name": "CHI '24: CHI Conference on Human Factors in Computing Systems",
+      "location": "Honolulu HI USA",
+      "acronym": "CHI '24",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction",
+        "SIGACCESS ACM Special Interest Group on Accessible Computing"
+      ]
+    },
+    "container-title": [
+      "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3613905.3650979",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3613905.3650979",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T23:56:52Z",
+      "timestamp": 1750291012000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3613905.3650979"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          2
+        ]
+      ]
+    },
+    "references-count": 17,
+    "alternative-id": [
+      "10.1145/3613905.3650979",
+      "10.1145/3613905"
+    ],
+    "URL": "https://doi.org/10.1145/3613905.3650979",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2024-05-11",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,876 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2026-09-25T13:54:07Z",
+      "timestamp": 1790344447166,
+      "version": "4.1.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 94,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              11
+            ]
+          ],
+          "date-time": "2024-05-11T00:00:00Z",
+          "timestamp": 1715385600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Hong Kong Baptist University Start-up Grant",
+        "award": [
+          "RC-STARTUP/21-22/23"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "RC-STARTUP/21-22/23"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Science Foundation Ireland grant",
+        "award": [
+          "13/RC/2094_P2"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "13/RC/2094_P2"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hong Kong Baptist University IG-FNRA project",
+        "award": [
+          "RC-FNRA-IG/21-22/SCI/01"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "RC-FNRA-IG/21-22/SCI/01"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hong Kong Research Grants Council (RGC) GRF project",
+        "award": [
+          "RGC/HKBU12201620"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "RGC/HKBU12201620"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1145/3613904.3642800",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          11
+        ]
+      ],
+      "date-time": "2024-05-11T04:39:12Z",
+      "timestamp": 1715402352000
+    },
+    "page": "1-17",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 63,
+    "title": [
+      "Exploring the Design of Generative AI in Supporting Music-based Reminiscence for Older Adults"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3926-7277",
+        "authenticated-orcid": false,
+        "given": "Yucheng",
+        "family": "Jin",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, Hong Kong Baptist University, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8506-3825",
+        "authenticated-orcid": false,
+        "given": "Wanling",
+        "family": "Cai",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Computer Science and Statistics, Lero @ Trinity College Dublin, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5842-838X",
+        "authenticated-orcid": false,
+        "given": "Li",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, Hong Kong Baptist University, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0004-0224-345X",
+        "authenticated-orcid": false,
+        "given": "Yizhe",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, Hong Kong Baptist University, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9617-7008",
+        "authenticated-orcid": false,
+        "given": "Gavin",
+        "family": "Doherty",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Computer Science and Statistics, Trinity College Dublin, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3588-3195",
+        "authenticated-orcid": false,
+        "given": "Tonglin",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Psychological and Cognitive Sciences, Peking University, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_3_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290605.3300233"
+      },
+      {
+        "key": "e_1_3_3_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290607.3313272"
+      },
+      {
+        "key": "e_1_3_3_3_3_1",
+        "volume-title": "Education in the era of generative artificial intelligence (AI): Understanding the potential benefits of ChatGPT in promoting teaching and learning. Available at SSRN 4337484",
+        "author": "Baidoo-Anu David",
+        "year": "2023",
+        "unstructured": "David Baidoo-Anu and Leticia Owusu Ansah. 2023. Education in the era of generative artificial intelligence (AI): Understanding the potential benefits of ChatGPT in promoting teaching and learning. Available at SSRN 4337484 (2023)."
+      },
+      {
+        "key": "e_1_3_3_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3197391.3205440"
+      },
+      {
+        "key": "e_1_3_3_3_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2505323.2505333"
+      },
+      {
+        "key": "e_1_3_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0144686X98006862"
+      },
+      {
+        "key": "e_1_3_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13607860600963547"
+      },
+      {
+        "key": "e_1_3_3_3_8_1",
+        "volume-title": "Using thematic analysis in psychology. Qualitative research in psychology 3, 2",
+        "author": "Braun Virginia",
+        "year": "2006",
+        "unstructured": "Virginia Braun and Victoria Clarke. 2006. Using thematic analysis in psychology. Qualitative research in psychology 3, 2 (2006), 77–101."
+      },
+      {
+        "key": "e_1_3_3_3_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10902-005-3889-4"
+      },
+      {
+        "key": "e_1_3_3_3_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00332747.1963.11023339"
+      },
+      {
+        "key": "e_1_3_3_3_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3397481.3450657"
+      },
+      {
+        "key": "e_1_3_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581427"
+      },
+      {
+        "key": "e_1_3_3_3_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jaging.2007.06.003"
+      },
+      {
+        "key": "e_1_3_3_3_14_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Niamh Caprani Nuala Dwyer Kim Harrison and Karen O’Brien. 2005. Remember when: development of an interactive reminiscence device. In CHI’05 Extended Abstracts on Human Factors in Computing Systems. 2070–2073.",
+        "DOI": "10.1145/1056808.1057101"
+      },
+      {
+        "key": "e_1_3_3_3_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3372278.3391927"
+      },
+      {
+        "key": "e_1_3_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2317956.2318078"
+      },
+      {
+        "key": "e_1_3_3_3_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chb.2018.08.048"
+      },
+      {
+        "key": "e_1_3_3_3_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/geront/gnab167"
+      },
+      {
+        "key": "e_1_3_3_3_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2012.04.008"
+      },
+      {
+        "key": "e_1_3_3_3_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3334480.3375209"
+      },
+      {
+        "key": "e_1_3_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08098131.2018.1490921"
+      },
+      {
+        "key": "e_1_3_3_3_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376432"
+      },
+      {
+        "key": "e_1_3_3_3_23_1",
+        "volume-title": "Bonding with bot: user feedback on a chatbot for social isolation. Frontiers in digital health 3",
+        "author": "Dosovitsky Gilly",
+        "year": "2021",
+        "unstructured": "Gilly Dosovitsky and Eduardo L Bunge. 2021. Bonding with bot: user feedback on a chatbot for social isolation. Frontiers in digital health 3 (2021), 735053."
+      },
+      {
+        "key": "e_1_3_3_3_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290607.3313059"
+      },
+      {
+        "key": "e_1_3_3_3_25_1",
+        "volume-title": "The effectiveness of group reminiscence therapy for loneliness, anxiety and depression in older adults in long-term care: A systematic review. Geriatric nursing 36, 5",
+        "author": "Munirah Syed Elias Sharifah",
+        "year": "2015",
+        "unstructured": "Sharifah Munirah Syed Elias, Christine Neville, and Theresa Scott. 2015. The effectiveness of group reminiscence therapy for loneliness, anxiety and depression in older adults in long-term care: A systematic review. Geriatric nursing 36, 5 (2015), 372–380."
+      },
+      {
+        "key": "e_1_3_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/mtp/miac021"
+      },
+      {
+        "key": "e_1_3_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445148"
+      },
+      {
+        "key": "e_1_3_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-77080-8_27"
+      },
+      {
+        "key": "e_1_3_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10209-011-0235-y"
+      },
+      {
+        "key": "e_1_3_3_3_30_1",
+        "first-page": "452",
+        "article-title": "Reminiscence-based therapies for depression: Should they be used only with older adults?Clinical Psychology",
+        "volume": "20",
+        "author": "Hallford David",
+        "year": "2013",
+        "unstructured": "David Hallford and David Mellor. 2013. Reminiscence-based therapies for depression: Should they be used only with older adults?Clinical Psychology: Science and Practice 20, 4 (2013), 452.",
+        "journal-title": "Science and Practice"
+      },
+      {
+        "key": "e_1_3_3_3_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3585088.3593867"
+      },
+      {
+        "key": "e_1_3_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2047196.2047206"
+      },
+      {
+        "key": "e_1_3_3_3_33_1",
+        "volume-title": "Perceived stress across the midlife: longitudinal changes among a diverse sample of women, the Study of Women’s health Across the Nation (SWAN). Women’s midlife health 4",
+        "author": "Hedgeman Elizabeth",
+        "year": "2018",
+        "unstructured": "Elizabeth Hedgeman, Rebecca E Hasson, Carrie A Karvonen-Gutierrez, William H Herman, and Siobán D Harlow. 2018. Perceived stress across the midlife: longitudinal changes among a diverse sample of women, the Study of Women’s health Across the Nation (SWAN). Women’s midlife health 4 (2018), 1–11."
+      },
+      {
+        "key": "e_1_3_3_3_34_1",
+        "volume-title": "How different are young adults from older adults when it comes to information privacy attitudes and policies?Available at SSRN 1589864",
+        "author": "Hoofnagle Chris Jay",
+        "year": "2010",
+        "unstructured": "Chris Jay Hoofnagle, Jennifer King, Su Li, and Joseph Turow. 2010. How different are young adults from older adults when it comes to information privacy attitudes and policies?Available at SSRN 1589864 (2010)."
+      },
+      {
+        "key": "e_1_3_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00013614-200407000-00006"
+      },
+      {
+        "key": "e_1_3_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0020-7489(02)00101-3"
+      },
+      {
+        "key": "e_1_3_3_3_37_1",
+        "volume-title": "Proceedings of the 4th world conference on design research, Vol. 10",
+        "author": "Hsieh Pei-Chen",
+        "year": "2011",
+        "unstructured": "Pei-Chen Hsieh, RH Liang, and HC Chen. 2011. SoundCapsule: The study of reminiscence triggered by utilizing sound media and technology. In Proceedings of the 4th world conference on design research, Vol. 10."
+      },
+      {
+        "key": "e_1_3_3_3_38_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rowan T Hughes Liming Zhu and Tomasz Bednarz. 2021. Generative adversarial networks–enabled human–artificial intelligence collaborative applications for creative and design industries: A systematic review of current approaches and trends. Frontiers in artificial intelligence 4 (2021) 604234.",
+        "DOI": "10.3389/frai.2021.604234"
+      },
+      {
+        "key": "e_1_3_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3580773"
+      },
+      {
+        "key": "e_1_3_3_3_40_1",
+        "volume-title": "Combining music and reminiscence therapy interventions for wellbeing in elderly populations: A systematic review. Complementary therapies in clinical practice 28",
+        "author": "Istvandity Lauren",
+        "year": "2017",
+        "unstructured": "Lauren Istvandity. 2017. Combining music and reminiscence therapy interventions for wellbeing in elderly populations: A systematic review. Complementary therapies in clinical practice 28 (2017), 18–25."
+      },
+      {
+        "key": "e_1_3_3_3_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210701734593"
+      },
+      {
+        "key": "e_1_3_3_3_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2851581.2890384"
+      },
+      {
+        "key": "e_1_3_3_3_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3579629"
+      },
+      {
+        "key": "e_1_3_3_3_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2190/P7AA-8G6M-2T3B-QRP0"
+      },
+      {
+        "key": "e_1_3_3_3_45_1",
+        "volume-title": "A systematic review of the use of technology for reminiscence therapy. Health education & behavior 41, 1_suppl",
+        "author": "Lazar Amanda",
+        "year": "2014",
+        "unstructured": "Amanda Lazar, Hilaire Thompson, and George Demiris. 2014. A systematic review of the use of technology for reminiscence therapy. Health education & behavior 41, 1_suppl (2014), 51S–61S."
+      },
+      {
+        "key": "e_1_3_3_3_46_1",
+        "volume-title": "Reminiscing and self-concept in old age.Journal of gerontology",
+        "author": "Lewis N",
+        "year": "1971",
+        "unstructured": "Charles N Lewis. 1971. Reminiscing and self-concept in old age.Journal of gerontology (1971)."
+      },
+      {
+        "key": "e_1_3_3_3_47_1",
+        "volume-title": "Hearing loss and cognitive decline in older adults. JAMA internal medicine 173, 4",
+        "author": "Lin R",
+        "year": "2013",
+        "unstructured": "Frank R Lin, Kristine Yaffe, Jin Xia, Qian-Li Xue, Tamara B Harris, Elizabeth Purchase-Helzner, Suzanne Satterfield, Hilsa N Ayonayon, Luigi Ferrucci, Eleanor M Simonsick, 2013. Hearing loss and cognitive decline in older adults. JAMA internal medicine 173, 4 (2013), 293–299."
+      },
+      {
+        "key": "e_1_3_3_3_48_1",
+        "volume-title": "The effect of reminiscence on the elderly population: a systematic review. Public health nursing 20, 4",
+        "author": "Lin Yen-Chun",
+        "year": "2003",
+        "unstructured": "Yen-Chun Lin, Yu-Tzu Dai, and Shiow-Li Hwang. 2003. The effect of reminiscence on the elderly population: a systematic review. Public health nursing 20, 4 (2003), 297–306."
+      },
+      {
+        "key": "e_1_3_3_3_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1609/aaai.v34i09.7098"
+      },
+      {
+        "key": "e_1_3_3_3_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3404835.3462828"
+      },
+      {
+        "key": "e_1_3_3_3_51_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wendy E Mackay and Anne Laure Fayard. 1999. Video brainstorming and prototyping: techniques for participatory design. In CHI’99 extended abstracts on Human factors in computing systems. 118–119.",
+        "DOI": "10.1145/632716.632790"
+      },
+      {
+        "key": "e_1_3_3_3_52_1",
+        "volume-title": "implementing, and evaluating mobile health technologies for managing chronic conditions in older adults: a scoping review. JMIR mHealth and uHealth 4, 2",
+        "author": "Matthew-Maich Nancy",
+        "year": "2016",
+        "unstructured": "Nancy Matthew-Maich, Lauren Harris, Jenny Ploeg, Maureen Markle-Reid, Ruta Valaitis, Sarah Ibrahim, Amiram Gafni, Sandra Isaacs, 2016. Designing, implementing, and evaluating mobile health technologies for managing chronic conditions in older adults: a scoping review. JMIR mHealth and uHealth 4, 2 (2016), e5127."
+      },
+      {
+        "key": "e_1_3_3_3_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290605.3300665"
+      },
+      {
+        "key": "e_1_3_3_3_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581225"
+      },
+      {
+        "key": "e_1_3_3_3_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2190/K4MG-9VYG-WQL3-CBRH"
+      },
+      {
+        "key": "e_1_3_3_3_56_1",
+        "volume-title": "How do Older Adults feel about engaging with Cyber-Security?Human Behavior and Emerging Technologies 3, 5",
+        "author": "Morrison Benjamin",
+        "year": "2021",
+        "unstructured": "Benjamin Morrison, Lynne Coventry, and Pam Briggs. 2021. How do Older Adults feel about engaging with Cyber-Security?Human Behavior and Emerging Technologies 3, 5 (2021), 1033–1049."
+      },
+      {
+        "key": "e_1_3_3_3_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11257-019-09250-7"
+      },
+      {
+        "key": "e_1_3_3_3_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3195555.3195567"
+      },
+      {
+        "key": "e_1_3_3_3_59_1",
+        "first-page": "115",
+        "article-title": "Generative AI in Healthcare: Advancements in Electronic Health Records, facilitating Medical Languages, and Personalized Patient Care",
+        "volume": "7",
+        "author": "Nova Kannan",
+        "year": "2023",
+        "unstructured": "Kannan Nova. 2023. Generative AI in Healthcare: Advancements in Electronic Health Records, facilitating Medical Languages, and Personalized Patient Care. Journal of Advanced Analytics in Healthcare Management 7, 1 (2023), 115–131.",
+        "journal-title": "Journal of Advanced Analytics in Healthcare Management"
+      },
+      {
+        "key": "e_1_3_3_3_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290605.3300264"
+      },
+      {
+        "key": "e_1_3_3_3_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02650539808415144"
+      },
+      {
+        "key": "e_1_3_3_3_62_1",
+        "volume-title": "Digital literacy and privacy behavior online. Communication research 40, 2",
+        "author": "Park Yong Jin",
+        "year": "2013",
+        "unstructured": "Yong Jin Park. 2013. Digital literacy and privacy behavior online. Communication research 40, 2 (2013), 215–236."
+      },
+      {
+        "key": "e_1_3_3_3_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1753326.1753635"
+      },
+      {
+        "key": "e_1_3_3_3_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1357054.1357065"
+      },
+      {
+        "key": "e_1_3_3_3_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fnagi.2015.00141"
+      },
+      {
+        "key": "e_1_3_3_3_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijhcs.2021.102630"
+      },
+      {
+        "key": "e_1_3_3_3_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chb.2021.107034"
+      },
+      {
+        "key": "e_1_3_3_3_68_1",
+        "volume-title": "How can technology contribute to the quality of life of older adults. The technology of humanity: Can technology contribute to the quality of life 22",
+        "author": "Rogers A",
+        "year": "2003",
+        "unstructured": "Wendy A Rogers and Elizabeth D Mynatt. 2003. How can technology contribute to the quality of life of older adults. The technology of humanity: Can technology contribute to the quality of life 22 (2003), 30."
+      },
+      {
+        "key": "e_1_3_3_3_69_1",
+        "volume-title": "Looking back: An analysis of reminiscence functions and triggers. Experimental aging research 7, 4",
+        "author": "Romaniuk Michael",
+        "year": "1981",
+        "unstructured": "Michael Romaniuk and Jean Gasen Romaniuk. 1981. Looking back: An analysis of reminiscence functions and triggers. Experimental aging research 7, 4 (1981), 477–489."
+      },
+      {
+        "key": "e_1_3_3_3_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3415223"
+      },
+      {
+        "key": "e_1_3_3_3_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3479506"
+      },
+      {
+        "key": "e_1_3_3_3_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376361"
+      },
+      {
+        "key": "e_1_3_3_3_73_1",
+        "volume-title": "The psychological functions of music listening. Frontiers in psychology 4",
+        "author": "Schäfer Thomas",
+        "year": "2013",
+        "unstructured": "Thomas Schäfer, Peter Sedlmeier, Christine Städtler, and David Huron. 2013. The psychological functions of music listening. Frontiers in psychology 4 (2013), 511."
+      },
+      {
+        "key": "e_1_3_3_3_74_1",
+        "first-page": "1",
+        "article-title": "Health characteristics of adults aged 55 years and over: United States, 2004–2007",
+        "volume": "16",
+        "author": "Schoenborn A",
+        "year": "2009",
+        "unstructured": "Charlotte A Schoenborn and Kathleen M Heyman. 2009. Health characteristics of adults aged 55 years and over: United States, 2004–2007. Natl Health Stat Report 16 (2009), 1–31.",
+        "journal-title": "Natl Health Stat Report"
+      },
+      {
+        "key": "e_1_3_3_3_75_1",
+        "volume-title": "Data privacy concerns using mhealth apps and smart speakers: Comparative interview study among mature adults. JMIR formative research 6, 6",
+        "author": "Schroeder Tanja",
+        "year": "2022",
+        "unstructured": "Tanja Schroeder, Maximilian Haug, and Heiko Gewald. 2022. Data privacy concerns using mhealth apps and smart speakers: Comparative interview study among mature adults. JMIR formative research 6, 6 (2022), e28025."
+      },
+      {
+        "key": "e_1_3_3_3_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/03057356211064641"
+      },
+      {
+        "key": "e_1_3_3_3_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0144686X03001302"
+      },
+      {
+        "key": "e_1_3_3_3_78_1",
+        "volume-title": "Written emotional expression: effect sizes, outcome types, and moderating variables.Journal of consulting and clinical psychology 66, 1",
+        "author": "Smyth M",
+        "year": "1998",
+        "unstructured": "Joshua M Smyth. 1998. Written emotional expression: effect sizes, outcome types, and moderating variables.Journal of consulting and clinical psychology 66, 1 (1998), 174."
+      },
+      {
+        "key": "e_1_3_3_3_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3442188.3445869"
+      },
+      {
+        "key": "e_1_3_3_3_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3369457.3369506"
+      },
+      {
+        "key": "e_1_3_3_3_81_1",
+        "volume-title": "Rung-Huei Liang, and Jane Yung-jen Hsu.",
+        "author": "Tsai Wenn-Chieh",
+        "year": "2013",
+        "unstructured": "Wenn-Chieh Tsai, Hung-Chi Lee, Joey Chiao-Yin Hsiao, Rung-Huei Liang, and Jane Yung-jen Hsu. 2013. Framing design of reminiscence aids with transactive memory theory. In CHI’13 Extended Abstracts on Human Factors in Computing Systems. 331–336."
+      },
+      {
+        "key": "e_1_3_3_3_82_1",
+        "volume-title": "How will generative AI disrupt data science in drug discovery?Nature Biotechnology",
+        "author": "Vert Jean-Philippe",
+        "year": "2023",
+        "unstructured": "Jean-Philippe Vert. 2023. How will generative AI disrupt data science in drug discovery?Nature Biotechnology (2023), 1–2."
+      },
+      {
+        "key": "e_1_3_3_3_83_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/gps.1821"
+      },
+      {
+        "key": "e_1_3_3_3_84_1",
+        "volume-title": "Technology to support aging in place: Older adults",
+        "author": "Wang Shengzhi",
+        "unstructured": "Shengzhi Wang, Khalisa Bolling, Wenlin Mao, Jennifer Reichstadt, Dilip Jeste, Ho-Cheol Kim, and Camille Nebeker. 2019. Technology to support aging in place: Older adults’ perspectives. In Healthcare, Vol. 7. MDPI, 60."
+      },
+      {
+        "key": "e_1_3_3_3_85_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3397481.3450650"
+      },
+      {
+        "key": "e_1_3_3_3_86_1",
+        "volume-title": "Joint Proceedings of the IUI 2023 Workshops: HAI-GEN, ITAH, MILC, SHAI, SketchRec, SOCIALIZE co-located with the ACM International Conference on Intelligent User Interfaces (IUI",
+        "author": "Weisz D.",
+        "year": "2023",
+        "unstructured": "Justin D. Weisz, Michael J. Muller, Jessica He, and Stephanie Houde. 2023. Toward General Design Principles for Generative AI Applications 130-144. In Joint Proceedings of the IUI 2023 Workshops: HAI-GEN, ITAH, MILC, SHAI, SketchRec, SOCIALIZE co-located with the ACM International Conference on Intelligent User Interfaces (IUI 2023), Sydney, Australia, March 27-31, 2023(CEUR Workshop Proceedings, Vol. 3359). CEUR-WS.org, 130–144."
+      },
+      {
+        "key": "e_1_3_3_3_87_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jaging.2014.02.003"
+      },
+      {
+        "key": "e_1_3_3_3_88_1",
+        "volume-title": "The art and science of reminiscing",
+        "author": "Wong TP",
+        "unstructured": "Paul TP Wong. 2013. The processes of adaptive reminiscence. In The art and science of reminiscing. Taylor & Francis, 23–35."
+      },
+      {
+        "key": "e_1_3_3_3_89_1",
+        "volume-title": "Reminiscence and life review with persons with dementia: which way forward? In Care-giving in Dementia",
+        "author": "Woods Bob",
+        "unstructured": "Bob Woods, Sara Portnoy, Donna Head, and Gemma Jones. 1992. Reminiscence and life review with persons with dementia: which way forward? In Care-giving in Dementia. Routledge, 137–161."
+      },
+      {
+        "key": "e_1_3_3_3_90_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3393914.3395852"
+      },
+      {
+        "key": "e_1_3_3_3_91_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445212"
+      },
+      {
+        "key": "e_1_3_3_3_92_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijmedinf.2016.07.004"
+      },
+      {
+        "key": "e_1_3_3_3_93_1",
+        "volume-title": "A complete survey on generative ai (aigc): Is chatgpt from gpt-4 to gpt-5 all you need?arXiv preprint arXiv:2303.11717",
+        "author": "Zhang Chaoning",
+        "year": "2023",
+        "unstructured": "Chaoning Zhang, Chenshuang Zhang, Sheng Zheng, Yu Qiao, Chenghao Li, Mengchun Zhang, Sumit Kumar Dam, Chu Myaet Thwal, Ye Lin Tun, Le Luang Huy, 2023. A complete survey on generative ai (aigc): Is chatgpt from gpt-4 to gpt-5 all you need?arXiv preprint arXiv:2303.11717 (2023)."
+      },
+      {
+        "key": "e_1_3_3_3_94_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-40480-1_55"
+      }
+    ],
+    "event": {
+      "name": "CHI '24: CHI Conference on Human Factors in Computing Systems",
+      "location": "Honolulu HI USA",
+      "acronym": "CHI '24",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction",
+        "SIGACCESS ACM Special Interest Group on Accessible Computing"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the CHI Conference on Human Factors in Computing Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3613904.3642800",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642800",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T19:44:30Z",
+      "timestamp": 1750275870000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3613904.3642800"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          11
+        ]
+      ]
+    },
+    "references-count": 94,
+    "alternative-id": [
+      "10.1145/3613904.3642800",
+      "10.1145/3613904"
+    ],
+    "URL": "https://doi.org/10.1145/3613904.3642800",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2024-05-11",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

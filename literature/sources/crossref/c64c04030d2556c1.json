@@ -1,0 +1,858 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ],
+      "date-time": "2026-10-01T05:21:43Z",
+      "timestamp": 1790832103717,
+      "version": "4.1.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 108,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              25
+            ]
+          ],
+          "date-time": "2025-04-25T00:00:00Z",
+          "timestamp": 1745539200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          26
+        ]
+      ]
+    },
+    "DOI": "10.1145/3706598.3713697",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2025-04-24T00:40:09Z",
+      "timestamp": 1745455209000
+    },
+    "page": "1-20",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 24,
+    "title": [
+      "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1879-7340",
+        "authenticated-orcid": false,
+        "given": "Pat",
+        "family": "Pataranutaporn",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "MIT Media Lab, Massachusetts Institute of Technology, Boston, Massachusetts, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-7165-0859",
+        "authenticated-orcid": false,
+        "given": "Chayapatr",
+        "family": "Archiwaranguprok",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of the Thai Chamber of Commerce, Bangkok, Thailand"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1159-0467",
+        "authenticated-orcid": false,
+        "given": "Samantha W. T.",
+        "family": "Chan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MIT Media Lab, Cambridge, Massachusetts, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0004-8920-3273",
+        "authenticated-orcid": false,
+        "given": "Elizabeth",
+        "family": "Loftus",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UCI School of Social Ecology, UC Irvine, Irvine, California, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7722-6038",
+        "authenticated-orcid": false,
+        "given": "Pattie",
+        "family": "Maes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MIT Media Lab, Cambridge, Massachusetts, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_3_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-031-33488-711"
+      },
+      {
+        "key": "e_1_3_3_3_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642666"
+      },
+      {
+        "key": "e_1_3_3_3_4_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jane M Berry Robin L West and Dierdre M Dennehey. 1989. Reliability and validity of the Memory Self-Efficacy Questionnaire. Developmental psychology 25 5 (1989) 701.",
+        "DOI": "10.1037//0012-1649.25.5.701"
+      },
+      {
+        "key": "e_1_3_3_3_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3641992"
+      },
+      {
+        "key": "e_1_3_3_3_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3580988"
+      },
+      {
+        "key": "e_1_3_3_3_7_2",
+        "unstructured": "Tom Brown Benjamin Mann Nick Ryder Melanie Subbiah Jared D Kaplan Prafulla Dhariwal Arvind Neelakantan Pranav Shyam Girish Sastry Amanda Askell et al. 2020. Language models are few-shot learners. Advances in neural information processing systems 33 (2020) 1877–1901."
+      },
+      {
+        "key": "e_1_3_3_3_8_2",
+        "unstructured": "Kellen Browning. 2024. Despite Trump’s Claims Footage Shows Large Crowd at Harris’s Detroit Rally — nytimes.com. https://www.nytimes.com/interactive/2024/08/12/us/elections/trump-harris-detroit-rally.html. [Accessed 12-09-2024]."
+      },
+      {
+        "key": "e_1_3_3_3_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613905.3637128"
+      },
+      {
+        "key": "e_1_3_3_3_10_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Samantha Chan Pat Pataranutaporn Aditya Suri Wazeer Zulfikar Pattie Maes and Elizabeth F Loftus. 2024. Conversational AI Powered by Large Language Models Amplifies False Memories in Witness Interviews. arXiv preprint arXiv:https://arXiv.org/abs/2408.04681 (2024).",
+        "DOI": "10.21428/cb6ab371.6ae390a8"
+      },
+      {
+        "key": "e_1_3_3_3_11_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sam WT Chan Tamil Selvan Gunasekaran Yun Suen Pai Haimo Zhang and Suranga Nanayakkara. 2021. KinVoices: Using voices of friends and family in voice interfaces. Proceedings of the ACM on Human-Computer Interaction 5 CSCW2 (2021) 1–25.",
+        "DOI": "10.1145/3479590"
+      },
+      {
+        "key": "e_1_3_3_3_12_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Samantha W. T. Chan Thisum Buddhika Haimo Zhang and Suranga Nanayakkara. 2019. ProspecFit: In Situ Evaluation of Digital Prospective Memory Training for Older Adults. Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies 3 3 (Sept. 2019) 1â€“20. 10.1145/3351235",
+        "DOI": "10.1145/3351235"
+      },
+      {
+        "key": "e_1_3_3_3_13_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yupeng Chang Xu Wang Jindong Wang Yuan Wu Linyi Yang Kaijie Zhu Hao Chen Xiaoyuan Yi Cunxiang Wang Yidong Wang et al. 2024. A survey on evaluation of large language models. ACM Transactions on Intelligent Systems and Technology 15 3 (2024) 1–45.",
+        "DOI": "10.1145/3641289"
+      },
+      {
+        "key": "e_1_3_3_3_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1785455.1785479"
+      },
+      {
+        "key": "e_1_3_3_3_15_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Jennifer Cumming and Sarah E. Williams. 2013. Introducing the revised applied model of deliberate imagery use for sport dance exercise and rehabilitation. Movement & Sport Sciences - Science & Motricité82 (2013) 69–81. 10.1051/sm/2013098",
+        "DOI": "10.1051/sm/2013098"
+      },
+      {
+        "key": "e_1_3_3_3_16_2",
+        "unstructured": "Valdemar Danry Pat Pataranutaporn Ziv Epstein Matthew Groh and Pattie Maes. 2022. Deceptive AI systems that give explanations are just as convincing as honest AI systems in human-machine decision making. arXiv preprint arXiv:https://arXiv.org/abs/2210.08960 (2022)."
+      },
+      {
+        "key": "e_1_3_3_3_17_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Nigel Davies Adrian Friday Sarah Clinch Corina Sas Marc Langheinrich Geoff Ward and Albrecht Schmidt. 2015. Security and Privacy Implications of Pervasive Memory Augmentation. IEEE Pervasive Computing 14 1 (Jan. 2015) 44–53. 10.1109/mprv.2015.13",
+        "DOI": "10.1109/mprv.2015.13"
+      },
+      {
+        "key": "e_1_3_3_3_18_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Douglas C Engelbart. 2021. Augmenting human intellect: a conceptual framework (1962). (2021).",
+        "DOI": "10.21236/AD0289565"
+      },
+      {
+        "key": "e_1_3_3_3_19_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ziv Epstein Aaron Hertzmann Investigators of Human Creativity Memo Akten Hany Farid Jessica Fjeld Morgan R Frank Matthew Groh Laura Herman Neil Leach et al. 2023. Art and the science of generative AI. Science 380 6650 (2023) 1110–1111.",
+        "DOI": "10.1126/science.adh4451"
+      },
+      {
+        "key": "e_1_3_3_3_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376232"
+      },
+      {
+        "key": "e_1_3_3_3_21_2",
+        "unstructured": "M Faverio. 2022. Share of those 65 and older who are tech users has grown in the past decade. https://www.pewresearch.org/short-reads/2022/01/13/share-of-those-65-and-older-who-are-tech-users-has-grown-in-the-past-decade/"
+      },
+      {
+        "key": "e_1_3_3_3_22_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rodrigo Ferrer-Urbina Yasna Ramírez Patricio Mena-Chamorro Marcos Carmona-Halty and Geraldy Sepúlveda-Páez. 2024. Naive skepticism scale: development and validation tests applied to the chilean population. Psicologia: Reflexão e Crítica 37 (2024) 6.",
+        "DOI": "10.1186/s41155-024-00288-0"
+      },
+      {
+        "key": "e_1_3_3_3_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/765891.765951"
+      },
+      {
+        "key": "e_1_3_3_3_24_2",
+        "unstructured": "Geoffrey A. Fowler. 2008. How Google’s Best Take uses AI to edit your photos and fix smiles - The Washington Post. https://www.washingtonpost.com/technology/2023/10/11/ai-face-google-best-take/. Accessed: 2024-09-10."
+      },
+      {
+        "key": "e_1_3_3_3_25_2",
+        "unstructured": "Kierra Frazier. 2024. Harris tweaks Trump over crowd size ahead of debate - politico. https://www.politico.com/news/2024/09/10/harris-trump-crowd-size-debate-00178116/. [Accessed 12-09-2024]."
+      },
+      {
+        "key": "e_1_3_3_3_26_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Peter Frost. 2000. The quality of false memory over time: Is memory for misinformation “remembered” or “known”? Psychonomic Bulletin & Review 7 3 (Sept. 2000) 531–536. 10.3758/bf03214367",
+        "DOI": "10.3758/bf03214367"
+      },
+      {
+        "key": "e_1_3_3_3_27_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Maryanne Garry and Matthew P Gerrie. 2005. When photographs create false memories. Current Directions in Psychological Science 14 6 (2005) 321–325.",
+        "DOI": "10.1111/j.0963-7214.2005.00390.x"
+      },
+      {
+        "key": "e_1_3_3_3_28_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Josh A Goldstein Jason Chao Shelby Grossman Alex Stamos and Michael Tomz. 2024. How persuasive is AI-generated propaganda? PNAS nexus 3 2 (2024) pgae034.",
+        "DOI": "10.1093/pnasnexus/pgae034"
+      },
+      {
+        "key": "e_1_3_3_3_29_2",
+        "unstructured": "Josh A Goldstein Girish Sastry Micah Musser Renee DiResta Matthew Gentzel and Katerina Sedova. 2023. Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations. arXiv preprint arXiv:https://arXiv.org/abs/2301.04246 (2023)."
+      },
+      {
+        "key": "e_1_3_3_3_30_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Brian Gonsalves and Ken A Paller. 2000. Neural events that underlie remembering something that never happened. Nature Neuroscience 3 12 (2000) 1316–1321.",
+        "DOI": "10.1038/81851"
+      },
+      {
+        "key": "e_1_3_3_3_31_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matthew Groh Ziv Epstein Chaz Firestone and Rosalind Picard. 2022. Deepfake detection by human crowds machines and machine-informed crowds. Proceedings of the National Academy of Sciences 119 1 (2022) e2110013119.",
+        "DOI": "10.1073/pnas.2110013119"
+      },
+      {
+        "key": "e_1_3_3_3_32_2",
+        "unstructured": "Matthew Groh Aruna Sankaranarayanan Nikhil Singh Dong Young Kim Andrew Lippman and Rosalind Picard. 2023. Human detection of political speech deepfakes across transcripts audio and video. arXiv preprint arXiv:https://arXiv.org/abs/2202.12883 (2023)."
+      },
+      {
+        "key": "e_1_3_3_3_33_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Cathal Gurrin Alan F. Smeaton and Aiden R. Doherty. 2014. LifeLogging: Personal Big Data. Foundations and Trends® in Information Retrieval 8 1 (2014) 1–125. 10.1561/1500000033",
+        "DOI": "10.1561/1500000033"
+      },
+      {
+        "key": "e_1_3_3_3_34_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Linda A. Henkel and Anna Milliken. 2020. The benefits and costs of editing and reviewing photos of one’s experiences on subsequent memory. Journal of Applied Research in Memory and Cognition 9 4 (Dec. 2020) 480–494. 10.1037/h0101858",
+        "DOI": "10.1037/h0101858"
+      },
+      {
+        "key": "e_1_3_3_3_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3517717"
+      },
+      {
+        "key": "e_1_3_3_3_36_2",
+        "unstructured": "Lei Huang Weijiang Yu Weitao Ma Weihong Zhong Zhangyin Feng Haotian Wang Qianglong Chen Weihua Peng Xiaocheng Feng Bing Qin et al. 2023. A survey on hallucination in large language models: Principles taxonomy challenges and open questions. arXiv preprint arXiv:https://arXiv.org/abs/2311.05232 (2023)."
+      },
+      {
+        "key": "e_1_3_3_3_37_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tsung-Ren Huang Yu-Lan Cheng and Suparna Rajaram. 2023. Unavoidable social contagion of false memory from robots to humans. American Psychologist (2023).",
+        "DOI": "10.1037/amp0001230"
+      },
+      {
+        "key": "e_1_3_3_3_38_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Farnaz Jahanbakhsh Amy X. Zhang and David R. Karger. 2022. Leveraging Structured Trusted-Peer Assessments to Combat Misinformation. Proc. ACM Hum.-Comput. Interact. 6 CSCW2 Article 524 (nov 2022) 40 pages. 10.1145/3555637",
+        "DOI": "10.1145/3555637"
+      },
+      {
+        "key": "e_1_3_3_3_39_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Maurice Jakesch Advait Bhat Daniel Buschek Lior Zalmanson and Mor Naaman. 2022. Interacting with Opinionated Language Models Changes Users’ Views. Arxiv Open Access (2022).",
+        "DOI": "10.1145/3544548.3581196"
+      },
+      {
+        "key": "e_1_3_3_3_40_2",
+        "unstructured": "Meng Jiang Qing Zhao Jianqiang Li Fan Wang Tianyu He Xinyan Cheng Bing Xiang Yang Grace WK Ho and Guanghui Fu. 2024. A Generic Review of Integrating Artificial Intelligence in Cognitive Behavioral Therapy. arXiv preprint arXiv:https://arXiv.org/abs/2407.19422 (2024)."
+      },
+      {
+        "key": "e_1_3_3_3_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642596"
+      },
+      {
+        "key": "e_1_3_3_3_42_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Brittne Kakulla. 2022. 2022 Tech Trends and Adults 50-Plus. Washington DC: AARP Research December 2021.10.26419/res.00493.001",
+        "DOI": "10.26419/res.00493.001"
+      },
+      {
+        "key": "e_1_3_3_3_43_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Irene P. Kan Kendra L. Pizzonia Anna B. Drummey and Eli J. V. Mikkelsen. 2021. Exploring factors that mitigate the continued influence of misinformation. Cognitive Research: Principles and Implications 6 1 (Nov. 2021). 10.1186/s41235-021-00335-9",
+        "DOI": "10.1186/s41235-021-00335-9"
+      },
+      {
+        "key": "e_1_3_3_3_44_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elise Karinshak Sunny Xun Liu Joon Sung Park and Jeffrey Hancock. 2023. Working with AI to persuade: Examining a large language model’s ability to generate pro-vaccination messages. Stanford Preprint (2023).",
+        "DOI": "10.1145/3579592"
+      },
+      {
+        "key": "e_1_3_3_3_45_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Katarina Kertysova. 2018. Artificial intelligence and disinformation: How AI changes the way disinformation is produced disseminated and can be countered. Security and Human Rights 29 1-4 (2018) 55–81.",
+        "DOI": "10.1163/18750230-02901005"
+      },
+      {
+        "key": "e_1_3_3_3_46_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Celeste Kidd and Abeba Birhane. 2023. How AI can distort human beliefs. Science 380 6651 (2023) 1222–1223.",
+        "DOI": "10.1126/science.adi0248"
+      },
+      {
+        "key": "e_1_3_3_3_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642693"
+      },
+      {
+        "key": "e_1_3_3_3_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3375627.3375833"
+      },
+      {
+        "key": "e_1_3_3_3_49_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jinyoung Lee. 2019. The service design platform for people with dementia: Person-centred reminiscence therapy with Artificial Intelligence in immersive environments. Temes de Disseny35 (2019) 154–169.",
+        "DOI": "10.46467/TdD35.2019.154-169"
+      },
+      {
+        "key": "e_1_3_3_3_50_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411763.3451696"
+      },
+      {
+        "key": "e_1_3_3_3_51_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581039"
+      },
+      {
+        "key": "e_1_3_3_3_52_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491101.3519917"
+      },
+      {
+        "key": "e_1_3_3_3_53_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "D Stephen Lindsay Lisa Hagen J Don Read Kimberley A Wade and Maryanne Garry. 2004. True photographs and false memories. Psychological Science 15 3 (2004) 149–154.",
+        "DOI": "10.1111/j.0956-7976.2004.01503002.x"
+      },
+      {
+        "key": "e_1_3_3_3_54_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642448"
+      },
+      {
+        "key": "e_1_3_3_3_55_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Nadine Liv and Dov Greenbaum. 2020. Deep Fakes and Memory Malleability: False Memories in the Service of Fake News. AJOB Neuroscience 11 2 (March 2020) 96–104. 10.1080/21507740.2020.1740351",
+        "DOI": "10.1080/21507740.2020.1740351"
+      },
+      {
+        "key": "e_1_3_3_3_56_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus. 1981. Eyewitness testimony: Psychological research and legal thought. Crime and justice 3 (1981) 105–151.",
+        "DOI": "10.1086/449078"
+      },
+      {
+        "key": "e_1_3_3_3_57_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Elizabeth F. Loftus. 1992. When A Lie Becomes Memory’s Truth: Memory Distortion After Exposure to Misinformation. Current Directions in Psychological Science 1 4 (Aug. 1992) 121–123. 10.1111/1467-8721.ep10769035",
+        "DOI": "10.1111/1467-8721.ep10769035"
+      },
+      {
+        "key": "e_1_3_3_3_58_2",
+        "volume-title": "Eyewitness testimony",
+        "author": "Loftus Elizabeth F",
+        "year": "1996",
+        "unstructured": "Elizabeth F Loftus. 1996. Eyewitness testimony. Harvard University Press."
+      },
+      {
+        "key": "e_1_3_3_3_59_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus. 1997. Creating false memories. Scientific American 277 3 (1997) 70–75.",
+        "DOI": "10.1038/scientificamerican0997-70"
+      },
+      {
+        "key": "e_1_3_3_3_60_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus. 2003. Make-believe memories. American Psychologist 58 11 (2003) 867.",
+        "DOI": "10.1037/0003-066X.58.11.867"
+      },
+      {
+        "key": "e_1_3_3_3_61_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Elizabeth F. Loftus. 2005. Planting misinformation in the human mind: A 30-year investigation of the malleability of memory: Figure 1. Learning & Memory 12 4 (July 2005) 361–366. 10.1101/lm.94705",
+        "DOI": "10.1101/lm.94705"
+      },
+      {
+        "key": "e_1_3_3_3_62_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus and John C Palmer. 1974. Reconstruction of automobile destruction: An example of the interaction between language and memory. Journal of verbal learning and verbal behavior 13 5 (1974) 585–589.",
+        "DOI": "10.1016/S0022-5371(74)80011-3"
+      },
+      {
+        "key": "e_1_3_3_3_63_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus and Jacqueline E Pickrell. 1995. The formation of false memories. 720–725 pages.",
+        "DOI": "10.3928/0048-5713-19951201-07"
+      },
+      {
+        "key": "e_1_3_3_3_64_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus and Guido Zanni. 1975. Eyewitness testimony: The influence of the wording of a question. Bulletin of the Psychonomic Society 5 1 (1975) 86–88.",
+        "DOI": "10.3758/BF03336715"
+      },
+      {
+        "key": "e_1_3_3_3_65_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376612"
+      },
+      {
+        "key": "e_1_3_3_3_66_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zhuoran Lu Patrick Li Weilong Wang and Ming Yin. 2022. The Effects of AI-based Credibility Indicators on the Detection and Spread of Misinformation under Social Influence. Proc. ACM Hum.-Comput. Interact. 6 CSCW2 Article 461 (nov 2022) 27 pages. 10.1145/3555562",
+        "DOI": "10.1145/3555562"
+      },
+      {
+        "key": "e_1_3_3_3_67_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lisa Mekioussa Malki Dilisha Patel and Aneesha Singh. 2024. \"The Headline Was So Wild That I Had To Check\": An Exploration of Women’s Encounters With Health Misinformation on Social Media. Proc. ACM Hum.-Comput. Interact. 8 CSCW1 Article 128 (apr 2024) 26 pages. 10.1145/3637405",
+        "DOI": "10.1145/3637405"
+      },
+      {
+        "key": "e_1_3_3_3_68_2",
+        "unstructured": "Antti Mattila et al. 2001. \" Seeing things in a new light\": Reframing in therapeutic conversation. Ph. D. Dissertation. Citeseer."
+      },
+      {
+        "key": "e_1_3_3_3_69_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3563359.3597396"
+      },
+      {
+        "key": "e_1_3_3_3_70_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Miriam J Metzger. 2007. Making sense of credibility on the Web: Models for evaluating online information and recommendations for future research. Journal of the American society for information science and technology 58 13 (2007) 2078–2091.",
+        "DOI": "10.1002/asi.20672"
+      },
+      {
+        "key": "e_1_3_3_3_71_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Miriam J Metzger and Andrew J Flanagin. 2013. Credibility and trust of information in online environments: The use of cognitive heuristics. Journal of pragmatics 59 (2013) 210–220.",
+        "DOI": "10.1016/j.pragma.2013.07.012"
+      },
+      {
+        "key": "e_1_3_3_3_72_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Michael B Miller and Michael S Gazzaniga. 1998. Creating false memories for visual scenes. Neuropsychologia 36 6 (1998) 513–520.",
+        "DOI": "10.1016/S0028-3932(97)00148-6"
+      },
+      {
+        "key": "e_1_3_3_3_73_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gillian Murphy Caroline A Dawson Charlotte Huston Lisa Ballantyne Elizabeth Barrett Conor S Cowman Christopher Fitzsimons Julie Maher Katie M Ryan and Ciara M Greene. 2023. Lost in the mall again: a preregistered replication and extension of Loftus & Pickrell (1995). Memory 31 6 (2023) 818–830.",
+        "DOI": "10.1080/09658211.2023.2198327"
+      },
+      {
+        "key": "e_1_3_3_3_74_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gillian Murphy and Emma Flynn. 2021. Deepfake false memories. Memory 30 4 (April 2021) 480–492. 10.1080/09658211.2021.1919715",
+        "DOI": "10.1080/09658211.2021.1919715"
+      },
+      {
+        "key": "e_1_3_3_3_75_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Beate Muschalla and Fabian Schönborn. 2021. Induction of false beliefs and false memories in laboratory studies—A systematic review. Clinical Psychology & Psychotherapy 28 5 (Feb. 2021) 1194–1209. 10.1002/cpp.2567",
+        "DOI": "10.1002/cpp.2567"
+      },
+      {
+        "key": "e_1_3_3_3_76_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sophie J Nightingale and Hany Farid. 2022. AI-synthesized faces are indistinguishable from real faces and more trustworthy. Proceedings of the National Academy of Sciences 119 8 (2022) e2120481119.",
+        "DOI": "10.1073/pnas.2120481119"
+      },
+      {
+        "key": "e_1_3_3_3_77_2",
+        "volume-title": "StatPearls [Internet]",
+        "author": "Orenstein Gabriel A",
+        "year": "2022",
+        "unstructured": "Gabriel A Orenstein and Lindsay Lewis. 2022. Eriksons stages of psychosocial development. In StatPearls [Internet]. StatPearls Publishing."
+      },
+      {
+        "key": "e_1_3_3_3_78_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "David G Payne Claude J Elie Jason M Blackwell and Jeffrey S Neuschatz. 1996. Memory illusions: Recalling recognizing and recollecting events that never occurred. Journal of Memory and Language 35 2 (1996) 261–285.",
+        "DOI": "10.1006/jmla.1996.0015"
+      },
+      {
+        "key": "e_1_3_3_3_79_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gordon Pennycook Ziv Epstein Mohsen Mosleh Antonio A Arechar Dean Eckles and David G Rand. 2021. Shifting attention to accuracy can reduce misinformation online. Nature 592 7855 (2021) 590–595.",
+        "DOI": "10.1038/s41586-021-03344-2"
+      },
+      {
+        "key": "e_1_3_3_3_80_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth A Phelps and Stefan G Hofmann. 2019. Memory editing from science fiction to clinical practice. Nature 572 7767 (2019) 43–50.",
+        "DOI": "10.1038/s41586-019-1433-7"
+      },
+      {
+        "key": "e_1_3_3_3_81_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3640543.3645213"
+      },
+      {
+        "key": "e_1_3_3_3_82_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Fritz Renner Fionnuala C. Murphy Julie L. Ji Tom Manly and Emily A. Holmes. 2019. Mental imagery as a “motivational amplifier” to promote activities. Behaviour Research and Therapy 114 (March 2019) 51–59. 10.1016/j.brat.2019.02.002",
+        "DOI": "10.1016/j.brat.2019.02.002"
+      },
+      {
+        "key": "e_1_3_3_3_83_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bradley J Rhodes. 1997. The wearable remembrance agent: A system for augmented memory. Personal Technologies 1 (1997) 218–224.",
+        "DOI": "10.1007/BF01682024"
+      },
+      {
+        "key": "e_1_3_3_3_84_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "E.F. Risko M.O. Kelly P. Patel and C. Gaspar. 2019. Offloading memory leaves us vulnerable to memory manipulation. Cognition 191 (Oct. 2019) 103954. 10.1016/j.cognition.2019.04.023",
+        "DOI": "10.1016/j.cognition.2019.04.023"
+      },
+      {
+        "key": "e_1_3_3_3_85_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Frédérique Robin Emmanuelle Ménétrier and Brice Beffara Bret. 2022. Effects of visual imagery on false memories in DRM and misinformation paradigms. Memory 30 6 (2022) 725–732.",
+        "DOI": "10.1080/09658211.2021.1895221"
+      },
+      {
+        "key": "e_1_3_3_3_86_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nathaniel Sirlin Ziv Epstein Antonio A Arechar and David G Rand. 2021. Digital literacy is associated with more discerning accuracy judgments but not sharing intentions. Harvard Kennedy School Misinformation Review (2021).",
+        "DOI": "10.37016/mr-2020-83"
+      },
+      {
+        "key": "e_1_3_3_3_87_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Scott D Slotnick and Daniel L Schacter. 2004. A sensory signature that distinguishes true from false memories. Nature Neuroscience 7 6 (2004) 664–672.",
+        "DOI": "10.1038/nn1252"
+      },
+      {
+        "key": "e_1_3_3_3_88_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Joel R. Sneed Susan Krauss Whitbourne and Michelle E. Culang. 2006. Trust Identity and Ego Integrity: Modeling Erikson’s Core Stages Over 34 Years. Journal of Adult Development 13 3–4 (Dec. 2006) 148–157. 10.1007/s10804-007-9026-3",
+        "DOI": "10.1007/s10804-007-9026-3"
+      },
+      {
+        "key": "e_1_3_3_3_89_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Christian Stephan-Otto Sara Siddi Carl Senior Daniel Muñoz-Samons Susana Ochoa Ana María Sánchez-Laforga and Gildas Brébion. 2017. Visual imagery and false memory for pictures: a functional magnetic resonance imaging study in healthy participants. PLoS One 12 1 (2017) e0169551.",
+        "DOI": "10.1371/journal.pone.0169551"
+      },
+      {
+        "key": "e_1_3_3_3_90_2",
+        "unstructured": "Daniel Strain. 2024. AI images abound this election cycle. Here’s how you can tell fact from fiction — colorado.edu. https://www.colorado.edu/today/2024/08/29/ai-images-abound-election-cycle-heres-how-you-can-tell-fact-fiction. [Accessed 12-09-2024]."
+      },
+      {
+        "key": "e_1_3_3_3_91_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ben M Tappin Chloe Wittenberg Luke B Hewitt Adam J Berinsky and David G Rand. 2023. Quantifying the potential persuasive returns to political microtargeting. Proceedings of the National Academy of Sciences 120 25 (2023) e2216261120.",
+        "DOI": "10.1073/pnas.2216261120"
+      },
+      {
+        "key": "e_1_3_3_3_92_2",
+        "unstructured": "Rimke Tas. 2023. Changing memories via Deepfakes. Ph. D. Dissertation. Ghent University."
+      },
+      {
+        "key": "e_1_3_3_3_93_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Emily Thorson. 2015. Belief Echoes: The Persistent Effects of Corrected Misinformation. Political Communication 33 3 (Nov. 2015) 460–480. 10.1080/10584609.2015.1102187",
+        "DOI": "10.1080/10584609.2015.1102187"
+      },
+      {
+        "key": "e_1_3_3_3_94_2",
+        "unstructured": "Jay Ulfelder. 2024. The Real Numbers: Tracking Crowd Sizes at Presidential Rallies – Ash Center — ash.harvard.edu. https://ash.harvard.edu/articles/the-real-numbers-tracking-crowd-sizes-at-presidential-rallies/. [Accessed 12-09-2024]."
+      },
+      {
+        "key": "e_1_3_3_3_95_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491101.3519661"
+      },
+      {
+        "key": "e_1_3_3_3_96_2",
+        "unstructured": "Jan G Voelkel Robb Willer et al. 2023. Artificial Intelligence Can Persuade Humans on Political Issues. OSF Preprints (2023)."
+      },
+      {
+        "key": "e_1_3_3_3_97_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kimberley A Wade Maryanne Garry J Don Read and D Stephen Lindsay. 2002. A picture is worth a thousand lies: Using false photographs to create false childhood memories. Psychonomic bulletin & review 9 3 (2002) 597–603.",
+        "DOI": "10.3758/BF03196318"
+      },
+      {
+        "key": "e_1_3_3_3_98_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jianqin Wang Henry Otgaar Mark L Howe Felix Lippe and Tom Smeets. 2018. The nature and consequences of false memories for visual stimuli. Journal of Memory and Language 101 (2018) 124–135.",
+        "DOI": "10.1016/j.jml.2018.04.007"
+      },
+      {
+        "key": "e_1_3_3_3_99_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Yuping Wang Chen Ling and Gianluca Stringhini. 2023. Understanding the Use of Images to Spread COVID-19 Misinformation on Twitter. Proc. ACM Hum.-Comput. Interact. 7 CSCW1 Article 108 (apr 2023) 32 pages. 10.1145/3579542",
+        "DOI": "10.1145/3579542"
+      },
+      {
+        "key": "e_1_3_3_3_100_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Robert Weinberg. 2008. Does Imagery Work? Effects on Performance and Mental Skills. Journal of Imagery Research in Sport and Physical Activity 3 1 (Feb. 2008). 10.2202/1932-0191.1025",
+        "DOI": "10.2202/1932-0191.1025"
+      },
+      {
+        "key": "e_1_3_3_3_101_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "John T Wixted Gary L Wells Elizabeth F Loftus and Brandon L Garrett. 2021. Test a witness’s memory of a suspect only once. Psychological Science in the Public Interest 22 1_suppl (2021) 1S–18S.",
+        "DOI": "10.1177/15291006211026259"
+      },
+      {
+        "key": "e_1_3_3_3_102_2",
+        "unstructured": "Mengxi Xiao Qianqian Xie Ziyan Kuang Zhicheng Liu Kailai Yang Min Peng Weiguang Han and Jimin Huang. 2024. HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy. arXiv preprint arXiv:https://arXiv.org/abs/2403.05574 (2024)."
+      },
+      {
+        "key": "e_1_3_3_3_103_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3581783.3612704"
+      },
+      {
+        "key": "e_1_3_3_3_104_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ling Yang Zhilong Zhang Yang Song Shenda Hong Runsheng Xu Yue Zhao Wentao Zhang Bin Cui and Ming-Hsuan Yang. 2023. Diffusion models: A comprehensive survey of methods and applications. Comput. Surveys 56 4 (2023) 1–39.",
+        "DOI": "10.1145/3626235"
+      },
+      {
+        "key": "e_1_3_3_3_105_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth M Zelinski Michael J Gilewski and Cheri R Anthony-Bergstone. 1990. Memory Functioning Questionnaire: concurrent validity with memory performance and self-reported memory failures. Psychology and aging 5 3 (1990) 388.",
+        "DOI": "10.1037/0882-7974.5.3.388"
+      },
+      {
+        "key": "e_1_3_3_3_106_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581318"
+      },
+      {
+        "key": "e_1_3_3_3_107_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581318"
+      },
+      {
+        "key": "e_1_3_3_3_108_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "L Zhuang J Wang B Xiong C Bian L Hao PJ Bayley and S Qin. 2022. Rapid neural reorganization during retrieval practice predicts subsequent long-term retention and false memory. Nature Human Behaviour 6 (1) 134-145.",
+        "DOI": "10.1038/s41562-021-01188-4"
+      },
+      {
+        "key": "e_1_3_3_3_109_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642450"
+      }
+    ],
+    "event": {
+      "name": "CHI 2025: CHI Conference on Human Factors in Computing Systems",
+      "location": "Yokohama Japan",
+      "acronym": "CHI '25",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3706598.3713697",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3706598.3713697",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          13
+        ]
+      ],
+      "date-time": "2026-03-13T15:04:35Z",
+      "timestamp": 1773414275000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3706598.3713697"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          25
+        ]
+      ]
+    },
+    "references-count": 108,
+    "alternative-id": [
+      "10.1145/3706598.3713697",
+      "10.1145/3706598"
+    ],
+    "URL": "https://doi.org/10.1145/3706598.3713697",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-04-25",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

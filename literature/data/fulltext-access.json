@@ -1,0 +1,36 @@
+[
+  {
+    "id": "AMEDIA-2024",
+    "url": "https://opus.bibliothek.uni-wuerzburg.de/files/41540/Understanding_Autobiographical_Memory.pdf",
+    "date": "2026-10-23",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "status": "not_pdf",
+    "bytes": 7349
+  },
+  {
+    "id": "vanDijck-2008",
+    "url": "https://pure.uva.nl/ws/files/4319910/67164_Digital_Photography_Visual_Communication.pdf",
+    "date": "2026-10-23",
+    "status_code": 200,
+    "content_type": "application/pdf",
+    "status": "全文已获取待核读",
+    "path": "sources/fulltext/vanDijck-2008.pdf",
+    "bytes": 326893,
+    "sha256": "150a2aa18209e8e21c2d4d9b1b0beec7dc4b092e702adf7b211bde6013d2c29b"
+  },
+  {
+    "id": "Sellen-Whittaker-2010",
+    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p70-sellen.pdf",
+    "date": "2026-10-23",
+    "status": "获取失败，原因见error，不自动归类付费墙",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "Zacks-2020",
+    "url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-010419-051101",
+    "date": "2026-10-23",
+    "status": "获取失败，原因见error，不自动归类付费墙",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

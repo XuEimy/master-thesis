@@ -1,0 +1,627 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          20
+        ]
+      ],
+      "date-time": "2026-10-20T06:46:21Z",
+      "timestamp": 1792478781389,
+      "version": "4.5.0"
+    },
+    "reference-count": 77,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              21
+            ]
+          ],
+          "date-time": "2018-08-21T00:00:00Z",
+          "timestamp": 1534809600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Policy Insights from the Behavioral and Brain Sciences"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          10
+        ]
+      ]
+    },
+    "abstract": "<jats:p>People generate a variety of memory cues, such as mnemonic devices and to-do lists, to support memory for difficult information. Self-generated memory cues make difficult information understandable, create links to long-term memory, and ultimately support later retrieval. The primary challenge is generating a cue that is memorable across environmental and mental contexts. Yet, self-generated cues are more effective at supporting retrieval than normative (generic) cues because they are tied to personal experiences, distinctive, and strongly associated to the target information. The effectiveness of self-generated cues can be improved by training people in cue generation, by instructing people to generate stable cues, by combining cue generation with other beneficial strategies, and by using technology to support the creation and memory of the cues. People use their privileged access to their mental states and prior knowledge to flexibly generate memory cues that bolster their memory—useful for students, trainees, elders, and everyone else.</jats:p>",
+    "DOI": "10.1177/2372732218788092",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          21
+        ]
+      ],
+      "date-time": "2018-08-21T12:52:01Z",
+      "timestamp": 1534855921000
+    },
+    "page": "179-186",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 17,
+    "title": [
+      "Self-Generated Memory Cues: Effective Tools for Learning, Training, and Remembering"
+    ],
+    "prefix": "10.1177",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Jonathan G.",
+        "family": "Tullis",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "The University of Arizona, Tucson, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jason R.",
+        "family": "Finley",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Fontbonne University, St. Louis, MO, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          21
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11065-016-9337-x"
+      },
+      {
+        "key": "bibr2-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/713752558"
+      },
+      {
+        "key": "bibr3-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.1.2.126"
+      },
+      {
+        "key": "bibr4-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.28.1.121"
+      },
+      {
+        "key": "bibr5-2372732218788092",
+        "first-page": "97",
+        "volume": "18",
+        "author": "Banks B. B.",
+        "year": "1941",
+        "journal-title": "Journal of Chemical Education"
+      },
+      {
+        "key": "bibr6-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03196903"
+      },
+      {
+        "key": "bibr7-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03336829"
+      },
+      {
+        "key": "bibr8-2372732218788092",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/S0079-7421(07)48005-7",
+        "volume-title": "The psychology of learning and motivation: Skill and strategy in memory use",
+        "volume": "48",
+        "author": "Benjamin A. S.",
+        "year": "2008"
+      },
+      {
+        "key": "bibr9-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09602010601029780"
+      },
+      {
+        "key": "bibr10-2372732218788092",
+        "first-page": "128",
+        "volume": "33",
+        "author": "Bloom C. M.",
+        "year": "2006",
+        "journal-title": "Teaching of Psychology"
+      },
+      {
+        "key": "bibr11-2372732218788092",
+        "first-page": "496",
+        "volume": "58",
+        "author": "Bower G. H.",
+        "year": "1970",
+        "journal-title": "American Scientist"
+      },
+      {
+        "key": "bibr12-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2345/0899-8205-46.4.268"
+      },
+      {
+        "key": "bibr13-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.41.2.389"
+      },
+      {
+        "key": "bibr14-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.16.4.717"
+      },
+      {
+        "key": "bibr15-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0046888"
+      },
+      {
+        "key": "bibr16-2372732218788092",
+        "volume-title": "Social memory",
+        "author": "Fentress J.",
+        "year": "1992"
+      },
+      {
+        "key": "bibr17-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0026215"
+      },
+      {
+        "key": "bibr18-2372732218788092",
+        "author": "Finley J. R.",
+        "year": "2018",
+        "journal-title": "Metacognitive control of transfer-appropriate processing"
+      },
+      {
+        "key": "bibr19-2372732218788092",
+        "author": "Finley J. R.",
+        "year": "2018",
+        "journal-title": "Accuracy and completeness of autobiographical memory: Evidence from a wearable camera"
+      },
+      {
+        "key": "bibr20-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2010.532807"
+      },
+      {
+        "key": "bibr21-2372732218788092",
+        "volume-title": "The interplay of internal and external memory",
+        "author": "Finley J. R."
+      },
+      {
+        "key": "bibr22-2372732218788092",
+        "first-page": "109",
+        "volume-title": "New science of learning: Cognition, computers and collaboration in education",
+        "author": "Finley J. R.",
+        "year": "2009"
+      },
+      {
+        "key": "bibr23-2372732218788092",
+        "volume-title": "Moonwalking with Einstein: The art and science of remembering everything",
+        "author": "Foer J.",
+        "year": "2012"
+      },
+      {
+        "key": "bibr24-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2013.10.002"
+      },
+      {
+        "key": "bibr25-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/0031-9120/12/6/316"
+      },
+      {
+        "key": "bibr26-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03197549"
+      },
+      {
+        "key": "bibr27-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797613504438"
+      },
+      {
+        "key": "bibr28-2372732218788092",
+        "volume-title": "The attention economy: How information technology changes how we think, feel and behave",
+        "author": "Henkel L. A."
+      },
+      {
+        "key": "bibr29-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03200882"
+      },
+      {
+        "key": "bibr30-2372732218788092",
+        "first-page": "25",
+        "volume": "4",
+        "author": "Jamieson D. G.",
+        "year": "1980",
+        "journal-title": "Journal of Mental Imagery"
+      },
+      {
+        "key": "bibr32-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2466/pr0.1972.30.1.307"
+      },
+      {
+        "key": "bibr33-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0017350"
+      },
+      {
+        "key": "bibr34-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02504673"
+      },
+      {
+        "key": "bibr35-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/461275"
+      },
+      {
+        "key": "bibr36-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/00028312027002301"
+      },
+      {
+        "key": "bibr37-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.12.1.66"
+      },
+      {
+        "key": "bibr38-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658219308258233"
+      },
+      {
+        "key": "bibr39-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.14.3.502"
+      },
+      {
+        "key": "bibr40-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1016640214368"
+      },
+      {
+        "key": "bibr41-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/SLDRP1502_2"
+      },
+      {
+        "key": "bibr42-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0098628313487460"
+      },
+      {
+        "key": "bibr43-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.81.2.204"
+      },
+      {
+        "key": "bibr44-2372732218788092",
+        "volume-title": "Poster session presented at the 54th Annual Psychonomics Society Conference",
+        "author": "Miyatsu T.",
+        "year": "2017"
+      },
+      {
+        "key": "bibr45-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210244000216"
+      },
+      {
+        "key": "bibr46-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0883-0355(00)00046-X"
+      },
+      {
+        "key": "bibr47-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMra050100"
+      },
+      {
+        "key": "bibr48-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03213885"
+      },
+      {
+        "key": "bibr49-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1212/WNL.40.2.346"
+      },
+      {
+        "key": "bibr50-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/747556"
+      },
+      {
+        "key": "bibr51-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1191465"
+      },
+      {
+        "key": "bibr52-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0079-7421(08)60162-0"
+      },
+      {
+        "key": "bibr53-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2304/plat.2011.10.1.40"
+      },
+      {
+        "key": "bibr54-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2006.01693.x"
+      },
+      {
+        "key": "bibr55-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.81.2.196"
+      },
+      {
+        "key": "bibr56-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xge0000093"
+      },
+      {
+        "key": "bibr57-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0273475308324630"
+      },
+      {
+        "key": "bibr58-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/016235328600900202"
+      },
+      {
+        "key": "bibr60-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09602011.2015.1128450"
+      },
+      {
+        "key": "bibr61-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2017.10.004"
+      },
+      {
+        "key": "bibr62-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00219266.2014.1000360"
+      },
+      {
+        "key": "bibr63-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.121.3.371"
+      },
+      {
+        "key": "bibr64-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2010.11.002"
+      },
+      {
+        "key": "bibr65-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-015-0517-3"
+      },
+      {
+        "key": "bibr66-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-014-0478-y"
+      },
+      {
+        "key": "bibr67-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xlm0000473"
+      },
+      {
+        "key": "bibr68-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-012-0274-5"
+      },
+      {
+        "key": "bibr69-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jml.2017.03.003"
+      },
+      {
+        "key": "bibr70-2372732218788092",
+        "unstructured": "Tullis J. G., Fraundorf S. H. (2018a). Cue generation processes. Manuscript in preparation."
+      },
+      {
+        "key": "bibr71-2372732218788092",
+        "unstructured": "Tullis J. G., Fraundorf S. H. (2018b). Self- and other-generated memory cues in chemistry. Manuscript in preparation."
+      },
+      {
+        "key": "bibr72-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/ceps.1997.0933"
+      },
+      {
+        "key": "bibr73-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.7.2.242"
+      },
+      {
+        "key": "bibr74-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0749-596X(85)90034-8"
+      },
+      {
+        "key": "bibr75-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-0663.84.4.520"
+      },
+      {
+        "key": "bibr76-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0218-7"
+      },
+      {
+        "key": "bibr77-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2014.886703"
+      },
+      {
+        "key": "bibr78-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-0-12-809324-5.21063-8"
+      },
+      {
+        "key": "bibr79-2372732218788092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03198117"
+      }
+    ],
+    "container-title": [
+      "Policy Insights from the Behavioral and Brain Sciences"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://journals.sagepub.com/doi/pdf/10.1177/2372732218788092",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://journals.sagepub.com/doi/full-xml/10.1177/2372732218788092",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://journals.sagepub.com/doi/pdf/10.1177/2372732218788092",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T12:58:20Z",
+      "timestamp": 1777381100000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.sagepub.com/doi/10.1177/2372732218788092"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          21
+        ]
+      ]
+    },
+    "references-count": 77,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/2372732218788092"
+    ],
+    "URL": "https://doi.org/10.1177/2372732218788092",
+    "relation": {},
+    "ISSN": [
+      "2372-7322",
+      "2372-7330"
+    ],
+    "issn-type": [
+      {
+        "value": "2372-7322",
+        "type": "print"
+      },
+      {
+        "value": "2372-7330",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          21
+        ]
+      ]
+    }
+  }
+}

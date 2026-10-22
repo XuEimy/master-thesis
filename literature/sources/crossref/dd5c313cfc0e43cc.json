@@ -1,0 +1,612 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          15
+        ]
+      ],
+      "date-time": "2026-07-15T00:11:26Z",
+      "timestamp": 1784074286927,
+      "version": "3.55.0"
+    },
+    "reference-count": 64,
+    "publisher": "Informa UK Limited",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              16
+            ]
+          ],
+          "date-time": "2025-12-16T00:00:00Z",
+          "timestamp": 1765843200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Memory"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1080/09658211.2025.2602077",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2025-12-16T11:37:14Z",
+      "timestamp": 1765885034000
+    },
+    "page": "180-190",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Birthday memories: an experimental think-aloud study on autobiographical remembering in the digital age"
+    ],
+    "prefix": "10.1080",
+    "volume": "34",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0018-2559",
+        "authenticated-orcid": false,
+        "given": "Fabian",
+        "family": "Hutmacher",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Julius-Maximilians-Universität Würzburg",
+            "place": [
+              "Würzburg, Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cosima",
+        "family": "Einhellig",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julius-Maximilians-Universität Würzburg",
+            "place": [
+              "Würzburg, Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stefanie",
+        "family": "Klink",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Julius-Maximilians-Universität Würzburg",
+            "place": [
+              "Würzburg, Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_4_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/20539517231213827"
+      },
+      {
+        "key": "e_1_3_4_3_1",
+        "volume-title": "The future of looking back",
+        "author": "Banks R.",
+        "year": "2011",
+        "unstructured": "Banks, R. (2011). The future of looking back. Microsoft Press."
+      },
+      {
+        "key": "e_1_3_4_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/14614448211012791"
+      },
+      {
+        "key": "e_1_3_4_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1745-6916.2007.00051.x"
+      },
+      {
+        "key": "e_1_3_4_6_1",
+        "volume-title": "Total recall. How the e-memory revolution will change everything",
+        "author": "Bell G.",
+        "year": "2009",
+        "unstructured": "Bell, G., & Gemmell, J. (2009). Total recall. How the e-memory revolution will change everything. Dutton."
+      },
+      {
+        "key": "e_1_3_4_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3303872"
+      },
+      {
+        "key": "e_1_3_4_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/001316448104100307"
+      },
+      {
+        "key": "e_1_3_4_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10676-016-9393-1"
+      },
+      {
+        "key": "e_1_3_4_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/27000710241264452"
+      },
+      {
+        "key": "e_1_3_4_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2025.2512760"
+      },
+      {
+        "key": "e_1_3_4_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/cyber.2021.0350"
+      },
+      {
+        "key": "e_1_3_4_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/analys/58.1.7"
+      },
+      {
+        "key": "e_1_3_4_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13164-013-0130-y"
+      },
+      {
+        "key": "e_1_3_4_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2014.03.004"
+      },
+      {
+        "key": "e_1_3_4_16_1",
+        "volume-title": "Origins of the modern mind: Three stages in the evolution of culture and cognition",
+        "author": "Donald M.",
+        "year": "1991",
+        "unstructured": "Donald, M. (1991). Origins of the modern mind: Three stages in the evolution of culture and cognition. Harvard University Press."
+      },
+      {
+        "key": "e_1_3_4_17_1",
+        "volume-title": "A mind so rare: The evolution of human consciousness",
+        "author": "Donald M.",
+        "year": "2001",
+        "unstructured": "Donald, M. (2001). A mind so rare: The evolution of human consciousness. W. W. Norton & Company."
+      },
+      {
+        "key": "e_1_3_4_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/2159676X.2017.1331501"
+      },
+      {
+        "key": "e_1_3_4_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2021.08.005"
+      },
+      {
+        "key": "e_1_3_4_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07370024.2015.1093422"
+      },
+      {
+        "key": "e_1_3_4_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/5657.001.0001"
+      },
+      {
+        "key": "e_1_3_4_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03193146"
+      },
+      {
+        "key": "e_1_3_4_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2022.2126858"
+      },
+      {
+        "key": "e_1_3_4_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-99169-6"
+      },
+      {
+        "key": "e_1_3_4_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/mac0000101"
+      },
+      {
+        "key": "e_1_3_4_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/20501579251348098"
+      },
+      {
+        "key": "e_1_3_4_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pmcj.2015.12.002"
+      },
+      {
+        "key": "e_1_3_4_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/mila.12353"
+      },
+      {
+        "key": "e_1_3_4_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698017703810"
+      },
+      {
+        "key": "e_1_3_4_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-93789-8_82-1"
+      },
+      {
+        "key": "e_1_3_4_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/sjp.12160"
+      },
+      {
+        "key": "e_1_3_4_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1047840X.2024.2384125"
+      },
+      {
+        "key": "e_1_3_4_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1047840X.2024.2384128"
+      },
+      {
+        "key": "e_1_3_4_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41235-025-00627-4"
+      },
+      {
+        "key": "e_1_3_4_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.4033"
+      },
+      {
+        "key": "e_1_3_4_36_1",
+        "unstructured": "JASP Team. (2024). JASP (Version 0.19.3) [Computer software]."
+      },
+      {
+        "key": "e_1_3_4_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2025.4"
+      },
+      {
+        "key": "e_1_3_4_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/cyber.2020.0511"
+      },
+      {
+        "key": "e_1_3_4_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/20563051231207850"
+      },
+      {
+        "key": "e_1_3_4_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-25691-2_14"
+      },
+      {
+        "key": "e_1_3_4_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797610383436"
+      },
+      {
+        "key": "e_1_3_4_42_1",
+        "unstructured": "Knight S. (2023 November 22). How often do people upgrade their phone? (2023 statistics). Sellcell. https://www.sellcell.com/blog/how-often-do-people-upgrade-their-phone-2023-statistics/."
+      },
+      {
+        "key": "e_1_3_4_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2934667"
+      },
+      {
+        "key": "e_1_3_4_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2529310"
+      },
+      {
+        "key": "e_1_3_4_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2018.11.001"
+      },
+      {
+        "key": "e_1_3_4_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.2214285119"
+      },
+      {
+        "key": "e_1_3_4_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210802215385"
+      },
+      {
+        "key": "e_1_3_4_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.111.2.486"
+      },
+      {
+        "key": "e_1_3_4_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/0142159X.2023.2289847"
+      },
+      {
+        "key": "e_1_3_4_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0018897"
+      },
+      {
+        "key": "e_1_3_4_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1089-2680.12.4.378"
+      },
+      {
+        "key": "e_1_3_4_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0279-7"
+      },
+      {
+        "key": "e_1_3_4_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2466241"
+      },
+      {
+        "key": "e_1_3_4_54_1",
+        "first-page": "245",
+        "volume-title": "Discourse comprehension: Essays in honor of Walter Kintsch",
+        "author": "Schönpflug W.",
+        "year": "1995",
+        "unstructured": "Schönpflug, W., & Esser, K. B. (1995). Memory and its Graeculi: Metamemory and control in extended memory systems. In C. A. Weaver III, S. Mannes, & C. R. Fletcher (Eds.), Discourse comprehension: Essays in honor of Walter Kintsch (pp. 245–255). Erlbaum."
+      },
+      {
+        "key": "e_1_3_4_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1735223.1735243"
+      },
+      {
+        "key": "e_1_3_4_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/8535.003.0009"
+      },
+      {
+        "key": "e_1_3_4_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2012.01.006"
+      },
+      {
+        "key": "e_1_3_4_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07370024.2012.673451"
+      },
+      {
+        "key": "e_1_3_4_59_1",
+        "volume-title": "The digital divide",
+        "author": "van Dijk J.",
+        "year": "2020",
+        "unstructured": "van Dijk, J. (2020). The digital divide. Polity Press."
+      },
+      {
+        "key": "e_1_3_4_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698008093795"
+      },
+      {
+        "key": "e_1_3_4_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/10.1017/mem.2025.3"
+      },
+      {
+        "key": "e_1_3_4_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4612-5044-9_12"
+      },
+      {
+        "key": "e_1_3_4_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698009348279"
+      },
+      {
+        "key": "e_1_3_4_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07370024.2012.656071"
+      },
+      {
+        "key": "e_1_3_4_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2018.12.004"
+      }
+    ],
+    "container-title": [
+      "Memory"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09658211.2025.2602077",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          27
+        ]
+      ],
+      "date-time": "2026-01-27T19:20:54Z",
+      "timestamp": 1769541654000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2602077"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ]
+    },
+    "references-count": 64,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/09658211.2025.2602077"
+    ],
+    "URL": "https://doi.org/10.1080/09658211.2025.2602077",
+    "relation": {},
+    "ISSN": [
+      "0965-8211",
+      "1464-0686"
+    ],
+    "issn-type": [
+      {
+        "value": "0965-8211",
+        "type": "print"
+      },
+      {
+        "value": "1464-0686",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pmem20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pmem20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2025-08-11",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-12-04",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-12-16",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

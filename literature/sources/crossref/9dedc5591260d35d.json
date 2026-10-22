@@ -1,0 +1,494 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2026-07-04T11:25:38Z",
+      "timestamp": 1783164338774,
+      "version": "3.54.6"
+    },
+    "reference-count": 40,
+    "publisher": "Wiley",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              10
+            ]
+          ],
+          "date-time": "2019-01-10T00:00:00Z",
+          "timestamp": 1547078400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Psychology and Marketing"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>The consumption of experiences (as opposed to products) has seen an increasing amount of research attention in recent years. A key aspect of the experiential consumption journey is how the experience is consumed. For instance, people almost invariably take pictures during highly enjoyable experiences such as vacations or important family events. Although past research has suggested that taking pictures may enhance the enjoyment of moderately enjoyable experiences, the effect of picture taking on the real‐time enjoyment of highly enjoyable experiences is not clear. To address this matter, the authors investigate whether taking pictures affects consumers’ enjoyment of highly enjoyable hedonic experiences. A series of laboratory studies demonstrate that taking pictures (compared with not taking pictures) can decrease enjoyment of highly enjoyable experiences. This study suggests that, by constantly striving to document their experiences, consumers may unwittingly fail to enjoy those experiences to the fullest. These results have implications for how firms may best stage experiential offerings to enhance their customers’ experiences.</jats:p>",
+    "DOI": "10.1002/mar.21194",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          10
+        ]
+      ],
+      "date-time": "2019-01-10T11:08:16Z",
+      "timestamp": 1547118496000
+    },
+    "page": "520-529",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 20,
+    "title": [
+      "How and when taking pictures undermines the enjoyment of experiences"
+    ],
+    "prefix": "10.1002",
+    "volume": "36",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1342-1942",
+        "authenticated-orcid": false,
+        "given": "Gia",
+        "family": "Nardini",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Daniels College of Business, University of Denver Denver Colorado"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard J.",
+        "family": "Lutz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Warrington College of Business, University of Florida Gainesville Florida"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robyn A.",
+        "family": "LeBoeuf",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Olin Business School, Washington University in St. Louis St Louis Missouri"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_10_1_2_1",
+        "article-title": "Stop capturing the moment and just enjoy it",
+        "author": "Alexander V.",
+        "year": "2013",
+        "journal-title": "Huffington Post"
+      },
+      {
+        "key": "e_1_2_10_1_3_1",
+        "first-page": "pp. 135",
+        "volume-title": "Cognitive and affective responses to advertising",
+        "author": "Anand P.",
+        "year": "1989"
+      },
+      {
+        "key": "e_1_2_10_1_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/209331"
+      },
+      {
+        "key": "e_1_2_10_1_5_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Journal of Consumer Research 2017 44 6",
+        "DOI": "10.1093/jcr/ucx006"
+      },
+      {
+        "key": "e_1_2_10_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/674724"
+      },
+      {
+        "key": "e_1_2_10_1_7_1",
+        "article-title": "Put the phone down. Stop taking photos. And live in the moment",
+        "author": "Billias M.",
+        "year": "2015",
+        "journal-title": "Daily Telegraph"
+      },
+      {
+        "key": "e_1_2_10_1_8_1",
+        "article-title": "Disruptions: More connected yet more alone",
+        "author": "Bilton N.",
+        "year": "2013",
+        "journal-title": "New York Times"
+      },
+      {
+        "key": "e_1_2_10_1_9_1",
+        "article-title": "How to vacation like it's 1999",
+        "author": "Bilton N.",
+        "year": "2015",
+        "journal-title": "New York Times"
+      },
+      {
+        "key": "e_1_2_10_1_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.85.6.1193"
+      },
+      {
+        "key": "e_1_2_10_1_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.84.4.822"
+      },
+      {
+        "key": "e_1_2_10_1_12_1",
+        "article-title": "Why photographers miss out on life",
+        "author": "Chen R.",
+        "year": "2012",
+        "journal-title": "Embrace Possibility"
+      },
+      {
+        "key": "e_1_2_10_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1509/jm.15.0267"
+      },
+      {
+        "key": "e_1_2_10_1_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspa0000055"
+      },
+      {
+        "key": "e_1_2_10_1_15_1",
+        "article-title": "Photo and video sharing grow online",
+        "author": "Duggan M.",
+        "year": "2013",
+        "journal-title": "Pew Research Center"
+      },
+      {
+        "key": "e_1_2_10_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/677563"
+      },
+      {
+        "key": "e_1_2_10_1_17_1",
+        "article-title": "The “I dos,” unplugged",
+        "author": "Feiler B.",
+        "year": "2013",
+        "journal-title": "New York Times"
+      },
+      {
+        "key": "e_1_2_10_1_18_1",
+        "article-title": "How video killed the family vacation",
+        "author": "Feiler B.",
+        "year": "2015",
+        "journal-title": "New York Times"
+      },
+      {
+        "key": "e_1_2_10_1_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1520-6793(200001)17:1<27::AID-MAR3>3.0.CO;2-C"
+      },
+      {
+        "key": "e_1_2_10_1_20_1",
+        "article-title": "Stop documenting, start experiencing",
+        "author": "Gulati D.",
+        "year": "2012",
+        "journal-title": "Harvard Business Review"
+      },
+      {
+        "key": "e_1_2_10_1_21_1",
+        "unstructured": "Hayes A. F.(2012). PROCESS: a versatile computational tool for observed variable mediation moderation and conditional process modeling (White paper) (2012)."
+      },
+      {
+        "key": "e_1_2_10_1_22_1",
+        "article-title": "Put the camera down. The lenses in your eyes will do fine",
+        "author": "Hegarty S.",
+        "year": "2013",
+        "journal-title": "Irish Times"
+      },
+      {
+        "key": "e_1_2_10_1_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797613504438"
+      },
+      {
+        "key": "e_1_2_10_1_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1251707"
+      },
+      {
+        "key": "e_1_2_10_1_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1056808.1057039"
+      },
+      {
+        "key": "e_1_2_10_1_26_1",
+        "article-title": "Take some time, instead of pictures, to enjoy the moment",
+        "author": "Kirby",
+        "year": "2015",
+        "journal-title": "Chicago Now"
+      },
+      {
+        "key": "e_1_2_10_1_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1509/jm.15.0420"
+      },
+      {
+        "key": "e_1_2_10_1_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.37.5.688"
+      },
+      {
+        "key": "e_1_2_10_1_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11747-010-0205-6"
+      },
+      {
+        "key": "e_1_2_10_1_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-94-017-9088-8_16"
+      },
+      {
+        "key": "e_1_2_10_1_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/597030"
+      },
+      {
+        "key": "e_1_2_10_1_32_1",
+        "article-title": "Tons of couples are asking guests to completely unplug at their weddings",
+        "author": "O’Sullivan K.",
+        "year": "2016",
+        "journal-title": "Business Insider"
+      },
+      {
+        "key": "e_1_2_10_1_33_1",
+        "article-title": "Forever hold your tweets: Brides are saying ‘I don’t’ to Facebook, Twitter and Instagram at their weddings",
+        "author": "Pesce N. L.",
+        "year": "2014",
+        "journal-title": "New York Daily News"
+      },
+      {
+        "key": "e_1_2_10_1_34_1",
+        "volume-title": "The experience economy",
+        "author": "Pine B. J.",
+        "year": "1999"
+      },
+      {
+        "key": "e_1_2_10_1_35_1",
+        "article-title": "The anti‐cellphone tech used by Dave Chappelle, Louis C.K., and Guns N’ Roses",
+        "author": "Satariano A.",
+        "year": "2016",
+        "journal-title": "Bloomberg"
+      },
+      {
+        "key": "e_1_2_10_1_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/425095"
+      },
+      {
+        "key": "e_1_2_10_1_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0037039"
+      },
+      {
+        "key": "e_1_2_10_1_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/mar.20709"
+      },
+      {
+        "key": "e_1_2_10_1_39_1",
+        "article-title": "The documented life",
+        "author": "Turkle S.",
+        "year": "2013",
+        "journal-title": "New York Times"
+      },
+      {
+        "key": "e_1_2_10_1_40_1",
+        "article-title": "Put the camera down and see the reality around you",
+        "author": "Williams M.",
+        "year": "2015",
+        "journal-title": "IOL"
+      },
+      {
+        "key": "e_1_2_10_1_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1250830"
+      }
+    ],
+    "container-title": [
+      "Psychology &amp; Marketing"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fmar.21194",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/mar.21194",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/mar.21194",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/mar.21194",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2023-09-10T18:27:20Z",
+      "timestamp": 1694370440000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/mar.21194"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          10
+        ]
+      ]
+    },
+    "references-count": 40,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/mar.21194"
+    ],
+    "URL": "https://doi.org/10.1002/mar.21194",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0742-6046",
+      "1520-6793"
+    ],
+    "issn-type": [
+      {
+        "value": "0742-6046",
+        "type": "print"
+      },
+      {
+        "value": "1520-6793",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2019-01-10",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

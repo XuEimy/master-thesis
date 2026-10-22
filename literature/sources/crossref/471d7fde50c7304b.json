@@ -1,0 +1,422 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2026-02-08T00:05:45Z",
+      "timestamp": 1770509145614,
+      "version": "3.49.0"
+    },
+    "reference-count": 29,
+    "publisher": "Informa UK Limited",
+    "issue": "3",
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Memory"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1080/09658211.2014.900083",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          21
+        ]
+      ],
+      "date-time": "2014-03-21T05:52:10Z",
+      "timestamp": 1395381130000
+    },
+    "page": "445-452",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "Individual differences in recognising involuntary autobiographical memories: Impact on the reporting of abstract cues"
+    ],
+    "prefix": "10.1080",
+    "volume": "23",
+    "author": [
+      {
+        "given": "John H.",
+        "family": "Mace",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": ",",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ronan S.",
+        "family": "Bernas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": ",",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Amanda",
+        "family": "Clevinger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": ",",
+            "place": [
+              "USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          21
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_1_2_1",
+        "first-page": "3",
+        "volume-title": "Practical aspects of memory: Current research and issues",
+        "author": "Baddeley A.",
+        "year": "1988",
+        "unstructured": "Baddeley, A. (1988). But what the hell is it for? In M. M. Gruneberg, P. E. Morris, & R. N. Sykes (Eds.), Practical aspects of memory: Current research and issues (1st ed., pp. 3–18). Chichester: Wiley.",
+        "edition": "1"
+      },
+      {
+        "key": "e_1_3_1_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069.ch7"
+      },
+      {
+        "key": "e_1_3_1_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1264"
+      },
+      {
+        "key": "e_1_3_1_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069.ch6"
+      },
+      {
+        "key": "e_1_3_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1099-0720(199610)10:5<435::AID-ACP408>3.0.CO;2-L"
+      },
+      {
+        "key": "e_1_3_1_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741942071"
+      },
+      {
+        "key": "e_1_3_1_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511575921"
+      },
+      {
+        "key": "e_1_3_1_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03195869"
+      },
+      {
+        "key": "e_1_3_1_10_1",
+        "first-page": "61",
+        "volume-title": "Critical advances in reminiscence: From theory to application",
+        "author": "Bluck S.",
+        "year": "2002",
+        "unstructured": "Bluck, S., & Alea, N. (2002). Exploring the functions of autobiographical memory: Why do I remember the autumn? In J. D. Webster & B. K. Haight (Eds.). Critical advances in reminiscence: From theory to application (pp. 61–75). New York, NY: Springer."
+      },
+      {
+        "key": "e_1_3_1_11_1",
+        "article-title": "Relationship between frequency of involuntary autobiographical memories and cognitive failure",
+        "author": "Kamiya S.",
+        "unstructured": "Kamiya, S. (in press). Relationship between frequency of involuntary autobiographical memories and cognitive failure. Memory.",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "e_1_3_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1745691611406924"
+      },
+      {
+        "key": "e_1_3_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0010-0285(03)00115-4"
+      },
+      {
+        "key": "e_1_3_1_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1020"
+      },
+      {
+        "key": "e_1_3_1_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210444000485"
+      },
+      {
+        "key": "e_1_3_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210600759766"
+      },
+      {
+        "key": "e_1_3_1_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069.ch3"
+      },
+      {
+        "key": "e_1_3_1_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069"
+      },
+      {
+        "key": "e_1_3_1_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9781444328202.ch3"
+      },
+      {
+        "key": "e_1_3_1_20_1",
+        "first-page": "199",
+        "volume-title": "Applied Memory",
+        "author": "Mace J. H.",
+        "year": "2009",
+        "unstructured": "Mace, J. H., & Atkinson, E. (2009). Can we determine the functions of everyday involuntary autobiographical memories? In M. Kelly (Ed.), Applied Memory (pp. 199–212). New York: Nova Science."
+      },
+      {
+        "key": "e_1_3_1_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1634"
+      },
+      {
+        "key": "e_1_3_1_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1634"
+      },
+      {
+        "key": "e_1_3_1_23_1",
+        "volume-title": "Swann's way: In search of lost time",
+        "author": "Proust M.",
+        "year": "1928",
+        "unstructured": "Proust, M. (1928/1998). Swann's way: In search of lost time. New York, NY: Modern Library."
+      },
+      {
+        "key": "e_1_3_1_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/MC.37.4.477"
+      },
+      {
+        "key": "e_1_3_1_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1615"
+      },
+      {
+        "key": "e_1_3_1_26_1",
+        "volume-title": "A collection of moments: The study of involuntary memories",
+        "author": "Salaman E.",
+        "year": "1970",
+        "unstructured": "Salaman, E. (1970). A collection of moments: The study of involuntary memories. London: Longman."
+      },
+      {
+        "key": "e_1_3_1_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/MC.36.5.920"
+      },
+      {
+        "key": "e_1_3_1_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210544000024"
+      },
+      {
+        "key": "e_1_3_1_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069.ch5"
+      },
+      {
+        "key": "e_1_3_1_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/3650.001.0001"
+      }
+    ],
+    "container-title": [
+      "Memory"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09658211.2014.900083",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2026-02-06T22:40:01Z",
+      "timestamp": 1770417601000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/09658211.2014.900083"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          21
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            4,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/09658211.2014.900083"
+    ],
+    "URL": "https://doi.org/10.1080/09658211.2014.900083",
+    "relation": {},
+    "ISSN": [
+      "0965-8211",
+      "1464-0686"
+    ],
+    "issn-type": [
+      {
+        "value": "0965-8211",
+        "type": "print"
+      },
+      {
+        "value": "1464-0686",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          21
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pmem20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=pmem20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2013-03-26",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2014-02-26",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2014-03-21",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

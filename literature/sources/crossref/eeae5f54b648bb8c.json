@@ -1,0 +1,765 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2026-04-13T21:33:42Z",
+      "timestamp": 1776116022293,
+      "version": "3.50.1"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 86,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              11
+            ]
+          ],
+          "date-time": "2024-10-11T00:00:00Z",
+          "timestamp": 1728604800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.1145/3654777.3676336",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2024-10-11T10:50:36Z",
+      "timestamp": 1728643836000
+    },
+    "page": "1-17",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+      "Memory Reviver: Supporting Photo-Collection Reminiscence for People with Visual Impairment via a Proactive Chatbot"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7642-9044",
+        "authenticated-orcid": false,
+        "given": "Shuchang",
+        "family": "Xu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Hong Kong University of Science and Technology, China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-5876-7219",
+        "authenticated-orcid": false,
+        "given": "Chang",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Hong Kong University of Science and Technology, Hong Kong"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0009-0078-6238",
+        "authenticated-orcid": false,
+        "given": "Zichen",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Computer Science and Engineering, Hong Kong University of Science and Technology, China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7239-3769",
+        "authenticated-orcid": false,
+        "given": "Xiaofu",
+        "family": "Jin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IIP(Computational Media and Arts), The Hong Kong University of Science and Technology, China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6268-1583",
+        "authenticated-orcid": false,
+        "given": "Lin-Ping",
+        "family": "Yuan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7515-3755",
+        "authenticated-orcid": false,
+        "given": "Yukang",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, University of Rochester, United States"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3344-9694",
+        "authenticated-orcid": false,
+        "given": "Huamin",
+        "family": "Qu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_2_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2019.00129"
+      },
+      {
+        "key": "e_1_3_2_2_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3234695.3236344"
+      },
+      {
+        "key": "e_1_3_2_2_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07317110802677005"
+      },
+      {
+        "key": "e_1_3_2_2_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2015.279"
+      },
+      {
+        "key": "e_1_3_2_2_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3517692"
+      },
+      {
+        "key": "e_1_3_2_2_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445505"
+      },
+      {
+        "key": "e_1_3_2_2_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1866029.1866080"
+      },
+      {
+        "key": "e_1_3_2_2_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/WACV51458.2022.00253"
+      },
+      {
+        "key": "e_1_3_2_2_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR52688.2022.01605"
+      },
+      {
+        "key": "e_1_3_2_2_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3432196"
+      },
+      {
+        "key": "e_1_3_2_2_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2481291"
+      },
+      {
+        "key": "e_1_3_2_2_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3308561.3353797"
+      },
+      {
+        "key": "e_1_3_2_2_13_1",
+        "volume-title": "Language models are few-shot learners. Advances in neural information processing systems 33",
+        "author": "Brown Tom",
+        "year": "2020",
+        "unstructured": "Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, 2020. Language models are few-shot learners. Advances in neural information processing systems 33 (2020), 1877–1901."
+      },
+      {
+        "key": "e_1_3_2_2_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10902-005-3889-4"
+      },
+      {
+        "key": "e_1_3_2_2_15_1",
+        "volume-title": "The psychology of human-computer interaction",
+        "author": "Card K",
+        "unstructured": "Stuart K Card. 2018. The psychology of human-computer interaction. Crc Press."
+      },
+      {
+        "key": "e_1_3_2_2_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10447318.2020.1841438"
+      },
+      {
+        "key": "e_1_3_2_2_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581012"
+      },
+      {
+        "key": "e_1_3_2_2_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376569"
+      },
+      {
+        "key": "e_1_3_2_2_19_1",
+        "volume-title": "Mobilevlm v2: Faster and stronger baseline for vision language model. arXiv preprint arXiv:2402.03766",
+        "author": "Chu Xiangxiang",
+        "year": "2024",
+        "unstructured": "Xiangxiang Chu, Limeng Qiao, Xinyu Zhang, Shuang Xu, Fei Wei, Yang Yang, Xiaofei Sun, Yiming Hu, Xinyang Lin, Bo Zhang, 2024. Mobilevlm v2: Faster and stronger baseline for vision language model. arXiv preprint arXiv:2402.03766 (2024)."
+      },
+      {
+        "key": "e_1_3_2_2_20_1",
+        "volume-title": "Organization in autobiographical memory. Memory & cognition 15, 2",
+        "author": "Conway A",
+        "year": "1987",
+        "unstructured": "Martin A Conway and Debra A Bekerian. 1987. Organization in autobiographical memory. Memory & cognition 15, 2 (1987), 119–132."
+      },
+      {
+        "key": "e_1_3_2_2_21_1",
+        "volume-title": "Theories of memory",
+        "author": "Conway A",
+        "unstructured": "Martin A Conway and David C Rubin. 2019. The structure of autobiographical memory. In Theories of memory. Psychology Press, 103–137."
+      },
+      {
+        "key": "e_1_3_2_2_22_1",
+        "volume-title": "Reconstructing the past: personal memory technologies are not just personal and not just for memory. Human–Computer Interaction 27, 1-2",
+        "author": "Crete-Nishihata Masashi",
+        "year": "2012",
+        "unstructured": "Masashi Crete-Nishihata, Ronald M Baecker, Michael Massimi, Deborah Ptak, Rachelle Campigotto, Liam D Kaufman, Adam M Brickman, Gary R Turner, Joshua R Steinerman, and Sandra E Black. 2012. Reconstructing the past: personal memory technologies are not just personal and not just for memory. Human–Computer Interaction 27, 1-2 (2012), 92–123."
+      },
+      {
+        "key": "e_1_3_2_2_23_1",
+        "volume-title": "Factors predicting the use of technology: findings from the Center for Research and Education on Aging and Technology Enhancement (CREATE).Psychology and aging 21, 2",
+        "author": "Czaja J",
+        "year": "2006",
+        "unstructured": "Sara J Czaja, Neil Charness, Arthur D Fisk, Christopher Hertzog, Sankaran N Nair, Wendy A Rogers, and Joseph Sharit. 2006. Factors predicting the use of technology: findings from the Center for Research and Education on Aging and Technology Enhancement (CREATE).Psychology and aging 21, 2 (2006), 333."
+      },
+      {
+        "key": "e_1_3_2_2_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR52688.2022.00332"
+      },
+      {
+        "key": "e_1_3_2_2_25_1",
+        "volume-title": "Be My Eyes Integrates Be My AI™ into its First Contact Center with Stunning Results. https://www.bemyeyes.com/blog/introducing-microsofts-ai-powered-disability-answer-desk-on-be-my-eyes. [Online",
+        "author": "Eyes Be My",
+        "year": "2024",
+        "unstructured": "Be My Eyes. 2023. Be My Eyes Integrates Be My AI™ into its First Contact Center with Stunning Results. https://www.bemyeyes.com/blog/introducing-microsofts-ai-powered-disability-answer-desk-on-be-my-eyes. [Online; accessed 3-March-2024]."
+      },
+      {
+        "key": "e_1_3_2_2_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00207594.2011.596541"
+      },
+      {
+        "key": "e_1_3_2_2_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3240508.3240624"
+      },
+      {
+        "key": "e_1_3_2_2_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2019.00103"
+      },
+      {
+        "key": "e_1_3_2_2_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2481292"
+      },
+      {
+        "key": "e_1_3_2_2_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neucom.2021.04.112"
+      },
+      {
+        "key": "e_1_3_2_2_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/N16-1147"
+      },
+      {
+        "key": "e_1_3_2_2_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3502081"
+      },
+      {
+        "key": "e_1_3_2_2_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3586183.3606735"
+      },
+      {
+        "key": "e_1_3_2_2_34_1",
+        "volume-title": "https://www.apple.com/apple-intelligence/. [Online",
+        "author": "Apple Inc.",
+        "year": "2024",
+        "unstructured": "Apple Inc.2024. Apple Intelligence. https://www.apple.com/apple-intelligence/. [Online; accessed 30-June-2024]."
+      },
+      {
+        "key": "e_1_3_2_2_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2466137"
+      },
+      {
+        "key": "e_1_3_2_2_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3173574.3173998"
+      },
+      {
+        "key": "e_1_3_2_2_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3532106.3533522"
+      },
+      {
+        "key": "e_1_3_2_2_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1609/aaai.v34i07.6780"
+      },
+      {
+        "key": "e_1_3_2_2_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3501966"
+      },
+      {
+        "key": "e_1_3_2_2_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3441852.3476548"
+      },
+      {
+        "key": "e_1_3_2_2_41_1",
+        "volume-title": "Chatting makes perfect: Chat-based image retrieval. Advances in Neural Information Processing Systems 36",
+        "author": "Levy Matan",
+        "year": "2024",
+        "unstructured": "Matan Levy, Rami Ben-Ari, Nir Darshan, and Dani Lischinski. 2024. Chatting makes perfect: Chat-based image retrieval. Advances in Neural Information Processing Systems 36 (2024)."
+      },
+      {
+        "key": "e_1_3_2_2_42_1",
+        "volume-title": "International conference on machine learning. PMLR",
+        "author": "Li Junnan",
+        "year": "2023",
+        "unstructured": "Junnan Li, Dongxu Li, Silvio Savarese, and Steven Hoi. 2023. Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models. In International conference on machine learning. PMLR, 19730–19742."
+      },
+      {
+        "key": "e_1_3_2_2_43_1",
+        "volume-title": "International conference on machine learning. PMLR, 12888–12900",
+        "author": "Li Junnan",
+        "year": "2022",
+        "unstructured": "Junnan Li, Dongxu Li, Caiming Xiong, and Steven Hoi. 2022. Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation. In International conference on machine learning. PMLR, 12888–12900."
+      },
+      {
+        "key": "e_1_3_2_2_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3569476"
+      },
+      {
+        "key": "e_1_3_2_2_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3371300.3383343"
+      },
+      {
+        "key": "e_1_3_2_2_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445644"
+      },
+      {
+        "key": "e_1_3_2_2_47_1",
+        "volume-title": "Pursuing happiness: The architecture of sustainable change. Review of general psychology 9, 2",
+        "author": "Lyubomirsky Sonja",
+        "year": "2005",
+        "unstructured": "Sonja Lyubomirsky, Kennon M Sheldon, and David Schkade. 2005. Pursuing happiness: The architecture of sustainable change. Review of general psychology 9, 2 (2005), 111–131."
+      },
+      {
+        "key": "e_1_3_2_2_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290605.3300665"
+      },
+      {
+        "key": "e_1_3_2_2_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3173574.3173633"
+      },
+      {
+        "key": "e_1_3_2_2_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3527450"
+      },
+      {
+        "key": "e_1_3_2_2_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581302"
+      },
+      {
+        "key": "e_1_3_2_2_52_1",
+        "volume-title": "Mobile design pattern gallery: UI patterns for smartphone apps. \" O’Reilly Media",
+        "author": "Neil Theresa",
+        "unstructured": "Theresa Neil. 2014. Mobile design pattern gallery: UI patterns for smartphone apps. \" O’Reilly Media, Inc.\"."
+      },
+      {
+        "key": "e_1_3_2_2_53_1",
+        "unstructured": "Jakob Nielsen. 2005. Ten usability heuristics. (2005)."
+      },
+      {
+        "key": "e_1_3_2_2_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3586183.3606763"
+      },
+      {
+        "key": "e_1_3_2_2_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1753326.1753635"
+      },
+      {
+        "key": "e_1_3_2_2_56_1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Abhirama Subramanyam Penamakuri Manish Gupta Mithun Das Gupta and Anand Mishra. 2023. Answer Mining from a Pool of Images: Towards Retrieval-Based Visual Question Answering. In IJCAI. ijcai.org. https://doi.org/10.24963/ijcai.2023/146",
+        "DOI": "10.24963/ijcai.2023/146"
+      },
+      {
+        "key": "e_1_3_2_2_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3580921"
+      },
+      {
+        "key": "e_1_3_2_2_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3173574.3174033"
+      },
+      {
+        "key": "e_1_3_2_2_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581145"
+      },
+      {
+        "key": "e_1_3_2_2_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642152"
+      },
+      {
+        "key": "e_1_3_2_2_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376404"
+      },
+      {
+        "key": "e_1_3_2_2_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3441852.3471233"
+      },
+      {
+        "key": "e_1_3_2_2_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-981-16-1781-2_80"
+      },
+      {
+        "key": "e_1_3_2_2_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3173574.3174178"
+      },
+      {
+        "key": "e_1_3_2_2_65_1",
+        "volume-title": "Gemini: a family of highly capable multimodal models. arXiv preprint arXiv:2312.11805",
+        "author": "Team Gemini",
+        "year": "2023",
+        "unstructured": "Gemini Team, Rohan Anil, Sebastian Borgeaud, Yonghui Wu, Jean-Baptiste Alayrac, Jiahui Yu, Radu Soricut, Johan Schalkwyk, Andrew M Dai, Anja Hauth, 2023. Gemini: a family of highly capable multimodal models. arXiv preprint arXiv:2312.11805 (2023)."
+      },
+      {
+        "key": "e_1_3_2_2_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642839"
+      },
+      {
+        "key": "e_1_3_2_2_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2015.7298935"
+      },
+      {
+        "key": "e_1_3_2_2_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11704-024-40231-1"
+      },
+      {
+        "key": "e_1_3_2_2_69_1",
+        "volume-title": "Augmenting language models with long-term memory. Advances in Neural Information Processing Systems 36",
+        "author": "Wang Weizhi",
+        "year": "2024",
+        "unstructured": "Weizhi Wang, Li Dong, Hao Cheng, Xiaodong Liu, Xifeng Yan, Jianfeng Gao, and Furu Wei. 2024. Augmenting language models with long-term memory. Advances in Neural Information Processing Systems 36 (2024)."
+      },
+      {
+        "key": "e_1_3_2_2_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642235"
+      },
+      {
+        "key": "e_1_3_2_2_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0164027510364122"
+      },
+      {
+        "key": "e_1_3_2_2_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3637364"
+      },
+      {
+        "key": "e_1_3_2_2_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581426"
+      },
+      {
+        "key": "e_1_3_2_2_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/637069.637096"
+      },
+      {
+        "key": "e_1_3_2_2_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2998181.2998364"
+      },
+      {
+        "key": "e_1_3_2_2_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3517582"
+      },
+      {
+        "key": "e_1_3_2_2_77_1",
+        "volume-title": "International conference on machine learning. PMLR",
+        "author": "Xu Kelvin",
+        "year": "2015",
+        "unstructured": "Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhudinov, Rich Zemel, and Yoshua Bengio. 2015. Show, attend and tell: Neural image caption generation with visual attention. In International conference on machine learning. PMLR, 2048–2057."
+      },
+      {
+        "key": "e_1_3_2_2_78_1",
+        "first-page": "1",
+        "article-title": "Virtual Paving: Rendering a smooth path for people with visual impairment through vibrotactile and audio feedback",
+        "volume": "4",
+        "author": "Xu Shuchang",
+        "year": "2020",
+        "unstructured": "Shuchang Xu, Ciyuan Yang, Wenhao Ge, Chun Yu, and Yuanchun Shi. 2020. Virtual Paving: Rendering a smooth path for people with visual impairment through vibrotactile and audio feedback. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 4, 3 (2020), 1–25.",
+        "journal-title": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
+      },
+      {
+        "key": "e_1_3_2_2_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3495003"
+      },
+      {
+        "key": "e_1_3_2_2_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.24963/ijcai.2019/744"
+      },
+      {
+        "key": "e_1_3_2_2_81_1",
+        "volume-title": "The dawn of lmms: Preliminary explorations with gpt-4v (ision). arXiv preprint arXiv:2309.17421 9, 1",
+        "author": "Yang Zhengyuan",
+        "year": "2023",
+        "unstructured": "Zhengyuan Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Chung-Ching Lin, Zicheng Liu, and Lijuan Wang. 2023. The dawn of lmms: Preliminary explorations with gpt-4v (ision). arXiv preprint arXiv:2309.17421 9, 1 (2023), 1."
+      },
+      {
+        "key": "e_1_3_2_2_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445212"
+      },
+      {
+        "key": "e_1_3_2_2_83_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR46437.2021.01247"
+      },
+      {
+        "key": "e_1_3_2_2_84_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3134756"
+      },
+      {
+        "key": "e_1_3_2_2_85_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1609/aaai.v38i17.29946"
+      },
+      {
+        "key": "e_1_3_2_2_86_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2702123.2702437"
+      }
+    ],
+    "event": {
+      "name": "UIST '24: The 37th Annual ACM Symposium on User Interface Software and Technology",
+      "location": "Pittsburgh PA USA",
+      "acronym": "UIST '24"
+    },
+    "container-title": [
+      "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3654777.3676336",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3654777.3676336",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          4
+        ]
+      ],
+      "date-time": "2025-08-04T21:12:03Z",
+      "timestamp": 1754341923000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3654777.3676336"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          11
+        ]
+      ]
+    },
+    "references-count": 86,
+    "alternative-id": [
+      "10.1145/3654777.3676336",
+      "10.1145/3654777"
+    ],
+    "URL": "https://doi.org/10.1145/3654777.3676336",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2024-10-11",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "doi": "10.1080/1047840x.2024.2384125",
+    "provider": "Semantic Scholar citations",
+    "date": "2026-10-23",
+    "retrieved": 8,
+    "status": "complete",
+    "url": "https://api.semanticscholar.org/graph/v1/paper/DOI%3A10.1080%2F1047840X.2024.2384125/citations?offset=0&limit=1000&fields=title%2Cyear%2CpublicationDate%2Cauthors%2Cabstract%2CexternalIds%2Curl%2Cvenue%2CisInfluential%2Ccontexts%2Cintents"
+  },
+  {
+    "doi": "10.1177/17506980211073093",
+    "provider": "Semantic Scholar citations",
+    "date": "2026-10-23",
+    "retrieved": 11,
+    "status": "complete",
+    "url": "https://api.semanticscholar.org/graph/v1/paper/DOI%3A10.1177%2F17506980211073093/citations?offset=0&limit=1000&fields=title%2Cyear%2CpublicationDate%2Cauthors%2Cabstract%2CexternalIds%2Curl%2Cvenue%2CisInfluential%2Ccontexts%2Cintents"
+  },
+  {
+    "doi": "10.1016/j.copsyc.2022.101334",
+    "provider": "Semantic Scholar citations",
+    "date": "2026-10-23",
+    "retrieved": 12,
+    "status": "complete",
+    "url": "https://api.semanticscholar.org/graph/v1/paper/DOI%3A10.1016%2Fj.copsyc.2022.101334/citations?offset=0&limit=1000&fields=title%2Cyear%2CpublicationDate%2Cauthors%2Cabstract%2CexternalIds%2Curl%2Cvenue%2CisInfluential%2Ccontexts%2Cintents"
+  }
+]

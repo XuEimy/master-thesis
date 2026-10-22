@@ -1,0 +1,168 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          19
+        ]
+      ],
+      "date-time": "2024-07-19T09:08:12Z",
+      "timestamp": 1721380092605
+    },
+    "reference-count": 0,
+    "publisher": "China Science Publishing & Media Ltd.",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Advances in Psychological Science"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.3724/sp.j.1042.2023.00480",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2022-12-22T01:41:07Z",
+      "timestamp": 1671673267000
+    },
+    "page": "480",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "The double-edged sword effect of consumers’ photo-taking behavior on consumption experience"
+    ],
+    "prefix": "10.3724",
+    "volume": "31",
+    "author": [
+      {
+        "given": "Hongyan",
+        "family": "LIU",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yun",
+        "family": "ZHENG",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yaozhong",
+        "family": "LIU",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Fei",
+        "family": "QIAO",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2026",
+    "container-title": [
+      "Advances in Psychological Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2022-12-22T01:41:22Z",
+      "timestamp": 1671673282000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2023.00480"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.3724/sp.j.1042.2023.00480",
+    "relation": {},
+    "ISSN": [
+      "1671-3710"
+    ],
+    "issn-type": [
+      {
+        "value": "1671-3710",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,925 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          17
+        ]
+      ],
+      "date-time": "2026-07-17T15:31:41Z",
+      "timestamp": 1784302301971,
+      "version": "3.55.0"
+    },
+    "reference-count": 61,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Current Opinion in Psychology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.copsyc.2022.101334",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2022-03-05T11:35:00Z",
+      "timestamp": 1646480100000
+    },
+    "page": "101334",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "special_numbering": "C",
+    "title": [
+      "Capturing life or missing it: How mindful photo-taking can affect experiences"
+    ],
+    "prefix": "10.1016",
+    "volume": "46",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4765-6296",
+        "authenticated-orcid": false,
+        "given": "Kristin",
+        "family": "Diehl",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gal",
+        "family": "Zauberman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib1",
+        "author": "Pantic"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "822",
+        "DOI": "10.1037/0022-3514.84.4.822",
+        "article-title": "The benefits of being present: mindfulness and its role in psychological well-being",
+        "volume": "84",
+        "author": "Brown",
+        "year": "2003",
+        "journal-title": "J Pers Soc Psychol"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "655",
+        "DOI": "10.1037/a0038648",
+        "article-title": "Positive interventions: an emotion regulation perspective",
+        "volume": "141",
+        "author": "Quoidbach",
+        "year": "2015",
+        "journal-title": "Psychol Bull"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_sref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1037/pspa0000055",
+        "article-title": "How taking photos increases enjoyment of experiences",
+        "volume": "111",
+        "author": "Diehl",
+        "year": "2016",
+        "journal-title": "J Pers Soc Psychol"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "113063",
+        "DOI": "10.1016/j.bbr.2020.113063",
+        "article-title": "Mind your gaze: examining the relation between trait mindfulness and visual attention to valenced images",
+        "volume": "401",
+        "author": "Ford",
+        "year": "2021",
+        "journal-title": "Behav Brain Res"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "224",
+        "DOI": "10.1177/0146167207310023",
+        "article-title": "Doing unto future selves as you would do unto others: psychological distance and decision making",
+        "volume": "34",
+        "author": "Pronin",
+        "year": "2008",
+        "journal-title": "Pers Soc Psychol Bull"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_sref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1220",
+        "DOI": "10.1093/jcr/ucx112",
+        "article-title": "How the intention to share can undermine enjoyment: photo-taking goals and evaluation of experiences",
+        "volume": "44",
+        "author": "Barasch",
+        "year": "2018",
+        "journal-title": "J Consum Res"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "164",
+        "DOI": "10.1016/j.bodyim.2020.02.017",
+        "article-title": "The appearance-related social media consciousness scale: development and validation with adolescents",
+        "volume": "33",
+        "author": "Choukas-Bradley",
+        "year": "2020",
+        "journal-title": "Body Image"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "100778",
+        "DOI": "10.1016/j.tmp.2020.100778",
+        "article-title": "Selfies to die for: a review of research on self-photography associated with injury/death in tourism and recreation",
+        "volume": "37",
+        "author": "Weiler",
+        "year": "2021",
+        "journal-title": "Tourism Manag Perspect"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "520",
+        "DOI": "10.1002/mar.21194",
+        "article-title": "How and when taking pictures undermines the enjoyment of experiences",
+        "volume": "36",
+        "author": "Nardini",
+        "year": "2019",
+        "journal-title": "Psychol Market"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_sref11",
+        "article-title": "Exploring functions of and recollections with photos in the age of smartphone cameras",
+        "author": "Soares",
+        "year": "2021",
+        "journal-title": "Mem Stud"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "371",
+        "DOI": "10.1159/000505848",
+        "article-title": "Mnemoscape: supporting older adults' event memory using wearable camera photographs on an immersive interface",
+        "volume": "66",
+        "author": "Selwood",
+        "year": "2020",
+        "journal-title": "Gerontology"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "105682",
+        "DOI": "10.1016/j.appet.2021.105682",
+        "article-title": "Should you “picture” this? Effects of picture-taking features of food diary apps on memory, liking, and wanting",
+        "volume": "168",
+        "author": "Bayliss",
+        "year": "2022",
+        "journal-title": "Appetite"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1186/s13612-016-0044-4",
+        "article-title": "Promoting positive affect through smartphone photography",
+        "volume": "6",
+        "author": "Chen",
+        "year": "2016",
+        "journal-title": "Psychol Well-Being"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib15",
+        "first-page": "354",
+        "article-title": "Seeing through new eyes: an experimental investigation of the benefits of photography",
+        "volume": "11",
+        "author": "Kurtz",
+        "year": "2015",
+        "journal-title": "J Basic Appl Sci"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "101369",
+        "DOI": "10.1016/j.pmcj.2021.101369",
+        "article-title": "SnapAppy: a positive psychology intervention using smartphone photography to improve emotional well-being",
+        "volume": "73",
+        "author": "Lee",
+        "year": "2021",
+        "journal-title": "Pervasive Mob Comput"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "100391",
+        "DOI": "10.1016/j.conctc.2019.100391",
+        "article-title": "Picture this! Bringing joy into focus and developing healthy habits of mind: rationale, design, and implementation of a randomized control trial for young adults",
+        "volume": "15",
+        "author": "McKee",
+        "year": "2019",
+        "journal-title": "Contemp Clin Trail Commun"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1108/JCM-02-2015-1337",
+        "article-title": "How consumer-generated images shape important consumption outcomes in the food domain",
+        "volume": "33",
+        "author": "Coary",
+        "year": "2016",
+        "journal-title": "J Consum Market"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "833",
+        "DOI": "10.1177/0047287520912334",
+        "article-title": "Photo taking paradox: contrasting effects of photo taking on travel satisfaction and revisit intention",
+        "volume": "60",
+        "author": "Lee",
+        "year": "2021",
+        "journal-title": "J Trav Res"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib20",
+        "first-page": "83",
+        "article-title": "Generating content increases enjoyment by immersing consumers and accelerating perceived time",
+        "volume": "85",
+        "author": "Tonietto",
+        "year": "2021",
+        "journal-title": "J Market"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_sref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1056",
+        "DOI": "10.1177/0956797617694868",
+        "article-title": "Photographic memory: the effects of volitional photo taking on memory for visual and auditory aspects of an experience",
+        "volume": "28",
+        "author": "Barasch",
+        "year": "2017",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_sref22",
+        "article-title": "Take notes, not photos: mind-wandering mediates the impact of note-taking strategies on video-recorded lecture learning performance",
+        "author": "Wong",
+        "year": "2021",
+        "journal-title": "J Exp Psychol Appl"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_sref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "396",
+        "DOI": "10.1177/0956797613504438",
+        "article-title": "Point-and-Shoot memories: the influence of taking photos on memory for a Museum tour",
+        "volume": "25",
+        "author": "Henkel",
+        "year": "2014",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib24",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jarmac.2020.11.002",
+        "article-title": "Photo-taking impairs memory on perceptual and conceptual memory tests",
+        "author": "Lurie",
+        "year": "2021",
+        "journal-title": "J Appl Res Memory Cognit"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "154",
+        "DOI": "10.1016/j.jarmac.2017.10.004",
+        "article-title": "Forget in a flash: a further investigation of the photo-taking-impairment effect",
+        "volume": "7",
+        "author": "Soares",
+        "year": "2018",
+        "journal-title": "J Appl Res Memory Cognit"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib26",
+        "first-page": "161",
+        "article-title": "Media usage diminishes memory for experiences",
+        "volume": "76",
+        "author": "Tamir",
+        "year": "2018",
+        "journal-title": "J Exp Soc Psychol"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib27",
+        "series-title": "Proceedings of the 2017 CHI Conference on human factors in computing systems",
+        "first-page": "1674",
+        "article-title": "When personal tracking becomes social: examining the use of Instagram for healthy eating",
+        "author": "Chung",
+        "year": "2017"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.copsyc.2022.101334_bib28",
+        "article-title": "Harder than you think: misconceptions about logging food with photos versus text",
+        "volume": "7",
+        "author": "Silverman",
+        "year": "2022",
+        "journal-title": "J Assoc Consum Res"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib29",
+        "first-page": "232",
+        "article-title": "How many likes did I get?: purpose moderates links between positive social media feedback and self-esteem",
+        "volume": "69",
+        "author": "Burrow",
+        "year": "2017",
+        "journal-title": "J Exp Soc Psychol"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "295",
+        "DOI": "10.1177/0956797611429709",
+        "article-title": "When social networking is not working: individuals with low self-esteem recognize but do not reap the benefits of self-disclosure on Facebook",
+        "volume": "23",
+        "author": "Forest",
+        "year": "2012",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1016/j.bodyim.2020.11.011",
+        "article-title": "Effects of taking selfies on women's self-objectification, mood, self-esteem, and social aggression toward female peers",
+        "volume": "36",
+        "author": "Fox",
+        "year": "2021",
+        "journal-title": "Body Image"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1037/pspi0000336",
+        "article-title": "When every day is a high school reunion: social media comparisons and self-esteem",
+        "volume": "121",
+        "author": "Midgley",
+        "year": "2021",
+        "journal-title": "J Pers Soc Psychol"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_sref33",
+        "doi-asserted-by": "crossref",
+        "first-page": "76",
+        "DOI": "10.1016/j.chb.2018.10.017",
+        "article-title": "Likes” as social rewards: their role in online social comparison and decisions to like other People's selfies",
+        "volume": "92",
+        "author": "Rosenthal-von der Pütten",
+        "year": "2019",
+        "journal-title": "Comput Hum Behav"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "715",
+        "DOI": "10.1086/592943",
+        "article-title": "Memories as assets: strategic memory protection in choice over time",
+        "volume": "35",
+        "author": "Zauberman",
+        "year": "2009",
+        "journal-title": "J Consum Res"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib35",
+        "series-title": "Handbook of research on identity theory in marketing",
+        "article-title": "Memory pointers and identity",
+        "author": "Zauberman",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "162",
+        "DOI": "10.1016/j.chb.2014.04.048",
+        "article-title": "Capturing personality from Facebook photos and photo-related activities: how much exposure do you need?",
+        "volume": "37",
+        "author": "Eftekhar",
+        "year": "2014",
+        "journal-title": "Comput Hum Behav"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1002/arcp.1063",
+        "article-title": "Habits and the electronic herd: the psychology behind social media's successes and failures",
+        "volume": "4",
+        "author": "Anderson",
+        "year": "2021",
+        "journal-title": "Consum Psychol Rev"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1007/s00779-009-0218-7",
+        "article-title": "Easy on that trigger dad: a study of long term family photo retrieval",
+        "volume": "14",
+        "author": "Whittaker",
+        "year": "2010",
+        "journal-title": "Personal Ubiquitous Comput"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "260",
+        "DOI": "10.1016/j.paid.2016.03.032",
+        "article-title": "Why we post selfies: understanding motivations for posting pictures of oneself",
+        "volume": "97",
+        "author": "Sung",
+        "year": "2016",
+        "journal-title": "Pers Indiv Differ"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1016/j.paid.2015.10.037",
+        "article-title": "Selfies and personality: who posts self-portrait photographs?",
+        "volume": "90",
+        "author": "Sorokowska",
+        "year": "2016",
+        "journal-title": "Pers Indiv Differ"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib41",
+        "series-title": "Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies",
+        "first-page": "1",
+        "article-title": "Can less be more? Contrasting limited, unlimited, and automatic picture capture for augmenting memory recall",
+        "volume": "vol. 1",
+        "author": "Niforatos",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "480",
+        "DOI": "10.1037/h0101858",
+        "article-title": "The benefits and costs of editing and reviewing photos of one's experiences on subsequent memory",
+        "volume": "9",
+        "author": "Henkel",
+        "year": "2020",
+        "journal-title": "J Appl Res Memory Cognit"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "333",
+        "DOI": "10.1001/jamafacial.2018.0009",
+        "article-title": "Nasal distortion in short-distance photographs: the selfie effect",
+        "volume": "20",
+        "author": "Ward",
+        "year": "2018",
+        "journal-title": "JAMA Facial Plast Surg"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib44",
+        "series-title": "Challenges in rhinology",
+        "article-title": "Selfies and the rising demand for rhinoplasty",
+        "author": "Ceylan",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "188",
+        "DOI": "10.3389/fpsyg.2017.00188",
+        "article-title": "Beware of selfies: the impact of photo type on impression formation based on social networking profiles",
+        "volume": "8",
+        "author": "Krämer",
+        "year": "2017",
+        "journal-title": "Front Psychol"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "1010",
+        "DOI": "10.1177/1948550617732390",
+        "article-title": "A candid advantage? The social benefits of candid photos",
+        "volume": "9",
+        "author": "Berger",
+        "year": "2018",
+        "journal-title": "Soc Psychol Personal Sci"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "277",
+        "DOI": "10.1037/0882-7974.13.2.277",
+        "article-title": "Post-event review in older and younger adults: improving memory accessibility of complex everyday events",
+        "volume": "13",
+        "author": "Koutstaal",
+        "year": "1998",
+        "journal-title": "Psychol Aging"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib48",
+        "doi-asserted-by": "crossref",
+        "first-page": "478",
+        "DOI": "10.3758/BF03211542",
+        "article-title": "Facilitation and impairment of event memory produced by photograph review",
+        "volume": "27",
+        "author": "Koutstaal",
+        "year": "1999",
+        "journal-title": "Mem Cognit"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib49",
+        "doi-asserted-by": "crossref",
+        "first-page": "369",
+        "DOI": "10.1177/1089268020958686",
+        "article-title": "Effects of photographic reviews on recollections of the personal past: a new perspective on benefits and costs",
+        "volume": "24",
+        "author": "Foley",
+        "year": "2020",
+        "journal-title": "Rev Gen Psychol"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib50",
+        "first-page": "45",
+        "article-title": "Customer value and autoethnography: subjective personal introspection and the meanings of a photograph collection",
+        "volume": "58",
+        "author": "Holbrook",
+        "year": "2005",
+        "journal-title": "J Bus Res"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib51",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1007/BF00988996",
+        "article-title": "Photo albums: images of time and reflections of self",
+        "volume": "12",
+        "author": "Walker",
+        "year": "1989",
+        "journal-title": "Qual Sociol"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.2190/FJW1-60UF-WW1R-FP2K",
+        "article-title": "Reminiscentia: cherished objects as memorabilia in late-life reminiscence",
+        "volume": "33",
+        "author": "Sherman",
+        "year": "1991",
+        "journal-title": "Int J Aging Hum Dev"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_sref53",
+        "doi-asserted-by": "crossref",
+        "first-page": "274",
+        "DOI": "10.1016/j.tele.2016.07.004",
+        "article-title": "Let me take a selfie: exploring the psychological effects of posting and viewing selfies and groupies on social media",
+        "volume": "34",
+        "author": "Wang",
+        "year": "2017",
+        "journal-title": "Telematics Inf"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib54",
+        "series-title": "Advances in experimental social psychology",
+        "doi-asserted-by": "crossref",
+        "first-page": "345",
+        "DOI": "10.1016/S0065-2601(03)01006-2",
+        "article-title": "Affective forecasting",
+        "volume": "vol. 35",
+        "author": "Wilson",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib55",
+        "doi-asserted-by": "crossref",
+        "first-page": "903",
+        "DOI": "10.1177/0956797615573516",
+        "article-title": "You call it “Self-Exuberance”; I call it “Bragging” miscalibrated predictions of emotional responses to self-promotion",
+        "volume": "26",
+        "author": "Scopelliti",
+        "year": "2015",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib56",
+        "doi-asserted-by": "crossref",
+        "first-page": "588",
+        "DOI": "10.1177/1948550616644299",
+        "article-title": "Selfie indulgence: self-favoring biases in perceptions of selfies",
+        "volume": "7",
+        "author": "Re",
+        "year": "2016",
+        "journal-title": "Soc Psychol Personal Sci"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib57",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.3389/fpsyg.2017.00007",
+        "article-title": "The selfie paradox: nobody seems to like them yet everyone has reasons to take them. An exploration of psychological functions of selfies in self-presentation",
+        "volume": "8",
+        "author": "Diefenbach",
+        "year": "2017",
+        "journal-title": "Front Psychol"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib58",
+        "doi-asserted-by": "crossref",
+        "first-page": "878",
+        "DOI": "10.1037/pspa0000094",
+        "article-title": "Forgetting to remember our experiences: people overestimate how much they will retrospect about personal events",
+        "volume": "113",
+        "author": "Tully",
+        "year": "2017",
+        "journal-title": "J Pers Soc Psychol"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib59",
+        "doi-asserted-by": "crossref",
+        "first-page": "1851",
+        "DOI": "10.1177/0956797614542274",
+        "article-title": "A “present” for the future: the unexpected value of rediscovery",
+        "volume": "25",
+        "author": "Zhang",
+        "year": "2014",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib60",
+        "author": "Shu"
+      },
+      {
+        "key": "10.1016/j.copsyc.2022.101334_bib61",
+        "author": "Simmonds"
+      }
+    ],
+    "container-title": [
+      "Current Opinion in Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352250X2200046X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352250X2200046X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2025-11-06T16:59:13Z",
+      "timestamp": 1762448353000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2352250X2200046X"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "references-count": 61,
+    "alternative-id": [
+      "S2352250X2200046X"
+    ],
+    "URL": "https://doi.org/10.1016/j.copsyc.2022.101334",
+    "relation": {},
+    "ISSN": [
+      "2352-250X"
+    ],
+    "issn-type": [
+      {
+        "value": "2352-250X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Capturing life or missing it: How mindful photo-taking can affect experiences",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Current Opinion in Psychology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.copsyc.2022.101334",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2022 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "101334"
+  }
+}

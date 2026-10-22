@@ -1,0 +1,515 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          17
+        ]
+      ],
+      "date-time": "2026-10-17T09:52:12Z",
+      "timestamp": 1792230732763,
+      "version": "4.4.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 39,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              4,
+              26
+            ]
+          ],
+          "date-time": "2014-04-26T00:00:00Z",
+          "timestamp": 1398470400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          26
+        ]
+      ]
+    },
+    "DOI": "10.1145/2556288.2557178",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2014-04-28T14:18:30Z",
+      "timestamp": 1398694710000
+    },
+    "page": "1961-1970",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 193,
+    "title": [
+      "Designing for slowness, anticipation and re-visitation"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "given": "William T.",
+        "family": "Odom",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Carnegie Mellon University, Pittsburgh, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abigail J.",
+        "family": "Sellen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Microsoft Research, Cambridge, Cambridgeshire, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Banks",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Microsoft Research, Cambridge, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David S.",
+        "family": "Kirk",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Newcastle University, Newcastle Upon Tyne, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tim",
+        "family": "Regan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Microsoft, Cambridge, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Selby",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The University of Nottingham, Nottingham, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jodi L.",
+        "family": "Forlizzi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Carnegie Mellon University, Pittsburgh, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John",
+        "family": "Zimmerman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Carnegie Mellon University, Pittsburgh, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_1_1_1",
+        "first-page": "669",
+        "article-title": "The Role of Possessions in Constructing and Maintaining a Sense of Past",
+        "volume": "17",
+        "author": "Belk R.",
+        "year": "1990",
+        "unstructured": "Belk , R. 1990 . The Role of Possessions in Constructing and Maintaining a Sense of Past . Advances in Consumer Research , 17 , 669 -- 676 Belk, R. 1990. The Role of Possessions in Constructing and Maintaining a Sense of Past. Advances in Consumer Research, 17, 669--676",
+        "journal-title": "Advances in Consumer Research"
+      },
+      {
+        "key": "e_1_3_2_1_2_1",
+        "volume-title": "Funology: From Usability to Enjoyment",
+        "author": "Blythe M.",
+        "year": "2003",
+        "unstructured": "Blythe , M. , Overbeeke , K. , Monk , A. , Wright , P. 2003 . Funology: From Usability to Enjoyment . Springer Press . Blythe, M., Overbeeke, K., Monk, A., Wright, P. 2003. Funology: From Usability to Enjoyment. Springer Press."
+      },
+      {
+        "key": "e_1_3_2_1_3_1",
+        "first-page": "175",
+        "article-title": "Experiences With Designing Tools for Everyday Reminiscing",
+        "volume": "27",
+        "author": "Cosley D.",
+        "year": "2012",
+        "unstructured": "Cosley , D. , Sosik , V. , Schultz , J. , Peesapati , S. , Lee , S. 2012 . Experiences With Designing Tools for Everyday Reminiscing , Human-Computer Interaction , 27 , 175 -- 198 Cosley, D., Sosik, V., Schultz, J., Peesapati, S., Lee, S. 2012. Experiences With Designing Tools for Everyday Reminiscing, Human-Computer Interaction, 27, 175--198",
+        "journal-title": "Human-Computer Interaction"
+      },
+      {
+        "key": "e_1_3_2_1_4_1",
+        "volume-title": "The Meaning of Things: Domestic Symbols and the Self",
+        "author": "Csikszenthmihalyi M.",
+        "unstructured": "Csikszenthmihalyi , M. , Rochberg-Halton , E. 1981. The Meaning of Things: Domestic Symbols and the Self . Cambridge University Press . Csikszenthmihalyi, M., Rochberg-Halton, E. 1981. The Meaning of Things: Domestic Symbols and the Self. Cambridge University Press."
+      },
+      {
+        "key": "e_1_3_2_1_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1753326.1753665"
+      },
+      {
+        "key": "e_1_3_2_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/332040.332433"
+      },
+      {
+        "key": "e_1_3_2_1_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1142405.1142437"
+      },
+      {
+        "key": "e_1_3_2_1_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1240624.1240711"
+      },
+      {
+        "key": "e_1_3_2_1_9_1",
+        "volume-title": "Discovery of grounded theory: strategies for qualitative research",
+        "author": "Glaser B.",
+        "unstructured": "Glaser , B. , Strauss , A. 1967. Discovery of grounded theory: strategies for qualitative research . Sociology press . Glaser, B., Strauss, A. 1967. Discovery of grounded theory: strategies for qualitative research. Sociology press."
+      },
+      {
+        "key": "e_1_3_2_1_10_1",
+        "unstructured": "Good J. 2011. How many photos have ever been taken? http://1000memories.com/blog/94-number-of-photos-ever- taken-digital-and-analog-in-shoebox  Good J. 2011. How many photos have ever been taken? http://1000memories.com/blog/94-number-of-photos-ever- taken-digital-and-analog-in-shoebox"
+      },
+      {
+        "key": "e_1_3_2_1_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2466472"
+      },
+      {
+        "key": "e_1_3_2_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/PL00000019"
+      },
+      {
+        "key": "e_1_3_2_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1935701.1935730"
+      },
+      {
+        "key": "e_1_3_2_1_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/642611.642616"
+      },
+      {
+        "key": "e_1_3_2_1_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1518701.1518814"
+      },
+      {
+        "key": "e_1_3_2_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1124772.1124814"
+      },
+      {
+        "key": "e_1_3_2_1_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14626260802550777"
+      },
+      {
+        "key": "e_1_3_2_1_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1978942.1979077"
+      },
+      {
+        "key": "e_1_3_2_1_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14626260500147736"
+      },
+      {
+        "key": "e_1_3_2_1_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1089-2680.5.2.100"
+      },
+      {
+        "key": "e_1_3_2_1_21_1",
+        "volume-title": "Technology as Experience",
+        "author": "McCarthy J.",
+        "unstructured": "2 McCarthy , J. , Wright , P. 2004. Technology as Experience . MIT Press . 2McCarthy, J., Wright, P. 2004. Technology as Experience. MIT Press."
+      },
+      {
+        "key": "e_1_3_2_1_22_1",
+        "volume-title": "Qualitative Data Analysis",
+        "author": "Miles M. B.",
+        "unstructured": "2 Miles , M. B. , Huberman , A., M. 1994. Qualitative Data Analysis . Thousand Oaks, CA : Sage . 2Miles, M. B., Huberman, A., M. 1994. Qualitative Data Analysis. Thousand Oaks, CA: Sage."
+      },
+      {
+        "key": "e_1_3_2_1_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2466242"
+      },
+      {
+        "key": "e_1_3_2_1_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2317956.2318055"
+      },
+      {
+        "key": "e_1_3_2_1_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2317956.2318088"
+      },
+      {
+        "key": "e_1_3_2_1_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2207676.2207723"
+      },
+      {
+        "key": "e_1_3_2_1_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1518701.1518862"
+      },
+      {
+        "key": "e_1_3_2_1_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1753326.1753683"
+      },
+      {
+        "key": "e_1_3_2_1_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0279-7"
+      },
+      {
+        "key": "e_1_3_2_1_30_1",
+        "volume-title": "From snapshots to social media: The changing picture of domestic photography",
+        "author": "Sarvas R.",
+        "unstructured": "Sarvas R. , Frohlich D.M. 2011. From snapshots to social media: The changing picture of domestic photography . Springer Press . Sarvas R., Frohlich D.M. 2011. From snapshots to social media: The changing picture of domestic photography. Springer Press."
+      },
+      {
+        "key": "e_1_3_2_1_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1240624.1240636"
+      },
+      {
+        "key": "e_1_3_2_1_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1094562.1094569"
+      },
+      {
+        "key": "e_1_3_2_1_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1925820.1925830"
+      },
+      {
+        "key": "e_1_3_2_1_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-003-0220-4"
+      },
+      {
+        "key": "e_1_3_2_1_35_1",
+        "unstructured": "Van Dijck J. 2010. Flickr and the culture of connectivity: Sharing views experiences memories. Memory Studies 1--15.  Van Dijck J. 2010. Flickr and the culture of connectivity: Sharing views experiences memories. Memory Studies 1--15."
+      },
+      {
+        "key": "e_1_3_2_1_36_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Van House N. 2011. Personal Photography digital technologies and uses of the visual. Visual Studies 2.  Van House N. 2011. Personal Photography digital technologies and uses of the visual. Visual Studies 2.",
+        "DOI": "10.1080/1472586X.2011.571888"
+      },
+      {
+        "key": "e_1_3_2_1_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00988996"
+      },
+      {
+        "key": "e_1_3_2_1_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1240624.1240710"
+      },
+      {
+        "key": "e_1_3_2_1_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1240624.1240704"
+      }
+    ],
+    "event": {
+      "name": "CHI '14: CHI Conference on Human Factors in Computing Systems",
+      "location": "Toronto Ontario Canada",
+      "acronym": "CHI '14",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/2556288.2557178",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/2556288.2557178",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T07:01:07Z",
+      "timestamp": 1750230067000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/2556288.2557178"
+      }
+    },
+    "subtitle": [
+      "a long term field study of the photobox"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          26
+        ]
+      ]
+    },
+    "references-count": 39,
+    "alternative-id": [
+      "10.1145/2556288.2557178",
+      "10.1145/2556288"
+    ],
+    "URL": "https://doi.org/10.1145/2556288.2557178",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          26
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2014-04-26",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

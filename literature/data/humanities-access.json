@@ -1,0 +1,24 @@
+[
+  {
+    "name": "engaging-places-2024",
+    "url": "https://opinvisindi.is/bitstreams/ba2b3e22-90b0-4e2a-8f68-7ab6afa1747d/download",
+    "date": "2026-10-23",
+    "content_type": "application/pdf;charset=UTF-8",
+    "final_url": "https://opinvisindi.is/server/api/core/bitstreams/ba2b3e22-90b0-4e2a-8f68-7ab6afa1747d/content",
+    "pdf_signature": true,
+    "bytes": 1149030,
+    "file": "literature/sources/fulltext/engaging-places-2024.pdf",
+    "status": "PDF获取成功，核读状态另记"
+  },
+  {
+    "name": "martin-2023-preview",
+    "url": "https://ualresearchonline.arts.ac.uk/id/eprint/19659/28/Understanding-Reactivating-and-Reproducing-Autobiographical-Memory_-Discovering-the-Historical-Family-Archive.pdf",
+    "date": "2026-10-23",
+    "content_type": "application/pdf",
+    "final_url": "https://ualresearchonline.arts.ac.uk/id/eprint/19659/28/Understanding-Reactivating-and-Reproducing-Autobiographical-Memory_-Discovering-the-Historical-Family-Archive.pdf",
+    "pdf_signature": true,
+    "bytes": 131529,
+    "file": "literature/sources/fulltext/martin-2023-preview.pdf",
+    "status": "PDF获取成功，核读状态另记"
+  }
+]

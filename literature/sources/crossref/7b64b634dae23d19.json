@@ -1,0 +1,447 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2026-04-13T13:05:18Z",
+      "timestamp": 1776085518195,
+      "version": "3.50.1"
+    },
+    "reference-count": 39,
+    "publisher": "Informa UK Limited",
+    "issue": "1",
+    "funder": [
+      {
+        "DOI": "10.13039/501100000923",
+        "name": "Australian Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DP200102781"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DP200102781"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000923",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "photographies"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1080/17540763.2025.2607747",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          9
+        ]
+      ],
+      "date-time": "2026-03-09T12:07:41Z",
+      "timestamp": 1773058061000
+    },
+    "page": "19-40",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The fate of the ‘magical substitute’: personal photography, memory and AI"
+    ],
+    "prefix": "10.1080",
+    "volume": "19",
+    "author": [
+      {
+        "given": "Daniel",
+        "family": "Palmer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          9
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_1",
+        "first-page": "15",
+        "volume-title": "Classic Essays on Photography",
+        "author": "Arago Dominique François.",
+        "year": "1980",
+        "unstructured": "Arago, Dominique François. “Report.” In Classic Essays on Photography, edited by Alan Trachtenberg, 15–26. Newhaven: Leete’s Island, 1980."
+      },
+      {
+        "key": "e_1_3_3_3_1",
+        "unstructured": "Aziz Omid and Manohar Paluri. “Engineering for Nostalgia: Building a Personalized ‘On This Day’ Experience.” Engineering at Meta. 2016. https://engineering.fb.com/2016/03/30/ml-applications/engineering-for-nostalgia-building-a-personalized-on-this-day-experience/."
+      },
+      {
+        "key": "e_1_3_3_4_1",
+        "volume-title": "Camera Lucida. Reflections on Photography",
+        "author": "Barthes Roland.",
+        "year": "1981",
+        "unstructured": "Barthes, Roland. Camera Lucida. Reflections on Photography. New York: Hill and Wang, 1981."
+      },
+      {
+        "key": "e_1_3_3_5_1",
+        "volume-title": "Forget Me Not: Photography and Remembrance",
+        "author": "Batchen Geoffrey.",
+        "year": "2004",
+        "unstructured": "Batchen, Geoffrey. Forget Me Not: Photography and Remembrance. New York: Princeton Architectural Press, 2004."
+      },
+      {
+        "key": "e_1_3_3_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17540763.2010.499609"
+      },
+      {
+        "key": "e_1_3_3_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1210183"
+      },
+      {
+        "key": "e_1_3_3_8_1",
+        "volume-title": "Photography: A Middle-Brow Art",
+        "author": "Bourdieu Pierre.",
+        "year": "1990",
+        "unstructured": "Bourdieu, Pierre. Photography: A Middle-Brow Art. Cambridge: Polity Press, 1990."
+      },
+      {
+        "key": "e_1_3_3_9_1",
+        "volume-title": "Snapshot Versions of Life",
+        "author": "Chalfen Richard.",
+        "year": "1987",
+        "unstructured": "Chalfen, Richard. Snapshot Versions of Life. Bowling Green, Ohio: Bowling Green State University Popular Press, 1987."
+      },
+      {
+        "key": "e_1_3_3_10_1",
+        "unstructured": "Chokkattu Julian. “For Google’s Pixel Camera Team It’s All About the Memories.” Wired August 13 2024. https://www.wired.com/story/google-pixel-9-real-tone-pixel-camera-interview."
+      },
+      {
+        "key": "e_1_3_3_11_1",
+        "volume-title": "Camera Obscura: The Photographic in Post-Photography",
+        "author": "Chuk Natasha.",
+        "year": "2025",
+        "unstructured": "Chuk, Natasha. Camera Obscura: The Photographic in Post-Photography. Bristol: Intellect, 2025."
+      },
+      {
+        "key": "e_1_3_3_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7146/nja.v30i61-62.127861"
+      },
+      {
+        "key": "e_1_3_3_13_1",
+        "volume-title": "Photographs and the Practice of History: A Short Primer",
+        "author": "Edwards Elizabeth.",
+        "year": "2022",
+        "unstructured": "Edwards, Elizabeth. Photographs and the Practice of History: A Short Primer. London: Bloomsbury, 2022."
+      },
+      {
+        "key": "e_1_3_3_14_1",
+        "unstructured": "Fletcher Gem. “How Maria Mavropoulou Used AI to Rewrite Her Family History.” WePresent by WeTransfer January 3 2024. https://wepresent.wetransfer.com/stories/maria-mavropoulou-imagined-images."
+      },
+      {
+        "key": "e_1_3_3_15_1",
+        "volume-title": "Ubiquitous Photography",
+        "author": "Hand Martin.",
+        "year": "2012",
+        "unstructured": "Hand, Martin. Ubiquitous Photography. Cambridge: Polity, 2012."
+      },
+      {
+        "key": "e_1_3_3_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781003676423-5"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_3_3_17_1",
+        "article-title": "BeReal Now: Digital Temporal Authenticity on BeReal",
+        "volume": "29",
+        "author": "Highfield Tim.",
+        "year": "2023",
+        "unstructured": "Highfield, Tim. “BeReal Now: Digital Temporal Authenticity on BeReal.” Flow 29, no. 4 (February 10, 2023). https://www.flowjournal.org/2023/02/bereal_.",
+        "journal-title": "Flow"
+      },
+      {
+        "key": "e_1_3_3_18_1",
+        "volume-title": "Family Frames: Photography, Narrative, and Postmemory",
+        "author": "Hirsch Marianne.",
+        "year": "1997",
+        "unstructured": "Hirsch, Marianne. Family Frames: Photography, Narrative, and Postmemory. Cambridge MA: Harvard University Press, 1997."
+      },
+      {
+        "key": "e_1_3_3_19_1",
+        "first-page": "71",
+        "volume-title": "Classic Essays on Photography",
+        "author": "Holmes Oliver Wendell.",
+        "year": "1980",
+        "unstructured": "Holmes, Oliver Wendell. “The Stereoscope and the Stereograph (1859).” In Classic Essays on Photography, edited by Alan Trachtenberg, 71–82. Newhaven: Leete’s Island, 1980."
+      },
+      {
+        "key": "e_1_3_3_20_1",
+        "unstructured": "Horning Rob. “The Envisioners.” Internal Exile (Newsletter) September 28 2024. https://robhorning.substack.com/p/the-envisioners."
+      },
+      {
+        "key": "e_1_3_3_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2024.16"
+      },
+      {
+        "key": "e_1_3_3_22_1",
+        "volume-title": "The Social Photo: On Photography and Social Media",
+        "author": "Jurgenson Nathan.",
+        "year": "2019",
+        "unstructured": "Jurgenson, Nathan. The Social Photo: On Photography and Social Media. London: Verso, 2019."
+      },
+      {
+        "key": "e_1_3_3_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14725860701657175"
+      },
+      {
+        "key": "e_1_3_3_24_1",
+        "volume-title": "The Primacy of Perception",
+        "author": "Merleau-Ponty Maurice.",
+        "year": "1964",
+        "unstructured": "Merleau-Ponty, Maurice. The Primacy of Perception. Evanston, IL: Northwestern University Press, 1964."
+      },
+      {
+        "key": "e_1_3_3_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4000/13dwq"
+      },
+      {
+        "key": "e_1_3_3_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1470412908091935"
+      },
+      {
+        "key": "e_1_3_3_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.64628/AA.rg4sapeyg"
+      },
+      {
+        "key": "e_1_3_3_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14361/dcs-2021-0210"
+      },
+      {
+        "key": "e_1_3_3_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17540760701785842"
+      },
+      {
+        "key": "e_1_3_3_30_1",
+        "unstructured": "Schwedel Heather. “Memory Machine.” Slate October 16 2017. https://slate.com/technology/2017/10/iphones-are-making-unsolicited-memories-out-of-your-photos-with-ios-11.html."
+      },
+      {
+        "key": "e_1_3_3_31_1",
+        "unstructured": "Senk Sarah. “On This Day Nothing Happened.” Slate June 15 2015. https://slate.com/technology/2015/06/facebook-on-this-day-feature-is-redefining-history.html."
+      },
+      {
+        "key": "e_1_3_3_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-93789-8_33-2"
+      },
+      {
+        "key": "e_1_3_3_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9783839472033-004"
+      },
+      {
+        "key": "e_1_3_3_34_1",
+        "volume-title": "On Photography",
+        "author": "Sontag Susan.",
+        "year": "1977",
+        "unstructured": "Sontag, Susan. On Photography. New York: Farrar, Straus and Giroux, 1977."
+      },
+      {
+        "key": "e_1_3_3_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.64590/uhm"
+      },
+      {
+        "key": "e_1_3_3_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2022.6"
+      },
+      {
+        "key": "e_1_3_3_37_1",
+        "volume-title": "The Pencil of Nature",
+        "author": "Talbot William Henry Fox.",
+        "year": "1969",
+        "unstructured": "Talbot, William Henry Fox. The Pencil of Nature. 1844–46, facsimile ed. New York: DaCapo Press, 1969.",
+        "edition": "1844"
+      },
+      {
+        "key": "e_1_3_3_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1470357207084865"
+      },
+      {
+        "key": "e_1_3_3_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1056808.1057039"
+      },
+      {
+        "key": "e_1_3_3_40_1",
+        "volume-title": "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power",
+        "author": "Zuboff Shoshana.",
+        "year": "2019",
+        "unstructured": "Zuboff, Shoshana. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. New York: Public Affairs, 2019."
+      }
+    ],
+    "container-title": [
+      "photographies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17540763.2025.2607747",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2026-04-13T12:27:49Z",
+      "timestamp": 1776083269000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17540763.2025.2607747"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          2
+        ]
+      ]
+    },
+    "references-count": 39,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/17540763.2025.2607747"
+    ],
+    "URL": "https://doi.org/10.1080/17540763.2025.2607747",
+    "relation": {},
+    "ISSN": [
+      "1754-0763",
+      "1754-0771"
+    ],
+    "issn-type": [
+      {
+        "value": "1754-0763",
+        "type": "print"
+      },
+      {
+        "value": "1754-0771",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rpho20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rpho20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2026-03-09",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

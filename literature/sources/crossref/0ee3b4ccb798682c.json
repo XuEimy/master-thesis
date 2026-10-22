@@ -1,0 +1,1016 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2026-04-13T19:49:17Z",
+      "timestamp": 1776109757900,
+      "version": "3.50.1"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 142,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              27
+            ]
+          ],
+          "date-time": "2026-09-27T00:00:00Z",
+          "timestamp": 1790467200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 365,
+        "URL": "http://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "funder": [
+      {
+        "name": "ONR",
+        "award": [
+          "N000142212771"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "N000142212771"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          28
+        ]
+      ]
+    },
+    "DOI": "10.1145/3746059.3747681",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ],
+      "date-time": "2025-09-27T07:44:49Z",
+      "timestamp": 1758959089000
+    },
+    "page": "1-26",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "StorySage: Conversational Autobiography Writing Powered by a Multi-Agent Framework"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0005-6697-8487",
+        "authenticated-orcid": false,
+        "given": "Shayan",
+        "family": "Talaei",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Management Science and Engineering, Stanford University, Stanford, California, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8137-540X",
+        "authenticated-orcid": false,
+        "given": "Meijin",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Electrical Engineering, Stanford University, Stanford, California, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-2456-0737",
+        "authenticated-orcid": false,
+        "given": "Kanu",
+        "family": "Grover",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Computer Science, Stanford University, Stanford, California, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-1334-5645",
+        "authenticated-orcid": false,
+        "given": "James Kent",
+        "family": "Hippler",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Management Science and Engineering, Stanford University, Stanford, California, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1220-3983",
+        "authenticated-orcid": false,
+        "given": "Diyi",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Computer Science Department, Stanford University, Stanford, California, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5255-4150",
+        "authenticated-orcid": false,
+        "given": "Amin",
+        "family": "Saberi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Management Science and Engineering, Stanford University, Stanford, California, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_3_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445683"
+      },
+      {
+        "key": "e_1_3_3_3_3_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nicole Alea and Susan Bluck. 2003. Why are you telling me that? A conceptual model of the social function of autobiographical memory. Memory 11 2 (2003) 165–178.",
+        "DOI": "10.1080/741938207"
+      },
+      {
+        "key": "e_1_3_3_3_4_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nicole Alea and Susan Bluck. 2007. I’ll keep you in mind: The intimacy function of autobiographical memory. Applied Cognitive Psychology: The Official Journal of the Society for Applied Research in Memory and Cognition 21 8 (2007) 1091–1111.",
+        "DOI": "10.1002/acp.1316"
+      },
+      {
+        "key": "e_1_3_3_3_5_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shahad Alkamli and Reham Alabduljabbar. 2024. Understanding privacy concerns in ChatGPT: A data-driven approach with LDA topic modeling. Heliyon 10 20 (2024).",
+        "DOI": "10.1016/j.heliyon.2024.e39087"
+      },
+      {
+        "key": "e_1_3_3_3_6_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rebecca S Allen Michelle M Hilgeman Margaret A Ege John L Shuster Jr and Louis D Burgio. 2008. Legacy activities as interventions approaching the end of life. Journal of palliative medicine 11 7 (2008) 1029–1038.",
+        "DOI": "10.1089/jpm.2007.0294"
+      },
+      {
+        "key": "e_1_3_3_3_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3377325.3377523"
+      },
+      {
+        "key": "e_1_3_3_3_8_2",
+        "unstructured": "Association for Computing Machinery. 2023. ACM Publications Policy on Research Involving Human Participants and Subjects. https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects. Accessed: 2025-04-04."
+      },
+      {
+        "key": "e_1_3_3_3_9_2",
+        "unstructured": "Morteza Behrooz Yuandong Tian William Ngan Yael Yungster Justin Wong and David Zax. 2024. Holding the Line: A Study of Writers’ Attitudes on Co-creativity with AI. arxiv:https://arXiv.org/abs/2404.13165 [cs.HC] https://arxiv.org/abs/2404.13165"
+      },
+      {
+        "key": "e_1_3_3_3_10_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Oloff C. Biermann Ning F. Ma and Dongwook Yoon. 2022. From Tool to Companion: Storywriters Want AI Writers to Respect Their Personal Values and Writing Strategies. Proceedings of the 2022 ACM Designing Interactive Systems Conference (2022). https://api.semanticscholar.org/CorpusID:249578888",
+        "DOI": "10.1145/3532106.3533506"
+      },
+      {
+        "key": "e_1_3_3_3_11_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Susan Bluck and Tilmann Habermas. 2000. The Life Story Schema. Motivation and Emotion 24 (06 2000) 121–147. 10.1023/A:1005615331901",
+        "DOI": "10.1023/A:1005615331901"
+      },
+      {
+        "key": "e_1_3_3_3_12_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mari Mar Boillos and Nahia Idoiaga. 2025. Student Perspectives on the Use of AI-based Language Tools in Academic Writing. Journal of Writing Research (Jan. 2025).",
+        "DOI": "10.17239/jowr-2025.17.01.06"
+      },
+      {
+        "key": "e_1_3_3_3_13_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "H. N. Boone and D. A. Boone. 2012. Analyzing Likert Data. Journal of Extension 50 2 (2012) 2TOT2. https://tigerprints.clemson.edu/joe/vol50/iss2/2/",
+        "DOI": "10.34068/joe.50.02.48"
+      },
+      {
+        "key": "e_1_3_3_3_14_2",
+        "unstructured": "Raluca Budiu. 2023. Between-Subjects vs. Within-Subjects Study Design. https://www.nngroup.com/articles/between-within-subjects/ Accessed: April 10 2025."
+      },
+      {
+        "key": "e_1_3_3_3_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445372"
+      },
+      {
+        "key": "e_1_3_3_3_16_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Robert N Butler. 1963. The life review: An interpretation of reminiscence in the aged. Psychiatry 26 1 (1963) 65–76.",
+        "DOI": "10.1080/00332747.1963.11023339"
+      },
+      {
+        "key": "e_1_3_3_3_17_2",
+        "unstructured": "Alexia Cambon Brent Hecht Donald Ngwe Sonia Jaffe Amy Heger Mihaela Vorvoreanu Sida Peng Jake Hofman Alex Farach Margarita Bermejo-Cano Eric Knudsen James Bono Hardik Sanghavi Sofia Eleni Spatharioti David M. Rothschild Daniel G. Goldstein Eirini Kalliamvakou Peter Cihon Mert Demirer Michael Schwarz and Jaime Teevan. [n. d.]. Early LLM-based Tools for Enterprise Information Workers Likely Provide Meaningful Boosts to Productivity. https://api.semanticscholar.org/CorpusID:267367709"
+      },
+      {
+        "key": "e_1_3_3_3_18_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tuhin Chakrabarty Vishakh Padmakumar and He He. 2022. Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing. arxiv:https://arXiv.org/abs/2210.13669 [cs.CL] https://arxiv.org/abs/2210.13669",
+        "DOI": "10.18653/v1/2022.emnlp-main.460"
+      },
+      {
+        "key": "e_1_3_3_3_19_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gary Charness Uri Gneezy and Michael A. Kuhn. 2012. Experimental methods: Between-subject and within-subject design. Journal of Economic Behavior & Organization 81 (2012) 1–8. Issue 1. 10.1016/j.jebo.2011.08.009",
+        "DOI": "10.1016/j.jebo.2011.08.009"
+      },
+      {
+        "key": "e_1_3_3_3_20_2",
+        "unstructured": "Mia Xu Chen Benjamin N Lee Gagan Bansal Yuan Cao Shuyuan Zhang Justin Lu Jackie Tsay Yinan Wang Andrew M. Dai Zhifeng Chen Timothy Sohn and Yonghui Wu. 2019. Gmail Smart Compose: Real-Time Assisted Writing. arxiv:https://arXiv.org/abs/1906.00080 [cs.CL] https://arxiv.org/abs/1906.00080"
+      },
+      {
+        "key": "e_1_3_3_3_21_2",
+        "unstructured": "Weize Chen Yusheng Su Jingwei Zuo Cheng Yang Chenfei Yuan Chi-Min Chan Heyang Yu Yaxi Lu Yi-Hsin Hung Chen Qian Yujia Qin Xin Cong Ruobing Xie Zhiyuan Liu Maosong Sun and Jie Zhou. 2023. AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors. arxiv:https://arXiv.org/abs/2308.10848 [cs.CL] https://arxiv.org/abs/2308.10848"
+      },
+      {
+        "key": "e_1_3_3_3_22_2",
+        "unstructured": "Andy Coenen Luke Davis Daphne Ippolito Emily Reif and Ann Yuan. 2021. Wordcraft: a Human-AI Collaborative Editor for Story Writing. arxiv:https://arXiv.org/abs/2107.07430 [cs.CL] https://arxiv.org/abs/2107.07430"
+      },
+      {
+        "key": "e_1_3_3_3_23_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Martin Conway and Christopher Pleydell-Pearce. 2000. The Construction of Autobiographical Memories in the Self-Memory System. Psychological review 107 (05 2000) 261–88. 10.1037//0033-295X.107.2.261",
+        "DOI": "10.1037//0033-295X.107.2.261"
+      },
+      {
+        "key": "e_1_3_3_3_24_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Elena Cotos Sarah Huffman and Stephanie Link. 2020. Understanding Graduate Writers’ Interaction with and Impact of the Research Writing Tutor during Revision. Journal of Writing Research 12 (06 2020) 187–232. 10.17239/jowr-2020.12.01.07",
+        "DOI": "10.17239/jowr-2020.12.01.07"
+      },
+      {
+        "key": "e_1_3_3_3_25_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pearl Ed Cuevas Patricia Davidson Joylyn Mejilla and Tamar Rodney. 2021. Dignity therapy for end-of-life care patients: a literature review. Journal of Patient Experience 8 (2021) 2374373521996951.",
+        "DOI": "10.1177/2374373521996951"
+      },
+      {
+        "key": "e_1_3_3_3_26_2",
+        "volume-title": "Research Methods in Psychology: 3rd American Edition",
+        "author": "Cuttler Carrie",
+        "year": "2017",
+        "unstructured": "Carrie Cuttler. 2017. Experimental Design. In Research Methods in Psychology: 3rd American Edition, Carrie Cuttler (Ed.). Washington State University. https://opentext.wsu.edu/carriecuttler/chapter/experimental-design/"
+      },
+      {
+        "key": "e_1_3_3_3_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3526113.3545672"
+      },
+      {
+        "key": "e_1_3_3_3_28_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mariano de Rivero Cristhiam Tirado and Willy Ugarte. 2023. Formalstyler: Gpt-based model for formal style transfer with meaning preservation. SN Computer Science 4 6 (2023) 739.",
+        "DOI": "10.1007/s42979-023-02110-7"
+      },
+      {
+        "key": "e_1_3_3_3_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642134"
+      },
+      {
+        "key": "e_1_3_3_3_30_2",
+        "unstructured": "Yilun Du Shuang Li Antonio Torralba Joshua B. Tenenbaum and Igor Mordatch. 2023. Improving Factuality and Reasoning in Language Models through Multiagent Debate. arxiv:https://arXiv.org/abs/2305.14325 [cs.CL] https://arxiv.org/abs/2305.14325"
+      },
+      {
+        "key": "e_1_3_3_3_31_2",
+        "unstructured": "Jinhao Duan Xinyu Zhao Zhuoxuan Zhang Eunhye Ko Lily Boddy Chenan Wang Tianhao Li Alexander Rasgon Junyuan Hong Min Kyung Lee Chenxi Yuan Qi Long Ying Ding Tianlong Chen and Kaidi Xu. 2025. GuideLLM: Exploring LLM-Guided Conversation with Applications in Autobiography Interviewing. arxiv:https://arXiv.org/abs/2502.06494 [cs.CL] https://arxiv.org/abs/2502.06494"
+      },
+      {
+        "key": "e_1_3_3_3_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2858036.2858103"
+      },
+      {
+        "key": "e_1_3_3_3_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/2021.naacl-main.414"
+      },
+      {
+        "key": "e_1_3_3_3_34_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Georgios Feretzakis and Vassilios S Verykios. 2024. Trustworthy AI: Securing sensitive data in large language models. AI 5 4 (2024) 2773–2800.",
+        "DOI": "10.3390/ai5040134"
+      },
+      {
+        "key": "e_1_3_3_3_35_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Robyn Fivush Jennifer G Bohanek and Widaad Zaman. 2011. Personal and intergenerational narratives in relation to adolescents’ well-being. New directions for child and adolescent development 2011 131 (2011) 45–57.",
+        "DOI": "10.1002/cd.288"
+      },
+      {
+        "key": "e_1_3_3_3_36_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Robyn Fivush Tilmann Habermas Theodore Waters and Widaad Zaman. 2011. The making of autobiographical memory: Intersections of culture narratives and identity. International journal of psychology : Journal international de psychologie 46 (10 2011) 321–45. 10.1080/00207594.2011.596541",
+        "DOI": "10.1080/00207594.2011.596541"
+      },
+      {
+        "key": "e_1_3_3_3_37_2",
+        "unstructured": "Adam Fourney Gagan Bansal Hussein Mozannar Cheng Tan Eduardo Salinas Erkang Zhu Friederike Niedtner Grace Proebsting Griffin Bassman Jack Gerrits Jacob Alber Peter Chang Ricky Loynd Robert West Victor Dibia Ahmed Awadallah Ece Kamar Rafah Hosn and Saleema Amershi. 2024. Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks. arxiv:https://arXiv.org/abs/2411.04468 [cs.AI] https://arxiv.org/abs/2411.04468"
+      },
+      {
+        "key": "e_1_3_3_3_38_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Jim Gemmell Gordon Bell and Roger Lueder. 2006. MyLifeBits: a personal database for everything. Commun. ACM 49 1 (Jan. 2006) 88–95. 10.1145/1107458.1107460",
+        "DOI": "10.1145/1107458.1107460"
+      },
+      {
+        "key": "e_1_3_3_3_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/3-540-49057-4_1"
+      },
+      {
+        "key": "e_1_3_3_3_40_2",
+        "unstructured": "Katy Ilonka Gero Vivian Liu and Lydia B. Chilton. 2021. Sparks: Inspiration for Science Writing using Language Models. arxiv:https://arXiv.org/abs/2110.07640 [cs.HC] https://arxiv.org/abs/2110.07640"
+      },
+      {
+        "key": "e_1_3_3_3_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3580782"
+      },
+      {
+        "key": "e_1_3_3_3_42_2",
+        "volume-title": "Midwest Research-to-Practice Conference in Adult, Continuing, and Community Education",
+        "author": "Gliem Joseph A.",
+        "year": "2003",
+        "unstructured": "Joseph A. Gliem and Rosemary R. Gliem. 2003. Calculating, Interpreting, and Reporting Cronbach’s Alpha Reliability Coefficient for Likert-Type Scales. In Midwest Research-to-Practice Conference in Adult, Continuing, and Community Education. Columbus, Ohio. https://files.eric.ed.gov/fulltext/ED482504.pdf"
+      },
+      {
+        "key": "e_1_3_3_3_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/N19-4016"
+      },
+      {
+        "key": "e_1_3_3_3_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642472"
+      },
+      {
+        "key": "e_1_3_3_3_45_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tilmann Habermas and Susan Bluck. 2000. Getting a life: the emergence of the life story in adolescence. Psychological bulletin 126 5 (2000) 748.",
+        "DOI": "10.1037//0033-2909.126.5.748"
+      },
+      {
+        "key": "e_1_3_3_3_46_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "David Hallford Meg Woolfit Alicia Follett Elizabeth Jones Ollie Harrison and David Austin. 2024. Guided recall of positive autobiographical memories increases anticipated pleasure and psychological resources and reduces depressive symptoms: a replication and extension of a randomised controlled trial of brief positive cognitive-reminiscence therapy. Memory 32 4 (2024) 465–475.",
+        "DOI": "10.1080/09658211.2024.2333510"
+      },
+      {
+        "key": "e_1_3_3_3_47_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Jennifer Harding. 2006. Questioning the Subject in Biographical Interviewing. Sociological Research Online 11 (09 2006). 10.5153/sro.1411",
+        "DOI": "10.5153/sro.1411"
+      },
+      {
+        "key": "e_1_3_3_3_48_2",
+        "unstructured": "Hasso Plattner Institute of Design at Stanford. 2018. Design Thinking Bootleg. https://dschool.stanford.edu/tools/design-thinking-bootleg Accessed: 2025-04-03."
+      },
+      {
+        "key": "e_1_3_3_3_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-0-12-815499-1.00002-8"
+      },
+      {
+        "key": "e_1_3_3_3_50_2",
+        "unstructured": "Sirui Hong Mingchen Zhuge Jiaqi Chen Xiawu Zheng Yuheng Cheng Ceyao Zhang Jinlin Wang Zili Wang Steven Ka Shing Yau Zijuan Lin Liyang Zhou Chenyu Ran Lingfeng Xiao Chenglin Wu and Jürgen Schmidhuber. 2024. MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. arxiv:https://arXiv.org/abs/2308.00352 [cs.AI] https://arxiv.org/abs/2308.00352"
+      },
+      {
+        "key": "e_1_3_3_3_51_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tiancheng Hu Yara Kyrychenko Steve Rathje Nigel Collier Sander van der Linden and Jon Roozenbeek. 2025. Generative language models exhibit social identity biases. Nature Computational Science 5 1 (2025) 65–75.",
+        "DOI": "10.1038/s43588-024-00741-1"
+      },
+      {
+        "key": "e_1_3_3_3_52_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lei Huang Weijiang Yu Weitao Ma Weihong Zhong Zhangyin Feng Haotian Wang Qianglong Chen Weihua Peng Xiaocheng Feng Bing Qin and Ting Liu. 2025. A Survey on Hallucination in Large Language Models: Principles Taxonomy Challenges and Open Questions. ACM Transactions on Information Systems 43 2 (Jan. 2025) 1–55. 10.1145/3703155",
+        "DOI": "10.1145/3703155"
+      },
+      {
+        "key": "e_1_3_3_3_53_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth G Hunter and Graham D Rowles. 2005. Leaving a legacy: Toward a typology. Journal of aging studies 19 3 (2005) 327–347.",
+        "DOI": "10.1016/j.jaging.2004.08.002"
+      },
+      {
+        "key": "e_1_3_3_3_54_2",
+        "unstructured": "Fantine Huot Reinald Kim Amplayo Jennimaria Palomaki Alice Shoshana Jakobovits Elizabeth Clark and Mirella Lapata. 2024. Agents’ Room: Narrative Generation through Multi-step Collaboration. arXiv preprint arXiv:https://arXiv.org/abs/2410.02603 (2024)."
+      },
+      {
+        "key": "e_1_3_3_3_55_2",
+        "unstructured": "Aaron Hurst Adam Lerer Adam P Goucher Adam Perelman Aditya Ramesh Aidan Clark AJ Ostrow Akila Welihinda Alan Hayes Alec Radford et al. 2024. Gpt-4o system card. arXiv preprint arXiv:https://arXiv.org/abs/2410.21276 (2024)."
+      },
+      {
+        "key": "e_1_3_3_3_56_2",
+        "unstructured": "Angel Hsing-Chi Hwang Q Vera Liao Su Lin Blodgett Alexandra Olteanu and Adam Trischler. 2024. \" It was 80% me 20% AI\": Seeking Authenticity in Co-Writing with Large Language Models. arXiv preprint arXiv:https://arXiv.org/abs/2411.13032 (2024)."
+      },
+      {
+        "key": "e_1_3_3_3_57_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581196"
+      },
+      {
+        "key": "e_1_3_3_3_58_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Tomás R. Jiménez and Michael Orozco. 2021. Prompts Not Questions: Four Techniques for Crafting Better Interview Protocols. Qualitative Sociology 44 4 (2021) 507–528. 10.1007/s11133-021-09483-2",
+        "DOI": "10.1007/s11133-021-09483-2"
+      },
+      {
+        "key": "e_1_3_3_3_59_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3563657.3596052"
+      },
+      {
+        "key": "e_1_3_3_3_60_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642937"
+      },
+      {
+        "key": "e_1_3_3_3_61_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642529"
+      },
+      {
+        "key": "e_1_3_3_3_62_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642693"
+      },
+      {
+        "key": "e_1_3_3_3_63_2",
+        "unstructured": "Yewon Kim Mina Lee Donghwi Kim and Sung-Ju Lee. 2023. Towards Explainable AI Writing Assistants for Non-native English Speakers. arxiv:https://arXiv.org/abs/2304.02625 [cs.CL] https://arxiv.org/abs/2304.02625"
+      },
+      {
+        "key": "e_1_3_3_3_64_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Simon Knight Antonette Shibani Sophie Abel Andrew Gibson and Philippa Ryan. 2020. AcaWriter: A Learning Analytics Tool for Formative Feedback on Academic Writing. Journal of Writing Research 12 (06 2020) 141–186. 10.17239/jowr-2020.12.01.06",
+        "DOI": "10.17239/jowr-2020.12.01.06"
+      },
+      {
+        "key": "e_1_3_3_3_65_2",
+        "unstructured": "Christine Lee Jihye Choi and Bilge Mutlu. 2025. MAP: Multi-user Personalization with Collaborative LLM-powered Agents. arXiv preprint arXiv:https://arXiv.org/abs/2503.12757 (2025)."
+      },
+      {
+        "key": "e_1_3_3_3_66_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642697"
+      },
+      {
+        "key": "e_1_3_3_3_67_2",
+        "unstructured": "Junze Li Changyang He Jiaxiong Hu Boyang Jia Alon Halevy and Xiaojuan Ma. 2024. DiaryHelper: Exploring the Use of an Automatic Contextual Information Recording Agent for Elicitation Diary Study. arxiv:https://arXiv.org/abs/2404.19738 [cs.HC] https://arxiv.org/abs/2404.19738"
+      },
+      {
+        "key": "e_1_3_3_3_68_2",
+        "unstructured": "Jiahao Nick Li Zhuohao Jerry Zhang and Jiaju Ma. 2025. OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering. arxiv:https://arXiv.org/abs/2409.08250 [cs.HC] https://arxiv.org/abs/2409.08250"
+      },
+      {
+        "key": "e_1_3_3_3_69_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613905.3643983"
+      },
+      {
+        "key": "e_1_3_3_3_70_2",
+        "unstructured": "Xiaoxi Li Zhicheng Dou Yujia Zhou and Fangchao Liu. 2024. CorpusLM: Towards a Unified Language Model on Corpus for Knowledge-Intensive Tasks. arxiv:https://arXiv.org/abs/2402.01176 [cs.CL] https://arxiv.org/abs/2402.01176"
+      },
+      {
+        "key": "e_1_3_3_3_71_2",
+        "unstructured": "Yaoru Li Shunyu Liu Tongya Zheng and Mingli Song. 2025. Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems. arxiv:https://arXiv.org/abs/2503.03505 [cs.AI] https://arxiv.org/abs/2503.03505"
+      },
+      {
+        "key": "e_1_3_3_3_72_2",
+        "unstructured": "Zhuoyan Li Chen Liang Jing Peng and Ming Yin. 2024. The Value Benefits and Concerns of Generative AI-Powered Assistance in Writing. arxiv:https://arXiv.org/abs/2403.12004 [cs.HC] https://arxiv.org/abs/2403.12004"
+      },
+      {
+        "key": "e_1_3_3_3_73_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780195073720.001.0001"
+      },
+      {
+        "key": "e_1_3_3_3_74_2",
+        "unstructured": "Aixin Liu Bei Feng Bing Xue Bingxuan Wang Bochao Wu Chengda Lu Chenggang Zhao Chengqi Deng Chenyu Zhang Chong Ruan et al. 2024. Deepseek-v3 technical report. arXiv preprint arXiv:https://arXiv.org/abs/2412.19437 (2024)."
+      },
+      {
+        "key": "e_1_3_3_3_75_2",
+        "unstructured": "Nelson F. Liu Kevin Lin John Hewitt Ashwin Paranjape Michele Bevilacqua Fabio Petroni and Percy Liang. 2023. Lost in the Middle: How Language Models Use Long Contexts. arxiv:https://arXiv.org/abs/2307.03172 [cs.CL] https://arxiv.org/abs/2307.03172"
+      },
+      {
+        "key": "e_1_3_3_3_76_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3637528.3671552"
+      },
+      {
+        "key": "e_1_3_3_3_77_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445562"
+      },
+      {
+        "key": "e_1_3_3_3_78_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/2021.nuse-1.5"
+      },
+      {
+        "key": "e_1_3_3_3_79_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Teresa Luther Joachim Kimmerle and Ulrike Cress. 2024. Teaming up with an AI: Exploring human–AI collaboration in a writing scenario with ChatGPT. AI 5 3 (2024) 1357–1376.",
+        "DOI": "10.3390/ai5030065"
+      },
+      {
+        "key": "e_1_3_3_3_80_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Haiwei Ma C. Estelle Smith Lu He Saumik Narayanan Robert A. Giaquinto Roni Evans Linda Hanson and Svetlana Yarosh. 2017. Write for Life: Persisting in Online Health Communities through Expressive Writing and Social Support. Proc. ACM Hum.-Comput. Interact. 1 CSCW Article 73 (Dec. 2017) 24 pages. 10.1145/3134708",
+        "DOI": "10.1145/3134708"
+      },
+      {
+        "key": "e_1_3_3_3_81_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Dan P. McAdams. 2001. The Psychology of Life Stories. Review of General Psychology 5 2 (2001) 100–122. 10.1037/1089-2680.5.2.100",
+        "DOI": "10.1037/1089-2680.5.2.100"
+      },
+      {
+        "key": "e_1_3_3_3_82_2",
+        "unstructured": "Dan P McAdams. 2008. The life story interview."
+      },
+      {
+        "key": "e_1_3_3_3_83_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Dan P. McAdams and Kate C. McLean. 2013. Narrative Identity. Current Directions in Psychological Science 22 3 (2013) 233–238. 10.1177/0963721413475622 arXiv:10.1177/0963721413475622",
+        "DOI": "10.1177/0963721413475622"
+      },
+      {
+        "key": "e_1_3_3_3_84_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kate C McLean Monisha Pasupathi and Jennifer L Pals. 2007. Selves creating stories creating selves: A process model of self-development. Personality and social psychology review 11 3 (2007) 262–278.",
+        "DOI": "10.1177/1088868307301034"
+      },
+      {
+        "key": "e_1_3_3_3_85_2",
+        "unstructured": "Ben Meuleman. 2023. Advantages of Within-Subjects Designs. https://www.unige.ch/cisa/index.php/download_file/view/2877/3542/"
+      },
+      {
+        "key": "e_1_3_3_3_86_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581225"
+      },
+      {
+        "key": "e_1_3_3_3_87_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Fabrizio Morbini David DeVault Kallirroi Georgila Ron Artstein David Traum and Louis-Philippe Morency. 2014. A Demonstration of Dialogue Processing in SimSensei Kiosk. 254–256. 10.3115/v1/W14-4334",
+        "DOI": "10.3115/v1/W14-4334"
+      },
+      {
+        "key": "e_1_3_3_3_88_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "David A Moscovitch Kendra White and Taylor Hudd. 2024. Hooking the self onto the past: How positive autobiographical memory retrieval benefits people with social anxiety. Clinical Psychological Science 12 5 (2024) 882–902.",
+        "DOI": "10.1177/21677026231195792"
+      },
+      {
+        "key": "e_1_3_3_3_89_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Nadim Nachar. 2008. The Mann-Whitney U: A Test for Assessing Whether Two Independent Samples Come from the Same Distribution. Tutorials in Quantitative Methods for Psychology 4 (03 2008). 10.20982/tqmp.04.1.p013",
+        "DOI": "10.20982/tqmp.04.1.p013"
+      },
+      {
+        "key": "e_1_3_3_3_90_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613905.3650767"
+      },
+      {
+        "key": "e_1_3_3_3_91_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/2020.bea-1.16"
+      },
+      {
+        "key": "e_1_3_3_3_92_2",
+        "unstructured": "OpenAI. 2024. GPT-4o Mini: Advancing Cost-Efficient Intelligence. https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/ Accessed: 2025-04-10."
+      },
+      {
+        "key": "e_1_3_3_3_93_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3586183.3606763"
+      },
+      {
+        "key": "e_1_3_3_3_94_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Samir Passi and Mihaela Vorvoreanu. 2022. Overreliance on AI literature review. Microsoft Research 339 (2022) 340.",
+        "DOI": "10.1007/s13312-022-2503-8"
+      },
+      {
+        "key": "e_1_3_3_3_95_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1753326.1753635"
+      },
+      {
+        "key": "e_1_3_3_3_96_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "James W Pennebaker and Janel D Seagal. 1999. Forming a story: The health benefits of narrative. Journal of clinical psychology 55 10 (1999) 1243–1254.",
+        "DOI": "10.1002/(SICI)1097-4679(199910)55:10<1243::AID-JCLP6>3.0.CO;2-N"
+      },
+      {
+        "key": "e_1_3_3_3_97_2",
+        "unstructured": "Chen Qian Wei Liu Hongzhang Liu Nuo Chen Yufan Dang Jiahao Li Cheng Yang Weize Chen Yusheng Su Xin Cong Juyuan Xu Dahai Li Zhiyuan Liu and Maosong Sun. 2024. ChatDev: Communicative Agents for Software Development. arxiv:https://arXiv.org/abs/2307.07924 [cs.SE] https://arxiv.org/abs/2307.07924"
+      },
+      {
+        "key": "e_1_3_3_3_98_2",
+        "unstructured": "Ahmed Y. Radwan Khaled M. Alasmari Omar A. Abdulbagi and Emad A. Alghamdi. 2024. SARD: A Human-AI Collaborative Story Generation. arxiv:https://arXiv.org/abs/2403.01575 [cs.HC] https://arxiv.org/abs/2403.01575"
+      },
+      {
+        "key": "e_1_3_3_3_99_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Daniel Schacter. 1999. The seven sins of memory - Insights from psychology and cognitive neuroscience. The American psychologist 54 (04 1999) 182–203. 10.1037//0003-066X.54.3.182",
+        "DOI": "10.1037//0003-066X.54.3.182"
+      },
+      {
+        "key": "e_1_3_3_3_100_2",
+        "unstructured": "Liselotte Schulz. 2024. The Impact of Generative AI on User Engagement and Personalisation in Digital Journaling: A Case Study."
+      },
+      {
+        "key": "e_1_3_3_3_101_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Iulian V. Serban Alessandro Sordoni Yoshua Bengio Aaron Courville and Joelle Pineau. 2016. Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models. arxiv:https://arXiv.org/abs/1507.04808 [cs.CL] https://arxiv.org/abs/1507.04808",
+        "DOI": "10.1609/aaai.v30i1.9883"
+      },
+      {
+        "key": "e_1_3_3_3_102_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Juan Pedro Serrano Jose Miguel Latorre Margaret Gatz and Juan Montanes. 2004. Life review therapy using autobiographical retrieval practice for older adults with depressive symptomatology. Psychology and aging 19 2 (2004) 272.",
+        "DOI": "10.1037/0882-7974.19.2.270"
+      },
+      {
+        "key": "e_1_3_3_3_103_2",
+        "unstructured": "Yijia Shao Yucheng Jiang Theodore A. Kanell Peter Xu Omar Khattab and Monica S. Lam. 2024. Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models. arxiv:https://arXiv.org/abs/2402.14207 [cs.CL] https://arxiv.org/abs/2402.14207"
+      },
+      {
+        "key": "e_1_3_3_3_104_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hua Shen Chieh-Yang Huang Tongshuang Wu and Ting-Hao ’Kenneth’ Huang. 2023. ConvXAI: Delivering Heterogeneous AI Explanations via Conversations to Support Human-AI Scientific Writing. arxiv:https://arXiv.org/abs/2305.09770 [cs.HC] https://arxiv.org/abs/2305.09770",
+        "DOI": "10.1145/3584931.3607492"
+      },
+      {
+        "key": "e_1_3_3_3_105_2",
+        "unstructured": "Yongliang Shen Kaitao Song Xu Tan Dongsheng Li Weiming Lu and Yueting Zhuang. 2023. HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face. arxiv:https://arXiv.org/abs/2303.17580 [cs.CL] https://arxiv.org/abs/2303.17580"
+      },
+      {
+        "key": "e_1_3_3_3_106_2",
+        "unstructured": "Julia Simkus. 2023. Within-Subjects Design: Examples Pros & Cons. (2023). https://www.simplypsychology.org/within-subjects-design.html"
+      },
+      {
+        "key": "e_1_3_3_3_107_2",
+        "volume-title": "ICAPS Workshop on Scheduling and Planning Applications",
+        "author": "Simon Nisha",
+        "year": "2022",
+        "unstructured": "Nisha Simon and Christian Muise. 2022. TattleTale: storytelling with planning and large language models. In ICAPS Workshop on Scheduling and Planning Applications."
+      },
+      {
+        "key": "e_1_3_3_3_108_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Megan E Speer and Mauricio R Delgado. 2020. The social value of positive autobiographical memory retrieval. Journal of Experimental Psychology: General 149 4 (2020) 790.",
+        "DOI": "10.1037/xge0000671"
+      },
+      {
+        "key": "e_1_3_3_3_109_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ponnusamy Subramaniam Bob Woods and Chris Whitaker. 2014. Life review and life story books for people with mild to moderate dementia: a randomised controlled trial. Aging & mental health 18 3 (2014) 363–375.",
+        "DOI": "10.1080/13607863.2013.837144"
+      },
+      {
+        "key": "e_1_3_3_3_110_2",
+        "unstructured": "Weiwei Sun Pengjie Ren and Zhaochun Ren. 2023. Generative Knowledge Selection for Knowledge-Grounded Dialogues. arxiv:https://arXiv.org/abs/2304.04836 [cs.CL] https://arxiv.org/abs/2304.04836"
+      },
+      {
+        "key": "e_1_3_3_3_111_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/2021.eacl-demos.29"
+      },
+      {
+        "key": "e_1_3_3_3_112_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Reid Swanson and Andrew S. Gordon. 2012. Say Anything: Using Textual Case-Based Reasoning to Enable Open-Domain Interactive Storytelling. ACM Trans. Interact. Intell. Syst. 2 3 Article 16 (Sept. 2012) 35 pages. 10.1145/2362394.2362398",
+        "DOI": "10.1145/2362394.2362398"
+      },
+      {
+        "key": "e_1_3_3_3_113_2",
+        "unstructured": "Shayan Talaei Mohammadreza Pourreza Yu-Chen Chang Azalia Mirhoseini and Amin Saberi. 2024. CHESS: Contextual Harnessing for Efficient SQL Synthesis. arxiv:https://arXiv.org/abs/2405.16755 [cs.LG] https://arxiv.org/abs/2405.16755"
+      },
+      {
+        "key": "e_1_3_3_3_114_2",
+        "unstructured": "Gemini Team Petko Georgiev Ving Ian Lei Ryan Burnell Libin Bai Anmol Gulati Garrett Tanzer Damien Vincent Zhufeng Pan Shibo Wang et al. 2024. Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context. arXiv preprint arXiv:https://arXiv.org/abs/2403.05530 (2024)."
+      },
+      {
+        "key": "e_1_3_3_3_115_2",
+        "unstructured": "Khanh-Tung Tran Dung Dao Minh-Duong Nguyen Quoc-Viet Pham Barry O’Sullivan and Hoang D. Nguyen. 2025. Multi-Agent Collaboration Mechanisms: A Survey of LLMs. arxiv:https://arXiv.org/abs/2501.06322 [cs.AI] https://arxiv.org/abs/2501.06322"
+      },
+      {
+        "key": "e_1_3_3_3_116_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-031-60615-1_31"
+      },
+      {
+        "key": "e_1_3_3_3_117_2",
+        "volume-title": "Upwork: Freelance Services Platform",
+        "author": "Inc. Upwork Global",
+        "year": "2025",
+        "unstructured": "Upwork Global Inc.2025. Upwork: Freelance Services Platform. https://www.upwork.com"
+      },
+      {
+        "key": "e_1_3_3_3_118_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jussi Valtonen. 2022. The health benefits of autobiographical writing: An interdisciplinary perspective. The Medical/Health Humanities-Politics Programs and Pedagogies (2022) 193–211.",
+        "DOI": "10.1007/978-3-031-19227-2_13"
+      },
+      {
+        "key": "e_1_3_3_3_119_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Laura Villa David Carneros-Prado Cosmin C Dobrescu Adrián Sánchez-Miguel Guillermo Cubero and Ramón Hervás. 2024. Comparative analysis of generic and fine-tuned large language models for conversational agent systems. Robotics 13 5 (2024) 68.",
+        "DOI": "10.3390/robotics13050068"
+      },
+      {
+        "key": "e_1_3_3_3_120_2",
+        "volume-title": "The Thirteenth International Conference on Learning Representations",
+        "author": "Wang Jincheng",
+        "year": "2025",
+        "unstructured": "Jincheng Wang, Penny Karanasou, Pengyuan Wei, Elia Gatti, Diego Martinez Plasencia, and Dimitrios Kanoulas. 2025. Long-Short Decision Transformer: Bridging Global and Local Dependencies for Generalized Decision-Making. In The Thirteenth International Conference on Learning Representations. https://openreview.net/forum?id=NHMuM84tRT"
+      },
+      {
+        "key": "e_1_3_3_3_121_2",
+        "unstructured": "Yichen Wang Kevin Yang Xiaoming Liu and Dan Klein. 2023. Improving Pacing in Long-Form Story Planning. arxiv:https://arXiv.org/abs/2311.04459 [cs.CL] https://arxiv.org/abs/2311.04459"
+      },
+      {
+        "key": "e_1_3_3_3_122_2",
+        "unstructured": "Zhenhailong Wang Shaoguang Mao Wenshan Wu Tao Ge Furu Wei and Heng Ji. 2024. Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration. arxiv:https://arXiv.org/abs/2307.05300 [cs.AI] https://arxiv.org/abs/2307.05300"
+      },
+      {
+        "key": "e_1_3_3_3_123_2",
+        "unstructured": "Jason Wei Xuezhi Wang Dale Schuurmans Maarten Bosma Brian Ichter Fei Xia Ed Chi Quoc Le and Denny Zhou. 2023. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. arxiv:https://arXiv.org/abs/2201.11903 [cs.CL] https://arxiv.org/abs/2201.11903"
+      },
+      {
+        "key": "e_1_3_3_3_124_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581426"
+      },
+      {
+        "key": "e_1_3_3_3_125_2",
+        "unstructured": "Wikipedia contributors. 2025. Binomial proportion confidence interval — Wikipedia The Free Encyclopedia. https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval [Online; accessed 10-April-2025]."
+      },
+      {
+        "key": "e_1_3_3_3_126_2",
+        "unstructured": "Wikipedia contributors. 2025. Esther Duflo. Wikipedia The Free Encyclopedia. https://en.wikipedia.org/wiki/Esther_Duflo"
+      },
+      {
+        "key": "e_1_3_3_3_127_2",
+        "unstructured": "Wikipedia contributors. 2025. Jennifer Doudna. Wikipedia The Free Encyclopedia. https://en.wikipedia.org/wiki/Jennifer_Doudna"
+      },
+      {
+        "key": "e_1_3_3_3_128_2",
+        "unstructured": "Wikipedia contributors. 2025. Maggie Rogers. Wikipedia The Free Encyclopedia. https://en.wikipedia.org/wiki/Maggie_Rogers"
+      },
+      {
+        "key": "e_1_3_3_3_129_2",
+        "unstructured": "Wikipedia contributors. 2025. Ta-Nehisi Coates. Wikipedia The Free Encyclopedia. https://en.wikipedia.org/wiki/Ta-Nehisi_Coates"
+      },
+      {
+        "key": "e_1_3_3_3_130_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J Mark G Williams Thorsten Barnhofer Catherine Crane Dirk Herman Filip Raes Ed Watkins and Tim Dalgleish. 2007. Autobiographical memory specificity and emotional disorder. Psychological bulletin 133 1 (2007) 122.",
+        "DOI": "10.1037/0033-2909.133.1.122"
+      },
+      {
+        "key": "e_1_3_3_3_131_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5555/1695886"
+      },
+      {
+        "key": "e_1_3_3_3_132_2",
+        "unstructured": "Qingyun Wu Gagan Bansal Jieyu Zhang Yiran Wu Beibin Li Erkang Zhu Li Jiang Xiaoyun Zhang Shaokun Zhang Jiale Liu Ahmed Hassan Awadallah Ryen W White Doug Burger and Chi Wang. 2023. AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation. arxiv:https://arXiv.org/abs/2308.08155 [cs.AI] https://arxiv.org/abs/2308.08155"
+      },
+      {
+        "key": "e_1_3_3_3_133_2",
+        "unstructured": "Biwei Yan Kun Li Minghui Xu Yueyan Dong Yue Zhang Zhaochun Ren and Xiuzhen Cheng. 2024. On Protecting the Data Privacy of Large Language Models (LLMs): A Survey. arxiv:https://arXiv.org/abs/2403.05156 [cs.CR] https://arxiv.org/abs/2403.05156"
+      },
+      {
+        "key": "e_1_3_3_3_134_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1609/aaai.v33i01.33017378"
+      },
+      {
+        "key": "e_1_3_3_3_135_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Yifan Yao Jinhao Duan Kaidi Xu Yuanfang Cai Zhibo Sun and Yue Zhang. 2024. A survey on large language model (LLM) security and privacy: The Good The Bad and The Ugly. High-Confidence Computing 4 2 (June 2024) 100211. 10.1016/j.hcc.2024.100211",
+        "DOI": "10.1016/j.hcc.2024.100211"
+      },
+      {
+        "key": "e_1_3_3_3_136_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chunpeng Zhai Santoso Wibowo and Lily D Li. 2024. The effects of over-reliance on AI dialogue systems on students’ cognitive abilities: a systematic review. Smart Learning Environments 11 1 (2024) 28.",
+        "DOI": "10.1186/s40561-024-00316-7"
+      },
+      {
+        "key": "e_1_3_3_3_137_2",
+        "unstructured": "Bin Zhang Hangyu Mao Jingqing Ruan Ying Wen Yang Li Shao Zhang Zhiwei Xu Dapeng Li Ziyue Li Rui Zhao Lijuan Li and Guoliang Fan. 2024. Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach. arxiv:https://arXiv.org/abs/2311.13884 [cs.AI] https://arxiv.org/abs/2311.13884"
+      },
+      {
+        "key": "e_1_3_3_3_138_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/P18-1205"
+      },
+      {
+        "key": "e_1_3_3_3_139_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Saizheng Zhang Emily Dinan Jack Urbanek Arthur Szlam Douwe Kiela and Jason Weston. 2018. Personalizing Dialogue Agents: I have a dog do you have pets too? arxiv:https://arXiv.org/abs/1801.07243 [cs.AI] https://arxiv.org/abs/1801.07243",
+        "DOI": "10.18653/v1/P18-1205"
+      },
+      {
+        "key": "e_1_3_3_3_140_2",
+        "unstructured": "Yusen Zhang Ruoxi Sun Yanfei Chen Tomas Pfister Rui Zhang and Sercan Ö. Arik. 2024. Chain of Agents: Large Language Models Collaborating on Long-Context Tasks. arxiv:https://arXiv.org/abs/2406.02818 [cs.CL] https://arxiv.org/abs/2406.02818"
+      },
+      {
+        "key": "e_1_3_3_3_141_2",
+        "unstructured": "Zeyu Zhang Xiaohe Bo Chen Ma Rui Li Xu Chen Quanyu Dai Jieming Zhu Zhenhua Dong and Ji-Rong Wen. 2024. A Survey on the Memory Mechanism of Large Language Model based Agents. arxiv:https://arXiv.org/abs/2404.13501 [cs.AI] https://arxiv.org/abs/2404.13501"
+      },
+      {
+        "key": "e_1_3_3_3_142_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3517479"
+      },
+      {
+        "key": "e_1_3_3_3_143_2",
+        "unstructured": "Xuhui Zhou Hao Zhu Leena Mathur Ruohong Zhang Haofei Yu Zhengyang Qi Louis-Philippe Morency Yonatan Bisk Daniel Fried Graham Neubig and Maarten Sap. 2024. SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents. arxiv:https://arXiv.org/abs/2310.11667 [cs.AI] https://arxiv.org/abs/2310.11667"
+      }
+    ],
+    "event": {
+      "name": "UIST '25: The 38th Annual ACM Symposium on User Interface Software and Technology",
+      "location": "Busan Republic of Korea",
+      "acronym": "UIST '25",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction",
+        "SIGGRAPH ACM Special Interest Group on Computer Graphics and Interactive Techniques"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3746059.3747681",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3746059.3747681",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ],
+      "date-time": "2025-09-27T22:09:59Z",
+      "timestamp": 1759010999000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3746059.3747681"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ]
+    },
+    "references-count": 142,
+    "alternative-id": [
+      "10.1145/3746059.3747681",
+      "10.1145/3746059"
+    ],
+    "URL": "https://doi.org/10.1145/3746059.3747681",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-09-27",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

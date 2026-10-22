@@ -1,0 +1,1146 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ],
+      "date-time": "2026-10-15T18:15:57Z",
+      "timestamp": 1792088157391,
+      "version": "4.4.0"
+    },
+    "reference-count": 179,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "7",
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Proc. ACM Hum.-Comput. Interact."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Mutual reminiscence, defined as revisiting shared positive memories through reciprocal self-disclosure, strengthens emotional bonds, enhances well-being, and deepens intimacy. However, most technology-mediated reminiscence tools emphasize individual reflection or one-way storytelling, which overlooks the dynamic, interactive dialogue essential for meaningful mutual reminiscence. To address this limitation, we introduce Remini, a chatbot designed to support reciprocal self-disclosure between close partners such as couples, friends, or family members. Grounded in the Social Functions of Autobiographical Memory (SFAM) framework, Remini uses conversational AI to guide emotionally rich exchanges through five narrative phases: rapport building, memory narration, elaboration, reflection, and summary. In a mixed-method, both between- and within- subjects study (N = 48, 24 dyads), we compare Remini to a baseline chatbot that offers minimal memory-trigger prompts. Our findings show that structured guidance from Remini significantly improves positive affect, feeling of connection, and engagement. It also fosters more detailed narrative co-construction and greater reciprocal self-disclosure. Participant feedback highlights the practical value, perceived benefits, and design considerations of chatbot-mediated reminiscence. We contribute empirically grounded design implications for conversational agents that strengthen human connection through mutual reminiscence.</jats:p>",
+    "DOI": "10.1145/3757650",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ],
+      "date-time": "2025-10-16T17:06:01Z",
+      "timestamp": 1760634361000
+    },
+    "page": "1-43",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "<scp>Remini:</scp>\n                    Leveraging Chatbot-Mediated Mutual Reminiscence for Promoting Positive Affect and Feeling of Connectedness among Loved Ones"
+    ],
+    "prefix": "10.1145",
+    "volume": "9",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4296-0996",
+        "authenticated-orcid": false,
+        "given": "Zhuoqun",
+        "family": "Jiang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Singapore University of Technology and Design, Singapore, Singapore"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8067-3402",
+        "authenticated-orcid": false,
+        "given": "ShunYi",
+        "family": "Yeo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Singapore University of Technology and Design, Singapore, Singapore"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0009-6405-3631",
+        "authenticated-orcid": false,
+        "given": "Wei Xuan, Donovan",
+        "family": "Seow",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Singapore University of Technology and Design, Singapore, Singapore"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3105-9350",
+        "authenticated-orcid": false,
+        "given": "Simon Tangi",
+        "family": "Perrault",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Singapore University of Technology and Design, Singapore, Singapore"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_2_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741938207"
+      },
+      {
+        "key": "e_1_2_2_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1316"
+      },
+      {
+        "key": "e_1_2_2_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1528-3542.8.3.425"
+      },
+      {
+        "key": "e_1_2_2_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s21248448"
+      },
+      {
+        "key": "e_1_2_2_5_1",
+        "volume-title": "Social penetration: The development of interpersonal relationships. Holt",
+        "author": "Altman Irwin",
+        "unstructured": "Irwin Altman and Dalmas A Taylor. 1973. Social penetration: The development of interpersonal relationships. Holt, Rinehart & Winston, New York."
+      },
+      {
+        "key": "e_1_2_2_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642101"
+      },
+      {
+        "key": "e_1_2_2_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1124772.1124887"
+      },
+      {
+        "key": "e_1_2_2_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.copsyc.2023.101652"
+      },
+      {
+        "key": "e_1_2_2_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.63.4.596"
+      },
+      {
+        "key": "e_1_2_2_10_1",
+        "unstructured": "ATLAS.ti Scientific Software Development GmbH. 2023. ATLAS.ti Mac. Macintosh software. Available software for qualitative data analysis."
+      },
+      {
+        "key": "e_1_2_2_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3176349.3176380"
+      },
+      {
+        "key": "e_1_2_2_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/cpb.2006.9938"
+      },
+      {
+        "key": "e_1_2_2_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3434176"
+      },
+      {
+        "key": "e_1_2_2_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3640794.3665556"
+      },
+      {
+        "key": "e_1_2_2_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1958824.1958835"
+      },
+      {
+        "key": "e_1_2_2_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642783"
+      },
+      {
+        "key": "e_1_2_2_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.79.6.941"
+      },
+      {
+        "key": "e_1_2_2_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2017.1313990"
+      },
+      {
+        "key": "e_1_2_2_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0957926510373973"
+      },
+      {
+        "key": "e_1_2_2_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0144686X98006862"
+      },
+      {
+        "key": "e_1_2_2_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/1099-0720(200103/04)15:2<145::AID-ACP693>3.0.CO;2-T"
+      },
+      {
+        "key": "e_1_2_2_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13607860600963547"
+      },
+      {
+        "key": "e_1_2_2_23_1",
+        "volume-title": "Pennebaker",
+        "author": "Boyd Ryan L.",
+        "year": "2022",
+        "unstructured": "Ryan L. Boyd, Ashwini Ashokkumar, Sarah Seraj, and James W. Pennebaker. 2022. The development and psychometric properties of LIWC-22. Austin, TX: University of Texas at Austin, Vol. 10 (2022)."
+      },
+      {
+        "key": "e_1_2_2_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1191/1478088706qp063oa"
+      },
+      {
+        "key": "e_1_2_2_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5555/3495724.3495883"
+      },
+      {
+        "key": "e_1_2_2_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10902-005-3889-4"
+      },
+      {
+        "key": "e_1_2_2_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581427"
+      },
+      {
+        "key": "e_1_2_2_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jaging.2007.06.003"
+      },
+      {
+        "key": "e_1_2_2_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.erap.2005.02.014"
+      },
+      {
+        "key": "e_1_2_2_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3563657.3596020"
+      },
+      {
+        "key": "e_1_2_2_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581012"
+      },
+      {
+        "key": "e_1_2_2_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07370024.2015.1093422"
+      },
+      {
+        "key": "e_1_2_2_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.107.2.261"
+      },
+      {
+        "key": "e_1_2_2_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3701571.3701582"
+      },
+      {
+        "key": "e_1_2_2_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1718918.1718985"
+      },
+      {
+        "key": "e_1_2_2_36_1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hallford DJ Gerring K Button M Campbell R and Sutton K. 2024. A Randomized Controlled Component Study of Cognitive Reminiscence Therapy for Psychological Resources and Mental Well-Being: Group-Based CRT Versus Self-Guided Homework Sheets. Cognitive Therapy and Research (2024) 1-16. doi:10.1007/s10608-024-10554-1",
+        "DOI": "10.1007/s10608-024-10554-1"
+      },
+      {
+        "key": "e_1_2_2_37_1",
+        "volume-title": "Towards Academically Productive Talk Supported by Conversational Agents",
+        "author": "Dyke Gregory",
+        "unstructured": "Gregory Dyke, David Adamson, Iris Howley, and Carolyn Penstein Rosé. 2012. Towards Academically Productive Talk Supported by Conversational Agents. In Intelligent Tutoring Systems, Stefano A. Cerri, William J. Clancey, Giorgos Papadourakis, and Kitty Panourgia (Eds.). Springer Berlin Heidelberg, Berlin, Heidelberg, 531-540."
+      },
+      {
+        "key": "e_1_2_2_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/17439760.2024.2431684"
+      },
+      {
+        "key": "e_1_2_2_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.114.4.864"
+      },
+      {
+        "key": "e_1_2_2_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/ni.25.1.03fio"
+      },
+      {
+        "key": "e_1_2_2_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/mental.7785"
+      },
+      {
+        "key": "e_1_2_2_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00207594.2011.596541"
+      },
+      {
+        "key": "e_1_2_2_43_1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Robyn Fivush Catherine Haden Elaine Reese et al. 1996. Remembering recounting and reminiscing: The development of autobiographical memory in social context. In Remembering our past: Studies in autobiographical memory. Cambridge University Press Cambridge 341-359. doi:10.1017/CBO9780511527913.014",
+        "DOI": "10.1017/CBO9780511527913.014"
+      },
+      {
+        "key": "e_1_2_2_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0146167200265007"
+      },
+      {
+        "key": "e_1_2_2_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3173574.3174219"
+      },
+      {
+        "key": "e_1_2_2_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3641955"
+      },
+      {
+        "key": "e_1_2_2_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0044809"
+      },
+      {
+        "key": "e_1_2_2_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3563657.3596103"
+      },
+      {
+        "key": "e_1_2_2_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0092-6566(03)00046-1"
+      },
+      {
+        "key": "e_1_2_2_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642322"
+      },
+      {
+        "key": "e_1_2_2_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376824"
+      },
+      {
+        "key": "e_1_2_2_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00220221211072809"
+      },
+      {
+        "key": "e_1_2_2_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290607.3313075"
+      },
+      {
+        "key": "e_1_2_2_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2024.2333510"
+      },
+      {
+        "key": "e_1_2_2_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/aphw.12364"
+      },
+      {
+        "key": "e_1_2_2_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2015.1103875"
+      },
+      {
+        "key": "e_1_2_2_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chb.2017.01.051"
+      },
+      {
+        "key": "e_1_2_2_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41746-023-00979-5"
+      },
+      {
+        "key": "e_1_2_2_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2047196.2047206"
+      },
+      {
+        "key": "e_1_2_2_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2395131.2395137"
+      },
+      {
+        "key": "e_1_2_2_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijhcs.2022.102788"
+      },
+      {
+        "key": "e_1_2_2_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chb.2015.02.026"
+      },
+      {
+        "key": "e_1_2_2_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.plrev.2010.01.006"
+      },
+      {
+        "key": "e_1_2_2_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3322276.3322287"
+      },
+      {
+        "key": "e_1_2_2_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3580773"
+      },
+      {
+        "key": "e_1_2_2_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/12106"
+      },
+      {
+        "key": "e_1_2_2_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2466137"
+      },
+      {
+        "key": "e_1_2_2_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037//0022-3514.76.3.498"
+      },
+      {
+        "key": "e_1_2_2_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cgf.13980"
+      },
+      {
+        "key": "e_1_2_2_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cp.12068"
+      },
+      {
+        "key": "e_1_2_2_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642800"
+      },
+      {
+        "key": "e_1_2_2_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445688"
+      },
+      {
+        "key": "e_1_2_2_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1056808.1056958"
+      },
+      {
+        "key": "e_1_2_2_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03637750500322453"
+      },
+      {
+        "key": "e_1_2_2_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15267430903401441"
+      },
+      {
+        "key": "e_1_2_2_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376785"
+      },
+      {
+        "key": "e_1_2_2_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3449161"
+      },
+      {
+        "key": "e_1_2_2_78_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3532106.3533456"
+      },
+      {
+        "key": "e_1_2_2_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642937"
+      },
+      {
+        "key": "e_1_2_2_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3064663.3064672"
+      },
+      {
+        "key": "e_1_2_2_81_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2460625.2460656"
+      },
+      {
+        "key": "e_1_2_2_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2019.00558"
+      },
+      {
+        "key": "e_1_2_2_83_1",
+        "volume-title": "Ofek Gross, Dana Kulzhabayeva, and Joseph Jay Williams.",
+        "author": "Kumar Harsh",
+        "year": "2022",
+        "unstructured": "Harsh Kumar, Ilya Musabirov, Jiakai Shi, Adele Lauzon, Kwan Kiu Choy, Ofek Gross, Dana Kulzhabayeva, and Joseph Jay Williams. 2022. Exploring The Design of Prompts For Applying GPT-3 based Chatbots: A Mental Wellbeing Case Study on Mechanical Turk. arXiv:2209.11344 [cs.HC] https://arxiv.org/abs/2209.11344"
+      },
+      {
+        "key": "e_1_2_2_84_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544549.3585614"
+      },
+      {
+        "key": "e_1_2_2_85_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.87.2.228"
+      },
+      {
+        "key": "e_1_2_2_86_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/14614448221142007"
+      },
+      {
+        "key": "e_1_2_2_87_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315784250-10"
+      },
+      {
+        "key": "e_1_2_2_88_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037//0022-3514.74.5.1238"
+      },
+      {
+        "key": "e_1_2_2_89_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290605.3300932"
+      },
+      {
+        "key": "e_1_2_2_90_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376175"
+      },
+      {
+        "key": "e_1_2_2_91_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3301019.3323902"
+      },
+      {
+        "key": "e_1_2_2_92_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3567562"
+      },
+      {
+        "key": "e_1_2_2_93_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3610903"
+      },
+      {
+        "key": "e_1_2_2_94_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3555158"
+      },
+      {
+        "key": "e_1_2_2_95_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445200"
+      },
+      {
+        "key": "e_1_2_2_96_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-68288-0_8"
+      },
+      {
+        "key": "e_1_2_2_97_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1089-2680.5.2.100"
+      },
+      {
+        "key": "e_1_2_2_98_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290605.3300665"
+      },
+      {
+        "key": "e_1_2_2_99_1",
+        "volume-title": "Interrater reliability: the kappa statistic. Biochemia medica",
+        "author": "McHugh Mary L",
+        "year": "2012",
+        "unstructured": "Mary L McHugh. 2012. Interrater reliability: the kappa statistic. Biochemia medica, Vol. 22, 3 (2012), 276-282."
+      },
+      {
+        "key": "e_1_2_2_100_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210802215385"
+      },
+      {
+        "key": "e_1_2_2_101_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/02654075221122943"
+      },
+      {
+        "key": "e_1_2_2_102_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15326950DP3402_3"
+      },
+      {
+        "key": "e_1_2_2_103_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3678884.3681909"
+      },
+      {
+        "key": "e_1_2_2_104_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/191666.191703"
+      },
+      {
+        "key": "e_1_2_2_105_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3027063.3052756"
+      },
+      {
+        "key": "e_1_2_2_106_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3357236.3395438"
+      },
+      {
+        "key": "e_1_2_2_107_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2016.1179331"
+      },
+      {
+        "key": "e_1_2_2_108_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.72.3.678"
+      },
+      {
+        "key": "e_1_2_2_109_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1369118X.2015.1109697"
+      },
+      {
+        "key": "e_1_2_2_110_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3461778.3462143"
+      },
+      {
+        "key": "e_1_2_2_111_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.18.3.430"
+      },
+      {
+        "key": "e_1_2_2_112_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-4679(199910)55:10<1243::AID-JCLP6>3.0.CO;2-N"
+      },
+      {
+        "key": "e_1_2_2_113_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.chb.2022.107600"
+      },
+      {
+        "key": "e_1_2_2_114_1",
+        "unstructured": "Ethan Perez Douwe Kiela and Kyunghyun Cho. 2021. True Few-Shot Learning with Language Models. arXiv:2105.11447 [cs.CL] https://arxiv.org/abs/2105.11447"
+      },
+      {
+        "key": "e_1_2_2_115_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1753326.1753683"
+      },
+      {
+        "key": "e_1_2_2_116_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15267431.2013.743426"
+      },
+      {
+        "key": "e_1_2_2_117_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s43681-024-00419-4"
+      },
+      {
+        "key": "e_1_2_2_118_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1104"
+      },
+      {
+        "key": "e_1_2_2_119_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspi0000014"
+      },
+      {
+        "key": "e_1_2_2_120_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/01461672002610006"
+      },
+      {
+        "key": "e_1_2_2_121_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jretconser.2021.102610"
+      },
+      {
+        "key": "e_1_2_2_122_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijhcs.2021.102630"
+      },
+      {
+        "key": "e_1_2_2_123_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/MC.37.4.477"
+      },
+      {
+        "key": "e_1_2_2_124_1",
+        "unstructured": "H. T. Reis and P. Shaver. 1988. Intimacy as an interpersonal process. 367-389 pages."
+      },
+      {
+        "key": "e_1_2_2_125_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411763.3451760"
+      },
+      {
+        "key": "e_1_2_2_126_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00936502231221669"
+      },
+      {
+        "key": "e_1_2_2_127_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/spc3.12070"
+      },
+      {
+        "key": "e_1_2_2_128_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3579618"
+      },
+      {
+        "key": "e_1_2_2_129_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2190/DUGG-P24E-52WK-6CDG"
+      },
+      {
+        "key": "e_1_2_2_130_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581162"
+      },
+      {
+        "key": "e_1_2_2_131_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11229-016-1156-3"
+      },
+      {
+        "key": "e_1_2_2_132_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290605.3300680"
+      },
+      {
+        "key": "e_1_2_2_133_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642152"
+      },
+      {
+        "key": "e_1_2_2_134_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3641923"
+      },
+      {
+        "key": "e_1_2_2_135_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3580930"
+      },
+      {
+        "key": "e_1_2_2_136_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijhcs.2021.102601"
+      },
+      {
+        "key": "e_1_2_2_137_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/ni.21.2.08smo"
+      },
+      {
+        "key": "e_1_2_2_138_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jesp.2013.03.017"
+      },
+      {
+        "key": "e_1_2_2_139_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3517580"
+      },
+      {
+        "key": "e_1_2_2_140_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3479507"
+      },
+      {
+        "key": "e_1_2_2_141_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2014.971815"
+      },
+      {
+        "key": "e_1_2_2_142_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0261927X09351676"
+      },
+      {
+        "key": "e_1_2_2_143_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2016.00870"
+      },
+      {
+        "key": "e_1_2_2_144_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3173574.3173632"
+      },
+      {
+        "key": "e_1_2_2_145_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-30033-3_27"
+      },
+      {
+        "key": "e_1_2_2_146_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07370024.2021.1913415"
+      },
+      {
+        "key": "e_1_2_2_147_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1520340.1520458"
+      },
+      {
+        "key": "e_1_2_2_148_1",
+        "first-page": "294",
+        "volume-title": "Proceedings of the 14th ACM/IEEE International Conference on Human-Robot Interaction (Daegu, Republic of Korea) (HRI '19)",
+        "author": "Utami Dina",
+        "year": "2020",
+        "unstructured": "Dina Utami and Timothy Bickmore. 2020. Collaborative user responses in multiparty interaction with a couples counselor robot. In Proceedings of the 14th ACM/IEEE International Conference on Human-Robot Interaction (Daegu, Republic of Korea) (HRI '19). IEEE Press, Piscataway, NJ, 294-303."
+      },
+      {
+        "key": "e_1_2_2_149_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/16235"
+      },
+      {
+        "key": "e_1_2_2_150_1",
+        "unstructured": "Anthony J Viera Joanne M Garrett et al. 2005. Understanding interobserver agreement: the kappa statistic. Fam med Vol. 37 5 (2005) 360-363."
+      },
+      {
+        "key": "e_1_2_2_151_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3501861"
+      },
+      {
+        "key": "e_1_2_2_152_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3580763"
+      },
+      {
+        "key": "e_1_2_2_153_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3543829.3544527"
+      },
+      {
+        "key": "e_1_2_2_154_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2013.778293"
+      },
+      {
+        "key": "e_1_2_2_155_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.54.6.1063"
+      },
+      {
+        "key": "e_1_2_2_156_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13607860050008691"
+      },
+      {
+        "key": "e_1_2_2_157_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/geronj/48.5.p256"
+      },
+      {
+        "key": "e_1_2_2_158_1",
+        "volume-title": "The art and science of reminiscing",
+        "author": "Webster Jeffrey D",
+        "unstructured": "Jeffrey D Webster. 2013. Adult age differences in reminiscence functions. In The art and science of reminiscing. Taylor & Francis, New York, US, 89-102."
+      },
+      {
+        "key": "e_1_2_2_159_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2190/Q8V4-X5H0-6457-5442"
+      },
+      {
+        "key": "e_1_2_2_160_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1409240.1409338"
+      },
+      {
+        "key": "e_1_2_2_161_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jaging.2014.02.003"
+      },
+      {
+        "key": "e_1_2_2_162_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581426"
+      },
+      {
+        "key": "e_1_2_2_163_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/637069.637096"
+      },
+      {
+        "key": "e_1_2_2_164_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2020.01721"
+      },
+      {
+        "key": "e_1_2_2_165_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1978942.1978963"
+      },
+      {
+        "key": "e_1_2_2_166_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2019.03.002"
+      },
+      {
+        "key": "e_1_2_2_167_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/02654075241235962"
+      },
+      {
+        "key": "e_1_2_2_168_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2021.103119"
+      },
+      {
+        "key": "e_1_2_2_169_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/IJEFM-01-2023-0007"
+      },
+      {
+        "key": "e_1_2_2_170_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781315784250-10"
+      },
+      {
+        "key": "e_1_2_2_171_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642790"
+      },
+      {
+        "key": "e_1_2_2_172_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3654777.3676336"
+      },
+      {
+        "key": "e_1_2_2_173_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/emo0000650"
+      },
+      {
+        "key": "e_1_2_2_174_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3641940"
+      },
+      {
+        "key": "e_1_2_2_175_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3663548.3688521"
+      },
+      {
+        "key": "e_1_2_2_176_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581135"
+      },
+      {
+        "key": "e_1_2_2_177_1",
+        "volume-title": "So Kweon, and Choong Seon Hong.",
+        "author": "Zhang Chaoning",
+        "year": "2023",
+        "unstructured": "Chaoning Zhang, Chenshuang Zhang, Sheng Zheng, Yu Qiao, Chenghao Li, Mengchun Zhang, Sumit Kumar Dam, Chu Myaet Thwal, Ye Lin Tun, Le Luang Huy, Donguk kim, Sung-Ho Bae, Lik-Hang Lee, Yang Yang, Heng Tao Shen, In So Kweon, and Choong Seon Hong. 2023b. A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need? arXiv:2303.11717 [cs.AI] https://arxiv.org/abs/2303.11717"
+      },
+      {
+        "key": "e_1_2_2_178_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3479589"
+      },
+      {
+        "key": "e_1_2_2_179_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.35"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM on Human-Computer Interaction"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3757650",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          17
+        ]
+      ],
+      "date-time": "2025-10-17T01:52:53Z",
+      "timestamp": 1760665973000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3757650"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "references-count": 179,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            18
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1145/3757650"
+    ],
+    "URL": "https://doi.org/10.1145/3757650",
+    "relation": {},
+    "ISSN": [
+      "2573-0142"
+    ],
+    "issn-type": [
+      {
+        "value": "2573-0142",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-10-16",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ],
+      "date-time": "2026-10-15T18:16:17Z",
+      "timestamp": 1792088177022,
+      "version": "4.4.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 50,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              25
+            ]
+          ],
+          "date-time": "2025-04-25T00:00:00Z",
+          "timestamp": 1745539200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          26
+        ]
+      ]
+    },
+    "DOI": "10.1145/3706598.3713810",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2025-04-24T03:24:33Z",
+      "timestamp": 1745465073000
+    },
+    "page": "1-22",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "Chorus of the Past: Toward Designing a Multi-agent Conversational Reminiscence System with Digital Artifacts for Older Adults"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9737-1056",
+        "authenticated-orcid": false,
+        "given": "Jingwei",
+        "family": "Sun",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Lenovo Research, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-1232-004X",
+        "authenticated-orcid": false,
+        "given": "Zhongyue",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0004-5687-3190",
+        "authenticated-orcid": false,
+        "given": "Mengyang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0009-5266-8620",
+        "authenticated-orcid": false,
+        "given": "Nianlong",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lenovo Research, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-6610-8194",
+        "authenticated-orcid": false,
+        "given": "Zhangwei",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lenovo Research, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-4793-2959",
+        "authenticated-orcid": false,
+        "given": "Yan",
+        "family": "Xiang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6779-4920",
+        "authenticated-orcid": false,
+        "given": "Liuxin",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lenovo Research, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7298-1694",
+        "authenticated-orcid": false,
+        "given": "Yu",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Southeast University, Nanjing, China and Lenovo Research, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2058-2282",
+        "authenticated-orcid": false,
+        "given": "Qianying",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lenovo Research, Beijing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0356-4712",
+        "authenticated-orcid": false,
+        "given": "Mingming",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China and The Hong Kong University of Science and Technology, Hong Kong, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Alaa Abd-alrazaq Dari Alhuwail Eiman Al-Jafar Arfan Ahmed Farag Shuweihdi Shuja Mohd Reagu and Mowafa Househ. 2022. The Effectiveness of Serious Games in Improving Memory Among Older Adults With Cognitive Impairment: Systematic Review and Meta-analysis. JMIR Serious Games 10 3 (Aug. 2022) e35202. 10.2196/35202",
+        "DOI": "10.2196/35202"
+      },
+      {
+        "key": "e_1_3_3_2_3_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Arlene J. Astell Maggie P. Ellis Norman Alm Richard Dye and Gary Gowans. 2010. Stimulating people with dementia to reminisce using personal and generic photographs. International Journal of Computers in Healthcare 1 2 (2010) 177. 10.1504/IJCIH.2010.037461",
+        "DOI": "10.1504/IJCIH.2010.037461"
+      },
+      {
+        "key": "e_1_3_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3180308.3180330"
+      },
+      {
+        "key": "e_1_3_3_2_5_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Benett Axtell and Cosmin Munteanu. 2019. Back to Real Pictures: A Cross-generational Understanding of Users’ Mental Models of Photo Cloud Storage. Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies 3 3 (Sept. 2019) 1–24. 10.1145/3351232",
+        "DOI": "10.1145/3351232"
+      },
+      {
+        "key": "e_1_3_3_2_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290607.3313272"
+      },
+      {
+        "key": "e_1_3_3_2_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3517692"
+      },
+      {
+        "key": "e_1_3_3_2_8_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Steven Baker Ryan M. Kelly Jenny Waycott Romina Carrasco Roger Bell Zaher Joukhadar Thuong Hoang Elizabeth Ozanne and Frank Vetere. 2021. School’s Back: Scaffolding Reminiscence in Social Virtual Reality with Older Adults. Proceedings of the ACM on Human-Computer Interaction 4 CSCW3 (Jan. 2021) 1–25. 10.1145/3434176",
+        "DOI": "10.1145/3434176"
+      },
+      {
+        "key": "e_1_3_3_2_9_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ernst Bohlmeijer Marte Roemer Pim Cuijpers and Filip Smit. 2007. The effects of reminiscence on psychological well-being in older adults: A meta-analysis. Aging & Mental Health 11 3 (May 2007) 291–300. 10.1080/13607860600963547",
+        "DOI": "10.1080/13607860600963547"
+      },
+      {
+        "key": "e_1_3_3_2_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3372278.3391927"
+      },
+      {
+        "key": "e_1_3_3_2_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICASSP40776.2020.9053159"
+      },
+      {
+        "key": "e_1_3_3_2_12_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Jessie Chin Smit Desai Sheny (Cheng-Hsuan) Lin and Shannon Mejia. 2024. Like My Aunt Dorothy: Effects of Conversational Styles on Perceptions Acceptance and Metaphorical Descriptions of Voice Assistants during Later Adulthood. Proceedings of the ACM on Human-Computer Interaction 8 CSCW1 (April 2024) 1–21. 10.1145/3637365",
+        "DOI": "10.1145/3637365"
+      },
+      {
+        "key": "e_1_3_3_2_13_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Martin A. Conway. 2009. Episodic memories. Neuropsychologia 47 11 (Sept. 2009) 2305–2313. 10.1016/j.neuropsychologia.2009.02.003",
+        "DOI": "10.1016/j.neuropsychologia.2009.02.003"
+      },
+      {
+        "key": "e_1_3_3_2_14_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Maria Cotelli Rosa Manenti and Orazio Zanetti. 2012. Reminiscence therapy in dementia: A review. Maturitas 72 3 (July 2012) 203–205. 10.1016/j.maturitas.2012.04.008",
+        "DOI": "10.1016/j.maturitas.2012.04.008"
+      },
+      {
+        "key": "e_1_3_3_2_15_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sara J. Czaja Neil Charness Arthur D. Fisk Christopher Hertzog Sankaran N. Nair Wendy A. Rogers and Joseph Sharit. 2006. Factors predicting the use of technology: findings from the Center for Research and Education on Aging and Technology Enhancement (CREATE). Psychology and aging 21 2 (June 2006) 333–352. 10.1037/0882-7974.21.2.333Place: United States.",
+        "DOI": "10.1037/0882-7974.21.2.333"
+      },
+      {
+        "key": "e_1_3_3_2_16_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Burcu Demiray Marianne Mischler and Mike Martin. 2019. Reminiscence in Everyday Conversations: A Naturalistic Observation Study of Older Adults. The Journals of Gerontology: Series B 74 5 (June 2019) 745–755. 10.1093/geronb/gbx141",
+        "DOI": "10.1093/geronb/gbx141"
+      },
+      {
+        "key": "e_1_3_3_2_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/2023.acl-long.225"
+      },
+      {
+        "key": "e_1_3_3_2_18_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Smit Desai and Michael Twidale. 2023. Metaphors in Voice User Interfaces: A Slippery Fish. ACM Transactions on Computer-Human Interaction 30 6 (Dec. 2023) 1–37. 10.1145/3609326",
+        "DOI": "10.1145/3609326"
+      },
+      {
+        "key": "e_1_3_3_2_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-77080-8_27"
+      },
+      {
+        "key": "e_1_3_3_2_20_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "D Greenberg M Eacott D Brechin and D Rubin. 2005. Visual memory loss and autobiographical amnesia: a case study. Neuropsychologia 43 10 (2005) 1493–1502. 10.1016/j.neuropsychologia.2004.12.009",
+        "DOI": "10.1016/j.neuropsychologia.2004.12.009"
+      },
+      {
+        "key": "e_1_3_3_2_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-031-61281-7_24"
+      },
+      {
+        "key": "e_1_3_3_2_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613905.3650979"
+      },
+      {
+        "key": "e_1_3_3_2_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642800"
+      },
+      {
+        "key": "e_1_3_3_2_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445688"
+      },
+      {
+        "key": "e_1_3_3_2_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-29390-1_4"
+      },
+      {
+        "key": "e_1_3_3_2_26_2",
+        "first-page": "22199",
+        "volume-title": "Advances in Neural Information Processing Systems",
+        "volume": "35",
+        "author": "Kojima Takeshi",
+        "year": "2022",
+        "unstructured": "Takeshi Kojima, Shixiang (Shane) Gu, Machel Reid, Yutaka Matsuo, and Yusuke Iwasawa. 2022. Large Language Models are Zero-Shot Reasoners. In Advances in Neural Information Processing Systems , S. Koyejo, S. Mohamed, A. Agarwal, D. Belgrave, K. Cho, and A. Oh (Eds.), Vol. 35. Curran Associates, Inc., 22199–22213. https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf"
+      },
+      {
+        "key": "e_1_3_3_2_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642168"
+      },
+      {
+        "key": "e_1_3_3_2_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3477495.3532001"
+      },
+      {
+        "key": "e_1_3_3_2_29_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zisu Li Li Feng Chen Liang Yuru Huang and Mingming Fan. 2023. Exploring the Opportunities of AR for Enriching Storytelling with Family Photos between Grandparents and Grandchildren. Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies 7 3 (Sept. 2023) 1–26. 10.1145/3610903",
+        "DOI": "10.1145/3610903"
+      },
+      {
+        "key": "e_1_3_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Amna Liaqat Benett Axtell and Cosmin Munteanu. 2022. \"With a hint she will remember\": Collaborative Storytelling and Culture Sharing between Immigrant Grandparents and Grandchildren Via Magic Thing Designs. Proc. ACM Hum.-Comput. Interact. 6 CSCW2 Article 268 (nov 2022) 37 pages. 10.1145/3555158",
+        "DOI": "10.1145/3555158"
+      },
+      {
+        "key": "e_1_3_3_2_31_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Siân E. Lindley. 2012. Before I Forget: From Personal Memory to Family History. Human–Computer Interaction 27 1-2 (2012) 13–36. 10.1080/07370024.2012.656065",
+        "DOI": "10.1080/07370024.2012.656065"
+      },
+      {
+        "key": "e_1_3_3_2_32_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Dan P. McAdams Jeffrey Reynolds Martha Lewis Allison H. Patten and Phillip J. Bowman. 2001. When Bad Things Turn Good and Good Things Turn Bad: Sequences of Redemption and Contamination in Life Narrative and their Relation to Psychosocial Adaptation in Midlife Adults and in Students. Personality and Social Psychology Bulletin 27 4 (April 2001) 474–485. 10.1177/0146167201274008",
+        "DOI": "10.1177/0146167201274008"
+      },
+      {
+        "key": "e_1_3_3_2_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2441776.2441802"
+      },
+      {
+        "key": "e_1_3_3_2_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/2023.emnlp-main.814"
+      },
+      {
+        "key": "e_1_3_3_2_35_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gabriel Skantze. 2021. Turn-taking in Conversational Systems and Human-Robot Interaction: A Review. Computer Speech & Language 67 (2021) 101178. 10.1016/j.csl.2020.101178",
+        "DOI": "10.1016/j.csl.2020.101178"
+      },
+      {
+        "key": "e_1_3_3_2_36_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Wilson Tam Sum Nok Poon Rathi Mahendran Ee Heok Kua and Xi Vivien Wu. 2021. The effectiveness of reminiscence-based intervention on improving psychological well-being in cognitively intact older adults: A systematic review and meta-analysis. International Journal of Nursing Studies 114 (Feb. 2021) 103847. 10.1016/j.ijnurstu.2020.103847",
+        "DOI": "10.1016/j.ijnurstu.2020.103847"
+      },
+      {
+        "key": "e_1_3_3_2_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1377999.1378023"
+      },
+      {
+        "key": "e_1_3_3_2_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2470654.2466215"
+      },
+      {
+        "key": "e_1_3_3_2_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2212776.2223698"
+      },
+      {
+        "key": "e_1_3_3_2_40_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Seiki Tokunaga Kazuhiro Tamura and Mihoko Otake-Matsuura. 2021. A Dialogue-Based System with Photo and Storytelling for Older Adults: Toward Daily Cognitive Training. Frontiers in Robotics and AI 8 (June 2021) 644964. 10.3389/frobt.2021.644964",
+        "DOI": "10.3389/frobt.2021.644964"
+      },
+      {
+        "key": "e_1_3_3_2_41_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Xin Wang Juan Li Tianyi Liang Wordh Ul Hasan Kimia Tuz Zaman Yang Du Bo Xie and Cui Tao. 2024. Promoting Personalized Reminiscence Among Cognitively Intact Older Adults Through an AI-Driven Interactive Multimodal Photo Album: Development and Usability Study. JMIR aging 7 (Jan. 2024) e49415. 10.2196/49415",
+        "DOI": "10.2196/49415"
+      },
+      {
+        "key": "e_1_3_3_2_42_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "J. D. Webster. 1993. Construction and Validation of the Reminiscence Functions Scale. Journal of Gerontology 48 5 (Sept. 1993) P256–P262. 10.1093/geronj/48.5.P256",
+        "DOI": "10.1093/geronj/48.5.P256"
+      },
+      {
+        "key": "e_1_3_3_2_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581405"
+      },
+      {
+        "key": "e_1_3_3_2_44_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gerben J. Westerhof and Ernst T. Bohlmeijer. 2014. Celebrating fifty years of research and applications in reminiscence and life review: State of the art and new directions. Journal of Aging Studies 29 (April 2014) 107–114. 10.1016/j.jaging.2014.02.003",
+        "DOI": "10.1016/j.jaging.2014.02.003"
+      },
+      {
+        "key": "e_1_3_3_2_45_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Tim Wildschut Constantine Sedikides Jamie Arndt and Clay Routledge. 2006. Nostalgia: Content triggers functions. Journal of Personality and Social Psychology 91 5 (Nov. 2006) 975–993. 10.1037/0022-3514.91.5.975",
+        "DOI": "10.1037/0022-3514.91.5.975"
+      },
+      {
+        "key": "e_1_3_3_2_46_2",
+        "unstructured": "Shuai Yang Yuying Ge Yang Li Yukang Chen Yixiao Ge Ying Shan and Yingcong Chen. 2024. SEED-Story: Multimodal Long Story Generation with Large Language Model. arxiv:https://arXiv.org/abs/2407.08683 [cs.CV] https://arxiv.org/abs/2407.08683"
+      },
+      {
+        "key": "e_1_3_3_2_47_2",
+        "unstructured": "Shukang Yin Chaoyou Fu Sirui Zhao Ke Li Xing Sun Tong Xu and Enhong Chen. 2024. A Survey on Multimodal Large Language Models. arxiv:https://arXiv.org/abs/2306.13549 [cs.CV] https://arxiv.org/abs/2306.13549"
+      },
+      {
+        "key": "e_1_3_3_2_48_2",
+        "unstructured": "Chuanqi Zang Jiji Tang Rongsheng Zhang Zeng Zhao Tangjie Lv Mingtao Pei and Wei Liang. 2024. Let Storytelling Tell Vivid Stories: An Expressive and Fluent Multimodal Storyteller. arxiv:https://arXiv.org/abs/2403.07301 [cs.CV] https://arxiv.org/abs/2403.07301"
+      },
+      {
+        "key": "e_1_3_3_2_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642545"
+      },
+      {
+        "key": "e_1_3_3_2_50_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Zhongyue Zhang Lina Xu Xingkai Wang Xu Zhang and Mingming Fan. 2025. Understanding and Co-designing Photo-based Reminiscence with Older Adults. Proc. ACM Hum.-Comput. Interact. 9 2 Article CSCW196 (April 2025) 30 pages. 10.1145/3711094",
+        "DOI": "10.1145/3711094"
+      },
+      {
+        "key": "e_1_3_3_2_51_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3501855"
+      }
+    ],
+    "event": {
+      "name": "CHI 2025: CHI Conference on Human Factors in Computing Systems",
+      "location": "Yokohama Japan",
+      "acronym": "CHI '25",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3706598.3713810",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3706598.3713810",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2025-07-04T05:12:30Z",
+      "timestamp": 1751605950000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3706598.3713810"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          25
+        ]
+      ]
+    },
+    "references-count": 50,
+    "alternative-id": [
+      "10.1145/3706598.3713810",
+      "10.1145/3706598"
+    ],
+    "URL": "https://doi.org/10.1145/3706598.3713810",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-04-25",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

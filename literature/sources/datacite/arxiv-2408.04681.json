@@ -1,0 +1,241 @@
+{
+  "data": {
+    "id": "10.48550/arxiv.2408.04681",
+    "type": "dois",
+    "attributes": {
+      "doi": "10.48550/arxiv.2408.04681",
+      "prefix": "10.48550",
+      "suffix": "arxiv.2408.04681",
+      "identifiers": [
+        {
+          "identifier": "2408.04681",
+          "identifierType": "arXiv"
+        }
+      ],
+      "alternateIdentifiers": [
+        {
+          "alternateIdentifierType": "arXiv",
+          "alternateIdentifier": "2408.04681"
+        }
+      ],
+      "creators": [
+        {
+          "name": "Chan, Samantha",
+          "nameType": "Personal",
+          "givenName": "Samantha",
+          "familyName": "Chan",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Pataranutaporn, Pat",
+          "nameType": "Personal",
+          "givenName": "Pat",
+          "familyName": "Pataranutaporn",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Suri, Aditya",
+          "nameType": "Personal",
+          "givenName": "Aditya",
+          "familyName": "Suri",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Zulfikar, Wazeer",
+          "nameType": "Personal",
+          "givenName": "Wazeer",
+          "familyName": "Zulfikar",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Maes, Pattie",
+          "nameType": "Personal",
+          "givenName": "Pattie",
+          "familyName": "Maes",
+          "affiliation": [],
+          "nameIdentifiers": []
+        },
+        {
+          "name": "Loftus, Elizabeth F.",
+          "nameType": "Personal",
+          "givenName": "Elizabeth F.",
+          "familyName": "Loftus",
+          "affiliation": [],
+          "nameIdentifiers": []
+        }
+      ],
+      "titles": [
+        {
+          "title": "Conversational AI Powered by Large Language Models Amplifies False Memories in Witness Interviews"
+        }
+      ],
+      "publisher": "arXiv",
+      "container": {},
+      "publicationYear": 2024,
+      "subjects": [
+        {
+          "lang": "en",
+          "subject": "Computation and Language (cs.CL)",
+          "subjectScheme": "arXiv"
+        },
+        {
+          "lang": "en",
+          "subject": "Artificial Intelligence (cs.AI)",
+          "subjectScheme": "arXiv"
+        },
+        {
+          "lang": "en",
+          "subject": "Computers and Society (cs.CY)",
+          "subjectScheme": "arXiv"
+        },
+        {
+          "lang": "en",
+          "subject": "Human-Computer Interaction (cs.HC)",
+          "subjectScheme": "arXiv"
+        },
+        {
+          "subject": "FOS: Computer and information sciences",
+          "subjectScheme": "Fields of Science and Technology (FOS)"
+        },
+        {
+          "subject": "FOS: Computer and information sciences",
+          "schemeUri": "http://www.oecd.org/science/inno/38235147.pdf",
+          "subjectScheme": "Fields of Science and Technology (FOS)"
+        }
+      ],
+      "contributors": [],
+      "dates": [
+        {
+          "date": "2024-08-08T04:55:03Z",
+          "dateType": "Submitted",
+          "dateInformation": "v1"
+        },
+        {
+          "date": "2024-08-12T00:01:37Z",
+          "dateType": "Updated",
+          "dateInformation": "v1"
+        },
+        {
+          "date": "2024-08",
+          "dateType": "Available",
+          "dateInformation": "v1"
+        },
+        {
+          "date": "2024",
+          "dateType": "Issued"
+        }
+      ],
+      "language": null,
+      "types": {
+        "ris": "GEN",
+        "bibtex": "misc",
+        "citeproc": "article",
+        "schemaOrg": "CreativeWork",
+        "resourceType": "Article",
+        "resourceTypeGeneral": "Preprint"
+      },
+      "relatedIdentifiers": [],
+      "relatedItems": [],
+      "sizes": [],
+      "formats": [],
+      "version": "1",
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "This study examines the impact of AI on human false memories -- recollections of events that did not occur or deviate from actual occurrences. It explores false memory induction through suggestive questioning in Human-AI interactions, simulating crime witness interviews. Four conditions were tested: control, survey-based, pre-scripted chatbot, and generative chatbot using a large language model (LLM). Participants (N=200) watched a crime video, then interacted with their assigned AI interviewer or survey, answering questions including five misleading ones. False memories were assessed immediately and after one week. Results show the generative chatbot condition significantly increased false memory formation, inducing over 3 times more immediate false memories than the control and 1.7 times more than the survey method. 36.4% of users' responses to the generative chatbot were misled through the interaction. After one week, the number of false memories induced by generative chatbots remained constant. However, confidence in these false memories remained higher than the control after one week. Moderating factors were explored: users who were less familiar with chatbots but more familiar with AI technology, and more interested in crime investigations, were more susceptible to false memories. These findings highlight the potential risks of using advanced AI in sensitive contexts, like police interviews, emphasizing the need for ethical considerations.",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjMvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC40ODU1MC9BUlhJVi4yNDA4LjA0NjgxPC9pZGVudGlmaWVyPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJhclhpdiI+MjQwOC4wNDY4MTwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5DaGFuLCBTYW1hbnRoYTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+U2FtYW50aGE8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+Q2hhbjwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5QYXRhcmFudXRhcG9ybiwgUGF0PC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5QYXQ8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+UGF0YXJhbnV0YXBvcm48L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+U3VyaSwgQWRpdHlhPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5BZGl0eWE8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+U3VyaTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5adWxmaWthciwgV2F6ZWVyPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5XYXplZXI8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+WnVsZmlrYXI8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+TWFlcywgUGF0dGllPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5QYXR0aWU8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+TWFlczwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5Mb2Z0dXMsIEVsaXphYmV0aCBGLjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+RWxpemFiZXRoIEYuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkxvZnR1czwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+Q29udmVyc2F0aW9uYWwgQUkgUG93ZXJlZCBieSBMYXJnZSBMYW5ndWFnZSBNb2RlbHMgQW1wbGlmaWVzIEZhbHNlIE1lbW9yaWVzIGluIFdpdG5lc3MgSW50ZXJ2aWV3czwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5hclhpdjwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAyNDwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0IHhtbDpsYW5nPSJlbiIgc3ViamVjdFNjaGVtZT0iYXJYaXYiPkNvbXB1dGF0aW9uIGFuZCBMYW5ndWFnZSAoY3MuQ0wpPC9zdWJqZWN0PgogICAgPHN1YmplY3QgeG1sOmxhbmc9ImVuIiBzdWJqZWN0U2NoZW1lPSJhclhpdiI+QXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2UgKGNzLkFJKTwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHhtbDpsYW5nPSJlbiIgc3ViamVjdFNjaGVtZT0iYXJYaXYiPkNvbXB1dGVycyBhbmQgU29jaWV0eSAoY3MuQ1kpPC9zdWJqZWN0PgogICAgPHN1YmplY3QgeG1sOmxhbmc9ImVuIiBzdWJqZWN0U2NoZW1lPSJhclhpdiI+SHVtYW4tQ29tcHV0ZXIgSW50ZXJhY3Rpb24gKGNzLkhDKTwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHN1YmplY3RTY2hlbWU9IkZpZWxkcyBvZiBTY2llbmNlIGFuZCBUZWNobm9sb2d5IChGT1MpIj5GT1M6IENvbXB1dGVyIGFuZCBpbmZvcm1hdGlvbiBzY2llbmNlczwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJTdWJtaXR0ZWQiIGRhdGVJbmZvcm1hdGlvbj0idjEiPjIwMjQtMDgtMDhUMDQ6NTU6MDNaPC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiIGRhdGVJbmZvcm1hdGlvbj0idjEiPjIwMjQtMDgtMTJUMDA6MDE6MzdaPC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IkF2YWlsYWJsZSIgZGF0ZUluZm9ybWF0aW9uPSJ2MSI+MjAyNC0wODwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iUHJlcHJpbnQiPkFydGljbGU8L3Jlc291cmNlVHlwZT4KICA8dmVyc2lvbj4xPC92ZXJzaW9uPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzQuMC8iIHJpZ2h0c0lkZW50aWZpZXJTY2hlbWU9IlNQRFgiIHJpZ2h0c0lkZW50aWZpZXI9IkNDLUJZLTQuMCI+Q3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbDwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlRoaXMgc3R1ZHkgZXhhbWluZXMgdGhlIGltcGFjdCBvZiBBSSBvbiBodW1hbiBmYWxzZSBtZW1vcmllcyAtLSByZWNvbGxlY3Rpb25zIG9mIGV2ZW50cyB0aGF0IGRpZCBub3Qgb2NjdXIgb3IgZGV2aWF0ZSBmcm9tIGFjdHVhbCBvY2N1cnJlbmNlcy4gSXQgZXhwbG9yZXMgZmFsc2UgbWVtb3J5IGluZHVjdGlvbiB0aHJvdWdoIHN1Z2dlc3RpdmUgcXVlc3Rpb25pbmcgaW4gSHVtYW4tQUkgaW50ZXJhY3Rpb25zLCBzaW11bGF0aW5nIGNyaW1lIHdpdG5lc3MgaW50ZXJ2aWV3cy4gRm91ciBjb25kaXRpb25zIHdlcmUgdGVzdGVkOiBjb250cm9sLCBzdXJ2ZXktYmFzZWQsIHByZS1zY3JpcHRlZCBjaGF0Ym90LCBhbmQgZ2VuZXJhdGl2ZSBjaGF0Ym90IHVzaW5nIGEgbGFyZ2UgbGFuZ3VhZ2UgbW9kZWwgKExMTSkuIFBhcnRpY2lwYW50cyAoTj0yMDApIHdhdGNoZWQgYSBjcmltZSB2aWRlbywgdGhlbiBpbnRlcmFjdGVkIHdpdGggdGhlaXIgYXNzaWduZWQgQUkgaW50ZXJ2aWV3ZXIgb3Igc3VydmV5LCBhbnN3ZXJpbmcgcXVlc3Rpb25zIGluY2x1ZGluZyBmaXZlIG1pc2xlYWRpbmcgb25lcy4gRmFsc2UgbWVtb3JpZXMgd2VyZSBhc3Nlc3NlZCBpbW1lZGlhdGVseSBhbmQgYWZ0ZXIgb25lIHdlZWsuIFJlc3VsdHMgc2hvdyB0aGUgZ2VuZXJhdGl2ZSBjaGF0Ym90IGNvbmRpdGlvbiBzaWduaWZpY2FudGx5IGluY3JlYXNlZCBmYWxzZSBtZW1vcnkgZm9ybWF0aW9uLCBpbmR1Y2luZyBvdmVyIDMgdGltZXMgbW9yZSBpbW1lZGlhdGUgZmFsc2UgbWVtb3JpZXMgdGhhbiB0aGUgY29udHJvbCBhbmQgMS43IHRpbWVzIG1vcmUgdGhhbiB0aGUgc3VydmV5IG1ldGhvZC4gMzYuNCUgb2YgdXNlcnMnIHJlc3BvbnNlcyB0byB0aGUgZ2VuZXJhdGl2ZSBjaGF0Ym90IHdlcmUgbWlzbGVkIHRocm91Z2ggdGhlIGludGVyYWN0aW9uLiBBZnRlciBvbmUgd2VlaywgdGhlIG51bWJlciBvZiBmYWxzZSBtZW1vcmllcyBpbmR1Y2VkIGJ5IGdlbmVyYXRpdmUgY2hhdGJvdHMgcmVtYWluZWQgY29uc3RhbnQuIEhvd2V2ZXIsIGNvbmZpZGVuY2UgaW4gdGhlc2UgZmFsc2UgbWVtb3JpZXMgcmVtYWluZWQgaGlnaGVyIHRoYW4gdGhlIGNvbnRyb2wgYWZ0ZXIgb25lIHdlZWsuIE1vZGVyYXRpbmcgZmFjdG9ycyB3ZXJlIGV4cGxvcmVkOiB1c2VycyB3aG8gd2VyZSBsZXNzIGZhbWlsaWFyIHdpdGggY2hhdGJvdHMgYnV0IG1vcmUgZmFtaWxpYXIgd2l0aCBBSSB0ZWNobm9sb2d5LCBhbmQgbW9yZSBpbnRlcmVzdGVkIGluIGNyaW1lIGludmVzdGlnYXRpb25zLCB3ZXJlIG1vcmUgc3VzY2VwdGlibGUgdG8gZmFsc2UgbWVtb3JpZXMuIFRoZXNlIGZpbmRpbmdzIGhpZ2hsaWdodCB0aGUgcG90ZW50aWFsIHJpc2tzIG9mIHVzaW5nIGFkdmFuY2VkIEFJIGluIHNlbnNpdGl2ZSBjb250ZXh0cywgbGlrZSBwb2xpY2UgaW50ZXJ2aWV3cywgZW1waGFzaXppbmcgdGhlIG5lZWQgZm9yIGV0aGljYWwgY29uc2lkZXJhdGlvbnMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4=",
+      "url": "https://arxiv.org/abs/2408.04681",
+      "contentUrl": null,
+      "metadataVersion": 0,
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "source": "mds",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 2,
+      "citationsOverTime": [
+        {
+          "year": "2025",
+          "total": 2
+        }
+      ],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 0,
+      "created": "2024-08-12T01:23:38.000Z",
+      "registered": "2024-08-12T01:23:38.000Z",
+      "published": "2024",
+      "updated": "2025-01-04T10:04:42.000Z"
+    },
+    "relationships": {
+      "client": {
+        "data": {
+          "id": "arxiv.content",
+          "type": "clients"
+        }
+      },
+      "provider": {
+        "data": {
+          "id": "arxiv",
+          "type": "providers"
+        }
+      },
+      "media": {
+        "data": {
+          "id": "10.48550/arxiv.2408.04681",
+          "type": "media"
+        }
+      },
+      "references": {
+        "data": []
+      },
+      "citations": {
+        "data": [
+          {
+            "id": "10.57874/4gns-9f83",
+            "type": "dois"
+          },
+          {
+            "id": "10.57874/mq6c-ty60",
+            "type": "dois"
+          }
+        ]
+      },
+      "parts": {
+        "data": []
+      },
+      "partOf": {
+        "data": []
+      },
+      "versions": {
+        "data": []
+      },
+      "versionOf": {
+        "data": []
+      }
+    }
+  }
+}

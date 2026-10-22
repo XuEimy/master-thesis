@@ -1,0 +1,27 @@
+[
+  {
+    "pmcid": "PMC7741080",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7741080/fullTextXML",
+    "date": "2026-10-23",
+    "status": "failed",
+    "error": "HTTP Error 500: "
+  },
+  {
+    "pmcid": "PMC9296013",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9296013/fullTextXML",
+    "date": "2026-10-23",
+    "status": "全文获取，尚未核读",
+    "path": "sources/fulltext/PMC9296013.xml",
+    "parsed": "sources/fulltext/PMC9296013.json",
+    "paragraphs": 40
+  },
+  {
+    "pmcid": "PMC13679482",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13679482/fullTextXML",
+    "date": "2026-10-23",
+    "status": "全文获取，尚未核读",
+    "path": "sources/fulltext/PMC13679482.xml",
+    "parsed": "sources/fulltext/PMC13679482.json",
+    "paragraphs": 31
+  }
+]

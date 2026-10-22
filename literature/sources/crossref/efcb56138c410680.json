@@ -1,0 +1,345 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          28
+        ]
+      ],
+      "date-time": "2026-09-28T19:20:11Z",
+      "timestamp": 1790623211293,
+      "version": "4.1.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 22,
+    "publisher": "ACM",
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          16
+        ]
+      ]
+    },
+    "DOI": "10.1145/3708319.3733691",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          12
+        ]
+      ],
+      "date-time": "2025-06-12T15:17:00Z",
+      "timestamp": 1749741420000
+    },
+    "page": "114-119",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "The Kimono Era Has Long Passed: Generative AI-Assisted Reminiscence Therapy for Individuals with Late-Stage Dementia"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0009-2036-6185",
+        "authenticated-orcid": false,
+        "given": "Liuru",
+        "family": "Nan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Kyoto Institute of Technology, Kyoto, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4695-6417",
+        "authenticated-orcid": false,
+        "given": "Panote",
+        "family": "Siriaraya",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Kyoto Institute of Technology, Kyoto, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1549-5777",
+        "authenticated-orcid": false,
+        "given": "Wan Jou",
+        "family": "She",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Kyoto Institute of Technology, Kyoto, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4841-8321",
+        "authenticated-orcid": false,
+        "given": "Noriaki",
+        "family": "Kuwahara",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Kyoto Institute of Technology, Kyoto, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          12
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_1_2_2",
+        "unstructured": "Alzheimer’s Disease International. 2020. Dementia Facts and Figures. https://www.alzint.org/about/dementia-facts-figures/dementia-statistics/. Accessed: 2025-01-07."
+      },
+      {
+        "key": "e_1_3_3_1_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3442188.3445922"
+      },
+      {
+        "key": "e_1_3_3_1_4_2",
+        "unstructured": "Abeba Birhane Vinay Uday Prabhu and Emmanuel Kahembwe. 2021. Multimodal datasets: misogyny pornography and malignant stereotypes. arXiv preprint arXiv:https://arXiv.org/abs/2110.01963 (2021)."
+      },
+      {
+        "key": "e_1_3_3_1_5_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sabit Ekin. 2023. Prompt engineering for ChatGPT: a quick guide to techniques tips and best practices. Authorea Preprints (2023).",
+        "DOI": "10.36227/techrxiv.22683919"
+      },
+      {
+        "key": "e_1_3_3_1_6_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Teuntje R Elfrink Sytse U Zuidema Miriam Kunz and Gerben J Westerhof. 2018. Life story books for people with dementia: a systematic review. International Psychogeriatrics 30 12 (2018) 1797–1811.",
+        "DOI": "10.1017/S1041610218000376"
+      },
+      {
+        "key": "e_1_3_3_1_7_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Claire Ferguson Marcia Y Shade Julie Blaskewicz Boron Elizabeth Lyden and Natalie A Manley. 2020. Virtual reality for therapeutic recreation in dementia hospice care: A feasibility study. American Journal of Hospice and Palliative Medicine® 37 10 (2020) 809–815.",
+        "DOI": "10.1177/1049909120901525"
+      },
+      {
+        "key": "e_1_3_3_1_8_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Annelie K Gusdal and Christine Gustafsson. 2020. Virtual reality in the care of people with dementia: A single-case research study. Journal of Patient Care and Services 1 1 (2020) 4–31.",
+        "DOI": "10.21926/obm.geriatr.2002114"
+      },
+      {
+        "key": "e_1_3_3_1_9_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jose Guzman-Parra Pilar Barnestein-Fonseca Gloria Guerrero-Pertiñez Peter Anderberg Luis Jimenez-Fernandez Esperanza Valero-Moreno Jessica Marian Goodman-Casanova Antonio Cuesta-Vargas Maite Garolera Maria Quintana et al. 2020. Attitudes and use of information and communication technologies in older adults with mild cognitive impairment or early stages of dementia and their caregivers: cross-sectional study. Journal of medical Internet research 22 6 (2020) e17253.",
+        "DOI": "10.2196/17253"
+      },
+      {
+        "key": "e_1_3_3_1_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-40483-2_46"
+      },
+      {
+        "key": "e_1_3_3_1_11_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Keynes Masayoshi Kanno Edgard Afonso Lamounier Jr Alexandre Cardoso Ederaldo José Lopes and Saadallah Azor Fakhouri Filho. 2019. Assisting individuals with Alzheimer’s disease using mobile augmented reality with voice interaction: an acceptance experiment with individuals in the early stages. Research on Biomedical Engineering 35 (2019) 223–234.",
+        "DOI": "10.1007/s42600-019-00025-y"
+      },
+      {
+        "key": "e_1_3_3_1_12_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth A Laird Assumpta Ryan Claire McCauley Raymond B Bond Maurice D Mulvenna Kevin J Curran Brendan Bunting Finola Ferry and Aideen Gibson. 2018. Using mobile technology to provide personalized reminiscence for people living with dementia and their carers: appraisal of outcomes from a quasi-experimental study. JMIR mental health 5 3 (2018) e9684.",
+        "DOI": "10.2196/mental.9684"
+      },
+      {
+        "key": "e_1_3_3_1_13_2",
+        "unstructured": "Mozilla Developer Network. 2025. Web Speech API. https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API. Accessed: 2025-05-02."
+      },
+      {
+        "key": "e_1_3_3_1_14_2",
+        "volume-title": "Proceedings of the 216th Human Interface Society Research Meeting (SIG-ACI-34)",
+        "author": "Nan Liuru",
+        "year": "2024",
+        "unstructured": "Liuru Nan, Panote Siriaraya, and Noriaki Kuwahara. 2024. Examining the Use of Generative AI Technologies to Enhance Therapeutic Care for People with Dementia Care. In Proceedings of the 216th Human Interface Society Research Meeting (SIG-ACI-34). Accepted for publication."
+      },
+      {
+        "key": "e_1_3_3_1_15_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Javier Olazarán Barry Reisberg Linda Clare Isabel Cruz Jordi Peña-Casanova Teodoro Del Ser Bob Woods Cornelia Beck Stefanie Auer Claudia Lai et al. 2010. Nonpharmacological therapies in Alzheimer’s disease: a systematic review of efficacy. Dementia and geriatric cognitive disorders 30 2 (2010) 161–178.",
+        "DOI": "10.1159/000316119"
+      },
+      {
+        "key": "e_1_3_3_1_16_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sandeep Reddy. 2024. Generative AI in healthcare: an implementation science informed translational path on application integration and governance. Implementation Science 19 1 (2024) 27.",
+        "DOI": "10.1186/s13012-024-01357-9"
+      },
+      {
+        "key": "e_1_3_3_1_17_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Paola Ricaurte. 2022. Ethics for the majority world: AI and the question of violence at scale. Media Culture & Society 44 4 (2022) 726–745.",
+        "DOI": "10.1177/01634437221099612"
+      },
+      {
+        "key": "e_1_3_3_1_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2556288.2557035"
+      },
+      {
+        "key": "e_1_3_3_1_19_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Susan Slaughter Dixie Cole Eileen Jennings and Marlene A Reimer. 2007. Consent and assent to participate in research from people with dementia. Nursing Ethics 14 1 (2007) 27–40.",
+        "DOI": "10.1177/0969733007071355"
+      },
+      {
+        "key": "e_1_3_3_1_20_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Maho Tominari Ryuji Uozumi Carl Becker and Ayae Kinoshita. 2021. Reminiscence therapy using virtual reality technology affects cognitive function and subjective well-being in older adults with dementia. Cogent Psychology 8 1 (2021) 1968991.",
+        "DOI": "10.1080/23311908.2021.1968991"
+      },
+      {
+        "key": "e_1_3_3_1_21_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xin Wang Juan Li Tianyi Liang Wordh Ul Hasan Kimia Tuz Zaman Yang Du Bo Xie Cui Tao et al. 2024. Promoting Personalized Reminiscence Among Cognitively Intact Older Adults Through an AI-Driven Interactive Multimodal Photo Album: Development and Usability Study. JMIR aging 7 1 (2024) e49415.",
+        "DOI": "10.2196/49415"
+      },
+      {
+        "key": "e_1_3_3_1_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642538"
+      },
+      {
+        "key": "e_1_3_3_1_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-90525-5_37"
+      }
+    ],
+    "event": {
+      "name": "UMAP '25: 33rd ACM Conference on User Modeling, Adaptation and Personalization",
+      "location": "New York City USA",
+      "acronym": "UMAP '25",
+      "sponsor": [
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction",
+        "SIGWEB ACM Special Interest Group on Hypertext, Hypermedia, and Web"
+      ]
+    },
+    "container-title": [
+      "Adjunct Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3708319.3733691",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          28
+        ]
+      ],
+      "date-time": "2025-06-28T11:16:45Z",
+      "timestamp": 1751109405000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3708319.3733691"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          12
+        ]
+      ]
+    },
+    "references-count": 22,
+    "alternative-id": [
+      "10.1145/3708319.3733691",
+      "10.1145/3708319"
+    ],
+    "URL": "https://doi.org/10.1145/3708319.3733691",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-06-12",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

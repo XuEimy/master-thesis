@@ -1,0 +1,866 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          20
+        ]
+      ],
+      "date-time": "2026-10-20T11:49:27Z",
+      "timestamp": 1792496967566,
+      "version": "4.5.0"
+    },
+    "reference-count": 99,
+    "publisher": "Cambridge University Press (CUP)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              27
+            ]
+          ],
+          "date-time": "2025-10-27T00:00:00Z",
+          "timestamp": 1761523200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 299,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004359",
+        "name": "Vetenskapsrådet",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2023-05754"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2023-05754"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004359",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mem. Mind &amp; Media"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Artificial Intelligence (AI) has reached memory studies in earnest. This partly reflects the hype around recent developments in generative AI (genAI), machine learning, and large language models (LLMs). But how can memory studies scholars handle this hype? Focusing on genAI applications, in particular so-called ‘chatbots’ (transformer-based instruction-tuned text generators), this commentary highlights five areas of critique that can help memory scholars to critically interrogate AI’s implications for their field. These are: (1)\n                    <jats:italic>historical critiques</jats:italic>\n                    that complicate AI’s common historical narrative and historicize genAI; (2)\n                    <jats:italic>technical critiques</jats:italic>\n                    that highlight how genAI applications are designed and function; (3)\n                    <jats:italic>praxis critiques</jats:italic>\n                    that centre on how people use genAI; (4)\n                    <jats:italic>geopolitical critiques</jats:italic>\n                    that recognize how international power dynamics shape the uneven global distribution of genAI and its consequences; and (5)\n                    <jats:italic>environmental critiques</jats:italic>\n                    that foreground genAI’s ecological impact. For each area, we highlight debates and themes that we argue should be central to the ongoing study of genAI and memory. We do this from an interdisciplinary perspective that combines our knowledge of digital sociology, media studies, literary and cultural studies, cognitive psychology, and communication and computer science. We conclude with a methodological provocation and by reflecting on our own role in the hype we are seeking to dispel.\n                  </jats:p>",
+    "DOI": "10.1017/mem.2025.10018",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2025-10-27T07:08:01Z",
+      "timestamp": 1761548881000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Handling the hype: Demystifying artificial intelligence for memory studies"
+    ],
+    "prefix": "10.1017",
+    "volume": "4",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9572-5922",
+        "authenticated-orcid": false,
+        "given": "Samuel",
+        "family": "Merrill",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/05kb8h459",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Umeå University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7143-5317",
+        "authenticated-orcid": false,
+        "given": "Mykola",
+        "family": "Makhortykh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/02k7v4d05",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Bern"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Silvana",
+        "family": "Mandolessi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/05f950310",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "KU Leuven"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5298-8810",
+        "authenticated-orcid": false,
+        "given": "Victoria Grace",
+        "family": "Richardson-Walden",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/00ayhx656",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Sussex"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9235-6869",
+        "authenticated-orcid": false,
+        "given": "Rik",
+        "family": "Smit",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/012p63287",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Groningen"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2404-2585",
+        "authenticated-orcid": false,
+        "given": "Qi",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/05bnh6r87",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Cornell University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "56",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "S2635023825100180_r75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5749/minnesota/9780816695515.001.0001"
+      },
+      {
+        "key": "S2635023825100180_r96",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.2408.08778"
+      },
+      {
+        "key": "S2635023825100180_r71",
+        "volume-title": "The Quest for Artificial Intelligence: A History of Ideas and Achievements",
+        "author": "Nilsson",
+        "year": "2010"
+      },
+      {
+        "key": "S2635023825100180_r58",
+        "first-page": "25",
+        "volume-title": "Memory and Methodology",
+        "author": "Locke",
+        "year": "2000"
+      },
+      {
+        "key": "S2635023825100180_r42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2024.16"
+      },
+      {
+        "key": "S2635023825100180_r57",
+        "volume-title": "Critical Theory of AI",
+        "author": "Lindgren",
+        "year": "2024"
+      },
+      {
+        "key": "S2635023825100180_r76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2024.21"
+      },
+      {
+        "key": "S2635023825100180_r16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00146-024-02114-8"
+      },
+      {
+        "key": "S2635023825100180_r41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2024.16"
+      },
+      {
+        "key": "S2635023825100180_r85",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/mind/LIX.236.433"
+      },
+      {
+        "key": "S2635023825100180_r14",
+        "volume-title": "Atlas of AI",
+        "author": "Crawford",
+        "year": "2021"
+      },
+      {
+        "key": "S2635023825100180_r98",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.2407.18525"
+      },
+      {
+        "key": "S2635023825100180_r50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem2025.10006"
+      },
+      {
+        "key": "S2635023825100180_r28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13347-024-00817-w"
+      },
+      {
+        "key": "S2635023825100180_r11",
+        "volume-title": "AI Narratives: A History of Imaginative Thinking about Intelligent Machines",
+        "author": "Cave",
+        "year": "2024"
+      },
+      {
+        "key": "S2635023825100180_r17",
+        "volume-title": "ACM CHI Conference on Human Factors in Computing - CHI 22 Workshop: CHI ‘22 Workshop: Reimagining Systems for Learning Hands-on Creative and Maker Skills",
+        "author": "Dixon",
+        "year": "2022"
+      },
+      {
+        "key": "S2635023825100180_r67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4337/9781803928562.00020"
+      },
+      {
+        "key": "S2635023825100180_r7",
+        "volume-title": "Planetary Memory in Contemporary American Fiction",
+        "author": "Bond",
+        "year": "2018"
+      },
+      {
+        "key": "S2635023825100180_r21",
+        "first-page": "17",
+        "article-title": "Does explainability require transparency?",
+        "volume": "16",
+        "author": "Esposito",
+        "year": "2022",
+        "journal-title": "Sociologica"
+      },
+      {
+        "key": "S2635023825100180_r74",
+        "article-title": "Influencing machines: Trevor Paglen and Anthony Downey",
+        "volume": "6",
+        "author": "Paglen",
+        "year": "2023",
+        "journal-title": "Digital War"
+      },
+      {
+        "key": "S2635023825100180_r23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-22341-0_47"
+      },
+      {
+        "key": "S2635023825100180_r78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0163443714532980"
+      },
+      {
+        "key": "S2635023825100180_r39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698013496197"
+      },
+      {
+        "key": "S2635023825100180_r19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/29498902-20240002"
+      },
+      {
+        "key": "S2635023825100180_r3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/dint_a_00235"
+      },
+      {
+        "key": "S2635023825100180_r10",
+        "volume-title": "Unmasking AI: My Mission to Protect What Is Human in a World of Machines",
+        "author": "Buolamwini",
+        "year": "2023"
+      },
+      {
+        "key": "S2635023825100180_r8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/SP40001.2021.00019"
+      },
+      {
+        "key": "S2635023825100180_r31",
+        "volume-title": "The Order of Things: An Archaeology of the Human Sciences",
+        "author": "Foucault",
+        "year": "1994"
+      },
+      {
+        "key": "S2635023825100180_r43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/mac0000199"
+      },
+      {
+        "key": "S2635023825100180_r32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4135/9781446270066"
+      },
+      {
+        "key": "S2635023825100180_r47",
+        "volume-title": "America’s AI Strategy: Playing Defense while China Plays to Win",
+        "author": "Kennedy",
+        "year": "2025"
+      },
+      {
+        "key": "S2635023825100180_r51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4337/9781803928562.00023"
+      },
+      {
+        "key": "S2635023825100180_r34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/17506980231202338"
+      },
+      {
+        "key": "S2635023825100180_r29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/heritage7110287"
+      },
+      {
+        "key": "S2635023825100180_r12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/596640"
+      },
+      {
+        "key": "S2635023825100180_r68",
+        "volume-title": "Hybrid Memory: Mnemonic Practices and Agencies in a Post-Digital World",
+        "author": "Merrill",
+        "year": "Forthcoming"
+      },
+      {
+        "key": "S2635023825100180_r2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/20539517231166887"
+      },
+      {
+        "key": "S2635023825100180_r83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1470357221992097"
+      },
+      {
+        "key": "S2635023825100180_r13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1201/9781003214892"
+      },
+      {
+        "key": "S2635023825100180_r25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5840/jcp202411652"
+      },
+      {
+        "key": "S2635023825100180_r4",
+        "volume-title": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency",
+        "author": "Bender",
+        "year": "2021"
+      },
+      {
+        "key": "S2635023825100180_r48",
+        "article-title": "‘ELIZA,’ the World’s 1st Chatbot, was just resurrected from 60-year-old computer code",
+        "author": "Kilgrove",
+        "year": "2025",
+        "journal-title": "Live Science"
+      },
+      {
+        "key": "S2635023825100180_r88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.16997/book55"
+      },
+      {
+        "key": "S2635023825100180_r72",
+        "article-title": "OpenAI’s new defense contract completes its military pivot",
+        "author": "O’ Donnell",
+        "year": "2024",
+        "journal-title": "MIT Technology Review"
+      },
+      {
+        "key": "S2635023825100180_r89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/29498902-202400017"
+      },
+      {
+        "key": "S2635023825100180_r90",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2018.12.005"
+      },
+      {
+        "key": "S2635023825100180_r27",
+        "first-page": "292",
+        "article-title": "Who knows what? Knowledge misattribution in the division of cognitive labor",
+        "volume": "27",
+        "author": "Fisher",
+        "year": "2021",
+        "journal-title": "Journal of Experimental Psychology: Applied"
+      },
+      {
+        "key": "S2635023825100180_r77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.artint.2011.01.006"
+      },
+      {
+        "key": "S2635023825100180_r40",
+        "first-page": "13",
+        "volume-title": "Memory in a Mediated World",
+        "author": "Hoskins",
+        "year": "2015"
+      },
+      {
+        "key": "S2635023825100180_r26",
+        "unstructured": "Feakin, T (2025) A.I. geopolitics beyond the U.S.-China Rivalry: The role of the global south. Aspen Digital. Available at https://www.aspendigital.org/blog/ai-geopolitics-beyond-the-us-china-rivalry/."
+      },
+      {
+        "key": "S2635023825100180_r54",
+        "volume-title": "Science in Action: How to Follow Scientists and Engineers through Society",
+        "author": "Latour",
+        "year": "1987"
+      },
+      {
+        "key": "S2635023825100180_r44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tbench.2023.100105"
+      },
+      {
+        "key": "S2635023825100180_r53",
+        "volume-title": "The Geopolitics of AI and the Rise of Digital Sovereignty",
+        "author": "Larsen",
+        "year": "2022"
+      },
+      {
+        "key": "S2635023825100180_r15",
+        "unstructured": "Crawford, K and Joler, V (2018) Anatomy of an AI system. Available at https://anatomyof.ai/ (accessed 29 April 2025)."
+      },
+      {
+        "key": "S2635023825100180_r22",
+        "unstructured": "EU (2024) The European Union Artificial Intelligence Act. Available at http://data.europa.eu/eli/reg/2024/1689/oj."
+      },
+      {
+        "key": "S2635023825100180_r37",
+        "author": "Hennekeuser",
+        "year": "2024",
+        "journal-title": "International Journal of Artificial Intelligence in Education"
+      },
+      {
+        "key": "S2635023825100180_r60",
+        "volume-title": "Technocolonialism: When Technology for Good Is Harmful",
+        "author": "Madianou",
+        "year": "2025"
+      },
+      {
+        "key": "S2635023825100180_r64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s43681-024-00461-2"
+      },
+      {
+        "key": "S2635023825100180_r69",
+        "volume-title": "The Society of Mind",
+        "author": "Minsky",
+        "year": "1986"
+      },
+      {
+        "key": "S2635023825100180_r91",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2021.6"
+      },
+      {
+        "key": "S2635023825100180_r93",
+        "volume-title": "Computer Power and Human Reason: From Judgment to Calculation",
+        "author": "Weizenbaum",
+        "year": "1976"
+      },
+      {
+        "key": "S2635023825100180_r81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/29498902-202400012"
+      },
+      {
+        "key": "S2635023825100180_r55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00146-024-02099-4"
+      },
+      {
+        "key": "S2635023825100180_r24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00146-018-0821-0"
+      },
+      {
+        "key": "S2635023825100180_r101",
+        "first-page": "173",
+        "volume-title": "Handbook of Critical Studies of Artificial Intelligence",
+        "author": "Foka",
+        "year": "2023"
+      },
+      {
+        "key": "S2635023825100180_r66",
+        "first-page": "12",
+        "article-title": "A proposal for the Dartmouth summer research project on artificial intelligence, August 31, 1955",
+        "volume": "27",
+        "author": "McCarthy",
+        "year": "2006",
+        "journal-title": "AI Magazine"
+      },
+      {
+        "key": "S2635023825100180_r5",
+        "volume-title": "Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency",
+        "author": "Birhane",
+        "year": "2022"
+      },
+      {
+        "key": "S2635023825100180_r20",
+        "volume-title": "Digital Memory and the Archive",
+        "author": "Ernst",
+        "year": "2013"
+      },
+      {
+        "key": "S2635023825100180_r61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/21670811.2025.2522281"
+      },
+      {
+        "key": "S2635023825100180_r49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/llc/fqaa055"
+      },
+      {
+        "key": "S2635023825100180_r65",
+        "volume-title": "Greening the Media",
+        "author": "Maxwell",
+        "year": "2012"
+      },
+      {
+        "key": "S2635023825100180_r99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s43681-024-00474-x"
+      },
+      {
+        "key": "S2635023825100180_r45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/2020.acl-main.560"
+      },
+      {
+        "key": "S2635023825100180_r46",
+        "first-page": "268",
+        "volume-title": "The Routledge Companion to the Environmental Humanities",
+        "author": "Kennedy",
+        "year": "2017"
+      },
+      {
+        "key": "S2635023825100180_r79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/29498902-202400016"
+      },
+      {
+        "key": "S2635023825100180_r95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3488666"
+      },
+      {
+        "key": "S2635023825100180_r6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4337/9781803928562.00016"
+      },
+      {
+        "key": "S2635023825100180_r33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/29498902-202400019"
+      },
+      {
+        "key": "S2635023825100180_r84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.adk0176"
+      },
+      {
+        "key": "S2635023825100180_r87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/RTI.0000000000000485"
+      },
+      {
+        "key": "S2635023825100180_r86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tele.2024.102211"
+      },
+      {
+        "key": "S2635023825100180_r73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4337/9781803928562.00040"
+      },
+      {
+        "key": "S2635023825100180_r1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4337/9781803928562.00056"
+      },
+      {
+        "key": "S2635023825100180_r70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780190080365.001.0001"
+      },
+      {
+        "key": "S2635023825100180_r59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/17506980241276421"
+      },
+      {
+        "key": "S2635023825100180_r18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2023.1199058"
+      },
+      {
+        "key": "S2635023825100180_r80",
+        "article-title": "It’s interesting because",
+        "author": "Salvaggio",
+        "year": "2025",
+        "journal-title": "Cybernetic Forests"
+      },
+      {
+        "key": "S2635023825100180_r9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7551/mitpress/14234.001.0001"
+      },
+      {
+        "key": "S2635023825100180_r35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/29498902-20240004"
+      },
+      {
+        "key": "S2635023825100180_r36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3625833"
+      },
+      {
+        "key": "S2635023825100180_r38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13534645.2011.605573"
+      },
+      {
+        "key": "S2635023825100180_r52",
+        "volume-title": "Ten Arguments for Deleting your Social Media Accounts Right Now",
+        "author": "Lanier",
+        "year": "2018"
+      },
+      {
+        "key": "S2635023825100180_r100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pra2.275"
+      },
+      {
+        "key": "S2635023825100180_r82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1163/29498902-202400015"
+      },
+      {
+        "key": "S2635023825100180_r56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4337/9781803928562"
+      },
+      {
+        "key": "S2635023825100180_r62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2024.2"
+      },
+      {
+        "key": "S2635023825100180_r63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/17506980231204201"
+      },
+      {
+        "key": "S2635023825100180_r94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.2302.11382"
+      },
+      {
+        "key": "S2635023825100180_r92",
+        "volume-title": "The Remaking of Memory in the Age of the Internet and Social Media",
+        "author": "Wang",
+        "year": "2024"
+      }
+    ],
+    "container-title": [
+      "Memory, Mind &amp; Media"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S2635023825100180",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2025-10-27T07:08:08Z",
+      "timestamp": 1761548888000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.cambridge.org/core/product/identifier/S2635023825100180/type/journal_article"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "references-count": 99,
+    "alternative-id": [
+      "S2635023825100180"
+    ],
+    "URL": "https://doi.org/10.1017/mem.2025.10018",
+    "relation": {},
+    "ISSN": [
+      "2635-0238"
+    ],
+    "issn-type": [
+      {
+        "value": "2635-0238",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "article-number": "e18"
+  }
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "study_id": "SoaresStorm2022-E1",
+    "report_doi": "10.3758/s13423-022-02149-2",
+    "sample_n": 60,
+    "population": "美国大学心理学参与者库；非个人日常自传体事件",
+    "design": "被试内，材料条件平衡",
+    "conditions": [
+      "仅观察",
+      "一张照片",
+      "五张照片"
+    ],
+    "exposure_seconds_per_painting": 20,
+    "distractor_minutes": 5,
+    "memory_measure": "60 道四选一绘画视觉细节题，无照片辅助",
+    "source": "sources/fulltext/PMC9296013.json P13–P19",
+    "validation_scope": "正文方法及结果核读；未复算数据"
+  },
+  {
+    "study_id": "SoaresStorm2022-E2",
+    "report_doi": "10.3758/s13423-022-02149-2",
+    "sample_n": 96,
+    "population": "美国大学心理学参与者库；非个人日常自传体事件",
+    "design": "被试间，随机分组",
+    "conditions": [
+      "仅观察",
+      "一张照片",
+      "五张照片"
+    ],
+    "exposure_seconds_per_painting": 10,
+    "distractor_minutes": 5,
+    "memory_measure": "60 道四选一绘画视觉细节题，无照片辅助",
+    "source": "sources/fulltext/PMC9296013.json P21–P25",
+    "validation_scope": "正文方法及结果核读；未复算数据"
+  },
+  {
+    "study_id": "SoaresStorm2022-E3",
+    "report_doi": "10.3758/s13423-022-02149-2",
+    "sample_n": 243,
+    "population": "美国大学心理学参与者库；非个人日常自传体事件",
+    "design": "被试间，Qualtrics 随机分组；五张条件要求不同",
+    "conditions": [
+      "仅观察",
+      "一张照片",
+      "五张照片"
+    ],
+    "exposure_seconds_per_painting": 10,
+    "distractor_minutes": 3,
+    "memory_measure": "60 道四选一绘画视觉细节题，无照片辅助",
+    "source": "sources/fulltext/PMC9296013.json P27–P33",
+    "validation_scope": "正文方法及结果核读；未复算数据"
+  }
+]

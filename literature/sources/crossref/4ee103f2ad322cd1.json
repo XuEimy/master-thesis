@@ -1,0 +1,811 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          3
+        ]
+      ],
+      "date-time": "2026-10-03T03:53:10Z",
+      "timestamp": 1790999590875,
+      "version": "4.1.0"
+    },
+    "reference-count": 95,
+    "publisher": "The Royal Society",
+    "issue": "1817",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              14
+            ]
+          ],
+          "date-time": "2020-12-14T00:00:00Z",
+          "timestamp": 1607904000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://royalsociety.org/-/media/journals/author/Licence-to-Publish-20062019-final.pdf"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              14
+            ]
+          ],
+          "date-time": "2020-12-14T00:00:00Z",
+          "timestamp": 1607904000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://royalsociety.org/journals/ethics-policies/data-sharing-mining/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100008397",
+        "name": "Velux Fonden",
+        "doi-asserted-by": "crossref",
+        "award": [
+          "[13481]"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "[13481]"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100008397",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "name": "Danmarks Grundforskningsfond",
+        "award": [
+          "[DNRF89]"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "[DNRF89]"
+            ]
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004836",
+        "name": "Det Frie Forskningsråd",
+        "doi-asserted-by": "crossref",
+        "award": [
+          "[9037-00015B]"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "[9037-00015B]"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004836",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "royalsocietypublishing.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Phil. Trans. R. Soc. B"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Involuntary autobiographical memories are memories of personal events that come to mind spontaneously—that is, with no conscious initiation of the retrieval process. Such spontaneously arising memories were long ignored in cognitive psychology, which generally has focused on controlled and strategic forms of remembering, studied in laboratory settings. Recent evidence shows that involuntary memories of past events are highly frequent in daily life, and that they represent a context-sensitive, and associative way of recollecting past events that involves little executive control. They operate by constraints that favour recent events and events with a distinct feature overlap to the current situation, which optimizes the probability of functional relevance to the ongoing situation. In addition to adults, they are documented in young children and great apes and may be an ontogenetic and evolutionary forerunner of strategic retrieval of past events. Findings suggest that intrusive involuntary memories observed clinically after traumatic events should be viewed as a dysfunctional subclass of otherwise functional involuntary autobiographical memories. Because of their highly constrained, situation-dependent and automatic nature, involuntary autobiographical memories form a distinct category of spontaneous thought that cannot be equated with mind wandering.</jats:p>\n                  <jats:p>This article is part of the theme issue ‘Offline perception: voluntary and spontaneous perceptual experiences without matching external stimulation’.</jats:p>",
+    "DOI": "10.1098/rstb.2019.0693",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          13
+        ]
+      ],
+      "date-time": "2020-12-13T19:05:26Z",
+      "timestamp": 1607886326000
+    },
+    "page": "20190693",
+    "update-policy": "https://doi.org/10.1098/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 86,
+    "title": [
+      "Involuntary autobiographical memories and their relation to other forms of spontaneous thoughts"
+    ],
+    "prefix": "10.1098",
+    "volume": "376",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5941-314X",
+        "authenticated-orcid": true,
+        "given": "Dorthe",
+        "family": "Berntsen",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Center on Autobiographical Memory Research, Department of Psychology and Behavioral Sciences, Aarhus University, Bartholins Allé 11, 8000 Aarhus C, Denmark"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "175",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          14
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_4_2_2",
+        "first-page": "3",
+        "volume-title": "The Oxford handbook of spontaneous thought: mind wandering, creativity and dreaming",
+        "author": "Fox KCR",
+        "year": "2018"
+      },
+      {
+        "key": "e_1_3_4_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2018.03.010"
+      },
+      {
+        "key": "e_1_3_4_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1099-0720(199610)10:5<435::AID-ACP408>3.0.CO;2-L"
+      },
+      {
+        "key": "e_1_3_4_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cognition.2019.04.018"
+      },
+      {
+        "key": "e_1_3_4_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511575921"
+      },
+      {
+        "key": "e_1_3_4_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9781139021937.021"
+      },
+      {
+        "key": "e_1_3_4_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pmu0000075"
+      },
+      {
+        "key": "e_1_3_4_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0010-0285(03)00115-4"
+      },
+      {
+        "key": "e_1_3_4_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069"
+      },
+      {
+        "key": "e_1_3_4_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797616634068"
+      },
+      {
+        "key": "e_1_3_4_12_2",
+        "first-page": "35",
+        "volume-title": "The Oxford handbook of spontaneous thought: mind wandering, creativity and dreaming",
+        "author": "Morewedge CK",
+        "year": "2018"
+      },
+      {
+        "key": "e_1_3_4_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2015.00991"
+      },
+      {
+        "key": "e_1_3_4_14_2",
+        "volume-title": "På sporet efter den tabte tid (A la recherce du temps perdu/Remembrance of things past)",
+        "author": "Proust M",
+        "year": "1932"
+      },
+      {
+        "key": "e_1_3_4_15_2",
+        "volume-title": "Remembrance of things past, (vol. 12). Transl. by Stephen Hudson",
+        "author": "Proust M",
+        "year": "1949"
+      },
+      {
+        "key": "e_1_3_4_16_2",
+        "volume-title": "Stress response syndromes",
+        "author": "Horowitz MJ",
+        "year": "1976"
+      },
+      {
+        "key": "e_1_3_4_17_2",
+        "volume-title": "Stress response syndromes",
+        "author": "Horowitz MJ",
+        "year": "1986",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_4_18_2",
+        "volume-title": "Diagnostic and statistical manual of mental disorders",
+        "author": "American Psychiatric Association",
+        "year": "1980",
+        "edition": "3"
+      },
+      {
+        "key": "e_1_3_4_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721410370301"
+      },
+      {
+        "key": "e_1_3_4_20_2",
+        "volume-title": "Elements of episodic memory",
+        "author": "Tulving E",
+        "year": "1983"
+      },
+      {
+        "key": "e_1_3_4_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8721.2008.00559.x"
+      },
+      {
+        "key": "e_1_3_4_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2011.07.010"
+      },
+      {
+        "key": "e_1_3_4_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/cns0000042"
+      },
+      {
+        "key": "e_1_3_4_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/MC.36.5.920"
+      },
+      {
+        "key": "e_1_3_4_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0157121"
+      },
+      {
+        "key": "e_1_3_4_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0089582"
+      },
+      {
+        "key": "e_1_3_4_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jarmac.2018.09.002"
+      },
+      {
+        "key": "e_1_3_4_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bjop.12259"
+      },
+      {
+        "key": "e_1_3_4_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2019.03.011"
+      },
+      {
+        "key": "e_1_3_4_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2014.06.002"
+      },
+      {
+        "key": "e_1_3_4_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2015.07.007"
+      },
+      {
+        "key": "e_1_3_4_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0033294119854180"
+      },
+      {
+        "key": "e_1_3_4_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.84.3.231"
+      },
+      {
+        "key": "e_1_3_4_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0029128"
+      },
+      {
+        "key": "e_1_3_4_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0037185"
+      },
+      {
+        "key": "e_1_3_4_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn_a_00633"
+      },
+      {
+        "key": "e_1_3_4_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bbr.2007.08.026"
+      },
+      {
+        "key": "e_1_3_4_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/jocn.2010.21494"
+      },
+      {
+        "key": "e_1_3_4_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-0285(79)90006-9"
+      },
+      {
+        "key": "e_1_3_4_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.12.3.524"
+      },
+      {
+        "key": "e_1_3_4_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.27.2.384"
+      },
+      {
+        "key": "e_1_3_4_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470774069.ch2"
+      },
+      {
+        "key": "e_1_3_4_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.838"
+      },
+      {
+        "key": "e_1_3_4_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/h0020071"
+      },
+      {
+        "key": "e_1_3_4_45_2",
+        "volume-title": "Inquiries into human faculty and its development.",
+        "author": "Galton F",
+        "year": "1907"
+      },
+      {
+        "key": "e_1_3_4_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/BF03195869"
+      },
+      {
+        "key": "e_1_3_4_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/acp.1020"
+      },
+      {
+        "key": "e_1_3_4_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0278-7393.1.4.442"
+      },
+      {
+        "key": "e_1_3_4_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3758/s13421-019-00904-w"
+      },
+      {
+        "key": "e_1_3_4_50_2",
+        "volume-title": "Memory. A contribution to experimental psychology",
+        "author": "Ebbinghaus H",
+        "year": "1885"
+      },
+      {
+        "key": "e_1_3_4_51_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210444000485"
+      },
+      {
+        "key": "e_1_3_4_52_2",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/oso/9780195082111.001.0001",
+        "volume-title": "Memory in oral traditions. The cognitive psychology of epic, ballads, and counting-out rhymes",
+        "author": "Rubin DC",
+        "year": "1995"
+      },
+      {
+        "key": "e_1_3_4_53_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2017.08.001"
+      },
+      {
+        "key": "e_1_3_4_54_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rspb.2017.0518"
+      },
+      {
+        "key": "e_1_3_4_55_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cub.2013.06.017"
+      },
+      {
+        "key": "e_1_3_4_56_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2017.1363243"
+      },
+      {
+        "key": "e_1_3_4_57_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1745691616635613"
+      },
+      {
+        "key": "e_1_3_4_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.114.1.78"
+      },
+      {
+        "key": "e_1_3_4_59_2",
+        "first-page": "3",
+        "volume-title": "Practical aspects of memory: current research and issues, vol. 1: memory in everyday life",
+        "author": "Baddeley A",
+        "year": "1988"
+      },
+      {
+        "key": "e_1_3_4_60_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1745691611406924"
+      },
+      {
+        "key": "e_1_3_4_61_2",
+        "volume-title": "Dynamic memory",
+        "author": "Schank RC",
+        "year": "1982"
+      },
+      {
+        "key": "e_1_3_4_62_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.1991.tb00174.x"
+      },
+      {
+        "key": "e_1_3_4_63_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "557",
+        "DOI": "10.1093/oso/9780195122657.003.0034",
+        "volume-title": "The Oxford handbook of memory",
+        "author": "Anderson JR",
+        "year": "2000"
+      },
+      {
+        "key": "e_1_3_4_64_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/acprof:oso/9780195169669.001.0001"
+      },
+      {
+        "key": "e_1_3_4_65_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-psych-010419-051123"
+      },
+      {
+        "key": "e_1_3_4_66_2",
+        "volume-title": "Memory and emotion: the making of lasting memories",
+        "author": "McGaugh JL",
+        "year": "2003"
+      },
+      {
+        "key": "e_1_3_4_67_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2167702613496241"
+      },
+      {
+        "key": "e_1_3_4_68_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210701333271"
+      },
+      {
+        "key": "e_1_3_4_69_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741938208"
+      },
+      {
+        "key": "e_1_3_4_70_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10608-017-9841-1"
+      },
+      {
+        "key": "e_1_3_4_71_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2020.1738497"
+      },
+      {
+        "key": "e_1_3_4_72_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0013165"
+      },
+      {
+        "key": "e_1_3_4_73_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2011.03.015"
+      },
+      {
+        "key": "e_1_3_4_74_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.books.9780890425596"
+      },
+      {
+        "key": "e_1_3_4_75_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.neuro.27.070203.144157"
+      },
+      {
+        "key": "e_1_3_4_76_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210444000025"
+      },
+      {
+        "key": "e_1_3_4_77_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0018113"
+      },
+      {
+        "key": "e_1_3_4_78_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0033722"
+      },
+      {
+        "key": "e_1_3_4_79_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrn.2016.113"
+      },
+      {
+        "key": "e_1_3_4_80_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2014.11.012"
+      },
+      {
+        "key": "e_1_3_4_81_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2018.07.004"
+      },
+      {
+        "key": "e_1_3_4_82_2",
+        "first-page": "47",
+        "volume-title": "The Oxford handbook of spontaneous thought: mind wandering, creativity and dreaming",
+        "author": "Stan D",
+        "year": "2018"
+      },
+      {
+        "key": "e_1_3_4_83_2",
+        "volume-title": "Daydreaming: an introduction to the experimental study of inner experience",
+        "author": "Singer JL",
+        "year": "1966"
+      },
+      {
+        "key": "e_1_3_4_84_2",
+        "first-page": "417",
+        "article-title": "Daydreaming and the stream of thought",
+        "volume": "62",
+        "author": "Singer JL",
+        "year": "1974",
+        "journal-title": "Amer. Sci."
+      },
+      {
+        "key": "e_1_3_4_85_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/10538-000"
+      },
+      {
+        "key": "e_1_3_4_86_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.132.6.946"
+      },
+      {
+        "key": "e_1_3_4_87_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-psych-010814-015331"
+      },
+      {
+        "key": "e_1_3_4_88_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1196-1961.62.1.62"
+      },
+      {
+        "key": "e_1_3_4_89_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.59.103006.093629"
+      },
+      {
+        "key": "e_1_3_4_90_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1745691612460685"
+      },
+      {
+        "key": "e_1_3_4_91_2",
+        "volume-title": "Thinking, fast and slow",
+        "author": "Kahneman D",
+        "year": "2011"
+      },
+      {
+        "key": "e_1_3_4_92_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0030010"
+      },
+      {
+        "key": "e_1_3_4_93_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2007.01948.x"
+      },
+      {
+        "key": "e_1_3_4_94_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.brainres.2011.03.072"
+      },
+      {
+        "key": "e_1_3_4_95_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pag0000157"
+      },
+      {
+        "key": "e_1_3_4_96_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2167702615622383"
+      }
+    ],
+    "container-title": [
+      "Philosophical Transactions of the Royal Society B: Biological Sciences"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2019.0693",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://royalsocietypublishing.org/doi/full-xml/10.1098/rstb.2019.0693",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2019.0693",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2026-05-12T21:26:31Z",
+      "timestamp": 1778621191000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://royalsocietypublishing.org/rstb/article/31394"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          14
+        ]
+      ]
+    },
+    "references-count": 95,
+    "journal-issue": {
+      "issue": "1817",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1098/rstb.2019.0693"
+    ],
+    "URL": "https://doi.org/10.1098/rstb.2019.0693",
+    "relation": {},
+    "ISSN": [
+      "0962-8436",
+      "1471-2970"
+    ],
+    "issn-type": [
+      {
+        "value": "0962-8436",
+        "type": "print"
+      },
+      {
+        "value": "1471-2970",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          14
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2020-06-19",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-12-14",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

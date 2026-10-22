@@ -1,0 +1,665 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          8
+        ]
+      ],
+      "date-time": "2026-06-08T12:12:17Z",
+      "timestamp": 1780920737099,
+      "version": "3.54.1"
+    },
+    "reference-count": 35,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2023-03-01T00:00:00Z",
+          "timestamp": 1677628800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2023-03-01T00:00:00Z",
+          "timestamp": 1677628800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.es",
+        "elsevier.es",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Revista Española de Geriatría y Gerontología"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.regg.2023.01.006",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          16
+        ]
+      ],
+      "date-time": "2023-02-16T16:08:28Z",
+      "timestamp": 1676563708000
+    },
+    "page": "89-95",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Programa de reminiscencia apoyado en inteligencia artificial y basado en el patrimonio cultural inmaterial dirigido a personas mayores: un estudio piloto"
+    ],
+    "prefix": "10.1016",
+    "volume": "58",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1993-4052",
+        "authenticated-orcid": false,
+        "given": "Sara",
+        "family": "Doménech",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pedro M.",
+        "family": "Santos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xènia",
+        "family": "Porta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Natália",
+        "family": "Albino-Pires",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anass",
+        "family": "Benali",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Oriol",
+        "family": "Nebot",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francisco",
+        "family": "Mugica",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Àngela",
+        "family": "Nebot",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1080/13607860500431652",
+        "article-title": "Improved quality of life and cognitive stimulation therapy in dementia",
+        "volume": "10",
+        "author": "Woods",
+        "year": "2006",
+        "journal-title": "Aging Ment Health."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "176",
+        "DOI": "10.7326/0003-4819-153-3-201008030-00260",
+        "article-title": "National Institutes of Health State-of-the-Science Conference statement: preventing alzheimer disease and cognitive decline",
+        "volume": "153",
+        "author": "Daviglus",
+        "year": "2010",
+        "journal-title": "Ann Intern Med."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0190",
+        "first-page": "3",
+        "article-title": "Cognitive training for people with mild to moderate dementia",
+        "author": "Bahar-Fuchs",
+        "year": "2019",
+        "journal-title": "Cochrane Database Syst Rev."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0195",
+        "article-title": "Reminiscence therapy for dementia",
+        "volume": "3",
+        "author": "Woods",
+        "year": "2018",
+        "journal-title": "Cochrane Database Syst Rev."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "364",
+        "DOI": "10.1111/inm.12692",
+        "article-title": "Reminiscence therapy for older adults with Alzheimer's disease: A literature review",
+        "volume": "29",
+        "author": "Cuevas",
+        "year": "2020",
+        "journal-title": "Int J Ment Health Nurs."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1002/j.0022-0337.2002.66.1.tb03506.x",
+        "article-title": "Memory and the brain",
+        "volume": "66",
+        "author": "Robertson",
+        "year": "2002",
+        "journal-title": "J Dent Educ"
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "62",
+        "DOI": "10.1016/j.ijchp.2019.07.003",
+        "article-title": "Assessment of Person-Centered Care in Gerontology Services: A new tool for healthcare professionals",
+        "volume": "20",
+        "author": "Martínez",
+        "year": "2020",
+        "journal-title": "Int J Clin Health Psychol."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1016/j.jaging.2014.02.003",
+        "article-title": "Celebrating fifty years of research and applications in reminiscence and life review: state of the art and new directions",
+        "volume": "29",
+        "author": "Westerhof",
+        "year": "2014",
+        "journal-title": "J Aging Stud."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "1131",
+        "DOI": "10.1177/1471301218795242",
+        "article-title": "‘There is still so much in-side’: The impact of personalised reminiscence, facilitated by a tablet device, on people living with mild to moderate dementia and their family carers",
+        "volume": "19",
+        "author": "Ryan",
+        "year": "2020",
+        "journal-title": "Dementia."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "138",
+        "DOI": "10.1097/jnr.0000000000000233",
+        "article-title": "A Systematic Review of Reminiscence Therapy for Older Adults in Taiwan",
+        "volume": "26",
+        "author": "Yen",
+        "year": "2018",
+        "journal-title": "J Nurs Res."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1080/17538157.2021.1941973",
+        "article-title": "Design guidelines and usability for cognitive stimulation through technology in Mexican older adults",
+        "volume": "47",
+        "author": "Acosta",
+        "year": "2022",
+        "journal-title": "Inform Health Soc Care."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "e24526",
+        "DOI": "10.2196/24526",
+        "article-title": "Effect of Cognitive Training in Fully Immersive Virtual Reality on Visuospatial Function and Frontal-Occipital Functional Connectivity in Predementia: Randomized Controlled Trial",
+        "volume": "23",
+        "author": "Kang",
+        "year": "2021",
+        "journal-title": "J Med Internet Res."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "926",
+        "DOI": "10.1002/gps.5314",
+        "article-title": "Effects of virtual reality on moods in community older adults. A multicenter randomized controlled trial",
+        "volume": "35",
+        "author": "Chan",
+        "year": "2020",
+        "journal-title": "Int J Geriatr Psychiatry."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0245",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3989/chdj.2015.018",
+        "article-title": "Cultural heritage and memory: untangling the ties that bind",
+        "volume": "4",
+        "author": "Viejo-Rose",
+        "year": "2015",
+        "journal-title": "Cult. Hist. Digit. J."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "324",
+        "DOI": "10.1186/s13063-017-2080-7",
+        "article-title": "Art therapy and music reminiscence activity in the prevention of cognitive decline: study protocol for a randomized controlled trial",
+        "volume": "18",
+        "author": "Mahendran",
+        "year": "2017",
+        "journal-title": "Trials."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0255",
+        "first-page": "8924273",
+        "article-title": "Assessing Wellbeing in People Living with Dementia Using Reminiscence Music with a Mobile App (Memory Tracks): A Mixed Methods Cohort Study",
+        "author": "Cunningham",
+        "year": "2019",
+        "journal-title": "J Healthc Eng."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "410",
+        "DOI": "10.3109/07380577.2014.941052",
+        "article-title": "Crafts as memory triggers in reminiscence: a case study of older women with dementia",
+        "volume": "28",
+        "author": "Pöllänen",
+        "year": "2014",
+        "journal-title": "Occup Ther Health Care."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "805",
+        "DOI": "10.1177/1471301218787655",
+        "article-title": "An evaluation of group reminiscence arts sessions for people with dementia living in care homes",
+        "volume": "19",
+        "author": "Keating",
+        "year": "2020",
+        "journal-title": "Dementia (London)."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "355",
+        "DOI": "10.1016/j.jamda.2017.01.013",
+        "article-title": "Developing Evidence for Football (Soccer) Reminiscence Interventions Within Long-term Care: A Co-operative Approach Applied in Scotland and Spain",
+        "volume": "18",
+        "author": "Coll-Planas",
+        "year": "2017",
+        "journal-title": "J Am Med Dir Assoc."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0275",
+        "article-title": "Automatic Reminiscence Therapy for Dementia",
+        "author": "Carós",
+        "year": "2019",
+        "journal-title": "arxiv."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0280",
+        "series-title": "User centered system design; new perspectives on hu man-computer interaction. Mahwah: Lawrence Erlbaum Associates",
+        "first-page": "540",
+        "author": "Norman",
+        "year": "1986"
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "326",
+        "DOI": "10.1016/j.nrl.2015.02.002",
+        "article-title": "A pilot study of a new method of cognitive stimulation using abacus arithmetic in healthy and cognitively impaired elderly subjects Estudio piloto de un nuevo método de estimulación aritmética empleando el ábaco en ancianos sanos y con trastorno cognitivo",
+        "volume": "31",
+        "author": "Matías-Guiu",
+        "year": "2016",
+        "journal-title": "Neurologia."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "742",
+        "DOI": "10.1093/ageing/afr100",
+        "article-title": "‘YouTube’: a useful tool for reminiscence therapy in dementia?",
+        "volume": "40",
+        "author": "O’Rourke",
+        "year": "2011",
+        "journal-title": "Age Ageing."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0295",
+        "first-page": "1036",
+        "article-title": "Conversational System as Assistant Tool in Reminiscence Therapy for People with Early-Stage of Alzheimer's",
+        "volume": "9",
+        "author": "Morales-de-Jesús",
+        "year": "2021",
+        "journal-title": "Healthcare (Basel Switzerland)."
+      },
+      {
+        "issue": "1-2",
+        "key": "10.1016/j.regg.2023.01.006_bib0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1080/07370024.2012.656062",
+        "article-title": "Reconstructing the Past: Personal Memory Technologies Are Not Just Personal and Not Just for Memory",
+        "volume": "27",
+        "author": "Crete-Nishihata",
+        "year": "2012",
+        "journal-title": "Human–Computer Interaction."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0305",
+        "series-title": "Artificial Intelligence: A Modern Approach",
+        "author": "Russel",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "1136",
+        "DOI": "10.1176/ajp.139.9.1136",
+        "article-title": "The Global Deterioration Scale for assessment of primary degenerative dementia",
+        "volume": "139",
+        "author": "Reisberg",
+        "year": "1982",
+        "journal-title": "Am J Psychiatry."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "5997",
+        "DOI": "10.3390/ijerph19105997",
+        "article-title": "LONG-REMI: An AI-Based Technological Application to Promote Healthy Mental Longevity Grounded in Reminiscence Therapy",
+        "volume": "19",
+        "author": "Nebot",
+        "year": "2022",
+        "journal-title": "Int J Environ Res Public Health."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "1063",
+        "DOI": "10.1037/0022-3514.54.6.1063",
+        "article-title": "Development and validation of brief measures of positive and negative affect: the PANAS scales",
+        "volume": "54",
+        "author": "Watson",
+        "year": "1988",
+        "journal-title": "J Pers Soc Psychol."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1016/j.sjpain.2016.06.012",
+        "article-title": "How to analyze the Visual Analogue Scale: Myths, truths and clinical relevance",
+        "volume": "13",
+        "author": "Heller",
+        "year": "2016",
+        "journal-title": "Scand J Pain."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0330",
+        "series-title": "Quantifying the user experience: Practical statistics for user research",
+        "author": "Sauro",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0335",
+        "first-page": "69",
+        "article-title": "Estudio sobre la traducción al español y las propiedades psicométricas de las escalas de afecto positivo y negativo (PANAS)",
+        "volume": "26",
+        "author": "Robles",
+        "year": "2003",
+        "journal-title": "Salud Mental."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0340",
+        "article-title": "Adaptación al español del Cuestionario de Usabilidad de Sistemas Informáticos CSUQ",
+        "volume": "4",
+        "author": "Hedlefs",
+        "year": "2015",
+        "journal-title": "RECI."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "76",
+        "DOI": "10.1177/0891988720901789",
+        "article-title": "Can Visual Art Therapy Be Implemented With Illiterate Older Adults With Mild Cognitive Impairment? A Pilot Mixed-Method Randomized Controlled Trial",
+        "volume": "34",
+        "author": "Masika",
+        "year": "2021",
+        "journal-title": "J Geriatr Psychiatry Neurol."
+      },
+      {
+        "key": "10.1016/j.regg.2023.01.006_bib0350",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1186/1745-6215-10-64",
+        "article-title": "Reminiscence groups for people with dementia and their family carers: pragmatic eight-centre randomised trial of joint reminiscence and maintenance versus usual treatment: a protocol",
+        "volume": "10",
+        "author": "Woods",
+        "year": "2009",
+        "journal-title": "Trials."
+      }
+    ],
+    "container-title": [
+      "Revista Española de Geriatría y Gerontología"
+    ],
+    "original-title": [],
+    "language": "es",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0211139X23000070?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0211139X23000070?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          1
+        ]
+      ],
+      "date-time": "2025-10-01T12:51:35Z",
+      "timestamp": 1759323095000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0211139X23000070"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0211139X23000070"
+    ],
+    "URL": "https://doi.org/10.1016/j.regg.2023.01.006",
+    "relation": {},
+    "ISSN": [
+      "0211-139X"
+    ],
+    "issn-type": [
+      {
+        "value": "0211-139X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Programa de reminiscencia apoyado en inteligencia artificial y basado en el patrimonio cultural inmaterial dirigido a personas mayores: un estudio piloto",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Revista Española de Geriatría y Gerontología",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.regg.2023.01.006",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2023 SEGG. Published by Elsevier España, S.L.U. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

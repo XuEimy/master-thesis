@@ -1,0 +1,790 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          15
+        ]
+      ],
+      "date-time": "2026-09-15T18:44:57Z",
+      "timestamp": 1789497897027,
+      "version": "build-2803163510"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 97,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2025-03-24T00:00:00Z",
+          "timestamp": 1742774400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          24
+        ]
+      ]
+    },
+    "DOI": "10.1145/3708359.3712112",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2025-03-19T08:50:34Z",
+      "timestamp": 1742374234000
+    },
+    "page": "1297-1313",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1879-7340",
+        "authenticated-orcid": false,
+        "given": "Pat",
+        "family": "Pataranutaporn",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "MIT Media Lab, Massachusetts Institute of Technology, Boston, Massachusetts, USA,"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-7165-0859",
+        "authenticated-orcid": false,
+        "given": "Chayapatr",
+        "family": "Archiwaranguprok",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of the Thai Chamber of Commerce, Bangkok, Thailand,"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1159-0467",
+        "authenticated-orcid": false,
+        "given": "Samantha W. T.",
+        "family": "Chan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MIT Media Lab, Cambridge, Massachusetts, USA,"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0004-8920-3273",
+        "authenticated-orcid": false,
+        "given": "Elizabeth",
+        "family": "Loftus",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UCI School of Social Ecology, UC Irvine, Irvine, California, USA,"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7722-6038",
+        "authenticated-orcid": false,
+        "given": "Pattie",
+        "family": "Maes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Media Lab, MIT, Cambridge, Massachusetts, USA,"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          24
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3580892"
+      },
+      {
+        "key": "e_1_3_3_2_3_2",
+        "first-page": "284",
+        "volume-title": "Those Aren’t Your Memories, They’re Somebody Else’s: Seeding Misinformation in Chat Bot Memories",
+        "author": "Atkins Conor",
+        "year": "2023",
+        "unstructured": "Conor Atkins, Benjamin Zi Hao Zhao, Hassan Jameel Asghar, Ian Wood, and Mohamed Ali Kaafar. 2023. Those Aren’t Your Memories, They’re Somebody Else’s: Seeding Misinformation in Chat Bot Memories. Springer Nature Switzerland, 284–308. https://doi.org/10.1007/978-3-031-33488-711"
+      },
+      {
+        "key": "e_1_3_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642666"
+      },
+      {
+        "key": "e_1_3_3_2_5_2",
+        "unstructured": "George Bass. 2023. ‘I know what it’s like to be tempted’: a security guard on UK shoplifting epidemic — theguardian.com. https://www.theguardian.com/business/2023/nov/24/security-guard-on-uk-shoplifting-epidemic-black-friday/. [Accessed 10-10-2024]."
+      },
+      {
+        "key": "e_1_3_3_2_6_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jane M Berry Robin L West and Dierdre M Dennehey. 1989. Reliability and validity of the Memory Self-Efficacy Questionnaire. Developmental psychology 25 5 (1989) 701.",
+        "DOI": "10.1037//0012-1649.25.5.701"
+      },
+      {
+        "key": "e_1_3_3_2_7_2",
+        "unstructured": "Tom Brown Benjamin Mann Nick Ryder Melanie Subbiah Jared D Kaplan Prafulla Dhariwal Arvind Neelakantan Pranav Shyam Girish Sastry Amanda Askell et al. 2020. Language models are few-shot learners. Advances in neural information processing systems 33 (2020) 1877–1901."
+      },
+      {
+        "key": "e_1_3_3_2_8_2",
+        "unstructured": "The Conversation US C. Michael White. 2024. When Choosing What Diseases to Develop Drugs For It All Comes Down to Funding — scientificamerican.com. https://www.scientificamerican.com/article/when-choosing-what-diseases-to-develop-drugs-for-it-all-comes-down-to-funding/. [Accessed 10-10-2024]."
+      },
+      {
+        "key": "e_1_3_3_2_9_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Samantha W. T. Chan Thisum Buddhika Haimo Zhang and Suranga Nanayakkara. 2019. ProspecFit: In Situ Evaluation of Digital Prospective Memory Training for Older Adults. Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies 3 3 (Sept. 2019) 1â€“20. https://doi.org/10.1145/3351235",
+        "DOI": "10.1145/3351235"
+      },
+      {
+        "key": "e_1_3_3_2_10_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Samantha W. T. Chan Shardul Sapkota Rebecca Mathews Haimo Zhang and Suranga Nanayakkara. 2020. Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent. Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies 4 4 (Dec. 2020) 1â€“23. https://doi.org/10.1145/3432190",
+        "DOI": "10.1145/3432190"
+      },
+      {
+        "key": "e_1_3_3_2_11_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yupeng Chang Xu Wang Jindong Wang Yuan Wu Linyi Yang Kaijie Zhu Hao Chen Xiaoyuan Yi Cunxiang Wang Yidong Wang et al. 2024. A survey on evaluation of large language models. ACM Transactions on Intelligent Systems and Technology 15 3 (2024) 1–45.",
+        "DOI": "10.1145/3641289"
+      },
+      {
+        "key": "e_1_3_3_2_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1785455.1785479"
+      },
+      {
+        "key": "e_1_3_3_2_13_2",
+        "unstructured": "Valdemar Danry Pat Pataranutaporn Ziv Epstein Matthew Groh and Pattie Maes. 2022. Deceptive AI systems that give explanations are just as convincing as honest AI systems in human-machine decision making. arXiv preprint arXiv:https://arXiv.org/abs/2210.08960 (2022)."
+      },
+      {
+        "key": "e_1_3_3_2_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3384657.3384799"
+      },
+      {
+        "key": "e_1_3_3_2_15_2",
+        "unstructured": "Wes Davis. 2024. All the AI features coming to Google’s Pixel 9 series — theverge.com. https://www.theverge.com/24219355/google-pixel-9-ai-features-screenshots-add-me-magic-editor. [Accessed 9-10-2024]."
+      },
+      {
+        "key": "e_1_3_3_2_16_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Aniket Deroy Kripabandhu Ghosh and Saptarshi Ghosh. 2024. Ensemble methods for improving extractive summarization of legal case judgements. Artificial Intelligence and Law 32 1 (2024) 231–289.",
+        "DOI": "10.1007/s10506-023-09349-8"
+      },
+      {
+        "key": "e_1_3_3_2_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3450337.3483502"
+      },
+      {
+        "key": "e_1_3_3_2_18_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Douglas C Engelbart. 2021. Augmenting human intellect: a conceptual framework (1962). (2021).",
+        "DOI": "10.21236/AD0289565"
+      },
+      {
+        "key": "e_1_3_3_2_19_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ziv Epstein Aaron Hertzmann Investigators of Human Creativity Memo Akten Hany Farid Jessica Fjeld Morgan R Frank Matthew Groh Laura Herman Neil Leach et al. 2023. Art and the science of generative AI. Science 380 6650 (2023) 1110–1111.",
+        "DOI": "10.1126/science.adh4451"
+      },
+      {
+        "key": "e_1_3_3_2_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376232"
+      },
+      {
+        "key": "e_1_3_3_2_21_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rodrigo Ferrer-Urbina Yasna Ramírez Patricio Mena-Chamorro Marcos Carmona-Halty and Geraldy Sepúlveda-Páez. 2024. Naive skepticism scale: development and validation tests applied to the chilean population. Psicologia: Reflexão e Crítica 37 (2024) 6.",
+        "DOI": "10.1186/s41155-024-00288-0"
+      },
+      {
+        "key": "e_1_3_3_2_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/765891.765951"
+      },
+      {
+        "key": "e_1_3_3_2_23_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Josh A Goldstein Jason Chao Shelby Grossman Alex Stamos and Michael Tomz. 2024. How persuasive is AI-generated propaganda? PNAS nexus 3 2 (2024) pgae034.",
+        "DOI": "10.1093/pnasnexus/pgae034"
+      },
+      {
+        "key": "e_1_3_3_2_24_2",
+        "unstructured": "Josh A Goldstein Girish Sastry Micah Musser Renee DiResta Matthew Gentzel and Katerina Sedova. 2023. Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations. arXiv preprint arXiv:https://arXiv.org/abs/2301.04246 (2023)."
+      },
+      {
+        "key": "e_1_3_3_2_25_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Brian Gonsalves and Ken A Paller. 2000. Neural events that underlie remembering something that never happened. Nature Neuroscience 3 12 (2000) 1316–1321.",
+        "DOI": "10.1038/81851"
+      },
+      {
+        "key": "e_1_3_3_2_26_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matthew Groh Ziv Epstein Chaz Firestone and Rosalind Picard. 2022. Deepfake detection by human crowds machines and machine-informed crowds. Proceedings of the National Academy of Sciences 119 1 (2022) e2110013119.",
+        "DOI": "10.1073/pnas.2110013119"
+      },
+      {
+        "key": "e_1_3_3_2_27_2",
+        "unstructured": "Matthew Groh Aruna Sankaranarayanan Nikhil Singh Dong Young Kim Andrew Lippman and Rosalind Picard. 2023. Human detection of political speech deepfakes across transcripts audio and video. arXiv preprint arXiv:https://arXiv.org/abs/2202.12883 (2023)."
+      },
+      {
+        "key": "e_1_3_3_2_28_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cathal Gurrin Alan F. Smeaton and Aiden R. Doherty. 2014. LifeLogging: Personal Big Data. Foundations and Trends® in Information Retrieval 8 1 (2014) 1–125. https://doi.org/10.1561/1500000033",
+        "DOI": "10.1561/1500000033"
+      },
+      {
+        "key": "e_1_3_3_2_29_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Morgan Harvey Marc Langheinrich and Geoff Ward. 2016. Remembering through lifelogging: A survey of human memory augmentation. Pervasive and Mobile Computing 27 (2016) 14–26.",
+        "DOI": "10.1016/j.pmcj.2015.12.002"
+      },
+      {
+        "key": "e_1_3_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491102.3517717"
+      },
+      {
+        "key": "e_1_3_3_2_31_2",
+        "unstructured": "https://www.nytimes.com/by/brian-x chen. 2024. Can Artificial Intelligence Make the PC Cool Again? — nytimes.com. https://www.nytimes.com/2024/05/20/technology/microsoft-copilot-ai-pc.html. [Accessed 9-10-2024]."
+      },
+      {
+        "key": "e_1_3_3_2_32_2",
+        "unstructured": "https://www.nytimes.com/by/sui-lee wee. 2024. Thailand Has a New Prime Minister but the Same Old Power Brokers — nytimes.com. https://www.nytimes.com/2024/08/16/world/asia/paetongtarn-shinawatra-thailand-prime-minister.html. [Accessed 10-10-2024]."
+      },
+      {
+        "key": "e_1_3_3_2_33_2",
+        "unstructured": "https://www.nytimes.com/by/tripp mickle. 2024. Apple Jumps Into A.I. Fray With Apple Intelligence — nytimes.com. https://www.nytimes.com/2024/06/10/technology/apple-intelligence-openai.html. [Accessed 9-10-2024]."
+      },
+      {
+        "key": "e_1_3_3_2_34_2",
+        "unstructured": "Lei Huang Weijiang Yu Weitao Ma Weihong Zhong Zhangyin Feng Haotian Wang Qianglong Chen Weihua Peng Xiaocheng Feng Bing Qin et al. 2023. A survey on hallucination in large language models: Principles taxonomy challenges and open questions. arXiv preprint arXiv:https://arXiv.org/abs/2311.05232 (2023)."
+      },
+      {
+        "key": "e_1_3_3_2_35_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tsung-Ren Huang Yu-Lan Cheng and Suparna Rajaram. 2023. Unavoidable social contagion of false memory from robots to humans. American Psychologist (2023).",
+        "DOI": "10.1037/amp0001230"
+      },
+      {
+        "key": "e_1_3_3_2_36_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Farnaz Jahanbakhsh Amy X. Zhang and David R. Karger. 2022. Leveraging Structured Trusted-Peer Assessments to Combat Misinformation. Proc. ACM Hum.-Comput. Interact. 6 CSCW2 Article 524 (nov 2022) 40 pages. https://doi.org/10.1145/3555637",
+        "DOI": "10.1145/3555637"
+      },
+      {
+        "key": "e_1_3_3_2_37_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Deepali Jain Malaya Dutta Borah and Anupam Biswas. 2024. A sentence is known by the company it keeps: Improving Legal Document Summarization Using Deep Clustering. Artificial Intelligence and Law 32 1 (2024) 165–200.",
+        "DOI": "10.1007/s10506-023-09345-y"
+      },
+      {
+        "key": "e_1_3_3_2_38_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Maurice Jakesch Advait Bhat Daniel Buschek Lior Zalmanson and Mor Naaman. 2022. Interacting with Opinionated Language Models Changes Users’ Views. Arxiv Open Access (2022).",
+        "DOI": "10.1145/3544548.3581196"
+      },
+      {
+        "key": "e_1_3_3_2_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642596"
+      },
+      {
+        "key": "e_1_3_3_2_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1753326.1753638"
+      },
+      {
+        "key": "e_1_3_3_2_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3357236.3395441"
+      },
+      {
+        "key": "e_1_3_3_2_42_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Irene P. Kan Kendra L. Pizzonia Anna B. Drummey and Eli J. V. Mikkelsen. 2021. Exploring factors that mitigate the continued influence of misinformation. Cognitive Research: Principles and Implications 6 1 (Nov. 2021). https://doi.org/10.1186/s41235-021-00335-9",
+        "DOI": "10.1186/s41235-021-00335-9"
+      },
+      {
+        "key": "e_1_3_3_2_43_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elise Karinshak Sunny Xun Liu Joon Sung Park and Jeffrey Hancock. 2023. Working with AI to persuade: Examining a large language model’s ability to generate pro-vaccination messages. Stanford Preprint (2023).",
+        "DOI": "10.1145/3579592"
+      },
+      {
+        "key": "e_1_3_3_2_44_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Katarina Kertysova. 2018. Artificial intelligence and disinformation: How AI changes the way disinformation is produced disseminated and can be countered. Security and Human Rights 29 1-4 (2018) 55–81.",
+        "DOI": "10.1163/18750230-02901005"
+      },
+      {
+        "key": "e_1_3_3_2_45_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Celeste Kidd and Abeba Birhane. 2023. How AI can distort human beliefs. Science 380 6651 (2023) 1222–1223.",
+        "DOI": "10.1126/science.adi0248"
+      },
+      {
+        "key": "e_1_3_3_2_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642693"
+      },
+      {
+        "key": "e_1_3_3_2_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3375627.3375833"
+      },
+      {
+        "key": "e_1_3_3_2_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642448"
+      },
+      {
+        "key": "e_1_3_3_2_49_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus. 1981. Eyewitness testimony: Psychological research and legal thought. Crime and justice 3 (1981) 105–151.",
+        "DOI": "10.1086/449078"
+      },
+      {
+        "key": "e_1_3_3_2_50_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F. Loftus. 1992. When A Lie Becomes Memory’s Truth: Memory Distortion After Exposure to Misinformation. Current Directions in Psychological Science 1 4 (Aug. 1992) 121–123. https://doi.org/10.1111/1467-8721.ep10769035",
+        "DOI": "10.1111/1467-8721.ep10769035"
+      },
+      {
+        "key": "e_1_3_3_2_51_2",
+        "volume-title": "Eyewitness testimony",
+        "author": "Loftus Elizabeth F",
+        "year": "1996",
+        "unstructured": "Elizabeth F Loftus. 1996. Eyewitness testimony. Harvard University Press."
+      },
+      {
+        "key": "e_1_3_3_2_52_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus. 1997. Creating false memories. Scientific American 277 3 (1997) 70–75.",
+        "DOI": "10.1038/scientificamerican0997-70"
+      },
+      {
+        "key": "e_1_3_3_2_53_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus. 2003. Make-believe memories. American Psychologist 58 11 (2003) 867.",
+        "DOI": "10.1037/0003-066X.58.11.867"
+      },
+      {
+        "key": "e_1_3_3_2_54_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F. Loftus. 2005. Planting misinformation in the human mind: A 30-year investigation of the malleability of memory: Figure 1. Learning & Memory 12 4 (July 2005) 361–366. https://doi.org/10.1101/lm.94705",
+        "DOI": "10.1101/lm.94705"
+      },
+      {
+        "key": "e_1_3_3_2_55_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus and John C Palmer. 1974. Reconstruction of automobile destruction: An example of the interaction between language and memory. Journal of verbal learning and verbal behavior 13 5 (1974) 585–589.",
+        "DOI": "10.1016/S0022-5371(74)80011-3"
+      },
+      {
+        "key": "e_1_3_3_2_56_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus and Jacqueline E Pickrell. 1995. The formation of false memories. 720–725 pages.",
+        "DOI": "10.3928/0048-5713-19951201-07"
+      },
+      {
+        "key": "e_1_3_3_2_57_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth F Loftus and Guido Zanni. 1975. Eyewitness testimony: The influence of the wording of a question. Bulletin of the Psychonomic Society 5 1 (1975) 86–88.",
+        "DOI": "10.3758/BF03336715"
+      },
+      {
+        "key": "e_1_3_3_2_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3313831.3376612"
+      },
+      {
+        "key": "e_1_3_3_2_59_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zhuoran Lu Patrick Li Weilong Wang and Ming Yin. 2022. The Effects of AI-based Credibility Indicators on the Detection and Spread of Misinformation under Social Influence. Proc. ACM Hum.-Comput. Interact. 6 CSCW2 Article 461 (nov 2022) 27 pages. https://doi.org/10.1145/3555562",
+        "DOI": "10.1145/3555562"
+      },
+      {
+        "key": "e_1_3_3_2_60_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3576050.3576062"
+      },
+      {
+        "key": "e_1_3_3_2_61_2",
+        "unstructured": "Chong Ma Zihao Wu Jiaqi Wang Shaochen Xu Yaonai Wei Zhengliang Liu Fang Zeng Xi Jiang Lei Guo Xiaoyan Cai et al. 2024. An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT. IEEE Transactions on Artificial Intelligence (2024)."
+      },
+      {
+        "key": "e_1_3_3_2_62_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lisa Mekioussa Malki Dilisha Patel and Aneesha Singh. 2024. \"The Headline Was So Wild That I Had To Check\": An Exploration of Women’s Encounters With Health Misinformation on Social Media. Proc. ACM Hum.-Comput. Interact. 8 CSCW1 Article 128 (apr 2024) 26 pages. https://doi.org/10.1145/3637405",
+        "DOI": "10.1145/3637405"
+      },
+      {
+        "key": "e_1_3_3_2_63_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3411764.3445071"
+      },
+      {
+        "key": "e_1_3_3_2_64_2",
+        "unstructured": "Ivan Mehta. 2024. Arc browser’s new AI-powered ’pinch-to-summarize’ feature is clever but often misses the mark | TechCrunch — techcrunch.com. https://techcrunch.com/2024/02/23/arc-browsers-new-ai-powered-pinch-to-summarize-feature-is-clever-but-often-miss-the-mark/. [Accessed 10-10-2024]."
+      },
+      {
+        "key": "e_1_3_3_2_65_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3563359.3597396"
+      },
+      {
+        "key": "e_1_3_3_2_66_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Miriam J Metzger. 2007. Making sense of credibility on the Web: Models for evaluating online information and recommendations for future research. Journal of the American society for information science and technology 58 13 (2007) 2078–2091.",
+        "DOI": "10.1002/asi.20672"
+      },
+      {
+        "key": "e_1_3_3_2_67_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Miriam J Metzger and Andrew J Flanagin. 2013. Credibility and trust of information in online environments: The use of cognitive heuristics. Journal of pragmatics 59 (2013) 210–220.",
+        "DOI": "10.1016/j.pragma.2013.07.012"
+      },
+      {
+        "key": "e_1_3_3_2_68_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gillian Murphy Caroline A Dawson Charlotte Huston Lisa Ballantyne Elizabeth Barrett Conor S Cowman Christopher Fitzsimons Julie Maher Katie M Ryan and Ciara M Greene. 2023. Lost in the mall again: a preregistered replication and extension of Loftus & Pickrell (1995). Memory 31 6 (2023) 818–830.",
+        "DOI": "10.1080/09658211.2023.2198327"
+      },
+      {
+        "key": "e_1_3_3_2_69_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elena Musi Lorenzo Federico and Gianni Riotta. 2022. Human–computer interaction tools with gameful design for critical thinking the media ecosystem: a classification framework. AI & SOCIETY 39 3 (Nov. 2022) 1317–1329. https://doi.org/10.1007/s00146-022-01583-z",
+        "DOI": "10.1007/s00146-022-01583-z"
+      },
+      {
+        "key": "e_1_3_3_2_70_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sophie J Nightingale and Hany Farid. 2022. AI-synthesized faces are indistinguishable from real faces and more trustworthy. Proceedings of the National Academy of Sciences 119 8 (2022) e2120481119.",
+        "DOI": "10.1073/pnas.2120481119"
+      },
+      {
+        "key": "e_1_3_3_2_71_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3563657.3595999"
+      },
+      {
+        "key": "e_1_3_3_2_72_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gordon Pennycook Ziv Epstein Mohsen Mosleh Antonio A Arechar Dean Eckles and David G Rand. 2021. Shifting attention to accuracy can reduce misinformation online. Nature 592 7855 (2021) 590–595.",
+        "DOI": "10.1038/s41586-021-03344-2"
+      },
+      {
+        "key": "e_1_3_3_2_73_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3290605.3300740"
+      },
+      {
+        "key": "e_1_3_3_2_74_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bradley J Rhodes. 1997. The wearable remembrance agent: A system for augmented memory. Personal Technologies 1 (1997) 218–224.",
+        "DOI": "10.1007/BF01682024"
+      },
+      {
+        "key": "e_1_3_3_2_75_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2984751.2984776"
+      },
+      {
+        "key": "e_1_3_3_2_76_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3461778.3462111"
+      },
+      {
+        "key": "e_1_3_3_2_77_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3460881.3460931"
+      },
+      {
+        "key": "e_1_3_3_2_78_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Alan Scoboria Kimberley A Wade D Stephen Lindsay Tanjeem Azad Deryn Strange James Ost and Ira E Hyman. 2017. A mega-analysis of memory reports from eight peer-reviewed false memory implantation studies. Memory 25 2 (2017) 146–163.",
+        "DOI": "10.1080/09658211.2016.1260747"
+      },
+      {
+        "key": "e_1_3_3_2_79_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hassan Shakil Ahmad Farooq and Jugal Kalita. 2024. Abstractive text summarization: State of the art challenges and improvements. Neurocomputing (2024) 128255.",
+        "DOI": "10.1016/j.neucom.2024.128255"
+      },
+      {
+        "key": "e_1_3_3_2_80_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nathaniel Sirlin Ziv Epstein Antonio A Arechar and David G Rand. 2021. Digital literacy is associated with more discerning accuracy judgments but not sharing intentions. Harvard Kennedy School Misinformation Review (2021).",
+        "DOI": "10.37016/mr-2020-83"
+      },
+      {
+        "key": "e_1_3_3_2_81_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Scott D Slotnick and Daniel L Schacter. 2004. A sensory signature that distinguishes true from false memories. Nature Neuroscience 7 6 (2004) 664–672.",
+        "DOI": "10.1038/nn1252"
+      },
+      {
+        "key": "e_1_3_3_2_82_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ben M Tappin Chloe Wittenberg Luke B Hewitt Adam J Berinsky and David G Rand. 2023. Quantifying the potential persuasive returns to political microtargeting. Proceedings of the National Academy of Sciences 120 25 (2023) e2216261120.",
+        "DOI": "10.1073/pnas.2216261120"
+      },
+      {
+        "key": "e_1_3_3_2_83_2",
+        "unstructured": "Adly Templeton Tom Conerly Jonathan Marcus Jack Lindsey Trenton Bricken Brian Chen Adam Pearce Craig Citro Emmanuel Ameisen Andy Jones Hoagy Cunningham Nicholas L. Turner Callum McDougall Monte MacDiarmid Alex Tamkin Esin Durmus Tristan Hume Freeman Mosconi Francesco Theodore R. Sumers Edward Rees Joshua Batson Adam Jermyn Shan Carter Chris Olah and Tom Henighan. 2024. Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet — transformer-circuits.pub. https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html. [Accessed 11-10-2024]."
+      },
+      {
+        "key": "e_1_3_3_2_84_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Emily Thorson. 2015. Belief Echoes: The Persistent Effects of Corrected Misinformation. Political Communication 33 3 (Nov. 2015) 460–480. https://doi.org/10.1080/10584609.2015.1102187",
+        "DOI": "10.1080/10584609.2015.1102187"
+      },
+      {
+        "key": "e_1_3_3_2_85_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3491101.3519661"
+      },
+      {
+        "key": "e_1_3_3_2_86_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544549.3585584"
+      },
+      {
+        "key": "e_1_3_3_2_87_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dave Van Veen Cara Van Uden Louis Blankemeier Jean-Benoit Delbrouck Asad Aali Christian Bluethgen Anuj Pareek Malgorzata Polacin Eduardo Pontes Reis Anna Seehofnerová et al. 2024. Adapted large language models can outperform medical experts in clinical text summarization. Nature medicine 30 4 (2024) 1134–1142.",
+        "DOI": "10.1038/s41591-024-02855-5"
+      },
+      {
+        "key": "e_1_3_3_2_88_2",
+        "unstructured": "Jan G Voelkel Robb Willer et al. 2023. Artificial Intelligence Can Persuade Humans on Political Issues. OSF Preprints (2023)."
+      },
+      {
+        "key": "e_1_3_3_2_89_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yuping Wang Chen Ling and Gianluca Stringhini. 2023. Understanding the Use of Images to Spread COVID-19 Misinformation on Twitter. Proc. ACM Hum.-Comput. Interact. 7 CSCW1 Article 108 (apr 2023) 32 pages. https://doi.org/10.1145/3579542",
+        "DOI": "10.1145/3579542"
+      },
+      {
+        "key": "e_1_3_3_2_90_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3581783.3612704"
+      },
+      {
+        "key": "e_1_3_3_2_91_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ling Yang Zhilong Zhang Yang Song Shenda Hong Runsheng Xu Yue Zhao Wentao Zhang Bin Cui and Ming-Hsuan Yang. 2023. Diffusion models: A comprehensive survey of methods and applications. Comput. Surveys 56 4 (2023) 1–39.",
+        "DOI": "10.1145/3626235"
+      },
+      {
+        "key": "e_1_3_3_2_92_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3641940"
+      },
+      {
+        "key": "e_1_3_3_2_93_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elizabeth M Zelinski Michael J Gilewski and Cheri R Anthony-Bergstone. 1990. Memory Functioning Questionnaire: concurrent validity with memory performance and self-reported memory failures. Psychology and aging 5 3 (1990) 388.",
+        "DOI": "10.1037//0882-7974.5.3.388"
+      },
+      {
+        "key": "e_1_3_3_2_94_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tianyi Zhang Faisal Ladhak Esin Durmus Percy Liang Kathleen McKeown and Tatsunori B Hashimoto. 2024. Benchmarking large language models for news summarization. Transactions of the Association for Computational Linguistics 12 (2024) 39–57.",
+        "DOI": "10.1162/tacl_a_00632"
+      },
+      {
+        "key": "e_1_3_3_2_95_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581318"
+      },
+      {
+        "key": "e_1_3_3_2_96_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3544548.3581318"
+      },
+      {
+        "key": "e_1_3_3_2_97_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "L Zhuang J Wang B Xiong C Bian L Hao PJ Bayley and S Qin. 2022. Rapid neural reorganization during retrieval practice predicts subsequent long-term retention and false memory. Nature Human Behaviour 6 (1) 134-145.",
+        "DOI": "10.1038/s41562-021-01188-4"
+      },
+      {
+        "key": "e_1_3_3_2_98_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3613904.3642450"
+      }
+    ],
+    "event": {
+      "name": "IUI '25: 30th International Conference on Intelligent User Interfaces",
+      "location": "Cagliari Italy",
+      "acronym": "IUI '25",
+      "sponsor": [
+        "SIGAI ACM Special Interest Group on Artificial Intelligence",
+        "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 30th International Conference on Intelligent User Interfaces"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3708359.3712112",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3708359.3712112",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T21:57:06Z",
+      "timestamp": 1750283826000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3708359.3712112"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          24
+        ]
+      ]
+    },
+    "references-count": 97,
+    "alternative-id": [
+      "10.1145/3708359.3712112",
+      "10.1145/3708359"
+    ],
+    "URL": "https://doi.org/10.1145/3708359.3712112",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          24
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-03-24",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}
