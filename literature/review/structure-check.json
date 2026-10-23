@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-23",
+  "chapter_citations": 60,
+  "doi_citations": 58,
+  "manual_official_sources": 2,
+  "citation_numbers_contiguous": true,
+  "unresolved_placeholders": 0,
+  "local_link_errors": [],
+  "scope": "结构与链接检查，不代表全部原文或数据核读",
+  "review_notes": [
+    "修正 Tullis 合作者为 Finley；日常线索研究首作者为 van Gennip",
+    "Lee 与 Ryu 采用出版社卷期年 2020；Ethnologia Fennica 采用卷期年 2024 并保留网络日期",
+    "方法与结果、主观与客观指标、固定顺序和版本问题已在正文保留"
+  ]
+}

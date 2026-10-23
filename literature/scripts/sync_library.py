@@ -18,7 +18,7 @@ for r in rr:
  dt=r['dates'].get('published-print') or r['dates'].get('published-online') or r['dates'].get('published')
  if dt:ris+=['PY  - '+str(dt[0][0])]
  ris+=['DO  - '+r['doi'],'UR  - '+q['url'],'N1  - '+r['evidence_level']+'；首发与卷期日期及待核问题详见文献卡','ER  - ','']
-queue_path.write_text(json.dumps(queue,ensure_ascii=False,indent=2));(R/'data/已核读文献.ris').write_text('\n'.join(ris))
+queue_path.write_text(json.dumps(queue,ensure_ascii=False,indent=2));(R/'data/已核读文献.ris').write_text('\n'.join(line.rstrip() for line in ris))
 s='# 原文获取与核读队列\n\n更新：2026-10-23。资料暂不可读仍保留。登录限制、网络失败、未尝试、获取成功及正文核读分别记录。用户计划次日协助登录；开放来源继续独立推进。\n\n'
 for q in queue:
  s+=f"### {q['title']}\n\n- [原文入口]({q['url']})；[文献卡](cards/{q['id']}.md)。\n- 状态：{q['status']}。\n- 下一步：{q['action']}。\n- 核读问题：{q['question']}\n\n"

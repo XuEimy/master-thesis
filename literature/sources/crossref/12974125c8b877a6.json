@@ -1,0 +1,382 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          21
+        ]
+      ],
+      "date-time": "2026-08-21T13:16:09Z",
+      "timestamp": 1787318169036,
+      "version": "build-2736575974"
+    },
+    "reference-count": 22,
+    "publisher": "SAGE Publications",
+    "issue": "10",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              8,
+              29
+            ]
+          ],
+          "date-time": "2014-08-29T00:00:00Z",
+          "timestamp": 1409270400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Psychol Sci"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          10
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Although documenting everyday activities may seem trivial, four studies reveal that creating records of the present generates unexpected benefits by allowing future rediscoveries. In Study 1, we used a time-capsule paradigm to show that individuals underestimate the extent to which rediscovering experiences from the past will be curiosity provoking and interesting in the future. In Studies 2 and 3, we found that people are particularly likely to underestimate the pleasure of rediscovering ordinary, mundane experiences, as opposed to extraordinary experiences. Finally, Study 4 demonstrates that underestimating the pleasure of rediscovery leads to time-inconsistent choices: Individuals forgo opportunities to document the present but then prefer rediscovering those moments in the future to engaging in an alternative fun activity. Underestimating the value of rediscovery is linked to people’s erroneous faith in their memory of everyday events. By documenting the present, people provide themselves with the opportunity to rediscover mundane moments that may otherwise have been forgotten.</jats:p>",
+    "DOI": "10.1177/0956797614542274",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          29
+        ]
+      ],
+      "date-time": "2014-08-29T22:36:03Z",
+      "timestamp": 1409351763000
+    },
+    "page": "1851-1860",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 32,
+    "title": [
+      "A “Present” for the Future"
+    ],
+    "prefix": "10.1177",
+    "volume": "25",
+    "author": [
+      {
+        "given": "Ting",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Harvard Business School, Harvard University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tami",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Harvard Business School, Harvard University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alison Wood",
+        "family": "Brooks",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Harvard Business School, Harvard University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francesca",
+        "family": "Gino",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Harvard Business School, Harvard University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael I.",
+        "family": "Norton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Harvard Business School, Harvard University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741942071"
+      },
+      {
+        "key": "bibr2-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/674724"
+      },
+      {
+        "key": "bibr3-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797612458804"
+      },
+      {
+        "key": "bibr4-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1257/aer.97.4.1217"
+      },
+      {
+        "key": "bibr5-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0096-3445.130.4.579"
+      },
+      {
+        "key": "bibr6-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0146167206294201"
+      },
+      {
+        "key": "bibr7-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2966.2010.01005.x"
+      },
+      {
+        "key": "bibr8-0956797614542274",
+        "first-page": "302",
+        "volume-title": "Well-being: The foundations of hedonic psychology",
+        "author": "Frederick S.",
+        "year": "1999"
+      },
+      {
+        "key": "bibr9-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.65.1.45"
+      },
+      {
+        "key": "bibr10-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/obhd.2001.2982"
+      },
+      {
+        "key": "bibr11-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0956-7976.2004.00681.x"
+      },
+      {
+        "key": "bibr12-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.75.3.617"
+      },
+      {
+        "key": "bibr13-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797613504438"
+      },
+      {
+        "key": "bibr14-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2006.01760.x"
+      },
+      {
+        "key": "bibr15-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/117263"
+      },
+      {
+        "key": "bibr16-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/003355303322552784"
+      },
+      {
+        "key": "bibr17-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1229294"
+      },
+      {
+        "key": "bibr18-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9280.00212"
+      },
+      {
+        "key": "bibr19-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-9280.02453"
+      },
+      {
+        "key": "bibr20-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0149206309352246"
+      },
+      {
+        "key": "bibr21-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550609355719"
+      },
+      {
+        "key": "bibr22-0956797614542274",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0963-7214.2005.00355.x"
+      }
+    ],
+    "container-title": [
+      "Psychological Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0956797614542274",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0956797614542274",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0956797614542274",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2026-05-01T21:25:02Z",
+      "timestamp": 1777670702000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/0956797614542274"
+      }
+    },
+    "subtitle": [
+      "The Unexpected Value of Rediscovery"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          29
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "10",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/0956797614542274"
+    ],
+    "URL": "https://doi.org/10.1177/0956797614542274",
+    "relation": {},
+    "ISSN": [
+      "0956-7976",
+      "1467-9280"
+    ],
+    "issn-type": [
+      {
+        "value": "0956-7976",
+        "type": "print"
+      },
+      {
+        "value": "1467-9280",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          29
+        ]
+      ]
+    }
+  }
+}

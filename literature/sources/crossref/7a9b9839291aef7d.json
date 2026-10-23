@@ -1,0 +1,489 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2026-10-12T07:49:52Z",
+      "timestamp": 1791791392286,
+      "version": "4.3.4"
+    },
+    "reference-count": 48,
+    "publisher": "Cambridge University Press (CUP)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:00:00Z",
+          "timestamp": 1791763200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 284,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mem. Mind &amp; Media"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Algorithmic technologies have started to transform the ways people experience everyday life and the ways they remember and store personal memories. More and more companies are converting our recorded data into automated memory experiences with machine learning algorithms. Promotional discourses go along with the release of these memory products. We argue that the study of these specific discourses provides insight into the imaginaries surrounding the datafication and automation of remembering. Rooted in the approaches of both memory and media studies, this study offers a qualitative, semiotic analysis of the promotional discourses of three companies (Google, Apple, and Personal AI) and one project (Memoro). The proposed comparison is not based on the functional part of the technology itself\n                    <jats:bold>–</jats:bold>\n                    as they are very heterogenous\n                    <jats:bold>–</jats:bold>\n                    but focuses on the discursive promises that are made in the promotional material.\n                  </jats:p>",
+    "DOI": "10.1017/mem.2026.10057",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2026-10-12T07:42:38Z",
+      "timestamp": 1791790958000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "‘On some promises of personal memory algorithmisation’"
+    ],
+    "prefix": "10.1017",
+    "volume": "5",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0002-8193-5547",
+        "authenticated-orcid": false,
+        "given": "Rémi",
+        "family": "Rouge",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/0199hds37",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Université Sorbonne Paris Nord – LabSIC"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Katharina",
+        "family": "Niemeyer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/002rjbv21",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Québec in Montréal"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Emmanuelle",
+        "family": "Caccamo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/02xrw9r68",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "Université du Québec à Trois-Rivières"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "56",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "S2635023826100575_r15",
+        "volume-title": "Le travail invisible des données. Éléments pour une sociologie des infrastructure scripturales [The Invisible Work of Data. Elements for a Sociology of Scriptural Infrastructures].",
+        "author": "Denis",
+        "year": "2018"
+      },
+      {
+        "key": "S2635023826100575_r8",
+        "first-page": "149",
+        "volume-title": "Technomémoires. Mémoire, Souvenirs et Technologies émergentes",
+        "author": "Caccamo",
+        "year": "2026"
+      },
+      {
+        "key": "S2635023826100575_r28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1215/2834703X-11205231"
+      },
+      {
+        "key": "S2635023826100575_r32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7208/chicago/9780226276663.001.0001"
+      },
+      {
+        "key": "S2635023826100575_r20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3917/dec.flich.2003.01"
+      },
+      {
+        "key": "S2635023826100575_r4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.22230/cjc.2016v41n4a3114"
+      },
+      {
+        "key": "S2635023826100575_r37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3406/intel.2013.1088"
+      },
+      {
+        "key": "S2635023826100575_r25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1561/9781601988034"
+      },
+      {
+        "key": "S2635023826100575_r62",
+        "first-page": "1639‑1662",
+        "article-title": "The commodification of time and memory: Online communities and the dynamics of commercially produced nostalgia",
+        "volume": "22",
+        "author": "Niemeyer",
+        "year": "2020",
+        "journal-title": "New Media and ; Society"
+      },
+      {
+        "key": "S2635023826100575_r23",
+        "first-page": "93",
+        "volume-title": "Temps, temporalité(s) et dispositifs de médiation",
+        "author": "Gomez-Mejia",
+        "year": "2017"
+      },
+      {
+        "key": "S2635023826100575_r29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2024.16"
+      },
+      {
+        "key": "S2635023826100575_r35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2056305120978968"
+      },
+      {
+        "key": "S2635023826100575_r10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4000/socio.4401"
+      },
+      {
+        "key": "S2635023826100575_r64",
+        "first-page": "51‑71",
+        "volume-title": "Attentes et promesses technoscientifiques",
+        "author": "Lussier-Lejeune",
+        "year": "2022"
+      },
+      {
+        "key": "S2635023826100575_r49",
+        "first-page": "135",
+        "volume-title": "Études digitales 2024–1, n° 17. À l’épreuve des données. Sensibilité et espace public",
+        "author": "Rouge",
+        "year": "2024"
+      },
+      {
+        "key": "S2635023826100575_r55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698008097397"
+      },
+      {
+        "key": "S2635023826100575_r57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2024.4"
+      },
+      {
+        "key": "S2635023826100575_r60",
+        "first-page": "1",
+        "volume-title": "Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI ‘24)",
+        "author": "Zulfikar",
+        "year": "2024"
+      },
+      {
+        "key": "S2635023826100575_r27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2053951715592429"
+      },
+      {
+        "key": "S2635023826100575_r43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11023-017-9445-2"
+      },
+      {
+        "key": "S2635023826100575_r47",
+        "first-page": "89",
+        "volume-title": "Numérisation de la société et enjeux sociopolitiques 1",
+        "author": "Rouge",
+        "year": "2019"
+      },
+      {
+        "key": "S2635023826100575_r46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7208/chicago/9780226713465.001.0001"
+      },
+      {
+        "key": "S2635023826100575_r58",
+        "volume-title": "The Remaking of Memory in the Age of the Internet and Social Media",
+        "author": "Wang",
+        "year": "2024"
+      },
+      {
+        "key": "S2635023826100575_r26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7208/chicago/9780226774497.001.0001"
+      },
+      {
+        "key": "S2635023826100575_r54",
+        "volume-title": "Les Abus de la mémoire [The Abuses of Memory]",
+        "author": "Todorov",
+        "year": "2004"
+      },
+      {
+        "key": "S2635023826100575_r39",
+        "volume-title": "De la chute du mur de Berlin au 11 Septembre 2001. Le journal télévisé, les mémoires collectives et l’écriture de l’histoire [From the Fall of the Berlin Wall to September 11th. Television News, Collective Memories and the Writing of History]",
+        "author": "Niemeyer",
+        "year": "2011"
+      },
+      {
+        "key": "S2635023826100575_r2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0263276413476542"
+      },
+      {
+        "key": "S2635023826100575_r50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2024.14"
+      },
+      {
+        "key": "S2635023826100575_r40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3917/eff.007.0078"
+      },
+      {
+        "key": "S2635023826100575_r63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3406/reso.1986.1204"
+      },
+      {
+        "key": "S2635023826100575_r52",
+        "first-page": "196",
+        "volume-title": "The Remaking of Memory in the Age of the Internet and Social Media",
+        "author": "Smit",
+        "year": "2024"
+      },
+      {
+        "key": "S2635023826100575_r45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3917/eres.lenay.1999.01.0035"
+      },
+      {
+        "key": "S2635023826100575_r9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11186-020-09411-3"
+      },
+      {
+        "key": "S2635023826100575_r42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7208/chicago/9780226828237.001.0001"
+      },
+      {
+        "key": "S2635023826100575_r12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/mem.2026.10034"
+      },
+      {
+        "key": "S2635023826100575_r13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9782760645028"
+      },
+      {
+        "key": "S2635023826100575_r33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3917/oj.lesou.2013.01.0231"
+      },
+      {
+        "key": "S2635023826100575_r61",
+        "article-title": "The multiplicities of platformed remembering",
+        "volume": "3",
+        "author": "Smit",
+        "year": "2024",
+        "journal-title": "Memory, Mind and ; Media"
+      },
+      {
+        "key": "S2635023826100575_r53",
+        "unstructured": "Stiegler, B (1991) État de la mémoire et mémoire de l’État [State of memory and state memory]. Ars industrialis. https://arsindustrialis.org/node/1936"
+      },
+      {
+        "key": "S2635023826100575_r6",
+        "article-title": "Eternime ou simuler les morts par le biais d’agents conversationnels “intelligents” [Eternime or simulating the dead using “smart chatbots”]",
+        "volume": "2",
+        "author": "Caccamo",
+        "year": "2021",
+        "journal-title": "Frontières"
+      },
+      {
+        "key": "S2635023826100575_r31",
+        "volume-title": "Social Media and the Automatic Production of Memory: Classification, Ranking and the Sorting of the Past",
+        "author": "Jacobsen",
+        "year": "2021"
+      },
+      {
+        "key": "S2635023826100575_r5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0163443720904601"
+      },
+      {
+        "key": "S2635023826100575_r48",
+        "unstructured": "Rouge, R (2023) Le temps retrouvé, la fabrique des souvenirs numériques saisie par ses professionnels [Le temps retrouvé, the factory of digital memories by professionals], Phd Dissertation, Université Paris 8, Paris. https://theses.fr/2023PA080031."
+      },
+      {
+        "key": "S2635023826100575_r24",
+        "volume-title": "Les imaginaires de l’innovation technique. Regard anthropologique sur le passé dans la perspective d’un avenir incertain",
+        "author": "Gras",
+        "year": "2013"
+      },
+      {
+        "key": "S2635023826100575_r17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0957926504045032"
+      },
+      {
+        "key": "S2635023826100575_r30",
+        "unstructured": "Jacobsen, B N (2020) ‘You Have a New Memory’: Mediated Memories in the Age of Algorithms. York: University of York. https://etheses.whiterose.ac.uk/28341/1/Jacobsen_109033505_Thesis.pdf."
+      },
+      {
+        "key": "S2635023826100575_r41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3917/tdm.039.0006"
+      },
+      {
+        "key": "S2635023826100575_r44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3917/comla1.212.0063"
+      }
+    ],
+    "container-title": [
+      "Memory, Mind &amp; Media"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S2635023826100575",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2026-10-12T07:42:43Z",
+      "timestamp": 1791790963000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.cambridge.org/core/product/identifier/S2635023826100575/type/journal_article"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "references-count": 48,
+    "alternative-id": [
+      "S2635023826100575"
+    ],
+    "URL": "https://doi.org/10.1017/mem.2026.10057",
+    "relation": {},
+    "ISSN": [
+      "2635-0238"
+    ],
+    "issn-type": [
+      {
+        "value": "2635-0238",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "article-number": "e32"
+  }
+}

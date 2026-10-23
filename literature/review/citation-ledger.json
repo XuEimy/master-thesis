@@ -1,0 +1,4662 @@
+[
+  {
+    "id": "Lc91ab539f686",
+    "doi": "10.1145/1735223.1735243",
+    "title": "Beyond total capture: a constructive critique of lifelogging",
+    "authors": [
+      "Abigail J. Sellen",
+      "Steve Whittaker"
+    ],
+    "venue": [
+      "Communications of the ACM"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2010,
+          5
+        ]
+      ],
+      "published-print": [
+        [
+          2010,
+          5
+        ]
+      ],
+      "published": [
+        [
+          2010,
+          5
+        ]
+      ]
+    },
+    "role": "记忆系统设计：捕捉目标",
+    "evidence_level": "作者机构摘要核读",
+    "finding": "Sellen 与 Whittaker 主张从人类记忆的心理基础出发设计生活日志，而非追求捕捉一切。",
+    "boundary": "本轮仅直接读到机构摘要；五类活动的具体界定不能冒充本篇正文核读。",
+    "next_check": "取得原文，核对情境特定捕捉和不同记忆活动的定义。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/e2aced14ff9f4069.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/1735223.1735243",
+    "abstract_source": [],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/review-expand03.json",
+      "locator": "Microsoft Research 官方摘要"
+    },
+    "reference_number": 1,
+    "reference_year": 2010,
+    "url": "https://doi.org/10.1145/1735223.1735243",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.1 从保存生活材料到支持个人回忆",
+        "paragraph": "这一问题不能只从信息保存效率解释。Sellen 与 Whittaker 对生活日志的批评已指出，系统设计应建立在人类记忆的心理基础上，而非把尽可能多地捕捉生活当作目标。生活日志研究随后发展了丰富的数据组织和检索方法，但找到与查询匹配的记录，仍不同于使用者重新体验某次个人经历。前者可以用检索正确率衡量，后者涉及个人与经历之间的联系及当下的提取过程。因此，本研究同时借鉴心理学对记忆的解释、媒介研究对记录实践的分析，以及设计和工程对外部辅助系统的探索。"
+      }
+    ]
+  },
+  {
+    "id": "L79045be90d7c",
+    "doi": "10.2196/30517",
+    "title": "Lifelog Retrieval From Daily Digital Data: Narrative Review",
+    "authors": [
+      "Ricardo Ribeiro",
+      "Alina Trifan",
+      "António J R Neves"
+    ],
+    "venue": [
+      "JMIR mHealth and uHealth"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2022,
+          5,
+          2
+        ]
+      ],
+      "published": [
+        [
+          2022,
+          5,
+          2
+        ]
+      ]
+    },
+    "role": "信息检索：生活日志综述",
+    "evidence_level": "摘要核读",
+    "finding": "综述生活日志的数据、检索方法与应用，为寻找图像、声音、位置等输入及处理路径提供入口。",
+    "boundary": "检索准确率与找回记录不等于人发生回忆；作者的记忆增强展望仍需检查直接证据。",
+    "next_check": "核读研究表格，分别提取传感、事件组织、检索及用户评价。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/06d4f86cc33be5e0.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.2196/30517",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-2020595d1fca",
+        "provider_id": "35499858",
+        "raw_page": "sources/api/europepmc-2020595d1fca/page-0003.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-d59f758a2f3c",
+        "provider_id": "35499858",
+        "raw_page": "sources/api/europepmc-d59f758a2f3c/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-dd2af061e7f4",
+        "provider_id": "35499858",
+        "raw_page": "sources/api/europepmc-dd2af061e7f4/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-fa96bf703b17",
+        "provider_id": "35499858",
+        "raw_page": "sources/api/europepmc-fa96bf703b17/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-c19ea64df714",
+        "provider_id": "35499858",
+        "raw_page": "sources/api/pubmed-c19ea64df714/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-6b56d5a446b1",
+        "provider_id": "ff38bc8fa60107e0f4c78d24ea4edb5f294c7cb1",
+        "raw_page": "sources/api/semanticscholar-6b56d5a446b1/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-faea059ed0f4",
+        "provider_id": "ff38bc8fa60107e0f4c78d24ea4edb5f294c7cb1",
+        "raw_page": "sources/api/semanticscholar-faea059ed0f4/page-0002.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 2,
+    "reference_year": 2022,
+    "url": "https://doi.org/10.2196/30517",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.1 从保存生活材料到支持个人回忆",
+        "paragraph": "这一问题不能只从信息保存效率解释。Sellen 与 Whittaker 对生活日志的批评已指出，系统设计应建立在人类记忆的心理基础上，而非把尽可能多地捕捉生活当作目标。生活日志研究随后发展了丰富的数据组织和检索方法，但找到与查询匹配的记录，仍不同于使用者重新体验某次个人经历。前者可以用检索正确率衡量，后者涉及个人与经历之间的联系及当下的提取过程。因此，本研究同时借鉴心理学对记忆的解释、媒介研究对记录实践的分析，以及设计和工程对外部辅助系统的探索。[〔1〕](https://doi.org/10.1145/1735223.1735243)"
+      },
+      {
+        "section": "2.4.2 识别与组织：把可检索材料变成个人线索",
+        "paragraph": "生活日志检索研究为图像、声音和情境数据的处理提供了技术基础。LAD 应用设计模型进一步连接数据、访问方式和用途，但其理论案例及既有原型回顾并非回忆效果实验。对本研究而言，技术流程需要从用户想回顾的经历反推：识别了哪些事件，保留了哪些可辨认的线索，如何将分散片段联系起来，以及这种组织是否符合本人理解。"
+      }
+    ]
+  },
+  {
+    "id": "L9c2fa5792ce5",
+    "doi": "10.1037/0033-295x.107.2.261",
+    "title": "The construction of autobiographical memories in the self-memory system.",
+    "authors": [
+      "Martin A. Conway",
+      "Christopher W. Pleydell-Pearce"
+    ],
+    "venue": [
+      "Psychological Review"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2000
+        ]
+      ],
+      "published": [
+        [
+          2000
+        ]
+      ]
+    },
+    "role": "认知心理学：自我与提取",
+    "evidence_level": "摘要核读",
+    "finding": "自传体记忆被解释为自我记忆系统中的暂时建构；当前目标与自传体知识共同约束提取线索。",
+    "boundary": "理论模型不提供传感器清单，也不证明某种 AI 产品有效。",
+    "next_check": "核读知识层级、目标调控及直接与生成性提取的原文定义。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/e5a57f774c27db19.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1037/0033-295x.107.2.261",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-2020595d1fca",
+        "provider_id": "10789197",
+        "raw_page": "sources/api/europepmc-2020595d1fca/page-0005.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-279b928b7fcf",
+        "provider_id": "10789197",
+        "raw_page": "sources/api/europepmc-279b928b7fcf/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-dc3318dc46a7",
+        "provider_id": "10789197",
+        "raw_page": "sources/api/pubmed-dc3318dc46a7/page-0003.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-45346bed40b7",
+        "provider_id": "13241a844c714549c173e239714ae020386172e3",
+        "raw_page": "sources/api/semanticscholar-45346bed40b7/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-7470281a80e0",
+        "provider_id": "13241a844c714549c173e239714ae020386172e3",
+        "raw_page": "sources/api/semanticscholar-7470281a80e0/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-ddb55b1136cf",
+        "provider_id": "13241a844c714549c173e239714ae020386172e3",
+        "raw_page": "sources/api/semanticscholar-ddb55b1136cf/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 3,
+    "reference_year": 2000,
+    "url": "https://doi.org/10.1037/0033-295x.107.2.261",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.1 线索的作用来自个人经历与当前目标",
+        "paragraph": "Conway 与 Pleydell-Pearce 的自我—记忆系统将自传体回忆解释为受当前目标和自传体知识约束的暂时建构。对本研究而言，其意义是：同一段影像能否引起回忆，不能仅由画面包含多少对象决定，还取决于它与个人知识、经历及当前关注的关系。Rubin 的基本系统模型进一步强调，情景记忆涉及感官、空间、语言、情绪和叙事等系统的共同作用。由此可以提出多种线索的观察方向，但不能把每一种心理系统直接对应为必须采集的一种传感数据。照片可能使人联想到当时的声音，物件也可能引出一段对话；线索的物理形式和被唤起经验的形式并非一一对应。"
+      }
+    ]
+  },
+  {
+    "id": "L66e09ba76048",
+    "doi": "10.1111/j.1745-6916.2006.00017.x",
+    "title": "The Basic-Systems Model of Episodic Memory",
+    "authors": [
+      "David C. Rubin"
+    ],
+    "venue": [
+      "Perspectives on Psychological Science"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2006,
+          12,
+          1
+        ]
+      ],
+      "published-print": [
+        [
+          2006,
+          12
+        ]
+      ],
+      "published": [
+        [
+          2006,
+          12
+        ]
+      ]
+    },
+    "role": "认知心理学：多系统记忆",
+    "evidence_level": "摘要核读",
+    "finding": "情景记忆涉及感官、空间表象、语言、情绪、叙事及提取等系统之间的相互作用。",
+    "boundary": "涉及一种心理系统，不等于必须配备对应传感器；声、味等也可能由照片联想出来。",
+    "next_check": "核读各系统的相互作用及其支持证据，区分直接采集与间接唤起。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/9a660139e56e2a17.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1111/j.1745-6916.2006.00017.x",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-279b928b7fcf",
+        "provider_id": "26151796",
+        "raw_page": "sources/api/europepmc-279b928b7fcf/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-36723a94ea62",
+        "provider_id": "26151796",
+        "raw_page": "sources/api/pubmed-36723a94ea62/page-0006.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-dc3318dc46a7",
+        "provider_id": "26151796",
+        "raw_page": "sources/api/pubmed-dc3318dc46a7/page-0003.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-45346bed40b7",
+        "provider_id": "056b1995da6c57ffe2426f446a724005aad3b4d3",
+        "raw_page": "sources/api/semanticscholar-45346bed40b7/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-7470281a80e0",
+        "provider_id": "056b1995da6c57ffe2426f446a724005aad3b4d3",
+        "raw_page": "sources/api/semanticscholar-7470281a80e0/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-ddb55b1136cf",
+        "provider_id": "056b1995da6c57ffe2426f446a724005aad3b4d3",
+        "raw_page": "sources/api/semanticscholar-ddb55b1136cf/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 4,
+    "reference_year": 2006,
+    "url": "https://doi.org/10.1111/j.1745-6916.2006.00017.x",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.1 线索的作用来自个人经历与当前目标",
+        "paragraph": "Conway 与 Pleydell-Pearce 的自我—记忆系统将自传体回忆解释为受当前目标和自传体知识约束的暂时建构。对本研究而言，其意义是：同一段影像能否引起回忆，不能仅由画面包含多少对象决定，还取决于它与个人知识、经历及当前关注的关系。Rubin 的基本系统模型进一步强调，情景记忆涉及感官、空间、语言、情绪和叙事等系统的共同作用。由此可以提出多种线索的观察方向，但不能把每一种心理系统直接对应为必须采集的一种传感数据。照片可能使人联想到当时的声音，物件也可能引出一段对话；线索的物理形式和被唤起经验的形式并非一一对应。[〔3〕](https://doi.org/10.1037/0033-295x.107.2.261)"
+      }
+    ]
+  },
+  {
+    "id": "Lf5b683d3beba",
+    "doi": "10.1177/0963721413475622",
+    "title": "Narrative Identity",
+    "authors": [
+      "Dan P. McAdams",
+      "Kate C. McLean"
+    ],
+    "venue": [
+      "Current Directions in Psychological Science"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2013,
+          6,
+          4
+        ]
+      ],
+      "published-print": [
+        [
+          2013,
+          6
+        ]
+      ],
+      "published": [
+        [
+          2013,
+          6
+        ]
+      ]
+    },
+    "role": "人格与叙事：生命故事",
+    "evidence_level": "摘要核读",
+    "finding": "叙事身份连接被重构的过去与想象的未来，使经历获得连续性与目的。",
+    "boundary": "人生故事的意义不等同于一次事件细节的准确性；综述也指出因果方向尚需澄清。",
+    "next_check": "区分事件级回忆与生命故事级叙事，核读文化情境与意义建构。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/1b28369f47c5389e.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1177/0963721413475622",
+    "abstract_source": [],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 5,
+    "reference_year": 2013,
+    "url": "https://doi.org/10.1177/0963721413475622",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.1 线索的作用来自个人经历与当前目标",
+        "paragraph": "个人经历还会被放入较长的生命叙述中。McAdams 与 McLean 关于叙事身份的讨论，将被重构的过去与想象的未来联系起来，用以解释连续性和目的感。这与事件级的细节提取存在联系，却不是同一种结果。某段回忆可能细节不多，却对使用者理解自己十分重要；另一段记录可能准确呈现了许多场景，却没有形成值得重访的个人意义。设计研究因而需要分别询问“想起了什么”和“为什么这段经历值得再看”，不能只依赖画面丰富度判断其价值。"
+      }
+    ]
+  },
+  {
+    "id": "L3eeb4dd1ef24",
+    "doi": "10.1145/2702123.2702460",
+    "title": "Things That Make Us Reminisce: Everyday Memory Cues as Opportunities for Interaction Design",
+    "authors": [
+      "Doménique van Gennip",
+      "Elise van den Hoven",
+      "Panos Markopoulos"
+    ],
+    "venue": [
+      "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems"
+    ],
+    "publication_type": "proceedings-article",
+    "dates": {
+      "published-online": [
+        [
+          2015,
+          4,
+          18
+        ]
+      ],
+      "published-print": [
+        [
+          2015,
+          4,
+          18
+        ]
+      ],
+      "published": [
+        [
+          2015,
+          4,
+          18
+        ]
+      ]
+    },
+    "role": "日常线索：设计与质性研究",
+    "evidence_level": "摘要核读",
+    "finding": "十五名成人的日记及访谈显示，日常物件、地点和重复活动也是回忆线索；作者据此讨论时机、接触和个人依恋。",
+    "boundary": "样本和记录方法约束出现频率；不能推出数码照片普遍较弱。",
+    "next_check": "核读日记提示及分析，和日记方法差异文献比较。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/0caaa88d09885515.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/2702123.2702460",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-0b39bd78e4f4",
+        "provider_id": "e254db4f3d48b2866cb11639b936d9c049d48069",
+        "raw_page": "sources/api/semanticscholar-0b39bd78e4f4/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 6,
+    "reference_year": 2015,
+    "url": "https://doi.org/10.1145/2702123.2702460",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.1 线索的作用来自个人经历与当前目标",
+        "paragraph": "实际生活中的线索也超出数字相册。van Gennip 等关于日常回忆线索的日记与访谈研究涉及十五名成人，指出物件、地点及重复活动都可能引出回忆。Tullis 与 Finley 关于自生线索的综述则提示，个人知识和线索的区分性是理解提取的重要入口。但后一类证据包含学习与训练任务，不能直接推出 AI 生成线索和本人选择线索效果相同。两者共同支持的是一项调研要求：应让参与者解释某种内容为何与某段经历相连，而不是由研究者预先列出一份对所有人通用的“重要事物清单”。"
+      }
+    ]
+  },
+  {
+    "id": "L9f49f261c95f",
+    "doi": "10.1177/2372732218788092",
+    "title": "Self-Generated Memory Cues: Effective Tools for Learning, Training, and Remembering",
+    "authors": [
+      "Jonathan G. Tullis",
+      "Jason R. Finley"
+    ],
+    "venue": [
+      "Policy Insights from the Behavioral and Brain Sciences"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2018,
+          8,
+          21
+        ]
+      ],
+      "published-print": [
+        [
+          2018,
+          10
+        ]
+      ],
+      "published": [
+        [
+          2018,
+          8,
+          21
+        ]
+      ]
+    },
+    "role": "学习与记忆：自生线索",
+    "evidence_level": "摘要核读",
+    "finding": "综述自我生成线索如何利用个人经历、既有知识与区分性支持提取，并讨论跨情境可记住线索的困难。",
+    "boundary": "含学习训练等情境，属于个人回忆设计的邻近机制；不能直接证明 AI 生成线索等同本人生成。",
+    "next_check": "核读原始实验，分别考察本人选择、本人命名与算法生成。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/eb191350b9236d4b.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1177/2372732218788092",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-0b39bd78e4f4",
+        "provider_id": "a0952babaa440bd13923aa2f2ad26f1144327ba1",
+        "raw_page": "sources/api/semanticscholar-0b39bd78e4f4/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 7,
+    "reference_year": 2018,
+    "url": "https://doi.org/10.1177/2372732218788092",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.1 线索的作用来自个人经历与当前目标",
+        "paragraph": "实际生活中的线索也超出数字相册。van Gennip 等关于日常回忆线索的日记与访谈研究涉及十五名成人，指出物件、地点及重复活动都可能引出回忆。Tullis 与 Finley 关于自生线索的综述则提示，个人知识和线索的区分性是理解提取的重要入口。但后一类证据包含学习与训练任务，不能直接推出 AI 生成线索和本人选择线索效果相同。两者共同支持的是一项调研要求：应让参与者解释某种内容为何与某段经历相连，而不是由研究者预先列出一份对所有人通用的“重要事物清单”。[〔6〕](https://doi.org/10.1145/2702123.2702460)"
+      }
+    ]
+  },
+  {
+    "id": "L922e7eea8236",
+    "doi": "10.3724/sp.j.1042.2014.00269",
+    "title": "Functions, Characteristics, and Theoretical Explanations of Involuntary Autobiographical Memories",
+    "authors": [
+      "Xiaolan QU",
+      "Yiping ZHONG",
+      "Qingsong YANG",
+      "Hong MENG"
+    ],
+    "venue": [
+      "Advances in Psychological Science"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-print": [
+        [
+          2014
+        ]
+      ],
+      "published": [
+        [
+          2014
+        ]
+      ]
+    },
+    "role": "认知心理学：自发回忆",
+    "evidence_level": "期刊摘要核读",
+    "finding": "综述没有预先提取意图时自发浮现的个人经历记忆，以及相关功能、特征和解释理论。",
+    "boundary": "系统推送不必然造成自发回忆；看到提醒与主观想起经历需要分别观察。",
+    "next_check": "继续取得中文全文，追溯直接提取与线索启动研究。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/d06ea799bcb8d64d.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.3724/sp.j.1042.2014.00269",
+    "abstract_source": [],
+    "abstract_available": false,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch07-interdisciplinary.json",
+      "locator": "期刊官网摘要"
+    },
+    "reference_number": 8,
+    "reference_year": 2014,
+    "url": "https://doi.org/10.3724/sp.j.1042.2014.00269",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.2 线索形式、内容和提取任务应分别考虑",
+        "paragraph": "自发回忆研究关心的是在没有预先提取意图时，个人经历如何浮现。中文相关综述和直接提取理论为这一问题提供了概念基础。它们使本研究有必要区分“系统显示了一个提醒”与“使用者实际想起一段经历”：提醒只是外部事件，回忆是否发生及如何发生仍需观察。关于少量与大量线索的实验也提示，增加提示数量不能自动保证更多有效提取。将这些发现转译为界面设计时，应检验线索的个人关联和相互竞争，而不能直接沿用某项实验的线索数量作为产品规则。"
+      }
+    ]
+  },
+  {
+    "id": "L46dfecb96f0e",
+    "doi": "10.1098/rstb.2019.0693",
+    "title": "Involuntary autobiographical memories and their relation to other forms of spontaneous thoughts",
+    "authors": [
+      "Dorthe Berntsen"
+    ],
+    "venue": [
+      "Philosophical Transactions of the Royal Society B: Biological Sciences"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2020,
+          12,
+          14
+        ]
+      ],
+      "published-print": [
+        [
+          2021,
+          2
+        ]
+      ],
+      "published": [
+        [
+          2020,
+          12,
+          14
+        ]
+      ]
+    },
+    "role": "认知心理学：自发回忆与情境",
+    "evidence_level": "摘要核读",
+    "finding": "综述把自发性自传体回忆描述为与当前情境特征关联、较少依赖执行控制的提取；并区分其与一般走神及临床侵入性记忆。",
+    "boundary": "不能将所有注意游离都算作回忆，也不能把临床创伤研究直接推广为一般回忆设计。",
+    "next_check": "全文 XML 两次返回 500，继续尝试出版社或 PMC 网页；核对线索重叠与时间距离证据。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/4ee103f2ad322cd1.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1098/rstb.2019.0693",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-2020595d1fca",
+        "provider_id": "33308074",
+        "raw_page": "sources/api/europepmc-2020595d1fca/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-d59f758a2f3c",
+        "provider_id": "33308074",
+        "raw_page": "sources/api/europepmc-d59f758a2f3c/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-39e38872382f",
+        "provider_id": "33308074",
+        "raw_page": "sources/api/pubmed-39e38872382f/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-45346bed40b7",
+        "provider_id": "7301a8f00ef8d88a2de0007d45f7a8bad33c567e",
+        "raw_page": "sources/api/semanticscholar-45346bed40b7/page-0002.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 9,
+    "reference_year": 2021,
+    "url": "https://doi.org/10.1098/rstb.2019.0693",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.2 线索形式、内容和提取任务应分别考虑",
+        "paragraph": "自发回忆研究关心的是在没有预先提取意图时，个人经历如何浮现。中文相关综述和直接提取理论为这一问题提供了概念基础。它们使本研究有必要区分“系统显示了一个提醒”与“使用者实际想起一段经历”：提醒只是外部事件，回忆是否发生及如何发生仍需观察。关于少量与大量线索的实验也提示，增加提示数量不能自动保证更多有效提取。将这些发现转译为界面设计时，应检验线索的个人关联和相互竞争，而不能直接沿用某项实验的线索数量作为产品规则。[〔8〕](https://doi.org/10.3724/sp.j.1042.2014.00269)"
+      }
+    ]
+  },
+  {
+    "id": "L957a8fda7679",
+    "doi": "10.1007/s00426-014-0632-y",
+    "title": "Why are we not flooded by involuntary autobiographical memories? Few cues are more effective than many",
+    "authors": [
+      "Manila Vannucci",
+      "Claudia Pelagatti",
+      "Maciej Hanczakowski",
+      "Giuliana Mazzoni",
+      "Claudia Rossi Paccani"
+    ],
+    "venue": [
+      "Psychological Research"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2014,
+          12,
+          3
+        ]
+      ],
+      "published-print": [
+        [
+          2015,
+          11
+        ]
+      ],
+      "published": [
+        [
+          2014,
+          12,
+          3
+        ]
+      ]
+    },
+    "role": "注意与提取：线索密度",
+    "evidence_level": "摘要核读",
+    "finding": "警觉任务中操纵语言线索频率，并设置低频线索加算术条件；高频及增加负荷的条件报告较少自发回忆。",
+    "boundary": "实验任务与手机推送不同；结果不能直接规定通知频率，报告数量也涉及觉察。",
+    "next_check": "核对样本、线索暴露及负荷操纵，分清提取减少和报告减少。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/5e164c6ac0b8732c.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1007/s00426-014-0632-y",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-714705a50e7b",
+        "provider_id": "25468208",
+        "raw_page": "sources/api/europepmc-714705a50e7b/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-45346bed40b7",
+        "provider_id": "aca29d6cf887ae9acfa8b932175adc1fd4f12619",
+        "raw_page": "sources/api/semanticscholar-45346bed40b7/page-0002.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-f3a4019efc4f",
+        "provider_id": "aca29d6cf887ae9acfa8b932175adc1fd4f12619",
+        "raw_page": "sources/api/semanticscholar-f3a4019efc4f/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 10,
+    "reference_year": 2015,
+    "url": "https://doi.org/10.1007/s00426-014-0632-y",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.2 线索形式、内容和提取任务应分别考虑",
+        "paragraph": "自发回忆研究关心的是在没有预先提取意图时，个人经历如何浮现。中文相关综述和直接提取理论为这一问题提供了概念基础。它们使本研究有必要区分“系统显示了一个提醒”与“使用者实际想起一段经历”：提醒只是外部事件，回忆是否发生及如何发生仍需观察。关于少量与大量线索的实验也提示，增加提示数量不能自动保证更多有效提取。将这些发现转译为界面设计时，应检验线索的个人关联和相互竞争，而不能直接沿用某项实验的线索数量作为产品规则。[〔8〕](https://doi.org/10.3724/sp.j.1042.2014.00269)[〔9〕](https://doi.org/10.1098/rstb.2019.0693)"
+      }
+    ]
+  },
+  {
+    "id": "L3231e9ed688f",
+    "doi": "10.1016/j.concog.2025.103983",
+    "title": "Cueing autobiographical memory in young and older adults: an exploration of the effect of cue type on retrieval rates and memory characteristics",
+    "authors": [
+      "Ali Mair"
+    ],
+    "venue": [
+      "Consciousness and Cognition"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-print": [
+        [
+          2026,
+          2
+        ]
+      ],
+      "published": [
+        [
+          2026,
+          2
+        ]
+      ]
+    },
+    "role": "认知心理学：线索格式与内容比较",
+    "evidence_level": "摘要与总讨论核读",
+    "finding": "实验一 101 人使用 208 个不同格式和内容的线索；研究二 106 人评价线索。提取率与线索对任务的贴合、具体性等有关，容易提取的回忆未必更具有自传意义。",
+    "boundary": "不能从统一实验线索推出某个人的照片或视频必然更差；格式、内容和任务映射需要分开。",
+    "next_check": "核读具体线索、分配和统计；公开材料可帮助后续操作化。卷期为 2026，不能按 DOI 后缀写 2025。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/c4d880a21cf4b55d.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1016/j.concog.2025.103983",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-2020595d1fca",
+        "provider_id": "41447987",
+        "raw_page": "sources/api/europepmc-2020595d1fca/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-d59f758a2f3c",
+        "provider_id": "41447987",
+        "raw_page": "sources/api/europepmc-d59f758a2f3c/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-36723a94ea62",
+        "provider_id": "41447987",
+        "raw_page": "sources/api/pubmed-36723a94ea62/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-45346bed40b7",
+        "provider_id": "e4c68c9329f759d84ebaba6ca82304337ea8a28f",
+        "raw_page": "sources/api/semanticscholar-45346bed40b7/page-0003.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-65759fe8e974",
+        "provider_id": "e4c68c9329f759d84ebaba6ca82304337ea8a28f",
+        "raw_page": "sources/api/semanticscholar-65759fe8e974/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/review-expand02.json",
+      "locator": "ScienceDirect 摘要及第 6 节总讨论"
+    },
+    "reference_number": 11,
+    "reference_year": 2026,
+    "url": "https://doi.org/10.1016/j.concog.2025.103983",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.2 线索形式、内容和提取任务应分别考虑",
+        "paragraph": "Mair 的近期研究进一步把线索的格式与内容分开处理。实验一让 101 名年轻和年长参与者面对 208 个不同线索，另有 106 人评价同一批线索的特征。结果表明，提取成功与线索对任务要求的贴合有关，具体性、主题与情绪内容也参与其中；较容易获得的回忆未必更具有自传意义。这项研究的重要性不在于为照片、视频或问题建立永久排序，而在于说明：比较媒介形式时，如果内容、提问方式和任务贴合程度同时改变，就难以把结果归因于媒介本身。"
+      }
+    ]
+  },
+  {
+    "id": "L0ca00270a6ab",
+    "doi": "10.1525/tph.2015.37.4.14",
+    "title": "Eliciting Sound Memories",
+    "authors": [
+      "Anna Harris"
+    ],
+    "venue": [
+      "The Public Historian"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-print": [
+        [
+          2015,
+          11,
+          1
+        ]
+      ],
+      "published": [
+        [
+          2015,
+          11,
+          1
+        ]
+      ]
+    },
+    "role": "口述史与人类学：声音记忆的诱发方法",
+    "evidence_level": "期刊摘要核读",
+    "finding": "Anna Harris 结合医疗听诊研究，讨论声音提示、在地访谈和声音漫步如何帮助口述史研究触及难以语言化的经验。",
+    "boundary": "方法反思关注如何理解经验，不能给出声音相对图像的平均效果；具体听觉实践需结合场景解释。",
+    "next_check": "取得原文，区分声音实物提示、场景回返和语言回忆声音的作用。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/f05ba66928fbab4f.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1525/tph.2015.37.4.14",
+    "abstract_source": [],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch21-oral-history.json",
+      "locator": "UC Press 原始期刊摘要"
+    },
+    "reference_number": 12,
+    "reference_year": 2015,
+    "url": "https://doi.org/10.1525/tph.2015.37.4.14",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.2 线索形式、内容和提取任务应分别考虑",
+        "paragraph": "这也改变了对“多模态”的理解。声音研究和感官口述史表明，声音提示、在地访谈及感官问题可以帮助人们谈及难以通过一般事件问答呈现的经验。然而，这类方法研究通常着眼于经验如何被讲述，而非测定哪种输入最有效。有关多种感官激活自传体记忆的系统综述，其主要结果是情绪诱导效果；不能把情绪更强解释为准确细节更多。因此，多模态输入的选择应回到具体缺失的信息，例如某次经历的重要之处是谈话内容、环境声音还是身体行动，而不是预设信息通道越多越好。"
+      }
+    ]
+  },
+  {
+    "id": "L112ba6f08e79",
+    "doi": "10.1080/00940798.2022.2049586",
+    "title": "Sensory Roadmaps: How to Capture Sensory Detail in an Interview and Why Doing So Has Exciting Implications for Oral History",
+    "authors": [
+      "Holly Werner-Thomas"
+    ],
+    "venue": [
+      "The Oral History Review"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2022,
+          3,
+          21
+        ]
+      ],
+      "published-print": [
+        [
+          2022,
+          1,
+          2
+        ]
+      ],
+      "published": [
+        [
+          2022,
+          1,
+          2
+        ]
+      ]
+    },
+    "role": "口述史：感官提问与叙事转写",
+    "evidence_level": "期刊摘要及作者补充说明核读",
+    "finding": "Werner-Thomas 探索通过访谈中的感官问题获取具体经验，并以民族诗学转写和非虚构表达呈现材料。",
+    "boundary": "作者补充案例涉及对配偶的访谈，关系与解释立场需交代；情感真实与叙述生动不等同于独立核实的事实准确性。",
+    "next_check": "取得期刊全文，核对具体提问与原始话语；作者博客是补充材料，不能冒充全文。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/8ad0972977b3df59.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1080/00940798.2022.2049586",
+    "abstract_source": [],
+    "abstract_available": false,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch29-source-followup.json",
+      "locator": "作者在 Oral History Review 的补充说明；期刊摘要另见 batch31"
+    },
+    "reference_number": 13,
+    "reference_year": 2022,
+    "url": "https://doi.org/10.1080/00940798.2022.2049586",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.2 线索形式、内容和提取任务应分别考虑",
+        "paragraph": "这也改变了对“多模态”的理解。声音研究和感官口述史表明，声音提示、在地访谈及感官问题可以帮助人们谈及难以通过一般事件问答呈现的经验。然而，这类方法研究通常着眼于经验如何被讲述，而非测定哪种输入最有效。有关多种感官激活自传体记忆的系统综述，其主要结果是情绪诱导效果；不能把情绪更强解释为准确细节更多。因此，多模态输入的选择应回到具体缺失的信息，例如某次经历的重要之处是谈话内容、环境声音还是身体行动，而不是预设信息通道越多越好。[〔12〕](https://doi.org/10.1525/tph.2015.37.4.14)"
+      }
+    ]
+  },
+  {
+    "id": "Lb9adc3c94c5f",
+    "doi": "10.3389/fpsyg.2025.1574855",
+    "title": "Emotional impact of using different sensory modalities for autobiographical activation: a systematic review and meta-analysis",
+    "authors": [
+      "Dolores Fernández-Pérez",
+      "Beatriz Navarro-Bravo",
+      "Abel Toledano-González",
+      "Jorge Javier Ricarte",
+      "Jose Miguel Latorre-Postigo",
+      "Laura Ros"
+    ],
+    "venue": [
+      "Frontiers in Psychology"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          10,
+          23
+        ]
+      ]
+    },
+    "role": "感官与情绪：系统综述",
+    "evidence_level": "摘要核读",
+    "finding": "综合以自传体记忆激活为手段的情绪诱导研究，比较不同程序对情绪状态的影响。",
+    "boundary": "主要结果是情绪变化，不能据此排名哪种感官最能恢复真实事件细节。",
+    "next_check": "核读纳入人群、感官操作、异质性和偏倚；追溯单篇实验。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/2fdcea3268fc7c82.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.3389/fpsyg.2025.1574855",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-2020595d1fca",
+        "provider_id": "41209782",
+        "raw_page": "sources/api/europepmc-2020595d1fca/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-45446f2a4eba",
+        "provider_id": "41209782",
+        "raw_page": "sources/api/europepmc-45446f2a4eba/page-0007.json",
+        "query_status": "superseded_query"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-6470ecee8d08",
+        "provider_id": "41209782",
+        "raw_page": "sources/api/europepmc-6470ecee8d08/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-d59f758a2f3c",
+        "provider_id": "41209782",
+        "raw_page": "sources/api/europepmc-d59f758a2f3c/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-36723a94ea62",
+        "provider_id": "41209782",
+        "raw_page": "sources/api/pubmed-36723a94ea62/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-a85559032682",
+        "provider_id": "41209782",
+        "raw_page": "sources/api/pubmed-a85559032682/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 14,
+    "reference_year": 2025,
+    "url": "https://doi.org/10.3389/fpsyg.2025.1574855",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.2 线索形式、内容和提取任务应分别考虑",
+        "paragraph": "这也改变了对“多模态”的理解。声音研究和感官口述史表明，声音提示、在地访谈及感官问题可以帮助人们谈及难以通过一般事件问答呈现的经验。然而，这类方法研究通常着眼于经验如何被讲述，而非测定哪种输入最有效。有关多种感官激活自传体记忆的系统综述，其主要结果是情绪诱导效果；不能把情绪更强解释为准确细节更多。因此，多模态输入的选择应回到具体缺失的信息，例如某次经历的重要之处是谈话内容、环境声音还是身体行动，而不是预设信息通道越多越好。[〔12〕](https://doi.org/10.1525/tph.2015.37.4.14)[〔13〕](https://doi.org/10.1080/00940798.2022.2049586)"
+      }
+    ]
+  },
+  {
+    "id": "Ld76a50aa49ec",
+    "doi": "10.1146/annurev-psych-010419-051101",
+    "title": "Event Perception and Memory",
+    "authors": [
+      "Jeffrey M. Zacks"
+    ],
+    "venue": [
+      "Annual Review of Psychology"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-print": [
+        [
+          2020,
+          1,
+          4
+        ]
+      ],
+      "published": [
+        [
+          2020,
+          1,
+          4
+        ]
+      ]
+    },
+    "role": "认知神经科学：事件结构",
+    "evidence_level": "摘要核读",
+    "finding": "综述连续体验如何被分成事件，以及事件表征与行动、语言和记忆的关系。",
+    "boundary": "事件分段理论不能直接规定摄像机启动阈值或最优片段时长。",
+    "next_check": "核读自然事件与实验材料的区别，以及边界对跨事件记忆的影响。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/1850ad4a7de34d11.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1146/annurev-psych-010419-051101",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-2020595d1fca",
+        "provider_id": "31905113",
+        "raw_page": "sources/api/europepmc-2020595d1fca/page-0003.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-d59f758a2f3c",
+        "provider_id": "31905113",
+        "raw_page": "sources/api/europepmc-d59f758a2f3c/page-0002.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-dd2af061e7f4",
+        "provider_id": "31905113",
+        "raw_page": "sources/api/europepmc-dd2af061e7f4/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-fa96bf703b17",
+        "provider_id": "31905113",
+        "raw_page": "sources/api/europepmc-fa96bf703b17/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 15,
+    "reference_year": 2020,
+    "url": "https://doi.org/10.1146/annurev-psych-010419-051101",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.3 从线索理论转向可记录的经验内容",
+        "paragraph": "连续生活需要经过选择和组织才能成为可回看的材料。事件知觉与记忆研究讨论人如何把连续体验分成事件，为理解开始、变化、结束及事件之间的关系提供了理论入口。不过，心理上的事件边界并不等同于模型检测到画面变化的时刻。由此推导出的记录需求，需要保留足以让本人辨认“正在发生什么”的前后联系；是否需要视频、多少时间、何时启动，应在具体场景中确定。"
+      }
+    ]
+  },
+  {
+    "id": "L956cd606b49d",
+    "doi": "10.1080/14725860220137345",
+    "title": "Talking about pictures: A case for photo elicitation",
+    "authors": [
+      "Douglas Harper"
+    ],
+    "venue": [
+      "Visual Studies"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2010,
+          11,
+          5
+        ]
+      ],
+      "published-print": [
+        [
+          2002,
+          4
+        ]
+      ],
+      "published": [
+        [
+          2002,
+          4
+        ]
+      ]
+    },
+    "role": "视觉社会学：照片诱导方法",
+    "evidence_level": "摘要核读",
+    "finding": "梳理照片诱导访谈在社会学和人类学中的发展，讨论图像如何带来不同于纯语言访谈的信息、感受与记忆。",
+    "boundary": "访谈能产生丰富叙述，不等于照片使记忆更准确。",
+    "next_check": "核读取材来源、访谈者作用及图片选择方法。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/58c44a982303c190.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1080/14725860220137345",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-05b425ec0454",
+        "provider_id": "f30a47a62ae6d859c4115f236ff2fe38832b5bf8",
+        "raw_page": "sources/api/semanticscholar-05b425ec0454/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": false,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch09-media-methods.json",
+      "locator": "原论文 PDF 的搜索摘要；未完成全文核读"
+    },
+    "reference_number": 16,
+    "reference_year": 2002,
+    "url": "https://doi.org/10.1080/14725860220137345",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.3 从线索理论转向可记录的经验内容",
+        "paragraph": "照片引谈为辨认这些需求提供了方法。Harper 讨论图像进入访谈后如何带来不同于纯语言访谈的信息；Fawns 对照片提示下回忆过程的分析则区分催发、情绪激活、联想、叙述、推断和意义建构。二者连接起来，使研究者能够追问：参与者看见了哪个细节，由此想起什么，又有哪些内容只是依据照片推测出来。此时，访谈不是从头脑中直接导出一份完整档案，而是观察材料如何参与回忆及表达。"
+      }
+    ]
+  },
+  {
+    "id": "Le8fa72e5fa6b",
+    "doi": "10.1177/17506980211073093",
+    "title": "Cued recall: Using photo-elicitation to examine the distributed processes of remembering with photographs",
+    "authors": [
+      "Tim Fawns"
+    ],
+    "venue": [
+      "Memory Studies"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2022,
+          2,
+          8
+        ]
+      ],
+      "published-print": [
+        [
+          2023,
+          4
+        ]
+      ],
+      "published": [
+        [
+          2022,
+          2,
+          8
+        ]
+      ]
+    },
+    "role": "分布式认知与视觉方法",
+    "evidence_level": "摘要、方法与结果开头核读",
+    "finding": "照片诱导访谈将回忆拆分为催发、情绪激活、模拟与叙事、联想、推断及意义建构；方法涉及婚礼参与者 6 人与大学工作人员 15 人两项研究。",
+    "boundary": "样本与情境有限；访谈本身参与建构叙述，不能将全部新增话语都记为准确回忆。",
+    "next_check": "继续核读后续结果与讨论；核对与 Blended memory 的样本重叠。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/8a72da8f85997d79.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1177/17506980211073093",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-05b425ec0454",
+        "provider_id": "dea0524654945627b44d9ebb6facd85e74cb42df",
+        "raw_page": "sources/api/semanticscholar-05b425ec0454/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-167aecb808cb",
+        "provider_id": "dea0524654945627b44d9ebb6facd85e74cb42df",
+        "raw_page": "sources/api/semanticscholar-167aecb808cb/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-45346bed40b7",
+        "provider_id": "dea0524654945627b44d9ebb6facd85e74cb42df",
+        "raw_page": "sources/api/semanticscholar-45346bed40b7/page-0002.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-65759fe8e974",
+        "provider_id": "dea0524654945627b44d9ebb6facd85e74cb42df",
+        "raw_page": "sources/api/semanticscholar-65759fe8e974/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-ddb55b1136cf",
+        "provider_id": "dea0524654945627b44d9ebb6facd85e74cb42df",
+        "raw_page": "sources/api/semanticscholar-ddb55b1136cf/page-0002.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch08-fulltext-pages.json",
+      "locator": "出版社网页 Abstract、Methods 与结果开头；2026-10-23"
+    },
+    "reference_number": 17,
+    "reference_year": 2023,
+    "url": "https://doi.org/10.1177/17506980211073093",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.2.3 从线索理论转向可记录的经验内容",
+        "paragraph": "照片引谈为辨认这些需求提供了方法。Harper 讨论图像进入访谈后如何带来不同于纯语言访谈的信息；Fawns 对照片提示下回忆过程的分析则区分催发、情绪激活、联想、叙述、推断和意义建构。二者连接起来，使研究者能够追问：参与者看见了哪个细节，由此想起什么，又有哪些内容只是依据照片推测出来。此时，访谈不是从头脑中直接导出一份完整档案，而是观察材料如何参与回忆及表达。[〔16〕](https://doi.org/10.1080/14725860220137345)"
+      }
+    ]
+  },
+  {
+    "id": "L4a34232367f4",
+    "doi": "10.1177/1470357207084865",
+    "title": "Digital photography: communication, identity, memory",
+    "authors": [
+      "José van Dijck"
+    ],
+    "venue": [
+      "Visual Communication"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2008,
+          2,
+          1
+        ]
+      ],
+      "published-print": [
+        [
+          2008,
+          2
+        ]
+      ],
+      "published": [
+        [
+          2008,
+          2
+        ]
+      ]
+    },
+    "role": "媒介研究：摄影实践",
+    "evidence_level": "摘要及部分正文核读",
+    "finding": "个人摄影中的记忆、交流与身份功能相互交织；技术变化要放回社会文化使用中理解。",
+    "boundary": "文化分析不提供拍照改善记忆的因果效应；原文中的旧实验需追溯而非二手当作新发现。",
+    "next_check": "作者接受稿已获取；继续核读全文，并追溯与本题有关的原始研究。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/4e527e164ebc2c0e.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1177/1470357207084865",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-020748c142d1",
+        "provider_id": "7c193464cb16031fbbe31274415ef23e6d49eb82",
+        "raw_page": "sources/api/semanticscholar-020748c142d1/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-9a13679f29f9",
+        "provider_id": "7c193464cb16031fbbe31274415ef23e6d49eb82",
+        "raw_page": "sources/api/semanticscholar-9a13679f29f9/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/fulltext/vanDijck-2008.pdf",
+      "locator": "作者接受稿；摘要、引言及部分正文；其余未完成逐段核读"
+    },
+    "reference_number": 18,
+    "reference_year": 2008,
+    "url": "https://doi.org/10.1177/1470357207084865",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.1 记录习惯是实践组合，而非固定用户类型",
+        "paragraph": "个人摄影并非只有保存过去一种目的。van Dijck 将记忆、交流与身份联系起来；Van House 的经验研究讨论摄影在关系、自我呈现和自我表达中的重叠作用；Keightley 与 Pickering 则把拍摄、存储、观看和分享作为相互联系的实践。对本研究而言，这些研究提醒我们，应同时了解用户拍摄时的目的和材料后来的使用，而不能从某次拍摄行为直接推出其长期回忆偏好。"
+      }
+    ]
+  },
+  {
+    "id": "Ldf9584fe5f5e",
+    "doi": "10.1080/1472586x.2011.571888",
+    "title": "Personal photography, digital technologies and the uses of the visual",
+    "authors": [
+      "Nancy A. Van House"
+    ],
+    "venue": [
+      "Visual Studies"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-print": [
+        [
+          2011,
+          6
+        ]
+      ],
+      "published": [
+        [
+          2011,
+          6
+        ]
+      ]
+    },
+    "role": "摄影研究：日常使用",
+    "evidence_level": "摘要核读",
+    "finding": "结合多年的经验研究讨论个人摄影作为记忆、关系、自我呈现与自我表达的重叠实践。",
+    "boundary": "这些作用可同时存在，不应强制把每个人分入单一记录动机。",
+    "next_check": "核读各研究的样本和方法，提炼适合访谈的实践问题。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/112ae7b1c05b1953.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1080/1472586x.2011.571888",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-9a13679f29f9",
+        "provider_id": "795d9ac34f5996fdb14a6acce279ae90a8d00a25",
+        "raw_page": "sources/api/semanticscholar-9a13679f29f9/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": false,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch09-media-methods.json",
+      "locator": "出版社与作者机构记录、摘要"
+    },
+    "reference_number": 19,
+    "reference_year": 2011,
+    "url": "https://doi.org/10.1080/1472586x.2011.571888",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.1 记录习惯是实践组合，而非固定用户类型",
+        "paragraph": "个人摄影并非只有保存过去一种目的。van Dijck 将记忆、交流与身份联系起来；Van House 的经验研究讨论摄影在关系、自我呈现和自我表达中的重叠作用；Keightley 与 Pickering 则把拍摄、存储、观看和分享作为相互联系的实践。对本研究而言，这些研究提醒我们，应同时了解用户拍摄时的目的和材料后来的使用，而不能从某次拍摄行为直接推出其长期回忆偏好。[〔18〕](https://doi.org/10.1177/1470357207084865)"
+      }
+    ]
+  },
+  {
+    "id": "L183253b41130",
+    "doi": "10.1177/1461444814532062",
+    "title": "Technologies of memory: Practices of remembering in analogue and digital photography",
+    "authors": [
+      "Emily Keightley",
+      "Michael Pickering"
+    ],
+    "venue": [
+      "New Media &amp; Society"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2014,
+          5,
+          15
+        ]
+      ],
+      "published-print": [
+        [
+          2014,
+          6
+        ]
+      ],
+      "published": [
+        [
+          2014,
+          5,
+          15
+        ]
+      ]
+    },
+    "role": "媒介研究：记录到回看的实践",
+    "evidence_level": "摘要核读",
+    "finding": "通过拍摄、存储、观看、分享四类实践讨论模拟与数字摄影中的变化及延续。",
+    "boundary": "实践类别不自动成为四个独立实验变量；不能仅以新设备推出推断习惯变化。",
+    "next_check": "核读材料来源与分析方式，比较具体人群和使用情境。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/c1e1909b98ccd1b6.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1177/1461444814532062",
+    "abstract_source": [
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W2135198897",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-020748c142d1",
+        "provider_id": "9da1577a6231c5eca453305682fa6b4b6002fd10",
+        "raw_page": "sources/api/semanticscholar-020748c142d1/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-a69dd485ae54",
+        "provider_id": "9da1577a6231c5eca453305682fa6b4b6002fd10",
+        "raw_page": "sources/api/semanticscholar-a69dd485ae54/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 20,
+    "reference_year": 2014,
+    "url": "https://doi.org/10.1177/1461444814532062",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.1 记录习惯是实践组合，而非固定用户类型",
+        "paragraph": "个人摄影并非只有保存过去一种目的。van Dijck 将记忆、交流与身份联系起来；Van House 的经验研究讨论摄影在关系、自我呈现和自我表达中的重叠作用；Keightley 与 Pickering 则把拍摄、存储、观看和分享作为相互联系的实践。对本研究而言，这些研究提醒我们，应同时了解用户拍摄时的目的和材料后来的使用，而不能从某次拍摄行为直接推出其长期回忆偏好。[〔18〕](https://doi.org/10.1177/1470357207084865)[〔19〕](https://doi.org/10.1080/1472586x.2011.571888)"
+      }
+    ]
+  },
+  {
+    "id": "L7b75a03ad14c",
+    "doi": "10.1002/acp.4033",
+    "title": "Autobiographical memory in the digital age: Insights based on the subjective reports of users of smart journaling apps",
+    "authors": [
+      "Fabian Hutmacher",
+      "Linus Schläger",
+      "Rinat Meerson"
+    ],
+    "venue": [
+      "Applied Cognitive Psychology"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2023,
+          1,
+          11
+        ]
+      ],
+      "published-print": [
+        [
+          2023,
+          7
+        ]
+      ],
+      "published": [
+        [
+          2023,
+          1,
+          11
+        ]
+      ]
+    },
+    "role": "认知心理学与实践：智能日记",
+    "evidence_level": "摘要、方法与结果部分核读",
+    "finding": "研究一让 12 名新用户使用 Day One 两周，研究二访谈 4 名长期用户；研究一的图片、文字、声音和地点使用存在差异，记录与不记录同类日常事件可发生在同一个人身上。",
+    "boundary": "研究一要求每天约 15 分钟，不能当作自然持续使用；功能选择原因部分未系统分析，主观记忆感受不是客观测验。",
+    "next_check": "继续核读长期用户结果及全部讨论；检验习惯变化和实际回看行为。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/6ffc4244b29e77e1.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1002/acp.4033",
+    "abstract_source": [],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/review-expand04.json",
+      "locator": "Wiley 方法与结果 2.2：日常内容、使用偏好、研究参与要求"
+    },
+    "reference_number": 21,
+    "reference_year": 2023,
+    "url": "https://doi.org/10.1002/acp.4033",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.1 记录习惯是实践组合，而非固定用户类型",
+        "paragraph": "智能日记研究提供了更具体的例子。Hutmacher、Schläger 与 Meerson 访谈了两周试用 Day One 的十二名新用户及四名长期用户。在试用研究中，照片与文字普遍使用，声音等功能的接受情况则不同；同一个人也可能记录某些日常活动而跳过另一些。因此，“有记录意愿”不等于任何时刻都愿意采用同一种输入。该研究要求试用者每天使用约十五分钟，且结果主要来自主观报告，不能直接代表自然形成的持续习惯。它更适合支持对实践差异的调查，而不是提供一套固定的人群分类。"
+      }
+    ]
+  },
+  {
+    "id": "Ld76d04bc25fe",
+    "doi": "10.1093/jcr/ucx112",
+    "title": "How the Intention to Share Can Undermine Enjoyment: Photo-Taking Goals and Evaluation of Experiences",
+    "authors": [
+      "Alixandra Barasch",
+      "Gal Zauberman",
+      "Kristin Diehl"
+    ],
+    "venue": [
+      "Journal of Consumer Research"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2017,
+          11,
+          14
+        ]
+      ],
+      "published-print": [
+        [
+          2018,
+          4,
+          1
+        ]
+      ],
+      "published": [
+        [
+          2017,
+          11,
+          14
+        ]
+      ]
+    },
+    "role": "消费者心理：分享目的与体验",
+    "evidence_level": "摘要核读",
+    "finding": "两项现场和三项实验室研究比较为自己拍摄与打算分享，后者的自我呈现顾虑与较低享受相联系，受个人关注和受众亲近度调节。",
+    "boundary": "关注拍摄时已存在的分享目标及体验，不是禁止分享，也不是日后回忆准确率结果。",
+    "next_check": "核对正文与补充研究范围；作者博客概述 12 项研究，摘要为 5 项，不能混用计数。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/2957b9c1f41787bb.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1093/jcr/ucx112",
+    "abstract_source": [
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W2768598312",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-a69dd485ae54",
+        "provider_id": "e2cb9fb94efec87f9d89379dea9359e130de4f60",
+        "raw_page": "sources/api/semanticscholar-a69dd485ae54/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 22,
+    "reference_year": 2018,
+    "url": "https://doi.org/10.1093/jcr/ucx112",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.1 记录习惯是实践组合，而非固定用户类型",
+        "paragraph": "记录目的还会改变当下体验。Barasch 等关于分享意图的研究将为自己拍摄与打算对外分享进行比较，讨论自我呈现顾虑及受众关系的作用。这使“是否分享”不宜被视为仅在生成完成之后才出现的按钮：预期受众可能在取材阶段便影响用户关注和选择的内容。本研究以个人回忆为中心，但需要在访谈中保留这种动机差异，同时避免把分享一概理解为干扰。"
+      }
+    ]
+  },
+  {
+    "id": "L75c192ef2f83",
+    "doi": "10.1177/0956797613504438",
+    "title": "Point-and-Shoot Memories: The Influence of Taking Photos on Memory for a Museum Tour",
+    "authors": [
+      "Linda A. Henkel"
+    ],
+    "venue": [
+      "Psychological Science"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2013,
+          12,
+          5
+        ]
+      ],
+      "published-print": [
+        [
+          2014,
+          2
+        ]
+      ],
+      "published": [
+        [
+          2013,
+          12,
+          5
+        ]
+      ]
+    },
+    "role": "认知心理学：拍摄受损的起点",
+    "evidence_level": "摘要核读",
+    "finding": "两项博物馆研究发现按要求拍摄完整物件后的记忆较差，而聚焦局部拍摄未出现同样受损。",
+    "boundary": "不是所有摄影方式的普遍结论；需要区分受指令拍摄、聚焦操作和自由选择。",
+    "next_check": "核读过程、测验和延迟，与后续自主拍摄及多张拍摄实验逐项比较。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/7fdb14358eb50d4c.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1177/0956797613504438",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-54f331d09adc",
+        "provider_id": "24311477",
+        "raw_page": "sources/api/europepmc-54f331d09adc/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-d59f758a2f3c",
+        "provider_id": "24311477",
+        "raw_page": "sources/api/europepmc-d59f758a2f3c/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W2150814306",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-39e38872382f",
+        "provider_id": "24311477",
+        "raw_page": "sources/api/pubmed-39e38872382f/page-0002.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-5ceb762a49db",
+        "provider_id": "24311477",
+        "raw_page": "sources/api/pubmed-5ceb762a49db/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-842922eddfba",
+        "provider_id": "24311477",
+        "raw_page": "sources/api/pubmed-842922eddfba/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-ec18e3e52485",
+        "provider_id": "24311477",
+        "raw_page": "sources/api/pubmed-ec18e3e52485/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-a69dd485ae54",
+        "provider_id": "6adcd89175c49523bc3e27d448bb989a563fe276",
+        "raw_page": "sources/api/semanticscholar-a69dd485ae54/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 23,
+    "reference_year": 2014,
+    "url": "https://doi.org/10.1177/0956797613504438",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.2 主动与自动记录各自改变了什么",
+        "paragraph": "摄影与记忆的实验呈现出不同方向的结果。Henkel 的博物馆研究发现，按要求拍摄完整物件后，一些记忆表现比仅观察更差，而聚焦局部的拍摄未出现相同模式。Barasch 等对自主拍摄的研究则发现，视觉再认可能改善，同时听觉再认下降。二者并非只能择一接受：受指令拍摄与自主选择、完整物件与关注局部、视觉与听觉测验，都可能改变结果的含义。"
+      }
+    ]
+  },
+  {
+    "id": "Ld4d51b3270dc",
+    "doi": "10.1177/0956797617694868",
+    "title": "Photographic Memory: The Effects of Volitional Photo Taking on Memory for Visual and Auditory Aspects of an Experience",
+    "authors": [
+      "Alixandra Barasch",
+      "Kristin Diehl",
+      "Jackie Silverman",
+      "Gal Zauberman"
+    ],
+    "venue": [
+      "Psychological Science"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2017,
+          6,
+          26
+        ]
+      ],
+      "published-print": [
+        [
+          2017,
+          8
+        ]
+      ],
+      "published": [
+        [
+          2017,
+          6,
+          26
+        ]
+      ]
+    },
+    "role": "认知与消费者心理：自主拍摄",
+    "evidence_level": "摘要核读",
+    "finding": "一项现场和三项实验室研究中，自主拍照者在不回看照片时视觉再认更好、听觉再认较差；心理拍照也出现类似结果。",
+    "boundary": "视觉和听觉结果方向不同，不能简化为总记忆改善；仍不同于自传体回忆与生成表达。",
+    "next_check": "核读材料选择、自由度及记忆测试，与受指令拍摄研究比较。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/e508dfa624f88e80.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1177/0956797617694868",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-54f331d09adc",
+        "provider_id": "28650721",
+        "raw_page": "sources/api/europepmc-54f331d09adc/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-d59f758a2f3c",
+        "provider_id": "28650721",
+        "raw_page": "sources/api/europepmc-d59f758a2f3c/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W2679146856",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-39e38872382f",
+        "provider_id": "28650721",
+        "raw_page": "sources/api/pubmed-39e38872382f/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-5ceb762a49db",
+        "provider_id": "28650721",
+        "raw_page": "sources/api/pubmed-5ceb762a49db/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-ec18e3e52485",
+        "provider_id": "28650721",
+        "raw_page": "sources/api/pubmed-ec18e3e52485/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-a69dd485ae54",
+        "provider_id": "03a8b87192fc085ac5d68a952beb9b314742bf5f",
+        "raw_page": "sources/api/semanticscholar-a69dd485ae54/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W7160364275",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 24,
+    "reference_year": 2017,
+    "url": "https://doi.org/10.1177/0956797617694868",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.2 主动与自动记录各自改变了什么",
+        "paragraph": "摄影与记忆的实验呈现出不同方向的结果。Henkel 的博物馆研究发现，按要求拍摄完整物件后，一些记忆表现比仅观察更差，而聚焦局部的拍摄未出现相同模式。Barasch 等对自主拍摄的研究则发现，视觉再认可能改善，同时听觉再认下降。二者并非只能择一接受：受指令拍摄与自主选择、完整物件与关注局部、视觉与听觉测验，都可能改变结果的含义。[〔23〕](https://doi.org/10.1177/0956797613504438)"
+      }
+    ]
+  },
+  {
+    "id": "L59770441f4db",
+    "doi": "10.1016/j.jarmac.2017.10.004",
+    "title": "Forget in a flash: A further investigation of the photo-taking-impairment effect.",
+    "authors": [
+      "Julia S. Soares",
+      "Benjamin C. Storm"
+    ],
+    "venue": [
+      "Journal of Applied Research in Memory and Cognition"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2018,
+          3
+        ]
+      ],
+      "published": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "role": "认知心理学：拍摄机制反例",
+    "evidence_level": "摘要核读",
+    "finding": "通过限时照片应用和手动删除改变对日后访问照片的预期，拍摄受损仍出现，限制了单一认知卸载解释。",
+    "boundary": "不排除所有卸载机制，也未直接验证唯一替代机制；不能把删除照片列为改善记忆策略。",
+    "next_check": "核读相机操作及预期操纵检查，比较注意脱离解释。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/d594ca37ee97ff43.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1016/j.jarmac.2017.10.004",
+    "abstract_source": [
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W2767306502",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-a69dd485ae54",
+        "provider_id": "e3251af72b40f645d8c7db2424e0f59c27bb11e2",
+        "raw_page": "sources/api/semanticscholar-a69dd485ae54/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 25,
+    "reference_year": 2018,
+    "url": "https://doi.org/10.1016/j.jarmac.2017.10.004",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.2 主动与自动记录各自改变了什么",
+        "paragraph": "后续研究也限制了简单解释。Soares 与 Storm 通过改变照片之后能否被访问来检验拍摄受损，发现删除或短暂保存并未消除这一现象，因此不能只用“把记忆交给相机”解释。其多张照片研究进一步显示，按要求拍五张并不保证消除受损。这些实验中的任务材料和不回看照片的测验，与真实生活中拍摄后再借照片回忆不同。设计上需要同时观察拍摄当下的注意变化和未来材料的提示价值，而不是从单一测验推出“主动拍照有害”或“自动拍照必然更好”。"
+      }
+    ]
+  },
+  {
+    "id": "L66afd41ae9d5",
+    "doi": "10.3758/s13423-022-02149-2",
+    "title": "Does taking multiple photos lead to a photo-taking-impairment effect?",
+    "authors": [
+      "Julia S. Soares",
+      "Benjamin C. Storm"
+    ],
+    "venue": [
+      "Psychonomic Bulletin &amp; Review"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2022,
+          7,
+          19
+        ]
+      ],
+      "published-print": [
+        [
+          2022,
+          12
+        ]
+      ],
+      "published": [
+        [
+          2022,
+          7,
+          19
+        ]
+      ]
+    },
+    "role": "认知心理学：拍摄数量与编码",
+    "evidence_level": "正文核读",
+    "finding": "三项绘画材料实验比较仅观看、拍一张和拍五张；五张条件相对观看表现较差，要求五张各不相同也未消除此差异。",
+    "boundary": "参与者按指令拍摄屏幕绘画，测试不允许看照片；不能据此判断日后看个人照片有害。一张条件并非每项实验都显著。",
+    "next_check": "正文已读；核对图 1、开放数据及实验 2 结果段内部方向表述，再引用具体效应量。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/c17db303e62a9f57.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.3758/s13423-022-02149-2",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-54f331d09adc",
+        "provider_id": "35854206",
+        "raw_page": "sources/api/europepmc-54f331d09adc/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W4285796487",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-ec18e3e52485",
+        "provider_id": "35854206",
+        "raw_page": "sources/api/pubmed-ec18e3e52485/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-a69dd485ae54",
+        "provider_id": "b291e656fa5d3a26c888dc82b7a6c5c5d966780e",
+        "raw_page": "sources/api/semanticscholar-a69dd485ae54/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "正文已核读；未核对附录和原始数据",
+    "additional_reading_source": {
+      "path": "sources/fulltext/PMC9296013.json",
+      "locator": "正文 P1–P40：三项方法、结果、内部元分析与讨论；图 1 数值、附录、数据未复核"
+    },
+    "reference_number": 26,
+    "reference_year": 2022,
+    "url": "https://doi.org/10.3758/s13423-022-02149-2",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.2 主动与自动记录各自改变了什么",
+        "paragraph": "后续研究也限制了简单解释。Soares 与 Storm 通过改变照片之后能否被访问来检验拍摄受损，发现删除或短暂保存并未消除这一现象，因此不能只用“把记忆交给相机”解释。其多张照片研究进一步显示，按要求拍五张并不保证消除受损。这些实验中的任务材料和不回看照片的测验，与真实生活中拍摄后再借照片回忆不同。设计上需要同时观察拍摄当下的注意变化和未来材料的提示价值，而不是从单一测验推出“主动拍照有害”或“自动拍照必然更好”。[〔25〕](https://doi.org/10.1016/j.jarmac.2017.10.004)"
+      }
+    ]
+  },
+  {
+    "id": "L44a0c7588b10",
+    "doi": "10.1037/pspa0000055",
+    "title": "How taking photos increases enjoyment of experiences.",
+    "authors": [
+      "Kristin Diehl",
+      "Gal Zauberman",
+      "Alixandra Barasch"
+    ],
+    "venue": [
+      "Journal of Personality and Social Psychology"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2016,
+          8
+        ]
+      ],
+      "published": [
+        [
+          2016,
+          8
+        ]
+      ]
+    },
+    "role": "消费者心理：体验享受",
+    "evidence_level": "摘要及讨论片段核读",
+    "finding": "三项现场及六项实验室研究考察拍摄对享受的影响；参与程度、拍摄干扰及经历情绪性质限定其作用。",
+    "boundary": "主要结果是体验评价，不能代替个人回忆发生或准确性。",
+    "next_check": "核读九项实验的操纵及讨论；PubMed 首发日期与 Crossref 日期标记不同，保留差异。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/3458c39bac8b9584.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1037/pspa0000055",
+    "abstract_source": [
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-ec18e3e52485",
+        "provider_id": "27267324",
+        "raw_page": "sources/api/pubmed-ec18e3e52485/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch13-platform-supplement.json",
+      "locator": "PubMed 摘要与出版社 PDF 讨论片段，未完整核读九项方法"
+    },
+    "reference_number": 27,
+    "reference_year": 2016,
+    "url": "https://doi.org/10.1037/pspa0000055",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.2 主动与自动记录各自改变了什么",
+        "paragraph": "消费体验领域同样强调条件差异。Diehl 等研究摄影对享受的影响，指出参与程度和拍摄干扰的重要性；中文摄影行为综述则将注意资源与认知参与作为解释其双面作用的入口。但享受是当下体验评价，不能替代日后回忆的检验。对本研究更有价值的操作化是：记录时是否需要中断活动、是否增加操作负担、是否改变注意对象，以及这些代价换来了什么可用于回忆的线索。"
+      }
+    ]
+  },
+  {
+    "id": "L1a777b6deb94",
+    "doi": "10.3724/sp.j.1042.2023.00480",
+    "title": "The double-edged sword effect of consumers’ photo-taking behavior on consumption experience",
+    "authors": [
+      "Hongyan LIU",
+      "Yun ZHENG",
+      "Yaozhong LIU",
+      "Fei QIAO"
+    ],
+    "venue": [
+      "Advances in Psychological Science"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-print": [
+        [
+          2023
+        ]
+      ],
+      "published": [
+        [
+          2023
+        ]
+      ]
+    },
+    "role": "中文心理学综述：拍照与消费体验",
+    "evidence_level": "期刊摘要及引言片段核读",
+    "finding": "从注意资源和认知参与讨论摄影的视觉收益及其他感官体验损失，并梳理个人与情景边界条件。",
+    "boundary": "消费体验比个人回忆范围更广；综述中的机制表述需回溯原始实验，不能统一转换为回忆效果。",
+    "next_check": "中文题名为《消费者拍照行为影响消费体验的双刃剑效应》；取得全文并逐条连接主要原始研究。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/913a8894571c8997.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.3724/sp.j.1042.2023.00480",
+    "abstract_source": [
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W4313491643",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-citations-8a72da8f8599",
+        "provider_id": "9411780bdc75d3d6ab6c2b1945e3cdce64c53daf",
+        "raw_page": "sources/api/semanticscholar-citations-8a72da8f8599/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch15-sharing-consumption.json",
+      "locator": "中文期刊题录、摘要及引言片段"
+    },
+    "reference_number": 28,
+    "reference_year": 2023,
+    "url": "https://doi.org/10.3724/sp.j.1042.2023.00480",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.2 主动与自动记录各自改变了什么",
+        "paragraph": "消费体验领域同样强调条件差异。Diehl 等研究摄影对享受的影响，指出参与程度和拍摄干扰的重要性；中文摄影行为综述则将注意资源与认知参与作为解释其双面作用的入口。但享受是当下体验评价，不能替代日后回忆的检验。对本研究更有价值的操作化是：记录时是否需要中断活动、是否增加操作负担、是否改变注意对象，以及这些代价换来了什么可用于回忆的线索。[〔27〕](https://doi.org/10.1037/pspa0000055)"
+      }
+    ]
+  },
+  {
+    "id": "Lbb7af85218bb",
+    "doi": "10.1108/oir-03-2018-0108",
+    "title": "Comparison of the change in interpretative stances of lifelog photos versus manually captured photos over time",
+    "authors": [
+      "Ahreum Lee",
+      "Hokyoung Ryu"
+    ],
+    "venue": [
+      "Online Information Review"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-print": [
+        [
+          2019,
+          7,
+          26
+        ]
+      ],
+      "published": [
+        [
+          2019,
+          7,
+          26
+        ]
+      ]
+    },
+    "role": "信息与设计：自动及手动照片回看",
+    "evidence_level": "出版社结构化摘要核读",
+    "finding": "两组用户记录五天，在第 8、50、200 天访谈；自动生活日志照片组的解释立场随时间改变更明显，晚期更倾向重新理解过去。",
+    "boundary": "解释层次变化不是记忆准确性或回忆数量增加；人数、分组控制和流失仍待全文核对。",
+    "next_check": "获取正文，检查样本、分组与图像解释的编码。首发 2019，卷期 2020。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/db881e6fc2109b56.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1108/oir-03-2018-0108",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-faea059ed0f4",
+        "provider_id": "42452cdcb8d88fb34b328610c22305fc0a810564",
+        "raw_page": "sources/api/semanticscholar-faea059ed0f4/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/review-expand03.json",
+      "locator": "Emerald 结构化摘要，网页 159–170 行"
+    },
+    "reference_number": 29,
+    "reference_year": 2020,
+    "url": "https://doi.org/10.1108/oir-03-2018-0108",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.2 主动与自动记录各自改变了什么",
+        "paragraph": "自动记录的意义也不止于减少按快门。Lee 与 Ryu 比较生活日志相机和手动相机，两组在五天取材后于第 8、50、200 天参加访谈。其摘要报告，生活日志照片的解释立场随时间变化更明显，较晚回看时更容易形成不同于初始理解的过去解释。这里的结果是解释方式变化，并非记忆准确率增加，却说明未被主动挑选的日常画面可能在后来获得意义。另一方面，Zhang 等关于重新发现的研究发现，人们可能低估普通经历未来带来的兴趣。这两类发现共同支持保留一定日常材料的可能价值，但都不能推出无差别记录全部生活。"
+      }
+    ]
+  },
+  {
+    "id": "L60de27ea3b66",
+    "doi": "10.1177/0956797614542274",
+    "title": "A “Present” for the Future: The Unexpected Value of Rediscovery",
+    "authors": [
+      "Ting Zhang",
+      "Tami Kim",
+      "Alison Wood Brooks",
+      "Francesca Gino",
+      "Michael I. Norton"
+    ],
+    "venue": [
+      "Psychological Science"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2014,
+          8,
+          29
+        ]
+      ],
+      "published-print": [
+        [
+          2014,
+          10
+        ]
+      ],
+      "published": [
+        [
+          2014,
+          8,
+          29
+        ]
+      ]
+    },
+    "role": "社会心理学：日常记录的未来价值",
+    "evidence_level": "作者机构论文摘要核读",
+    "finding": "四项研究显示人们可能低估未来重新发现日常经历时的兴趣与愉悦，普通经历尤为明显。",
+    "boundary": "因变量主要为兴趣、愉悦和记录选择；不是回忆细节准确率，也不能据此要求记录所有日常活动。",
+    "next_check": "核读各研究材料、时间间隔、效应与开放数据；当前未完成数据复核。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/12974125c8b877a6.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1177/0956797614542274",
+    "abstract_source": [],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/review-expand05.json",
+      "locator": "Harvard 作者机构论文摘要；出版社身份另见 expand06"
+    },
+    "reference_number": 30,
+    "reference_year": 2014,
+    "url": "https://doi.org/10.1177/0956797614542274",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.2 主动与自动记录各自改变了什么",
+        "paragraph": "自动记录的意义也不止于减少按快门。Lee 与 Ryu 比较生活日志相机和手动相机，两组在五天取材后于第 8、50、200 天参加访谈。其摘要报告，生活日志照片的解释立场随时间变化更明显，较晚回看时更容易形成不同于初始理解的过去解释。这里的结果是解释方式变化，并非记忆准确率增加，却说明未被主动挑选的日常画面可能在后来获得意义。另一方面，Zhang 等关于重新发现的研究发现，人们可能低估普通经历未来带来的兴趣。这两类发现共同支持保留一定日常材料的可能价值，但都不能推出无差别记录全部生活。[〔29〕](https://doi.org/10.1108/oir-03-2018-0108)"
+      }
+    ]
+  },
+  {
+    "id": "L613ac28f19a2",
+    "doi": "10.1177/19485506231163012",
+    "title": "Picturing Your Life: The Role of Imagery Perspective in Personal Photos",
+    "authors": [
+      "Zachary Adolph Niese",
+      "Lisa K. Libby",
+      "Richard P. Eibach"
+    ],
+    "venue": [
+      "Social Psychological and Personality Science"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2023,
+          4,
+          27
+        ]
+      ],
+      "published-print": [
+        [
+          2024,
+          4
+        ]
+      ],
+      "published": [
+        [
+          2023,
+          4,
+          27
+        ]
+      ]
+    },
+    "role": "社会心理学：摄影目标与视角",
+    "evidence_level": "摘要核读",
+    "finding": "六项研究共 2113 人，区分捕捉意义与身体体验的目标，并考察第一、第三人称照片的选择、观看与偏好。",
+    "boundary": "目标与视角匹配不能直接代表准确回忆提升，六项研究的操纵须分别检查。",
+    "next_check": "核读各研究因变量，将选择、意义唤起与喜爱程度分开。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/9ebbc657277221ad.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1177/19485506231163012",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-9a13679f29f9",
+        "provider_id": "9fd43e35718495b61731d3adaea6241d6981098d",
+        "raw_page": "sources/api/semanticscholar-9a13679f29f9/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-citations-a16911eb4769",
+        "provider_id": "9fd43e35718495b61731d3adaea6241d6981098d",
+        "raw_page": "sources/api/semanticscholar-citations-a16911eb4769/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 31,
+    "reference_year": 2024,
+    "url": "https://doi.org/10.1177/19485506231163012",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.3 视角与输入选择需要对应回忆目标",
+        "paragraph": "“个人回忆”并不自动意味着只能使用第一人称摄像。Niese 等将捕捉身体体验和捕捉意义的目标与照片视角联系起来；King 等发现，含有本人形象的照片与观察者式回忆视角存在关联。前者涉及目标与选择，后者涉及照片和主观回忆特征，它们都不足以证明某个机位全面优越。摄影机的拍摄视角、叙事中的第一人称和回忆时的心理视角应分别界定。"
+      }
+    ]
+  },
+  {
+    "id": "Lcafe4c85f846",
+    "doi": "10.1002/acp.4150",
+    "title": "When having photographs of events influences the visual perspective of autobiographical memories",
+    "authors": [
+      "Chloe I. King",
+      "Azra A. Panjwani",
+      "Peggy L. St. Jacques"
+    ],
+    "venue": [
+      "Applied Cognitive Psychology"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2023,
+          11,
+          22
+        ]
+      ],
+      "published-print": [
+        [
+          2024,
+          1
+        ]
+      ],
+      "published": [
+        [
+          2023,
+          11,
+          22
+        ]
+      ]
+    },
+    "role": "认知心理学：照片与回忆视角",
+    "evidence_level": "摘要核读",
+    "finding": "三项研究共 378 人，含本人照片的经历与更多观察者式回忆视角相关。",
+    "boundary": "相关关系不等于拍摄视角的因果效果；观察者视角也不等于记忆变差。",
+    "next_check": "核读自报告照片分类、控制变量及各研究设计。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/9658e8bdd3348ddc.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1002/acp.4150",
+    "abstract_source": [
+      {
+        "provider": "openalex",
+        "search_id": "openalex-b5805eef4335",
+        "provider_id": "https://openalex.org/W4388939982",
+        "raw_page": "sources/api/openalex-b5805eef4335/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-45346bed40b7",
+        "provider_id": "88b5c42fea150704d331714ba89114271746225b",
+        "raw_page": "sources/api/semanticscholar-45346bed40b7/page-0002.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-65759fe8e974",
+        "provider_id": "88b5c42fea150704d331714ba89114271746225b",
+        "raw_page": "sources/api/semanticscholar-65759fe8e974/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-e9f1e6a5908a",
+        "provider_id": "88b5c42fea150704d331714ba89114271746225b",
+        "raw_page": "sources/api/semanticscholar-e9f1e6a5908a/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 32,
+    "reference_year": 2024,
+    "url": "https://doi.org/10.1002/acp.4150",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.3 视角与输入选择需要对应回忆目标",
+        "paragraph": "“个人回忆”并不自动意味着只能使用第一人称摄像。Niese 等将捕捉身体体验和捕捉意义的目标与照片视角联系起来；King 等发现，含有本人形象的照片与观察者式回忆视角存在关联。前者涉及目标与选择，后者涉及照片和主观回忆特征，它们都不足以证明某个机位全面优越。摄影机的拍摄视角、叙事中的第一人称和回忆时的心理视角应分别界定。[〔31〕](https://doi.org/10.1177/19485506231163012)"
+      }
+    ]
+  },
+  {
+    "id": "L500469cf05e6",
+    "doi": "10.1016/j.actpsy.2025.104929",
+    "title": "First-person and third-person lifelogging improves episodic memory",
+    "authors": [
+      "Erik Oudman",
+      "Isabelle F. Klukas",
+      "Tijmen van Teijlingen",
+      "Albert Postma"
+    ],
+    "venue": [
+      "Acta Psychologica"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-print": [
+        [
+          2025,
+          5
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "role": "认知心理学：生活日志视角",
+    "evidence_level": "出版社摘要核读",
+    "finding": "32 名成人的受控研究中，第一与第三人称生活日志的记忆表现没有出现预期视角差异；生活日志相对无记录条件改善主观记忆和视觉信息表现，非视觉信息未见同样改善。",
+    "boundary": "未检出差异不是两视角普遍等效；小样本受控活动不能直接确定日常设备视角。",
+    "next_check": "核读任务、回看过程、分配和效应区间，检验视觉与非视觉测验差异。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/b9be399ac4266800.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1016/j.actpsy.2025.104929",
+    "abstract_source": [
+      {
+        "provider": "doaj",
+        "search_id": "doaj-bac63597f974",
+        "provider_id": "5535de67aa424601be3dcc5bc079d0db",
+        "raw_page": "sources/api/doaj-bac63597f974/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-dd2af061e7f4",
+        "provider_id": "40112760",
+        "raw_page": "sources/api/europepmc-dd2af061e7f4/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "openalex",
+        "search_id": "openalex-21b3f8bb371a",
+        "provider_id": "https://openalex.org/W4408595174",
+        "raw_page": "sources/api/openalex-21b3f8bb371a/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-39e38872382f",
+        "provider_id": "40112760",
+        "raw_page": "sources/api/pubmed-39e38872382f/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-5ceb762a49db",
+        "provider_id": "40112760",
+        "raw_page": "sources/api/pubmed-5ceb762a49db/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-faea059ed0f4",
+        "provider_id": "e0e52f428bed45ac1145d7a7af73220fdd266b0f",
+        "raw_page": "sources/api/semanticscholar-faea059ed0f4/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/review-expand06.json",
+      "locator": "ScienceDirect 摘要；后续直接 DOI 访问失败不改变摘要已读状态"
+    },
+    "reference_number": 33,
+    "reference_year": 2025,
+    "url": "https://doi.org/10.1016/j.actpsy.2025.104929",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.3 视角与输入选择需要对应回忆目标",
+        "paragraph": "Oudman 等在三十二名成人的受控研究中直接比较两种生活日志视角，没有发现预期的视角差异；生活日志对视觉信息和主观记忆的收益，也未同样出现在非视觉信息上。这一结果进一步反对仅凭“更接近亲眼所见”确定全部输入。未检出差异不等于两种视角在所有生活情境中等效，仍需考虑研究规模和任务条件。"
+      }
+    ]
+  },
+  {
+    "id": "L582c1c2017c5",
+    "doi": "10.23991/ef.v51i2.142184",
+    "title": "Engaging (with) Places: Employing audio-visual recording glasses to study emplaced attachments to everyday features of the historic urban landscape",
+    "authors": [
+      "Snjolaug Johannesdottir",
+      "Olafur Rastrick"
+    ],
+    "venue": [
+      "Ethnologia Fennica"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          2,
+          4
+        ]
+      ]
+    },
+    "role": "感官民族志与地方研究：现场记录接续回顾",
+    "evidence_level": "摘要、理论方法及讨论核读",
+    "finding": "研究以 20 次独自步行及后续访谈考察人地关系；参与者预先选择有个人意义的地点，佩戴影音眼镜并口述感受，一周内通过录像引导叙事访谈。",
+    "boundary": "不是自然无任务记录或设备效果对照实验。材料受路线选择、口述要求、当时情境及愿意透露的内容影响；独处不意味着更真实。",
+    "next_check": "继续核读中间案例和编码过程，追溯 Cooke 与 Buckley 的方法来源；分析研究取材与长期生活记录的差异。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/4b7102cbdf68d4e6.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.23991/ef.v51i2.142184",
+    "abstract_source": [],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/fulltext/engaging-places-2024.txt",
+      "locator": "正文第 11–17、28–30 页；尚未核读全部案例"
+    },
+    "reference_number": 34,
+    "reference_year": 2024,
+    "url": "https://doi.org/10.23991/ef.v51i2.142184",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.3 视角与输入选择需要对应回忆目标",
+        "paragraph": "输入选择还取决于记录行为本身。关于影音眼镜和地点依恋的研究让参与者选择有意义的路线，在独自步行时记录并口述，再通过影像访谈。其价值在于展示现场内容和个人解释如何共同形成材料，而非证明某种眼镜最适合自然记录。类似地，家庭声音纪念物研究说明声音能参与回忆，但其解释需要情境和共同交流。由此看来，视频、声音、位置和口述应作为保留特定线索的不同途径，是否组合应由经验内容决定。"
+      }
+    ]
+  },
+  {
+    "id": "L4ea81dc80bf2",
+    "doi": "10.1145/1718918.1718985",
+    "title": "Sonic souvenirs: exploring the paradoxes of recorded sound for family remembering",
+    "authors": [
+      "Lina Dib",
+      "Daniela Petrelli",
+      "Steve Whittaker"
+    ],
+    "venue": [
+      "Proceedings of the 2010 ACM conference on Computer supported cooperative work"
+    ],
+    "publication_type": "proceedings-article",
+    "dates": {
+      "published-online": [
+        [
+          2010,
+          2,
+          6
+        ]
+      ],
+      "published-print": [
+        [
+          2010,
+          2,
+          6
+        ]
+      ],
+      "published": [
+        [
+          2010,
+          2,
+          6
+        ]
+      ]
+    },
+    "role": "声音与记录实践：家庭回忆",
+    "evidence_level": "摘要核读",
+    "finding": "十个家庭记录并分享假期声音，与照片记录比较；声音也支持共同回忆，但解释难度及所保留内容有所不同。",
+    "boundary": "研究单位与回忆过程是家庭及共同讨论，不是独立个体；不能据此给声画模态统一排名。",
+    "next_check": "核读取材与讨论方法，提取声音记录什么、为何保留的实践问题。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/d44cd94cf21a7692.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/1718918.1718985",
+    "abstract_source": [
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W2164327842",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-a69dd485ae54",
+        "provider_id": "1a03446749ef551d266468bf6ada834730d245a8",
+        "raw_page": "sources/api/semanticscholar-a69dd485ae54/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 35,
+    "reference_year": 2010,
+    "url": "https://doi.org/10.1145/1718918.1718985",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.3.3 视角与输入选择需要对应回忆目标",
+        "paragraph": "输入选择还取决于记录行为本身。关于影音眼镜和地点依恋的研究让参与者选择有意义的路线，在独自步行时记录并口述，再通过影像访谈。其价值在于展示现场内容和个人解释如何共同形成材料，而非证明某种眼镜最适合自然记录。类似地，家庭声音纪念物研究说明声音能参与回忆，但其解释需要情境和共同交流。由此看来，视频、声音、位置和口述应作为保留特定线索的不同途径，是否组合应由经验内容决定。[〔34〕](https://doi.org/10.23991/ef.v51i2.142184)"
+      }
+    ]
+  },
+  {
+    "id": "L8a305bce8eb1",
+    "doi": "10.1080/1047840x.2024.2384125",
+    "title": "Understanding Autobiographical Memory in the Digital Age: The AMEDIA-Model",
+    "authors": [
+      "Fabian Hutmacher",
+      "Markus Appel",
+      "Stephan Schwan"
+    ],
+    "venue": [
+      "Psychological Inquiry"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2024,
+          9,
+          17
+        ]
+      ],
+      "published-print": [
+        [
+          2024,
+          4,
+          2
+        ]
+      ],
+      "published": [
+        [
+          2024,
+          4,
+          2
+        ]
+      ]
+    },
+    "role": "跨学科模型：数字自传体记忆",
+    "evidence_level": "摘要及编码、整理框架部分核读",
+    "finding": "AMEDIA 将数字情境中的回忆理解为内部与外部信息反复整合的过程，并把编码与整理纳入解释。",
+    "boundary": "现有综合框架意味着本论文不能仅凭连接记录、整理、回忆就宣称首次创新。",
+    "next_check": "作者机构 PDF 已获取并部分核读；继续通读模型与本论文拟议映射的差异。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/7ae71a93f04a996a.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1080/1047840x.2024.2384125",
+    "abstract_source": [
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W4402573952",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "openalex",
+        "search_id": "openalex-b5805eef4335",
+        "provider_id": "https://openalex.org/W4402573952",
+        "raw_page": "sources/api/openalex-b5805eef4335/page-0001.json",
+        "query_status": "failed"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/fulltext/amedia-2024.txt",
+      "locator": "摘要及编码、整理概念；文本 80–135、320–385；非完整正文"
+    },
+    "reference_number": 36,
+    "reference_year": 2024,
+    "url": "https://doi.org/10.1080/1047840x.2024.2384125",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.1 外部材料参与的是反复提取过程",
+        "paragraph": "AMEDIA 模型把数字情境中的自传体记忆放在编码、整理和提取的联系中理解，强调内部信息与外部资源的反复整合。这意味着，从记录到回忆的整体联系已有理论基础。本研究不能仅因将拍摄、AI 和回看串在一起便宣称建立了全新的记忆理论；潜在贡献应落在更具体的个人线索、记录策略和辅助方式的关系上。"
+      }
+    ]
+  },
+  {
+    "id": "Lb324c09b255a",
+    "doi": "10.1186/s41235-025-00627-4",
+    "title": "Mediated autobiographical remembering in the digital age: insights from an experimental think-aloud study",
+    "authors": [
+      "Fabian Hutmacher",
+      "Beate Conrad",
+      "Markus Appel",
+      "Stephan Schwan"
+    ],
+    "venue": [
+      "Cognitive Research: Principles and Implications"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "role": "认知心理学：数字资源与事件类型",
+    "evidence_level": "摘要、方法、部分结果与讨论核读",
+    "finding": "41 人在家以思维出声方式回忆约一年前的重要日和随机日；随机日任务中使用更多数字资源，也更频繁地在内部回忆和外部资料之间切换。",
+    "boundary": "思维出声编码区分内部与外部检索，但内部检索合并了无辅助和材料提示后的回忆，不能隔离提示的净效应；非全部细节有独立真值。",
+    "next_check": "已确认开放全文，下一步核读任务、编码、资源类别、结果及限制，和 AMEDIA 与生日研究对应。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/fb04b878f2a5f657.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1186/s41235-025-00627-4",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-d59f758a2f3c",
+        "provider_id": "40310603",
+        "raw_page": "sources/api/europepmc-d59f758a2f3c/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-842922eddfba",
+        "provider_id": "40310603",
+        "raw_page": "sources/api/pubmed-842922eddfba/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-citations-7ae71a93f04a",
+        "provider_id": "2a77f61ece2898af4841f8d7a0f8e8166a58e7ff",
+        "raw_page": "sources/api/semanticscholar-citations-7ae71a93f04a/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/fulltext/mediated-remembering-2025.txt",
+      "locator": "方法 158–185、220–280，结果 339–390，讨论 560–610；非完整正文"
+    },
+    "reference_number": 37,
+    "reference_year": 2025,
+    "url": "https://doi.org/10.1186/s41235-025-00627-4",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.1 外部材料参与的是反复提取过程",
+        "paragraph": "Hutmacher 等的思维出声研究为这一过程提供了实际观察。四十一名参与者回忆约一年前的重要日和随机日，随机日任务中更频繁使用数字资源并在外部资料和内部回忆间切换。然而，其编码将无辅助的内部回忆和外部提示后的内部回忆归入同类，不能据此独立估计某种提示的效果。另一个四十人的生日回忆研究也观察到较远事件更多依赖外部资源。两项研究共同提示，回忆辅助可能需要按事件熟悉程度和已有回忆状态提供支持，而非对所有事件生成相同形式的摘要。"
+      }
+    ]
+  },
+  {
+    "id": "L0fc4062d5c52",
+    "doi": "10.1080/09658211.2025.2602077",
+    "title": "Birthday memories: an experimental think-aloud study on autobiographical remembering in the digital age",
+    "authors": [
+      "Fabian Hutmacher",
+      "Cosima Einhellig",
+      "Stefanie Klink"
+    ],
+    "venue": [
+      "Memory"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ],
+      "published-print": [
+        [
+          2026,
+          2,
+          7
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ]
+    },
+    "role": "认知心理学：现实数字资源使用",
+    "evidence_level": "摘要核读",
+    "finding": "预注册思维出声研究中，40 名德国参与者在家回忆两个年份的生日，可使用外部资源；较远事件使用资源更多，资源帮助获得新的认识。",
+    "boundary": "外部信息带来的新认识不自动等于被遗忘的真实细节重新出现；需要核对分类标准。",
+    "next_check": "核读生日任务、编码及准确性验证；区分网络首发 2025 与卷期 2026。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/dd5c313cfc0e43cc.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1080/09658211.2025.2602077",
+    "abstract_source": [
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-842922eddfba",
+        "provider_id": "41400116",
+        "raw_page": "sources/api/pubmed-842922eddfba/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-citations-7ae71a93f04a",
+        "provider_id": "78515d2822a76152abab0703c4a2ead236d69d6d",
+        "raw_page": "sources/api/semanticscholar-citations-7ae71a93f04a/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch07-interdisciplinary.json",
+      "locator": "PubMed 摘要"
+    },
+    "reference_number": 38,
+    "reference_year": 2026,
+    "url": "https://doi.org/10.1080/09658211.2025.2602077",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.1 外部材料参与的是反复提取过程",
+        "paragraph": "Hutmacher 等的思维出声研究为这一过程提供了实际观察。四十一名参与者回忆约一年前的重要日和随机日，随机日任务中更频繁使用数字资源并在外部资料和内部回忆间切换。然而，其编码将无辅助的内部回忆和外部提示后的内部回忆归入同类，不能据此独立估计某种提示的效果。另一个四十人的生日回忆研究也观察到较远事件更多依赖外部资源。两项研究共同提示，回忆辅助可能需要按事件熟悉程度和已有回忆状态提供支持，而非对所有事件生成相同形式的摘要。[〔37〕](https://doi.org/10.1186/s41235-025-00627-4)"
+      }
+    ]
+  },
+  {
+    "id": "L127fdf870111",
+    "doi": "10.1007/s00779-023-01726-z",
+    "title": "LAD: an application design model to support the analysis of large-scale personal data collections generated by lifelogging",
+    "authors": [
+      "Aaron Duane",
+      "Björn Þór Jónsson",
+      "Hyowon Lee",
+      "Cathal Gurrin"
+    ],
+    "venue": [
+      "Personal and Ubiquitous Computing"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2023,
+          7,
+          17
+        ]
+      ],
+      "published-print": [
+        [
+          2023,
+          12
+        ]
+      ],
+      "published": [
+        [
+          2023,
+          7,
+          17
+        ]
+      ]
+    },
+    "role": "生活记录设计：用途、数据与访问方式的对应",
+    "evidence_level": "摘要、引言及案例片段核读",
+    "finding": "LAD 模型将生活日志数据、访问机制与应用用途联系起来；通过两个理论案例和既有 VRLE 原型的回顾分析展示用途。个人视频案例涉及回忆性浏览和特定日期查找。",
+    "boundary": "模型和理论案例不能作为回忆效果实验。本文仅用于检查目标、输入与呈现是否对应，不采用其全面捕捉人生的范围。",
+    "next_check": "开放正文；需要实现方案时进一步核对模型第 3 节，不沿全部生活日志用途扩展检索。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/cd8d95ffc7bed7f1.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1007/s00779-023-01726-z",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-faea059ed0f4",
+        "provider_id": "98d1b96720a675894865645175b685612962b94c",
+        "raw_page": "sources/api/semanticscholar-faea059ed0f4/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/focused01.json",
+      "locator": "Springer 摘要、引言及 4.1／4.2 案例片段，非全文"
+    },
+    "reference_number": 39,
+    "reference_year": 2023,
+    "url": "https://doi.org/10.1007/s00779-023-01726-z",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.2 识别与组织：把可检索材料变成个人线索",
+        "paragraph": "生活日志检索研究为图像、声音和情境数据的处理提供了技术基础。LAD 应用设计模型进一步连接数据、访问方式和用途，但其理论案例及既有原型回顾并非回忆效果实验。对本研究而言，技术流程需要从用户想回顾的经历反推：识别了哪些事件，保留了哪些可辨认的线索，如何将分散片段联系起来，以及这种组织是否符合本人理解。[〔2〕](https://doi.org/10.2196/30517)"
+      }
+    ]
+  },
+  {
+    "id": "L0d3af1956d48",
+    "doi": "10.1017/mem.2026.10057",
+    "title": "‘On some promises of personal memory algorithmisation’",
+    "authors": [
+      "Rémi Rouge",
+      "Katharina Niemeyer",
+      "Emmanuelle Caccamo"
+    ],
+    "venue": [
+      "Memory, Mind &amp; Media"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ],
+      "published-print": [
+        [
+          2026
+        ]
+      ],
+      "published": [
+        [
+          2026
+        ]
+      ]
+    },
+    "role": "媒介研究：算法回忆的承诺",
+    "evidence_level": "摘要与部分正文核读",
+    "finding": "研究记忆产品的宣传话语与算法化想象，讨论自动整理和再呈现怎样预先规定何种数据被当作可回忆内容。",
+    "boundary": "产品话语分析不证明实际用户获益或受损；不能把平台声称的增强当实验结果。",
+    "next_check": "继续核读样本产品、话语材料选择和分析程序。已核实在线发表 2026-10-12。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/7a9b9839291aef7d.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1017/mem.2026.10057",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-8ac3e241917d",
+        "provider_id": "4dcb9fffc4d781e56849e4c582208919c1ebf13a",
+        "raw_page": "sources/api/semanticscholar-8ac3e241917d/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/review-expand01.json",
+      "locator": "Cambridge 摘要及正文片段；日期和 DOI 另见 expand05"
+    },
+    "reference_number": 40,
+    "reference_year": 2026,
+    "url": "https://doi.org/10.1017/mem.2026.10057",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.2 识别与组织：把可检索材料变成个人线索",
+        "paragraph": "算法识别的“特殊”不等于对个人“重要”。Rouge、Niemeyer 与 Caccamo 对记忆产品宣传话语的分析讨论了自动化回忆的承诺；吴璟薇与宋思静则通过界面漫游和访谈讨论年度报告如何将日常操作痕迹转成回顾内容。两者使本研究需要审视选择依据：平台分类、数据可获得性和商业呈现目标，都可能参与决定什么被重新显示。后者的中文摘要尤其提示，用户会对平台组织的材料重新赋予个人意义。因此，AI 识别应向使用者提供可确认和调整的候选，而不能将算法评分当作个人意义的最终判定。"
+      }
+    ]
+  },
+  {
+    "id": "CN2025-wu-song",
+    "title": "日常痕迹的算法唤醒：年度报告作为代具记忆",
+    "authors": [
+      "吴璟薇",
+      "宋思静"
+    ],
+    "year": 2025,
+    "venue": "新闻与写作",
+    "issue": "8",
+    "pages": "95–106",
+    "url": "https://xwxz.cbpt.cnki.net/portal/journal/portal/client/paper/f842de432b0bd59e5d449030f09508a6",
+    "evidence_level": "期刊官方页面摘要核读",
+    "finding": "以界面漫游与深度访谈讨论年度报告的日常痕迹激活、平台分类与用户再解释。",
+    "boundary": "摘要未给样本与完整编码；不是回忆准确性实验。",
+    "next_check": "需登录获取正文，检查访谈样本、产品、算法机制证据和分析范围。",
+    "reference_number": 41,
+    "metadata_checks": {
+      "identity": "大学或期刊官方页面",
+      "doi": "未获 DOI，不虚构"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.2 识别与组织：把可检索材料变成个人线索",
+        "paragraph": "算法识别的“特殊”不等于对个人“重要”。Rouge、Niemeyer 与 Caccamo 对记忆产品宣传话语的分析讨论了自动化回忆的承诺；吴璟薇与宋思静则通过界面漫游和访谈讨论年度报告如何将日常操作痕迹转成回顾内容。两者使本研究需要审视选择依据：平台分类、数据可获得性和商业呈现目标，都可能参与决定什么被重新显示。后者的中文摘要尤其提示，用户会对平台组织的材料重新赋予个人意义。因此，AI 识别应向使用者提供可确认和调整的候选，而不能将算法评分当作个人意义的最终判定。[〔40〕](https://doi.org/10.1017/mem.2026.10057)"
+      }
+    ]
+  },
+  {
+    "id": "Le240ce18d19c",
+    "doi": "10.1145/3613905.3650979",
+    "title": "Unlocking Memories with AI: Exploring the Role of AI-Generated Cues in Personal Reminiscing",
+    "authors": [
+      "Jun Li Jeung",
+      "Janet Yi-Ching Huang"
+    ],
+    "venue": [
+      "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems"
+    ],
+    "publication_type": "proceedings-article",
+    "dates": {
+      "published-online": [
+        [
+          2024,
+          5,
+          11
+        ]
+      ],
+      "published-print": [
+        [
+          2024,
+          5,
+          2
+        ]
+      ],
+      "published": [
+        [
+          2024,
+          5,
+          2
+        ]
+      ]
+    },
+    "role": "物件与提问：个人回忆探索",
+    "evidence_level": "摘要核读",
+    "finding": "Treasurefinder 根据 NFC 物件或卡片保存的故事生成开放问题；十二名参与者成对使用时出现回忆、对他人的新认识和反思。",
+    "boundary": "探索性研究与成对互动无法隔离 AI、物件和对话的各自效果；不是准确性实验。",
+    "next_check": "核读参与者关系、问题生成依据、物件选择、流程和编码，明确是否有可比基线。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/3266dadf1c829b36.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/3613905.3650979",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-8ac3e241917d",
+        "provider_id": "92a2372042b5103773e6ca05358964261bd85dbf",
+        "raw_page": "sources/api/semanticscholar-8ac3e241917d/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "data/候选-AI-待人工筛选.json",
+      "locator": "匹配 DOI 的摘要"
+    },
+    "reference_number": 42,
+    "reference_year": 2024,
+    "url": "https://doi.org/10.1145/3613905.3650979",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.3 对话与生成：辅助提取和辅助表达承担不同任务",
+        "paragraph": "AI 可以通过问题、对话组织和影像生成参与回忆，但这些作用不宜合并为同一种“增强”。Treasurefinder 从物件或卡片关联的故事生成开放问题，在十二人成对使用的探索中观察回忆、反思和对他人的新认识。StorySage 的二十八人研究则报告对话流畅度、叙事完整度和满意度方面的改善。前者主要探索问题如何开启讲述，后者主要支持经历组织；二者都不能仅凭叙述增加认定事实准确性提高。"
+      }
+    ]
+  },
+  {
+    "id": "L49092deb1e6c",
+    "doi": "10.1145/3746059.3747681",
+    "title": "StorySage: Conversational Autobiography Writing Powered by a Multi-Agent Framework",
+    "authors": [
+      "Shayan Talaei",
+      "Meijin Li",
+      "Kanu Grover",
+      "James Kent Hippler",
+      "Diyi Yang",
+      "Amin Saberi"
+    ],
+    "venue": [
+      "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology"
+    ],
+    "publication_type": "proceedings-article",
+    "dates": {
+      "published-online": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ],
+      "published-print": [
+        [
+          2025,
+          9,
+          28
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ]
+    },
+    "role": "自传写作：对话收集与叙事组织",
+    "evidence_level": "摘要核读",
+    "finding": "StorySage 通过多角色流程收集经历、组织自传和安排后续对话；28 人用户研究报告相对基线的对话流畅度、叙事完整度与满意度改善。",
+    "boundary": "叙事完整度可能来自组织或补述；不自动证明事实更准确或被遗忘经历恢复。模拟实验与真实用户研究须区分。",
+    "next_check": "核读基线、任务时长、用户材料、完整度评分和生成内容核查。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/0ee3b4ccb798682c.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/3746059.3747681",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-8ac3e241917d",
+        "provider_id": "be6c231d29f9345dd026df1a94aae7c9b4c99a01",
+        "raw_page": "sources/api/semanticscholar-8ac3e241917d/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "data/候选-AI-待人工筛选.json",
+      "locator": "匹配 DOI 的摘要"
+    },
+    "reference_number": 43,
+    "reference_year": 2025,
+    "url": "https://doi.org/10.1145/3746059.3747681",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.3 对话与生成：辅助提取和辅助表达承担不同任务",
+        "paragraph": "AI 可以通过问题、对话组织和影像生成参与回忆，但这些作用不宜合并为同一种“增强”。Treasurefinder 从物件或卡片关联的故事生成开放问题，在十二人成对使用的探索中观察回忆、反思和对他人的新认识。StorySage 的二十八人研究则报告对话流畅度、叙事完整度和满意度方面的改善。前者主要探索问题如何开启讲述，后者主要支持经历组织；二者都不能仅凭叙述增加认定事实准确性提高。[〔42〕](https://doi.org/10.1145/3613905.3650979)"
+      }
+    ]
+  },
+  {
+    "id": "Lf5779c15aee7",
+    "doi": "10.1007/s00146-025-02688-x",
+    "title": "Stories by the campfire: use of generative A.I. voice assistants to support older adult reminiscence self-efficacy",
+    "authors": [
+      "Noah Zijie Qu",
+      "Jamy Li",
+      "Mark Chignell"
+    ],
+    "venue": [
+      "AI &amp; SOCIETY"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ],
+      "published-print": [
+        [
+          2026,
+          4
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ]
+    },
+    "role": "AI 与社会：回忆自我效能",
+    "evidence_level": "期刊摘要核读",
+    "finding": "41 人组间混合方法研究比较 AI 讲故事、AI 提问、两者组合和一般提问；摘要报告两类 AI 功能存在交互，并观察回忆词数变化与准确性自信之间的关系。",
+    "boundary": "结果主要是回忆自我效能、参与和体验。摘要对合并条件及分别比较的措辞需读结果表澄清；不可据此断言组合一定更好或准确性提高。",
+    "next_check": "机构访问获取正文，核对四组人数、对比方式、量表和访谈；网上首发 2025-10-27，卷期 2026。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/7c659af107513aae.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1007/s00146-025-02688-x",
+    "abstract_source": [
+      {
+        "provider": "openalex",
+        "search_id": "openalex-de1da4d160e6",
+        "provider_id": "https://openalex.org/W4415568541",
+        "raw_page": "sources/api/openalex-de1da4d160e6/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-6feb87626090",
+        "provider_id": "50e1c905338e34241c04ffd947845323e3241bf5",
+        "raw_page": "sources/api/semanticscholar-6feb87626090/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": false,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch23-primary-check.json",
+      "locator": "Springer 期刊摘要，网页行 32–38"
+    },
+    "reference_number": 44,
+    "reference_year": 2026,
+    "url": "https://doi.org/10.1007/s00146-025-02688-x",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.3 对话与生成：辅助提取和辅助表达承担不同任务",
+        "paragraph": "Campfire 研究比较 AI 讲故事、AI 提问、二者组合和一般提问，主要关注老年人的回忆自我效能及体验。其摘要中的交互作用仍需结合完整结果表解释，不能直接得出“组合一定最好”。这使本研究有必要在设计上分别说明 AI 是帮助用户找到可讲的内容、帮助继续提取，还是把已有叙述表达得更完整；验证时也需要对应不同结果。"
+      }
+    ]
+  },
+  {
+    "id": "Lcf363277fc92",
+    "doi": "10.1527/tjsai.41-3_a-p73",
+    "title": "Memory Recall Support through Externalization of Remembered Scenes Using Generative AI: Evaluating the Effects of Iterative Image Modification Process",
+    "authors": [
+      "Masayuki Ando",
+      "Kouyou Otsu",
+      "Tomoko Izumi"
+    ],
+    "venue": [
+      "Transactions of the Japanese Society for Artificial Intelligence"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-print": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "published": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ]
+    },
+    "role": "AI 回忆表达：反复描述与图像修改",
+    "evidence_level": "期刊摘要核读",
+    "finding": "比较单次描述、反复描述及反复描述加图像细节修改。客观回忆数量未见显著组间差异；后一条件相对单次描述获得更高的主观细节与准确感评价。",
+    "boundary": "主观准确感不等于客观准确性。此方法由已经能够口述的回忆生成图像，不能替代生活记录；样本、任务和统计细节尚待正文核对。",
+    "next_check": "J-STAGE 开放正文可继续核读；核对样本、计数方法、修改交互与比较结果。用于区分生成过程体验和回忆结果。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/53ea13d40eb49992.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1527/tjsai.41-3_a-p73",
+    "abstract_source": [],
+    "abstract_available": false,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/focused02.json",
+      "locator": "J-STAGE 抄録 72–75 行；仅摘要"
+    },
+    "reference_number": 45,
+    "reference_year": 2026,
+    "url": "https://doi.org/10.1527/tjsai.41-3_a-p73",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.3 对话与生成：辅助提取和辅助表达承担不同任务",
+        "paragraph": "生成图像可以作为反复描述的外部对象。Ando 等比较单次描述、反复描述及反复描述加图像修改，摘要报告客观回忆数量未出现显著组间差异，而包含修改的条件在主观细节与准确感上优于单次描述。这个结果不能仅以“AI 有帮助”概括：反复修改或许改变了对表达的感受，但主观准确感和实际准确性仍需区分。它也说明该类流程以已经能够描述的记忆为起点，不能替代前端生活记录。"
+      }
+    ]
+  },
+  {
+    "id": "L0491889e77e1",
+    "doi": "10.1145/3772318.3790927",
+    "title": "“I'm happy even though it's not real”: GenAI Photo Editing as a Remembering Experience",
+    "authors": [
+      "Yufeng Wu",
+      "Qing Li",
+      "Elise van den Hoven",
+      "A. Baki Kocaballi"
+    ],
+    "venue": [
+      "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
+    ],
+    "publication_type": "proceedings-article",
+    "dates": {
+      "published-online": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "published-print": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "published": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "role": "摄影与设计：自主编辑的回忆体验",
+    "evidence_level": "摘要及结果片段核读",
+    "finding": "十二人用生成式工具编辑个人照片并接受访谈，研究发现编辑可用于贴近记忆感受，人物身份与环境修改的接受边界不同，编辑过程也参与了回忆。",
+    "boundary": "小样本、引导式活动与主观叙述，不证明真实性改善；不能把参与者偏好普遍化，也不能与被动接受误导图片的实验直接合并。",
+    "next_check": "核读招募、RX 引导、照片选择、研究者参与和反例；取得完整正文核实与预印本的对应。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/7fccc9278e238fa1.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/3772318.3790927",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-61604ed7b708",
+        "provider_id": "6c9f3afbfe330435b177adb1ba89af0a2d99e610",
+        "raw_page": "sources/api/semanticscholar-61604ed7b708/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch27-source-followup.json",
+      "locator": "arXiv 摘要及 ACM 第 4.3 节片段"
+    },
+    "reference_number": 46,
+    "reference_year": 2026,
+    "url": "https://doi.org/10.1145/3772318.3790927",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.3 对话与生成：辅助提取和辅助表达承担不同任务",
+        "paragraph": "个人照片编辑研究则把生成过程本身纳入回忆活动。十二名参与者的访谈表明，编辑可以被用来使画面贴近个人记忆感受，而人物身份和环境修改的接受边界并不相同。Memory Printer 进一步结合分层生成、实体操作和打印，讨论控制感及创造性探索。不过，该研究的二十四人比较采用固定顺序及不同回忆任务，慢速、实体交互和工具差异同时发生，不能单独归因于某一种“仪式机制”。这些工作支持的是让用户参与解释和修改的设计可能性，而不是证明生成影像更真实。"
+      }
+    ]
+  },
+  {
+    "id": "L4c049cf626c3",
+    "doi": "10.1145/3772318.3791325",
+    "title": "Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation",
+    "authors": [
+      "Zhou Fang",
+      "Janet Yi-Ching Huang"
+    ],
+    "venue": [
+      "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
+    ],
+    "publication_type": "proceedings-article",
+    "dates": {
+      "published-online": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "published-print": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "published": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "role": "具身交互：慢速生成与主体控制",
+    "evidence_level": "摘要及作者预印本方法、局限核读",
+    "finding": "24 人先使用 Krea AI，再使用 Memory Printer，以不同回忆完成两项任务；质性分析讨论分层生成、实体操作与缓慢制作中的控制感及创造性体验。",
+    "boundary": "固定顺序、不同回忆和多项交互变化同时存在，不能隔离慢速或实体操作的因果效果。23 人为 22–31 岁；未深入检验虚假记忆问题。",
+    "next_check": "对照会议正式版与预印本；核读完整结果和编码。不得据此宣称准确记忆改善。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/5e3f7072b0071438.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/3772318.3791325",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-61604ed7b708",
+        "provider_id": "5d4b5fe4aa16a1bcf82fa7f6571c8f7967c98c8d",
+        "raw_page": "sources/api/semanticscholar-61604ed7b708/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/fulltext/memory-printer-2026-preprint.txt",
+      "locator": "方法 355–440，讨论片段 690–735，局限 850–895；作者预印本"
+    },
+    "reference_number": 47,
+    "reference_year": 2026,
+    "url": "https://doi.org/10.1145/3772318.3791325",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.3 对话与生成：辅助提取和辅助表达承担不同任务",
+        "paragraph": "个人照片编辑研究则把生成过程本身纳入回忆活动。十二名参与者的访谈表明，编辑可以被用来使画面贴近个人记忆感受，而人物身份和环境修改的接受边界并不相同。Memory Printer 进一步结合分层生成、实体操作和打印，讨论控制感及创造性探索。不过，该研究的二十四人比较采用固定顺序及不同回忆任务，慢速、实体交互和工具差异同时发生，不能单独归因于某一种“仪式机制”。这些工作支持的是让用户参与解释和修改的设计可能性，而不是证明生成影像更真实。[〔46〕](https://doi.org/10.1145/3772318.3790927)"
+      }
+    ]
+  },
+  {
+    "id": "L527b74338803",
+    "doi": "10.1080/17503280.2020.1815123",
+    "title": "The autobiographical documentary: archive and montage to represent the self",
+    "authors": [
+      "Vladimir Rosas",
+      "Rubén Dittus"
+    ],
+    "venue": [
+      "Studies in Documentary Film"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2020,
+          9,
+          2
+        ]
+      ],
+      "published-print": [
+        [
+          2021,
+          9,
+          2
+        ]
+      ],
+      "published": [
+        [
+          2020,
+          9,
+          2
+        ]
+      ]
+    },
+    "role": "电影研究：自传体纪录片",
+    "evidence_level": "摘要核读",
+    "finding": "以三部自传体纪录片分析家庭档案影像重新语境化及蒙太奇如何参与自我与身份的表达。",
+    "boundary": "作品分析指导取材和表达，不能替代观众回忆效果实验；成片具有作者立场。",
+    "next_check": "核读片段分析与档案、访谈、观察素材的对应方式。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/5d22b93c350ab927.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1080/17503280.2020.1815123",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-319172aed135",
+        "provider_id": "c961876f5b743a18362bb51bc2579349cbf13ddd",
+        "raw_page": "sources/api/semanticscholar-319172aed135/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 48,
+    "reference_year": 2021,
+    "url": "https://doi.org/10.1080/17503280.2020.1815123",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.4 自传与纪录片为表达提供何种依据",
+        "paragraph": "影像表达并非只能采取自动剪辑“精彩瞬间”的形式。Rosas 与 Dittus 对自传体纪录片的研究讨论家庭档案重新语境化及蒙太奇如何参与自我表达；Denić 对第一人称纪录片的分析将片中的活动、拍摄行为和电影表达放在不同层次考察。它们有助于说明，一段回忆影像不仅包括出现了哪些对象，还包括是谁选择材料、怎样建立时间关系以及如何表达自身立场。"
+      }
+    ]
+  },
+  {
+    "id": "Ldf06caacd7e3",
+    "doi": "10.1080/17503280.2024.2350603",
+    "title": "Cinematic hometactics: negotiating belonging in first-person documentary",
+    "authors": [
+      "Nadica Denić"
+    ],
+    "venue": [
+      "Studies in Documentary Film"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2024,
+          5,
+          18
+        ]
+      ],
+      "published-print": [
+        [
+          2024,
+          9
+        ]
+      ],
+      "published": [
+        [
+          2024,
+          5,
+          18
+        ]
+      ]
+    },
+    "role": "电影研究：第一人称与归属",
+    "evidence_level": "摘要核读",
+    "finding": "围绕 Four Journeys 的作品分析及导演访谈，讨论片中活动、拍摄行为和电影表达三种层次的归属建构。",
+    "boundary": "迁移经历及作者电影的语境不能直接推广到普通日常记录。第一人称电影叙事也不等于头戴摄像机视角。",
+    "next_check": "核读三种层次的重叠、作者立场与可迁移的记录方法。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/b893288ff3fa8550.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1080/17503280.2024.2350603",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-319172aed135",
+        "provider_id": "be8b7d57fbf2c50fc9417d2e4456af7a06f039ea",
+        "raw_page": "sources/api/semanticscholar-319172aed135/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 49,
+    "reference_year": 2024,
+    "url": "https://doi.org/10.1080/17503280.2024.2350603",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.4.4 自传与纪录片为表达提供何种依据",
+        "paragraph": "影像表达并非只能采取自动剪辑“精彩瞬间”的形式。Rosas 与 Dittus 对自传体纪录片的研究讨论家庭档案重新语境化及蒙太奇如何参与自我表达；Denić 对第一人称纪录片的分析将片中的活动、拍摄行为和电影表达放在不同层次考察。它们有助于说明，一段回忆影像不仅包括出现了哪些对象，还包括是谁选择材料、怎样建立时间关系以及如何表达自身立场。[〔48〕](https://doi.org/10.1080/17503280.2020.1815123)"
+      }
+    ]
+  },
+  {
+    "id": "L55df4ef85853",
+    "doi": "10.1145/2556288.2557178",
+    "title": "Designing for slowness, anticipation and re-visitation: a long term field study of the photobox",
+    "authors": [
+      "William T. Odom",
+      "Abigail J. Sellen",
+      "Richard Banks",
+      "David S. Kirk",
+      "Tim Regan",
+      "Mark Selby",
+      "Jodi L. Forlizzi",
+      "John Zimmerman"
+    ],
+    "venue": [
+      "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems"
+    ],
+    "publication_type": "proceedings-article",
+    "dates": {
+      "published-online": [
+        [
+          2014,
+          4,
+          26
+        ]
+      ],
+      "published-print": [
+        [
+          2014,
+          4,
+          26
+        ]
+      ],
+      "published": [
+        [
+          2014,
+          4,
+          26
+        ]
+      ]
+    },
+    "role": "设计研究：缓慢呈现与再访问",
+    "evidence_level": "摘要及方法片段核读",
+    "finding": "Photobox 随机、低频打印已有照片，在三个家庭部署十四个月，研究期待、重新访问和长期态度变化。",
+    "boundary": "这是长期质性设计探索，没有确定普遍最优频率，也不是记忆准确率实验。",
+    "next_check": "取得并核读完整方法及结果；区分 2012 设计论文与 2014 部署研究。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/c04aaf7d802ffa9a.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/2556288.2557178",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-a63b95586563",
+        "provider_id": "3bc88bc8c5e0b5513fd54a8428dbdf9405e73823",
+        "raw_page": "sources/api/semanticscholar-a63b95586563/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": false,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/batch12-capture-revisit.json",
+      "locator": "作者 PDF 的摘要及方法片段；机构题录"
+    },
+    "reference_number": 50,
+    "reference_year": 2014,
+    "url": "https://doi.org/10.1145/2556288.2557178",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.5.1 呈现时机是回忆设计的一部分",
+        "paragraph": "一份质量较高的回忆影像如果没有进入使用者的日常注意，也未必产生实际作用。Photobox 在三个家庭持续十四个月，以低频、随机打印已有照片探索期待和再次访问，显示系统节奏与长期态度值得作为设计对象。该研究并未确定普遍适用的推送频率，也没有测量记忆准确性，但为本研究提供了与“生成越快、推送越多越好”不同的考察角度：回看可以通过等待、接触和偶然发现进入生活。"
+      }
+    ]
+  },
+  {
+    "id": "L3652dc4b4d7d",
+    "doi": "10.1145/3654777.3676336",
+    "title": "Memory Reviver: Supporting Photo-Collection Reminiscence for People with Visual Impairment via a Proactive Chatbot",
+    "authors": [
+      "Shuchang Xu",
+      "Chang Chen",
+      "Zichen Liu",
+      "Xiaofu Jin",
+      "Lin-Ping Yuan",
+      "Yukang Yan",
+      "Huamin Qu"
+    ],
+    "venue": [
+      "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology"
+    ],
+    "publication_type": "proceedings-article",
+    "dates": {
+      "published-online": [
+        [
+          2024,
+          10,
+          11
+        ]
+      ],
+      "published-print": [
+        [
+          2024,
+          10,
+          13
+        ]
+      ],
+      "published": [
+        [
+          2024,
+          10,
+          11
+        ]
+      ]
+    },
+    "role": "无障碍回忆：照片组织与主动提示",
+    "evidence_level": "摘要核读",
+    "finding": "Memory Reviver 以照片集合的层级组织和对话中的主动提示支持视障人士回忆；十二位视障参与者评价其回忆参与、照片理解和对话体验。",
+    "boundary": "针对视障的支持需求，不能直接规定一般用户推送时机；对照片的理解和自然对话不等于独立验证的回忆准确性。",
+    "next_check": "核读基线、主动策略触发、照片信息来源与错误处理；明确照片描述和用户原有记忆的区别。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/eeae5f54b648bb8c.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/3654777.3676336",
+    "abstract_source": [
+      {
+        "provider": "openalex",
+        "search_id": "openalex-de1da4d160e6",
+        "provider_id": "https://openalex.org/W4403333958",
+        "raw_page": "sources/api/openalex-de1da4d160e6/page-0001.json",
+        "query_status": "failed"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "data/候选-AI-待人工筛选.json",
+      "locator": "正式版及同题预印本摘要"
+    },
+    "reference_number": 51,
+    "reference_year": 2024,
+    "url": "https://doi.org/10.1145/3654777.3676336",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.5.1 呈现时机是回忆设计的一部分",
+        "paragraph": "Memory Reviver 面向视障人士，通过照片集合组织和对话中的主动提示支持回忆。它说明呈现不必总是独立播放一段成片，也可以嵌入正在进行的交流。但其十二名视障参与者的支持需求不能直接推广到所有用户。与 Photobox 对照后，本研究更适合追问不同方式在何种情境下合适：主动查找适用于已有意图的回看，情境提示可能引出未计划的回忆，而对话提示适合在已有讲述中提供后续线索。它们各自的触发条件仍需从用户实践中获得。"
+      }
+    ]
+  },
+  {
+    "id": "CN2025-gao",
+    "title": "数字时代的媒介怀旧研究：以CCD相机的使用为例",
+    "authors": [
+      "高涔朝"
+    ],
+    "year": 2025,
+    "venue": "清华大学硕士学位论文",
+    "pages": "72 页",
+    "url": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=297831",
+    "evidence_level": "大学学位论文库摘要核读",
+    "finding": "从实践理论讨论手动操作、主动观察和照片跨媒介导出在记录及怀旧过程中的作用。",
+    "boundary": "不能把怀旧风格或行动间隔当作记忆准确性提升；样本及具体方法待正文核对。",
+    "next_check": "需获取正文，核实实践材料、样本、访谈及设备风格论证。",
+    "reference_number": 52,
+    "metadata_checks": {
+      "identity": "大学或期刊官方页面",
+      "doi": "未获 DOI，不虚构"
+    },
+    "cited_at": [
+      {
+        "section": "2.5.2 仪式应落实为可观察的行动过程",
+        "paragraph": "“仪式感”若只作为情绪性描述，很难成为可验证的设计依据。高涔朝关于 CCD 相机使用的学位论文摘要，将手动操作、主动观察和照片导出形成的间隔纳入记录与怀旧实践。这提供了一个值得考察的方向：操作、等待、选择和跨媒介转移本身可能参与意义形成。但其结论不能被概括为设备越旧或操作越慢越能改善记忆，也不应将复古风格等同于本人经历的回忆。"
+      }
+    ]
+  },
+  {
+    "id": "L6332300cdd6b",
+    "doi": "10.1080/09658211.2024.2377193",
+    "title": "Accuracy and completeness of autobiographical memory: evidence from a wearable camera study",
+    "authors": [
+      "Jason R. Finley",
+      "William F. Brewer"
+    ],
+    "venue": [
+      "Memory"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2024,
+          7,
+          18
+        ]
+      ],
+      "published-print": [
+        [
+          2024,
+          9,
+          13
+        ]
+      ],
+      "published": [
+        [
+          2024,
+          7,
+          18
+        ]
+      ]
+    },
+    "role": "认知心理学：日常回忆验证",
+    "evidence_level": "摘要核读",
+    "finding": "9 名本科生佩戴相机记录两天；一周与一月后先回忆，再查看照片并纠正或补充，区分遗漏类型。",
+    "boundary": "样本很小；准确性由参与者自评，不是独立客观真值。两天及十秒间隔是该研究方法，不是本论文要求。",
+    "next_check": "核读计分单元、遗漏分类、上界估计和准确性评分。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/aff0c3ca369f4f36.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1080/09658211.2024.2377193",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-d59f758a2f3c",
+        "provider_id": "39023007",
+        "raw_page": "sources/api/europepmc-d59f758a2f3c/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-dd2af061e7f4",
+        "provider_id": "39023007",
+        "raw_page": "sources/api/europepmc-dd2af061e7f4/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-5ceb762a49db",
+        "provider_id": "39023007",
+        "raw_page": "sources/api/pubmed-5ceb762a49db/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-65759fe8e974",
+        "provider_id": "28abe5d3a1d638b76077be127ad51e72b1bca49a",
+        "raw_page": "sources/api/semanticscholar-65759fe8e974/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-faea059ed0f4",
+        "provider_id": "28abe5d3a1d638b76077be127ad51e72b1bca49a",
+        "raw_page": "sources/api/semanticscholar-faea059ed0f4/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 53,
+    "reference_year": 2024,
+    "url": "https://doi.org/10.1080/09658211.2024.2377193",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.6.1 区分使用体验、回忆表现和准确性",
+        "paragraph": "现有研究使用的“有帮助”包含多种不同结果：回看更有趣、讲述更顺畅、情绪更积极、细节更多，或者表现更准确。如果不作区分，面向体验的积极结果容易被误写为记忆能力改善。Finley 与 Brewer 使用可穿戴照片对九名本科生的日常回忆进行比较，展示了先回忆再查看材料并补充遗漏的研究方法，但准确性仍依赖参与者自评。照片可提供核对依据，却不能成为覆盖经历全部维度的真值。"
+      }
+    ]
+  },
+  {
+    "id": "L843b8eda822f",
+    "doi": "10.1093/geronb/gbaf093",
+    "title": "Training Autobiographical Memory in Older Adults Using Photos From Wearable Cameras",
+    "authors": [
+      "Tuíla Maciel Felinto",
+      "Tory Worth",
+      "Erin Welch",
+      "Roberto Cabeza"
+    ],
+    "venue": [
+      "The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2025,
+          5,
+          21
+        ]
+      ],
+      "published-print": [
+        [
+          2025,
+          6,
+          10
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          5,
+          21
+        ]
+      ]
+    },
+    "role": "认知老化：真实生活照片训练",
+    "evidence_level": "摘要与结论片段核读",
+    "finding": "老年人随机分为生活照片自传体记忆训练、一般场景图片训练、词汇控制；在家每周五天持续四至五周，自传体训练对生活事件时间顺序任务的迁移更好。",
+    "boundary": "有训练与反馈，且主要测时间顺序；不能推广为被动记录或偶发推送能普遍改善日常回忆。研究未预注册。",
+    "next_check": "核读样本量、流失、基线及交互效应，区分训练效果与相机本身效果。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/6eff20aec82f7082.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1093/geronb/gbaf093",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-2020595d1fca",
+        "provider_id": "40394857",
+        "raw_page": "sources/api/europepmc-2020595d1fca/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-d59f758a2f3c",
+        "provider_id": "40394857",
+        "raw_page": "sources/api/europepmc-d59f758a2f3c/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-dd2af061e7f4",
+        "provider_id": "40394857",
+        "raw_page": "sources/api/europepmc-dd2af061e7f4/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-5ceb762a49db",
+        "provider_id": "40394857",
+        "raw_page": "sources/api/pubmed-5ceb762a49db/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-65759fe8e974",
+        "provider_id": "ecf41a4833c733d1220dc2e107a59ecd2ae29f32",
+        "raw_page": "sources/api/semanticscholar-65759fe8e974/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/web/review-expand05.json",
+      "locator": "出版社索引方法及结论片段；摘要另由精确 Crossref 元数据取得"
+    },
+    "reference_number": 54,
+    "reference_year": 2025,
+    "url": "https://doi.org/10.1093/geronb/gbaf093",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.6.1 区分使用体验、回忆表现和准确性",
+        "paragraph": "与此不同，老年人可穿戴照片训练研究通过随机分组比较本人生活照片训练、一般场景照片训练和词汇任务，并以时间顺序表现评估迁移。这项研究说明，具体的记忆结果可以与对照和可核对任务相连；同时，它检验的是持续数周的训练及反馈，而非佩戴相机本身。因此，若本论文只研究日常回看，就不宜引用该结果声称系统具备训练疗效；可以借鉴的是对任务和结果的明确界定。"
+      }
+    ]
+  },
+  {
+    "id": "L97d001746be9",
+    "doi": "10.3758/s13428-023-02145-x",
+    "title": "Automated scoring of the autobiographical interview with natural language processing",
+    "authors": [
+      "Ruben D.I. van Genugten",
+      "Daniel L. Schacter"
+    ],
+    "venue": [
+      "Behavior Research Methods"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2024,
+          1,
+          17
+        ]
+      ],
+      "published": [
+        [
+          2024,
+          1,
+          17
+        ]
+      ]
+    },
+    "role": "记忆测量与自然语言处理",
+    "evidence_level": "摘要核读",
+    "finding": "使用微调 distilBERT 识别自传体访谈叙述中的内部与外部内容，并在五个数据集中与人工评分比较。",
+    "boundary": "细节分类与人工分数相关，不是验证叙述真实，也不直接验证中文适用性。",
+    "next_check": "核读评分标注、数据划分、预处理及迁移限制。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/c610dc0420d37a48.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.3758/s13428-023-02145-x",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-2020595d1fca",
+        "provider_id": "38233632",
+        "raw_page": "sources/api/europepmc-2020595d1fca/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-dc3318dc46a7",
+        "provider_id": "38233632",
+        "raw_page": "sources/api/pubmed-dc3318dc46a7/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-ddb55b1136cf",
+        "provider_id": "28b88abdf722a6302eda6965edc87ab53cb2fadb",
+        "raw_page": "sources/api/semanticscholar-ddb55b1136cf/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 55,
+    "reference_year": 2024,
+    "url": "https://doi.org/10.3758/s13428-023-02145-x",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.6.1 区分使用体验、回忆表现和准确性",
+        "paragraph": "自动分析叙述也需要同样的边界。基于 distilBERT 的研究和后续基于 LLaMA-3 的工作，都尝试对自传体访谈中的内部、外部细节进行自动评分，并与人工结果比较。这类技术可以辅助处理文本，却不验证内容是否真实；未来想象也可以拥有丰富细节。用于本项目时，语言、标注规范和模型迁移均需检查，不能直接把通用模型给出的“记忆分数”当作测量工具。"
+      }
+    ]
+  },
+  {
+    "id": "Lb3a6c4b99118",
+    "doi": "10.3758/s13428-025-02767-3",
+    "title": "Modeling memories, predicting prospections: Automated scoring of autobiographical detail narration using large language models",
+    "authors": [
+      "Jonas Klus",
+      "Daniel E. Cohen",
+      "Alexis N. Garcia",
+      "Sarah Hennessy",
+      "Matthias R. Mehl",
+      "Jessica R. Andrews‑Hanna",
+      "Matthew D. Grilli"
+    ],
+    "venue": [
+      "Behavior Research Methods"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2025,
+          8,
+          1
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          8,
+          1
+        ]
+      ]
+    },
+    "role": "记忆测量与大语言模型",
+    "evidence_level": "摘要核读",
+    "finding": "使用微调 LLaMA-3 处理过去与未来事件叙述，在三项研究的 284 人材料中与人工内部、外部细节评分对照。",
+    "boundary": "未来想象也能获得细节分，因此细节数量不能单独证明记忆真实；不能直接用通用聊天模型替代。",
+    "next_check": "核读模型训练、外部验证、错误类型、开放实现与语言范围。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/a0828c51d99de377.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.3758/s13428-025-02767-3",
+    "abstract_source": [
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-2020595d1fca",
+        "provider_id": "40750940",
+        "raw_page": "sources/api/europepmc-2020595d1fca/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "europepmc",
+        "search_id": "europepmc-279b928b7fcf",
+        "provider_id": "40750940",
+        "raw_page": "sources/api/europepmc-279b928b7fcf/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "pubmed",
+        "search_id": "pubmed-dc3318dc46a7",
+        "provider_id": "40750940",
+        "raw_page": "sources/api/pubmed-dc3318dc46a7/page-0001.json",
+        "query_status": "complete"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-ddb55b1136cf",
+        "provider_id": "80f659cdfb4eb81cc40d6a367d35854e520befc2",
+        "raw_page": "sources/api/semanticscholar-ddb55b1136cf/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "reference_number": 56,
+    "reference_year": 2025,
+    "url": "https://doi.org/10.3758/s13428-025-02767-3",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.6.1 区分使用体验、回忆表现和准确性",
+        "paragraph": "自动分析叙述也需要同样的边界。基于 distilBERT 的研究和后续基于 LLaMA-3 的工作，都尝试对自传体访谈中的内部、外部细节进行自动评分，并与人工结果比较。这类技术可以辅助处理文本，却不验证内容是否真实；未来想象也可以拥有丰富细节。用于本项目时，语言、标注规范和模型迁移均需检查，不能直接把通用模型给出的“记忆分数”当作测量工具。[〔55〕](https://doi.org/10.3758/s13428-023-02145-x)"
+      }
+    ]
+  },
+  {
+    "id": "L8aa733308670",
+    "doi": "10.1057/s41599-025-06426-y",
+    "title": "What might we learn about autobiographical narrative processing from Artificial Intelligence?",
+    "authors": [
+      "Cade D. Mansfield",
+      "Jack J. Bauer",
+      "Jordan Booker",
+      "Azriel Grysman",
+      "Jefferson Singer",
+      "Robyn Fivush"
+    ],
+    "venue": [
+      "Humanities and Social Sciences Communications"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ],
+      "published": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
+    "role": "叙事心理学：AI 对个人叙述的过度解释",
+    "evidence_level": "摘要、方法、结果与部分讨论核读",
+    "finding": "44 名大学生评价五段人类自我定义记忆及 ChatGPT 的解释，研究者发现解释常被认为过度强调积极情绪、主题、复杂性和领悟。",
+    "boundary": "便利样本和五段特定材料；评价他人的叙述，不是受试者回忆自身经历的实验。辨别 AI 来源和评价解释贴切度不能等同于记忆准确性。",
+    "next_check": "核对模型时间与提示、材料抽样、量表及多重比较；把文中回顾的前一研究与本项研究分开。实际发表为 2026，DOI 中的 2025 不是出版年。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/c680ff83892a1a66.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1057/s41599-025-06426-y",
+    "abstract_source": [
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-c643a50f1a90",
+        "provider_id": "b928ed363ad365034341eb3b31a5a069ad4f9616",
+        "raw_page": "sources/api/semanticscholar-c643a50f1a90/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/fulltext/narrative-processing-ai-2026.txt",
+      "locator": "第 3 页方法、第 5–6 页结果与讨论；表 1 部分材料"
+    },
+    "reference_number": 57,
+    "reference_year": 2026,
+    "url": "https://doi.org/10.1057/s41599-025-06426-y",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.6.2 生成表达需要避免把贴切感当作事实确认",
+        "paragraph": "AI 对叙述的解释本身可能带入偏向。Mansfield 等让四十四名大学生评价五段自我定义记忆及 AI 的解释，发现其解释可能过度强调积极情绪、主题和领悟。这是对他人材料的评价，并非参与者回忆自己经历的实验，但它提示系统不应默认把每一段生活都改写成积极且完整的成长故事。表达的完整性与本人认同需要分别判断。"
+      }
+    ]
+  },
+  {
+    "id": "Ldf9856898a99",
+    "doi": "10.1145/3706598.3713697",
+    "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+    "authors": [
+      "Pat Pataranutaporn",
+      "Chayapatr Archiwaranguprok",
+      "Samantha W. T. Chan",
+      "Elizabeth Loftus",
+      "Pattie Maes"
+    ],
+    "venue": [
+      "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
+    ],
+    "publication_type": "proceedings-article",
+    "dates": {
+      "published-online": [
+        [
+          2025,
+          4,
+          25
+        ]
+      ],
+      "published-print": [
+        [
+          2025,
+          4,
+          26
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          4,
+          25
+        ]
+      ]
+    },
+    "role": "认知实验：AI 视觉修改与错误记忆",
+    "evidence_level": "摘要及预印本方法核读",
+    "finding": "200 人先看原图，再经历未修改图、AI 修改图、原图生成视频或修改图生成视频条件；研究报告部分修改条件增加对原图细节的错误回答。",
+    "boundary": "材料是实验提供的图片，不是亲历生活；错误回答不等于整段人生事件植入。已发现正式版有修订版本提示，精确效应和方法差异须对照修订版。",
+    "next_check": "MIT 正式版下载返回 429，ACM 返回 403；继续取得修订后的 VOR，核对统计检验、图表、注册与预印本差异，暂不引用倍数效果。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/c64c04030d2556c1.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/3706598.3713697",
+    "abstract_source": [],
+    "abstract_available": false,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/fulltext/synthetic-memories-2024-preprint.txt",
+      "locator": "预印本第 2 节方法；正式题录和摘要见 MIT 机构库，尚未取得修订版"
+    },
+    "reference_number": 58,
+    "reference_year": 2025,
+    "url": "https://doi.org/10.1145/3706598.3713697",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.6.2 生成表达需要避免把贴切感当作事实确认",
+        "paragraph": "关于 AI 修改图像和视频的实验还报告了错误细节回答增加的情况。但这些实验使用研究者提供的图片，并非亲历人生事件，且相关正式论文存在版本修订提示；本章不据其早期版本引用精确放大倍数。同样，Slip Through the Chat 对聊天中预先插入的错误信息进行操纵，其结果主要涉及文章内容记忆，不能估算一般个人回忆助手的自然错误率。它们为本研究提供的是需要检验的风险机制，而不是本系统必然产生特定比例虚假回忆的结论。"
+      }
+    ]
+  },
+  {
+    "id": "L748585a965b5",
+    "doi": "10.1145/3708359.3712112",
+    "title": "Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation",
+    "authors": [
+      "Pat Pataranutaporn",
+      "Chayapatr Archiwaranguprok",
+      "Samantha W. T. Chan",
+      "Elizabeth Loftus",
+      "Pattie Maes"
+    ],
+    "venue": [
+      "Proceedings of the 30th International Conference on Intelligent User Interfaces"
+    ],
+    "publication_type": "proceedings-article",
+    "dates": {
+      "published-online": [
+        [
+          2025,
+          3,
+          24
+        ]
+      ],
+      "published-print": [
+        [
+          2025,
+          3,
+          24
+        ]
+      ],
+      "published": [
+        [
+          2025,
+          3,
+          24
+        ]
+      ]
+    },
+    "role": "认知实验：摘要与对话中的错误信息",
+    "evidence_level": "摘要、方法与部分结果核读",
+    "finding": "作者报告 180 人先阅读文章，再随机进入无干预、诚实摘要、误导摘要、诚实对话或误导对话条件；误导对话增加对原文内容的错误回答。",
+    "boundary": "文章信息记忆与个人经历不同；系统预先插入错误要点，结果不能用于估计正常助手的自然错误发生率。只观察即时结果。",
+    "next_check": "核读原始数据、五组实际人数和任务时长；方法写 Bonferroni 而结果写 FDR，需查注册及分析代码；不混同另一项 200 人录像研究。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/bab5acb66ace1e0f.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1145/3708359.3712112",
+    "abstract_source": [],
+    "abstract_available": false,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/fulltext/slip-through-chat-2025-vor.txt",
+      "locator": "第 2 节方法、第 3.1.1 节结果和摘要；尚未完整正文核读"
+    },
+    "reference_number": 59,
+    "reference_year": 2025,
+    "url": "https://doi.org/10.1145/3708359.3712112",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.6.2 生成表达需要避免把贴切感当作事实确认",
+        "paragraph": "关于 AI 修改图像和视频的实验还报告了错误细节回答增加的情况。但这些实验使用研究者提供的图片，并非亲历人生事件，且相关正式论文存在版本修订提示；本章不据其早期版本引用精确放大倍数。同样，Slip Through the Chat 对聊天中预先插入的错误信息进行操纵，其结果主要涉及文章内容记忆，不能估算一般个人回忆助手的自然错误率。它们为本研究提供的是需要检验的风险机制，而不是本系统必然产生特定比例虚假回忆的结论。[〔58〕](https://doi.org/10.1145/3706598.3713697)"
+      }
+    ]
+  },
+  {
+    "id": "L28c05fe8325e",
+    "doi": "10.1017/mem.2022.5",
+    "title": "Remembering in the wild: recontextualising and reconciling studies of media and memory",
+    "authors": [
+      "Tim Fawns"
+    ],
+    "venue": [
+      "Memory, Mind &amp; Media"
+    ],
+    "publication_type": "journal-article",
+    "dates": {
+      "published-online": [
+        [
+          2022,
+          8,
+          4
+        ]
+      ],
+      "published-print": [
+        [
+          2022
+        ]
+      ],
+      "published": [
+        [
+          2022
+        ]
+      ]
+    },
+    "role": "跨学科方法论：情境中的记忆",
+    "evidence_level": "摘要核读",
+    "finding": "讨论认知实验与分布式媒介实践的不同记忆观，主张将情境、生态效度、概念精度与研究者反思共同纳入解释。",
+    "boundary": "理论方法论文章，不据此一概否定实验或把所有情境研究视为直接效果证据。",
+    "next_check": "核读具体比较及方法建议，用于统一不同学科证据的使用边界。",
+    "screening": "主题相关，保留继续核读；不是最终全文纳入",
+    "reviewed_on": "2026-10-23",
+    "source_metadata": "sources/crossref/b3a6788aea13d9b6.json",
+    "metadata_provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1017/mem.2022.5",
+    "abstract_source": [
+      {
+        "provider": "openalex",
+        "search_id": "openalex-a1d07b1dfea3",
+        "provider_id": "https://openalex.org/W4289826501",
+        "raw_page": "sources/api/openalex-a1d07b1dfea3/page-0001.json",
+        "query_status": "failed"
+      },
+      {
+        "provider": "semanticscholar",
+        "search_id": "semanticscholar-citations-8a72da8f8599",
+        "provider_id": "d4e7f2895c0683711abbbb20553e350cb6f78d0f",
+        "raw_page": "sources/api/semanticscholar-citations-8a72da8f8599/page-0001.json",
+        "query_status": "complete"
+      }
+    ],
+    "abstract_available": true,
+    "fulltext_status": "见独立获取记录；未完成全文核读",
+    "additional_reading_source": {
+      "path": "sources/citation-search/8a72da8f8599/page-0.json",
+      "locator": "摘要；题录另经 Crossref 核实"
+    },
+    "reference_number": 60,
+    "reference_year": 2022,
+    "url": "https://doi.org/10.1017/mem.2022.5",
+    "metadata_checks": {
+      "identity": "精确 DOI 元数据匹配",
+      "date_policy": "优先卷期年；没有卷期年时使用网络首发年；DOI 后缀不是年份"
+    },
+    "cited_at": [
+      {
+        "section": "2.7 综合评述与本研究的位置",
+        "paragraph": "跨学科文献共同说明，个人回忆辅助不能仅沿“采集更多—生成更好看—回忆自然发生”的路径理解。心理学研究要求检查线索与个人经历、提取任务之间的匹配；摄影和媒介实践研究揭示记录目的、选择和使用情境的差异；视觉方法与自传表达研究提示材料如何参与讲述与意义形成；AI 和设计研究则提供检索、提问、组织、生成以及再次呈现的实现方式。它们能够相互补充，但对本论文的支撑强度不同。Fawns 关于自然情境记忆研究的方法论讨论也提醒，实验中的概念精度与真实实践的情境性需要共同考虑，不能用其中一类研究取代另一类。"
+      }
+    ]
+  }
+]

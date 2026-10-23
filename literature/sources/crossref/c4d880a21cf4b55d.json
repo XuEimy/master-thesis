@@ -1,0 +1,932 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2026-05-14T22:29:06Z",
+      "timestamp": 1778797746295,
+      "version": "3.51.4"
+    },
+    "reference-count": 60,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2026-02-01T00:00:00Z",
+          "timestamp": 1769904000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2026-02-01T00:00:00Z",
+          "timestamp": 1769904000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              23
+            ]
+          ],
+          "date-time": "2025-12-23T00:00:00Z",
+          "timestamp": 1766448000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100009001",
+        "name": "University of York",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100009001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000286",
+        "name": "The British Academy",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "PF19\\\\ 100083"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PF19\\\\ 100083"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000286",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Consciousness and Cognition"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.concog.2025.103983",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          24
+        ]
+      ],
+      "date-time": "2025-12-24T12:46:01Z",
+      "timestamp": 1766580361000
+    },
+    "page": "103983",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "C",
+    "title": [
+      "Cueing autobiographical memory in young and older adults: an exploration of the effect of cue type on retrieval rates and memory characteristics"
+    ],
+    "prefix": "10.1016",
+    "volume": "138",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0024-2582",
+        "authenticated-orcid": false,
+        "given": "Ali",
+        "family": "Mair",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.concog.2025.103983_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1111/j.1467-9280.2008.02043.x",
+        "article-title": "Age related changes in the episodic simulation of future events",
+        "volume": "19",
+        "author": "Addis",
+        "year": "2008",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1091",
+        "DOI": "10.1002/acp.1316",
+        "article-title": "I'll keep you in mind: The intimacy function of autobiographical memory",
+        "volume": "21",
+        "author": "Alea",
+        "year": "2007",
+        "journal-title": "Applied Cognitive Psychology"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1111/ajpy.12027",
+        "article-title": "Autobiographical memory specificity in response to emotion pictorial cues among non-clinical participants",
+        "volume": "65",
+        "author": "Belcher",
+        "year": "2013",
+        "journal-title": "Australian Journal of Psychology"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.concog.2025.103983_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "979",
+        "DOI": "10.1080/09658211.2015.1061012",
+        "article-title": "Music evokes vivid autobiographical memories",
+        "volume": "24",
+        "author": "Belfi",
+        "year": "2016",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.concog.2025.103983_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1080/741942071",
+        "article-title": "Voluntary and involuntary access to autobiographical memory",
+        "volume": "6",
+        "author": "Berntsen",
+        "year": "1998",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1037/pag0000157",
+        "article-title": "Spontaneous or intentional? Involuntary versus voluntary episodic memories in older and younger adults",
+        "volume": "32",
+        "author": "Berntsen",
+        "year": "2017",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.concog.2025.103983_b0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "B41",
+        "DOI": "10.1016/S0010-0277(00)00065-2",
+        "article-title": "Long live Proust: The odour-cued autobiographical memory bump",
+        "volume": "75",
+        "author": "Chu",
+        "year": "2000",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "158",
+        "DOI": "10.1080/09658210802188301",
+        "article-title": "Ageing, remembering, and executive function",
+        "volume": "17",
+        "author": "Clarys",
+        "year": "2009",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.concog.2025.103983_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1037/0033-295X.107.2.261",
+        "article-title": "The construction of autobiographical memories in the self-memory system",
+        "volume": "107",
+        "author": "Conway",
+        "year": "2000",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.concog.2025.103983_b0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "90",
+        "DOI": "10.1037/0882-7974.9.1.90",
+        "article-title": "Mental imagery and aging",
+        "volume": "9",
+        "author": "Dror",
+        "year": "1994",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "1382",
+        "DOI": "10.1038/s41598-020-80866-1",
+        "article-title": "The developmental trajectories of executive function from adolescence to old age",
+        "volume": "11",
+        "author": "Ferguson",
+        "year": "2021",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.concog.2025.103983_b0060",
+        "first-page": "2303",
+        "article-title": "The disconnected brain and executive function decline in aging",
+        "volume": "27",
+        "author": "Fjell",
+        "year": "2017",
+        "journal-title": "Cerebral Cortex"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.concog.2025.103983_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "722",
+        "DOI": "10.1080/09658211.2013.820325",
+        "article-title": "Effects of task instruction on autobiographical memory specificity in young and older adults",
+        "volume": "22",
+        "author": "Ford",
+        "year": "2014",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "631",
+        "DOI": "10.3389/fpsyg.2015.00631",
+        "article-title": "Older adults report moderately more detailed autobiographical memories",
+        "volume": "6",
+        "author": "Gardner",
+        "year": "2015",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.concog.2025.103983_b0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1080/09658210344000594",
+        "article-title": "The effects of cue modality on the quality of personal memories retrieved",
+        "volume": "13",
+        "author": "Goddard",
+        "year": "2005",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0080",
+        "unstructured": "GorillaTM, https://gorilla.sc/ ; data collected in September 2021."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.concog.2025.103983_b0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "423",
+        "DOI": "10.1080/09658211.2018.1513040",
+        "article-title": "The role of executive function in autobiographical memory retrieval: Does the type of cue word matter?",
+        "volume": "27",
+        "author": "Guler",
+        "year": "2019",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "365",
+        "DOI": "10.1016/j.cortex.2022.06.011",
+        "article-title": "Visual imagery vividness declines across the lifespan",
+        "volume": "154",
+        "author": "Gulyás",
+        "year": "2022",
+        "journal-title": "Cortex"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.concog.2025.103983_b0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "1456",
+        "DOI": "10.1007/s00426-024-01968-3",
+        "article-title": "Lifetime familiarity cue effects for autobiographical memory",
+        "volume": "88",
+        "author": "Gurguryan",
+        "year": "2024",
+        "journal-title": "Psychological Research Psychologische Forschung"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0100",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.concog.2019.102793",
+        "article-title": "Direct and generative autobiographical memory retrieval: How different are they?",
+        "volume": "74",
+        "author": "Harris",
+        "year": "2019",
+        "journal-title": "Consciousness and Cognition"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.concog.2025.103983_b0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1016/j.tics.2007.05.001",
+        "article-title": "Deconstructing episodic memory with construction",
+        "volume": "11",
+        "author": "Hassabis",
+        "year": "2007",
+        "journal-title": "Trends in Cognitive Sciences"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.concog.2025.103983_b0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.2307/1423672",
+        "article-title": "A naturalistic study of autobiographical memories evoked by olfactory and visual cues: Testing the Proustian hypothesis",
+        "volume": "115",
+        "author": "Herz",
+        "year": "2002",
+        "journal-title": "The Amercian Journal of Psychology"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.concog.2025.103983_b0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "2001",
+        "DOI": "10.1177/17470218221129793",
+        "article-title": "Differential effects of familiarity and emotional expression of musical cues on autobiographical memory properties",
+        "volume": "76",
+        "author": "Jakubowski",
+        "year": "2023",
+        "journal-title": "Quarterly Journal of Experimental Psychology"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1016/j.neuropsychologia.2017.06.034",
+        "article-title": "A short cut to the past: Cueing via concrete objects improves autobiographical memory retrieval in Alzheimer's disease patients",
+        "volume": "110",
+        "author": "Kirk",
+        "year": "2018",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.concog.2025.103983_b0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "66",
+        "DOI": "10.1016/j.jarmac.2014.11.004",
+        "article-title": "The peaks of life: The differential temporal locations of the reminiscence bump across disparate cueing methods",
+        "volume": "4",
+        "author": "Koppel",
+        "year": "2015",
+        "journal-title": "Journal of Applied Research in Memory and Cognition"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0130",
+        "article-title": "Specificity and detail in autobiographical memory: Same or different constructs?",
+        "author": "Kyung",
+        "year": "2015",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.concog.2025.103983_b0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "677",
+        "DOI": "10.1037/0882-7974.17.4.677",
+        "article-title": "Aging and autobiographical memory: Dissociating episodic from semantic retrieval",
+        "volume": "17",
+        "author": "Levine",
+        "year": "2002",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "438",
+        "DOI": "10.3758/s13421-020-01099-1",
+        "article-title": "When trying to recall our past, all roads lead to Rome: More evidence for the multi-process retrieval theory of autobiographical memory",
+        "volume": "49",
+        "author": "Mace",
+        "year": "2021",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "190",
+        "DOI": "10.1016/j.concog.2017.02.008",
+        "article-title": "Supporting older and younger adults' memory for recent everyday events: A prospective sampling study using SenseCam",
+        "volume": "49",
+        "author": "Mair",
+        "year": "2017",
+        "journal-title": "Consciousness and Cognition"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.concog.2025.103983_b0150",
+        "article-title": "Age effects in autobiographical memory depend on the measure",
+        "volume": "16",
+        "author": "Mair",
+        "year": "2021",
+        "journal-title": "PLoS One1"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.concog.2025.103983_b0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "391",
+        "DOI": "10.1037/pag0000805",
+        "article-title": "Nonepisodic autobiographical memory details reflect attempts to tell a good story",
+        "volume": "39",
+        "author": "Mair",
+        "year": "2024",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.concog.2025.103983_b0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "931",
+        "DOI": "10.1080/09658211.2023.2212921",
+        "article-title": "Dissociations between directly and generatively retrieved autobiographical memories: Evidence from ageing",
+        "volume": "31",
+        "author": "Markostamou",
+        "year": "2023",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "1076",
+        "DOI": "10.3758/s13421-014-0420-3",
+        "article-title": "Manipulating cues in involuntary autobiographical memory: Verbal cues are more effective than pictorial cues",
+        "volume": "42",
+        "author": "Mazzoni",
+        "year": "2014",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.concog.2025.103983_b0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "930",
+        "DOI": "10.1080/09658211.2011.613847",
+        "article-title": "Odour-induced mental time travel into the past and future: Do odour cues retain a unique link to our distant past?",
+        "volume": "19",
+        "author": "Miles",
+        "year": "2011",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.concog.2025.103983_b0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1177/0963721416645536",
+        "article-title": "Mind over memory: Cuing the Aging Brain",
+        "volume": "25",
+        "author": "Morcom",
+        "year": "2016",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.concog.2025.103983_b0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1162/jocn.1992.4.3.257",
+        "article-title": "Memory and working-with-memory: A component process model based on modules and central systems",
+        "volume": "4",
+        "author": "Moscovitch",
+        "year": "1992",
+        "journal-title": "Journal of Cognitive Neuroscience"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.concog.2025.103983_b0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "96",
+        "DOI": "10.1016/j.actpsy.2012.10.005",
+        "article-title": "The rise and fall of immediate and delayed memory for verbal and visuospatial information from late chidlhood to adulthood",
+        "volume": "142",
+        "author": "Murre",
+        "year": "2013",
+        "journal-title": "Acta Psychologica"
+      },
+      {
+        "issue": "5/6",
+        "key": "10.1016/j.concog.2025.103983_b0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "389",
+        "DOI": "10.1080/09658210244000216",
+        "article-title": "The myth of the encoding-retrieval match",
+        "volume": "10",
+        "author": "Nairne",
+        "year": "2002",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.concog.2025.103983_b0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1037/0882-7974.17.2.299",
+        "article-title": "Models of visuospatial and verbal memory across the adult life span",
+        "volume": "17",
+        "author": "Park",
+        "year": "2002",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.concog.2025.103983_b0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "510",
+        "DOI": "10.1037/0882-7974.21.3.510",
+        "article-title": "Autobiographical memory, autonoetic consciousness, and self-perspective in aging",
+        "volume": "21",
+        "author": "Piolino",
+        "year": "2006",
+        "journal-title": "Psychology and Aging"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1063",
+        "DOI": "10.3758/s13421-014-0414-1",
+        "article-title": "“I can see clearly now”: The effect of cue imgeability on mental time travel",
+        "volume": "42",
+        "author": "Rasmussen",
+        "year": "2014",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.1016/j.jbtep.2016.01.002",
+        "article-title": "Autobiographical memory specificity in response to verbal and pictorial cues in clinical depression",
+        "volume": "51",
+        "author": "Ridout",
+        "year": "2016",
+        "journal-title": "Journal of Behavior Therapy and Experimental Psychiatry"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.concog.2025.103983_b0220",
+        "first-page": "e1462",
+        "article-title": "Spatial scaffold effects in event memory and imagination",
+        "volume": "9",
+        "author": "Robin",
+        "year": "2018",
+        "journal-title": "Wiley Interdisciplinary Reviews: Cognitive Science"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.2466/pr0.1997.81.1.47",
+        "article-title": "Properties of word cues for autobiographical memory",
+        "volume": "81",
+        "author": "Rubin",
+        "year": "1997",
+        "journal-title": "Psychological Reports"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.concog.2025.103983_b0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1037/a0037907",
+        "article-title": "Event memory: A theory of memory for laboratory, autobiographical, and fictional events",
+        "volume": "122",
+        "author": "Rubin",
+        "year": "2015",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.concog.2025.103983_b0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1111/j.0963-7214.2005.00339.x",
+        "article-title": "A basic-systems approach to autobiographical memory",
+        "volume": "14",
+        "author": "Rubin",
+        "year": "2005",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0170",
+        "doi-asserted-by": "crossref",
+        "unstructured": "McVeigh, K. S., Deffner, A. M., Hernandez, D. A., Sbarra, D., Andrews-Hanna, J., Mehl, M. R., & Grilli, M. D. (2025; preprint). In here and out there: evidence that age-related differences in memory specificity are attenuated in natural social conversations.Open Science Framework. https://osf.io/5h9bq/files/osfstorage.",
+        "DOI": "10.31234/osf.io/sja6t_v1"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0240",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rubin, D. C. (2012). The basic systems model of autobiographical memory. In. D. Berntsen & D. C. Rubin (Eds.), Understandning autobiographical memory (pp. 11-32).",
+        "DOI": "10.1017/CBO9781139021937.004"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.concog.2025.103983_b0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "403",
+        "DOI": "10.1037/0033-295X.103.3.403",
+        "article-title": "The processsing-speed theory of adult age differences in cognition",
+        "volume": "103",
+        "author": "Salthouse",
+        "year": "1996",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.concog.2025.103983_b0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "920",
+        "DOI": "10.3758/MC.36.5.920",
+        "article-title": "Involuntary autobiographical memories in and outside the laboratory: How different are they from voluntary autobiographical memories?",
+        "volume": "36",
+        "author": "Schlagman",
+        "year": "2008",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.concog.2025.103983_b0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "1370",
+        "DOI": "10.1007/s00426-018-1140-2",
+        "article-title": "Redefining the pattern of age-prospective memory-paradox: New insights on age effects in lab-based, naturalistic, and self-assigned tasks",
+        "volume": "84",
+        "author": "Schnitzspahn",
+        "year": "2020",
+        "journal-title": "Psychological Research Psychologische Forschung"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.concog.2025.103983_b0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "548",
+        "DOI": "10.1093/geronb/gbt047",
+        "article-title": "Does the age-related positivity effet in autobiographical recall reflect differences in appraisal or memory?",
+        "volume": "69",
+        "author": "Schryer",
+        "year": "2014",
+        "journal-title": "Journals of Gerontology, Series B: Psychological Sciences and Social Sciences"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.concog.2025.103983_b0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "1025",
+        "DOI": "10.3758/BF03193210",
+        "article-title": "Emotional organization of autobiographical memory",
+        "volume": "33",
+        "author": "Schulkind",
+        "year": "2005",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.concog.2025.103983_b0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "1909",
+        "DOI": "10.1080/17470218.2016.1215478",
+        "article-title": "What versus where: Investigating how autobiographical memory retrieval differs when accessed with thematic versus spatial information",
+        "volume": "70",
+        "author": "Sheldon",
+        "year": "2017",
+        "journal-title": "Quarterly Journal of Experimental Psychology"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0275",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.cognition.2020.104217",
+        "article-title": "Emotional cue effects on accessing and elaborating upon autobiographical memories",
+        "volume": "198",
+        "author": "Sheldon",
+        "year": "2020",
+        "journal-title": "Cognition"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0280",
+        "series-title": "Levels of processing in human memory",
+        "first-page": "405",
+        "article-title": "Relation between encoding specificity and levels of processing",
+        "author": "Tulving",
+        "year": "1979"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/j.actpsy.2016.11.012",
+        "article-title": "The effect of cue content on retrieval from autobigraphical memory",
+        "volume": "172",
+        "author": "Uzer",
+        "year": "2017",
+        "journal-title": "Acta Psychologica"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "144",
+        "DOI": "10.1016/j.actpsy.2016.01.004",
+        "article-title": "Retrieving autobiographical memories: How different retrieval strategies associated with different cues explain reaction time differences",
+        "volume": "164",
+        "author": "Uzer",
+        "year": "2016",
+        "journal-title": "Acta Psychologica"
+      },
+      {
+        "key": "10.1016/j.concog.2025.103983_b0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.3389/fpsyg.2018.00219",
+        "article-title": "Functions of autobiographical memory in young and older adults",
+        "volume": "9",
+        "author": "Vranić",
+        "year": "2018",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.concog.2025.103983_b0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "1659",
+        "DOI": "10.3758/BF03193499",
+        "article-title": "Olfaction and emotion: The case of autobiographical memory",
+        "volume": "35",
+        "author": "Willander",
+        "year": "2007",
+        "journal-title": "Memory & Cognition"
+      }
+    ],
+    "container-title": [
+      "Consciousness and Cognition"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S105381002500176X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S105381002500176X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2026-05-14T22:04:08Z",
+      "timestamp": 1778796248000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S105381002500176X"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2
+        ]
+      ]
+    },
+    "references-count": 60,
+    "alternative-id": [
+      "S105381002500176X"
+    ],
+    "URL": "https://doi.org/10.1016/j.concog.2025.103983",
+    "relation": {},
+    "ISSN": [
+      "1053-8100"
+    ],
+    "issn-type": [
+      {
+        "value": "1053-8100",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Cueing autobiographical memory in young and older adults: an exploration of the effect of cue type on retrieval rates and memory characteristics",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Consciousness and Cognition",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.concog.2025.103983",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 The Author(s). Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "103983"
+  }
+}

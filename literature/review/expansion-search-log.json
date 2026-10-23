@@ -1,0 +1,205 @@
+[
+  {
+    "file": "literature/sources/web/review-expand01.json",
+    "date": "2026-10-23",
+    "queries": [
+      {
+        "q": "\"lifelog photos\" \"manually captured\" interpretative"
+      },
+      {
+        "q": "\"autobiographical memory\" \"smart journaling\" 2024 2025 2026"
+      },
+      {
+        "q": "\"personal memories\" \"resurfacing\" \"algorithmic\""
+      },
+      {
+        "q": "\"个人记忆\" \"影像\" \"算法\" 论文"
+      }
+    ],
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  },
+  {
+    "file": "literature/sources/web/review-expand02.json",
+    "date": "2026-10-23",
+    "queries": [
+      {
+        "q": "\"自传体记忆\" \"照片\" 2024 2025"
+      },
+      {
+        "q": "\"数字记忆\" \"私人\" \"照片\" 论文"
+      },
+      {
+        "q": "\"autobiographical memory\" \"cues\" \"2025\" multisensory"
+      },
+      {
+        "q": "\"Comparison of the change in interpretative stances\""
+      }
+    ],
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  },
+  {
+    "file": "literature/sources/web/review-expand03.json",
+    "date": "2026-10-23",
+    "queries": {
+      "open": [
+        {
+          "ref_id": "https://www.microsoft.com/en-us/research/publication/beyond-total-capture-a-constructive-critique-of-lifelogging/"
+        },
+        {
+          "ref_id": "https://doi.org/10.1002/acp.4033"
+        },
+        {
+          "ref_id": "https://doi.org/10.1108/OIR-03-2018-0108"
+        },
+        {
+          "ref_id": "https://doi.org/10.1093/geronb/gbaf093"
+        }
+      ],
+      "response_length": "long"
+    },
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  },
+  {
+    "file": "literature/sources/web/review-expand04.json",
+    "date": "2026-10-23",
+    "queries": {
+      "open": [
+        {
+          "ref_id": "https://academic.oup.com/psychsocgerontology/article/80/7/gbaf093/8139647"
+        },
+        {
+          "ref_id": "https://www.cambridge.org/core/journals/memory-mind-and-media/article/on-some-promises-of-personal-memory-algorithmisation/5D23785DCE4FED1A8B34EC7D11A6E4FE"
+        },
+        {
+          "ref_id": "https://pubmed.ncbi.nlm.nih.gov/40325304/"
+        }
+      ],
+      "find": [
+        {
+          "ref_id": "turn45view1",
+          "pattern": "2.2"
+        },
+        {
+          "ref_id": "turn45view1",
+          "pattern": "3.2"
+        }
+      ],
+      "response_length": "long"
+    },
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  },
+  {
+    "file": "literature/sources/web/review-expand05.json",
+    "date": "2026-10-23",
+    "queries": {
+      "find": [
+        {
+          "ref_id": "turn46view1",
+          "pattern": "Published online"
+        },
+        {
+          "ref_id": "turn46view1",
+          "pattern": "Abstract"
+        },
+        {
+          "ref_id": "turn46view1",
+          "pattern": "10.1017"
+        }
+      ],
+      "search_query": [
+        {
+          "q": "\"Training Autobiographical Memory in Older Adults Using Photos\" abstract"
+        },
+        {
+          "q": "\"A Present for the Future\" Zhang rediscovery 2014 study"
+        }
+      ],
+      "response_length": "long"
+    },
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  },
+  {
+    "file": "literature/sources/web/review-expand06.json",
+    "date": "2026-10-23",
+    "queries": {
+      "search_query": [
+        {
+          "q": "自传体记忆 记忆线索 2024 2025 site:journal.psych.ac.cn"
+        },
+        {
+          "q": "摄影 日常 个人记忆 数字 记忆 回忆 论文 自传体 2024 2025"
+        },
+        {
+          "q": "\"10.3758/s13421-025-01717-w\" abstract"
+        },
+        {
+          "q": "\"10.1177/0956797614542274\" correction retraction"
+        }
+      ],
+      "open": [
+        {
+          "ref_id": "turn46view1",
+          "lineno": 478
+        }
+      ],
+      "response_length": "long"
+    },
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  },
+  {
+    "file": "literature/sources/web/review-expand07.json",
+    "date": "2026-10-23",
+    "queries": {
+      "open": [
+        {
+          "ref_id": "https://xwxz.cbpt.cnki.net/portal/journal/portal/client/paper/f842de432b0bd59e5d449030f09508a6"
+        },
+        {
+          "ref_id": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=297831"
+        },
+        {
+          "ref_id": "https://doi.org/10.1016/j.actpsy.2025.104929"
+        }
+      ],
+      "response_length": "long"
+    },
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  },
+  {
+    "file": "literature/sources/web/review-finalmetadata.json",
+    "date": "2026-10-23",
+    "queries": {
+      "open": [
+        {
+          "ref_id": "https://doi.org/10.3724/SP.J.1042.2014.00269"
+        },
+        {
+          "ref_id": "https://doi.org/10.3724/SP.J.1042.2023.00480"
+        },
+        {
+          "ref_id": "https://arxiv.org/abs/2609.00065"
+        }
+      ],
+      "response_length": "long"
+    },
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  },
+  {
+    "file": "literature/sources/web/review01.json",
+    "date": "2026-10-23",
+    "queries": null,
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  },
+  {
+    "file": "literature/sources/web/review02.json",
+    "date": "2026-10-23",
+    "queries": null,
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  },
+  {
+    "file": "literature/sources/web/review03.json",
+    "date": "2026-10-23",
+    "queries": null,
+    "type": "网页定向发现与原始来源访问；非订阅库内部穷尽搜索"
+  }
+]

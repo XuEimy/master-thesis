@@ -1,0 +1,560 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          17
+        ]
+      ],
+      "date-time": "2026-08-17T14:17:26Z",
+      "timestamp": 1786976246951,
+      "version": "build-2736575974"
+    },
+    "reference-count": 54,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              11
+            ]
+          ],
+          "date-time": "2023-01-11T00:00:00Z",
+          "timestamp": 1673395200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Applied Cognitive Psychology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          7
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Humans have long used external memory aids to support remembering. However, modern digital technologies could facilitate recording and remembering personal information in an unprecedented manner. The present research sought to understand the potential impact of these technologies on autobiographical memory based on interviews with users of smart journaling apps. In Study 1 (\n                    <jats:italic>N</jats:italic>\n                     = 12), participants who had no prior experience with smart journaling apps tested the app Day One for 2 weeks and were interviewed about their subjective perceptions afterwards. In order to cross‐validate the obtained findings, Study 2 (\n                    <jats:italic>N</jats:italic>\n                     = 4) was based on in‐depth interviews with long‐time users of different smart journaling apps. Taken together, the two studies provide insights into the way autobiographical remembering may change in the digital age – but also into the opportunities and risks potentially associated with the use of technologies that allow creating a detailed and multimedia‐based record of one's life.\n                  </jats:p>",
+    "DOI": "10.1002/acp.4033",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          12
+        ]
+      ],
+      "date-time": "2023-01-12T02:28:36Z",
+      "timestamp": 1673490516000
+    },
+    "page": "686-698",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Autobiographical memory in the digital age: Insights based on the subjective reports of users of smart journaling apps"
+    ],
+    "prefix": "10.1002",
+    "volume": "37",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0018-2559",
+        "authenticated-orcid": false,
+        "given": "Fabian",
+        "family": "Hutmacher",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Human‐Computer‐Media Institute University of Würzburg  Würzburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Linus",
+        "family": "Schläger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Human‐Computer‐Media Institute University of Würzburg  Würzburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rinat",
+        "family": "Meerson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Human‐Computer‐Media Institute University of Würzburg  Würzburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1089268019880891"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "volume-title": "The future of looking back",
+        "author": "Banks R.",
+        "year": "2011"
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "volume-title": "Total recall",
+        "author": "Bell G.",
+        "year": "2009"
+      },
+      {
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1521/soco.23.1.91.59198"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1108/QMR-06-2016-0053"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/001316448104100307"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10676-016-9393-1"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_9_9_1",
+        "first-page": "101",
+        "article-title": "As we may think",
+        "volume": "176",
+        "author": "Bush V.",
+        "year": "1945",
+        "journal-title": "Atlantic Monthly"
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11229-015-0719-z"
+      },
+      {
+        "key": "e_1_2_9_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13164-013-0130-y"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07370024.2012.656062"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "volume-title": "Origins of the modern mind: Three stages in the evolution of culture and cognition",
+        "author": "Donald M.",
+        "year": "1991"
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2021.08.005"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2858036.2858103"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07370024.2015.1093422"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2022.2126858"
+      },
+      {
+        "key": "e_1_2_9_18_1",
+        "volume-title": "Memory and technology. How we use information in the brain and the world",
+        "author": "Finley J. R.",
+        "year": "2018"
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.121208.131702"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1089268020958686"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1525822X05279903"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pmcj.2015.12.002"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11229-016-1102-4"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11098-017-0935-0"
+      },
+      {
+        "key": "e_1_2_9_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/mila.12353"
+      },
+      {
+        "key": "e_1_2_9_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698017703810"
+      },
+      {
+        "key": "e_1_2_9_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11948-013-9456-1"
+      },
+      {
+        "key": "e_1_2_9_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-25691-2_14"
+      },
+      {
+        "key": "e_1_2_9_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2934667"
+      },
+      {
+        "key": "e_1_2_9_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2139/ssrn.1986719"
+      },
+      {
+        "key": "e_1_2_9_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-15636-7_8"
+      },
+      {
+        "key": "e_1_2_9_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2529310"
+      },
+      {
+        "key": "e_1_2_9_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2011.610803"
+      },
+      {
+        "key": "e_1_2_9_34_1",
+        "volume-title": "The internet of us: Knowing more and understanding less in the age of big data",
+        "author": "Lynch M.",
+        "year": "2016"
+      },
+      {
+        "key": "e_1_2_9_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.concog.2017.02.008"
+      },
+      {
+        "key": "e_1_2_9_36_1",
+        "unstructured": "Manjoo F.(2019 June 12).Why a digital diary will change your life.The New York Times.https://www.nytimes.com/2019/06/12/opinion/digital-diary.html"
+      },
+      {
+        "key": "e_1_2_9_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/9781400838455"
+      },
+      {
+        "key": "e_1_2_9_38_1",
+        "volume-title": "Qualitative content analysis: Theoretical foundation, basic procedures and software solution",
+        "author": "Mayring P.",
+        "year": "2014"
+      },
+      {
+        "key": "e_1_2_9_39_1",
+        "volume-title": "Qualitative content analysis: A step‐by‐step guide",
+        "author": "Mayring P.",
+        "year": "2021"
+      },
+      {
+        "key": "e_1_2_9_40_1",
+        "first-page": "242",
+        "volume-title": "Handbook of personality: Theory and research",
+        "author": "McAdams D. P.",
+        "year": "2008"
+      },
+      {
+        "key": "e_1_2_9_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4135/9781452225913"
+      },
+      {
+        "key": "e_1_2_9_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41562-018-0506-1"
+      },
+      {
+        "key": "e_1_2_9_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0279-7"
+      },
+      {
+        "key": "e_1_2_9_44_1",
+        "volume-title": "The seven sins of memory: How the mind forgets and remembers",
+        "author": "Schacter D.",
+        "year": "2001"
+      },
+      {
+        "key": "e_1_2_9_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/29368"
+      },
+      {
+        "key": "e_1_2_9_46_1",
+        "volume-title": "Lifelogging: Digital self‐tracking and lifelogging—Between disruptive technology and cultural transformation",
+        "author": "Selke S.",
+        "year": "2016"
+      },
+      {
+        "key": "e_1_2_9_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1735223.1735243"
+      },
+      {
+        "key": "e_1_2_9_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09602011.2015.1128450"
+      },
+      {
+        "key": "e_1_2_9_49_1",
+        "volume-title": "Handbook of human memory: Foundations and applications",
+        "author": "Storm B. C."
+      },
+      {
+        "key": "e_1_2_9_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.nlm.2004.06.005"
+      },
+      {
+        "key": "e_1_2_9_51_1",
+        "first-page": "382",
+        "volume-title": "Organization of memory",
+        "author": "Tulving E.",
+        "year": "1972"
+      },
+      {
+        "key": "e_1_2_9_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698014530625"
+      },
+      {
+        "key": "e_1_2_9_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-007-0177-9"
+      },
+      {
+        "key": "e_1_2_9_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07370024.2012.673451"
+      },
+      {
+        "key": "e_1_2_9_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1750698008093795"
+      }
+    ],
+    "container-title": [
+      "Applied Cognitive Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.4033",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/acp.4033",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/acp.4033",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          17
+        ]
+      ],
+      "date-time": "2023-08-17T06:47:09Z",
+      "timestamp": 1692254829000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/acp.4033"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          11
+        ]
+      ]
+    },
+    "references-count": 54,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/acp.4033"
+    ],
+    "URL": "https://doi.org/10.1002/acp.4033",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0888-4080",
+      "1099-0720"
+    ],
+    "issn-type": [
+      {
+        "value": "0888-4080",
+        "type": "print"
+      },
+      {
+        "value": "1099-0720",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-06-27",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-12-15",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-01-11",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

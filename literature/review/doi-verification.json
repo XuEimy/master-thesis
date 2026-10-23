@@ -1,0 +1,3688 @@
+{
+  "date": "2026-10-23",
+  "script": "literature-review/scripts/verify_citations.py",
+  "identifier_source": "citation-ledger.json 精确标识；避开通用正则对相邻 Markdown 链接的误提取",
+  "note": "注册检查不能证明论点支持；网络失败保留为不确定。精确元数据另存 sources/crossref。",
+  "results": [
+    {
+      "doi": "10.1145/1735223.1735243",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Beyond total capture",
+        "authors": "Sellen, Abigail J.; Whittaker, Steve",
+        "author": [
+          {
+            "given": "Abigail J.",
+            "family": "Sellen",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Microsoft Research in Cambridge, U.K. and University of Nottingham, U.K."
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Steve",
+            "family": "Whittaker",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "IBM Almaden Research Center, San Jose, CA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2010",
+        "journal": "Communications of the ACM",
+        "volume": "53",
+        "issue": "5",
+        "pages": "70-77",
+        "doi": "10.1145/1735223.1735243",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.2196/30517",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Lifelog Retrieval From Daily Digital Data: Narrative Review",
+        "authors": "Ribeiro, Ricardo; Trifan, Alina; Neves, António J R",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0411-5182",
+            "authenticated-orcid": false,
+            "given": "Ricardo",
+            "family": "Ribeiro",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7613-1435",
+            "authenticated-orcid": false,
+            "given": "Alina",
+            "family": "Trifan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5433-6667",
+            "authenticated-orcid": false,
+            "given": "António J R",
+            "family": "Neves",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2022",
+        "journal": "JMIR mHealth and uHealth",
+        "volume": "10",
+        "issue": "5",
+        "pages": "e30517",
+        "doi": "10.2196/30517",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1037/0033-295x.107.2.261",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "The construction of autobiographical memories in the self-memory system.",
+        "authors": "Conway, Martin A.; Pleydell-Pearce, Christopher W.",
+        "author": [
+          {
+            "given": "Martin A.",
+            "family": "Conway",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christopher W.",
+            "family": "Pleydell-Pearce",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2000",
+        "journal": "Psychological Review",
+        "volume": "107",
+        "issue": "2",
+        "pages": "261-288",
+        "doi": "10.1037/0033-295x.107.2.261",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1111/j.1745-6916.2006.00017.x",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "The Basic-Systems Model of Episodic Memory",
+        "authors": "Rubin, David C.",
+        "author": [
+          {
+            "given": "David C.",
+            "family": "Rubin",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Duke University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2006",
+        "journal": "Perspectives on Psychological Science",
+        "volume": "1",
+        "issue": "4",
+        "pages": "277-311",
+        "doi": "10.1111/j.1745-6916.2006.00017.x",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1177/0963721413475622",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Narrative Identity",
+        "authors": "McAdams, Dan P.; McLean, Kate C.",
+        "author": [
+          {
+            "given": "Dan P.",
+            "family": "McAdams",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Psychology and School of Education and Social Policy, Northwestern University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kate C.",
+            "family": "McLean",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Psychology, Western Washington University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2013",
+        "journal": "Current Directions in Psychological Science",
+        "volume": "22",
+        "issue": "3",
+        "pages": "233-238",
+        "doi": "10.1177/0963721413475622",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1145/2702123.2702460",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Things That Make Us Reminisce",
+        "authors": "van Gennip, Doménique; van den Hoven, Elise; Markopoulos, Panos",
+        "author": [
+          {
+            "given": "Doménique",
+            "family": "van Gennip",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Technology, Sydney &amp; Eindhoven University of Technology, Sydney, NSW, Australia"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Elise",
+            "family": "van den Hoven",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Technology Sydney &amp; Eindhoven University of Technology, Sydney, NSW, Australia"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Panos",
+            "family": "Markopoulos",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Eindhoven University of Technology &amp; University of Technology, Sydney, Eindhoven, Netherlands"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2015",
+        "journal": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems",
+        "volume": "",
+        "issue": "",
+        "pages": "3443-3452",
+        "doi": "10.1145/2702123.2702460",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1177/2372732218788092",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Self-Generated Memory Cues: Effective Tools for Learning, Training, and Remembering",
+        "authors": "Tullis, Jonathan G.; Finley, Jason R.",
+        "author": [
+          {
+            "given": "Jonathan G.",
+            "family": "Tullis",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "The University of Arizona, Tucson, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jason R.",
+            "family": "Finley",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Fontbonne University, St. Louis, MO, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2018",
+        "journal": "Policy Insights from the Behavioral and Brain Sciences",
+        "volume": "5",
+        "issue": "2",
+        "pages": "179-186",
+        "doi": "10.1177/2372732218788092",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.3724/sp.j.1042.2014.00269",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Functions, Characteristics, and Theoretical Explanations of Involuntary Autobiographical Memories",
+        "authors": "QU, Xiaolan; ZHONG, Yiping; YANG, Qingsong; MENG, Hong",
+        "author": [
+          {
+            "given": "Xiaolan",
+            "family": "QU",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yiping",
+            "family": "ZHONG",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Qingsong",
+            "family": "YANG",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hong",
+            "family": "MENG",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2014",
+        "journal": "Advances in Psychological Science",
+        "volume": "22",
+        "issue": "2",
+        "pages": "269",
+        "doi": "10.3724/sp.j.1042.2014.00269",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1098/rstb.2019.0693",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Involuntary autobiographical memories and their relation to other forms of spontaneous thoughts",
+        "authors": "Berntsen, Dorthe",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5941-314X",
+            "authenticated-orcid": true,
+            "given": "Dorthe",
+            "family": "Berntsen",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Center on Autobiographical Memory Research, Department of Psychology and Behavioral Sciences, Aarhus University, Bartholins Allé 11, 8000 Aarhus C, Denmark"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2021",
+        "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+        "volume": "376",
+        "issue": "1817",
+        "pages": "20190693",
+        "doi": "10.1098/rstb.2019.0693",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1007/s00426-014-0632-y",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Why are we not flooded by involuntary autobiographical memories? Few cues are more effective than many",
+        "authors": "Vannucci, Manila; Pelagatti, Claudia; Hanczakowski, Maciej; Mazzoni, Giuliana; Paccani, Claudia Rossi",
+        "author": [
+          {
+            "given": "Manila",
+            "family": "Vannucci",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Claudia",
+            "family": "Pelagatti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Maciej",
+            "family": "Hanczakowski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Giuliana",
+            "family": "Mazzoni",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Claudia Rossi",
+            "family": "Paccani",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2015",
+        "journal": "Psychological Research",
+        "volume": "79",
+        "issue": "6",
+        "pages": "1077-1085",
+        "doi": "10.1007/s00426-014-0632-y",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1016/j.concog.2025.103983",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Cueing autobiographical memory in young and older adults: an exploration of the effect of cue type on retrieval rates and memory characteristics",
+        "authors": "Mair, Ali",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0024-2582",
+            "authenticated-orcid": false,
+            "given": "Ali",
+            "family": "Mair",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2026",
+        "journal": "Consciousness and Cognition",
+        "volume": "138",
+        "issue": "",
+        "pages": "103983",
+        "doi": "10.1016/j.concog.2025.103983",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1525/tph.2015.37.4.14",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Eliciting Sound Memories",
+        "authors": "Harris, Anna",
+        "author": [
+          {
+            "given": "Anna",
+            "family": "Harris",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2015",
+        "journal": "The Public Historian",
+        "volume": "37",
+        "issue": "4",
+        "pages": "14-31",
+        "doi": "10.1525/tph.2015.37.4.14",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1080/00940798.2022.2049586",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Sensory Roadmaps: How to Capture Sensory Detail in an Interview and Why Doing So Has Exciting Implications for Oral History",
+        "authors": "Werner-Thomas, Holly",
+        "author": [
+          {
+            "given": "Holly",
+            "family": "Werner-Thomas",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2022",
+        "journal": "The Oral History Review",
+        "volume": "49",
+        "issue": "1",
+        "pages": "97-115",
+        "doi": "10.1080/00940798.2022.2049586",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.3389/fpsyg.2025.1574855",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Emotional impact of using different sensory modalities for autobiographical activation: a systematic review and meta-analysis",
+        "authors": "Fernández-Pérez, Dolores; Navarro-Bravo, Beatriz; Toledano-González, Abel; Ricarte, Jorge Javier; Latorre-Postigo, Jose Miguel; Ros, Laura",
+        "author": [
+          {
+            "given": "Dolores",
+            "family": "Fernández-Pérez",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Beatriz",
+            "family": "Navarro-Bravo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Abel",
+            "family": "Toledano-González",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jorge Javier",
+            "family": "Ricarte",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jose Miguel",
+            "family": "Latorre-Postigo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Laura",
+            "family": "Ros",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2025",
+        "journal": "Frontiers in Psychology",
+        "volume": "16",
+        "issue": "",
+        "pages": "",
+        "doi": "10.3389/fpsyg.2025.1574855",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1146/annurev-psych-010419-051101",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Event Perception and Memory",
+        "authors": "Zacks, Jeffrey M.",
+        "author": [
+          {
+            "given": "Jeffrey M.",
+            "family": "Zacks",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Psychological and Brain Sciences, Washington University in St. Louis, St. Louis, Missouri 63130, USA;"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2020",
+        "journal": "Annual Review of Psychology",
+        "volume": "71",
+        "issue": "1",
+        "pages": "165-191",
+        "doi": "10.1146/annurev-psych-010419-051101",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1080/14725860220137345",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Talking about pictures: A case for photo elicitation",
+        "authors": "Harper, Douglas",
+        "author": [
+          {
+            "given": "Douglas",
+            "family": "Harper",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2002",
+        "journal": "Visual Studies",
+        "volume": "17",
+        "issue": "1",
+        "pages": "13-26",
+        "doi": "10.1080/14725860220137345",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1177/17506980211073093",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Cued recall: Using photo-elicitation to examine the distributed processes of remembering with photographs",
+        "authors": "Fawns, Tim",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5014-2662",
+            "authenticated-orcid": false,
+            "given": "Tim",
+            "family": "Fawns",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "The University of Edinburgh, UK"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2023",
+        "journal": "Memory Studies",
+        "volume": "16",
+        "issue": "2",
+        "pages": "264-279",
+        "doi": "10.1177/17506980211073093",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1177/1470357207084865",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Digital photography: communication, identity, memory",
+        "authors": "van Dijck, José",
+        "author": [
+          {
+            "given": "José",
+            "family": "van Dijck",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Amsterdam, The Netherlands,"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2008",
+        "journal": "Visual Communication",
+        "volume": "7",
+        "issue": "1",
+        "pages": "57-76",
+        "doi": "10.1177/1470357207084865",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1080/1472586x.2011.571888",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Personal photography, digital technologies and the uses of the visual",
+        "authors": "Van House, Nancy A.",
+        "author": [
+          {
+            "given": "Nancy A.",
+            "family": "Van House",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2011",
+        "journal": "Visual Studies",
+        "volume": "26",
+        "issue": "2",
+        "pages": "125-134",
+        "doi": "10.1080/1472586x.2011.571888",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1177/1461444814532062",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Technologies of memory: Practices of remembering in analogue and digital photography",
+        "authors": "Keightley, Emily; Pickering, Michael",
+        "author": [
+          {
+            "given": "Emily",
+            "family": "Keightley",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Loughborough University, UK"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael",
+            "family": "Pickering",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Loughborough University, UK"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2014",
+        "journal": "New Media &amp; Society",
+        "volume": "16",
+        "issue": "4",
+        "pages": "576-593",
+        "doi": "10.1177/1461444814532062",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1002/acp.4033",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Autobiographical memory in the digital age: Insights based on the subjective reports of users of smart journaling apps",
+        "authors": "Hutmacher, Fabian; Schläger, Linus; Meerson, Rinat",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0018-2559",
+            "authenticated-orcid": false,
+            "given": "Fabian",
+            "family": "Hutmacher",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Human‐Computer‐Media Institute University of Würzburg  Würzburg Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Linus",
+            "family": "Schläger",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Human‐Computer‐Media Institute University of Würzburg  Würzburg Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rinat",
+            "family": "Meerson",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Human‐Computer‐Media Institute University of Würzburg  Würzburg Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2023",
+        "journal": "Applied Cognitive Psychology",
+        "volume": "37",
+        "issue": "4",
+        "pages": "686-698",
+        "doi": "10.1002/acp.4033",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1093/jcr/ucx112",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "How the Intention to Share Can Undermine Enjoyment: Photo-Taking Goals and Evaluation of Experiences",
+        "authors": "Barasch, Alixandra; Zauberman, Gal; Diehl, Kristin",
+        "author": [
+          {
+            "given": "Alixandra",
+            "family": "Barasch",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Alixandra Barasch (abarasch@stern.nyu.edu) is an assistant professor of marketing, Stern School of Business, New York University, 40 W. 4th St, New York, NY 10012. Gal Zauberman (gal.zauberman@yale.edu) is a professor of marketing, Yale School of Management, Yale University, 165 Whitney Avenue, New Haven, CT 06511. Kristin Diehl (kdiehl@marshall.usc.edu) is an associate professor of marketing, Marshall School of Business, the University of Southern California, 701 Exposition Blvd, HOH 324 Los Angeles CA 90089"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gal",
+            "family": "Zauberman",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Alixandra Barasch (abarasch@stern.nyu.edu) is an assistant professor of marketing, Stern School of Business, New York University, 40 W. 4th St, New York, NY 10012. Gal Zauberman (gal.zauberman@yale.edu) is a professor of marketing, Yale School of Management, Yale University, 165 Whitney Avenue, New Haven, CT 06511. Kristin Diehl (kdiehl@marshall.usc.edu) is an associate professor of marketing, Marshall School of Business, the University of Southern California, 701 Exposition Blvd, HOH 324 Los Angeles CA 90089"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kristin",
+            "family": "Diehl",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Alixandra Barasch (abarasch@stern.nyu.edu) is an assistant professor of marketing, Stern School of Business, New York University, 40 W. 4th St, New York, NY 10012. Gal Zauberman (gal.zauberman@yale.edu) is a professor of marketing, Yale School of Management, Yale University, 165 Whitney Avenue, New Haven, CT 06511. Kristin Diehl (kdiehl@marshall.usc.edu) is an associate professor of marketing, Marshall School of Business, the University of Southern California, 701 Exposition Blvd, HOH 324 Los Angeles CA 90089"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2018",
+        "journal": "Journal of Consumer Research",
+        "volume": "44",
+        "issue": "6",
+        "pages": "1220-1237",
+        "doi": "10.1093/jcr/ucx112",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1177/0956797613504438",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Point-and-Shoot Memories",
+        "authors": "Henkel, Linda A.",
+        "author": [
+          {
+            "given": "Linda A.",
+            "family": "Henkel",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Fairfield University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2014",
+        "journal": "Psychological Science",
+        "volume": "25",
+        "issue": "2",
+        "pages": "396-402",
+        "doi": "10.1177/0956797613504438",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1177/0956797617694868",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Photographic Memory: The Effects of Volitional Photo Taking on Memory for Visual and Auditory Aspects of an Experience",
+        "authors": "Barasch, Alixandra; Diehl, Kristin; Silverman, Jackie; Zauberman, Gal",
+        "author": [
+          {
+            "given": "Alixandra",
+            "family": "Barasch",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Stern School of Business, New York University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kristin",
+            "family": "Diehl",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Marshall School of Business, University of Southern California"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jackie",
+            "family": "Silverman",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The Wharton School, University of Pennsylvania"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gal",
+            "family": "Zauberman",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The Yale School of Management, Yale University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2017",
+        "journal": "Psychological Science",
+        "volume": "28",
+        "issue": "8",
+        "pages": "1056-1066",
+        "doi": "10.1177/0956797617694868",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1016/j.jarmac.2017.10.004",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Forget in a flash: A further investigation of the photo-taking-impairment effect.",
+        "authors": "Soares, Julia S.; Storm, Benjamin C.",
+        "author": [
+          {
+            "given": "Julia S.",
+            "family": "Soares",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Benjamin C.",
+            "family": "Storm",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2018",
+        "journal": "Journal of Applied Research in Memory and Cognition",
+        "volume": "7",
+        "issue": "1",
+        "pages": "154-160",
+        "doi": "10.1016/j.jarmac.2017.10.004",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.3758/s13423-022-02149-2",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Does taking multiple photos lead to a photo-taking-impairment effect?",
+        "authors": "Soares, Julia S.; Storm, Benjamin C.",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-9738-1254",
+            "authenticated-orcid": false,
+            "given": "Julia S.",
+            "family": "Soares",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Benjamin C.",
+            "family": "Storm",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2022",
+        "journal": "Psychonomic Bulletin &amp; Review",
+        "volume": "29",
+        "issue": "6",
+        "pages": "2211-2218",
+        "doi": "10.3758/s13423-022-02149-2",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1037/pspa0000055",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "How taking photos increases enjoyment of experiences.",
+        "authors": "Diehl, Kristin; Zauberman, Gal; Barasch, Alixandra",
+        "author": [
+          {
+            "given": "Kristin",
+            "family": "Diehl",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gal",
+            "family": "Zauberman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alixandra",
+            "family": "Barasch",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2016",
+        "journal": "Journal of Personality and Social Psychology",
+        "volume": "111",
+        "issue": "2",
+        "pages": "119-140",
+        "doi": "10.1037/pspa0000055",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.3724/sp.j.1042.2023.00480",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "The double-edged sword effect of consumers’ photo-taking behavior on consumption experience",
+        "authors": "LIU, Hongyan; ZHENG, Yun; LIU, Yaozhong; QIAO, Fei",
+        "author": [
+          {
+            "given": "Hongyan",
+            "family": "LIU",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yun",
+            "family": "ZHENG",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yaozhong",
+            "family": "LIU",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Fei",
+            "family": "QIAO",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2023",
+        "journal": "Advances in Psychological Science",
+        "volume": "31",
+        "issue": "3",
+        "pages": "480",
+        "doi": "10.3724/sp.j.1042.2023.00480",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1108/oir-03-2018-0108",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Comparison of the change in interpretative stances of lifelog photos versus manually captured photos over time",
+        "authors": "Lee, Ahreum; Ryu, Hokyoung",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-6304-3687",
+            "authenticated-orcid": false,
+            "given": "Ahreum",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hokyoung",
+            "family": "Ryu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2019",
+        "journal": "Online Information Review",
+        "volume": "44",
+        "issue": "2",
+        "pages": "521-541",
+        "doi": "10.1108/oir-03-2018-0108",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1177/0956797614542274",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "A “Present” for the Future",
+        "authors": "Zhang, Ting; Kim, Tami; Brooks, Alison Wood; Gino, Francesca; Norton, Michael I.",
+        "author": [
+          {
+            "given": "Ting",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Harvard Business School, Harvard University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tami",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harvard Business School, Harvard University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alison Wood",
+            "family": "Brooks",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harvard Business School, Harvard University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Francesca",
+            "family": "Gino",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harvard Business School, Harvard University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael I.",
+            "family": "Norton",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harvard Business School, Harvard University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2014",
+        "journal": "Psychological Science",
+        "volume": "25",
+        "issue": "10",
+        "pages": "1851-1860",
+        "doi": "10.1177/0956797614542274",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1177/19485506231163012",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Picturing Your Life: The Role of Imagery Perspective in Personal Photos",
+        "authors": "Niese, Zachary Adolph; Libby, Lisa K.; Eibach, Richard P.",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-8174-9344",
+            "authenticated-orcid": false,
+            "given": "Zachary Adolph",
+            "family": "Niese",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Eberhard Karls Universität Tübingen, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lisa K.",
+            "family": "Libby",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The Ohio State University, Columbus, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Richard P.",
+            "family": "Eibach",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Waterloo, Ontario, Canada"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2024",
+        "journal": "Social Psychological and Personality Science",
+        "volume": "15",
+        "issue": "3",
+        "pages": "309-317",
+        "doi": "10.1177/19485506231163012",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1002/acp.4150",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "When having photographs of events influences the visual perspective of autobiographical memories",
+        "authors": "King, Chloe I.; Panjwani, Azra A.; St. Jacques, Peggy L.",
+        "author": [
+          {
+            "given": "Chloe I.",
+            "family": "King",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Psychology University of Alberta  Edmonton Canada"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Azra A.",
+            "family": "Panjwani",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Psychology University of Alberta  Edmonton Canada"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0935-4588",
+            "authenticated-orcid": false,
+            "given": "Peggy L.",
+            "family": "St. Jacques",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Psychology University of Alberta  Edmonton Canada"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2024",
+        "journal": "Applied Cognitive Psychology",
+        "volume": "38",
+        "issue": "1",
+        "pages": "",
+        "doi": "10.1002/acp.4150",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1016/j.actpsy.2025.104929",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "First-person and third-person lifelogging improves episodic memory",
+        "authors": "Oudman, Erik; Klukas, Isabelle F.; van Teijlingen, Tijmen; Postma, Albert",
+        "author": [
+          {
+            "given": "Erik",
+            "family": "Oudman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Isabelle F.",
+            "family": "Klukas",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tijmen",
+            "family": "van Teijlingen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Albert",
+            "family": "Postma",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2025",
+        "journal": "Acta Psychologica",
+        "volume": "255",
+        "issue": "",
+        "pages": "104929",
+        "doi": "10.1016/j.actpsy.2025.104929",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.23991/ef.v51i2.142184",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Engaging (with) Places",
+        "authors": "Johannesdottir, Snjolaug; Rastrick, Olafur",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0006-8638-9505",
+            "authenticated-orcid": false,
+            "given": "Snjolaug",
+            "family": "Johannesdottir",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-3679-8638",
+            "authenticated-orcid": false,
+            "given": "Olafur",
+            "family": "Rastrick",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2025",
+        "journal": "Ethnologia Fennica",
+        "volume": "51",
+        "issue": "2",
+        "pages": "7-34",
+        "doi": "10.23991/ef.v51i2.142184",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1145/1718918.1718985",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Sonic souvenirs",
+        "authors": "Dib, Lina; Petrelli, Daniela; Whittaker, Steve",
+        "author": [
+          {
+            "given": "Lina",
+            "family": "Dib",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Rice University, Houston, TX, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daniela",
+            "family": "Petrelli",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Sheffield, Sheffield, United Kingdom"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Steve",
+            "family": "Whittaker",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Sheffield, Sheffield, United Kingdom"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2010",
+        "journal": "Proceedings of the 2010 ACM conference on Computer supported cooperative work",
+        "volume": "",
+        "issue": "",
+        "pages": "391-400",
+        "doi": "10.1145/1718918.1718985",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1080/1047840x.2024.2384125",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Understanding Autobiographical Memory in the Digital Age: The AMEDIA-Model",
+        "authors": "Hutmacher, Fabian; Appel, Markus; Schwan, Stephan",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0018-2559",
+            "authenticated-orcid": false,
+            "given": "Fabian",
+            "family": "Hutmacher",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Julius-Maximilians-Universität Würzburg",
+                "place": [
+                  "Würzburg, Germany"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4111-1308",
+            "authenticated-orcid": false,
+            "given": "Markus",
+            "family": "Appel",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Julius-Maximilians-Universität Würzburg",
+                "place": [
+                  "Würzburg, Germany"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2451-720X",
+            "authenticated-orcid": false,
+            "given": "Stephan",
+            "family": "Schwan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Leibniz-Institut für Wissensmedien",
+                "place": [
+                  "Tübingen, Germany"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2024",
+        "journal": "Psychological Inquiry",
+        "volume": "35",
+        "issue": "2",
+        "pages": "83-105",
+        "doi": "10.1080/1047840x.2024.2384125",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1186/s41235-025-00627-4",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Mediated autobiographical remembering in the digital age: insights from an experimental think-aloud study",
+        "authors": "Hutmacher, Fabian; Conrad, Beate; Appel, Markus; Schwan, Stephan",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0018-2559",
+            "authenticated-orcid": false,
+            "given": "Fabian",
+            "family": "Hutmacher",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Beate",
+            "family": "Conrad",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4111-1308",
+            "authenticated-orcid": false,
+            "given": "Markus",
+            "family": "Appel",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2451-720X",
+            "authenticated-orcid": false,
+            "given": "Stephan",
+            "family": "Schwan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2025",
+        "journal": "Cognitive Research: Principles and Implications",
+        "volume": "10",
+        "issue": "1",
+        "pages": "",
+        "doi": "10.1186/s41235-025-00627-4",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1080/09658211.2025.2602077",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Birthday memories: an experimental think-aloud study on autobiographical remembering in the digital age",
+        "authors": "Hutmacher, Fabian; Einhellig, Cosima; Klink, Stefanie",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-0018-2559",
+            "authenticated-orcid": false,
+            "given": "Fabian",
+            "family": "Hutmacher",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Julius-Maximilians-Universität Würzburg",
+                "place": [
+                  "Würzburg, Germany"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Cosima",
+            "family": "Einhellig",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Julius-Maximilians-Universität Würzburg",
+                "place": [
+                  "Würzburg, Germany"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Stefanie",
+            "family": "Klink",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Julius-Maximilians-Universität Würzburg",
+                "place": [
+                  "Würzburg, Germany"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2026",
+        "journal": "Memory",
+        "volume": "34",
+        "issue": "2",
+        "pages": "180-190",
+        "doi": "10.1080/09658211.2025.2602077",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1007/s00779-023-01726-z",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "LAD: an application design model to support the analysis of large-scale personal data collections generated by lifelogging",
+        "authors": "Duane, Aaron; Jónsson, Björn Þór; Lee, Hyowon; Gurrin, Cathal",
+        "author": [
+          {
+            "given": "Aaron",
+            "family": "Duane",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Björn Þór",
+            "family": "Jónsson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hyowon",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Cathal",
+            "family": "Gurrin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2023",
+        "journal": "Personal and Ubiquitous Computing",
+        "volume": "27",
+        "issue": "6",
+        "pages": "2133-2145",
+        "doi": "10.1007/s00779-023-01726-z",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1017/mem.2026.10057",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "‘On some promises of personal memory algorithmisation’",
+        "authors": "Rouge, Rémi; Niemeyer, Katharina; Caccamo, Emmanuelle",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0002-8193-5547",
+            "authenticated-orcid": false,
+            "given": "Rémi",
+            "family": "Rouge",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/0199hds37",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Université Sorbonne Paris Nord – LabSIC"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Katharina",
+            "family": "Niemeyer",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/002rjbv21",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "University of Québec in Montréal"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Emmanuelle",
+            "family": "Caccamo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/02xrw9r68",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Université du Québec à Trois-Rivières"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2026",
+        "journal": "Memory, Mind &amp; Media",
+        "volume": "5",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1017/mem.2026.10057",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1145/3613905.3650979",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Unlocking Memories with AI: Exploring the Role of AI-Generated Cues in Personal Reminiscing",
+        "authors": "Jeung, Jun Li; Huang, Janet Yi-Ching",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0008-0510-3718",
+            "authenticated-orcid": false,
+            "given": "Jun Li",
+            "family": "Jeung",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Industrial Design, Eindhoven University of Technology, Netherlands"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-8204-4327",
+            "authenticated-orcid": false,
+            "given": "Janet Yi-Ching",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Industrial Design, Eindhoven University of Technology, Netherlands"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2024",
+        "journal": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+        "volume": "",
+        "issue": "",
+        "pages": "1-6",
+        "doi": "10.1145/3613905.3650979",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1145/3746059.3747681",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "StorySage: Conversational Autobiography Writing Powered by a Multi-Agent Framework",
+        "authors": "Talaei, Shayan; Li, Meijin; Grover, Kanu; Hippler, James Kent; Yang, Diyi; Saberi, Amin",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0005-6697-8487",
+            "authenticated-orcid": false,
+            "given": "Shayan",
+            "family": "Talaei",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Management Science and Engineering, Stanford University, Stanford, California, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-8137-540X",
+            "authenticated-orcid": false,
+            "given": "Meijin",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Electrical Engineering, Stanford University, Stanford, California, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0001-2456-0737",
+            "authenticated-orcid": false,
+            "given": "Kanu",
+            "family": "Grover",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Computer Science, Stanford University, Stanford, California, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0008-1334-5645",
+            "authenticated-orcid": false,
+            "given": "James Kent",
+            "family": "Hippler",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Management Science and Engineering, Stanford University, Stanford, California, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1220-3983",
+            "authenticated-orcid": false,
+            "given": "Diyi",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Computer Science Department, Stanford University, Stanford, California, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5255-4150",
+            "authenticated-orcid": false,
+            "given": "Amin",
+            "family": "Saberi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Management Science and Engineering, Stanford University, Stanford, California, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2025",
+        "journal": "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology",
+        "volume": "",
+        "issue": "",
+        "pages": "1-26",
+        "doi": "10.1145/3746059.3747681",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1007/s00146-025-02688-x",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Stories by the campfire: use of generative A.I. voice assistants to support older adult reminiscence self-efficacy",
+        "authors": "Qu, Noah Zijie; Li, Jamy; Chignell, Mark",
+        "author": [
+          {
+            "given": "Noah Zijie",
+            "family": "Qu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jamy",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mark",
+            "family": "Chignell",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2026",
+        "journal": "AI &amp; SOCIETY",
+        "volume": "41",
+        "issue": "4",
+        "pages": "3325-3346",
+        "doi": "10.1007/s00146-025-02688-x",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1527/tjsai.41-3_a-p73",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Memory Recall Support through Externalization of Remembered Scenes Using Generative AI",
+        "authors": "Ando, Masayuki; Otsu, Kouyou; Izumi, Tomoko",
+        "author": [
+          {
+            "given": "Masayuki",
+            "family": "Ando",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Faculty of Business Data Science, Kansai University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Kouyou",
+            "family": "Otsu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "College of Science and Engineering, Aoyama Gakuin University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Tomoko",
+            "family": "Izumi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "College of Information Science and Engineering, Ritsumeikan University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2026",
+        "journal": "Transactions of the Japanese Society for Artificial Intelligence",
+        "volume": "41",
+        "issue": "3",
+        "pages": "A-P73_1-13",
+        "doi": "10.1527/tjsai.41-3_a-p73",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1145/3772318.3790927",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "“I'm happy even though it's not real”: GenAI Photo Editing as a Remembering Experience",
+        "authors": "Wu, Yufeng; Li, Qing; van den Hoven, Elise; Kocaballi, A. Baki",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0005-6537-7161",
+            "authenticated-orcid": false,
+            "given": "Yufeng",
+            "family": "Wu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Computer Science, University of Technology Sydney, Sydney, NSW, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0005-7519-5118",
+            "authenticated-orcid": false,
+            "given": "Qing",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Computer Science, University of Technology Sydney, Sydney, NSW, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0888-1426",
+            "authenticated-orcid": false,
+            "given": "Elise",
+            "family": "van den Hoven",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Materialising Memories &amp; Visualisation Institute, University of Technology Sydney, Sydney, NSW, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-8328-5317",
+            "authenticated-orcid": false,
+            "given": "A. Baki",
+            "family": "Kocaballi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Computer Science, University of Technology Sydney, Sydney, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2026",
+        "journal": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+        "volume": "",
+        "issue": "",
+        "pages": "1-18",
+        "doi": "10.1145/3772318.3790927",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1145/3772318.3791325",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation",
+        "authors": "Fang, Zhou; Huang, Janet Yi-Ching",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0000-8305-997X",
+            "authenticated-orcid": false,
+            "given": "Zhou",
+            "family": "Fang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "industrial design, Eindhoven University of Technology, Eindhoven, Netherlands"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-8204-4327",
+            "authenticated-orcid": false,
+            "given": "Janet Yi-Ching",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Industrial Design, Eindhoven University of Technology, Eindhoven, Netherlands"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2026",
+        "journal": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+        "volume": "",
+        "issue": "",
+        "pages": "1-18",
+        "doi": "10.1145/3772318.3791325",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1080/17503280.2020.1815123",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "The autobiographical documentary: archive and montage to represent the self",
+        "authors": "Rosas, Vladimir; Dittus, Rubén",
+        "author": [
+          {
+            "given": "Vladimir",
+            "family": "Rosas",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Faculty of Arts, Universidad Academia de Humanismo Cristiano, Santiago, Chile"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rubén",
+            "family": "Dittus",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Faculty of Communications, Universidad Central, Santiago, Chile"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2021",
+        "journal": "Studies in Documentary Film",
+        "volume": "15",
+        "issue": "3",
+        "pages": "203-219",
+        "doi": "10.1080/17503280.2020.1815123",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1080/17503280.2024.2350603",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Cinematic hometactics: negotiating belonging in first-person documentary",
+        "authors": "Denić, Nadica",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1439-5720",
+            "authenticated-orcid": false,
+            "given": "Nadica",
+            "family": "Denić",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Media Studies, University of Amsterdam, Amsterdam, The Netherlands"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2024",
+        "journal": "Studies in Documentary Film",
+        "volume": "18",
+        "issue": "3",
+        "pages": "189-204",
+        "doi": "10.1080/17503280.2024.2350603",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1145/2556288.2557178",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Designing for slowness, anticipation and re-visitation",
+        "authors": "Odom, William T.; Sellen, Abigail J.; Banks, Richard; Kirk, David S.; Regan, Tim; Selby, Mark; Forlizzi, Jodi L.; Zimmerman, John",
+        "author": [
+          {
+            "given": "William T.",
+            "family": "Odom",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Carnegie Mellon University, Pittsburgh, PA, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Abigail J.",
+            "family": "Sellen",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Microsoft Research, Cambridge, Cambridgeshire, United Kingdom"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Richard",
+            "family": "Banks",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Microsoft Research, Cambridge, United Kingdom"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "David S.",
+            "family": "Kirk",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Newcastle University, Newcastle Upon Tyne, United Kingdom"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tim",
+            "family": "Regan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Microsoft, Cambridge, UK"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mark",
+            "family": "Selby",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Nottingham, Nottingham, United Kingdom"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jodi L.",
+            "family": "Forlizzi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Carnegie Mellon University, Pittsburgh, PA, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "John",
+            "family": "Zimmerman",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Carnegie Mellon University, Pittsburgh, PA, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2014",
+        "journal": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "volume": "",
+        "issue": "",
+        "pages": "1961-1970",
+        "doi": "10.1145/2556288.2557178",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1145/3654777.3676336",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Memory Reviver: Supporting Photo-Collection Reminiscence for People with Visual Impairment via a Proactive Chatbot",
+        "authors": "Xu, Shuchang; Chen, Chang; Liu, Zichen; Jin, Xiaofu; Yuan, Lin-Ping; Yan, Yukang; Qu, Huamin",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-7642-9044",
+            "authenticated-orcid": false,
+            "given": "Shuchang",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Hong Kong University of Science and Technology, China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0008-5876-7219",
+            "authenticated-orcid": false,
+            "given": "Chang",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The Hong Kong University of Science and Technology, Hong Kong"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0009-0078-6238",
+            "authenticated-orcid": false,
+            "given": "Zichen",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Computer Science and Engineering, Hong Kong University of Science and Technology, China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7239-3769",
+            "authenticated-orcid": false,
+            "given": "Xiaofu",
+            "family": "Jin",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "IIP(Computational Media and Arts), The Hong Kong University of Science and Technology, China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6268-1583",
+            "authenticated-orcid": false,
+            "given": "Lin-Ping",
+            "family": "Yuan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7515-3755",
+            "authenticated-orcid": false,
+            "given": "Yukang",
+            "family": "Yan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Computer Science, University of Rochester, United States"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-3344-9694",
+            "authenticated-orcid": false,
+            "given": "Huamin",
+            "family": "Qu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2024",
+        "journal": "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology",
+        "volume": "",
+        "issue": "",
+        "pages": "1-17",
+        "doi": "10.1145/3654777.3676336",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1080/09658211.2024.2377193",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Accuracy and completeness of autobiographical memory: evidence from a wearable camera study",
+        "authors": "Finley, Jason R.; Brewer, William F.",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5921-8336",
+            "authenticated-orcid": false,
+            "given": "Jason R.",
+            "family": "Finley",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Psychology, Southern Illinois University Edwardsville, Edwardsville, IL, USA"
+              },
+              {
+                "name": "University of Illinois at Urbana-Champaign, Champaign, IL, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "William F.",
+            "family": "Brewer",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Illinois at Urbana-Champaign, Champaign, IL, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2024",
+        "journal": "Memory",
+        "volume": "32",
+        "issue": "8",
+        "pages": "1012-1042",
+        "doi": "10.1080/09658211.2024.2377193",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1093/geronb/gbaf093",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Training Autobiographical Memory in Older Adults Using Photos From Wearable Cameras",
+        "authors": "Felinto, Tuíla Maciel; Worth, Tory; Welch, Erin; Cabeza, Roberto",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-5870-0013",
+            "authenticated-orcid": false,
+            "given": "Tuíla Maciel",
+            "family": "Felinto",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Psychology Institute, Federal University of Rio Grande do Sul , Porto Alegre, RS ,",
+                "place": [
+                  "Brazil"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Tory",
+            "family": "Worth",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Center for Cognitive Neuroscience, Duke University , Durham, North Carolina ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Erin",
+            "family": "Welch",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Psychology, Columbia University , New York, New York ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Roberto",
+            "family": "Cabeza",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Center for Cognitive Neuroscience, Duke University , Durham, North Carolina ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "year": "2025",
+        "journal": "The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences",
+        "volume": "80",
+        "issue": "7",
+        "pages": "",
+        "doi": "10.1093/geronb/gbaf093",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.3758/s13428-023-02145-x",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Automated scoring of the autobiographical interview with natural language processing",
+        "authors": "van Genugten, Ruben D.I.; Schacter, Daniel L.",
+        "author": [
+          {
+            "given": "Ruben D.I.",
+            "family": "van Genugten",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daniel L.",
+            "family": "Schacter",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2024",
+        "journal": "Behavior Research Methods",
+        "volume": "56",
+        "issue": "3",
+        "pages": "2243-2259",
+        "doi": "10.3758/s13428-023-02145-x",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.3758/s13428-025-02767-3",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Modeling memories, predicting prospections: Automated scoring of autobiographical detail narration using large language models",
+        "authors": "Klus, Jonas; Cohen, Daniel E.; Garcia, Alexis N.; Hennessy, Sarah; Mehl, Matthias R.; Andrews‑Hanna, Jessica R.; Grilli, Matthew D.",
+        "author": [
+          {
+            "given": "Jonas",
+            "family": "Klus",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daniel E.",
+            "family": "Cohen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alexis N.",
+            "family": "Garcia",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sarah",
+            "family": "Hennessy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Matthias R.",
+            "family": "Mehl",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jessica R.",
+            "family": "Andrews‑Hanna",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0089-3243",
+            "authenticated-orcid": false,
+            "given": "Matthew D.",
+            "family": "Grilli",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2025",
+        "journal": "Behavior Research Methods",
+        "volume": "57",
+        "issue": "9",
+        "pages": "",
+        "doi": "10.3758/s13428-025-02767-3",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1057/s41599-025-06426-y",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "What might we learn about autobiographical narrative processing from Artificial Intelligence?",
+        "authors": "Mansfield, Cade D.; Bauer, Jack J.; Booker, Jordan; Grysman, Azriel; Singer, Jefferson; Fivush, Robyn",
+        "author": [
+          {
+            "given": "Cade D.",
+            "family": "Mansfield",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jack J.",
+            "family": "Bauer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jordan",
+            "family": "Booker",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Azriel",
+            "family": "Grysman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jefferson",
+            "family": "Singer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Robyn",
+            "family": "Fivush",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2026",
+        "journal": "Humanities and Social Sciences Communications",
+        "volume": "13",
+        "issue": "1",
+        "pages": "",
+        "doi": "10.1057/s41599-025-06426-y",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1145/3706598.3713697",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+        "authors": "Pataranutaporn, Pat; Archiwaranguprok, Chayapatr; Chan, Samantha W. T.; Loftus, Elizabeth; Maes, Pattie",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-1879-7340",
+            "authenticated-orcid": false,
+            "given": "Pat",
+            "family": "Pataranutaporn",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "MIT Media Lab, Massachusetts Institute of Technology, Boston, Massachusetts, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0008-7165-0859",
+            "authenticated-orcid": false,
+            "given": "Chayapatr",
+            "family": "Archiwaranguprok",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of the Thai Chamber of Commerce, Bangkok, Thailand"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1159-0467",
+            "authenticated-orcid": false,
+            "given": "Samantha W. T.",
+            "family": "Chan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "MIT Media Lab, Cambridge, Massachusetts, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0004-8920-3273",
+            "authenticated-orcid": false,
+            "given": "Elizabeth",
+            "family": "Loftus",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "UCI School of Social Ecology, UC Irvine, Irvine, California, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7722-6038",
+            "authenticated-orcid": false,
+            "given": "Pattie",
+            "family": "Maes",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "MIT Media Lab, Cambridge, Massachusetts, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2025",
+        "journal": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+        "volume": "",
+        "issue": "",
+        "pages": "1-20",
+        "doi": "10.1145/3706598.3713697",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1145/3708359.3712112",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation",
+        "authors": "Pataranutaporn, Pat; Archiwaranguprok, Chayapatr; Chan, Samantha W. T.; Loftus, Elizabeth; Maes, Pattie",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-1879-7340",
+            "authenticated-orcid": false,
+            "given": "Pat",
+            "family": "Pataranutaporn",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "MIT Media Lab, Massachusetts Institute of Technology, Boston, Massachusetts, USA,"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0008-7165-0859",
+            "authenticated-orcid": false,
+            "given": "Chayapatr",
+            "family": "Archiwaranguprok",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of the Thai Chamber of Commerce, Bangkok, Thailand,"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1159-0467",
+            "authenticated-orcid": false,
+            "given": "Samantha W. T.",
+            "family": "Chan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "MIT Media Lab, Cambridge, Massachusetts, USA,"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0004-8920-3273",
+            "authenticated-orcid": false,
+            "given": "Elizabeth",
+            "family": "Loftus",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "UCI School of Social Ecology, UC Irvine, Irvine, California, USA,"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7722-6038",
+            "authenticated-orcid": false,
+            "given": "Pattie",
+            "family": "Maes",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Media Lab, MIT, Cambridge, Massachusetts, USA,"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2025",
+        "journal": "Proceedings of the 30th International Conference on Intelligent User Interfaces",
+        "volume": "",
+        "issue": "",
+        "pages": "1297-1313",
+        "doi": "10.1145/3708359.3712112",
+        "status": "registered"
+      }
+    },
+    {
+      "doi": "10.1017/mem.2022.5",
+      "registration_confirmed": true,
+      "result": {
+        "metadata_status": "retrieved",
+        "title": "Remembering in the wild: recontextualising and reconciling studies of media and memory",
+        "authors": "Fawns, Tim",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5014-2662",
+            "authenticated-orcid": false,
+            "given": "Tim",
+            "family": "Fawns",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "year": "2022",
+        "journal": "Memory, Mind &amp; Media",
+        "volume": "1",
+        "issue": "",
+        "pages": "",
+        "doi": "10.1017/mem.2022.5",
+        "status": "registered"
+      }
+    }
+  ]
+}

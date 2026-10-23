@@ -1,0 +1,619 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ],
+      "date-time": "2026-10-15T06:51:20Z",
+      "timestamp": 1792047080371,
+      "version": "4.4.0"
+    },
+    "reference-count": 31,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2025-05-01T00:00:00Z",
+          "timestamp": 1746057600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2025-05-01T00:00:00Z",
+          "timestamp": 1746057600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              17
+            ]
+          ],
+          "date-time": "2025-03-17T00:00:00Z",
+          "timestamp": 1742169600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Acta Psychologica"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.actpsy.2025.104929",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2025-03-19T23:59:22Z",
+      "timestamp": 1742428762000
+    },
+    "page": "104929",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "special_numbering": "C",
+    "title": [
+      "First-person and third-person lifelogging improves episodic memory"
+    ],
+    "prefix": "10.1016",
+    "volume": "255",
+    "author": [
+      {
+        "given": "Erik",
+        "family": "Oudman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Isabelle F.",
+        "family": "Klukas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tijmen",
+        "family": "van Teijlingen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Albert",
+        "family": "Postma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "4–5",
+        "key": "10.1016/j.actpsy.2025.104929_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "582",
+        "DOI": "10.1080/09602010601029780",
+        "article-title": "The use of a wearable camera, SenseCam, as a pictorial diary to improve autobiographical memory in a patient with limbic encephalitis: A preliminary report",
+        "volume": "17",
+        "author": "Berry",
+        "year": "2007",
+        "journal-title": "Neuropsychological Rehabilitation"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.actpsy.2025.104929_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "745",
+        "DOI": "10.1080/09658211.2010.493893",
+        "article-title": "Exploration of use of SenseCam to support autobiographical memory retrieval within a cognitive-behavioural therapeutic intervention following acquired brain injury",
+        "volume": "19",
+        "author": "Brindley",
+        "year": "2011",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.actpsy.2025.104929_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "713",
+        "DOI": "10.1080/09658211.2011.614622",
+        "article-title": "SenseCam improves memory for recent events and quality of life in a patient with memory retrieval difficulties",
+        "volume": "19",
+        "author": "Browne",
+        "year": "2011",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.actpsy.2025.104929_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "202",
+        "DOI": "10.1111/nyas.13353",
+        "article-title": "Neurocognitive mechanisms of real-world autobiographical memory retrieval: Insights from studies using wearable camera technology",
+        "volume": "1396",
+        "author": "Chow",
+        "year": "2017",
+        "journal-title": "Annals of the New York Academy of Sciences"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.actpsy.2025.104929_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "594",
+        "DOI": "10.1016/j.jml.2005.08.005",
+        "article-title": "Memory and the self",
+        "volume": "53",
+        "author": "Conway",
+        "year": "2005",
+        "journal-title": "Journal of Memory and Language"
+      },
+      {
+        "key": "10.1016/j.actpsy.2025.104929_bb0050",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyt.2020.00397",
+        "article-title": "Cognitive intervention targeting autobiographical memory impairment in patients with schizophrenia using a wearable camera: A proof-of-concept study",
+        "volume": "11",
+        "author": "Dassing",
+        "year": "2020",
+        "journal-title": "Frontiers in Psychiatry"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.actpsy.2025.104929_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "735",
+        "DOI": "10.1016/j.neurol.2016.03.009",
+        "article-title": "SenseCam: A new tool for memory rehabilitation?",
+        "volume": "172",
+        "author": "Dubourg",
+        "year": "2016",
+        "journal-title": "Revue Neurologique"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.actpsy.2025.104929_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "796",
+        "DOI": "10.1080/09658211.2010.532807",
+        "article-title": "The effects of end-of-day picture review and a sensor-based picture capture procedure on autobiographical memory using SenseCam",
+        "volume": "19",
+        "author": "Finley",
+        "year": "2011",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.actpsy.2025.104929_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "685",
+        "DOI": "10.1080/09658211.2011.605591",
+        "article-title": "SenseCam: A wearable camera that stimulates and rehabilitates autobiographical memory",
+        "volume": "19",
+        "author": "Hodges",
+        "year": "2011",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.actpsy.2025.104929_bb0095",
+        "series-title": "International conference on ubiquitous computing",
+        "first-page": "177",
+        "article-title": "SenseCam: A retrospective memory aid",
+        "author": "Hodges",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.actpsy.2025.104929_bb0100",
+        "article-title": "Investigating the longevity of real- world memory following a smartphone intervention in older adults: A multi-year follow-up study",
+        "volume": "46",
+        "author": "Hong",
+        "year": "2024",
+        "journal-title": "In Proceedings of the Annual Meeting of the Cognitive Science Society"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.actpsy.2025.104929_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "697",
+        "DOI": "10.1080/09658211.2011.610803",
+        "article-title": "Using SenseCam with an amnesic patient: Accessing inaccessible everyday memories",
+        "volume": "19",
+        "author": "Loveday",
+        "year": "2011",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.actpsy.2025.104929_bb0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "190",
+        "DOI": "10.1016/j.concog.2017.02.008",
+        "article-title": "Supporting older and younger adults’ memory for recent everyday events: A prospective sampling study using SenseCam",
+        "volume": "49",
+        "author": "Mair",
+        "year": "2017",
+        "journal-title": "Consciousness and Cognition"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.actpsy.2025.104929_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "717",
+        "DOI": "10.1177/1747021818765038",
+        "article-title": "Memory for staged events: Supporting older and younger adults’ memory with SenseCam",
+        "volume": "72",
+        "author": "Mair",
+        "year": "2019",
+        "journal-title": "Quarterly Journal of Experimental Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.actpsy.2025.104929_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1017/BrImp.2021.6",
+        "article-title": "Using a wearable camera to support everyday memory following brain injury: A single-case study",
+        "volume": "22",
+        "author": "Mair",
+        "year": "2021",
+        "journal-title": "Brain Impairment"
+      },
+      {
+        "issue": "51",
+        "key": "10.1016/j.actpsy.2025.104929_bb0140",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1073/pnas.2214285119",
+        "article-title": "A smartphone intervention that enhances real-world memory and promotes differentiation of hippocampal activity in older adults",
+        "volume": "119",
+        "author": "Martin",
+        "year": "2022",
+        "journal-title": "Proceedings of the National Academy of Sciences"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.actpsy.2025.104929_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.3758/BF03196271",
+        "article-title": "Vantage point in episodic memory",
+        "volume": "9",
+        "author": "Mcisaac",
+        "year": "2002",
+        "journal-title": "Psychonomic Bulletin & Review"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.actpsy.2025.104929_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "624",
+        "DOI": "10.1038/s41583-019-0202-9",
+        "article-title": "The human imagination: The cognitive neuroscience of visual mental imagery",
+        "volume": "20",
+        "author": "Pearson",
+        "year": "2019",
+        "journal-title": "Nature Reviews Neuroscience"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.actpsy.2025.104929_bb0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "877",
+        "DOI": "10.1016/j.concog.2009.07.004",
+        "article-title": "I can see it both ways: First- and third-person visual perspectives at retrieval",
+        "volume": "18",
+        "author": "Rice",
+        "year": "2009",
+        "journal-title": "Consciousness and Cognition"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.actpsy.2025.104929_bb0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "568",
+        "DOI": "10.1016/j.concog.2010.10.013",
+        "article-title": "Remembering from any angle: The flexibility of visual perspective during retrieval",
+        "volume": "20",
+        "author": "Rice",
+        "year": "2011",
+        "journal-title": "Consciousness and Cognition"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.actpsy.2025.104929_bb0180",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0249950",
+        "article-title": "Evidence for a visual bias when recalling complex narratives",
+        "volume": "16",
+        "author": "Scheurich",
+        "year": "2021",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.actpsy.2025.104929_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "861",
+        "DOI": "10.1080/09658211.2013.839711",
+        "article-title": "SenseCam reminiscence and action recall in memory-unimpaired people",
+        "volume": "22",
+        "author": "Seamon",
+        "year": "2014",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "10.1016/j.actpsy.2025.104929_bb0190",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/1240624.1240636",
+        "article-title": "Do life-logging technologies support memory for the past? An experimental study using SenseCam",
+        "volume": "81–90",
+        "author": "Sellen",
+        "year": "2007",
+        "journal-title": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.actpsy.2025.104929_bb0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "371",
+        "DOI": "10.1159/000505848",
+        "article-title": "Mnemoscape: Supporting older Adults’ event memory using wearable camera photographs on an immersive Interface",
+        "volume": "66",
+        "author": "Selwood",
+        "year": "2020",
+        "journal-title": "Gerontology"
+      },
+      {
+        "issue": "3/4",
+        "key": "10.1016/j.actpsy.2025.104929_bb0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "591",
+        "DOI": "10.2307/2333709",
+        "article-title": "An analysis of variance test for normality (complete samples)",
+        "volume": "52",
+        "author": "Shapiro",
+        "year": "1965",
+        "journal-title": "Biometrika"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.actpsy.2025.104929_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "117",
+        "DOI": "10.1080/09602011.2015.1128450",
+        "article-title": "A critical review of the effects of wearable cameras on memory",
+        "volume": "28",
+        "author": "Silva",
+        "year": "2016",
+        "journal-title": "Neuropsychological Rehabilitation"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.actpsy.2025.104929_bb0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "537",
+        "DOI": "10.1177/0956797612457377",
+        "article-title": "Modifying memory: Selectively enhancing and updating personal memories for a museum tour by reactivating them",
+        "volume": "24",
+        "author": "St. Jacques",
+        "year": "2013",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "3–4",
+        "key": "10.1016/j.actpsy.2025.104929_bb0215",
+        "first-page": "400",
+        "article-title": "Impact of SenseCam on memory, identity and mood in Korsakoff’s syndrome: A single case experimental design study",
+        "volume": "24",
+        "author": "Svanberg",
+        "year": "2013",
+        "journal-title": "Neuropsychological Rehabilitation"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.actpsy.2025.104929_bb0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "352",
+        "DOI": "10.1037/h0020071",
+        "article-title": "Encoding specificity and retrieval processes in episodic memory",
+        "volume": "80",
+        "author": "Tulving",
+        "year": "1973",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "key": "10.1016/j.actpsy.2025.104929_bb0230",
+        "article-title": "Lifelogging as a rehabilitation tool in patients with amnesia: A narrative literature review on the effect of lifelogging on memory loss",
+        "volume": "1–27",
+        "author": "van Teijlingen",
+        "year": "2021",
+        "journal-title": "Neuropsychological Rehabilitation"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.actpsy.2025.104929_bb0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "340",
+        "DOI": "10.1080/09658211.2014.886703",
+        "article-title": "The use of a wearable camera improves autobiographical memory in patients with Alzheimer’s disease",
+        "volume": "23",
+        "author": "Woodberry",
+        "year": "2015",
+        "journal-title": "Memory"
+      }
+    ],
+    "container-title": [
+      "Acta Psychologica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0001691825002422?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0001691825002422?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          6
+        ]
+      ],
+      "date-time": "2025-05-06T20:40:20Z",
+      "timestamp": 1746564020000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0001691825002422"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "references-count": 31,
+    "alternative-id": [
+      "S0001691825002422"
+    ],
+    "URL": "https://doi.org/10.1016/j.actpsy.2025.104929",
+    "relation": {},
+    "ISSN": [
+      "0001-6918"
+    ],
+    "issn-type": [
+      {
+        "value": "0001-6918",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "First-person and third-person lifelogging improves episodic memory",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Acta Psychologica",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.actpsy.2025.104929",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 The Authors. Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "104929"
+  }
+}

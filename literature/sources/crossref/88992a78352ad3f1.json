@@ -1,0 +1,833 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          14
+        ]
+      ],
+      "date-time": "2026-06-14T22:04:40Z",
+      "timestamp": 1781474680163,
+      "version": "3.54.1"
+    },
+    "reference-count": 50,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              5
+            ]
+          ],
+          "date-time": "2025-05-05T00:00:00Z",
+          "timestamp": 1746403200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              5
+            ]
+          ],
+          "date-time": "2025-05-05T00:00:00Z",
+          "timestamp": 1746403200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000038",
+        "name": "Natural Sciences and Engineering Research Council of Canada",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2020-03917"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2020-03917"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000038",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mem Cogn"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.3758/s13421-025-01717-w",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          5
+        ]
+      ],
+      "date-time": "2025-05-05T14:21:40Z",
+      "timestamp": 1746454900000
+    },
+    "page": "2394-2405",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Evidence of temporal and emotional alignment between song cues and their evoked autobiographical memories"
+    ],
+    "prefix": "10.3758",
+    "volume": "53",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5073-4844",
+        "authenticated-orcid": false,
+        "given": "Pelin",
+        "family": "Tanberg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6966-6834",
+        "authenticated-orcid": false,
+        "given": "Ryan C.",
+        "family": "Yeung",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1467-0342",
+        "authenticated-orcid": false,
+        "given": "Myra A.",
+        "family": "Fernandes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1717_CR1",
+        "unstructured": "Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and interpreting interactions. Sage Publications, Inc."
+      },
+      {
+        "issue": "4",
+        "key": "1717_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "511",
+        "DOI": "10.1177/0305735606067168",
+        "volume": "34",
+        "author": "SO Ali",
+        "year": "2006",
+        "unstructured": "Ali, S. O., & Peynircioğlu, Z. F. (2006). Songs and emotions: Are lyrics and melodies equal partners? Psychology of Music, 34(4), 511–534. https://doi.org/10.1177/0305735606067168",
+        "journal-title": "Psychology of Music"
+      },
+      {
+        "issue": "3",
+        "key": "1717_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "551",
+        "DOI": "10.2307/1422730",
+        "volume": "93",
+        "author": "JC Bartlett",
+        "year": "1980",
+        "unstructured": "Bartlett, J. C., & Snelus, P. (1980). Lifespan memory for popular songs. The American Journal of Psychology, 93(3), 551–560. https://doi.org/10.2307/1422730",
+        "journal-title": "The American Journal of Psychology"
+      },
+      {
+        "issue": "7",
+        "key": "1717_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "979",
+        "DOI": "10.1080/09658211.2015.1061012",
+        "volume": "24",
+        "author": "AM Belfi",
+        "year": "2016",
+        "unstructured": "Belfi, A. M., Karlan, B., & Tranel, D. (2016). Music evokes vivid autobiographical memories. Memory, 24(7), 979–989. https://doi.org/10.1080/09658211.2015.1061012",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "1717_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "103305",
+        "DOI": "10.1016/j.concog.2022.103305",
+        "volume": "100",
+        "author": "AM Belfi",
+        "year": "2022",
+        "unstructured": "Belfi, A. M., Bai, E., Stroud, A., Twohy, R., & Beadle, J. N. (2022). Investigating the role of involuntary retrieval in music-evoked autobiographical memories. Consciousness and Cognition, 100, 103305. https://doi.org/10.1016/j.concog.2022.103305",
+        "journal-title": "Consciousness and Cognition"
+      },
+      {
+        "issue": "2",
+        "key": "1717_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "449",
+        "DOI": "10.3758/MC.36.2.449",
+        "volume": "36",
+        "author": "D Berntsen",
+        "year": "2008",
+        "unstructured": "Berntsen, D., & Rubin, D. C. (2008). The reappearance hypothesis revisited: Recurrent involuntary memories after traumatic events and in everyday life. Memory & Cognition, 36(2), 449–460. https://doi.org/10.3758/MC.36.2.449",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "issue": "6",
+        "key": "1717_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "993",
+        "DOI": "10.1037/emo0000606",
+        "volume": "20",
+        "author": "E Bliss-Moreau",
+        "year": "2020",
+        "unstructured": "Bliss-Moreau, E., Williams, L. A., & Santistevan, A. C. (2020). The immutability of valence and arousal in the foundation of emotion. Emotion, 20(6), 993–1004. https://doi.org/10.1037/emo0000606",
+        "journal-title": "Emotion"
+      },
+      {
+        "issue": "2",
+        "key": "1717_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "157",
+        "DOI": "10.1177/0305735607085010",
+        "volume": "36",
+        "author": "ET Cady",
+        "year": "2008",
+        "unstructured": "Cady, E. T., Harris, R. J., & Knappenberger, J. B. (2008). Using music to cue autobiographical memories of different lifetime periods. Psychology of Music, 36(2), 157–178. https://doi.org/10.1177/0305735607085010",
+        "journal-title": "Psychology of Music"
+      },
+      {
+        "issue": "2",
+        "key": "1717_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "194",
+        "DOI": "10.1177/0305735617748205",
+        "volume": "47",
+        "author": "PG Christenson",
+        "year": "2019",
+        "unstructured": "Christenson, P. G., de Haan-Rietdijk, S., Roberts, D. F., & ter Bogt, T. F. M. (2019). What has America been singing about? Trends in themes in the U.S. top-40 songs: 1960–2010. Psychology of Music, 47(2), 194–212. https://doi.org/10.1177/0305735617748205",
+        "journal-title": "Psychology of Music"
+      },
+      {
+        "issue": "4",
+        "key": "1717_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "594",
+        "DOI": "10.1016/j.jml.2005.08.005",
+        "volume": "53",
+        "author": "MA Conway",
+        "year": "2005",
+        "unstructured": "Conway, M. A. (2005). Memory and the self. Journal of Memory and Language, 53(4), 594–628. https://doi.org/10.1016/j.jml.2005.08.005",
+        "journal-title": "Journal of Memory and Language"
+      },
+      {
+        "issue": "2",
+        "key": "1717_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "261",
+        "DOI": "10.1037/0033-295x.107.2.261",
+        "volume": "107",
+        "author": "MA Conway",
+        "year": "2000",
+        "unstructured": "Conway, M. A., & Pleydell-Pearce, C. W. (2000). The construction of autobiographical memories in the self-memory system. Psychological Review, 107(2), 261–288. https://doi.org/10.1037/0033-295x.107.2.261",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "5",
+        "key": "1717_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "517",
+        "DOI": "10.3758/bf03334277",
+        "volume": "4",
+        "author": "HF Crovitz",
+        "year": "1974",
+        "unstructured": "Crovitz, H. F., & Schiffman, H. (1974). Frequency of episodic memories as a function of their age. Bulletin of the Psychonomic Society, 4(5), 517–518. https://doi.org/10.3758/bf03334277",
+        "journal-title": "Bulletin of the Psychonomic Society"
+      },
+      {
+        "key": "1717_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1149",
+        "DOI": "10.3758/BRM.41.4.1149",
+        "volume": "41",
+        "author": "F Faul",
+        "year": "2009",
+        "unstructured": "Faul, F., Erdfelder, E., Buchner, A. et al. (2009) Statistical power analyses using G*Power 3.1: Tests for correlation and regression analyses. Behavior Research Methods, 41, 1149–1160. https://doi.org/10.3758/BRM.41.4.1149",
+        "journal-title": "Behavior Research Methods"
+      },
+      {
+        "issue": "2",
+        "key": "1717_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "149",
+        "DOI": "10.1093/brain/2.2.149",
+        "volume": "2",
+        "author": "F Galton",
+        "year": "1879",
+        "unstructured": "Galton, F. (1879). Psychometric experiments. Brain, 2(2), 149–162. https://doi.org/10.1093/brain/2.2.149",
+        "journal-title": "Brain"
+      },
+      {
+        "issue": "1",
+        "key": "1717_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "48",
+        "DOI": "10.1080/09658210701333271",
+        "volume": "16",
+        "author": "NM Hall",
+        "year": "2008",
+        "unstructured": "Hall, N. M., & Berntsen, D. (2008). The effect of emotional stress on involuntary and voluntary conscious memories. Memory, 16(1), 48–57. https://doi.org/10.1080/09658210701333271",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "5",
+        "key": "1717_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "561",
+        "DOI": "10.1525/mp.2018.35.5.561",
+        "volume": "35",
+        "author": "AR Halpern",
+        "year": "2018",
+        "unstructured": "Halpern, A. R., Talarico, J. M., Gouda, N., & Williamson, V. J. (2018). Are musical autobiographical memories special? It ain’t necessarily so. Music Perception, 35(5), 561–572. https://doi.org/10.1525/mp.2018.35.5.561",
+        "journal-title": "It ain’t necessarily so. Music Perception"
+      },
+      {
+        "issue": "9",
+        "key": "1717_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1281",
+        "DOI": "10.1016/j.neuropsychologia.2003.12.017",
+        "volume": "42",
+        "author": "AR Halpern",
+        "year": "2004",
+        "unstructured": "Halpern, A. R., Zatorre, R. J., Bouffard, M., & Johnson, J. A. (2004). Behavioral and neural correlates of perceived and imagined musical timbre. Neuropsychologia, 42(9), 1281–1292. https://doi.org/10.1016/j.neuropsychologia.2003.12.017",
+        "journal-title": "Neuropsychologia"
+      },
+      {
+        "issue": "1",
+        "key": "1717_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "88",
+        "DOI": "10.1016/j.plrev.2010.01.006",
+        "volume": "7",
+        "author": "AC Holland",
+        "year": "2010",
+        "unstructured": "Holland, A. C., & Kensinger, E. A. (2010). Emotion and autobiographical memory. Physics of Life Reviews, 7(1), 88–131. https://doi.org/10.1016/j.plrev.2010.01.006",
+        "journal-title": "Physics of Life Reviews"
+      },
+      {
+        "issue": "1",
+        "key": "1717_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "108",
+        "DOI": "10.1159/000093487",
+        "volume": "22",
+        "author": "M Irish",
+        "year": "2006",
+        "unstructured": "Irish, M., Cunningham, C. J., Walsh, J. B., Coakley, D., Lawlor, B. A., Robertson, I. H., & Coen, R. F. (2006). Investigating the enhancing effect of music on autobiographical memory in mild Alzheimer’s disease. Dementia and Geriatric Cognitive Disorders, 22(1), 108–120. https://doi.org/10.1159/000093487",
+        "journal-title": "Dementia and Geriatric Cognitive Disorders"
+      },
+      {
+        "issue": "2",
+        "key": "1717_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "272",
+        "DOI": "10.1016/j.jarmac.2021.09.002",
+        "volume": "11",
+        "author": "K Jakubowski",
+        "year": "2022",
+        "unstructured": "Jakubowski, K., & Eerola, T. (2022). Music evokes fewer but more positive autobiographical memories than emotionally matched sound and word cues. Journal of Applied Research in Memory and Cognition, 11(2), 272–288. https://doi.org/10.1016/j.jarmac.2021.09.002",
+        "journal-title": "Journal of Applied Research in Memory and Cognition"
+      },
+      {
+        "issue": "5",
+        "key": "1717_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "435",
+        "DOI": "10.1525/mp.2021.38.5.435",
+        "volume": "38",
+        "author": "K Jakubowski",
+        "year": "2021",
+        "unstructured": "Jakubowski, K., Belfi, A. M., & Eerola, T. (2021). Phenomenological differences in music- and television-evoked autobiographical memories. Music Perception, 38(5), 435–455. https://doi.org/10.1525/mp.2021.38.5.435",
+        "journal-title": "Music Perception"
+      },
+      {
+        "key": "1717_CR22",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Jakubowski, K., Lee, E., Bai, E., & Belfi, A. M. (2024). Individual differences in music-evoked autobiographical memories. Musicae Scientiae, 0(0). https://doi.org/10.1177/10298649241288173",
+        "DOI": "10.1177/10298649241288173"
+      },
+      {
+        "issue": "8",
+        "key": "1717_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "845",
+        "DOI": "10.1080/09658210701734593",
+        "volume": "15",
+        "author": "P Janata",
+        "year": "2007",
+        "unstructured": "Janata, P., Tomic, S. T., & Rakowski, S. K. (2007). Characterisation of music-evoked autobiographical memories. Memory, 15(8), 845–860. https://doi.org/10.1080/09658210701734593",
+        "journal-title": "Memory"
+      },
+      {
+        "key": "1717_CR24",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Kaiser, A. P., & Berntsen, D. (2023). The cognitive characteristics of music‐evoked autobiographical memories: Evidence from a systematic review of clinical investigations. WIREs Cognitive Science, 14(3). https://doi.org/10.1002/wcs.1627",
+        "DOI": "10.1002/wcs.1627"
+      },
+      {
+        "key": "1717_CR25",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Kathios, N., Patel, A.D., & Loui, P. (2024). Musical anhedonia, timbre, and the rewards of music listening. Cognition, 243, 105672. https://doi.org/10.1016/j.cognition.2023.105672",
+        "DOI": "10.1016/j.cognition.2023.105672"
+      },
+      {
+        "issue": "8",
+        "key": "1717_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "906",
+        "DOI": "10.1037/neu0000486",
+        "volume": "32",
+        "author": "M Kirk",
+        "year": "2018",
+        "unstructured": "Kirk, M., & Berntsen, D. (2018). The life span distribution of autobiographical memory in Alzheimer’s disease. Neuropsychology, 32(8), 906–919. https://doi.org/10.1037/neu0000486",
+        "journal-title": "Neuropsychology"
+      },
+      {
+        "key": "1717_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "51",
+        "DOI": "10.1007/978-1-4419-6114-3_3",
+        "volume-title": "Music Perception",
+        "author": "CL Krumhansl",
+        "year": "2010",
+        "unstructured": "Krumhansl, C. L., & Cuddy, L. L. (2010). A Theory of Tonal Hierarchies in Music. In M. Riess Jones, R. R. Fay, & A. N. Popper (Eds.), Music Perception (pp. 51–87). Springer. https://doi.org/10.1007/978-1-4419-6114-3_3"
+      },
+      {
+        "key": "1717_CR28",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Kumar, K., Kumar, R., de Boissiere, T., Gestin, L., Teoh, W. Z., Sotelo, J., de Brébisson, A., Bengio, Y., & Courville, A. C. (2019). MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis. Advances in Neural Information Processing Systems 32 (NeurIPS 2019). https://doi.org/10.48550/arxiv.1910.06711",
+        "DOI": "10.48550/arxiv.1910.06711"
+      },
+      {
+        "key": "1717_CR29",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Liu, B., Zhang, L. (2012). A survey of opinion mining and sentiment analysis. In C. C. Aggarwal & C. X. Zhai (Eds.), Mining text data. Springer. https://doi.org/10.1007/978-1-4614-3223-4_13",
+        "DOI": "10.1007/978-1-4614-3223-4_13"
+      },
+      {
+        "key": "1717_CR30",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Mauch, M., MacCallum, R. M., Levy, M., & Leroi, A. M. (2015). The evolution of popular music: USA 1960–2010. Royal Society Open Science, 2(5), 150081. \nhttps://doi.org/10.1098/rsos.150081",
+        "DOI": "10.1098/rsos.150081"
+      },
+      {
+        "key": "1717_CR31",
+        "first-page": "238",
+        "volume-title": "18th Sound and Music Computing Conference (SMC 2021)",
+        "author": "R Panda",
+        "year": "2021",
+        "unstructured": "Panda, R., Redinho, H., Gonçalves, C., Malheiro, R., & Paiva, R. P. (2021). How does the Spotify API compare to the music emotion recognition state-of-the-art? 18th Sound and Music Computing Conference (SMC 2021) (pp. 238–245). Axea sas/SMC Network."
+      },
+      {
+        "issue": "4",
+        "key": "1717_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "1280",
+        "DOI": "10.1177/03057356211045114",
+        "volume": "50",
+        "author": "KC Putter",
+        "year": "2022",
+        "unstructured": "Putter, K. C., Krause, A. E., & North, A. C. (2022). Popular music lyrics and the COVID-19 pandemic. Psychology of Music, 50(4), 1280–1295. https://doi.org/10.1177/03057356211045114",
+        "journal-title": "Psychology of Music"
+      },
+      {
+        "key": "1717_CR33",
+        "unstructured": "Rinker, T. W. (2021). sentimentr: Calculate text polarity sentiment version 2.9.0. https://github.com/trinker/sentimentr"
+      },
+      {
+        "key": "1717_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "525",
+        "DOI": "10.1111/j.1756-8765.2012.01223",
+        "volume": "4",
+        "author": "M Rohrmeier",
+        "year": "2012",
+        "unstructured": "Rohrmeier, M., & Rebuschat, P. (2012). Implicit learning and acquisition of music. Topics in Cognitive Science., 4, 525–553. https://doi.org/10.1111/j.1756-8765.2012.01223",
+        "journal-title": "Topics in Cognitive Science."
+      },
+      {
+        "key": "1717_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "225",
+        "DOI": "10.3758/PBR.16.2.225",
+        "volume": "16",
+        "author": "JN Rouder",
+        "year": "2009",
+        "unstructured": "Rouder, J. N., Speckman, P. L., Sun, D., Morey, R. D., & Iverson, G. (2009). Bayesian t tests for accepting and rejecting the null hypothesis. Psychonomic Bulletin & Review, 16, 225–237. https://doi.org/10.3758/PBR.16.2.225",
+        "journal-title": "Psychonomic Bulletin & Review"
+      },
+      {
+        "issue": "8",
+        "key": "1717_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "802",
+        "DOI": "10.1080/09658210903130764",
+        "volume": "17",
+        "author": "DC Rubin",
+        "year": "2009",
+        "unstructured": "Rubin, D. C., & Talarico, J. M. (2009). A comparison of dimensional models of emotion: Evidence from emotions, prototypical events, autobiographical memories, and words. Memory, 17(8), 802–808. https://doi.org/10.1080/09658210903130764",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "5",
+        "key": "1717_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "805",
+        "DOI": "10.1037/0022-3514.76.5.805",
+        "volume": "76",
+        "author": "JA Russell",
+        "year": "1999",
+        "unstructured": "Russell, J. A., & Barrett, L. F. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. Journal of Personality and Social Psychology, 76(5), 805–819. https://doi.org/10.1037/0022-3514.76.5.805",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "1717_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "1025",
+        "DOI": "10.3758/bf03193210",
+        "volume": "33",
+        "author": "MD Schulkind",
+        "year": "2005",
+        "unstructured": "Schulkind, M. D., & Woldorf, G. M. (2005). Emotional organization of autobiographical memory. Memory & Cognition, 33(6), 1025–1035. https://doi.org/10.3758/bf03193210",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "issue": "6",
+        "key": "1717_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "948",
+        "DOI": "10.3758/bf03201225",
+        "volume": "27",
+        "author": "MD Schulkind",
+        "year": "1999",
+        "unstructured": "Schulkind, M. D., Hennis, L. K., & Rubin, D. C. (1999). Music, emotion, and autobiographical memory: they're playing your song. Memory & Cognition, 27(6), 948–955. https://doi.org/10.3758/bf03201225",
+        "journal-title": "Memory & Cognition"
+      },
+      {
+        "key": "1717_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.cognition.2020.104217",
+        "volume": "198",
+        "author": "S Sheldon",
+        "year": "2020",
+        "unstructured": "Sheldon, S., Williams, K., Harrington, S., & Otto, R. (2020). Emotional cue effects on accessing and elaborating upon autobiographical memories. Cognition, 198, 1–9. https://doi.org/10.1016/j.cognition.2020.104217",
+        "journal-title": "Cognition"
+      },
+      {
+        "issue": "3",
+        "key": "1717_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "423",
+        "DOI": "10.1037/0033-2909.124.3.423",
+        "volume": "124",
+        "author": "MS Shum",
+        "year": "1998",
+        "unstructured": "Shum, M. S. (1998). The role of temporal landmarks in autobiographical memory processes. Psychological Bulletin, 124(3), 423–442. https://doi.org/10.1037/0033-2909.124.3.423",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "6",
+        "key": "1717_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "965",
+        "DOI": "10.1037/emo0000603",
+        "volume": "20",
+        "author": "S Simpson",
+        "year": "2020",
+        "unstructured": "Simpson, S., & Sheldon, S. (2020). Testing the impact of emotional mood and cue characteristics on detailed autobiographical memory retrieval. Emotion, 20(6), 965–979. https://doi.org/10.1037/emo0000603",
+        "journal-title": "Emotion"
+      },
+      {
+        "issue": "1",
+        "key": "1717_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "31",
+        "DOI": "10.2466/pms.1997.85.1.31",
+        "volume": "85",
+        "author": "SD Sousou",
+        "year": "1997",
+        "unstructured": "Sousou, S. D. (1997). Effects of melody and lyrics on mood and memory. Perceptual and Motor Skills, 85(1), 31–40. https://doi.org/10.2466/pms.1997.85.1.31",
+        "journal-title": "Perceptual and Motor Skills"
+      },
+      {
+        "key": "1717_CR44",
+        "unstructured": "Spotify (n. d.). Get track's audio features. Spotify for Developers. https://web.archive.org/web/20231002013525/https://developer.spotify.com/documentation/web-api/reference/get-audio-features. Accessed 15 May 2024."
+      },
+      {
+        "key": "1717_CR45",
+        "unstructured": "The Echo Nest (n. d.). The echo nest advanced playlisting. The echo nest platform – whitepapers. https://web.archive.org/web/20111110082436/https://echonest-corp.s3.amazonaws.com/docs/whitepapers/AdvancedPlaylisting-1_0.pdf. Accessed 15 May 2024."
+      },
+      {
+        "key": "1717_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "84",
+        "DOI": "10.1109/SPW.2019.00026",
+        "volume": "2019",
+        "author": "T Vaidya",
+        "year": "2019",
+        "unstructured": "Vaidya, T., & Sherr, M. (2019). You talk too much: Limiting privacy exposure via voice input. IEEE Security and Privacy Workshops (SPW), 2019, 84–91. https://doi.org/10.1109/SPW.2019.00026",
+        "journal-title": "IEEE Security and Privacy Workshops (SPW)"
+      },
+      {
+        "issue": "2",
+        "key": "1717_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "203",
+        "DOI": "10.1037/1089-2680.7.2.203",
+        "volume": "7",
+        "author": "WR Walker",
+        "year": "2003",
+        "unstructured": "Walker, W. R., Skowronski, J. J., & Thompson, C. P. (2003). Life is pleasant—and memory helps to keep it that way! Review of General Psychology, 7(2), 203–210. https://doi.org/10.1037/1089-2680.7.2.203",
+        "journal-title": "Review of General Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "1717_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "144",
+        "DOI": "10.1037/0021-843X.95.2.144",
+        "volume": "95",
+        "author": "JM Williams",
+        "year": "1986",
+        "unstructured": "Williams, J. M., & Broadbent, K. (1986). Autobiographical memory in suicide attempters. Journal of Abnormal Psychology, 95(2), 144–149. https://doi.org/10.1037/0021-843X.95.2.144",
+        "journal-title": "Journal of Abnormal Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "1717_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "753",
+        "DOI": "10.1080/09658211.2020.1777312",
+        "volume": "28",
+        "author": "RC Yeung",
+        "year": "2020",
+        "unstructured": "Yeung, R. C., & Fernandes, M. A. (2020). Recurrent involuntary autobiographical memories: Characteristics and links to mental health status. Memory, 28(6), 753–765. https://doi.org/10.1080/09658211.2020.1777312",
+        "journal-title": "Memory"
+      },
+      {
+        "issue": "6",
+        "key": "1717_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "831",
+        "DOI": "10.1080/09658211.2016.1224353",
+        "volume": "25",
+        "author": "K Zator",
+        "year": "2017",
+        "unstructured": "Zator, K., & Katz, A. N. (2017). The language used in describing autobiographical memories prompted by life period visually presented verbal cues, event-specific visually presented verbal cues and short musical clips of popular music. Memory, 25(6), 831–844. https://doi.org/10.1080/09658211.2016.1224353",
+        "journal-title": "Memory"
+      }
+    ],
+    "container-title": [
+      "Memory &amp; Cognition"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.3758/s13421-025-01717-w.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.3758/s13421-025-01717-w",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.3758/s13421-025-01717-w.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          5
+        ]
+      ],
+      "date-time": "2026-05-05T00:01:58Z",
+      "timestamp": 1777939318000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.3758/s13421-025-01717-w"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          5
+        ]
+      ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1717"
+    ],
+    "URL": "https://doi.org/10.3758/s13421-025-01717-w",
+    "relation": {},
+    "ISSN": [
+      "0090-502X",
+      "1532-5946"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-502X",
+        "type": "print"
+      },
+      {
+        "value": "1532-5946",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "3 April 2025",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "5 May 2025",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare no conflicts of interests or competing interests.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflicts of interests/Competing interests"
+        }
+      },
+      {
+        "value": "This content has been made available to all.",
+        "name": "free",
+        "label": "Free to read"
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          3
+        ]
+      ],
+      "date-time": "2026-10-03T08:58:31Z",
+      "timestamp": 1791017911062,
+      "version": "4.1.0"
+    },
+    "reference-count": 28,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2010-05-01T00:00:00Z",
+          "timestamp": 1272672000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Commun. ACM"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Rather than try to capture everything, system design should focus on the psychological basis of human memory.</jats:p>",
+    "DOI": "10.1145/1735223.1735243",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          4,
+          27
+        ]
+      ],
+      "date-time": "2010-04-27T08:45:25Z",
+      "timestamp": 1272357925000
+    },
+    "page": "70-77",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 288,
+    "title": [
+      "Beyond total capture"
+    ],
+    "prefix": "10.1145",
+    "volume": "53",
+    "author": [
+      {
+        "given": "Abigail J.",
+        "family": "Sellen",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Microsoft Research in Cambridge, U.K. and University of Nottingham, U.K."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Steve",
+        "family": "Whittaker",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "IBM Almaden Research Center, San Jose, CA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_1_1_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1147/sj.384.0508"
+      },
+      {
+        "key": "e_1_2_1_2_1",
+        "volume-title": "Dutton",
+        "author": "Bell G.",
+        "year": "2009"
+      },
+      {
+        "key": "e_1_2_1_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1402256.1402259"
+      },
+      {
+        "key": "e_1_2_1_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09602010601029780"
+      },
+      {
+        "key": "e_1_2_1_5_1",
+        "volume-title": "Remembering Reconsidered: Ecological and Traditional Approaches to the Study of Memory",
+        "author": "Brewer W.",
+        "year": "1988"
+      },
+      {
+        "key": "e_1_2_1_6_1",
+        "first-page": "116",
+        "article-title": "and other mysterious mechanisms. In Metacognition, Motivation, and Understanding, F.E. Weinert and R.H. Kluwe, Eds. Lawrence Erlbaum Associates, Hillsdale",
+        "volume": "65",
+        "author": "Brown A.",
+        "year": "1987",
+        "journal-title": "NJ"
+      },
+      {
+        "key": "e_1_2_1_7_1",
+        "first-page": "1",
+        "article-title": "As we may think",
+        "volume": "176",
+        "author": "Bush V",
+        "year": "1945",
+        "journal-title": "Atlantic Monthly"
+      },
+      {
+        "key": "e_1_2_1_8_1",
+        "volume-title": "Open University Press",
+        "author": "Conway M.",
+        "year": "1990"
+      },
+      {
+        "key": "e_1_2_1_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1107458.1107489"
+      },
+      {
+        "key": "e_1_2_1_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/860435.860451"
+      },
+      {
+        "key": "e_1_2_1_11_1",
+        "volume-title": "Proceedings of the AAAI Fall Symposium on AI Applications in Knowledge",
+        "author": "Freeman E.",
+        "year": "1995"
+      },
+      {
+        "key": "e_1_2_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1107458.1107460"
+      },
+      {
+        "key": "e_1_2_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1394445.1394474"
+      },
+      {
+        "key": "e_1_2_1_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/11853565_11"
+      },
+      {
+        "key": "e_1_2_1_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/973264.973270"
+      },
+      {
+        "key": "e_1_2_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1240624.1240635"
+      },
+      {
+        "key": "e_1_2_1_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/comjnl/37.3.153"
+      },
+      {
+        "key": "e_1_2_1_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/2.566147"
+      },
+      {
+        "key": "e_1_2_1_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0279-7"
+      },
+      {
+        "key": "e_1_2_1_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1142/S0218194004001543"
+      },
+      {
+        "key": "e_1_2_1_21_1",
+        "volume-title": "University",
+        "author": "Russell D.M.",
+        "year": "2007"
+      },
+      {
+        "key": "e_1_2_1_22_1",
+        "volume-title": "Houghton Mifflin",
+        "author": "Schacter D.",
+        "year": "2001"
+      },
+      {
+        "key": "e_1_2_1_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1240624.1240636"
+      },
+      {
+        "key": "e_1_2_1_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/741941433"
+      },
+      {
+        "key": "e_1_2_1_25_1",
+        "volume-title": "Elements of Episodic Memory",
+        "author": "Tulving E.",
+        "year": "1983"
+      },
+      {
+        "key": "e_1_2_1_26_1",
+        "first-page": "417",
+        "article-title": "An audio-based personal memory aid. In Proceedings of Ubicomp (Nottingham, U.K., Sept.). Springer",
+        "volume": "400",
+        "author": "Vermuri S.",
+        "year": "2004",
+        "journal-title": "Berlin"
+      },
+      {
+        "key": "e_1_2_1_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-009-0218-7"
+      },
+      {
+        "key": "e_1_2_1_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00779-007-0146-3"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/1735223.1735243",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/1735223.1735243",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T08:45:32Z",
+      "timestamp": 1750236332000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/1735223.1735243"
+      }
+    },
+    "subtitle": [
+      "a constructive critique of lifelogging"
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          5
+        ]
+      ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1145/1735223.1735243"
+    ],
+    "URL": "https://doi.org/10.1145/1735223.1735243",
+    "relation": {},
+    "ISSN": [
+      "0001-0782",
+      "1557-7317"
+    ],
+    "issn-type": [
+      {
+        "value": "0001-0782",
+        "type": "print"
+      },
+      {
+        "value": "1557-7317",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2010-05-01",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

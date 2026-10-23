@@ -701,5 +701,77 @@
     "date": "2026-10-23",
     "raw": "sources/crossref/7b64b634dae23d19.json",
     "reference_count": 39
+  },
+  {
+    "doi": "10.1145/1735223.1735243",
+    "status": "metadata_obtained",
+    "url": "https://api.crossref.org/works/10.1145%2F1735223.1735243",
+    "date": "2026-10-23",
+    "raw": "sources/crossref/e2aced14ff9f4069.json",
+    "reference_count": 28
+  },
+  {
+    "doi": "10.1002/acp.4033",
+    "status": "metadata_obtained",
+    "url": "https://api.crossref.org/works/10.1002%2Facp.4033",
+    "date": "2026-10-23",
+    "raw": "sources/crossref/6ffc4244b29e77e1.json",
+    "reference_count": 54
+  },
+  {
+    "doi": "10.1108/oir-03-2018-0108",
+    "status": "metadata_obtained",
+    "url": "https://api.crossref.org/works/10.1108%2FOIR-03-2018-0108",
+    "date": "2026-10-23",
+    "raw": "sources/crossref/db881e6fc2109b56.json",
+    "reference_count": 48
+  },
+  {
+    "doi": "10.1016/j.concog.2025.103983",
+    "status": "metadata_obtained",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.concog.2025.103983",
+    "date": "2026-10-23",
+    "raw": "sources/crossref/c4d880a21cf4b55d.json",
+    "reference_count": 60
+  },
+  {
+    "doi": "10.1093/geronb/gbaf093",
+    "status": "metadata_obtained",
+    "url": "https://api.crossref.org/works/10.1093%2Fgeronb%2Fgbaf093",
+    "date": "2026-10-23",
+    "raw": "sources/crossref/6eff20aec82f7082.json",
+    "reference_count": 50
+  },
+  {
+    "doi": "10.3758/s13421-025-01717-w",
+    "status": "metadata_obtained",
+    "url": "https://api.crossref.org/works/10.3758%2Fs13421-025-01717-w",
+    "date": "2026-10-23",
+    "raw": "sources/crossref/88992a78352ad3f1.json",
+    "reference_count": 50
+  },
+  {
+    "doi": "10.1177/0956797614542274",
+    "status": "metadata_obtained",
+    "url": "https://api.crossref.org/works/10.1177%2F0956797614542274",
+    "date": "2026-10-23",
+    "raw": "sources/crossref/12974125c8b877a6.json",
+    "reference_count": 22
+  },
+  {
+    "doi": "10.1017/mem.2026.10057",
+    "status": "metadata_obtained",
+    "url": "https://api.crossref.org/works/10.1017%2Fmem.2026.10057",
+    "date": "2026-10-23",
+    "raw": "sources/crossref/7a9b9839291aef7d.json",
+    "reference_count": 48
+  },
+  {
+    "doi": "10.1016/j.actpsy.2025.104929",
+    "status": "metadata_obtained",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.actpsy.2025.104929",
+    "date": "2026-10-23",
+    "raw": "sources/crossref/b9be399ac4266800.json",
+    "reference_count": 31
   }
 ]

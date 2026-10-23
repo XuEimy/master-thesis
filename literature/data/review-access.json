@@ -1,0 +1,37 @@
+[
+  {
+    "name": "amedia-2024",
+    "url": "https://www.mcm.uni-wuerzburg.de/fileadmin/06110300/2024/Pdfs/Hutmacher_et_al_2024_Understanding_Autobiographical_Memory_in_the_Digital_Age_The_AMEDIA-Model.pdf",
+    "date": "2026-10-23",
+    "status": "downloaded_partially_read",
+    "path": "sources/fulltext/amedia-2024.pdf",
+    "bytes": 1999874,
+    "locator": "摘要及编码、整理概念；文本 80–135、320–385；非完整正文"
+  },
+  {
+    "name": "photobox-2014",
+    "url": "https://www.microsoft.com/en-us/research/uploads/prod/2020/04/Designing-for-Slowness.pdf",
+    "date": "2026-10-23",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "note": "直接下载 403；网页索引摘要及方法片段可读，不代表本机已取得 PDF"
+  },
+  {
+    "name": "memory-printer-2026-preprint",
+    "url": "https://arxiv.org/pdf/2603.13116",
+    "date": "2026-10-23",
+    "status": "downloaded_partially_read",
+    "path": "sources/fulltext/memory-printer-2026-preprint.pdf",
+    "bytes": 45813877,
+    "locator": "方法 355–440、讨论片段 690–735、局限 850–895；作者预印本，非完整正文"
+  },
+  {
+    "name": "mediated-remembering-2025",
+    "url": "https://link.springer.com/content/pdf/10.1186/s41235-025-00627-4.pdf",
+    "date": "2026-10-23",
+    "status": "downloaded_partially_read",
+    "path": "sources/fulltext/mediated-remembering-2025.pdf",
+    "bytes": 1159758,
+    "locator": "方法 158–185、220–280，结果 339–390，讨论 560–610；非完整正文"
+  }
+]
