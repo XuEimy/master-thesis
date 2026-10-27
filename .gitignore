@@ -21,3 +21,10 @@ __pycache__/
 # Registered preprint metadata is small and auditable; candidate snapshots remain local.
 !/literature/sources/datacite/
 /literature/data/候选-*.json
+
+# Local drafts and assets; publish only the selected current route diagram.
+/ChatGPT 图像*.png
+/outputs/*
+!/outputs/framework/
+/outputs/framework/*
+!/outputs/framework/个人回忆唤起研究-技术路线图-16比9.png
