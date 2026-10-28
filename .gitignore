@@ -22,9 +22,10 @@ __pycache__/
 !/literature/sources/datacite/
 /literature/data/候选-*.json
 
-# Local drafts and assets; publish only the selected current route diagram.
+# Local drafts and assets; publish selected research route diagrams.
 /ChatGPT 图像*.png
 /outputs/*
 !/outputs/framework/
 /outputs/framework/*
 !/outputs/framework/个人回忆唤起研究-技术路线图-16比9.png
+!/outputs/technical-route/

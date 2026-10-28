@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2100" viewBox="0 0 1600 2100">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,1 L8,5 L0,9" fill="none" stroke="#456377" stroke-width="1.5"/></marker><marker id="back" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,1 L8,5 L0,9" fill="none" stroke="#b87539" stroke-width="1.5"/></marker></defs>
+<rect width="1600" height="2100" fill="#ffffff"/>
+<g font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif">
+<text x="60" y="65" font-size="40" fill="#183549" font-weight="600">个人回忆唤起研究 · 技术路线</text>
+<text x="60" y="110" font-size="25" fill="#344d60" font-weight="400">研究聚焦：个人线索如何转化为记录内容，并参与 AI 材料组织与影像表达</text>
+<text x="60" y="153" font-size="20" fill="#657783" font-weight="400">拟议研究方案｜实线：研究推进　虚线：依据失败环节返回修订</text>
+<text x="60" y="206" font-size="22" fill="#657783" font-weight="600">研究任务</text>
+<text x="250" y="206" font-size="22" fill="#657783" font-weight="600">研究步骤与关键关系</text>
+<text x="1140" y="206" font-size="22" fill="#657783" font-weight="600">研究方法与阶段产出</text>
+<rect x="250" y="240" width="830" height="110" rx="12" fill="#f3f7fa" stroke="#cbd7df" stroke-width="1.5"/>
+<text x="276" y="277" font-size="27" fill="#183549" font-weight="600">01  确定情境与对象</text>
+<text x="276" y="317" font-size="22" fill="#344d60" font-weight="400">具体亲历事件、已有材料、记录习惯与回看经历</text>
+<path d="M665,350 L665,373" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="250" y="378" width="830" height="165" rx="12" fill="#f3f7fa" stroke="#cbd7df" stroke-width="1.5"/>
+<text x="276" y="415" font-size="27" fill="#183549" font-weight="600">02  分析线索与使用条件</text>
+<path d="M665,543 L665,566" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="250" y="571" width="830" height="125" rx="12" fill="#f3f7fa" stroke="#cbd7df" stroke-width="1.5"/>
+<text x="276" y="608" font-size="27" fill="#183549" font-weight="600">03  建立初步关联框架</text>
+<text x="276" y="648" font-size="22" fill="#344d60" font-weight="400">个人线索 → 记录内容 → 组织与表达方式</text>
+<text x="276" y="679" font-size="22" fill="#344d60" font-weight="400">登记适用情境、证据来源、使用代价与反例</text>
+<path d="M665,696 L665,730" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="250" y="735" width="830" height="165" rx="12" fill="#f3f7fa" stroke="#cbd7df" stroke-width="1.5"/>
+<text x="276" y="772" font-size="27" fill="#183549" font-weight="600">04  联合探索记录与交互方案</text>
+<path d="M665,900 L665,923" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="250" y="928" width="830" height="110" rx="12" fill="#f3f7fa" stroke="#cbd7df" stroke-width="1.5"/>
+<text x="276" y="965" font-size="27" fill="#183549" font-weight="600">05  采集试用与筛选</text>
+<text x="276" y="1005" font-size="22" fill="#344d60" font-weight="400">检查目标线索保留、信息遗漏、操作负担与活动打断</text>
+<path d="M665,1038 L665,1061" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="250" y="1066" width="830" height="110" rx="12" fill="#f3f7fa" stroke="#cbd7df" stroke-width="1.5"/>
+<text x="276" y="1103" font-size="27" fill="#183549" font-weight="600">06  整理可追溯材料</text>
+<text x="276" y="1143" font-size="22" fill="#344d60" font-weight="400">原始记录＋本人补述＋时间与情境信息＋处理记录</text>
+<path d="M665,1176 L665,1210" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="250" y="1215" width="830" height="165" rx="12" fill="#f3f7fa" stroke="#cbd7df" stroke-width="1.5"/>
+<text x="276" y="1252" font-size="27" fill="#183549" font-weight="600">07  开发 AI 辅助与回看交互</text>
+<path d="M665,1380 L665,1403" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="250" y="1408" width="830" height="125" rx="12" fill="#f3f7fa" stroke="#cbd7df" stroke-width="1.5"/>
+<text x="276" y="1445" font-size="27" fill="#183549" font-weight="600">08  整合原型与先导测试</text>
+<text x="276" y="1485" font-size="22" fill="#344d60" font-weight="400">采集 → 关联 → 线索确认 → AI 组织与表达 → 回看修改</text>
+<text x="276" y="1516" font-size="22" fill="#344d60" font-weight="400">检查可运行性、任务理解、条件差异；确定测量与研究规模</text>
+<path d="M665,1533 L665,1567" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="250" y="1572" width="830" height="225" rx="12" fill="#f3f7fa" stroke="#cbd7df" stroke-width="1.5"/>
+<text x="276" y="1609" font-size="27" fill="#183549" font-weight="600">09  比较材料选择与组织依据</text>
+<text x="276" y="1649" font-size="22" fill="#344d60" font-weight="400">候选条件：A 原始材料回看；B AI 按时间／事件组织</text>
+<text x="276" y="1680" font-size="22" fill="#344d60" font-weight="400">主要对照：B ↔ C；C 为 AI 结合本人确认的关键线索组织</text>
+<text x="276" y="1711" font-size="22" fill="#344d60" font-weight="400">核心结果：回忆是否发生、事件与体验内容、表达贴切度</text>
+<text x="276" y="1742" font-size="22" fill="#344d60" font-weight="400">另行评价：来源辨认、可核对事实一致性、使用负担</text>
+<text x="276" y="1773" font-size="22" fill="#344d60" font-weight="400">控制／记录：素材池、输出时长、前期接触、用户投入与顺序</text>
+<path d="M665,1797 L665,1820" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="250" y="1825" width="830" height="125" rx="12" fill="#f3f7fa" stroke="#cbd7df" stroke-width="1.5"/>
+<text x="276" y="1862" font-size="27" fill="#183549" font-weight="600">10  综合结果，验证并修订框架</text>
+<text x="276" y="1902" font-size="22" fill="#344d60" font-weight="400">得到支持／部分条件支持／暂未支持／证据不足</text>
+<text x="276" y="1933" font-size="22" fill="#344d60" font-weight="400">形成有适用边界的关联框架、设计原则与原型</text>
+<path d="M665,438 V524" stroke="#cbd7df"/>
+<text x="276" y="460" font-size="23" fill="#116777" font-weight="600">回忆线索与记录需要</text>
+<text x="276" y="493" font-size="21" fill="#344d60" font-weight="400">材料与讲述对照、信息缺口</text>
+<text x="276" y="521" font-size="21" fill="#344d60" font-weight="400">区分回忆、复述与推断</text>
+<text x="687" y="460" font-size="23" fill="#116777" font-weight="600">记录行为与使用条件</text>
+<text x="687" y="493" font-size="21" fill="#344d60" font-weight="400">记录时机、操作与携带</text>
+<text x="687" y="521" font-size="21" fill="#344d60" font-weight="400">可接受负担及用户控制</text>
+<path d="M665,795 V881" stroke="#cbd7df"/>
+<text x="276" y="817" font-size="23" fill="#116777" font-weight="600">记录策略、输入与硬件</text>
+<text x="276" y="850" font-size="21" fill="#344d60" font-weight="400">按线索需要联合选择</text>
+<text x="276" y="878" font-size="21" fill="#344d60" font-weight="400">采集能力与个人习惯共同约束</text>
+<text x="687" y="817" font-size="23" fill="#116777" font-weight="600">本人参与与交互方式</text>
+<text x="687" y="850" font-size="21" fill="#344d60" font-weight="400">确认线索、补述与修改</text>
+<text x="687" y="878" font-size="21" fill="#344d60" font-weight="400">检查框架能否解释设计取舍</text>
+<path d="M665,1275 V1361" stroke="#cbd7df"/>
+<text x="276" y="1297" font-size="23" fill="#116777" font-weight="600">07A  AI 辅助处理</text>
+<text x="276" y="1330" font-size="21" fill="#344d60" font-weight="400">筛选、检索、事件关联与组织</text>
+<text x="276" y="1358" font-size="21" fill="#344d60" font-weight="400">保留来源，检查遗漏与错误关联</text>
+<text x="687" y="1297" font-size="23" fill="#116777" font-weight="600">07B  回看与表达交互</text>
+<text x="687" y="1330" font-size="21" fill="#344d60" font-weight="400">本人确认、选择、补述与修改</text>
+<text x="687" y="1358" font-size="21" fill="#344d60" font-weight="400">区分表达意图和事实依据</text>
+<rect x="45" y="240" width="145" height="456" rx="12" fill="#eaf2f5" stroke="#eaf2f5" stroke-width="1.5"/>
+<text x="62" y="282" font-size="24" fill="#116777" font-weight="600">任务一</text>
+<text x="62" y="332" font-size="25" fill="#183549" font-weight="600">建立</text>
+<text x="62" y="370" font-size="25" fill="#183549" font-weight="600">关联框架</text>
+<text x="57" y="669" font-size="16" fill="#657783" font-weight="400">RQ1</text>
+<rect x="1130" y="240" width="425" height="456" rx="12" fill="#f8fafb" stroke="#dce3e7" stroke-width="1.5"/>
+<text x="1153" y="282" font-size="22" fill="#344d60" font-weight="400">方法</text>
+<text x="1153" y="317" font-size="22" fill="#344d60" font-weight="400">文献综合、个人材料引谈</text>
+<text x="1153" y="352" font-size="22" fill="#344d60" font-weight="400">情境观察、跨案例分析</text>
+<text x="1153" y="387" font-size="22" fill="#344d60" font-weight="400"></text>
+<text x="1153" y="422" font-size="22" fill="#344d60" font-weight="400">产出</text>
+<text x="1153" y="457" font-size="22" fill="#344d60" font-weight="400">线索与记录需求</text>
+<text x="1153" y="492" font-size="22" fill="#344d60" font-weight="400">有证据的初步关联框架</text>
+<path d="M1080,658 H1125" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="45" y="735" width="145" height="441" rx="12" fill="#eaf2f5" stroke="#eaf2f5" stroke-width="1.5"/>
+<text x="62" y="777" font-size="24" fill="#116777" font-weight="600">任务二</text>
+<text x="62" y="827" font-size="25" fill="#183549" font-weight="600">设计试用</text>
+<text x="62" y="865" font-size="25" fill="#183549" font-weight="600">调整框架</text>
+<text x="57" y="1149" font-size="16" fill="#657783" font-weight="400">RQ2 → RQ3</text>
+<rect x="1130" y="735" width="425" height="441" rx="12" fill="#f8fafb" stroke="#dce3e7" stroke-width="1.5"/>
+<text x="1153" y="777" font-size="22" fill="#344d60" font-weight="400">方法</text>
+<text x="1153" y="812" font-size="22" fill="#344d60" font-weight="400">记录探针、方案比较</text>
+<text x="1153" y="847" font-size="22" fill="#344d60" font-weight="400">采集与交互试用</text>
+<text x="1153" y="882" font-size="22" fill="#344d60" font-weight="400"></text>
+<text x="1153" y="917" font-size="22" fill="#344d60" font-weight="400">产出</text>
+<text x="1153" y="952" font-size="22" fill="#344d60" font-weight="400">记录和交互策略</text>
+<text x="1153" y="987" font-size="22" fill="#344d60" font-weight="400">输入与硬件方案</text>
+<text x="1153" y="1022" font-size="22" fill="#344d60" font-weight="400">可追溯材料集</text>
+<path d="M1080,1138 H1125" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="45" y="1215" width="145" height="318" rx="12" fill="#eaf2f5" stroke="#eaf2f5" stroke-width="1.5"/>
+<text x="62" y="1257" font-size="24" fill="#116777" font-weight="600">任务三</text>
+<text x="62" y="1307" font-size="25" fill="#183549" font-weight="600">实现</text>
+<text x="62" y="1345" font-size="25" fill="#183549" font-weight="600">整合原型</text>
+<text x="57" y="1506" font-size="16" fill="#657783" font-weight="400">RQ3</text>
+<rect x="1130" y="1215" width="425" height="318" rx="12" fill="#f8fafb" stroke="#dce3e7" stroke-width="1.5"/>
+<text x="1153" y="1257" font-size="22" fill="#344d60" font-weight="400">方法</text>
+<text x="1153" y="1292" font-size="22" fill="#344d60" font-weight="400">软硬件集成、错误分析</text>
+<text x="1153" y="1327" font-size="22" fill="#344d60" font-weight="400">先导测试</text>
+<text x="1153" y="1362" font-size="22" fill="#344d60" font-weight="400"></text>
+<text x="1153" y="1397" font-size="22" fill="#344d60" font-weight="400">产出</text>
+<text x="1153" y="1432" font-size="22" fill="#344d60" font-weight="400">可运行的整合原型</text>
+<text x="1153" y="1467" font-size="22" fill="#344d60" font-weight="400">主要比较与测量方案</text>
+<path d="M1080,1495 H1125" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<rect x="45" y="1572" width="145" height="378" rx="12" fill="#eaf2f5" stroke="#eaf2f5" stroke-width="1.5"/>
+<text x="62" y="1614" font-size="24" fill="#116777" font-weight="600">任务四</text>
+<text x="62" y="1664" font-size="25" fill="#183549" font-weight="600">验证</text>
+<text x="62" y="1702" font-size="25" fill="#183549" font-weight="600">完善框架</text>
+<text x="57" y="1923" font-size="16" fill="#657783" font-weight="400">回应 RQ1—3</text>
+<rect x="1130" y="1572" width="425" height="378" rx="12" fill="#f8fafb" stroke="#dce3e7" stroke-width="1.5"/>
+<text x="1153" y="1614" font-size="22" fill="#344d60" font-weight="400">方法</text>
+<text x="1153" y="1649" font-size="22" fill="#344d60" font-weight="400">比较研究、内容编码</text>
+<text x="1153" y="1684" font-size="22" fill="#344d60" font-weight="400">访谈与适当统计分析</text>
+<text x="1153" y="1719" font-size="22" fill="#344d60" font-weight="400"></text>
+<text x="1153" y="1754" font-size="22" fill="#344d60" font-weight="400">产出</text>
+<text x="1153" y="1789" font-size="22" fill="#344d60" font-weight="400">作用证据与失败案例</text>
+<text x="1153" y="1824" font-size="22" fill="#344d60" font-weight="400">修订框架及适用边界</text>
+<path d="M1080,1912 H1125" fill="none" stroke="#456377" stroke-width="2"  marker-end="url(#arrow)"/>
+<path d="M250,1887 H216 V460 H245" fill="none" stroke="#b87539" stroke-width="2" stroke-dasharray="8 7" marker-end="url(#back)"/>
+<path d="M216,817 H245" fill="none" stroke="#b87539" stroke-width="2" stroke-dasharray="8 7" marker-end="url(#back)"/>
+<path d="M216,1297 H245" fill="none" stroke="#b87539" stroke-width="2" stroke-dasharray="8 7" marker-end="url(#back)"/>
+<path d="M1080,983 H1105 V818 H1085" fill="none" stroke="#b87539" stroke-width="2" stroke-dasharray="8 7" marker-end="url(#back)"/>
+<text x="60" y="2000" font-size="21" fill="#925d2e" font-weight="400">反馈修订：线索解释不足 → 02／03；采集不足或负担过高 → 04／05；组织或表达问题 → 07A／07B</text>
+<text x="60" y="2037" font-size="21" fill="#657783" font-weight="400">主要比较聚焦组织依据；具体条件经先导确定。回忆、表达与事实一致性分别判断。</text>
+<text x="60" y="2074" font-size="18" fill="#657783" font-weight="400">依据：第二章研究缺口与第三章研究方案 · 2026-10-28</text>
+</g></svg>
