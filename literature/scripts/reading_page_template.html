@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>文献精读台</title>
+<style>
+:root{
+  --bg:#f7f6f2; --panel:#ffffff; --ink:#1f2328; --muted:#646a73; --line:#e3e1da;
+  --accent:#2f6f5e; --accent-soft:#e3efe9; --warn:#9a5b13; --warn-soft:#f6ecdc;
+  --star:#b8860b; --read:#2f6f5e; --doing:#3d63a8; --chip:#efeee8;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#16181b; --panel:#1e2125; --ink:#e6e6e3; --muted:#9aa0a8; --line:#2f3338;
+    --accent:#6fbfa5; --accent-soft:#1f3a32; --warn:#e0a85e; --warn-soft:#3a2d1c;
+    --star:#e3b341; --read:#6fbfa5; --doing:#86a8e8; --chip:#2a2e33;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#16181b; --panel:#1e2125; --ink:#e6e6e3; --muted:#9aa0a8; --line:#2f3338;
+  --accent:#6fbfa5; --accent-soft:#1f3a32; --warn:#e0a85e; --warn-soft:#3a2d1c;
+  --star:#e3b341; --read:#6fbfa5; --doing:#86a8e8; --chip:#2a2e33;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 -apple-system,"PingFang SC","Noto Sans SC","Microsoft YaHei",sans-serif}
+a{color:var(--accent)}
+.wrap{max-width:1180px;margin:0 auto;padding:0 16px 80px}
+header{padding:28px 0 8px;display:flex;justify-content:space-between;gap:16px;align-items:flex-end;flex-wrap:wrap}
+h1{font-size:24px;margin:0}
+.sub{color:var(--muted);font-size:13px;margin-top:4px}
+nav.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:16px 0 20px;position:sticky;top:0;background:var(--bg);z-index:5;overflow-x:auto}
+nav.tabs button{background:none;border:0;padding:10px 14px;font:inherit;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent;white-space:nowrap}
+nav.tabs button.on{color:var(--ink);border-bottom-color:var(--accent);font-weight:600}
+section.tab{display:none} section.tab.on{display:block}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px 20px;margin-bottom:16px}
+h2{font-size:18px;margin:0 0 10px} h3{font-size:15px;margin:16px 0 6px}
+.muted{color:var(--muted)} .small{font-size:13px}
+.flow{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:8px 0}
+.flow span{background:var(--accent-soft);color:var(--ink);padding:5px 10px;border-radius:6px;font-size:13px}
+.flow i{color:var(--muted);font-style:normal}
+table.plain{border-collapse:collapse;width:100%;font-size:14px}
+table.plain th,table.plain td{border-bottom:1px solid var(--line);padding:8px 6px;text-align:left;vertical-align:top}
+table.plain th{color:var(--muted);font-weight:500;font-size:13px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:16px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.stat b{display:block;font-size:22px} .stat span{color:var(--muted);font-size:13px}
+.bar{height:6px;background:var(--chip);border-radius:3px;overflow:hidden;margin-top:6px}
+.bar i{display:block;height:100%;background:var(--accent)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:12px}
+.filters input[type=search]{flex:1 1 220px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:inherit}
+.filters select{padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:inherit}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.chip{border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:4px 10px;border-radius:999px;font-size:13px;cursor:pointer}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.secHead{margin:22px 0 8px;font-size:15px;font-weight:600;display:flex;justify-content:space-between;gap:8px}
+.secHead span{color:var(--muted);font-weight:400;font-size:13px}
+.item{background:var(--panel);border:1px solid var(--line);border-radius:10px;margin-bottom:8px}
+.row{display:grid;grid-template-columns:44px 64px 1fr 150px 104px;gap:10px;padding:10px 12px;align-items:start;cursor:pointer}
+.num{color:var(--muted);font-variant-numeric:tabular-nums;font-size:13px;padding-top:2px}
+.tier{font-size:12px;padding:2px 7px;border-radius:5px;display:inline-block;white-space:nowrap}
+.tier.jd{background:var(--accent-soft);color:var(--accent)}
+.tier.ld{background:var(--chip);color:var(--muted)}
+.star{color:var(--star)}
+.cite{font-weight:600}
+.ttl{font-style:italic}
+.why{color:var(--muted);font-size:13px;margin-top:2px}
+.acc a,.acc span{font-size:13px}
+.pdf{display:inline-block;background:var(--accent);color:#fff !important;text-decoration:none;padding:3px 9px;border-radius:6px}
+.tag{display:inline-block;font-size:12px;color:var(--muted);border:1px solid var(--line);border-radius:5px;padding:0 6px;margin-left:4px}
+select.st{width:100%;padding:4px;border-radius:6px;border:1px solid var(--line);background:var(--panel);color:var(--ink);font-size:13px}
+.item.s-read{border-left:4px solid var(--read)} .item.s-doing{border-left:4px solid var(--doing)}
+.detail{display:none;padding:0 12px 14px 130px}
+.item.open .detail{display:block}
+.detail .old{background:var(--warn-soft);border-radius:8px;padding:8px 10px;font-size:13px;margin-bottom:10px}
+.detail textarea{width:100%;min-height:110px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);font:inherit;font-size:14px}
+.detail .meta{font-size:13px;color:var(--muted);margin-bottom:8px}
+.btn{border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:6px 12px;border-radius:8px;font:inherit;font-size:13px;cursor:pointer}
+.btn.pri{background:var(--accent);color:#fff;border-color:var(--accent)}
+.note{background:var(--warn-soft);border-radius:8px;padding:10px 12px;font-size:14px}
+.tpl pre{white-space:pre-wrap;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:12px;font-size:13px;line-height:1.6}
+.empty{color:var(--muted);padding:24px;text-align:center}
+@media (max-width:760px){
+  .row{grid-template-columns:36px 1fr;gap:6px 8px}
+  .row .tierc{grid-column:2}
+  .row .main{grid-column:1 / -1}
+  .row .acc,.row .stc{grid-column:span 1}
+  .detail{padding:0 12px 14px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div>
+    <h1>文献精读台</h1>
+    <div class="sub">《面向个人回忆唤起的 AI 辅助生活记录与表达设计研究》· 数据更新 2026-10-30 · 来源 docs/16-文献总表.md</div>
+  </div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <button class="btn" id="themeBtn">切换明暗</button>
+    <button class="btn" id="exportBtn">导出笔记</button>
+    <label class="btn">导入笔记<input type="file" id="importIn" accept=".json" hidden></label>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button data-t="overview" class="on">总览</button>
+  <button data-t="list">文献表</button>
+  <button data-t="card">精读卡模板</button>
+  <button data-t="ch3">第三章对应</button>
+  <button data-t="audit">审核与方法</button>
+</nav>
+
+<!-- 总览 -->
+<section class="tab on" id="t-overview">
+  <div class="stats" id="stats"></div>
+
+  <div class="card">
+    <h2>这一阶段在做什么</h2>
+    <p>导师两次指导的核心：<b>先说清楚该记录什么、这些内容为什么能让人想起往事，并且要有依据；然后才谈硬件和 AI。</b>依据来自你亲自读过的论文。之前第二章的 60 篇引用基本只读到摘要，所以现在从精读开始重建。</p>
+    <div class="flow">
+      <span>精读每篇</span><i>→</i><span>精读卡</span><i>→</i><span>第二章：理论 + 三问题实证 + 变量汇总 + 缺口</span><i>→</i><span>初步框架</span><i>→</i><span>第三章：选关系 → 子问题 → 方法</span><i>→</i><span>形成性调研</span><i>→</i><span>原型</span><i>→</i><span>预实验</span><i>→</i><span>正式比较</span><i>→</i><span>修订框架</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>第二章结构</h2>
+    <table class="plain">
+      <thead><tr><th style="width:190px">节</th><th>回答什么</th><th style="width:90px">文献数</th></tr></thead>
+      <tbody id="secTable"></tbody>
+    </table>
+    <p class="small muted" style="margin-top:10px">2.3–2.5 每节按同一顺序写：理论观点 → 实证发现（自变量 → 因变量） → 设计实践 → 小结：对本研究的启示与缺口。</p>
+  </div>
+
+  <div class="card">
+    <h2>每篇读完回答三件事</h2>
+    <ol>
+      <li>它回答的是<b>留什么、怎么留、怎么用</b>里的哪一个？</li>
+      <li>证据是什么：研究了谁，做了什么，发现了什么？</li>
+      <li>对我的设计意味着什么？哪些情况不适用？</li>
+    </ol>
+    <p class="small muted">在「文献表」里点开任意一篇，就可以直接写笔记；笔记保存在本浏览器中，换浏览器或清除数据前请先「导出笔记」。</p>
+  </div>
+
+  <div class="card">
+    <h2>开题前（11 月 5 日）先读这 6 篇</h2>
+    <div id="starList"></div>
+  </div>
+</section>
+
+<!-- 文献表 -->
+<section class="tab" id="t-list">
+  <div class="chips" id="secChips"></div>
+  <div class="filters">
+    <input type="search" id="q" placeholder="搜索作者、标题、用途…">
+    <select id="fTier"><option value="">全部级别</option><option>精读</option><option>略读</option><option value="star">★ 开题前</option></select>
+    <select id="fAcc"><option value="">全部获取方式</option><option>本地</option><option>浏览器</option><option>浏览器·ACM</option><option>图书馆</option><option>图书馆（专著）</option></select>
+    <select id="fSt"><option value="">全部状态</option><option value="todo">未读</option><option value="doing">在读</option><option value="read">已读</option></select>
+    <select id="fSrc"><option value="">全部来源</option><option>原60</option><option>新增</option></select>
+  </div>
+  <div class="small muted" id="count"></div>
+  <div id="list"></div>
+</section>
+
+<!-- 精读卡模板 -->
+<section class="tab tpl" id="t-card">
+  <div class="card">
+    <h2>精读卡模板</h2>
+    <p>先判断文献类型，再填对应字段。只有实验类研究才有严格意义的自变量和因变量；其他类型提供的是概念、机制、主题或设计维度，不要硬套变量。</p>
+    <h3>共同字段</h3>
+    <pre>编号：
+题录：
+类型：实验 / 理论 / 质性与实地 / 设计与系统 / 综述
+对应问题：留什么 / 怎么留 / 怎么用
+一句话结论：
+对我的设计意味着什么：
+不适用的情况：</pre>
+    <h3>按类型补充</h3>
+    <table class="plain">
+      <thead><tr><th style="width:130px">类型</th><th>需要提取的内容</th></tr></thead>
+      <tbody>
+        <tr><td>实验／准实验</td><td>研究问题或假设；被试（人数、人群）；自变量及其水平；因变量及测量方式；控制了什么；主要结果（方向、是否显著）；局限</td></tr>
+        <tr><td>理论／模型</td><td>核心概念；模型结构（各部分如何关联）；证据从哪来；可推出的设计要求</td></tr>
+        <tr><td>质性／实地</td><td>对象与情境；方法（访谈、日记、部署时长）；主要主题；设计启示</td></tr>
+        <tr><td>设计／系统</td><td>设计目标；系统做了什么；评估方式与结果；可借鉴的设计维度</td></tr>
+        <tr><td>综述</td><td>覆盖范围；分类框架；指出的缺口</td></tr>
+      </tbody>
+    </table>
+    <h3>变量汇总表（2.6 节，读完后填）</h3>
+    <table class="plain">
+      <thead><tr><th>文献</th><th>自变量／比较条件</th><th>因变量</th><th>调节或情境因素</th><th>测量方法</th><th>结论</th></tr></thead>
+      <tbody><tr><td colspan="6" class="muted">把因变量分开写，不要合并：观看意愿、回忆是否发生、细节数量、准确性、情感与意义、使用负担。“个人习惯”在多数研究里是调节因素，不是自变量。</td></tr></tbody>
+    </table>
+    <p class="small muted">精读卡也可以存为文件：<code>literature/reading/编号-作者.md</code>，例如 <code>016-van-den-hoven.md</code>。</p>
+  </div>
+</section>
+
+<!-- 第三章对应 -->
+<section class="tab" id="t-ch3">
+  <div class="card">
+    <h2>第三章：子问题 → 变量 → 方法（候选，待第二章完成后确定）</h2>
+    <table class="plain">
+      <thead><tr><th>子问题</th><th>性质</th><th>可能的自变量</th><th>可能的因变量</th><th>适合的方法</th></tr></thead>
+      <tbody>
+        <tr><td><b>RQ1 留什么</b></td><td>探索性，找出关键线索</td><td>线索类型</td><td>回忆是否发生、细节</td><td>个人材料回看 + 访谈（照片诱导），日记研究</td></tr>
+        <tr><td><b>RQ2 怎么留</b></td><td>探索与设计试用</td><td>记录方式、形式</td><td>线索是否留下、负担与接受度</td><td>记录试用、共创工作坊</td></tr>
+        <tr><td><b>RQ3 怎么用</b></td><td>比较检验</td><td>材料组织方式</td><td>观看意愿、回忆细节、准确性</td><td>原型对照实验 + 访谈</td></tr>
+      </tbody>
+    </table>
+    <h3>需要记住的四点</h3>
+    <ol>
+      <li>不是每篇都有自变量和因变量；按文献类型提取。</li>
+      <li>先有初步框架，再从框架中挑出最值得检验的关系作为自变量和因变量。</li>
+      <li>RQ1、RQ2 的任务是找出并收窄变量，不一定要对照实验；严格比较集中在 RQ3。</li>
+      <li>访谈和问卷只能修正框架，不能证明框架成立；要说明“某种方式更能引起回忆”，必须做比较。</li>
+    </ol>
+  </div>
+  <div class="card">
+    <h2>时间线（docs/09，工作假设）</h2>
+    <table class="plain">
+      <thead><tr><th style="width:130px">时间</th><th>做什么</th></tr></thead>
+      <tbody>
+        <tr><td>现在—11.05</td><td>精读 ★ 6 篇，开题答辩</td></tr>
+        <tr><td>11—12 月</td><td>继续精读；形成性调研：访谈、个人材料回看、日记研究</td></tr>
+        <tr><td>2027.01</td><td>建立框架，中期答辩（暂定 1 月 15 日）</td></tr>
+        <tr><td>2—3 月</td><td>原型：记录方式、硬件、AI 组织与生成</td></tr>
+        <tr><td>4—5 月</td><td>预实验、正式比较研究，修订框架</td></tr>
+        <tr><td>6—7 月</td><td>写作、送审、毕业答辩</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- 审核与方法 -->
+<section class="tab" id="t-audit">
+  <div class="card">
+    <h2>这份表是怎么来的</h2>
+    <ol>
+      <li><b>种子</b>：第二章已引用的 60 篇，加 2026-10-30 补充的 11 篇经典文献，共 69 篇。</li>
+      <li><b>引文追踪</b>（OpenAlex）：向后汇总参考文献约 3,000 篇，向前汇总施引文献约 3,100 篇；只保留与 3 篇及以上种子关联的，得 333 篇候选。</li>
+      <li><b>定向补检</b>：CHI 2026 回忆技术系统综述的 100 条参考文献；关键词补检 AI 辅助回忆、自传体纪录片与家庭影像、声音与气味线索。</li>
+      <li><b>人工筛选</b>：按标题、来源和被引量，部分看摘要；剔除与三个问题无关的条目、非同行评审平台条目，以及对普通个人借鉴有限的临床研究。</li>
+      <li><b>题录核对</b>：每条核对标题、作者、年份、DOI；4 本专著无 DOI。</li>
+    </ol>
+    <p class="note">级别是阅读优先级，不是证据强度。新增文献只看过标题、来源和部分摘要，尚未全文评价。</p>
+  </div>
+  <div class="card">
+    <h2>原有 60 篇的审核结论</h2>
+    <p>精读 22 篇，略读 34 篇，剔除 4 篇。其余 56 篇均为同行评审期刊或会议论文及两篇中文期刊论文，未发现掠夺性期刊。</p>
+    <table class="plain">
+      <thead><tr><th style="width:60px">原编号</th><th>剔除的文献</th><th>原因</th></tr></thead>
+      <tbody>
+        <tr><td>[28]</td><td>刘等 2023，《心理科学进展》，拍照与消费体验</td><td>营销视角，与个人回忆关系弱</td></tr>
+        <tr><td>[39]</td><td>LAD 2023，生活日志数据分析工具的设计模型</td><td>偏工程，对三个问题帮助不大</td></tr>
+        <tr><td>[52]</td><td>高涔朝，CCD 相机怀旧研究</td><td>硕士学位论文，证据等级低，只读到摘要</td></tr>
+        <tr><td>[57]</td><td>Mansfield 2026，AI 对个人叙述的解释</td><td>44 名大学生评价 5 段材料，推论有限</td></tr>
+      </tbody>
+    </table>
+    <p class="small muted">第二章正文中引用这 4 篇的地方需要删除或替换。</p>
+  </div>
+  <div class="card">
+    <h2>下载说明</h2>
+    <ul>
+      <li><b>本地</b>：已在 <code>literature/sources/fulltext/</code>（不进 Git），点「打开 PDF」即可。</li>
+      <li><b>浏览器</b>：开放获取，点 DOI 下载。<b>浏览器·ACM</b>：ACM 已开放获取，但拦截脚本访问，需要手动下载。</li>
+      <li><b>图书馆</b>：需要学校账号。</li>
+      <li>下载后按编号存入 <code>literature/sources/fulltext/</code>，例如 <code>045-作者-年.pdf</code>；重新生成本页后会显示为本地。</li>
+      <li><i>A Design Inquiry into Introspective AI</i> 本地文件是作者 161 页的项目版本，不是 DIS 会议论文本身。</li>
+    </ul>
+  </div>
+</section>
+</div>
+
+<script>
+const DATA = __DATA__;
+const SECS = {
+  '2.1':['2.1 概念与总述','个人回忆、回忆线索、生活记录、AI 辅助表达分别指什么，研究范围到哪里'],
+  '2.2':['2.2 理论基础','回忆为什么会被引起：线索与情境对应、自我与目标的约束、理论如何转成设计要求'],
+  '2.3':['2.3 留什么（RQ1）','哪些线索引起回忆，对谁、在什么条件下'],
+  '2.4':['2.4 怎么留（RQ2）','拍照、自动记录、记录形式对线索与回忆的影响；人们实际怎样记录'],
+  '2.5':['2.5 怎么用（RQ3）','何时、以什么形式重新呈现；AI 组织与生成的作用和风险'],
+  '2.5D':['2.5 补充：自传与纪录片','导师点名：自传与纪录片的表达方式'],
+  'M':['方法与测量','第三章使用：照片诱导访谈、自动评分工具']
+};
+const KEY='thesis-reading-v1';
+let store={};
+try{ store=JSON.parse(localStorage.getItem(KEY)||'{}') }catch(e){ store={} }
+function save(){ try{ localStorage.setItem(KEY,JSON.stringify(store)) }catch(e){} renderStats(); }
+const st = n => (store[n]&&store[n].s)||'todo';
+const pad = n => String(n).padStart(3,'0');
+const esc = s => String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+// theme
+const root=document.documentElement;
+try{ const t=localStorage.getItem('thesis-theme'); if(t) root.dataset.theme=t }catch(e){}
+document.getElementById('themeBtn').onclick=()=>{
+  const dark = root.dataset.theme ? root.dataset.theme==='dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+  root.dataset.theme = dark?'light':'dark';
+  try{ localStorage.setItem('thesis-theme',root.dataset.theme) }catch(e){}
+};
+
+// tabs
+document.querySelectorAll('#tabs button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('#tabs button').forEach(x=>x.classList.toggle('on',x===b));
+  document.querySelectorAll('section.tab').forEach(s=>s.classList.toggle('on',s.id==='t-'+b.dataset.t));
+  try{ localStorage.setItem('thesis-tab',b.dataset.t) }catch(e){}
+});
+try{ const t=localStorage.getItem('thesis-tab'); if(t){ const b=document.querySelector(`#tabs button[data-t="${t}"]`); b&&b.click(); } }catch(e){}
+
+function accHTML(r){
+  if(r.file) return `<a class="pdf" href="sources/fulltext/${encodeURIComponent(r.file)}" target="_blank" onclick="event.stopPropagation()">打开 PDF</a>`;
+  const t=r.acc_type;
+  if(!r.doi) return `<span class="muted">${esc(t)}</span>`;
+  return `<a href="https://doi.org/${esc(r.doi)}" target="_blank" onclick="event.stopPropagation()">${esc(t)} ↗</a>`;
+}
+
+function renderStats(){
+  const total=DATA.length, jd=DATA.filter(r=>r.tier==='精读');
+  const cnt=a=>a.filter(r=>st(r.n)==='read').length;
+  const star=DATA.filter(r=>r.star);
+  const box=(v,l,p)=>`<div class="stat"><b>${v}</b><span>${l}</span>${p!=null?`<div class="bar"><i style="width:${p}%"></i></div>`:''}</div>`;
+  document.getElementById('stats').innerHTML=
+    box(`${cnt(star)} / ${star.length}`,'★ 开题前已读',star.length?cnt(star)/star.length*100:0)+
+    box(`${cnt(jd)} / ${jd.length}`,'精读已读',cnt(jd)/jd.length*100)+
+    box(`${cnt(DATA)} / ${total}`,'全部已读',cnt(DATA)/total*100)+
+    box(DATA.filter(r=>r.file).length,'本地已有 PDF')+
+    box(DATA.filter(r=>!r.file).length,'待你下载');
+}
+
+function renderOverview(){
+  document.getElementById('secTable').innerHTML=Object.entries(SECS).map(([k,[n,d]])=>{
+    const a=DATA.filter(r=>r.sec===k);
+    return `<tr><td><b>${esc(n)}</b></td><td>${esc(d)}</td><td>${a.filter(r=>r.tier==='精读').length} 精 / ${a.length}</td></tr>`;
+  }).join('');
+  document.getElementById('starList').innerHTML='<table class="plain"><tbody>'+DATA.filter(r=>r.star).map(r=>
+    `<tr><td style="width:46px" class="muted">${pad(r.n)}</td><td><span class="cite">${esc(r.cite)}</span>，<span class="ttl">${esc(r.title)}</span><div class="why">${esc(r.why)}</div></td><td style="width:110px">${accHTML(r)}</td></tr>`).join('')+'</tbody></table>';
+}
+
+let fSec='';
+function renderChips(){
+  const all=[['','全部']].concat(Object.entries(SECS).map(([k,v])=>[k,v[0]]));
+  document.getElementById('secChips').innerHTML=all.map(([k,n])=>`<button class="chip ${k===fSec?'on':''}" data-k="${k}">${esc(n)}</button>`).join('');
+  document.querySelectorAll('#secChips .chip').forEach(c=>c.onclick=()=>{fSec=c.dataset.k;renderChips();renderList()});
+}
+
+function renderList(){
+  const q=document.getElementById('q').value.trim().toLowerCase();
+  const fT=document.getElementById('fTier').value, fA=document.getElementById('fAcc').value,
+        fS=document.getElementById('fSt').value, fR=document.getElementById('fSrc').value;
+  const rows=DATA.filter(r=>{
+    if(fSec&&r.sec!==fSec) return false;
+    if(fT==='star'?!r.star:(fT&&r.tier!==fT)) return false;
+    if(fA&&(fA==='本地'?!r.file:(r.file||r.acc_type!==fA))) return false;
+    if(fS&&st(r.n)!==fS) return false;
+    if(fR&&r.src!==fR) return false;
+    if(q){ const h=[r.cite,r.title,r.why,r.venue,r.finding,(store[r.n]||{}).t].join(' ').toLowerCase(); if(!h.includes(q)) return false; }
+    return true;
+  });
+  document.getElementById('count').textContent=`显示 ${rows.length} / ${DATA.length} 篇 · 点击一行展开笔记`;
+  if(!rows.length){ document.getElementById('list').innerHTML='<div class="empty">没有符合条件的文献</div>'; return; }
+  let html='', cur=null;
+  for(const r of rows){
+    if(r.sec!==cur){ cur=r.sec; const a=rows.filter(x=>x.sec===cur); html+=`<div class="secHead">${esc(SECS[cur][0])}<span>${a.length} 篇</span></div>`; }
+    const s=st(r.n), note=(store[r.n]||{}).t||'';
+    html+=`<div class="item s-${s}" data-n="${r.n}">
+      <div class="row">
+        <div class="num">${pad(r.n)}</div>
+        <div class="tierc">${r.star?'<span class="star">★</span>':''}<span class="tier ${r.tier==='精读'?'jd':'ld'}">${r.tier}</span></div>
+        <div class="main"><span class="cite">${esc(r.cite)}</span>，<span class="ttl">${esc(r.title)}</span><span class="tag">${esc(r.src)}</span>${note?'<span class="tag">有笔记</span>':''}<div class="why">${esc(r.why)}</div></div>
+        <div class="acc">${accHTML(r)}</div>
+        <div class="stc"><select class="st" onclick="event.stopPropagation()">
+          <option value="todo"${s==='todo'?' selected':''}>未读</option>
+          <option value="doing"${s==='doing'?' selected':''}>在读</option>
+          <option value="read"${s==='read'?' selected':''}>已读</option></select></div>
+      </div>
+      <div class="detail">
+        <div class="meta">${r.venue?esc(r.venue)+' · ':''}${r.doi?`DOI <a href="https://doi.org/${esc(r.doi)}" target="_blank">${esc(r.doi)}</a>`:'专著，无 DOI'}${r.old?` · 原第二章编号 [${r.old}]`:''}${r.file?` · 本地文件 <code>${esc(r.file)}</code>`:''}</div>
+        ${r.finding?`<div class="old"><b>旧记录（摘要层级，由代理整理，待你核对）</b><br>${esc(r.finding)}${r.boundary?`<br><span class="muted">边界：${esc(r.boundary)}</span>`:''}</div>`:''}
+        <textarea placeholder="对应问题：留什么 / 怎么留 / 怎么用&#10;证据：谁、做了什么、发现了什么&#10;对我的设计意味着什么，哪些情况不适用">${esc(note)}</textarea>
+      </div>
+    </div>`;
+  }
+  const list=document.getElementById('list'); list.innerHTML=html;
+  list.querySelectorAll('.item').forEach(el=>{
+    const n=+el.dataset.n;
+    el.querySelector('.row').onclick=()=>el.classList.toggle('open');
+    el.querySelector('select.st').onchange=e=>{ store[n]=Object.assign(store[n]||{},{s:e.target.value}); el.className=`item s-${e.target.value}${el.classList.contains('open')?' open':''}`; save(); };
+    let tm; el.querySelector('textarea').oninput=e=>{ clearTimeout(tm); tm=setTimeout(()=>{ store[n]=Object.assign(store[n]||{},{t:e.target.value}); save(); },400); };
+  });
+}
+['q','fTier','fAcc','fSt','fSrc'].forEach(id=>document.getElementById(id).addEventListener('input',renderList));
+
+document.getElementById('exportBtn').onclick=()=>{
+  const out={exported:new Date().toISOString(),notes:DATA.filter(r=>store[r.n]).map(r=>({n:r.n,cite:r.cite,title:r.title,doi:r.doi,status:st(r.n),note:(store[r.n]||{}).t||''}))};
+  const a=document.createElement('a'); a.href=URL.createObjectURL(new Blob([JSON.stringify(out,null,1)],{type:'application/json'}));
+  a.download=`精读笔记-${new Date().toISOString().slice(0,10)}.json`; a.click();
+};
+document.getElementById('importIn').onchange=e=>{
+  const f=e.target.files[0]; if(!f) return;
+  f.text().then(t=>{ const d=JSON.parse(t); (d.notes||[]).forEach(x=>{ store[x.n]={s:x.status,t:x.note} }); save(); renderList(); alert('已导入 '+(d.notes||[]).length+' 条'); });
+};
+
+renderStats(); renderOverview(); renderChips(); renderList();
+</script>
+</body>
+</html>
