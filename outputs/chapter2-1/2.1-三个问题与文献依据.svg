@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="1960" viewBox="0 0 1800 1960"><defs><marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#426d7d" stroke-width="1.7"/></marker></defs><rect width="1800" height="1960" fill="white"/><g font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif">
+<text x="60" y="64" font-size="39" fill="#173b4c" font-weight="600" text-anchor="start">2.1 个人回忆与影像表达：三个问题的文献依据</text>
+<text x="60" y="110" font-size="22" fill="#758892" font-weight="400" text-anchor="start">依文献内容重绘的概念示意｜箭头表达理论关系、使用过程或分析关系，不代表统一的因果模型。</text>
+<path d="M60 142 L1740 142" fill="none" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="60" y="188" font-size="34" fill="#147f88" font-weight="600" text-anchor="start">2.1.1</text>
+<text x="190" y="188" font-size="33" fill="#173b4c" font-weight="600" text-anchor="start">个人回忆是什么，又怎样形成？</text>
+<text x="1740" y="188" font-size="20" fill="#758892" font-weight="400" text-anchor="end">理论研究</text>
+<a xlink:href="https://pubmed.ncbi.nlm.nih.gov/10789197/">
+<text x="80" y="245" font-size="22" fill="#147f88" font-weight="600" text-anchor="start">[1] Conway &amp; Pleydell-Pearce（2000）｜自我—记忆系统</text>
+</a>
+<rect x="90" y="285" width="320" height="92" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="250.0" y="322" font-size="26" fill="#294959" font-weight="600" text-anchor="middle">自传体知识</text>
+<text x="250.0" y="358" font-size="21" fill="#294959" font-weight="400" text-anchor="middle">与自身经历有关的知识</text>
+<rect x="500" y="285" width="320" height="92" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="660.0" y="322" font-size="26" fill="#294959" font-weight="600" text-anchor="middle">当前目标</text>
+<text x="660.0" y="358" font-size="21" fill="#294959" font-weight="400" text-anchor="middle">工作自我的关注与目的</text>
+<path d="M425 330 L485 330" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<path d="M250 377 L250 402" fill="none" stroke="#c6d8df" stroke-width="1.5"/>
+<path d="M660 377 L660 402" fill="none" stroke="#c6d8df" stroke-width="1.5"/>
+<path d="M250 402 L660 402" fill="none" stroke="#c6d8df" stroke-width="1.5"/>
+<path d="M455 402 L455 425" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" />
+<rect x="270" y="434" width="370" height="82" rx="13" fill="#dceef0" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="455.0" y="484.0" font-size="25" fill="#294959" font-weight="600" text-anchor="middle">线索引导的提取与建构</text>
+<path d="M455 516 L455 545" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" />
+<text x="455" y="579" font-size="28" fill="#173b4c" font-weight="600" text-anchor="middle">形成具体的自传体回忆</text>
+<path d="M880 238 L880 602" fill="none" stroke="#c6d8df" stroke-width="1.5"/>
+<a xlink:href="https://pubmed.ncbi.nlm.nih.gov/26151796/">
+<text x="950" y="245" font-size="22" fill="#147f88" font-weight="600" text-anchor="start">[2] Rubin（2006）｜基本系统模型</text>
+</a>
+<rect x="990" y="288" width="240" height="62" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="1110.0" y="328.0" font-size="24" fill="#294959" font-weight="600" text-anchor="middle">视觉与听觉</text>
+<rect x="1370" y="288" width="240" height="62" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="1490.0" y="328.0" font-size="24" fill="#294959" font-weight="600" text-anchor="middle">空间与其他感官</text>
+<rect x="990" y="498" width="240" height="62" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="1110.0" y="538.0" font-size="24" fill="#294959" font-weight="600" text-anchor="middle">语言与叙事</text>
+<rect x="1370" y="498" width="240" height="62" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="1490.0" y="538.0" font-size="24" fill="#294959" font-weight="600" text-anchor="middle">情绪等系统</text>
+<rect x="1160" y="389" width="300" height="66" rx="13" fill="#dceef0" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="1310.0" y="431.0" font-size="28" fill="#294959" font-weight="600" text-anchor="middle">情景记忆</text>
+<path d="M1110 354 L1194 384" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<path d="M1490 354 L1427 384" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<path d="M1110 494 L1194 461" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<path d="M1490 494 L1427 461" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" marker-start="url(#arr)"/>
+<text x="1310" y="596" font-size="22" fill="#657c87" font-weight="400" text-anchor="middle">多种系统相互作用；图中仅列部分系统</text>
+<text x="80" y="636" font-size="24" fill="#294959" font-weight="600" text-anchor="start">理论要点：回忆具有建构性；回忆经验涉及多种系统，不能只按画面内容理解。</text>
+<path d="M60 672 L1740 672" fill="none" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="60" y="718" font-size="34" fill="#147f88" font-weight="600" text-anchor="start">2.1.2</text>
+<text x="190" y="718" font-size="33" fill="#173b4c" font-weight="600" text-anchor="start">照片和数字材料怎样参与回想？</text>
+<text x="1740" y="718" font-size="20" fill="#758892" font-weight="400" text-anchor="end">方法研究＋过程观察</text>
+<a xlink:href="https://doi.org/10.1080/14725860220137345">
+<text x="80" y="775" font-size="22" fill="#147f88" font-weight="600" text-anchor="start">[3] Harper（2002）｜照片引谈法</text>
+</a>
+<rect x="80" y="818" width="240" height="80" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="200.0" y="867.0" font-size="25" fill="#294959" font-weight="600" text-anchor="middle">照片进入访谈</text>
+<path d="M330 858 L370 858" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" />
+<rect x="380" y="818" width="240" height="80" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="500.0" y="867.0" font-size="25" fill="#294959" font-weight="600" text-anchor="middle">观看与讨论</text>
+<path d="M630 858 L670 858" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" />
+<rect x="680" y="818" width="230" height="80" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="795.0" y="867.0" font-size="22" fill="#294959" font-weight="600" text-anchor="middle">信息、感受与记忆</text>
+<text x="80" y="943" font-size="23" fill="#294959" font-weight="400" text-anchor="start">方法贡献：观察人如何借助影像讲述经历。</text>
+<text x="80" y="980" font-size="22" fill="#956f47" font-weight="400" text-anchor="start">不能由此推定照片提高回忆准确性。</text>
+<path d="M940 768 L940 1035" fill="none" stroke="#c6d8df" stroke-width="1.5"/>
+<a xlink:href="https://doi.org/10.1186/s41235-025-00627-4">
+<text x="980" y="775" font-size="22" fill="#147f88" font-weight="600" text-anchor="start">[4] Hutmacher 等（2025）｜思维出声研究</text>
+</a>
+<text x="980" y="815" font-size="23" fill="#294959" font-weight="400" text-anchor="start">41 人：回忆约一年前的重要日与随机日</text>
+<rect x="980" y="850" width="270" height="80" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="1115.0" y="899.0" font-size="26" fill="#294959" font-weight="600" text-anchor="middle">内部回忆</text>
+<rect x="1450" y="850" width="270" height="80" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="1585.0" y="899.0" font-size="26" fill="#294959" font-weight="600" text-anchor="middle">外部资源</text>
+<path d="M1266 877 L1434 877" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" />
+<path d="M1434 904 L1266 904" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" />
+<text x="1350" y="955" font-size="22" fill="#147f88" font-weight="600" text-anchor="middle">反复切换</text>
+<text x="980" y="996" font-size="22" fill="#294959" font-weight="400" text-anchor="start">随机日：数字资源使用量与内外切换次数更多。</text>
+<text x="980" y="1031" font-size="21" fill="#657c87" font-weight="400" text-anchor="start">外部资源包括照片等，不限于影像。</text>
+<text x="80" y="1080" font-size="24" fill="#294959" font-weight="600" text-anchor="start">两类依据分别说明：影像可以参与讲述；回忆过程可以在内部经验与外部资料之间往返。</text>
+<path d="M60 1117 L1740 1117" fill="none" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="60" y="1163" font-size="34" fill="#147f88" font-weight="600" text-anchor="start">2.1.3</text>
+<text x="190" y="1163" font-size="33" fill="#173b4c" font-weight="600" text-anchor="start">影像怎样组织经历并表达个人意义？</text>
+<text x="1740" y="1163" font-size="20" fill="#758892" font-weight="400" text-anchor="end">作品分析</text>
+<a xlink:href="https://doi.org/10.1080/17503280.2020.1815123">
+<text x="80" y="1220" font-size="22" fill="#147f88" font-weight="600" text-anchor="start">[5] Rosas &amp; Dittus（2021；在线发表于 2020）｜档案与蒙太奇</text>
+</a>
+<text x="80" y="1260" font-size="23" fill="#294959" font-weight="400" text-anchor="start">研究材料：Tarnation、51 Birch Street、The Marina Experiment 三部自传纪录片</text>
+<rect x="80" y="1310" width="310" height="100" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="235.0" y="1347" font-size="26" fill="#294959" font-weight="600" text-anchor="middle">个人／家庭影像档案</text>
+<text x="235.0" y="1383" font-size="21" fill="#294959" font-weight="400" text-anchor="middle">既有影像材料</text>
+<path d="M402 1360 L472 1360" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" />
+<rect x="485" y="1310" width="350" height="100" rx="13" fill="#dceef0" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="660.0" y="1347" font-size="26" fill="#294959" font-weight="600" text-anchor="middle">选择、蒙太奇与讲述</text>
+<text x="660.0" y="1383" font-size="21" fill="#294959" font-weight="400" text-anchor="middle">赋予材料新的语境</text>
+<path d="M847 1360 L917 1360" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" />
+<rect x="930" y="1310" width="340" height="100" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="1100.0" y="1347" font-size="26" fill="#294959" font-weight="600" text-anchor="middle">自传影像叙事</text>
+<text x="1100.0" y="1383" font-size="21" fill="#294959" font-weight="400" text-anchor="middle">组织过去与当下的理解</text>
+<path d="M1282 1360 L1352 1360" fill="none" stroke="#426d7d" stroke-width="2" marker-end="url(#arr)" />
+<rect x="1365" y="1310" width="350" height="100" rx="13" fill="#edf5f7" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="1540.0" y="1347" font-size="26" fill="#294959" font-weight="600" text-anchor="middle">自我与身份的表达</text>
+<text x="1540.0" y="1383" font-size="21" fill="#294959" font-weight="400" text-anchor="middle">呈现、追问个人意义</text>
+<text x="80" y="1460" font-size="24" fill="#294959" font-weight="600" text-anchor="start">分析重点：个人影像被重新使用和组织，参与作者对自身及家庭关系的理解。</text>
+<text x="80" y="1502" font-size="22" fill="#956f47" font-weight="400" text-anchor="start">适用边界：这是叙事与自我呈现的研究，不能直接作为回忆能力改善的证据。</text>
+<path d="M60 1555 L1740 1555" fill="none" stroke="#c6d8df" stroke-width="1.5"/>
+<text x="60" y="1600" font-size="25" fill="#173b4c" font-weight="600" text-anchor="start">文献出处</text>
+<text x="60" y="1640" font-size="18" fill="#294959" font-weight="400" text-anchor="start">[1] Conway &amp; Pleydell-Pearce. 2000. The construction of autobiographical memories in the self-memory system.</text>
+<text x="60" y="1664" font-size="18" fill="#657c87" font-weight="400" text-anchor="start">Psychological Review, 107(2), 261–288. DOI: 10.1037/0033-295X.107.2.261</text>
+<text x="60" y="1697" font-size="18" fill="#294959" font-weight="400" text-anchor="start">[2] Rubin. 2006. The Basic-Systems Model of Episodic Memory.</text>
+<text x="60" y="1721" font-size="18" fill="#657c87" font-weight="400" text-anchor="start">Perspectives on Psychological Science, 1(4), 277–311. DOI: 10.1111/j.1745-6916.2006.00017.x</text>
+<text x="60" y="1754" font-size="18" fill="#294959" font-weight="400" text-anchor="start">[3] Harper. 2002. Talking about pictures: A case for photo elicitation.</text>
+<text x="60" y="1778" font-size="18" fill="#657c87" font-weight="400" text-anchor="start">Visual Studies, 17(1), 13–26. DOI: 10.1080/14725860220137345</text>
+<text x="60" y="1811" font-size="18" fill="#294959" font-weight="400" text-anchor="start">[4] Hutmacher et al. 2025. Mediated autobiographical remembering in the digital age: insights from an experimental think-aloud study.</text>
+<text x="60" y="1835" font-size="18" fill="#657c87" font-weight="400" text-anchor="start">Cognitive Research: Principles and Implications, 10, 18. DOI: 10.1186/s41235-025-00627-4</text>
+<text x="60" y="1868" font-size="18" fill="#294959" font-weight="400" text-anchor="start">[5] Rosas &amp; Dittus. 2021. The autobiographical documentary: archive and montage to represent the self.</text>
+<text x="60" y="1892" font-size="18" fill="#657c87" font-weight="400" text-anchor="start">Studies in Documentary Film, 15(3), 203–219. DOI: 10.1080/17503280.2020.1815123</text>
+<text x="60" y="1940" font-size="18" fill="#758892" font-weight="400" text-anchor="start">重绘依据：论文摘要与现有章节核读记录；不是论文原图，也不表示本次完成了五篇文献的全文审计。</text>
+</g></svg>

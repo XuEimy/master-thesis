@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="900" viewBox="0 0 1600 900"><defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#176a83" stroke-width="1.7"/></marker></defs><rect width="1600" height="900" fill="#f6fbfd"/><g font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif">
+<text x="70" y="54" font-size="22" fill="#138b91" font-weight="600" text-anchor="start">2.1.2  影像与回忆</text>
+<text x="70" y="117" font-size="39" fill="#163f51" font-weight="600" text-anchor="start">影像怎样参与回想？</text>
+<text x="70" y="165" font-size="26" fill="#176a83" font-weight="400" text-anchor="start">回忆过程可以在内部经验与外部资料之间反复往返。</text>
+<path d="M70 195 H1530" fill="none" stroke="#c9dee5" stroke-width="2.5" />
+<rect x="105" y="255" width="490" height="320" rx="26" fill="#fff" stroke="#b7d2dc" stroke-width="2" />
+<rect x="1005" y="255" width="490" height="320" rx="26" fill="#fff" stroke="#b7d2dc" stroke-width="2" />
+<text x="350" y="315" font-size="34" fill="#163f51" font-weight="600" text-anchor="middle">内部回忆</text>
+<text x="350" y="375" font-size="25" fill="#163f51" font-weight="400" text-anchor="middle">自己想起的人物、行动、对话</text>
+<text x="350" y="420" font-size="25" fill="#163f51" font-weight="400" text-anchor="middle">以及当时的想法和感受</text>
+<text x="350" y="530" font-size="22" fill="#607e8b" font-weight="400" text-anchor="middle">想起了什么？还有什么不清楚？</text>
+<text x="1250" y="315" font-size="34" fill="#163f51" font-weight="600" text-anchor="middle">外部资料</text>
+<rect x="1040" y="348" width="180" height="58" rx="10" fill="#e6f4f6" stroke="#b7d2dc" stroke-width="2" />
+<text x="1130.0" y="386" font-size="25" fill="#163f51" font-weight="400" text-anchor="middle">照片／视频</text>
+<rect x="1250" y="348" width="205" height="58" rx="10" fill="#e6f4f6" stroke="#b7d2dc" stroke-width="2" />
+<text x="1352.5" y="386" font-size="25" fill="#163f51" font-weight="400" text-anchor="middle">聊天记录</text>
+<rect x="1040" y="425" width="180" height="58" rx="10" fill="#e6f4f6" stroke="#b7d2dc" stroke-width="2" />
+<text x="1130.0" y="463" font-size="25" fill="#163f51" font-weight="400" text-anchor="middle">日记</text>
+<rect x="1250" y="425" width="205" height="58" rx="10" fill="#e6f4f6" stroke="#b7d2dc" stroke-width="2" />
+<text x="1352.5" y="463" font-size="25" fill="#163f51" font-weight="400" text-anchor="middle">其他资料</text>
+<text x="1250" y="530" font-size="22" fill="#607e8b" font-weight="400" text-anchor="middle">影像是外部资料的一部分</text>
+<path d="M615 363 H985" fill="none" stroke="#176a83" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="800" y="335" font-size="24" fill="#176a83" font-weight="600" text-anchor="middle">查找、查看资料</text>
+<path d="M985 470 H615" fill="none" stroke="#176a83" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="800" y="511" font-size="24" fill="#176a83" font-weight="600" text-anchor="middle">结合资料继续回想</text>
+<text x="800" y="427" font-size="23" fill="#138b91" font-weight="600" text-anchor="middle">反复往返</text>
+<text x="105" y="623" font-size="23" fill="#138b91" font-weight="600" text-anchor="start">研究观察</text>
+<text x="270" y="623" font-size="24" fill="#163f51" font-weight="400" text-anchor="start">41 人回忆约一年前的重要日与随机日；随机日使用更多数字资源、发生更多切换。</text>
+<text x="105" y="683" font-size="23" fill="#138b91" font-weight="600" text-anchor="start">方法依据</text>
+<text x="270" y="683" font-size="24" fill="#163f51" font-weight="400" text-anchor="start">照片引谈：将照片带入访谈，通过观看与讨论引出信息、感受和记忆。</text>
+<text x="270" y="737" font-size="22" fill="#607e8b" font-weight="400" text-anchor="start">需要区分：从材料中得知信息，与本人重新想起经历。</text>
+<path d="M70 794 H1530" fill="none" stroke="#c9dee5" stroke-width="2.5" />
+<text x="70" y="868" font-size="19" fill="#607e8b" font-weight="400" text-anchor="start">往返关系为研究过程的概括；引出讲述或增加资料使用，不等于提高回忆准确性。</text>
+<a xlink:href="https://doi.org/10.1186/s41235-025-00627-4">
+<text x="70" y="827" font-size="21" fill="#176a83" font-weight="400" text-anchor="start">过程：Hutmacher et al., 2025 · Cognitive Research: Principles and Implications</text>
+</a>
+<a xlink:href="https://doi.org/10.1080/14725860220137345">
+<text x="1100" y="827" font-size="21" fill="#176a83" font-weight="400" text-anchor="start">方法：Harper, 2002 · Visual Studies</text>
+</a>
+</g></svg>

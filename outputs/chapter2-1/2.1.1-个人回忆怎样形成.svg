@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="900" viewBox="0 0 1600 900"><defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#176a83" stroke-width="1.7"/></marker></defs><rect width="1600" height="900" fill="#f6fbfd"/><g font-family="PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif">
+<text x="70" y="54" font-size="22" fill="#138b91" font-weight="600" text-anchor="start">2.1.1  个人回忆</text>
+<text x="70" y="117" font-size="39" fill="#163f51" font-weight="600" text-anchor="start">个人回忆怎样形成？</text>
+<text x="70" y="165" font-size="26" fill="#176a83" font-weight="400" text-anchor="start">既有自传体知识与当前目标共同参与具体回忆的建构。</text>
+<path d="M70 195 H1530" fill="none" stroke="#c9dee5" stroke-width="2.5" />
+<rect x="105" y="250" width="1430" height="355" rx="22" fill="#fff" stroke="#a8ccd6" stroke-width="2" stroke-dasharray="7 7"/>
+<text x="135" y="290" font-size="23" fill="#138b91" font-weight="600" text-anchor="start">自我—记忆系统（简化示意）</text>
+<rect x="145" y="325" width="315" height="100" rx="16" fill="#e6f4f6" stroke="#b7d2dc" stroke-width="2" />
+<text x="302.5" y="385.0" font-size="29" fill="#163f51" font-weight="600" text-anchor="middle">自传体知识</text>
+<rect x="145" y="485" width="315" height="90" rx="16" fill="#e6f4f6" stroke="#b7d2dc" stroke-width="2" />
+<text x="302.5" y="540.0" font-size="29" fill="#163f51" font-weight="600" text-anchor="middle">当前目标</text>
+<path d="M285 439 V471" fill="none" stroke="#176a83" stroke-width="2.5" marker-end="url(#a)"/>
+<path d="M315 471 V439" fill="none" stroke="#176a83" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="328" y="461" font-size="19" fill="#607e8b" font-weight="400" text-anchor="start">相互联系</text>
+<rect x="620" y="375" width="390" height="135" rx="16" fill="#d4edf0" stroke="#b7d2dc" stroke-width="2" />
+<text x="815.0" y="424" font-size="29" fill="#163f51" font-weight="600" text-anchor="middle">线索引导的提取与建构</text>
+<text x="815.0" y="463" font-size="22" fill="#607e8b" font-weight="400" text-anchor="middle">提取、组织与自身有关的信息</text>
+<path d="M460 375 H535 V420 H605" fill="none" stroke="#176a83" stroke-width="2.5" marker-end="url(#a)"/>
+<path d="M460 530 H535 V469 H605" fill="none" stroke="#176a83" stroke-width="2.5" marker-end="url(#a)"/>
+<path d="M1010 443 H1170" fill="none" stroke="#176a83" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="1100" y="417" font-size="21" fill="#176a83" font-weight="400" text-anchor="middle">形成</text>
+<rect x="1185" y="375" width="310" height="135" rx="16" fill="#d4edf0" stroke="#b7d2dc" stroke-width="2" />
+<text x="1340.0" y="424" font-size="29" fill="#163f51" font-weight="600" text-anchor="middle">具体的个人回忆</text>
+<text x="1340.0" y="463" font-size="22" fill="#607e8b" font-weight="400" text-anchor="middle">亲历事件及其体验</text>
+<text x="105" y="654" font-size="23" fill="#138b91" font-weight="600" text-anchor="start">补充视角 · 基本系统模型</text>
+<text x="105" y="690" font-size="25" fill="#163f51" font-weight="400" text-anchor="start">视觉、听觉、空间、语言、情绪与叙事等系统相互作用，共同参与情景记忆。</text>
+<text x="105" y="737" font-size="21" fill="#607e8b" font-weight="400" text-anchor="start">这一模型补充说明回忆经验的多种成分，不与上图合并为同一套理论。</text>
+<path d="M70 794 H1530" fill="none" stroke="#c9dee5" stroke-width="2.5" />
+<text x="70" y="868" font-size="19" fill="#607e8b" font-weight="400" text-anchor="start">依据文献内容重绘；图示省略理论细节，不是论文原图。</text>
+<a xlink:href="https://pubmed.ncbi.nlm.nih.gov/10789197/">
+<text x="70" y="827" font-size="21" fill="#176a83" font-weight="400" text-anchor="start">主图：Conway &amp; Pleydell-Pearce, 2000 · Psychological Review</text>
+</a>
+<a xlink:href="https://pubmed.ncbi.nlm.nih.gov/26151796/">
+<text x="910" y="827" font-size="21" fill="#176a83" font-weight="400" text-anchor="start">补充：Rubin, 2006 · Perspectives on Psychological Science</text>
+</a>
+</g></svg>

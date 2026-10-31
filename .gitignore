@@ -29,3 +29,6 @@ __pycache__/
 /outputs/framework/*
 !/outputs/framework/个人回忆唤起研究-技术路线图-16比9.png
 !/outputs/technical-route/
+
+# Literature-based diagram for section 2.1.
+!/outputs/chapter2-1/
