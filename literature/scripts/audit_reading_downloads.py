@@ -31,6 +31,16 @@ lines = [
 for group in ("浏览器", "浏览器·ACM", "图书馆", "图书馆（专著）"):
     lines.append(f"| {group} | {counts[group]} |")
 
+checks_path = LIT / "data/fulltext-access-checks-20261031.json"
+if checks_path.exists():
+    checks = json.loads(checks_path.read_text(encoding="utf-8"))
+    missing_ids = {r["n"] for r in missing}
+    relevant = [c for c in checks if c["n"] in missing_ids]
+    if relevant:
+        lines += ["", "## 已核查的渠道限制", ""]
+        for check in relevant:
+            lines.append(f"- {check['n']:03d}：{check['date']}，{check['platform']}：{check['status']}。{check['boundary']}")
+
 def table(items):
     result = ["| 编号 | 阅读级别 | 文献 | 来源 | 获取入口 |", "|---|---|---|---|---|"]
     for r in sorted(items, key=lambda x: x["n"]):
