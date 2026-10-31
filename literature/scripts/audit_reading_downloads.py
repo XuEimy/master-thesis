@@ -20,11 +20,16 @@ for row in rows:
         missing.append(row)
 
 today = datetime.now(ZoneInfo("Asia/Shanghai")).date().isoformat()
+supp_path = LIT / "data/fulltext-supplements-20261031.json"
+supp = json.loads(supp_path.read_text()) if supp_path.exists() else []
+text_ids = {s["n"] for s in supp if s["kind"] == "fulltext_text" and (LIT / s["file"]).is_file()}
+text_only = [r for r in missing if r["n"] in text_ids]
 counts = Counter(r["acc_type"] for r in missing)
 lines = [
     "# 当前文献下载缺口", "",
     f"核对日期：{today}。范围：`literature/data/文献总表.json` 的 {len(rows)} 篇；逐项检查本机 `literature/sources/fulltext/` 的文件及 PDF 文件头。", "",
     f"已匹配本地 PDF {len(present)} 篇，缺失 {len(missing)} 篇。目录内其他 PDF 或重复版本不计入已下载篇数；有 PDF 不代表已完成全文核读。", "",
+    f"缺 PDF 的条目中，另有 {len(text_only)} 篇已保存 PMC 全文 TXT/XML（无原始图像及版式）；其余 {len(missing)-len(text_only)} 项尚未取得完整全文，书籍节选不计完整全文。逐项原因与已尝试渠道见[暂未取得全文清单](暂未取得全文-原因与渠道.md)。", "",
     "获取方式沿用 2026-10-30 总表。2026-10-31 已补查出版社、作者和机构库公开版本；原分类不代表当前订阅权限，访问失败也不直接等于付费墙。新增文件来源及版本见 `data/fulltext-downloads-20261031.json`。当前剩余条目仍需继续获取，部分受登录、验证或网络限制。", "",
     "| 原表获取方式 | 缺失篇数 |", "|---|---:|",
 ]

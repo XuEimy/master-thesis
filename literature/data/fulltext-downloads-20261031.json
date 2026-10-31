@@ -712,5 +712,19 @@
     "sha256": "37a1fc1bbd5b942abc5b3f5e7b54755fea13c1a00613e875c702d2affa3d8c74",
     "verification": "PDF 可解析；题名及作者与题录核对；出现 DOI 时另核对 DOI。",
     "reading_status": "仅获取全文，未作全文核读或质量评价"
+  },
+  {
+    "n": 24,
+    "title": "Encoding specificity and retrieval processes in episodic memory",
+    "doi": "10.1037/h0020071",
+    "date": "2026-10-31",
+    "source_url": "https://alicekim.ca/9.ESP73.pdf",
+    "file": "sources/fulltext/024-Tulving-Thomson-1973-Encoding-specificity.pdf",
+    "version": "正式发表版扫描件",
+    "bytes": 3045035,
+    "pages": 22,
+    "sha256": "7a29fce5026714ad47e50c2ad1a2175bedc6cdf5721e31816e3e942badd56664",
+    "verification": "PDF 可解析，共22页，与352–373页范围一致；渲染首面核对题名、Tulving/Thomson及1973年。",
+    "reading_status": "仅获取全文，未作全文核读或质量评价"
   }
 ]

@@ -12,8 +12,11 @@ LIT = Path(__file__).resolve().parents[1]
 rows = json.loads((LIT / "data/文献总表.json").read_text(encoding="utf-8"))
 ft = LIT / "sources/fulltext"
 files = sorted(p.name for p in ft.glob("*.pdf")) if ft.exists() else []
+supp_path = LIT / "data/fulltext-supplements-20261031.json"
+supplements = json.loads(supp_path.read_text()) if supp_path.exists() else []
 
 for r in rows:
+    r["supplements"] = [s for s in supplements if s["n"] == r["n"] and (LIT / s["file"]).is_file()]
     translations = sorted((LIT / "translations").glob(f"{r['n']:03d}-*-中文译稿.html"))
     if translations:
         r["translation"] = translations[0].name

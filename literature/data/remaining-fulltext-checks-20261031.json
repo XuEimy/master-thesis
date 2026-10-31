@@ -1,0 +1,149 @@
+[
+  {
+    "n": 11,
+    "date": "2026-10-31",
+    "status": "访问故障／订阅待核",
+    "detail": "Oxford 出版页确认该文仅提供 PDF；当前请求 403，ResearchGate 页面有作者全文记录，但未取得有效 PDF。不能据此判断同济是否订阅。",
+    "url": "https://doi.org/10.1093/geronj/48.5.P256"
+  },
+  {
+    "n": 12,
+    "date": "2026-10-31",
+    "status": "访问故障／公开稿未取到",
+    "detail": "出版社 DOI 跳转发生 TLS 连接故障；Bristol 仅找到题录，作者 ResearchGate PDF 返回 403，旧得州大学公开链接返回 502，CiteSeer 返回 404。",
+    "url": "https://research-information.bris.ac.uk/en/publications/the-construction-of-autobiographical-memories-in-the-self-memory-/"
+  },
+  {
+    "n": 21,
+    "date": "2026-10-31",
+    "status": "开放全文通道故障",
+    "detail": "Royal Society PDF 返回 403；PMC 下载曾返回验证页而非 PDF，本轮浏览器连接关闭。Aarhus 仓库入口也返回 403；不是确认的付费墙。",
+    "url": "https://pure.au.dk/portal/en/publications/involuntary-autobiographical-memories-and-their-relation-to-other/"
+  },
+  {
+    "n": 23,
+    "date": "2026-10-31",
+    "status": "已有全文文本，缺原始 PDF",
+    "detail": "已从 PMC 官方云数据下载作者存档稿 TXT/XML。Annual Reviews PDF 返回 403；PMC 浏览器连接关闭。TXT/XML 含正文、参考文献及表格文本，未保存原图版式。",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8679009/"
+  },
+  {
+    "n": 32,
+    "date": "2026-10-31",
+    "status": "机构认证连接故障",
+    "detail": "ScienceDirect 页有 Access through Tongji University；进入学校认证时 auth.elsevier.com 连接关闭。尚未完成这篇的机构权限判断。",
+    "url": "https://www.sciencedirect.com/science/article/pii/0010028586900137"
+  },
+  {
+    "n": 33,
+    "date": "2026-10-31",
+    "status": "仅见章节摘要，机构权限待核",
+    "detail": "Cambridge 确认是 Remembering Reconsidered 第3章，21–90页；当前可见 Get access 与摘要，未取得章节 PDF，DOI 跳转又发生 TLS 故障。",
+    "url": "https://www.cambridge.org/core/books/abs/remembering-reconsidered/memory-for-randomly-sampled-autobiographical-events/15193D3425A9F6EFD73055BE7C3E9951"
+  },
+  {
+    "n": 40,
+    "date": "2026-10-31",
+    "status": "仅见摘要，机构权限待核",
+    "detail": "UC Press 的公开 PDF 链接实际跳回摘要页，未取得文件；Maastricht 作者仓库入口返回403。尚不能确认同济无订阅。",
+    "url": "https://online.ucpress.edu/tph/article-abstract/37/4/14/90629/Eliciting-Sound-Memories"
+  },
+  {
+    "n": 48,
+    "date": "2026-10-31",
+    "status": "机构认证连接故障",
+    "detail": "ScienceDirect 公开入口为摘要及机构访问；同平台认证当前连接关闭，本篇 DOI 请求也出现 TLS 故障。未确认学校无权限。",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1053810016303531"
+  },
+  {
+    "n": 52,
+    "date": "2026-10-31",
+    "status": "出版平台访问故障",
+    "detail": "Emerald 正确题录已找到，DOI请求403，页面抓取失败；ResearchGate显示作者全文记录，但未保存到有效PDF。",
+    "url": "https://www.emerald.com/oir/article-abstract/44/2/521/320809/Comparison-of-the-change-in-interpretative-stances"
+  },
+  {
+    "n": 64,
+    "date": "2026-10-31",
+    "status": "出版平台／机构访问待恢复",
+    "detail": "已定位 ScienceDirect 原论文；DOI连接出现TLS故障，同平台机构认证连接关闭。不能把摘要中各节片段当全文。",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2211368120300553"
+  },
+  {
+    "n": 68,
+    "date": "2026-10-31",
+    "status": "公开稿入口访问故障",
+    "detail": "已定位 SSRN 3113448 与 INSEAD 题录。SSRN返回403，Oxford DOI跳转TLS故障；INSEAD可见摘要不等于取得全文。",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3113448"
+  },
+  {
+    "n": 69,
+    "date": "2026-10-31",
+    "status": "作者公开站故障，OSF仅有数据",
+    "detail": "作者 Storm 的 UCSC publications 页面连接失败。OSF ah29s 已检查，只有实验数据 xlsx，没有论文PDF；出版社 DOI连接TLS故障。",
+    "url": "https://osf.io/ah29s/"
+  },
+  {
+    "n": 76,
+    "date": "2026-10-31",
+    "status": "已有全文文本，缺原始 PDF",
+    "detail": "已保存 PMC 作者存档稿 TXT/XML；Oxford请求403、PMC浏览器连接关闭。未把XML或纯文本生成的页面冒充出版社原始PDF。",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12257099/"
+  },
+  {
+    "n": 98,
+    "date": "2026-10-31",
+    "status": "需进入知网，认证尚未完成",
+    "detail": "期刊官网核实为《新闻与写作》2025年第8期95–106页的期刊论文，非专著。页面明确要求访问cnki.net获取全文；本轮浏览器连接关闭，尚未完成知网机构下载。原表获取方式保留历史分类。",
+    "url": "https://xwxz.cbpt.cnki.net/portal/journal/portal/client/paper/f842de432b0bd59e5d449030f09508a6"
+  },
+  {
+    "n": 119,
+    "date": "2026-10-31",
+    "status": "当前同济渠道明确拒绝",
+    "detail": "Taylor & Francis 已通过同济会话，但该条明确提示内容不在Tongji University可用范围。公开作者稿检索未取得有效PDF。只确认本渠道受限。",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17503280.2020.1815123"
+  },
+  {
+    "n": 120,
+    "date": "2026-10-31",
+    "status": "有公开节选，缺整书",
+    "detail": "已下载编辑者公开的导论及前置页PDF；Columbia/Wallflower出版社页面提供付费电子书。未取得整本机构授权版，不把导论计为整书。",
+    "url": "https://cup.columbia.edu/book/the-cinema-of-me/9780231162159/"
+  },
+  {
+    "n": 121,
+    "date": "2026-10-31",
+    "status": "当前 JSTOR 访问未获整书权限",
+    "detail": "JSTOR页面提示当前机构不能访问本书；点击章节Download仍回到turn_away页面。未完成同济JSTOR身份核验，因此不声称同济全库未订阅。",
+    "url": "https://www.jstor.org/stable/jj.36106175"
+  },
+  {
+    "n": 122,
+    "date": "2026-10-31",
+    "status": "当前同济渠道明确拒绝；作者库连接故障",
+    "detail": "Taylor & Francis 明确提示不在Tongji University可用范围。另找到Navarra作者公开存档10171/29632，但连接TLS/502故障；CiteSeer公开索引429。仍存在合法公开稿线索。",
+    "url": "https://hdl.handle.net/10171/29632"
+  },
+  {
+    "n": 124,
+    "date": "2026-10-31",
+    "status": "书中章节未取得，出版入口故障",
+    "detail": "目标为Contested Pasts中的2003年章节，不把1997年同主题文章或2005年改写书章充作相同版本。Routledge/DOI入口403或TLS故障。题录作者另有疑点，见下方核对说明。",
+    "url": "https://doi.org/10.4324/9780203391471-15"
+  },
+  {
+    "n": 125,
+    "date": "2026-10-31",
+    "status": "有公开节选，缺整书",
+    "detail": "已从UC Press下载第1章Remaking Home Movies；出版社电子书为付费入口。只取得公开章节，不计整本已下载。",
+    "url": "https://www.ucpress.edu/books/mining-the-home-movie/pdf"
+  },
+  {
+    "n": 127,
+    "date": "2026-10-31",
+    "status": "未找到可保存的合法整书全文",
+    "detail": "已核对书名、作者及Harvard出版社信息；公开检索仅得书目和预览线索，出版社页面当前不可访问。未完成学校电子书馆藏核查，不能定为绝对无法获取。",
+    "url": "https://books.google.com/books/about/Family_Frames.html?id=IRt3E0nfuo4C"
+  }
+]

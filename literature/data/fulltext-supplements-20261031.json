@@ -1,0 +1,76 @@
+[
+  {
+    "n": 23,
+    "date": "2026-10-31",
+    "file": "sources/fulltext/alternate/023-PMC8679009.1.txt",
+    "label": "全文文本（无原图版式）",
+    "kind": "fulltext_text",
+    "version": "PMC作者存档稿",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8679009.1/PMC8679009.1.txt",
+    "bytes": 113496,
+    "sha256": "d983d8bbdb1642ae80d869dc9c71cfdd2d66ff6e3635257f6c3838155a8f8492",
+    "verification": "核对PMCID、DOI、题名及正文与参考文献结构；无原始PDF图像及版式。"
+  },
+  {
+    "n": 23,
+    "date": "2026-10-31",
+    "file": "sources/fulltext/alternate/023-PMC8679009.1.xml",
+    "label": "结构化全文 XML",
+    "kind": "fulltext_xml",
+    "version": "PMC作者存档稿",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8679009.1/PMC8679009.1.xml",
+    "bytes": 215578,
+    "sha256": "e1da95db57ac0c9f9c34e645ebdd30357edd931fb840c0e2c42c35a710fc2265",
+    "verification": "核对PMCID、DOI、题名及正文与参考文献结构；无原始PDF图像及版式。"
+  },
+  {
+    "n": 76,
+    "date": "2026-10-31",
+    "file": "sources/fulltext/alternate/076-PMC12257099.2.txt",
+    "label": "全文文本（无原图版式）",
+    "kind": "fulltext_text",
+    "version": "PMC作者存档稿",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12257099.2/PMC12257099.2.txt",
+    "bytes": 48083,
+    "sha256": "2b89bf1e514b6e2477cf285c849e4414f8564e4e6c2e1349405a8daa02d6da2c",
+    "verification": "核对PMCID、DOI、题名及正文与参考文献结构；无原始PDF图像及版式。"
+  },
+  {
+    "n": 76,
+    "date": "2026-10-31",
+    "file": "sources/fulltext/alternate/076-PMC12257099.2.xml",
+    "label": "结构化全文 XML",
+    "kind": "fulltext_xml",
+    "version": "PMC作者存档稿",
+    "source_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12257099.2/PMC12257099.2.xml",
+    "bytes": 97451,
+    "sha256": "62de92fdd865d98872cb7a244145255ae2572c889b31b7fe0f581b58f2f71372",
+    "verification": "核对PMCID、DOI、题名及正文与参考文献结构；无原始PDF图像及版式。"
+  },
+  {
+    "n": 120,
+    "date": "2026-10-31",
+    "file": "sources/fulltext/excerpts/120-public-excerpt.pdf",
+    "label": "公开导论及前置页（节选）",
+    "kind": "excerpt",
+    "version": "作者或出版社公开节选；非整书",
+    "source_url": "https://alisalebow.net/pdf/Books/Cinema-of-Me-intro.pdf",
+    "pages": 11,
+    "bytes": 251174,
+    "sha256": "f141854c06c5283e9c34eb74459833a558a59331c8cb90c61a3c584b117c3470",
+    "verification": "PDF可解析；核对书名或章节题名。只保存公开节选，不计整本已下载。"
+  },
+  {
+    "n": 125,
+    "date": "2026-10-31",
+    "file": "sources/fulltext/excerpts/125-public-excerpt.pdf",
+    "label": "第1章 Remaking Home Movies（节选）",
+    "kind": "excerpt",
+    "version": "作者或出版社公开节选；非整书",
+    "source_url": "https://content.ucpress.edu/chapters/9481.ch01.pdf",
+    "pages": 12,
+    "bytes": 737257,
+    "sha256": "20710a7ac94123ff630875504aa84f93c8952c4220851f0489729a29fc41ffee",
+    "verification": "PDF可解析；核对书名或章节题名。只保存公开节选，不计整本已下载。"
+  }
+]

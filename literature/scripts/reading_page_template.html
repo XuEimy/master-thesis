@@ -262,6 +262,7 @@ select.st{width:100%;padding:4px;border-radius:6px;border:1px solid var(--line);
     <h2>下载说明</h2>
     <ul>
       <li><b>本地</b>：已在 <code>literature/sources/fulltext/</code>（不进 Git），点「打开 PDF」即可。</li>
+      <li>023、076 另有 PMC 全文 TXT/XML，未取得原始 PDF 图像及版式；120、125 仅有公开节选。见<a href="暂未取得全文-原因与渠道.md" target="_blank">未取得全文的原因与渠道</a>，节选不计整书。</li>
       <li><b>浏览器</b>：开放获取，点 DOI 下载。<b>浏览器·ACM</b>：ACM 已开放获取，但拦截脚本访问，需要手动下载。</li>
       <li><b>图书馆</b>：需要学校账号。</li>
       <li>下载后按编号存入 <code>literature/sources/fulltext/</code>，例如 <code>045-作者-年.pdf</code>；重新生成本页后会显示为本地。</li>
@@ -308,7 +309,9 @@ document.querySelectorAll('#tabs button').forEach(b=>b.onclick=()=>{
 try{ const t=localStorage.getItem('thesis-tab'); if(t){ const b=document.querySelector(`#tabs button[data-t="${t}"]`); b&&b.click(); } }catch(e){}
 
 function accHTML(r){
+  const supplements=(r.supplements||[]).map(s=>`<a href="${esc(s.file)}" target="_blank" onclick="event.stopPropagation()">${esc(s.label)}</a>`).join('<br>');
   if(r.file) return `<a class="pdf" href="sources/fulltext/${encodeURIComponent(r.file)}" target="_blank" onclick="event.stopPropagation()">打开 PDF</a>${r.translation?`<br><a href="translations/${encodeURIComponent(r.translation)}" target="_blank" onclick="event.stopPropagation()">中文译稿</a>`:''}`;
+  if(supplements) return supplements+`<br><a href="暂未取得全文-原因与渠道.md" target="_blank" onclick="event.stopPropagation()">PDF／整书缺口说明</a>`;
   const t=r.acc_type;
   if(!r.doi) return `<span class="muted">${esc(t)}</span>`;
   return `<a href="https://doi.org/${esc(r.doi)}" target="_blank" onclick="event.stopPropagation()">${esc(t)} ↗</a>`;
@@ -324,7 +327,7 @@ function renderStats(){
     box(`${cnt(jd)} / ${jd.length}`,'精读已读',cnt(jd)/jd.length*100)+
     box(`${cnt(DATA)} / ${total}`,'全部已读',cnt(DATA)/total*100)+
     box(DATA.filter(r=>r.file).length,'本地已有 PDF')+
-    box(DATA.filter(r=>!r.file).length,'待你下载');
+    box(DATA.filter(r=>!r.file).length,'尚缺完整 PDF');
 }
 
 function renderOverview(){
