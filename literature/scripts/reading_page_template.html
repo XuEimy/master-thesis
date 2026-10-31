@@ -308,7 +308,7 @@ document.querySelectorAll('#tabs button').forEach(b=>b.onclick=()=>{
 try{ const t=localStorage.getItem('thesis-tab'); if(t){ const b=document.querySelector(`#tabs button[data-t="${t}"]`); b&&b.click(); } }catch(e){}
 
 function accHTML(r){
-  if(r.file) return `<a class="pdf" href="sources/fulltext/${encodeURIComponent(r.file)}" target="_blank" onclick="event.stopPropagation()">打开 PDF</a>`;
+  if(r.file) return `<a class="pdf" href="sources/fulltext/${encodeURIComponent(r.file)}" target="_blank" onclick="event.stopPropagation()">打开 PDF</a>${r.translation?`<br><a href="translations/${encodeURIComponent(r.translation)}" target="_blank" onclick="event.stopPropagation()">中文译稿</a>`:''}`;
   const t=r.acc_type;
   if(!r.doi) return `<span class="muted">${esc(t)}</span>`;
   return `<a href="https://doi.org/${esc(r.doi)}" target="_blank" onclick="event.stopPropagation()">${esc(t)} ↗</a>`;

@@ -14,6 +14,9 @@ ft = LIT / "sources/fulltext"
 files = sorted(p.name for p in ft.glob("*.pdf")) if ft.exists() else []
 
 for r in rows:
+    translations = sorted((LIT / "translations").glob(f"{r['n']:03d}-*-中文译稿.html"))
+    if translations:
+        r["translation"] = translations[0].name
     numbered = [f for f in files if f.startswith(f"{r['n']:03d}-")]
     if numbered:
         r["file"] = numbered[0]
