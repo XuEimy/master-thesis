@@ -1,0 +1,1318 @@
+[
+  {
+    "page": 0,
+    "rect": [
+      57,
+      65,
+      220,
+      80
+    ],
+    "text": "研究论文",
+    "size": 9,
+    "source_text": "ORIGINAL ARTICLE\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      51,
+      105,
+      544,
+      145
+    ],
+    "text": "# 以自传体记忆理论指导增强记忆系统设计",
+    "size": 17,
+    "source_text": "Informing augmented memory system design\nthrough autobiographical memory theory\n",
+    "spare": 14.75,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      51,
+      243,
+      544,
+      268
+    ],
+    "text": "收稿：2005年10月3日／接受：2006年9月1日／在线发表：2007年7月17日\n© Springer-Verlag London Limited 2007",
+    "size": 8,
+    "source_text": "Received: 3 October 2005 / Accepted: 1 September 2006 / Published online: 17 July 2007\n\u0001 Springer-Verlag London Limited 2007\n",
+    "spare": 1.0,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      51,
+      281.6800231933594,
+      289,
+      457.6376647949219
+    ],
+    "text": "## 摘要\n\n自传体记忆（AM）是“对个人一生中事件的记忆”[1]。人们常假定，要记住这些事件，只需记录一切；重放记录时，就会记起事件。这可与图书馆隐喻相比：记录保存取向曾用它来解释自传体记忆。然而，经过多年研究，人们认为自传体记忆以不同方式存储，即采用建构主义取向描述的方式，其过程往往由记忆线索启动。本文解释这些自传体记忆理论，综述现有增强记忆系统文献，并介绍作者在该领域的工作，随后将这些材料整合为面向未来增强记忆系统的八项设计建议。",
+    "size": 10,
+    "source_text": "Abstract\nAutobiographical memory (AM) is the ‘‘mem-\nory for the events in one’s life’’ [1]. Often it is assumed that in\norder to remember all those events, you just need to record\neverything and when you replay these recordings you will\nremember those events. You can compare this with a library\nmetaphor that has been used to explain AM according to the\nrecord-keeping approach. However, after many years of\nAM-research it was concluded that AM is stored in a dif-\nferent manner, namely according to the constructionist ap-\nproach, which often is initiated by memory cues. This paper\nexplains these AM theories, surveys literature on existing\naugmented memory systems and describes our own work in\nthis area. All this input is combined into eight design rec-\nommendations for future augmented memory systems.\n",
+    "spare": 30.4576416015625,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      51,
+      468.4787292480469,
+      289,
+      507.4128112792969
+    ],
+    "text": "关键词：自传体记忆；记忆回想；交互系统设计；增强记忆系统。",
+    "size": 9,
+    "source_text": "Keywords\nAutobiographical memory \u0001\nRecollecting memories \u0001 Interactive system design \u0001\nAugmented memory systems\n",
+    "spare": 12.43408203125,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      51,
+      527.948486328125,
+      289,
+      541.9110717773438
+    ],
+    "text": "## 1 引言",
+    "size": 10,
+    "source_text": "1 Introduction\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      51,
+      552.9767456054688,
+      289,
+      579.354736328125
+    ],
+    "text": "多数人都在主动处理自己的个人记忆。例如，一位刚度假归来的女士，",
+    "size": 10,
+    "source_text": "Most people are actively dealing with their personal\nmemories. Take for example the woman who just returned\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      306,
+      281.7588806152344,
+      544,
+      557.2396850585938
+    ],
+    "text": "很可能会向不同的人讲述经历；这实际上是在复述，也可能是在巩固度假记忆。当她在同一场交谈中提及其他相关经历和事件时，就是在尝试把新记忆与既有记忆联系起来，同时也在处理旧记忆。听她讲述的人也很可能在做同样的事。怀旧回忆是反复发生的过程，不断塑造人们的个人历史与身份认同。\n\n本文概述与记忆回想或增强记忆系统设计相关的问题及解答。内容分为理论与实践两部分：理论部分介绍人类记忆和记忆线索（第2节），实践部分综述增强记忆系统及其相关研究（第3节）。将文献经验与作者自身增强记忆系统设计研究的发现结合起来，提出面向未来系统的八项设计建议（第4节），最后在第5节给出结论。",
+    "size": 10,
+    "source_text": "from a holiday. Probably she will talk about her experi-\nences with various people, which in fact is the rehearsal\nand perhaps the ﬁxation of her holiday memories. When\nshe refers to other related experiences and events in the\nsame conversation she is trying to relate her new memories\nto other existing memories, thereby working on her old\nmemories at the same time. There even is a fair chance that\nher listeners are doing the same thing. Reminiscing is a\nrecurring process, continuously shaping people’s personal\nhistories and identities.\nThis paper gives an overview of issues and answers that\nare relevant to people who are interested in recollecting\nmemories or in designing augmented memory systems.\nThese issues were subdivided into theory, on human\nmemories and memory cues (Sect. 2), and practice, pre-\nsenting a literature overview of (studies on) augmented\nmemory systems (Sect. 3). The lessons learned from lit-\nerature and ﬁndings of our own research efforts into the\ndesign of an augmented memory system are combined to\ndescribe a set of eight design recommendations for future\naugmented memory systems (Sect. 4). The paper ends with\nconclusions in Sect. 5.\n",
+    "spare": 104.98080444335938,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      306,
+      580.6107177734375,
+      544,
+      594.5733032226562
+    ],
+    "text": "## 2 自传体记忆",
+    "size": 10,
+    "source_text": "2 Autobiographical memory\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      306,
+      605.5822143554688,
+      544,
+      719.2086181640625
+    ],
+    "text": "正如Bush[2]在Memex文章中所说，我们应研究心智以联想方式运作的机制，从中建立类比，改善增强记忆系统中的记录与检索。由于本文关注人们对个人经历的回想，自传体记忆是最相关的长时记忆类型。\n\n自传体记忆的定义是“对个人一生中事件的记忆”[1]，包括人们所有与自身有关的记忆。",
+    "size": 10,
+    "source_text": "As Bush [2] already stated in his Memex article, we should\nstudy the associative way in which our mind works to\ncreate analogies that improve recording and retrieving in an\naugmented memory system. Since this paper is concerned\nwith people who are recollecting personal experiences,\nautobiographical memory (AM) is the most relevant (long-\nterm) memory type to study.\nThe deﬁnition of AM is ‘‘memory for the events of one’s\nlife’’ [1], which includes all the people’s memories that\n",
+    "spare": 30.62640380859375,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      51,
+      596.5718994140625,
+      289,
+      659.2218017578125
+    ],
+    "text": "E. van den Hoven（通讯作者）\n埃因霍温理工大学工业设计系\nDen Dolech 2，HG 2.53，P.O. Box 513\n5600 MB 埃因霍温，荷兰\n电子邮箱：E.v.d.Hoven@tue.nl",
+    "size": 7.5,
+    "source_text": "E. van den Hoven (&)\nDepartment of Industrial Design,\nEindhoven University of Technology,\nDen Dolech 2, HG 2.53, P.O.Box 513,\n5600 MB Eindhoven, The Netherlands\ne-mail: E.v.d.Hoven@tue.nl\n",
+    "spare": 11.77490234375,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      51,
+      666.6530151367188,
+      289,
+      718.976806640625
+    ],
+    "text": "B. Eggen\n埃因霍温理工大学工业设计系\nDen Dolech 2，HG 2.39，P.O. Box 513\n5600 MB 埃因霍温，荷兰",
+    "size": 7.5,
+    "source_text": "B. Eggen\nDepartment of Industrial Design,\nEindhoven University of Technology,\nDen Dolech 2, HG 2.39, P.O.Box 513,\n5600 MB Eindhoven, The Netherlands\n",
+    "spare": 10.82379150390625,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      51,
+      57.713600158691406,
+      289,
+      233.53057861328125
+    ],
+    "text": "情景记忆存储与个人经历相关的信息，但情景记忆可以不是自传性的，反之亦然。尽管可以确定两种系统中的记忆大量重叠，但它们之间的关系尚不清楚[3]。\n\n过去多年中，研究者提出了多种长时记忆类型，综述见[4]；每一对记忆类型都被视为独立于其他记忆系统。例如，前瞻记忆和回溯记忆涉及记住的过程，分别面向未来与过去：前瞻记忆帮助人们记得执行计划中的行动，回溯记忆则记住过去事件。",
+    "size": 10,
+    "source_text": "have something to do with themselves. Episodic memory\nstores information relating to personal experiences, but\nepisodic memories can exist without being autobiographi-\ncal and vice versa. It is not yet known how these two\nmemory systems relate to each other, although it is certain\nthat they have a large overlap in memories [3].\nVarious long-term memory types have been proposed\nover the past years (see [4] for an overview), each memory-\npair is seen as independent of other memory systems. For\nexample, prospective and retrospective memory are related\nto the process of remembering, since they are concerned\nwith the future and the past: prospective memory helps\nremembering to carry out intended actions and retrospec-\ntive memory remembers past events.\n",
+    "spare": 67.81697845458984,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      51,
+      244.51231384277344,
+      289,
+      258.47491455078125
+    ],
+    "text": "## 2.1 自传体记忆的功能",
+    "size": 10,
+    "source_text": "2.1 Functions of autobiographical memory\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      51,
+      269.4566345214844,
+      289,
+      295.83465576171875
+    ],
+    "text": "依据文献[5]，自传体记忆可区分为六项功能：",
+    "size": 10,
+    "source_text": "According to [5] six functions of autobiographical memory\ncan be distinguished:\n",
+    "spare": 9.878021240234375,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      51,
+      300.3536682128906,
+      289,
+      538.41796875
+    ],
+    "text": "1. 建构和维持自我概念，即你认为自己是谁，以及自我历史，即你在人生中经历过什么，由此塑造个人身份认同。\n2. 调节情绪。例如，情绪低落时，想起积极记忆可能有所帮助。\n3. 通过分享经历结交朋友、维持关系。例如，与人分享个人记忆能够建立联结，对方也可能因此愿意向你分享自己的经历。\n4. 根据先前经历解决问题。例如，遇到问题时，利用有关类似经历、行动和结果的记忆，帮助解决当前问题。\n5. 根据记得的经历，形成喜好、厌恶、热情、信念和偏见。\n6. 根据过去的记忆帮助预测未来。",
+    "size": 10,
+    "source_text": "1.\nThe construction and maintenance of the self-concept\n(who you think you are) and self-history (what you\nhave experienced in life), which shapes the personal\nidentity.\n2.\nRegulating moods, e.g., when someone is feeling down\nit can help to think of positive memories.\n3.\nMaking friends and maintaining relationships by\nsharing experiences, e.g., when you share personal\nmemories with someone this creates a bond and as a\nresult the other person might feel the need to share his\nor her personal experiences with you too.\n4.\nProblem-solving based on previous experiences, e.g.,\nif someone encounters a problem, memories of related\nexperiences, actions and results are used as input to\novercome the current problem.\n5.\nShaping likes, dislikes, enthusiasms, beliefs and prej-\nudices, based on remembered experiences.\n6.\nHelping to predict the future based on the memories of\nthe past.\n",
+    "spare": 59.064300537109375,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      51,
+      542.93701171875,
+      289,
+      631.5623168945312
+    ],
+    "text": "需要注意，这些功能覆盖范围很广，从纯粹的内部使用，到人与人之间的沟通。还应认识到，上述功能都不要求记忆背后的绝对真相。长期以来，人们假定记忆代表事件实际发生的样子，由此形成了一种称为记录保存取向的记忆存储理论。",
+    "size": 10,
+    "source_text": "Note the wide range of AM-functions, from solely\ninternal usage, to communication between people. It is\nimportant to realize that for none of the above-mentioned\nfunctions the absolute truth behind the memory is needed.\nFor a long time it was assumed that memories represent the\nway events really occurred, which resulted in a memory-\nstorage theory called the record-keeping approach.\n",
+    "spare": 22.12530517578125,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      51,
+      642.5440673828125,
+      289,
+      656.5066528320312
+    ],
+    "text": "## 2.2 记录保存取向",
+    "size": 10,
+    "source_text": "2.2 Record-keeping approach\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      51,
+      667.4884033203125,
+      289,
+      718.8107299804688
+    ],
+    "text": "最早的回忆存储与提取理论，古希腊哲学家柏拉图就曾描述过，称为记录保存取向[6]。它基于这样一个核心隐喻：如同图书馆装满书，",
+    "size": 10,
+    "source_text": "The oldest theory for recollection storage and retrieval\n(already described by the Greek philosopher Plato) is\ncalled the record-keeping approach [6]. The main idea of\nthis approach is based on the metaphor that like a library is\n",
+    "spare": 9.82232666015625,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      306,
+      57.701515197753906,
+      544,
+      196.15875244140625
+    ],
+    "text": "人类记忆系统装满记忆。在这座图书馆中，每本书代表一段记忆，每次新经历产生一本新书。寻找书籍代表提取过程；如果找不到某本已存储的书，就称为遗忘。按照这一理论，一个人的记忆越多，提取正确记忆就越困难。\n\n第3.1节列举的文献表明，一些项目尝试通过“记录生活”来“存储人的记忆”。这些项目建立在记录保存取向之上。",
+    "size": 10,
+    "source_text": "ﬁlled with books, human memory is ﬁlled with memories.\nIn this library each book stands for a memory and every\nnew experience creates a new book. Searching for a book\nrepresents the retrieval process and in case a stored book is\nnot found, one speaks of forgetting. According to this\ntheory the more memories a person has the harder it gets to\nretrieve the right memory.\nThe literature examples in Sect. 3.1 show that projects\nexist which try to ‘‘record life’’ in order to ‘‘store people’s\nmemories’’. These projects are based on the record-keeping\napproach.\n",
+    "spare": 30.457237243652344,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      306,
+      207.14048767089844,
+      544,
+      221.10308837890625
+    ],
+    "text": "## 2.3 建构主义取向",
+    "size": 10,
+    "source_text": "2.3 Constructionist approach\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      306,
+      232.08482360839844,
+      544,
+      719.2782592773438
+    ],
+    "text": "记录保存取向特别适合“保存过去”，而建构主义取向[6]更适合“预期未来”。后者描述的是不断适应变化的记忆系统。由于记忆改变观念与概念之间的联结，存储内容主要是近期事件、模式和独特事件。重复或复述事件，例如谈论事件，或多次经历类似事件，如每天吃早餐，会强化联结，例如谷物与早餐之间的联结。这解释了为什么一个人记住其专长相关的信息，比记住新信息更省力：相关观念、概念和联结早已存在。\n\n记忆回想通过重建实现。例如，一个人试图记起某个星期五下午6点左右在做什么。她首先回到自己星期五通常会做的事：上班。她通常下午5点半左右下班，所以6点应该在回家路上。除非那是非常特殊的星期五，否则她并不记得当天几点回家，而是根据惯常模式推断。虽然她可能确信当天在回家路上，但她实际上也可能休假了。\n\n由于这种重建过程，记忆会随当前知识和信念而变化；对某个特定事件的两次回想不会完全相同[7]。当适应性变化过多，导致无法再重建时，就发生遗忘。\n\n目前，多数记忆研究者采用建构主义取向，例如联结主义[8]。这一理论得到心理学与神经生理学研究的支持[6]。结合建构主义取向，以及有关记忆与情绪关系的一般认识[9]，可知记忆形成的核心成分包括：先验知识、个人重要性和情感[10]。此外，持久记忆应当具有强烈情绪，是个人人生的转折点，",
+    "size": 10,
+    "source_text": "The record-keeping approach is particularly suitable to\n‘‘preserve the past’’, while the constructionist approach [6]\nis more suitable for ‘‘anticipating the future’’. This theory\ndescribes a constantly adapting memory system. Since\nmemories change connections between ideas and concepts,\nmainly recent events, patterns and unique events are stored.\nBy repeating or rehearsing events (talking about them or\nexperiencing similar events several times, such as eating\nbreakfast every day) the connections get stronger (e.g.,\nbetween cereals and breakfast). This explains why a person\nremembers information relating to her expertise with less\neffort compared to new information; the ideas, concepts\nand connections are already present.\nMemory recall happens by means of reconstruction.\nTake the example that someone tries to remember what she\ndid on a speciﬁc Friday around 6 p.m. First, she goes back\nto what she usually did on Fridays, she went to work.\nUsually she stopped working at about 5:30 p.m., thus she\nmust have been on her way home by 6 p.m. Unless it was a\nvery exceptional Friday, this person does not remember at\nwhat time she went home that day, but she infers it from\nher regular pattern. Although this person might be sure that\nshe was on her way home that day, she might have had a\nday off, instead.\nBecause of this reconstruction process memories change\nover time according to current knowledge and beliefs and\nno two recollections of a speciﬁc event are the same [7].\nForgetting occurs when reconstruction is no longer possible\ndue to too many adaptive changes.\nCurrently, the constructionist approach is taken forward\nby the majority of memory researchers (e.g., as in con-\nnectionism [8]). This theory is supported by both psycho-\nlogical and neurophysiological investigations [6]. From\nthis constructionist approach and the general knowledge of\nthe relation between memories and emotions [9], it follows\nthat central components in memory foundation are: prior\nknowledge, personal importance and affect [10]. In addi-\ntion, enduring memories should be: strongly emotional, a\nturning point in the life of the individual or (remain) rel-\n",
+    "spare": 158.6934356689453,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      51,
+      57.713600158691406,
+      289,
+      208.64300537109375
+    ],
+    "text": "或保持相对独特[11]。“独特记忆”中有一类容易被记住的特殊记忆，即闪光灯记忆。闪光灯记忆涉及重大世界事件，例如威尔士王妃戴安娜去世，以及2001年9月11日世界贸易中心袭击事件。这些记忆生动、详细且持久[12]。\n\n依据文献[9]，一般而言，愉快事件比不愉快事件更容易被回忆。关于解释情绪与记忆关系的模型及研究现状，可参见文献[13]。",
+    "size": 10,
+    "source_text": "atively unique [11]. The category ‘‘unique memories’’\ncontains a speciﬁc type of memory which is remembered\nwell, namely Flashbulb Memory. Flashbulb memories are\nmemories for dramatic world events, such as the death of\nLady Diana, the Princess of Wales, and the 11th of Sep-\ntember 2001 World Trade Center attacks. Those memories\nare vivid, detailed and long lasting [12].\nAccording to [9], in general, pleasant events are recalled\nbetter than unpleasant events. For more information on the\nstate of the art with respect to models trying to explain the\nrelations between emotion and memory, see for example\n[13].\n",
+    "spare": 42.929405212402344,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      51,
+      219.62474060058594,
+      289,
+      233.58734130859375
+    ],
+    "text": "## 2.4 特异性的层级",
+    "size": 10,
+    "source_text": "2.4 Levels of speciﬁcity\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      51,
+      244.51329040527344,
+      289,
+      295.83563232421875
+    ],
+    "text": "一个较新的模型对建构主义的存储与提取理论作出了贡献，与增强记忆系统设计有关。它描述了自传体记忆的三个特异性层级[14]：",
+    "size": 10,
+    "source_text": "A recent contribution to the constructionist theory on\nstorage and retrieval, relevant for the design of augmented\nmemory system, comes from a model that describes three\nlevels of speciﬁcity of autobiographical memories [14]:\n",
+    "spare": 9.822341918945312,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      51,
+      300.2524719238281,
+      289,
+      563.36328125
+    ],
+    "text": "1. **人生阶段。** 包括某阶段持续时间的时间性知识，以及该阶段共有特征的主题性知识。通常持续数年，例如“我上学的时候”。若干人生阶段可以归为更高层次的主题，如“工作”或“人际关系”。\n2. **一般事件。** 包括重复发生和单次发生的事件，持续数日至数月，例如“我过去常在放学后和最好的朋友玩耍”。一般事件可以形成事件簇，例如“学习骑自行车”或“与X成为最好的朋友”。\n3. **事件特定知识（ESK）。** 指某个单一事件独有的详细信息，还可继续细分为“微细节”；持续时间为数秒或数小时，例如“有一次在朋友家过夜，我试着翻筋斗，结果摔倒受伤”。事件特定知识常伴随“突然浮现在脑海中的图像”，可能被说话者用来使听者相信，自己确实记得此事。",
+    "size": 10,
+    "source_text": "1.\nLifetime periods consist of temporal knowledge about\nthe duration of a certain period and thematic knowl-\nedge about common features of this period. Often such\na period lasts for years, for example ‘‘when I was at\nschool’’. Several lifetime periods may be grouped to\nform a higher order theme, such as ‘‘work’’ or ‘‘rela-\ntionships’’.\n2.\nGeneral events cover both repeated and single events,\nwhich lasted for days up to months, for example ‘‘I\nused to play with my best friends after school’’. Groups\nof general events can form clusters, such as ‘‘learning\nto ride a bike’’ or ‘‘being best friends with X’’.\n3.\nEvent-speciﬁc knowledge (ESK) concerns detailed\ninformation unique to a single event (which can again\nbe subdivided into ‘‘microdetails’’), with a duration of\nseconds or hours, for example ‘‘once when sleeping\nover at my friends house I fell and hurt myself when\ntrying to do a somersault’’. ESKs are often accompa-\nnied by ‘‘images that pop into mind’’ and ESKs are\npresumably used to convince listeners that the speaker\nreally remembers.\n",
+    "spare": 84.11080932617188,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      51,
+      567.8255615234375,
+      289,
+      718.7549438476562
+    ],
+    "text": "人们认为，人生阶段和一般事件在脑中的存储结构不同于事件特定知识，因为除得到复述的记忆外，事件特定知识，以及一般事件与事件特定知识之间的联系，都容易被遗忘。人生阶段和一般事件比事件特定知识更容易被记住[14]。\n\n实验室条件下的研究表明，记忆提取以循环方式进行。回想先从线索或简短记忆描述开始，进入长时记忆，随后在“人生阶段—一般事件—事件特定知识”之间循环。每轮循环中及结束后，监督性注意系统（SAS）会检查所提取信息，",
+    "size": 10,
+    "source_text": "It is thought that lifetime periods and general events are\nstored in a different structure in the brain compared to\nESKs, since ESKs, and also the links between general\nevents and ESKs, are easily forgotten except for rehearsed\nmemories.\nLifetime\nperiods\nand\ngeneral\nevents\nare\nremembered better than ESKs [14].\nMemory retrieval, as demonstrated in laboratory con-\nditions, happens in cycles. This means that recollecting\nstarts with a cue or a short memory description, a dive into\nlong-term memory and then a cycle starts going through\nlifetime periods, general events and ESKs. During and after\neach cycle the supervisory attentional system (SAS) checks\n",
+    "spare": 17.92938232421875,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      306,
+      57.702613830566406,
+      544,
+      133.91253662109375
+    ],
+    "text": "是否与记忆搜索所受限制冲突。这些限制包括任务的心理模型、当前自我概念，以及自我的活跃主题、目标和计划。监督性注意系统决定抑制或增强哪些活动，并最终终止搜索[7]。",
+    "size": 10,
+    "source_text": "whether the information retrieved does not conﬂict with the\nconstraints imposed on the memory search, which include\nthe mental model of the task, the current self concept and\nthe active themes, goals, and plans of the self. The SAS\ndetermines to inhibit or increase certain activities and\neventually to terminate the search [7].\n",
+    "spare": 22.209922790527344,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      306,
+      144.89427185058594,
+      544,
+      158.85687255859375
+    ],
+    "text": "## 2.5 用线索唤起记忆",
+    "size": 10,
+    "source_text": "2.5 Cuing memories\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      306,
+      169.73643493652344,
+      544,
+      719.2757568359375
+    ],
+    "text": "前文说明，按照建构主义取向，人们通过重建来回忆事件。这意味着，记忆本身不能存入增强记忆系统，因为每次回想都需要由本人重新创造这段记忆。为了帮助人们重建，可以提供记忆线索；这些线索则能够存储在增强记忆系统中。\n\n线索或触发物，是帮助人们从长时记忆中提取信息的刺激，但前提是线索与待提取记忆有关。研究中最常使用的刺激是照片、气味或文字标签。不过，只要与待记事件有关，任何东西都可能成为线索，例如说出的一个词、一种颜色、一个动作或一个人。组合线索可以提高提取记忆的机会，尤其在线索回忆实验中，参与者执行了稍后需要记住的活动，例如用笔写字或关门时[8,15]。\n\n一般有两种线索使用方式：生成性提取和直接提取，分别由有意识、循环进行的记忆搜索过程，以及无意识的记忆线索提示引发[14]。\n\n哪类线索可能最有利于记忆提取？相关研究涉及三类记忆：情境依赖记忆、状态依赖记忆和心境依赖记忆[8]。它们都基于同一段记忆编码与提取时，内部或外部条件的重叠。第一种情况是编码特异性原则[16]，属于情境依赖记忆。原则与类别都指向同一观点：如果提取时的物理情境与编码时部分相同，记忆就更容易提取。一个著名例子来自Godden与Baddeley的研究（1975，转引自[8]）。他们让潜水者在水下或海滩学习词语，发现提取情境与编码情境相同时，正确回忆的词数较多：水下学习的词在水下回忆最好，海滩条件亦然。从水下换到海滩，或反过来改变情境，表现就显著下降。\n\n解释线索与提取结果关系的第二类，是状态依赖记忆，",
+    "size": 10,
+    "source_text": "In previous sections it was shown that people reconstruct\nevents according to the constructionist approach. This\nindicates that the memory itself cannot be stored in an\naugmented memory system, because a person is needed to\nrecreate this memory for every recollection. In order to help\npeople reconstruct a memory one can cue memories and\nthese cues could be stored in an augmented memory system.\nA cue (or trigger) is a stimulus that can help someone to\nretrieve information from long-term memory, but only if\nthis cue is related to the to-be-retrieved memory. The\nstimuli most often used in studies are photos, smells or text\nlabels. But anything could be a cue (a spoken word, a color,\nan action or a person), as long as there is a link between the\ncue and the to-be-remembered event. A combination of\ncues increases the chance of retrieving a memory, espe-\ncially when a subject in a cued-recall experiment has to\nperform activities, which have to be remembered later, such\nas to write with a pen or close a door [8, 15].\nIn general, there are two types of cue-usage, namely\ngenerative and direct retrieval, respectively caused by a\nconscious, cyclic memory search process and unconscious\nmemory cuing [14].\nWhat kind of cues might work best for memory retrieval?\nThree memory-type categories exist on this topic, namely\ncontext-, state- and mood-dependent memory [8]. They are\nall based on overlap of internal or external conditions dur-\ning the encoding of a memory and the retrieving of the same\nmemory. The ﬁrst example is called the encoding-speci-\nﬁcity principle [16] and falls within the category context-\ndependent memory. Both principle and category refer to the\nidea that a memory is easier to retrieve if the physical\ncontext during retrieval is (partly) the same as the physical\ncontext during encoding. A famous example of context-\ndependency comes from Godden and Baddeley (1975, as\nmentioned in [8]). They instructed divers to learn words\neither under water or on the beach. They found that the\nnumber of words recalled correctly was high if the retrieval\ncontext was the same as the encoding context, meaning if\nthe words were learned underwater they were best recalled\nunderwater and the same held for the beach condition. The\nperformance dropped signiﬁcantly when the context was\nchanged from underwater to beach or vice versa.\nThe second category explaining a relation between cue\nand retrieval result, is called state-dependent memory,\n",
+    "spare": 154.53932189941406,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      51,
+      57.713600158691406,
+      289,
+      221.11517333984375
+    ],
+    "text": "包括状态依赖效应[8]。它关注的不是回忆者外部情境，而是内部状态，研究中常使用服药或饮酒的参与者进行测试。一般而言，似乎在醉酒时学习的内容，在醉酒状态下最容易记住。\n\n第三类是心境依赖记忆。它认为，由于假设存在不同的情绪模式，回忆时与编码时心境相近，提取效果最好[9]。这一效应可通过抑郁人群等进行研究。虽然自由回忆中发现了较强效应，但在线索回忆中没有出现[4]。",
+    "size": 10,
+    "source_text": "including the state-dependency effect [8]. This category\ndoes not focus on the external context of the person\nremembering, but the internal one, which is tested often\nwith participants who are drugged or drunk. In general, it\nappears that when something is learned when drunk, it is\nbest remembered when drunk.\nThe third and last category is called mood-dependent\nmemory, which states that retrieval is best if the mood at\nrecall is similar to the mood at encoding, because of\nhypothesized distinct emotion modes [9]. Although this\neffect, which can be studied with depressed people for\nexample, has been found to be strong for free-recall, the\neffect was not present in cued recall [4].\n",
+    "spare": 42.901573181152344,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      51,
+      232.04014587402344,
+      289,
+      246.00274658203125
+    ],
+    "text": "## 2.6 遗忘",
+    "size": 10,
+    "source_text": "2.6 Forgetting\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      51,
+      256.9844665527344,
+      289,
+      333.19439697265625
+    ],
+    "text": "有时线索并不能帮助回想某段特定记忆，这时可能称之为遗忘。虽然遗忘尚未得到完全理解，但已有证据支持线索依赖性遗忘：记忆仍然存在，却无法访问，也就是找不到正确线索[17]。",
+    "size": 10,
+    "source_text": "Sometimes cuing does not help recalling a speciﬁc mem-\nory, and then one might speak of forgetting. Although\nforgetting is not yet understood completely, there is evi-\ndence in support of cue-dependent forgetting, which means\nthat memories are still present in memory but they cannot\nbe accessed, i.e., the right cues cannot be found [17].\n",
+    "spare": 22.209930419921875,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      51,
+      344.1761474609375,
+      289,
+      358.1387634277344
+    ],
+    "text": "## 2.7 理论综述小结",
+    "size": 10,
+    "source_text": "2.7 Conclusions on theory overview\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      51,
+      369.1205139160156,
+      289,
+      507.5777587890625
+    ],
+    "text": "自传体记忆，即“对个人一生中事件的记忆”[1]，通过重建实现回想，而重建可由记忆线索启动。由于个人信念系统等会发生变化，重建结果也可能随时间改变。因此，记忆并不总是实际发生之事的事实性表征；它也可能反映，在当前时点，该事件如何体现自传体记忆的目标，例如建构个人身份认同或维持人际关系。",
+    "size": 10,
+    "source_text": "Recollecting memories from autobiographical memory,\n‘‘memory for the events of one’s life’’ [1], works by\nmeans of reconstructing memories, which in turn can be\ninitiated by memory cues. Due to changes in, e.g., per-\nsonal belief systems, the outcome of a memory recon-\nstruction can change over time. Therefore a memory is\nnot always a factual representation of what actually\nhappened but it can be a representation of how the event\nat this point in time reﬂects the goals of autobiographical\nmemory, such as creating a personal identity or main-\ntaining relationships.\n",
+    "spare": 46.957244873046875,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      51,
+      530.6648559570312,
+      289,
+      544.62744140625
+    ],
+    "text": "## 3 增强记忆系统的相关文献",
+    "size": 10,
+    "source_text": "3 Augmented memory system literature\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      51,
+      555.693115234375,
+      289,
+      719.0947265625
+    ],
+    "text": "第2节介绍了自传体记忆理论，本节综述增强记忆系统，即帮助人们回想记忆的系统的相关文献。这一主题涉及面较广，因此将文献分为四组。每组围绕回想过程中的一个核心主题展开：（1）记录生活；（2）任务提醒；（3）创建线索；（4）增强记忆系统，其中也可以将记录生活和创建线索作为支持回想的手段。各类别的研究都可以启发未来各种增强记忆系统的研究。有些研究还提出了此类系统的设计建议，下文将予以介绍。",
+    "size": 10,
+    "source_text": "After the introduction into autobiographical memory the-\nory (Sect. 2) this section gives an overview of relevant\nliterature on augmented memory systems, or systems that\nhelp people recollect memories. Since this is quite a broad\ntopic, the literature is divided into four groups. Each group\nconsists of studies around a central theme in recollecting:\n(1) recording life, (2) reminding tasks, (3) creating cues,\nand (4) augmented memory systems (which can also in-\nclude recording life and creating cues as tools for recol-\nlecting). The studies discussed within these categories can\ninspire future work on any type of augmented memory\nsystems. As will be shown some even formulate recom-\nmendations for designing such systems.\n",
+    "spare": 46.901611328125,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      306,
+      57.418617248535156,
+      544,
+      71.38121795654297
+    ],
+    "text": "### 3.1 记录生活",
+    "size": 10,
+    "source_text": "3.1 Recording life\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      306,
+      82.36295318603516,
+      544,
+      718.9954223632812
+    ],
+    "text": "依据第2节介绍的自传体记忆理论，人的记忆并不“记录生活”。即使系统记录了某一事件，记录内容也不一定与人们对该事件的个人记忆相同。不过，记录一个人的生活可以成为回想记忆的起点，因为以后再次体验这些记录时，它们可能成为观看者的记忆线索。以下项目并不着重于通过线索唤起记忆，而更关注建立事实数据库的其他用途，例如查询约会安排。记录生活的过程可以借助自动化的“日记”实现；在这些案例中，它们是电子日记，例如 familiar[18]。该系统包含传感器、摄像机和麦克风，尝试记录用户感知或经历的一切。familiar 的目标是学会在多媒体日记中记录合适的事件。一项类似研究针对工作空间展开[19]，使用摄像机、传感器、显示器和 RFID 标签，记录并重放与物件有关的特定活动，使用户记住物件的位置。该项目希望通过记录事件并随后向用户展示，扩展人的记忆。forget-me-not 设备[20]自动记录多种办公行为，例如与人会面、使用计算机和打电话。当用户试图想起同事的姓名或某份文件的位置时，可以稍后在便携设备上浏览已保存的事件。\n\nStarner 等人[21]开发了 remembrance agent，这是一个基于文字的增强现实系统。其信息数据库由可穿戴计算设备记录的内容构成；这些设备一部分集成于特殊眼镜，一部分集成于特殊服装。可穿戴计算系统记录音频和视频，执行人脸识别，并检测佩戴者的位置和身体反应。用户可以输入命令与 remembrance agent 交互，它也可以向佩戴者提出建议。\n\n除上述研究外，也有迹象表明，“记录生活”被视为未来研究的重要挑战之一[22]。\n\n上述项目自动记录记忆，用户不能控制记录过程。此外，还有一些项目允许用户决定记录什么、不记录什么。Bush[2]很早就写下了这一构想，提出了“memex”：“memex 是一种设备，个人可在其中保存自己的全部书籍、记录和通信，并通过机械化方式，以极高的速度和灵活性查阅。它是个人记忆的一种扩展性、贴身的补充。”按照 Bush 的构想，memex 的外形是一张普通书桌。一个较新的类似构想称为“The Teddy”[23]。",
+    "size": 10,
+    "source_text": "Based on the AM theories mentioned in Sect. 2 human\nmemory does not ‘‘record life’’ and even if a system would\nrecord an event these recordings do not have to be the same\nas the personal memories of this event. However, recording\na person’s life can be the start of recollecting memories,\nbecause when the recordings are later re-experienced they\ncan cue the viewer. The projects mentioned below do not\nfocus on cuing memories, but more on other aspects of\nhaving a database of facts, such as looking up appoint-\nments. The process of recording life is made possible with\nan automatic and, in these cases, electronic ‘‘diary’’, such\nas the familiar [18]. This system contains sensors, cameras\nand microphones, that try to record everything the user\nperceives or experiences. The familiar aims at learning to\nrecord the right event in the multimedia diary. A similar\nstudy was done for the workspace [19], making use of\ncameras, sensors, displays and RFID tags, where speciﬁc\nactivities with artifacts are recorded and replayed in order\nto make the user learn the location of that artifact. This\nproject aims at extending human memory by recording\nevents that are later shown to the user. The forget-me-not\ndevice [20] automatically records several types of ofﬁce\nbehavior, such as meeting people, using the PC and making\ntelephone calls. The user decides to look through the stored\nevents later on a portable device, when she tries to\nremember a name of a colleague or the location of a\ndocument.\nStarner et al. [21] created a remembrance agent which is\na text-based augmented-reality system. This agent is fed by\na database of information recorded by means of wearable\ncomputing that is partly integrated in special glasses and\npartly in special clothing. The wearable computing system\nrecords audio and video, performs face recognition, detects\nlocation and body responses of the wearer. The remem-\nbrance agent can be addressed by typing in commands and\nit can make suggestions to the wearer.\nApart from above-mentioned studies there are indica-\ntions that ‘‘recording life’’ is seen as one of the great\nchallenges for future research [22].\nIn addition to these projects, in which recordings of\nmemories are made automatically without user control,\nthere are also projects in which the user can decide what to\nrecord and what not. The very ﬁrst ideas were already\nwritten down by Bush [2] who proposed the ‘‘memex’’: ‘‘a\nmemex is a device in which an individual stores all his\nbooks, records, and communications, and which is mech-\nanized so that it may be consulted with exceeding speed\nand ﬂexibility. It is an enlarged intimate supplement to his\nmemory’’. According to Bush this memex looks like an\nordinary desk. A more recent description of such an idea is\ncalled ‘‘The Teddy’’ [23]. The Teddy is a small portable\n",
+    "spare": 158.1324691772461,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      51,
+      57.713600158691406,
+      289,
+      320.72222900390625
+    ],
+    "text": "Teddy 是一种小型便携设备，每个人终生随身携带。它可以记录任何内容；提取电话号码、身份号码或银行账户等信息所需的交互，通过语音识别完成。\n\n前两个例子属于构想，下面的项目则已实现，用于记录一个人生活中的部分经历。rememberer[24]设置在科学博物馆中，其对用户的价值在于，用户可以决定以后希望访问博物馆提供的哪些信息。用户会拿到便携式 PDA 或 RFID 卡，两者功能相同，可用来选择感兴趣的展项。选择时，系统会拍摄四张用户在相应展台处的照片。用户离馆时会收到一枚带有唯一网址的冰箱贴；该网址指向一个网站，展示用户个人选择的信息和照片。MyLifeBits 项目[25]旨在为记录自己生活的人提供软件，将所有个人文档和媒体汇集到线上。在不久的将来，此类软件可能成为增强记忆系统的基础。",
+    "size": 10,
+    "source_text": "device that each individual carries around his whole life.\nThis device can record anything and the interaction nec-\nessary for retrieval, of e.g., telephone numbers, ID-num-\nbers, or bank accounts, goes via speech recognition.\nThe previous two examples consisted of ideas, while the\nfollowing projects were implemented to record a part of a\nperson’s life. The rememberer [24] is situated in a science\nmuseum and the beneﬁt for the user is that she can decide\nwhich information offered in this museum she wants to\nhave access to later. The user gets a portable PDA or an\nRFID card (both with the same functionality), that can be\nused to select interesting exhibits. When doing so four\nphotos are shot from the user at the speciﬁc stand. When\nthe user leaves the museum she receives a fridge magnet\nwith a unique URL, which links to a website with all the\npersonally requested information and the photos. The\nMyLifeBits project [25] aims at providing software for\npeople who record their own life by collecting all personal\ndocuments and media online. In the near future such\nsoftware could be the basis for an augmented memory\nsystem.\n",
+    "spare": 67.50862884521484,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      51,
+      331.7039794921875,
+      289,
+      345.6665954589844
+    ],
+    "text": "### 3.2 任务提醒",
+    "size": 10,
+    "source_text": "3.2 Reminding tasks\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      51,
+      356.5925598144531,
+      289,
+      632.0733642578125
+    ],
+    "text": "提醒人们完成任务涉及前瞻记忆（见第2节），它帮助人们记住需要做的事情，就像人们熟悉的在手帕上打结提醒自己的做法。这方面的研究包括 MemoClip[26]：用户佩戴一枚别针，走进特定区域时，它就提醒用户完成与地点相关的任务。另一个例子是 CybreMinder[27]，该系统使用位置传感器、摄像机和语音识别，在特定条件下提醒用户，例如阴天出门时带上雨伞。这类功能更多涉及记住事实，而非通过重建事件来回忆。因此，它本身未必需要自传体记忆理论；不过，也可以运用这一理论来帮助人们记住这些事实，例如使用线索。下面的项目就采用了这种方式。Memory Glasses[28]配有一件集成计算设备、传感设备和语音识别系统的夹克。系统依据情境，将提醒信息投射在记忆眼镜内侧。\n\n需要指出，上述项目都要求用户输入自己希望稍后得到提醒的事件。",
+    "size": 10,
+    "source_text": "Reminding people of tasks concerns prospective memory\n(see Sect. 2), which helps people remember things they\nhave to do, like the well-known knot tied in a handkerchief.\nExamples of investigations in this area include the Mem-\noClip [26]: a pin worn by the user reminds of a location-\nbased task when this user walks into a speciﬁc area. An-\nother example is the CybreMinder [27], a system using\nlocation sensors, cameras and speech recognition, which\nreminds users of speciﬁc conditions, e.g., to take an um-\nbrella when going outside if it is cloudy. This type of\nfunction is not so much related to remembering in the sense\nof reconstructing an event, as well as remembering facts.\nTherefore, the AM-theory is not needed per se, but could\nbe used to facilitate remembering these facts, e.g., by using\ncues. This is done in the following project. Memory\nGlasses [28] go along with a jacket full of computing,\nsensing and a speech recognition system. Reminders,\ndepending on the context, are projected on the inside of the\nmemory glasses.\nNote that the above-mentioned projects all require from\nthe users to insert the events they want to be reminded of\nlater.\n",
+    "spare": 67.48080444335938,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      51,
+      642.772216796875,
+      289,
+      656.7348022460938
+    ],
+    "text": "### 3.3 创建线索",
+    "size": 10,
+    "source_text": "3.3 Creating cues\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      51,
+      667.7166137695312,
+      289,
+      719.0389404296875
+    ],
+    "text": "人们利用记忆线索帮助自己回忆（见第2.5节）。创建线索的一种方式是使用事件记录，第一个项目[29]就采用了这种做法。研究创建了数字物件的使用历史；",
+    "size": 10,
+    "source_text": "People use memory cues to help them remember (see\nSect. 2.5). One way to create cues is to use a recording of\nan event, which is shown in the ﬁrst project [29]. A history-\nof-use of digital artifacts was created, where the traces of\n",
+    "spare": 9.82232666015625,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      306,
+      57.702613830566406,
+      544,
+      221.10418701171875
+    ],
+    "text": "使用痕迹可以隐含地帮助人们回忆物件曾发生过什么。另一种方式是将线索明确呈现，让用户决定如何利用这些信息。Memory Palace 项目[30]采用了这一方式，通过软件再现一种助记方法。其基本想法是：把待学习的材料放进想象中的房屋，有助于回忆。之后回想时，人们以房间的心理图像作为线索，帮助提取记忆。\n\n本文提及的研究都没有涉及创建线索的一个方面：增强记忆系统如何从事件中提取信息，使这些信息以后可以作为回想的线索。",
+    "size": 10,
+    "source_text": "usage implicitly could help people remember what hap-\npened to the artifact. Another way of creating cues is by\nmaking them explicit and let the user decide how to use\nthis knowledge. This was done in the Memory Palace\nproject [30] that used software to recreate a mnemonic\ndevice. The idea is that it helps people’s recall if they place\ntheir to-be-learned material in an imagined house. Later\nwhen they recollect the mental images of the rooms are\nused as cues to help recall.\nOne aspect of creating cues was not covered in any of\nthe studies mentioned in this paper and that is how an\naugmented memory system could extract information from\nan event that later could be used as a cue for recollection.\n",
+    "spare": 30.401573181152344,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      306,
+      232.02915954589844,
+      544,
+      245.99176025390625
+    ],
+    "text": "### 3.4 增强记忆系统",
+    "size": 10,
+    "source_text": "3.4 Augmented memory systems\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      306,
+      256.9734802246094,
+      544,
+      669.4390869140625
+    ],
+    "text": "浏览数字照片通常是增强记忆系统的基础，表1展示了这一点。该表概括了明确以支持回想或增强人的记忆为目的的设备。下文将进一步介绍各个系统。\n\n（需要注意，有些应用仅是概念，尚未实现为可工作的演示系统。¹）\n\nPersonal Digital Historian[32]使用桌面投影。用户可以触碰“谁”“什么”“何时”“何地”等类别来浏览照片；这些类别以文字呈现，依据输入的元数据生成。由于人们可以围坐在圆桌旁，将图形用户界面转向任何方向，该系统特别适合多人交互。不过，安装在天花板上的投影仪使它只能在固定地点使用。\n\nPenPal[33]是为一项设计竞赛开发的儿童通信设备。儿童可使用 PenPal 拍照、添加声音或语音注释，并制作图像，通过互联网发送。其原型是一台 LCD 触屏设备，配有存储卡插槽、摄像机和麦克风。\n\nStoryTrack[34]是一种旨在增强故事讲述体验的便携式触屏设备。用户可以在原型上浏览和显示数字照片，并添加、播放语音注释。研究者没有使用触屏输入，而是在设备边缘安装了新的输入控件。用户界面包含显示区域、可滚动的缩略图概览，以及一个信息与控制区域，用于显示和操作当前数字照片可能关联的注释。\n\nStorytable 是一件结合数字照片、视频和歌曲的艺术装置[35]。",
+    "size": 10,
+    "source_text": "Browsing through digital photos is often the basis of an\naugmented memory system as can be seen in Table 1. This\ntable gives an overview of devices that are explicitly de-\nsigned to support recollecting or to augment human\nmemory. The text below explains the individual systems in\nsome more detail.\n(It should be noted that in some cases the applications\ndescribed are mere concepts which are not implemented as\nworking demonstrators.1)\nThe Personal Digital Historian [32] makes use of\ntabletop projection. Photos can be browsed by touching the\ncategories who, what, when and where that are presented as\ntext and based on metadata input. The system is especially\nsuitable for multi-user interaction, since people can sit\naround the circular table and turn the GUI in any direction.\nHowever, the ceiling projector ﬁxes it to one location.\nPenPal [33] is a communication device for children\ncreated for a design competition. With the PenPal children\ncan take photos and add sounds or voice annotations, they\ncan create and send images across the internet. The pro-\ntotype consisted of an LCD touch screen device with slots\nfor memory cards, a camera and a microphone.\nThe StoryTrack [34] is a portable touch-screen device\nwhich is meant for enhancing storytelling. The user can\nbrowse and display digital photos and add and play voice\nannotations on the prototype. The touch screen was not\nused; instead the authors mounted new input controls on\nthe edges of the device. The user interface contained a\ndisplay area, a scrollable thumbnail-overview and a section\nshowing information and controls for possible annotations\nassociated with the digital photo currently displayed.\nThe Storytable is an art installation that combines digital\nphotos, videos and songs [35]. This table contains three\n",
+    "spare": 88.46560668945312,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      306,
+      687.8096923828125,
+      544,
+      718.9757080078125
+    ],
+    "text": "1 可显示数字照片及文字等内容的商业设备包括电子书阅读器，例如 SoftBook Reader 和 Rocket eBook[31]，以及笔记本计算机、移动电话和 PDA。",
+    "size": 7.5,
+    "source_text": "1 Commercial devices that can show digital photos and e.g., texts are\nelectronic books, or e-books, such as SoftBook Reader and Rocket\neBook [31], laptops, mobile phones and PDAs.\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      51,
+      253.58750915527344,
+      289,
+      715.8670654296875
+    ],
+    "text": "桌子内部隐藏着三台计算机，表面有三块可见的计算机屏幕。该项目面向老年用户，每块屏幕附近设计了两个大按钮。一个按钮可让用户停止视频和歌曲在屏幕上的漂移，另一个按钮则播放当前选中的媒体内容。系统还允许添加键入的故事。\n\nPhotoShare 应用[36]通过桌面投影显示数字照片。用户使用木块交互：把木块放在投射的缩略图上，就可以在指定位置将照片放大，这一位置既可以在本地，也可以在远端。\n\nmemoryBox 项目[37]提出了一个支持随机浏览、创造交互体验的概念。每枚衣扣关联一张数字照片，其方式与 PhotoShare 中的木块类似。当用户用手拨动 memoryBox 中的衣扣时，照片会短暂出现在盒盖内侧的显示屏上。\n\nRosebud 项目[38]将儿童的故事与具有纪念意义的物件联系起来，在该项目中，物件是毛绒玩具。儿童可以在计算机上输入故事，将故事“讲”给玩具听。玩具甚至能通过提问或动作回应，例如点头或拍爪。Rosebud 希望让儿童学会把毛绒玩具当成故事的倾听者，从而建立一个提高儿童语言表达能力的学习环境。\n\n物件也可以附着于纪念物上，MiMe[39]展示了这种方式。研究者依据 GlowTags 概念制作了原型；GlowTags 是可关联亲密媒体的小物件，例如与一张纸质照片关联。两个人可以各有同一张照片的一个副本，每张照片都带有 GlowTag。当其中一人触摸照片时，另一人的标签就会开始发光，表达一种亲密连接。照片中人物过生日时，标签也可以发光。",
+    "size": 10,
+    "source_text": "hidden PCs and three visible PC screens. The project aimed\nat the elderly user and was designed to have two large\nbuttons in the vicinity of each screen. With one of these\nbuttons the user can stop videos and songs from ﬂoating\nover the screen. The other button starts playing the cur-\nrently selected media item. Typed stories can also be added\nto the system.\nThe PhotoShare application [36] makes use of a pro-\njection on a table for displaying digital photos. The user\ninteracts via wooden blocks that can be put on top of a\nprojected thumbnail in order to enlarge it in an appointed\nlocation, both local and remote.\nA project called memoryBox [37] developed a concept\nsupporting random browsing and creating an interactive\nexperience. Clothing buttons are each linked to one digital\nphoto, just like the wooden blocks in the PhotoShare\napplication. When the user runs her hand through the\nbuttons in the memoryBox, the photos appear temporarily\non the display inside the box cover.\nThe Rosebud project [38] links children’s stories to\nkeepsake artifacts, in this case stuffed animals. The chil-\ndren can type stories on their PC, which are ‘‘told’’ to the\nanimal. The animal can even react to the stories by asking\nquestions or by moving, e.g., by nodding its head or\nclapping its paws. Rosebud wants to teach children to treat\ntheir stuffed animals as listeners of their stories. In this\nway, a learning environment is created to improve chil-\ndren’s verbal skills.\nArtifacts can also be attached to souvenirs which is\nshown by MiMe [39]. A prototype was built based on their\nGlowTags-concept, which concerns small artifacts that can\nbe linked to intimate media, such as a printed photo. Two\npeople could have a copy of the same photo, each having a\nGlowTag. Then when one person touches the photo, the\nother person’s tag could start to glow, showing an intimate\nconnection. The tag could also glow when the person in the\nphoto has his/her birthday.\n",
+    "spare": 104.77955627441406,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      306,
+      253.57847595214844,
+      544,
+      616.2091064453125
+    ],
+    "text": "惠普的 Memory Box[40]“旨在展示一种可能性：记录故事，并将故事附着到保存在盒子里的纪念物上”。该项目着重于录制和播放口述故事，并将故事与数量有限的物件关联。\n\nPOEMs[41]是“嵌入记忆的实体物件”（physical objects with embedded memories）的缩写。该概念将实体物件与数字“记忆”关联，例如数字照片、音频和视频。研究者制作了两个情境方案和一段视频。\n\n英国电信制作了一种能够扫描纪念物等物件的扫描仪原型[42]。扫描物件后，计算机会播放关联的媒体，例如电子邮件、短信和网站；电视则展示照片、视频并播放音频。\n\nStevens 等人[43]的研究关注希望为孩子以及关于孩子保存记忆的父母。他们基于一系列家长访谈、设计活动和焦点小组，设计了 living memory box，使虚拟信息可以与实体物件关联。用户将物件放入专用盒子，再在相连的显示屏上选择媒体文件，即可建立关联。\n\n上述研究通过设备或物件帮助人们回想自传体记忆。其中一些仍停留在概念阶段，另一些已开发为可工作的原型。Stevens 等人[43]对未来增强记忆系统的设计提出了以下建议：",
+    "size": 10,
+    "source_text": "HP’s Memory Box [40] ‘‘was built to illustrate the\npossibility of recording and attaching stories to memora-\nbilia kept in a box’’. The project focused on recording and\nplaying spoken stories which were associated with a lim-\nited number of artifacts.\nPOEMs [41], which stands for physical objects with\nembedded memories, is a concept in which physical arti-\nfacts are linked to digital ‘‘memories’’, such as digital\nphotos, audio and video. Two scenarios and a video were\ncreated.\nBritish Telecom created a prototype of a scanner that\ncan scan artifacts, such as souvenirs [42]. When an artifact\nis scanned a PC plays the attached media, like e-mail, text\nmessages, websites and the TV shows photos, videos and\naudio.\nWork from Stevens et al. [43] focuses on parents who\nwant to preserve memories of and for their children. Based\non a series of interviews with parents, design activities and\nfocus groups they designed the so-called living memory\nbox, which makes it possible to link virtual information to\nphysical artifacts. This linking is done by putting an artifact\nin a dedicated box and by selecting media-ﬁles on an at-\ntached display.\nThe studies mentioned above worked on devices or\nartifacts to help people recollect their autobiographical\nmemories. Some of them remain concepts, while others\nhave been developed into working prototypes. Stevens\net al. [43], presented the following recommendations for\nthe design of a future augmented memory system:\n",
+    "spare": 80.13063049316406,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      306,
+      620.6713256835938,
+      544,
+      709.3533935546875
+    ],
+    "text": "1. 将注释或整理记忆的过程发展为个人表达活动。\n2. 使系统实际上能够容纳任何物件（这与我们此前的发现一致，见第4.1节）。\n3. 让交互脱离计算机。\n4. 开发“自然”的交互方式，即触摸和语音。\n",
+    "size": 10,
+    "source_text": "1.\nDevelop the process of annotating or organizing\nmemories into an activity of personal expression.\n2.\nMake the inclusion of practically any artifact possible\n(which is in line with our earlier ﬁndings, see\nSect. 4.1).\n3.\nBring the interaction away from the PC.\n4.\nDevelop ‘‘natural’’ interactions (i.e., touch and voice).\n",
+    "spare": 22.18206787109375,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      51,
+      58,
+      166,
+      116
+    ],
+    "text": "表1  增强记忆系统按本文介绍顺序排列，并根据其支持的媒体类型分类。",
+    "size": 8,
+    "source_text": "Table 1 Augmented memory\nsystems, in the same order as\nthe description in this paper, are\ncategorized by the media types\nthey support\n",
+    "spare": 24.0,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      316,
+      62,
+      345,
+      75
+    ],
+    "text": "照片",
+    "size": 8,
+    "source_text": "Photo\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      367,
+      62,
+      396,
+      75
+    ],
+    "text": "文字",
+    "size": 8,
+    "source_text": "Text\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      413,
+      62,
+      442,
+      75
+    ],
+    "text": "声音",
+    "size": 8,
+    "source_text": "Sound\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      466,
+      62,
+      495,
+      75
+    ],
+    "text": "视频",
+    "size": 8,
+    "source_text": "Video\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      517,
+      62,
+      546,
+      75
+    ],
+    "text": "物件",
+    "size": 8,
+    "source_text": "Artifact\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      179,
+      208,
+      313,
+      220
+    ],
+    "text": "物件扫描仪 [42]",
+    "size": 8,
+    "source_text": "Object scanner [42]\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      51,
+      57.430091857910156,
+      289,
+      108.75243377685547
+    ],
+    "text": "5. 在任何时候都鼓励讲述故事。\n6. 确保能够容纳多种“声音”。\n7. 创造独特的体验，尤其是在创建和查看注释时。",
+    "size": 10,
+    "source_text": "5.\nEncourage storytelling at any point.\n6.\nAssure the capability of multiple ‘‘voices’’.\n7.\nCreate unique experiences, especially for creating and\nviewing annotations.\n",
+    "spare": 9.822341918945312,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      51,
+      125.7436294555664,
+      289,
+      139.70623779296875
+    ],
+    "text": "### 3.5 文献综述小结",
+    "size": 10,
+    "source_text": "3.5 Conclusions on literature overview\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      51,
+      150.63121032714844,
+      289,
+      376.2850036621094
+    ],
+    "text": "增强记忆系统研究的数量表明，帮助人们回忆是一个受到关注的主题。尽管如此，作者尚未发现有研究提及（自传体）记忆理论，或以此指导设计。因此，大多数研究没有明确指出线索对于回想的重要性，也没有利用记忆在具体程度上的不同层次。\n\n多数案例着重于“记录”记忆，而非“提取”记忆；后者可以建立在对记忆的“线索提示”或“重建”之上。² 有些研究甚至未区分这些过程，可能默认记录记忆的过程会自动使人们回想起来。\n\n从数字照片到实体物件，各类媒体都可以作为增强记忆系统中的记忆线索，尽管这些论文都没有明确以线索提示来描述这一作用。",
+    "size": 10,
+    "source_text": "The number of studies on augmented memory systems\nshows that the topic of helping people remember is a\npopular one. Despite the popularity the authors are not\naware of studies that mention (autobiographical) memory\ntheory or used it to inform their design. Most studies\ntherefore do not (explicitly) identify that cues are important\nfor recollecting, nor do they use the different levels of\nspeciﬁcity of memories.\nThe majority of examples focuses on ‘‘recording’’\nmemories and not on ‘‘retrieving’’, of which the latter\ncould be based on ‘‘cuing’’ or ‘‘reconstructing’’2 memories.\nSome studies do not even make a distinction between these\nprocesses, perhaps assuming that the process of recording\nmemories can automatically make people recollect.\nAll media types, from digital photos to physical arti-\nfacts, can be used as memory cues in an augmented\nmemory system, although none of the papers explicitly\nmentions cuing as such.\n",
+    "spare": 63.65379333496094,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      51,
+      399.6560363769531,
+      289,
+      413.61865234375
+    ],
+    "text": "## 4 设计建议",
+    "size": 10,
+    "source_text": "4 Design recommendations\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      51,
+      424.6842956542969,
+      289,
+      476.00665283203125
+    ],
+    "text": "依据第2节的文献综述，我们可以得出结论：借助线索是回想记忆的自然方式，增强记忆系统可以支持这一过程。因此，我们提出第一条建议（R-I）：",
+    "size": 10,
+    "source_text": "Based on the literature overview of Sect. 2 we can con-\nclude that the natural way to recollect memories is by\nmeans of cues and this can be supported by an augmented\nmemory system. Therefore our ﬁrst recommendation (R-I):\n",
+    "spare": 9.822357177734375,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      51,
+      480.36669921875,
+      289,
+      519.319091796875
+    ],
+    "text": "**R-I：增强记忆系统应支持记忆线索提示。系统可以像日常生活中那样，自动、持续地向用户提供线索。**",
+    "size": 10,
+    "source_text": "R-I An augmented memory system should support\nmemory cuing. It could cue the user automatically and\ncontinuously, as in daily life.\n",
+    "spare": 9.952392578125,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      51,
+      524.2913818359375,
+      289,
+      650.333251953125
+    ],
+    "text": "Stevens 等人[43]提出的设计建议，是一组可用于未来增强记忆系统设计的初步指南。下文将结合我们关于家庭环境中记忆回想支持的研究[45]，扩展这些建议。重点是通过与记忆关联的实体物件进行交互，涉及纪念物（第4.1节）、已实现的数字照片浏览器演示系统（第4.2节），以及自传体记忆理论和实验（第4.3节）。",
+    "size": 10,
+    "source_text": "The design recommendations given by Stevens et al.\n[43] are a ﬁrst set of guidelines that can be used for the\ndesign of a future augmented memory system. In the fol-\nlowing sections these recommendations will be expanded\nderived from our research on creating an in-home memory-\nrecollection support [45]. The focus is on the interaction\nthrough physical artifacts to which memories are linked:\nsouvenirs (Sect. 4.1), the implemented Digital Photo\nBrowser demonstrator (Sect. 4.2) and autobiographical\nmemory theory and experimentation (Sect. 4.3).\n",
+    "spare": 34.5418701171875,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      306,
+      57.425025939941406,
+      544,
+      71.38762664794922
+    ],
+    "text": "### 4.1 纪念物",
+    "size": 10,
+    "source_text": "4.1 Souvenirs\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      306,
+      82.3693618774414,
+      544,
+      718.9754638671875
+    ],
+    "text": "纪念物是一类有潜力的记忆线索，因为实体纪念物可以平衡记忆线索日益数字化的趋势，例如数字照片和数字视频。自我地景研究（autotopography）[46]关注纪念物作为记忆线索的用途。这一领域研究个人收藏的实体物件，这些物件为其主人构成一片记忆地景。照片、纪念物、家具或首饰等物件，因关联着对主人重要的记忆，在物质层面塑造了一部自传，因此物件本身也变得重要。不过，这种关联不可见，其他人往往并不知晓。物件的集合、排列方式（例如家庭祭坛）及其位置（收在阁楼或摆在客厅中央），体现了主人的部分记忆、历史以及身份认同。同时，这些物件还可能体现欲望、认同和社会关系，构成一种自我呈现。\n\n除一些关于自我地景的描述性工作外，尚无研究考察这一概念在现实世界中的具体体现。哪些物件能够成为自我地景的一部分、这类物件的数量，以及它们关联何种记忆，都缺乏数据。Csikszentmihalyi 与 Rochberg-Halton[47]研究过人们家中有哪些物件，但没有询问哪些物件具有纪念意义。他们询问人们最喜欢哪些物件，再追问喜欢的原因，排在首位的原因是记忆。我们感兴趣的是相反的方向：家中有哪些实体物件因能够唤起记忆，而可以充当纪念物。因此，我们开展了一项问卷研究[45]，下文概述其中最相关的结论。\n\n研究发现，人们在家中收藏了一批纪念物，平均超过50件，大多数位于客厅和书房。这表明，纪念物是现成的资源，可与增强记忆系统配合使用。研究识别出三类纪念物：度假纪念物、传家物件（包括家具）和礼物。参与者看到这三类物件时都会回想起记忆，意味着它们对参与者起到了记忆线索的作用。四分之三的参与者会将自己最珍视的纪念物与媒体类型联系起来，每件纪念物平均具有24.3项关联，例如照片、视频、气味、声音和文字。因此，我们得出结论：增强记忆系统应将纪念物视为有力的记忆线索。这构成第二条建议（R-II）：",
+    "size": 10,
+    "source_text": "One promising memory cue type is souvenirs, because\nphysical souvenirs can create a counterbalance for the\nincreasing digitization of memory cues (such as digital\nphotos and digital video footage). The usage of souvenirs\nas memory cues is studied in the ﬁeld of autotopography\n[46].\nAutotopography\nstudies\npersonal\ncollections\nof\nphysical artifacts that serve as a memory landscape to the\nowner. These artifacts, such as photos, souvenirs, furni-\nture or jewelry, physically shape an autobiography be-\ncause they link to memories that are important for the\nowner, and therefore these artifacts are important too.\nThis link though is invisible and often unknown to other\npeople. The collection of artifacts, its arrangement (such\nas a home altar), and its location (stored in the attic or\nplaced in the middle of the living room) represent a part\nof the owner’s memory, history and thus identity. At the\nsame time, these artifacts might represent desire, identi-\nﬁcation and social relations, establishing a form of self-\nrepresentation.\nIn addition to some descriptive work on autotopography\nno investigations have been done on the real-world\nimplementation of this concept. There is no data on the\nnumber of autotopographical artifacts, which artifacts can\nbecome autotopographical or what types of memories are\nattached to them. Csikszentmihalyi and Rochberg-Halton\n[47] did study which artifacts people have at home, but\nthey did not ask which artifacts had a souvenir-meaning.\nThey asked for favorite artifacts and then wanted to know\nwhy these artifacts were favorites (the number one reason\nwas because of memories). We were interested the other\nway around, which physical artifacts are available in home\nthat can be used as souvenirs because they cue memories.\nTherefore, we conducted a questionnaire study [45] of\nwhich the most relevant conclusions are summarized be-\nlow.\nPeople appeared to have a collection of souvenirs at\nhome, on average over 50 and most of these souvenirs\ncould be found in the living room and the study. This\nshows that souvenirs are readily available for use together\nwith an augmented memory system. Three categories of\nsouvenirs were identiﬁed: holiday souvenirs, heirlooms\n(including furniture) and gifts. All three categories made\nthe participants recollect memories when they looked at it,\nmeaning they served as memory cues for them. Three-\nquarters of the participants had media-type associations\nwith their most valuable souvenirs, on average 24.3 asso-\nciations per souvenir, such as photos, videos, smells,\nsounds, texts. Therefore we can conclude that souvenirs\nshould be considered as powerful memory cues in an\naugmented memory system, which is our second recom-\nmendation (R-II):\n",
+    "spare": 187.1061019897461,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      51,
+      687.8096923828125,
+      289,
+      718.9757080078125
+    ],
+    "text": "2 在人工智能领域，基于案例的推理被用作一种方法，展示记忆重建可能如何运作[44，第8—9页]。",
+    "size": 7.5,
+    "source_text": "2 Within the context of artiﬁcial intelligence case-based reasoning is\nused as a method to show how the reconstruction of memories could\nwork [44, pp 8–9].\n",
+    "spare": 8.416015625,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      51,
+      57.32792663574219,
+      289,
+      83.86486053466797
+    ],
+    "text": "**R-II：将纪念物作为记忆线索纳入增强记忆系统。**",
+    "size": 10,
+    "source_text": "R-II Include souvenirs in an augmented memory system\nas memory cues.\n",
+    "spare": 10.036933898925781,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      51,
+      100.7992935180664,
+      289,
+      114.76189422607422
+    ],
+    "text": "### 4.2 数字照片浏览器演示系统",
+    "size": 10,
+    "source_text": "4.2 Digital Photo Browser demonstrator\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      51,
+      125.74466705322266,
+      289,
+      463.4727783203125
+    ],
+    "text": "在开展上述研究的同时，我们还开发了自己的增强记忆系统，支持在家庭环境中浏览、检索和分享数字照片，称为“数字照片浏览器”（Digital Photo Browser）。这项团队工作在 Phenom 项目中完成，该项目属于飞利浦环境智能研究计划[48]。\n\n依据上一节纪念物研究的结果，数字照片浏览器支持使用纪念物：它们既能唤起个人回想，也能作为通往数字媒体的实体链接；这里的数字媒体是数字照片集合（见图1）。例如，将纪念物放在桌上，就会触发手持触屏设备，在屏幕右侧的照片卷轴中显示与该纪念物关联的全部照片。如果对滚动经过的某张照片感兴趣，可以将其拖到屏幕中央，放大后自行观看。如果希望向客人展示某张照片，可以把它拖到屏幕左侧的电视缩略图上，照片就会显示在电视上。这同时支持公开和私密的照片浏览。照片也可以显示在柜子里的数字相框上，或发送到照片打印机；这些操作均通过无线连接完成。\n\n有关可运行的数字照片浏览器演示系统的更多细节，见文献[45，49—52]。",
+    "size": 10,
+    "source_text": "In parallel to the studies mentioned before, we also\ndeveloped our own augmented memory system that sup-\nported browsing, searching and sharing digital photos in\nthe home environment and it was called the Digital Photo\nBrowser. This team-effort was carried out in the Phenom\nproject, which was part of the Philips research program on\nambient intelligence [48].\nBased on the results of the souvenir study mentioned in\nthe previous section this Digital Photo Browser supported\nsouvenirs that cued personal recollections and simulta-\nneously could be used as tangible links to digital media, in\nthis case digital photo collections (see Fig. 1). One exam-\nple activity concerns placing a souvenir on the table, which\nwould trigger the handheld touch-screen device to display\nall the photos linked to the souvenir in the photo roll (on\nthe right of the screen). In case you were interested to view\none of these photos that scroll by, you could drag it to the\ncenter of the screen for a personal enlargement. If you\ndecided that you wanted to show a particular photo to your\nguests, you could drag it to the thumbnail of the TV (on the\nleft of the screen) and it would be displayed on the tele-\nvision. This supports both public and private photo\nbrowsing. Photos can also be displayed on a digital photo\nframe in the cupboard or can be sent to a photo printer, all\nwirelessly.\nFor more details on the working Digital Photo Browser\ndemonstrators, see [45, 49–52].\n",
+    "spare": 88.22811126708984,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      306,
+      57.707008361816406,
+      544,
+      544.8740844726562
+    ],
+    "text": "越来越多的人创建数字回想线索，例如数字照片和数字视频。因此，增强记忆系统应以数字设备为基础，以便存储和播放这些数字媒体。另一方面，数字线索仍可以与实体线索结合，例如数字照片浏览器演示系统中的纪念物。这种结合有多种好处，例如可以利用人们已经拥有、且往往十分珍视的实体物件。另一个好处是，纪念物历来被用于唤起记忆，因此能以自然的方式帮助回想。实体物件与数字物件的结合，还可能帮助不熟悉数字设备的人与新技术交互。\n\n对于数字照片浏览器，纪念物与照片之间的关联似乎也很有用：纪念物通常在度假时购买（见上一节），购买者也会在那里拍摄数字照片，之后就容易将照片与相应的纪念物关联。因此，兼具购买者、摄影者和数字照片浏览器用户身份的人，自然会拥有将纪念物与数字照片联系起来的心智模型。\n\n用实体物件作为访问部分数字照片的快捷入口，称为实体交互，或可抓握／实体用户界面[53，54]。我们选择这种方式，原因如下：（1）能够快速访问照片；（2）由用户自行选择作为链接的物件，因此具有个性化空间；（3）物件或纪念物与照片之间的联系由用户自己建立，因此用户事先已经知道这种心理联系；（4）这种交互方式可以连接实体与虚拟事物，使数字照片成为可触及的内容；（5）纪念物同时向用户提供记忆线索；（6）触碰和放开实体物件的可供性，为交互提供自然的开始和停止事件[55]；（7）纪念物可能有助于讲述故事或分享回想[56]。基于这些原因，可以提出以下建议：",
+    "size": 10,
+    "source_text": "More and more people create digital recollection-cues,\nsuch as digital photos and digital video footage. Therefore\nthe design of an augmented memory system should be\nbased on a digital device in order to be able to store and\nplay those digital media. On the other hand, there is still the\nopportunity to combine the digital cues with the physical\nones, like the souvenirs in the Digital Photo Browser\ndemonstrator. This combination has several beneﬁts, such\nas using the physical artifacts people already have that are\noften valuable to them. Another beneﬁt is that souvenirs\nare traditionally used to cue memories, therefore helping\nthe recollection process in a natural way. The combination\nof physical and digital artifacts might also help people who\nare not experienced in working with digital devices in their\ninteraction with those new technologies.\nFor the Digital Photo Browser the link between souvenir\nand photo seems also useful since often souvenirs are\nbought on a holiday (see previous section) and the buyer\nalso creates the digital photos there, which later can be\nlinked easily to the corresponding souvenir. Therefore the\nbuyer and photographer, who is also the user of the Digital\nPhoto Browser, will automatically have a mental model\nlinking the souvenirs to the digital photos.\nPhysical artifacts representing shortcuts to subsets of\ndigital photos, which is called tangible interaction or a\ngraspable/tangible user interface [53, 54], were chosen for\nthe following reasons: (1) quick access to photos, (2) a self-\nchosen artifact is the link, so there is room for personali-\nzation, (3) people already know beforehand the mental link\nbetween the artifact or souvenir and the photos, since they\ncreated the link themselves, (4) the interaction style makes\nit possible to link physical with virtual, making digital\nphotos tangible, (5) at the same time the souvenirs provide\nmemory cues to the user, (6) the affordances of touching\nand releasing a physical artifact serve as natural start and\nstop events in the interaction [55] and (7) souvenirs might\nfacilitate storytelling, or sharing recollections [56]. Be-\ncause of these reasons the following recommendation can\nbe formulated:\n",
+    "spare": 137.66707611083984,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      306,
+      549.2341918945312,
+      544,
+      588.1865234375
+    ],
+    "text": "**R-III：将纪念物纳入增强记忆系统，使用方式与实体交互中的实体物件相同。**",
+    "size": 10,
+    "source_text": "R-III Include souvenirs in an augmented memory system\nin the same way as tangible artifacts in tangible\ninteraction.\n",
+    "spare": 9.95233154296875,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      306,
+      593,
+      544,
+      719
+    ],
+    "text": "家具、纪念物、其他物件和纸质照片等实体物件，应与设备建立关联，同时保留原有功能。用户可以决定将什么关联到增强记忆系统，选项应涵盖各种媒体，从一段文字到完整的身体体验。本文聚焦于普通用户目前能够获取的媒体，即声音／音乐、视频、照片／图片、实体物件／纪念物／纪念品／留念物／传家物件／家具，以及文字。",
+    "size": 10,
+    "source_text": "Physical artifacts, such as furniture, souvenirs, artifacts\nand printed photos, should be linked to the device and\nmaintain their original function. The user can decide what\nshe wants to associate to the augmented memory system\nand the options should include all kinds of media, ranging\nfrom a piece of text to a complete bodily experience. In this\npaper the focus is on media that are currently available for\nthe regular user, namely: sounds/music, video, photos/\npictures, physical artifacts/souvenirs/keepsakes/mementos/\nheirlooms/furniture, and text.\n",
+    "spare": 34.5,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      51,
+      696,
+      289,
+      719
+    ],
+    "text": "**图1。** 数字照片浏览器演示系统，以纪念物作为实体交互物件（照片：飞利浦研究院）。",
+    "size": 7.5,
+    "source_text": "Fig. 1 The Digital Photo Browser demonstrator with souvenirs as\ntangible artifacts (photo: Philips Research)\n",
+    "spare": 0.25,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      51,
+      57.430091857910156,
+      289,
+      71.39269256591797
+    ],
+    "text": "### 4.3 自传体记忆",
+    "size": 10,
+    "source_text": "4.3 Autobiographical memory\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      51,
+      82.37442779541016,
+      289,
+      195.944091796875
+    ],
+    "text": "第2.1节介绍了自传体记忆的多种功能，包括解决问题、调节心境，以及建立和维持人际关系。从理论上说，未来的增强记忆系统可以支持全部这些功能。不过，问题在于人们是否会将此类设备用于所有这些功能。本文案例主要关注支持个人身份认同，以及与他人分享经历，而这只是自传体记忆六种功能中的两种。",
+    "size": 10,
+    "source_text": "Section 2.1 mentioned the diverse functions of autobio-\ngraphical memory, including problem solving, regulating\nmoods and creating and maintaining relation ships. A fu-\nture augmented memory system could in theory support all\nthese functions. The question however is whether people\nwill use such a device for all these functions, since the\nfocus of the examples in this paper is predominantly on\nsupporting personal identity and sharing experiences with\nother people, only two of the six AM-functions.\n",
+    "spare": 22.069664001464844,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      51,
+      200.36094665527344,
+      289,
+      251.78546142578125
+    ],
+    "text": "**R-IV：明确选择增强记忆系统要支持哪些自传体记忆功能，并据此设计系统。**",
+    "size": 10,
+    "source_text": "R-IV Choose explicitly which functions of autobiograph-\nical memory should be supported by the augmented\nmemory system and base the design of the system on\nthese decisions.\n",
+    "spare": 22.424514770507812,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      51,
+      256.7019958496094,
+      289,
+      382.74383544921875
+    ],
+    "text": "第3节的大多数增强记忆系统案例，没有明确选择要支持哪一种自传体记忆功能。多数案例着重实现记忆过程中的记录部分，甚至没有提到提取。为了获得最佳的增强记忆系统，需要优化所选功能及回想过程。例如，聚焦个人身份认同的增强记忆系统，与记录个人生活的系统，需要不同的记录和提取过程。",
+    "size": 10,
+    "source_text": "Most augmented memory system examples mentioned\nin Sect. 3 did not explicitly choose a particular AM-func-\ntion that should be supported. Most examples focused on\nimplementing the recording part of the remembering pro-\ncess, without even mentioning retrieval. For an optimal\naugmented memory system the selected function and rec-\nollection process need to be optimized. For example, an\naugmented memory system focusing on personal identity,\nneeds a different recording and retrieval process, compared\nto a system recording one’s life.\n",
+    "spare": 47.041839599609375,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      51,
+      387.1038818359375,
+      289,
+      438.5284118652344
+    ],
+    "text": "**R-V：选择增强记忆系统要支持记忆过程的哪一部分：记录和／或提取记忆。设计这些过程时，应考虑所选功能的要求（R-IV）。**",
+    "size": 10,
+    "source_text": "R-V Choose which part of the remembering process\nshould be supported by the augmented memory system:\nrecording and/or retrieving memories. Design these with\nthe requirements of the chosen function (R-IV) in mind.\n",
+    "spare": 9.924530029296875,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      51,
+      443.5007019042969,
+      289,
+      681.621826171875
+    ],
+    "text": "Maypole 项目[57]就纸质照片与数字照片的真实性提出了一个有趣的观点。许多人不知道是否该相信数字照片中的内容，因为如今任何人都可以在个人计算机上用软件修改或编辑照片。不过，Maypole 指出，纸质照片同样不能代表真实的日常生活：无论事实如何，人们都会费尽心思，让照片中的家庭看上去幸福、成功而富裕。\n\n第2节的文献表明，记忆不会随时间保持不变。和照片一样，它们未必是现实的原样复制。人的信念和情境会变化，因此记忆的重建也会变化。这对增强记忆系统至关重要，因为它意味着设备实际上只能为用户提供支持。最终，仍须由用户自己回想记忆。因此：",
+    "size": 10,
+    "source_text": "An interesting remark resulting from the Maypole pro-\nject [57] was made about the truthfulness of physical ver-\nsus digital photos. A lot of people do not know whether to\nbelieve the contents of a digital photo, since anybody\nnowadays can change or edit them with software on their\nown personal PCs. But, according to Maypole, printed\nphotos do also not represent real everyday life in the sense\nthat people go to great lengths to make a family look\nhappy, successful and prosperous in a photograph, whether\nthis is true or not.\nFrom the literature mentioned in Sect. 2 it was learned\nthat memories do not stay the same over time, they are, just\nas photos, not per se a carbon-copy of reality. People’s\nbeliefs and contexts change and therefore the reconstruc-\ntion of memories can change as well. This is an important\nfact for an augmented memory system, since it implies that\nthis device is really only a support for the user. Ultimately,\nit is the user who has to recall the memories herself.\nTherefore:\n",
+    "spare": 80.12112426757812,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      51,
+      685.9818725585938,
+      289,
+      712.518798828125
+    ],
+    "text": "R-VI：增强记忆系统不应理所当然地将记录材料呈现为",
+    "size": 10,
+    "source_text": "R-VI An augmented memory system should not neces-\nsarily present recorded material as the ‘‘only’’ instanti-\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      306,
+      57.419044494628906,
+      544,
+      83.85381317138672
+    ],
+    "text": "实际发生之事的“唯一”版本，因为这可能干扰用户当下的回想。",
+    "size": 10,
+    "source_text": "ation of what really happened, since this might interfere\nwith the actual recollections of the user.\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      306,
+      88.8261489868164,
+      544,
+      239.75555419921875
+    ],
+    "text": "除了想起往事，回想也包含复述。每当一段记忆被想起——在心中思考或与人交流——这些信息可能保存得更加牢固，也可能因情境变化而发生改变。这意味着，增强记忆系统中元数据的添加、删除和修改应当灵活。人们对照片或纪念物背后故事的看法可能改变，因此需要易于调整的元数据系统。保留交互历史也许很有意义，例如文献[50]描述的方式：将用户对数字照片等所作的某些修改保存为元数据。",
+    "size": 10,
+    "source_text": "In addition to remembering, recollection also comprises\nrehearsal. Every time a memory has been remembered\n(thought about or communicated) this information either\nwill be stored more securely, or the information changes,\nbecause the context has changed. This implies that adding,\ndeleting or changing metadata to an augmented memory\nsystem should be ﬂexible. People might change their mind\non the story behind a photo or souvenir, which requires a\nmetadata system that can easily be adapted. Perhaps it\ncould be interesting to keep an interaction history, such as\nthe one described in [50], which keeps certain changes\nmade by the user, e.g., to digital photos, as metadata.\n",
+    "spare": 46.929405212402344,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      306,
+      244.11558532714844,
+      544,
+      270.65252685546875
+    ],
+    "text": "**R-VII：创建用户能够轻松修改的元数据系统。**",
+    "size": 10,
+    "source_text": "R-VII Create a metadata system that can be changed\neasily by the user.\n",
+    "spare": 10.036941528320312,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      306,
+      275.62481689453125,
+      544,
+      351.8347473144531
+    ],
+    "text": "关于自传体记忆具体程度层次的理论（第2.4节）认为，回想过程从三个层次中最高的“人生阶段”开始，经过“一般事件”，最终到达“事件特定知识”（ESK）。系统设计应依据增强记忆系统的目标，聚焦不同的具体程度层次：",
+    "size": 10,
+    "source_text": "The theory on AM’s levels of speciﬁcity (Sect. 2.4)\nassumes that the process of recollecting starts with the\nhighest of three levels of speciﬁcity, life-time periods, and\ncontinues to general events, ending with ESK. Depending\non the goal of the augmented memory system the design\nshould focus on different levels of speciﬁcity:\n",
+    "spare": 9.709930419921875,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      306,
+      356.1947937011719,
+      544,
+      469.92340087890625
+    ],
+    "text": "**R-VIII：如果增强记忆系统的目标是支持人们尽可能多地回忆，应聚焦事件特定知识。如果目标是支持记忆的一般结构，应聚焦人生阶段和一般事件。如果系统要支持完整的记忆过程，所呈现的信息应对应回想循环、其中的监督性注意系统（SAS），以及全部三个具体程度层次。**",
+    "size": 10,
+    "source_text": "R-VIII If an augmented memory system has the goal to\nsupport people’s remembering as much as possible, it\nshould focus on ESK. If the goal is to support the general\nstructure of memory, the focus has to be on lifetime\nperiods and general events. If the system should support\nthe user through the whole process of remembering the\npresented information should relate to the recollection\ncycle with its supervisory attentional system (SAS) and\nall three levels of speciﬁcity.\n",
+    "spare": 34.728607177734375,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      306,
+      474.83990478515625,
+      544,
+      712.9609985351562
+    ],
+    "text": "用于回想日常记忆的增强记忆系统，最能受益于情境依赖的记忆线索（第2.5节）。这类线索可以是与待回忆事件外部情境在物理上相关的任何事物，从照片、声音到实体物件，这也支持了建议 R-II。\n\n在编码特异性原则的背景下，我们开展了一项真实生活中的线索实验，检验五类线索对记忆细节，即事件特定知识提取效率的影响：照片、气味、声音、纪念物和视频[45，58，59]。与预期相反，文字线索条件（即无线索条件）产生的事件特定知识显著多于提供线索的条件。我们对这一意外结果的解释是：线索让人们聚焦于自己感知到的内容，而不再尝试思考其他可能相关的记忆。例如，在询问某个具体事件时，如果给参与者一张照片，参与者可能聚焦于与照片相关的记忆，而不是自由回想任何有关的记忆。因此，如果目标是尽可能多地回忆，",
+    "size": 10,
+    "source_text": "An augmented memory system for recollection of\neveryday memories beneﬁts most from context-dependent\nmemory cues (Sect. 2.5). Such cues could consist of any-\nthing physically related to the external context of the to-be-\nremembered event, ranging from photos to sounds to\nphysical artifacts, which supports R-II.\nWithin the context of the encoding-speciﬁcity principle\na real-life cuing experiment was realized in order to test the\nefﬁciency of memory detail (or ESK) recall for ﬁve cue-\ntypes: photos, smells, sounds, souvenirs and videos [45, 58,\n59]. Against expectation, text cues (the no-cue condition)\ngenerated signiﬁcantly more ESKs than the cued condition.\nOur explanation for this unexpected result was that cues\nmake people focus on what they perceive instead of trying\nto think of other memories that might be related. For\nexample, when asking about a speciﬁc event, while giving\nthe participant a photo, this person might focus on photo-\nrelated memories instead of freely recall any related\nmemories. Therefore, if the goal is to remember as much as\n",
+    "spare": 42.62109375,
+    "scale": 1.0
+  },
+  {
+    "page": 9,
+    "rect": [
+      51,
+      57.713600158691406,
+      289,
+      320.72222900390625
+    ],
+    "text": "文字就应是增强记忆系统中的主要线索类型。\n\n不过，仅依据这一实验就将线索限制为文字，可能存在风险，因为回想还包含其他未被检验的维度。例如：回想时的愉悦感、改变用户心境的能力、记忆的强烈程度、记忆形成很久之后线索的作用、回忆的速度，以及人们可能对特定线索类型具有的个人偏好。虽然这些维度尚未研究，但可以假设，例如，与仅提供文字相比，照片带来的回想过程可能更加愉快，尤其是在一个人向另一个人讲述记忆时。在数字照片浏览器的总结性评估[45]中，讲述者和倾听者经常都表现出愉悦：面带微笑，用手指向照片，并专注地交谈。此外，线索对不同年龄组可能产生不同影响[60]。因此，需要进一步研究回想体验的这些其他维度。",
+    "size": 10,
+    "source_text": "possible text should be the main cue type in an augmented\nmemory system.\nHowever, it might be dangerous to restrict to text (based\non this experiment) since there are more dimensions to\nrecollecting that were not tested. Examples of these addi-\ntional dimensions are: pleasure while recollecting, the\nability to change the user’s mood, the intensity of the\nmemory, the effect of cues a long time after the memory-\ncreation, the speed of the memory-recall and perhaps per-\nsonal preferences for certain cue types. Although those\ndimensions were not investigated it is assumed that e.g., the\npleasure of the recall process is bigger with photos than with\nonly text, especially in a situation where someone is com-\nmunicating her memories to somebody else. The pleasure\naspect was often apparent during the summative evaluation\nof the Digital Photo Browser [45] in both storyteller and\nlistener, shown by smiling faces, pointing ﬁngers towards\nthe photos and concentrated conversations. In addition, cues\nmight have different effects for the different age groups\n[60]. Therefore, more research is needed to investigate these\nother dimensions of the recollection experience.\n",
+    "spare": 92.50862884521484,
+    "scale": 1.0
+  },
+  {
+    "page": 9,
+    "rect": [
+      51,
+      344.09326171875,
+      289,
+      358.0558776855469
+    ],
+    "text": "## 5 结论",
+    "size": 10,
+    "source_text": "5 Conclusions\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 9,
+    "rect": [
+      51,
+      369.06573486328125,
+      289,
+      719.2660522460938
+    ],
+    "text": "长期以来，人们认为记忆以完整事件的形式保存；每当回想一段记忆，事件发生时的完整故事都会重新浮现。但自传体记忆并非这样运作。回忆是一种重建过程：依据记忆中所存概念之间的关联强度，重建发生过的事情。这意味着，回想内容不一定就是那个时刻实际发生的事情，因为概念之间的关联、乃至概念本身，都可能随时间改变，或变得无法访问——这就是我们体验到的遗忘。因此，增强记忆系统不能储存记忆。系统用户应能够使用线索，启动或促进这一重建过程。用户应能够以隐含方式引导回想过程，使其符合自己目前对既往事件的“看法”，因为记忆发生变化可能有其原因，这些变化应得到支持。记忆线索包括照片、声音、气味、文字和纪念物。\n\n值得进一步研究的方向包括：如何用专门的增强记忆系统支持自传体记忆的不同功能，以及所使用的记忆线索与回想出的记忆在类型和强度上有何关系，例如线索是否会成为记忆。当然，对增强记忆系统开展纵向研究，应有助于理解日常回想的各个相关方面，例如线索、实体媒体和数字媒体的实际使用。",
+    "size": 10,
+    "source_text": "It was long assumed that memories are stored as complete\nevents and that whenever you recollect a memory, the\ncomplete story of the event as it happened, will come back\nto you. This is not how autobiographical memory works.\nRemembering is a process in which you reconstruct what\nhappened, based on the strength of the relations between\nconcepts stored in memory. This means that what you\nrecollect does not have to be what happened at that speciﬁc\npoint in time, since the relations between concepts or the\nconcepts themselves can change over time or become\ninaccessible (which we experience as forgetting). There-\nfore an augmented memory system cannot store memories.\nUsers of such a system should be able to use cues to\ninitiate or facilitate this reconstruction process. They\nshould (implicitly) steer the recollection process to ﬁt their\ncurrent ‘‘vision’’ on the events that have occurred, because\nthere can be reasons behind memory changes and therefore\nthey should be supported. Examples of memory cues are\nphotos, sounds, smells, texts and souvenirs.\nInteresting areas for future research concern how the\ndifferent functions of autobiographical memory can be\nsupported by dedicated augmented memory systems and\nwhat the relations are between memory cues used and the\n(kind and strength of the) memories that are recollected\n(e.g., do the cues become memories?). Of course, longi-\ntudinal studies of augmented memory systems should give\ninsights in all related aspects of everyday recollecting (e.g.,\nthe actual use of cues, physical and digital media).\n",
+    "spare": 104.7003173828125,
+    "scale": 1.0
+  },
+  {
+    "page": 9,
+    "rect": [
+      306,
+      57.41577911376953,
+      544,
+      119.78897094726562
+    ],
+    "text": "## 致谢\n\n作者感谢 I. Wessel 引领我们进入自传体记忆领域并给予指导；感谢 A. Kohlrausch 和 M. Rauterberg 在上述研究中给予支持；也感谢参与创建数字照片浏览器的其他项目成员：E. Dijk、N. De Jong、E. Van Loenen、D. Tedd、D. Teixeira 和 Y. Qian。",
+    "size": 8,
+    "source_text": "Acknowledgments\nThe authors would like to thank I. Wessel for\nintroducing us to and guiding us through the ﬁeld of autobiographical\nmemory, A. Kohlrausch and M. Rauterberg for their support during\nthe mentioned studies and the other members of the project team that\ncreated the Digital Photo Browser: E. Dijk, N. De Jong, E. Van\nLoenen, D. Tedd, D. Teixeira and Y. Qian.\n",
+    "spare": 4.373191833496094,
+    "scale": 1.0
+  },
+  {
+    "page": 9,
+    "rect": [
+      306,
+      144.2564239501953,
+      544,
+      158.21900939941406
+    ],
+    "text": "## 参考文献",
+    "size": 10,
+    "source_text": "References\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 10,
+    "rect": [
+      306,
+      650,
+      544,
+      714
+    ],
+    "text": "译本说明：AI中文翻译，未经作者审定。用于个人阅读。原作发表于2008年，理论与技术评价按原作历史时点理解；参考文献及照片中的设备界面保留原文。DOI：10.1007/s00779-007-0177-9。",
+    "size": 8,
+    "source_text": "",
+    "spare": 30.0,
+    "scale": 1.0
+  }
+]
