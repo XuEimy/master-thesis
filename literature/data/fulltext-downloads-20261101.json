@@ -12,5 +12,20 @@
     "sha256": "5dff126b8d74d5aa35c09396fd9c3ec1c4c6824ea7c0e879b4cdf4a1472a70a2",
     "verification": "PDF可解析；首面及元数据核对Soares/Storm、题名、DOI、7卷154–160页。",
     "reading_status": "仅获取全文，未作全文核读或质量评价"
+  },
+  {
+    "n": 52,
+    "title": "Comparison of the change in interpretative stances of lifelog photos versus manually captured photos over time",
+    "doi": "10.1108/OIR-03-2018-0108",
+    "date": "2026-11-01",
+    "source_url": "https://www.researchgate.net/publication/335020521_Comparison_of_the_change_in_interpretative_stances_of_lifelog_photos_versus_manually_captured_photos_over_time",
+    "source_note": "用户自行下载后从本机Downloads归档；网页入口为此前提供的作者公开全文页，实际下载渠道未经浏览器追溯确认。",
+    "file": "sources/fulltext/052-Lee-Ryu-2019-Interpretative-Stances.pdf",
+    "version": "Emerald排版的在线先行版，21页，尚无最终卷期页码",
+    "bytes": 1855449,
+    "pages": 21,
+    "sha256": "8607e5c1b086603d44a4a05fb92539231071110b7c667c513eb03076895e71ff",
+    "verification": "pdfinfo确认21页；pdftotext核对首面题名、Lee/Ryu、DOI与末面参考文献。",
+    "reading_status": "仅获取，未完成全文核读或质量评价"
   }
 ]
