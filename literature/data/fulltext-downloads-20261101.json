@@ -27,5 +27,20 @@
     "sha256": "8607e5c1b086603d44a4a05fb92539231071110b7c667c513eb03076895e71ff",
     "verification": "pdfinfo确认21页；pdftotext核对首面题名、Lee/Ryu、DOI与末面参考文献。",
     "reading_status": "仅获取，未完成全文核读或质量评价"
+  },
+  {
+    "n": 64,
+    "title": "The Benefits and Costs of Editing and Reviewing Photos of One’s Experiences on Subsequent Memory",
+    "doi": "10.1016/j.jarmac.2020.07.002",
+    "date": "2026-11-01",
+    "source_url": "https://doi.org/10.1016/j.jarmac.2020.07.002",
+    "source_note": "用户直接提供本机PDF后归档；具体下载平台未核实，DOI为出版物定位入口，不代表本次下载渠道。",
+    "file": "sources/fulltext/064-Henkel-Milliken-2020-Editing-Reviewing-Photos.pdf",
+    "version": "正式发表版，Journal of Applied Research in Memory and Cognition 9(4):480-494",
+    "bytes": 1038108,
+    "pages": 15,
+    "sha256": "0e5c3ae79e499c96cfddd06a39ba7ca90cb9d95286f4b2b876a6ba39b6d02c18",
+    "verification": "核对15页、题名、Henkel/Milliken、正文DOI、三个实验、参考文献和末页494。",
+    "reading_status": "已取得完整原文；此前说明仅据摘要与公开片段，不视为完成全文精读。"
   }
 ]

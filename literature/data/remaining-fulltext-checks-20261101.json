@@ -72,7 +72,8 @@
     "status": "出版平台／机构访问待恢复",
     "detail": "已定位 ScienceDirect 原论文；DOI连接出现TLS故障，同平台机构认证连接关闭。不能把摘要中各节片段当全文。",
     "url": "https://www.sciencedirect.com/science/article/pii/S2211368120300553",
-    "followup": "2026-11-01用户已登录ProQuest，同济机构标识已确认。高级检索精确题名短语返回3条引用该文的其他记录，未出现目标论文。数据库选择页当前授权7库为ABI/INFORM Collection、Business Market Research Collection、Coronavirus Research Database、Ebook Central、Education Research Index、ProQuest Dissertations & Theses Global、Publicly Available Content Database，不含APA PsycArticles。APA文章页仍显示Get Access。仅确认当前会话未能获取，不据此断言同济所有渠道均未订阅。"
+    "followup": "2026-11-01用户已登录ProQuest，同济机构标识已确认。高级检索精确题名短语返回3条引用该文的其他记录，未出现目标论文。数据库选择页当前授权7库为ABI/INFORM Collection、Business Market Research Collection、Coronavirus Research Database、Ebook Central、Education Research Index、ProQuest Dissertations & Theses Global、Publicly Available Content Database，不含APA PsycArticles。APA文章页仍显示Get Access。仅确认当前会话未能获取，不据此断言同济所有渠道均未订阅。",
+    "resolution": "2026-11-01用户直接提供15页正式版PDF，已归档；具体下载渠道未知。此前访问限制保留为历史，不再待获取。"
   },
   {
     "n": 68,
