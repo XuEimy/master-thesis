@@ -1,6 +1,6 @@
 """生成 literature/文献精读台.html。
 
-数据：literature/data/文献总表.json（130 篇，2026-10-30 生成）。
+数据：literature/data/文献总表.json（历史题录；当前范围由 current-reading-scope.json 筛选）。
 重新运行时会扫描 literature/sources/fulltext/：文件名以三位编号开头（如 045-作者-年.pdf）
 的 PDF 会被识别为该编号的本地文件。
 用法：python3 literature/scripts/build_reading_page.py
@@ -10,6 +10,10 @@ from pathlib import Path
 
 LIT = Path(__file__).resolve().parents[1]
 rows = json.loads((LIT / "data/文献总表.json").read_text(encoding="utf-8"))
+scope_path = LIT / "data/current-reading-scope.json"
+scope = json.loads(scope_path.read_text(encoding="utf-8")) if scope_path.exists() else {}
+excluded_ids = {r["n"] for r in scope.get("excluded", [])}
+rows = [r for r in rows if r["n"] not in excluded_ids]
 ft = LIT / "sources/fulltext"
 files = sorted(p.name for p in ft.glob("*.pdf")) if ft.exists() else []
 supp_path = LIT / "data/fulltext-supplements-20261031.json"
