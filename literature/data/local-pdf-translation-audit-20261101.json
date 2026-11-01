@@ -1,0 +1,466 @@
+{
+  "date": "2026-11-01",
+  "active_count": 113,
+  "valid_pdf_count": 111,
+  "text_only": [
+    23
+  ],
+  "missing_fulltext": [
+    64
+  ],
+  "parse_errors": [],
+  "queue_paths_updated": [
+    4,
+    52,
+    55,
+    59,
+    60,
+    92
+  ],
+  "files": {
+    "1": {
+      "path": "literature/sources/fulltext/01-sellen-whittaker-2010-beyond-total-capture.pdf",
+      "pages": 8
+    },
+    "5": {
+      "path": "literature/sources/fulltext/005-lifelog-retrieval-from-daily-digital-data-narrative-review.pdf",
+      "pages": 20
+    },
+    "13": {
+      "path": "literature/sources/fulltext/013-the-basic-systems-model-of-episodic-memory.pdf",
+      "pages": 36
+    },
+    "20": {
+      "path": "literature/sources/fulltext/020-narrative-identity.pdf",
+      "pages": 6
+    },
+    "28": {
+      "path": "literature/sources/fulltext/06-things-that-make-us-reminisce-2015.pdf",
+      "pages": 10
+    },
+    "39": {
+      "path": "literature/sources/fulltext/039-self-generated-memory-cues-effective-tools-for-learning-training-and-remembering.pdf",
+      "pages": 8
+    },
+    "14": {
+      "path": "literature/sources/fulltext/014-functions-characteristics-and-theoretical-explanations-of-involuntary-autobiographical-memories.pdf",
+      "pages": 10
+    },
+    "22": {
+      "path": "literature/sources/fulltext/022-why-are-we-not-flooded-by-involuntary-autobiographical-memories-few-cues-are-more-effective-than-man.pdf",
+      "pages": 9
+    },
+    "29": {
+      "path": "literature/sources/fulltext/029-cueing-autobiographical-memory-in-young-and-older-adults-an-exploration-of-the-effect-of-cue-type-on.pdf",
+      "pages": 16
+    },
+    "41": {
+      "path": "literature/sources/fulltext/041-sensory-roadmaps-how-to-capture-sensory-detail-in-an-interview-and-why-doing-so-has-exciting-implica.pdf",
+      "pages": 20
+    },
+    "42": {
+      "path": "literature/sources/fulltext/E14-emotional-impact-of-using-different-sens.pdf",
+      "pages": 25
+    },
+    "128": {
+      "path": "literature/sources/fulltext/128-talking-about-pictures-a-case-for-photo-elicitation.pdf",
+      "pages": 15
+    },
+    "30": {
+      "path": "literature/sources/fulltext/030-cued-recall-using-photo-elicitation-to-examine-the-distributed-processes-of-remembering-with-photogr.pdf",
+      "pages": 16
+    },
+    "6": {
+      "path": "literature/sources/fulltext/E18-digital-photography-communication-identi.pdf",
+      "pages": 22
+    },
+    "7": {
+      "path": "literature/sources/fulltext/007-personal-photography-digital-technologies-and-the-uses-of-the-visual.pdf",
+      "pages": 11
+    },
+    "8": {
+      "path": "literature/sources/fulltext/008-technologies-of-memory-practices-of-remembering-in-analogue-and-digital-photography.pdf",
+      "pages": 18
+    },
+    "49": {
+      "path": "literature/sources/fulltext/049-autobiographical-memory-in-the-digital-age-insights-based-on-the-subjective-reports-of-users-of-smar.pdf",
+      "pages": 13
+    },
+    "50": {
+      "path": "literature/sources/fulltext/050-point-and-shoot-memories-the-influence-of-taking-photos-on-memory-for-a-museum-tour.pdf",
+      "pages": 7
+    },
+    "51": {
+      "path": "literature/sources/fulltext/051-photographic-memory-the-effects-of-volitional-photo-taking-on-memory-for-visual-and-auditory-aspects.pdf",
+      "pages": 11
+    },
+    "69": {
+      "path": "literature/sources/fulltext/069-Soares-Storm-2018-Forget-in-a-Flash.pdf",
+      "pages": 7
+    },
+    "70": {
+      "path": "literature/sources/fulltext/070-does-taking-multiple-photos-lead-to-a-photo-taking-impairment-effect.pdf",
+      "pages": 8
+    },
+    "71": {
+      "path": "literature/sources/fulltext/071-how-taking-photos-increases-enjoyment-of-experiences.pdf",
+      "pages": 23
+    },
+    "52": {
+      "path": "literature/sources/fulltext/052-Lee-Ryu-2019-Interpretative-Stances.pdf",
+      "pages": 21
+    },
+    "31": {
+      "path": "literature/sources/fulltext/031-a-present-for-the-future-the-unexpected-value-of-rediscovery.pdf",
+      "pages": 10
+    },
+    "72": {
+      "path": "literature/sources/fulltext/072-picturing-your-life-the-role-of-imagery-perspective-in-personal-photos.pdf",
+      "pages": 9
+    },
+    "73": {
+      "path": "literature/sources/fulltext/073-when-having-photographs-of-events-influences-the-visual-perspective-of-autobiographical-memories.pdf",
+      "pages": 15
+    },
+    "53": {
+      "path": "literature/sources/fulltext/053-first-person-and-third-person-lifelogging-improves-episodic-memory.pdf",
+      "pages": 11
+    },
+    "74": {
+      "path": "literature/sources/fulltext/E34-engaging-with-places-employing-audio-vis.pdf",
+      "pages": 28
+    },
+    "43": {
+      "path": "literature/sources/fulltext/E35-sonic-souvenirs-exploring-the-paradoxes-.pdf",
+      "pages": 11
+    },
+    "15": {
+      "path": "literature/sources/fulltext/08-amedia-model-2024.pdf",
+      "pages": 24
+    },
+    "54": {
+      "path": "literature/sources/fulltext/E37-mediated-autobiographical-remembering-in.pdf",
+      "pages": 13
+    },
+    "75": {
+      "path": "literature/sources/fulltext/075-birthday-memories-an-experimental-think-aloud-study-on-autobiographical-remembering-in-the-digital-a.pdf",
+      "pages": 12
+    },
+    "97": {
+      "path": "literature/sources/fulltext/E40-on-some-promises-of-personal-memory-algo.pdf",
+      "pages": 20
+    },
+    "83": {
+      "path": "literature/sources/fulltext/20-unlocking-memories-ai-cues-2024.pdf",
+      "pages": 6
+    },
+    "99": {
+      "path": "literature/sources/fulltext/E43-storysage-conversational-autobiography-w.pdf",
+      "pages": 26
+    },
+    "100": {
+      "path": "literature/sources/fulltext/100-stories-by-the-campfire-use-of-generative-a-i-voice-assistants-to-support-older-adult-reminiscence-s.pdf",
+      "pages": 22
+    },
+    "84": {
+      "path": "literature/sources/fulltext/E45-memory-recall-support-through-externaliz.pdf",
+      "pages": 13
+    },
+    "101": {
+      "path": "literature/sources/fulltext/E46-i-m-happy-even-though-it-s-not-real-gena.pdf",
+      "pages": 18
+    },
+    "85": {
+      "path": "literature/sources/fulltext/21-memory-printer-2026.pdf",
+      "pages": 18
+    },
+    "123": {
+      "path": "literature/sources/fulltext/123-cinematic-hometactics-negotiating-belonging-in-first-person-documentary.pdf",
+      "pages": 17
+    },
+    "86": {
+      "path": "literature/sources/fulltext/17-odom-2014-photobox.pdf",
+      "pages": 10
+    },
+    "102": {
+      "path": "literature/sources/fulltext/E51-memory-reviver-supporting-photo-collecti.pdf",
+      "pages": 17
+    },
+    "55": {
+      "path": "literature/sources/fulltext/055-accuracy-and-completeness-of-autobiographical-memory-evidence-from-a-wearable-camera-study.pdf",
+      "pages": 32
+    },
+    "129": {
+      "path": "literature/sources/fulltext/E55-automated-scoring-of-the-autobiographica.pdf",
+      "pages": 17
+    },
+    "130": {
+      "path": "literature/sources/fulltext/130-modeling-memories-predicting-prospections-automated-scoring-of-autobiographical-detail-narration-usi.pdf",
+      "pages": 47
+    },
+    "87": {
+      "path": "literature/sources/fulltext/22-synthetic-human-memories-2025.pdf",
+      "pages": 22
+    },
+    "103": {
+      "path": "literature/sources/fulltext/slip-through-chat-2025-vor.pdf",
+      "pages": 17
+    },
+    "9": {
+      "path": "literature/sources/fulltext/E60-remembering-in-the-wild-recontextualisin.pdf",
+      "pages": 9
+    },
+    "16": {
+      "path": "literature/sources/fulltext/02-van-den-hoven-eggen-2008-augmented-memory-am-theory.pdf",
+      "pages": 11
+    },
+    "24": {
+      "path": "literature/sources/fulltext/024-Tulving-Thomson-1973-Encoding-specificity.pdf",
+      "pages": 22
+    },
+    "44": {
+      "path": "literature/sources/fulltext/07-petrelli-2008-autotopography.pdf",
+      "pages": 11
+    },
+    "56": {
+      "path": "literature/sources/fulltext/056-do-life-logging-technologies-support-memory-for-the-past.pdf",
+      "pages": 10
+    },
+    "57": {
+      "path": "literature/sources/fulltext/057-now-let-me-see-where-i-was-understanding-how-lifelogs-mediate-memory.pdf",
+      "pages": 10
+    },
+    "77": {
+      "path": "literature/sources/fulltext/14-whittaker-2010-easy-on-that-trigger-dad.pdf",
+      "pages": 29
+    },
+    "78": {
+      "path": "literature/sources/fulltext/15-mols-2016-informing-design-for-reflection.pdf",
+      "pages": 10
+    },
+    "88": {
+      "path": "literature/sources/fulltext/088-pensieve-supporting-everyday-reminiscence.pdf",
+      "pages": 10
+    },
+    "104": {
+      "path": "literature/sources/fulltext/104-a-quantified-past-toward-design-for-remembering-with-personal-informatics.pdf",
+      "pages": 44
+    },
+    "105": {
+      "path": "literature/sources/fulltext/105-visual-mementos-reflecting-memories-with-personal-data.pdf",
+      "pages": 10
+    },
+    "2": {
+      "path": "literature/sources/fulltext/002-externalizing-autobiographical-memories-in-the-digital-age.pdf",
+      "pages": 10
+    },
+    "3": {
+      "path": "literature/sources/fulltext/003-from-memory-to-meaning-a-systematic-review-of-reminiscence-technologies-in-hci.pdf",
+      "pages": 18
+    },
+    "4": {
+      "path": "literature/sources/fulltext/004-introduction-to-this-special-issue-on-designing-for-personal-memories-past-present-and-future.pdf",
+      "pages": 13
+    },
+    "10": {
+      "path": "literature/sources/fulltext/N04-harvey-2015-remembering-through-lifelogging-a-s.pdf",
+      "pages": 26
+    },
+    "17": {
+      "path": "literature/sources/fulltext/017-memory-and-the-self.pdf",
+      "pages": 35
+    },
+    "18": {
+      "path": "literature/sources/fulltext/018-the-cognitive-neuroscience-of-constructive-memory-remembering-the-past-and-imagining-the-future.pdf",
+      "pages": 14
+    },
+    "19": {
+      "path": "literature/sources/fulltext/019-source-monitoring.pdf",
+      "pages": 26
+    },
+    "25": {
+      "path": "literature/sources/fulltext/025-phenomenal-characteristics-of-memories-for-perceived-and-imagined-autobiographical-events.pdf",
+      "pages": 6
+    },
+    "26": {
+      "path": "literature/sources/fulltext/026-extended-mind-and-artifactual-autobiographical-memory.pdf",
+      "pages": 15
+    },
+    "27": {
+      "path": "literature/sources/fulltext/027-the-psychology-of-life-stories.pdf",
+      "pages": 23
+    },
+    "34": {
+      "path": "literature/sources/fulltext/N13-petrelli-2010-family-memories-in-the-home-contras.pdf",
+      "pages": 23
+    },
+    "35": {
+      "path": "literature/sources/fulltext/N14-hoven-2014-the-cue-is-key.pdf",
+      "pages": 25
+    },
+    "36": {
+      "path": "literature/sources/fulltext/N15-petrelli-2009-making-history.pdf",
+      "pages": 10
+    },
+    "37": {
+      "path": "literature/sources/fulltext/037-blended-memory-a-framework-for-understanding-distributed-autobiographical-remembering-with-photograp.pdf",
+      "pages": 16
+    },
+    "38": {
+      "path": "literature/sources/fulltext/038-exploring-functions-of-and-recollections-with-photos-in-the-age-of-smartphone-cameras.pdf",
+      "pages": 17
+    },
+    "45": {
+      "path": "literature/sources/fulltext/N18-sas-2018-exploring-self-defining-memories-in.pdf",
+      "pages": 12
+    },
+    "46": {
+      "path": "literature/sources/fulltext/046-characterisation-of-music-evoked-autobiographical-memories.pdf",
+      "pages": 17
+    },
+    "47": {
+      "path": "literature/sources/fulltext/N20-hackländer-2018-an-in-depth-review-of-the-methods-f.pdf",
+      "pages": 29
+    },
+    "58": {
+      "path": "literature/sources/fulltext/058-sensecam-a-retrospective-memory-aid.pdf",
+      "pages": 17
+    },
+    "59": {
+      "path": "literature/sources/fulltext/059-a-critical-review-of-the-effects-of-wearable-cameras-on-memory.pdf",
+      "pages": 26
+    },
+    "60": {
+      "path": "literature/sources/fulltext/060-the-effects-of-end-of-day-picture-review-and-a-sensor-based-picture-capture-procedure-on-autobiograp.pdf",
+      "pages": 13
+    },
+    "61": {
+      "path": "literature/sources/fulltext/061-can-less-be-more.pdf",
+      "pages": 22
+    },
+    "62": {
+      "path": "literature/sources/fulltext/062-media-usage-diminishes-memory-for-experiences.pdf",
+      "pages": 8
+    },
+    "63": {
+      "path": "literature/sources/fulltext/063-effects-of-photographic-reviews-on-recollections-of-the-personal-past-a-new-perspective-on-benefits-.pdf",
+      "pages": 13
+    },
+    "65": {
+      "path": "literature/sources/fulltext/N29-koutstaal-1999-facilitation-and-impairment-of-even.pdf",
+      "pages": 16
+    },
+    "66": {
+      "path": "literature/sources/fulltext/066-modifying-memory.pdf",
+      "pages": 7
+    },
+    "67": {
+      "path": "literature/sources/fulltext/067-a-smartphone-intervention-that-enhances-real-world-memory-and-promotes-differentiation-of-hippocampa.pdf",
+      "pages": 12
+    },
+    "79": {
+      "path": "literature/sources/fulltext/079-requirements-for-photoware.pdf",
+      "pages": 10
+    },
+    "80": {
+      "path": "literature/sources/fulltext/080-understanding-photowork.pdf",
+      "pages": 10
+    },
+    "81": {
+      "path": "literature/sources/fulltext/081-it-s-just-my-history-isn-t-it.pdf",
+      "pages": 13
+    },
+    "82": {
+      "path": "literature/sources/fulltext/N35-doherty-2012-experiences-of-aiding-autobiographi.pdf",
+      "pages": 32
+    },
+    "89": {
+      "path": "literature/sources/fulltext/089-experiences-with-designing-tools-for-everyday-reminiscing.pdf",
+      "pages": 25
+    },
+    "90": {
+      "path": "literature/sources/fulltext/090-echoes-from-the-past.pdf",
+      "pages": 10
+    },
+    "91": {
+      "path": "literature/sources/fulltext/091-exploring-memory-oriented-interactions-with-digital-photos-in-and-across-time-a-field.pdf",
+      "pages": 20
+    },
+    "92": {
+      "path": "literature/sources/fulltext/092-time-perspectives-in-technology-mediated-reminiscing-effects-of-basic-design-decisions-on-subjective.pdf",
+      "pages": 34
+    },
+    "93": {
+      "path": "literature/sources/fulltext/093-design-is-worth-a-thousand-words-the-effect-of-digital-interaction-design-on-picture-.pdf",
+      "pages": 12
+    },
+    "94": {
+      "path": "literature/sources/fulltext/N41-jin-2024-exploring-the-design-of-generative-.pdf",
+      "pages": 17
+    },
+    "95": {
+      "path": "literature/sources/fulltext/N42-wade-2002-a-picture-is-worth-a-thousand-lies-.pdf",
+      "pages": 7
+    },
+    "96": {
+      "path": "literature/sources/fulltext/096-true-photographs-and-false-memories.pdf",
+      "pages": 6
+    },
+    "106": {
+      "path": "literature/sources/fulltext/106-investigating-slowness-as-a-frame-to-design-longer-term-experiences-with-personal-dat.pdf",
+      "pages": 16
+    },
+    "107": {
+      "path": "literature/sources/fulltext/107-rediscovery-of-forgotten-images-in-domestic-photo-collections.pdf",
+      "pages": 12
+    },
+    "108": {
+      "path": "literature/sources/fulltext/108-reveal.pdf",
+      "pages": 14
+    },
+    "109": {
+      "path": "literature/sources/fulltext/109-curatorial-agents.pdf",
+      "pages": 10
+    },
+    "110": {
+      "path": "literature/sources/fulltext/110-rewind.pdf",
+      "pages": 20
+    },
+    "111": {
+      "path": "literature/sources/fulltext/N49-brand-2021-a-design-inquiry-into-introspective.pdf",
+      "pages": 161
+    },
+    "112": {
+      "path": "literature/sources/fulltext/N50-park-2025-reimagining-personal-data-unlocking.pdf",
+      "pages": 25
+    },
+    "113": {
+      "path": "literature/sources/fulltext/113-chorus-of-the-past-toward-designing-a-multi-agent-conversational-reminiscence-system-.pdf",
+      "pages": 22
+    },
+    "114": {
+      "path": "literature/sources/fulltext/N52-jiang-2025-remini-leveraging-chatbot-mediated-.pdf",
+      "pages": 43
+    },
+    "115": {
+      "path": "literature/sources/fulltext/115-exploring-older-adults-reminiscing-with-chatgpt-and-text-to-image-technology.pdf",
+      "pages": 7
+    },
+    "116": {
+      "path": "literature/sources/fulltext/116-diarymate-understanding-user-perceptions-and-experience-in-human-ai-collaboration-for.pdf",
+      "pages": 15
+    },
+    "117": {
+      "path": "literature/sources/fulltext/N55-xu-2025-autolife-automatic-life-journaling-.pdf",
+      "pages": 15
+    },
+    "118": {
+      "path": "literature/sources/fulltext/N56-bonnail-2023-memory-manipulations-in-extended-re.pdf",
+      "pages": 20
+    },
+    "126": {
+      "path": "literature/sources/fulltext/126-seeing-how-it-was-childhood-geographies-and-memories-in-home-movies.pdf",
+      "pages": 13
+    }
+  }
+}

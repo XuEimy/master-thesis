@@ -1,0 +1,669 @@
+[
+  {
+    "number": 1,
+    "title": "Beyond total capture: a constructive critique of lifelogging",
+    "priority": true,
+    "doi": "10.1145/1735223.1735243",
+    "source": "literature/sources/fulltext/01-sellen-whittaker-2010-beyond-total-capture.pdf",
+    "status": "已完成：8页中文原版式PDF，正文、图注、引文框与作者简介已译",
+    "license_evidence": [],
+    "draft": "literature/translations/001-beyond-total-capture/中文译稿-进行中.md",
+    "output": "output/pdf/001-超越全量记录-中文原版式译本.pdf",
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 15,
+    "title": "Understanding Autobiographical Memory in the Digital Age: The AMEDIA-Model",
+    "priority": true,
+    "doi": "10.1080/1047840x.2024.2384125",
+    "source": "literature/sources/fulltext/08-amedia-model-2024.pdf",
+    "status": "已有原版式译本",
+    "license_evidence": [
+      "e by Taylor & Francis Group, LLC. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with t",
+      "Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent. 84 F. HUTMACHER ET AL. unsure abou"
+    ],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 16,
+    "title": "Informing augmented memory system design through autobiographical memory theory",
+    "priority": true,
+    "doi": "10.1007/s00779-007-0177-9",
+    "source": "literature/sources/fulltext/02-van-den-hoven-eggen-2008-augmented-memory-am-theory.pdf",
+    "status": "中文原版式PDF完成，11页已核验",
+    "license_evidence": [],
+    "draft": "literature/translations/016-am-theory/中文译稿-进行中.md",
+    "output": "output/pdf/016-自传体记忆理论与增强记忆设计-中文原版式译本.pdf",
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 28,
+    "title": "Things That Make Us Reminisce: Everyday Memory Cues as Opportunities for Interaction Design",
+    "priority": true,
+    "doi": "10.1145/2702123.2702460",
+    "source": "literature/sources/fulltext/06-things-that-make-us-reminisce-2015.pdf",
+    "status": "中文原版式PDF完成，10页已核验",
+    "license_evidence": [],
+    "draft": "literature/translations/028-everyday-cues/中文译稿-进行中.md",
+    "output": "output/pdf/028-日常记忆线索-中文原版式译本.pdf",
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 56,
+    "title": "Do life-logging technologies support memory for the past?",
+    "priority": true,
+    "doi": "10.1145/1240624.1240636",
+    "source": "literature/sources/fulltext/056-do-life-logging-technologies-support-memory-for-the-past.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 85,
+    "title": "Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation",
+    "priority": true,
+    "doi": "10.1145/3772318.3791325",
+    "source": "literature/sources/fulltext/21-memory-printer-2026.pdf",
+    "status": "许可含禁止演绎，需另行确认",
+    "license_evidence": [
+      "dies in interaction design; Systems and tools for interaction design. This work is licensed under a Creative Commons Attribution-NonCommercialNoDerivatives 4.0 International License. CHI ’26, Barcelona, Spain © 2026 Copyright held by the owner/author(s). ACM ISBN 979-8-4007-2278-3/2026/04 https://doi.org/10.1145/3772318.3791325 Keywords Generative Artificial Intelligence, Tangible Interfaces, Slow Design, Reminiscing Support ACM Reference For",
+      "ols for interaction design. This work is licensed under a Creative Commons Attribution-NonCommercialNoDerivatives 4.0 International License. CHI ’26, Barcelona, Spain © 2026 Copyright held by the owner/author(s). ACM ISBN 979-8-4007-2278-3/2026/04 https://doi.org/10.1145/3772318.3791325 Keywords Generative Artificial Intelligence, Tangible Interfaces, Slow Design, Reminiscing Support ACM Reference Format: Zhou Fang and Janet Yi-Ching Huang"
+    ],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 2,
+    "title": "Externalizing autobiographical memories in the digital age",
+    "priority": false,
+    "doi": "10.1016/j.tics.2021.08.005",
+    "source": "literature/sources/fulltext/002-externalizing-autobiographical-memories-in-the-digital-age.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 3,
+    "title": "From Memory to Meaning: A Systematic Review of Reminiscence Technologies in HCI",
+    "priority": false,
+    "doi": "10.1145/3772318.3791453",
+    "source": "literature/sources/fulltext/003-from-memory-to-meaning-a-systematic-review-of-reminiscence-technologies-in-hci.pdf",
+    "status": "许可含禁止演绎，需另行确认",
+    "license_evidence": [
+      "ytelling, Narrative Identity, Slow Technology ∗ Corresponding author. This work is licensed under a Creative Commons Attribution-NonCommercialNoDerivatives 4.0 International License. CHI ’26, Barcelona, Spain © 2026 Copyright held by the owner/author(s). ACM ISBN 979-8-4007-2278-3/26/04 https://doi.org/10.1145/3772318.3791453 The Hong Kong University of Science and Technology (Guangzhou) Guangzhou, China The Hong Kong University of Science an",
+      "ogy ∗ Corresponding author. This work is licensed under a Creative Commons Attribution-NonCommercialNoDerivatives 4.0 International License. CHI ’26, Barcelona, Spain © 2026 Copyright held by the owner/author(s). ACM ISBN 979-8-4007-2278-3/26/04 https://doi.org/10.1145/3772318.3791453 The Hong Kong University of Science and Technology (Guangzhou) Guangzhou, China The Hong Kong University of Science and Technology Hong Kong, China mingmingf"
+    ],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 4,
+    "title": "Introduction to this special issue on designing for personal memories: past, present and future",
+    "priority": false,
+    "doi": "10.1080/07370024.2012.673451",
+    "source": "literature/sources/fulltext/004-introduction-to-this-special-issue-on-designing-for-personal-memories-past-present-and-future.pdf",
+    "status": "本地原文已核验，待翻译",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 12,
+    "title": "The construction of autobiographical memories in the self-memory system.",
+    "priority": false,
+    "doi": "10.1037/0033-295x.107.2.261",
+    "source": null,
+    "status": "缺少原文",
+    "license_evidence": [],
+    "in_current_reading_scope": false,
+    "scope_note": "已按2026-11-01当前阅读范围移出；保留历史记录，不自动翻译。"
+  },
+  {
+    "number": 13,
+    "title": "The Basic-Systems Model of Episodic Memory",
+    "priority": false,
+    "doi": "10.1111/j.1745-6916.2006.00017.x",
+    "source": "literature/sources/fulltext/013-the-basic-systems-model-of-episodic-memory.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 14,
+    "title": "Functions, Characteristics, and Theoretical Explanations of Involuntary Autobiographical Memories",
+    "priority": false,
+    "doi": "10.3724/sp.j.1042.2014.00269",
+    "source": "literature/sources/fulltext/014-functions-characteristics-and-theoretical-explanations-of-involuntary-autobiographical-memories.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 17,
+    "title": "Memory and the self☆",
+    "priority": false,
+    "doi": "10.1016/j.jml.2005.08.005",
+    "source": "literature/sources/fulltext/017-memory-and-the-self.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 18,
+    "title": "The cognitive neuroscience of constructive memory: remembering the past and imagining the future",
+    "priority": false,
+    "doi": "10.1098/rstb.2007.2087",
+    "source": "literature/sources/fulltext/018-the-cognitive-neuroscience-of-constructive-memory-remembering-the-past-and-imagining-the-future.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 19,
+    "title": "Source monitoring.",
+    "priority": false,
+    "doi": "10.1037//0033-2909.114.1.3",
+    "source": "literature/sources/fulltext/019-source-monitoring.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 29,
+    "title": "Cueing autobiographical memory in young and older adults: an exploration of the effect of cue type on retrieval rates and memory characteristics",
+    "priority": false,
+    "doi": "10.1016/j.concog.2025.103983",
+    "source": "literature/sources/fulltext/029-cueing-autobiographical-memory-in-young-and-older-adults-an-exploration-of-the-effect-of-cue-type-on.pdf",
+    "status": "已完成：16页中文原版式PDF，正文、六表、四图与声明已译",
+    "license_evidence": [
+      "1053-8100/© 2025 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). Consciousness and Cognition 138 (2026) 103983 A. Mair AM test is often taken to represent an individual’s underlying AM ability, there are only weak correlations between scores on different tests (Mair, Poirier, & Conway, 2021) and between different approaches to scoring th",
+      "uthor(s). Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). Consciousness and Cognition 138 (2026) 103983 A. Mair AM test is often taken to represent an individual’s underlying AM ability, there are only weak correlations between scores on different tests (Mair, Poirier, & Conway, 2021) and between different approaches to scoring the same test (Kyung et al., 2015). Mo"
+    ],
+    "draft": "literature/translations/029-cue-types/中文译稿-进行中.md",
+    "license_verified": "原刊首页CC BY 4.0，2026-10-31核对",
+    "output": "output/pdf/029-线索类型与自传体记忆-中文原版式译本.pdf",
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 30,
+    "title": "Cued recall: Using photo-elicitation to examine the distributed processes of remembering with photographs",
+    "priority": false,
+    "doi": "10.1177/17506980211073093",
+    "source": "literature/sources/fulltext/030-cued-recall-using-photo-elicitation-to-examine-the-distributed-processes-of-remembering-with-photogr.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 31,
+    "title": "A “Present” for the Future: The Unexpected Value of Rediscovery",
+    "priority": false,
+    "doi": "10.1177/0956797614542274",
+    "source": "literature/sources/fulltext/031-a-present-for-the-future-the-unexpected-value-of-rediscovery.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 32,
+    "title": "My memory: A study of autobiographical memory over six years",
+    "priority": false,
+    "doi": "10.1016/0010-0285(86)90013-7",
+    "source": null,
+    "status": "缺少原文",
+    "license_evidence": [],
+    "in_current_reading_scope": false,
+    "scope_note": "已按2026-11-01当前阅读范围移出；保留历史记录，不自动翻译。"
+  },
+  {
+    "number": 33,
+    "title": "Memory for randomly sampled autobiographical events",
+    "priority": false,
+    "doi": "10.1017/cbo9780511664014.004",
+    "source": null,
+    "status": "缺少原文",
+    "license_evidence": [],
+    "in_current_reading_scope": false,
+    "scope_note": "已按2026-11-01当前阅读范围移出；保留历史记录，不自动翻译。"
+  },
+  {
+    "number": 34,
+    "title": "Family memories in the home: contrasting physical and digital mementos",
+    "priority": false,
+    "doi": "10.1007/s00779-009-0279-7",
+    "source": "literature/sources/fulltext/N13-petrelli-2010-family-memories-in-the-home-contras.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 35,
+    "title": "The Cue Is Key",
+    "priority": false,
+    "doi": "10.1027/2151-2604/a000172",
+    "source": "literature/sources/fulltext/N14-hoven-2014-the-cue-is-key.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 36,
+    "title": "Making history",
+    "priority": false,
+    "doi": "10.1145/1518701.1518966",
+    "source": "literature/sources/fulltext/N15-petrelli-2009-making-history.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 37,
+    "title": "Blended memory: A framework for understanding distributed autobiographical remembering with photography",
+    "priority": false,
+    "doi": "10.1177/1750698019829891",
+    "source": "literature/sources/fulltext/037-blended-memory-a-framework-for-understanding-distributed-autobiographical-remembering-with-photograp.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 38,
+    "title": "Exploring functions of and recollections with photos in the age of smartphone cameras",
+    "priority": false,
+    "doi": "10.1177/17506980211044712",
+    "source": "literature/sources/fulltext/038-exploring-functions-of-and-recollections-with-photos-in-the-age-of-smartphone-cameras.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 49,
+    "title": "Autobiographical memory in the digital age: Insights based on the subjective reports of users of smart journaling apps",
+    "priority": false,
+    "doi": "10.1002/acp.4033",
+    "source": "literature/sources/fulltext/049-autobiographical-memory-in-the-digital-age-insights-based-on-the-subjective-reports-of-users-of-smar.pdf",
+    "status": "已有原版式译本",
+    "license_evidence": [
+      "pensate the weaknesses of human memory. While This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes. © 2023 The Authors. Applied Cognitive Psychology published by John Wiley & Sons Ltd. 686 wileyonlinelibrary.com/journal/acp Appl Cognit Psychol.",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 687 HUTMACHER ET AL. HUTMACHER ET AL. is to analyze smart journaling practices. Smart journaling apps are as qualitative research should be continued until adding further cases close to the “Bushian” future of autobiographical remembering as does not lead to new insights (Boddy, 2016). As previous research has possible ",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 688 smart journaling app Day One for 15 min per day during the two- 2.1.4 | Qualitative data analysis week test phase. We assumed that 15 min per day would be enough time for participants to record the most important events of their daily The interviews were recorded and transcribed verbatim. The data lives and to have ",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 689 HUTMACHER ET AL. HUTMACHER ET AL. TABLE 1 Used functions Function (e.g., conversations with family and friends). Third, participants took Number of participants notes on ideas and thoughts that they had (e.g., reflections on a news article, interesting quotes). Text Concerning the aspects of their lives that they de",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 690 TABLE 3 Perceived effects on memory the findings of the present study with the observations of long-time users in order to verify whether these expectations are actually Memory activity Number of participants Recollecting 10 Reminiscing 6 Retrieving 3 Reflecting 10 Remembering intentions 6 far. Most importantly, abo",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 691 HUTMACHER ET AL. HUTMACHER ET AL. TABLE 4 Potential opportunities and potential risks of continued use Category Number of participants Examples Opportunities Comparison and development “I would find it very interesting to see where my focus is, what I focus on in life [and] whether that would change”, “One would see",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 692 TABLE 5 Smart journaling apps used by participants in Study 2 App Brief description Daylio Daylio (https://daylio.net/) is a bullet journal that promises its users to keep track of their mood and their activities. Users can set themselves goals and adjust the items that are used for mood tracking. Adding text and ph",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 693 HUTMACHER ET AL. HUTMACHER ET AL. analyzing the data was largely similar to the codebook used for Study recorded important and outstanding aspects of their lives as well as 1. More specifically, the only changes that were made to the code- ideas and thoughts that they had. Two participants also reported book were a ",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 694 reported experiencing moments of anticipated noteworthiness, that is, clear, these two participants acknowledged that such a problem could moments during an actual experience in which they were aware that exist but had not directly experienced it themselves. A similar pattern they would later store them in their sma",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 695 HUTMACHER ET AL. HUTMACHER ET AL. who had no prior experience with smart journaling apps tested the limitations should be noted that apply to both studies. First, the inter- app Day One for 2 weeks and were interviewed about their subjective views reported in this paper were concerned with the users' subjec- percept",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 696 the strength of these effects depends on various boundary conditions (cf. Appel et al., 2020; Orben & Przybylski, 2019). Hence, the potential opportunities and risks identified by the participants can serve as a valuable starting point for further in-depth investigations but should not be taken as the last word on t",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 697 HUTMACHER ET AL. Heersmink, R. (2018). The narrative self, distributed memory, and evocative objects. Philosophical Studies, 175, 1829–1849. https://doi.org/ 10.1007/s11098-017-0935-0 Heersmink, R. (2020). Extended mind and artifactual autobiographical memory. Mind & Language, 37, 659–673. https://doi.org/10.1111/mi",
+      "nd-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 698 "
+    ],
+    "draft": "literature/translations/049-smart-journaling/中文译稿-进行中.md",
+    "license_verified": "本地原刊首页明确CC BY-NC；个人阅读用途，2026-10-31核对",
+    "output": "output/pdf/049-智能日记应用与自传体记忆-中文原版式译本.pdf",
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 50,
+    "title": "Point-and-Shoot Memories: The Influence of Taking Photos on Memory for a Museum Tour",
+    "priority": false,
+    "doi": "10.1177/0956797613504438",
+    "source": "literature/sources/fulltext/050-point-and-shoot-memories-the-influence-of-taking-photos-on-memory-for-a-museum-tour.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 51,
+    "title": "Photographic Memory: The Effects of Volitional Photo Taking on Memory for Visual and Auditory Aspects of an Experience",
+    "priority": false,
+    "doi": "10.1177/0956797617694868",
+    "source": "literature/sources/fulltext/051-photographic-memory-the-effects-of-volitional-photo-taking-on-memory-for-visual-and-auditory-aspects.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 52,
+    "title": "Comparison of the change in interpretative stances of lifelog photos versus manually captured photos over time",
+    "priority": false,
+    "doi": "10.1108/oir-03-2018-0108",
+    "source": "literature/sources/fulltext/052-Lee-Ryu-2019-Interpretative-Stances.pdf",
+    "status": "本地原文已核验，待翻译",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 53,
+    "title": "First-person and third-person lifelogging improves episodic memory",
+    "priority": false,
+    "doi": "10.1016/j.actpsy.2025.104929",
+    "source": "literature/sources/fulltext/053-first-person-and-third-person-lifelogging-improves-episodic-memory.pdf",
+    "status": "已有原版式译本",
+    "license_evidence": [
+      "5 0001-6918/© 2025 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). E. Oudman et al. Acta Psychologica 255 (2025) 104929 memory enhancement. Additionally, participants naturally retrieving memories from an egocentric viewpoint may explain the absence of a perspective advantage (Rice & Rubin, 2009, 2011). Future research should examine wheth",
+      " Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). E. Oudman et al. Acta Psychologica 255 (2025) 104929 memory enhancement. Additionally, participants naturally retrieving memories from an egocentric viewpoint may explain the absence of a perspective advantage (Rice & Rubin, 2009, 2011). Future research should examine whether similar effects occur in elderly "
+    ],
+    "draft": "literature/translations/053-lifelogging/中文译稿-进行中.md",
+    "license_verified": "原刊第1页：CC BY 4.0，允许改编；2026-10-31核对",
+    "layout_draft": "literature/translations/053-lifelogging/053-原版式排版工作稿.pdf",
+    "output": "output/pdf/053-第一人称与第三人称生活日志-中文原版式译本.pdf",
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 54,
+    "title": "Mediated autobiographical remembering in the digital age: insights from an experimental think-aloud study",
+    "priority": false,
+    "doi": "10.1186/s41235-025-00627-4",
+    "source": "literature/sources/fulltext/E37-mediated-autobiographical-remembering-in.pdf",
+    "status": "已有原版式译本",
+    "license_evidence": [
+      "ing in the twenty-first century. © The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party",
+      "long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by",
+      "s were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this li",
+      " indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. Hutmacher et al. Cognitive Research: Principles and Implications (2025) 10",
+      " obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. Hutmacher et al. Cognitive Research: Principles and Implications (2025) 10:18 Introduction Never before have humans preserved more information about their lives than today in our digital societies— just think about the pictures that we take using our smartphones, the e-mails and WhatsApp-messages that we write"
+    ],
+    "draft": "literature/translations/054-think-aloud/中文译稿-进行中.md",
+    "license_verified": "PDF首页明确CC BY 4.0，2026-10-31核对",
+    "output": "output/pdf/054-数字时代的媒介化自传体回忆-中文原版式译本.pdf",
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 55,
+    "title": "Accuracy and completeness of autobiographical memory: evidence from a wearable camera study",
+    "priority": false,
+    "doi": "10.1080/09658211.2024.2377193",
+    "source": "literature/sources/fulltext/055-accuracy-and-completeness-of-autobiographical-memory-evidence-from-a-wearable-camera-study.pdf",
+    "status": "本地原文已核验，待翻译",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 57,
+    "title": "Now let me see where I was: understanding how lifelogs mediate memory",
+    "priority": false,
+    "doi": "10.1145/1753326.1753638",
+    "source": "literature/sources/fulltext/057-now-let-me-see-where-i-was-understanding-how-lifelogs-mediate-memory.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 58,
+    "title": "SenseCam: A Retrospective Memory Aid",
+    "priority": false,
+    "doi": "10.1007/11853565_11",
+    "source": "literature/sources/fulltext/058-sensecam-a-retrospective-memory-aid.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 59,
+    "title": "A critical review of the effects of wearable cameras on memory",
+    "priority": false,
+    "doi": "10.1080/09602011.2015.1128450",
+    "source": "literature/sources/fulltext/059-a-critical-review-of-the-effects-of-wearable-cameras-on-memory.pdf",
+    "status": "本地原文已核验，待翻译",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 60,
+    "title": "The effects of end-of-day picture review and a sensor-based picture capture procedure on autobiographical memory using SenseCam",
+    "priority": false,
+    "doi": "10.1080/09658211.2010.532807",
+    "source": "literature/sources/fulltext/060-the-effects-of-end-of-day-picture-review-and-a-sensor-based-picture-capture-procedure-on-autobiograp.pdf",
+    "status": "本地原文已核验，待翻译",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 61,
+    "title": "Can Less be More?",
+    "priority": false,
+    "doi": "10.1145/3090086",
+    "source": "literature/sources/fulltext/061-can-less-be-more.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 62,
+    "title": "Media usage diminishes memory for experiences",
+    "priority": false,
+    "doi": "10.1016/j.jesp.2018.01.006",
+    "source": "literature/sources/fulltext/062-media-usage-diminishes-memory-for-experiences.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 63,
+    "title": "Effects of Photographic Reviews on Recollections of the Personal Past: A New Perspective on Benefits and Costs",
+    "priority": false,
+    "doi": "10.1177/1089268020958686",
+    "source": "literature/sources/fulltext/063-effects-of-photographic-reviews-on-recollections-of-the-personal-past-a-new-perspective-on-benefits-.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 64,
+    "title": "The Benefits and Costs of Editing and Reviewing Photos of One’s Experiences on Subsequent Memory",
+    "priority": false,
+    "doi": "10.1016/j.jarmac.2020.07.002",
+    "source": null,
+    "status": "缺少原文",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 65,
+    "title": "Facilitation and impairment of event memory produced by photograph review",
+    "priority": false,
+    "doi": "10.3758/bf03211542",
+    "source": "literature/sources/fulltext/N29-koutstaal-1999-facilitation-and-impairment-of-even.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 66,
+    "title": "Modifying Memory",
+    "priority": false,
+    "doi": "10.1177/0956797612457377",
+    "source": "literature/sources/fulltext/066-modifying-memory.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 67,
+    "title": "A smartphone intervention that enhances real-world memory and promotes differentiation of hippocampal activity in older adults",
+    "priority": false,
+    "doi": "10.1073/pnas.2214285119",
+    "source": "literature/sources/fulltext/067-a-smartphone-intervention-that-enhances-real-world-memory-and-promotes-differentiation-of-hippocampa.pdf",
+    "status": "许可含禁止演绎，需另行确认",
+    "license_evidence": [
+      "n. Copyright © 2022 the Author(s). Published by PNAS. This open access article is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND). 1 To whom correspondence may be addressed. Email: cmartin@psy.fsu.edu or morgan.barense@utoronto.ca. This article contains supporting information online at https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.​ 2214285119/-/DCSupplemental. Published December 13, 2",
+      "d by PNAS. This open access article is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND). 1 To whom correspondence may be addressed. Email: cmartin@psy.fsu.edu or morgan.barense@utoronto.ca. This article contains supporting information online at https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.​ 2214285119/-/DCSupplemental. Published December 13, 2022. https://doi.org/10.1073/pnas.221428",
+      " article is distributed under Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND). 1 To whom correspondence may be addressed. Email: cmartin@psy.fsu.edu or morgan.barense@utoronto.ca. This article contains supporting information online at https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.​ 2214285119/-/DCSupplemental. Published December 13, 2022. https://doi.org/10.1073/pnas.2214285119 1 of 12 learni"
+    ],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 83,
+    "title": "Unlocking Memories with AI: Exploring the Role of AI-Generated Cues in Personal Reminiscing",
+    "priority": false,
+    "doi": "10.1145/3613905.3650979",
+    "source": "literature/sources/fulltext/20-unlocking-memories-ai-cues-2024.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 84,
+    "title": "Memory Recall Support through Externalization of Remembered Scenes Using Generative AI: Evaluating the Effects of Iterative Image Modification Process",
+    "priority": false,
+    "doi": "10.1527/tjsai.41-3_a-p73",
+    "source": "literature/sources/fulltext/E45-memory-recall-support-through-externaliz.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 86,
+    "title": "Designing for slowness, anticipation and re-visitation: a long term field study of the photobox",
+    "priority": false,
+    "doi": "10.1145/2556288.2557178",
+    "source": "literature/sources/fulltext/17-odom-2014-photobox.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 87,
+    "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+    "priority": false,
+    "doi": "10.1145/3706598.3713697",
+    "source": "literature/sources/fulltext/22-synthetic-human-memories-2025.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 88,
+    "title": "Pensieve: supporting everyday reminiscence",
+    "priority": false,
+    "doi": "10.1145/1753326.1753635",
+    "source": "literature/sources/fulltext/088-pensieve-supporting-everyday-reminiscence.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 89,
+    "title": "Experiences With Designing Tools for Everyday Reminiscing",
+    "priority": false,
+    "doi": "10.1080/07370024.2012.656047",
+    "source": "literature/sources/fulltext/089-experiences-with-designing-tools-for-everyday-reminiscing.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 90,
+    "title": "Echoes from the past",
+    "priority": false,
+    "doi": "10.1145/2470654.2466137",
+    "source": "literature/sources/fulltext/090-echoes-from-the-past.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 91,
+    "title": "Exploring Memory-Oriented Interactions with Digital Photos In and Across Time: A Field Study of Chronoscope",
+    "priority": false,
+    "doi": "10.1145/3544548.3581012",
+    "source": "literature/sources/fulltext/091-exploring-memory-oriented-interactions-with-digital-photos-in-and-across-time-a-field.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 92,
+    "title": "Time perspectives in technology-mediated reminiscing: effects of basic design decisions on subjective well-being",
+    "priority": false,
+    "doi": "10.1080/07370024.2021.1913415",
+    "source": "literature/sources/fulltext/092-time-perspectives-in-technology-mediated-reminiscing-effects-of-basic-design-decisions-on-subjective.pdf",
+    "status": "本地原文已核验，待翻译",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 93,
+    "title": "Design is Worth a Thousand Words: The Effect of Digital Interaction Design on Picture-Prompted Reminiscence",
+    "priority": false,
+    "doi": "10.1145/3491102.3517692",
+    "source": "literature/sources/fulltext/093-design-is-worth-a-thousand-words-the-effect-of-digital-interaction-design-on-picture-.pdf",
+    "status": "待核许可",
+    "license_evidence": [
+      "om stock photo websites (i.e., pixabay.com, unsplash.com, and wikimedia.com) and only pictures with Creative Commons copyright were selected. The distinct sub-themes of pictures were used to minimize fatigue efects on participant storytelling and ensure that there would be diferent memories prompted by each condition. The reason we chose 50 pictures for each set size is because it is within the range of standard physical photo albums and prin"
+    ],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 94,
+    "title": "Exploring the Design of Generative AI in Supporting Music-based Reminiscence for Older Adults",
+    "priority": false,
+    "doi": "10.1145/3613904.3642800",
+    "source": "literature/sources/fulltext/N41-jin-2024-exploring-the-design-of-generative-.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 95,
+    "title": "A picture is worth a thousand lies: Using false photographs to create false childhood memories",
+    "priority": false,
+    "doi": "10.3758/bf03196318",
+    "source": "literature/sources/fulltext/N42-wade-2002-a-picture-is-worth-a-thousand-lies-.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 96,
+    "title": "True Photographs and False Memories",
+    "priority": false,
+    "doi": "10.1111/j.0956-7976.2004.01503002.x",
+    "source": "literature/sources/fulltext/096-true-photographs-and-false-memories.pdf",
+    "status": "待核许可",
+    "license_evidence": [],
+    "in_current_reading_scope": true
+  },
+  {
+    "number": 119,
+    "title": "The autobiographical documentary: archive and montage to represent the self",
+    "priority": false,
+    "doi": "10.1080/17503280.2020.1815123",
+    "source": null,
+    "status": "缺少原文",
+    "license_evidence": [],
+    "in_current_reading_scope": false,
+    "scope_note": "已按2026-11-01当前阅读范围移出；保留历史记录，不自动翻译。"
+  },
+  {
+    "number": 120,
+    "title": "The cinema of me: the self and subjectivity in first person documentary",
+    "priority": false,
+    "doi": "",
+    "source": null,
+    "status": "缺少原文",
+    "license_evidence": [],
+    "in_current_reading_scope": false,
+    "scope_note": "已按2026-11-01当前阅读范围移出；保留历史记录，不自动翻译。"
+  },
+  {
+    "number": 121,
+    "title": "The Autobiographical Documentary in America",
+    "priority": false,
+    "doi": "10.2307/jj.36106175",
+    "source": null,
+    "status": "缺少原文",
+    "license_evidence": [],
+    "in_current_reading_scope": false,
+    "scope_note": "已按2026-11-01当前阅读范围移出；保留历史记录，不自动翻译。"
+  },
+  {
+    "number": 122,
+    "title": "Home movies as personal archives in autobiographical documentaries",
+    "priority": false,
+    "doi": "10.1386/sdf.7.1.17_1",
+    "source": null,
+    "status": "缺少原文",
+    "license_evidence": [],
+    "in_current_reading_scope": false,
+    "scope_note": "已按2026-11-01当前阅读范围移出；保留历史记录，不自动翻译。"
+  }
+]
