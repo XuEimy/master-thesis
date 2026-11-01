@@ -1,0 +1,1346 @@
+[
+  {
+    "page": 0,
+    "rect": [
+      54,
+      60,
+      561,
+      105
+    ],
+    "text": "# 让我们回想往事的事物：日常记忆线索作为交互设计的契机",
+    "size": 17,
+    "source_text": "Things That Make Us Reminisce: Everyday Memory Cues \nas Opportunities for Interaction Design \n",
+    "spare": 21.599998474121094,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      54,
+      126,
+      298,
+      182
+    ],
+    "text": "悉尼科技大学\n设计、建筑与建造学院\ndomenique.vangennip@uts.edu.au\nelise.vandenhoven@uts.edu.au",
+    "size": 8.5,
+    "source_text": "Faculty of Design, Architecture and Building \nUniversity of Technology, Sydney \ndomenique.vangennip@uts.edu.au \nelise.vandenhoven@uts.edu.au \n",
+    "spare": 12.199996948242188,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      317,
+      126,
+      561,
+      182
+    ],
+    "text": "荷兰埃因霍温理工大学\n工业设计系\np.markopoulos@tue.nl",
+    "size": 9,
+    "source_text": "Department of Industrial Design \nEindhoven University of Technology, the \nNetherlands \np.markopoulos@tue.nl \n",
+    "spare": 20.599998474121094,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      54,
+      195,
+      298,
+      414
+    ],
+    "text": "## 摘要\n\n交互设备能够支持个人回忆，从而有益于幸福感。这类设计需要理解：什么会使过去浮现于脑海，以及人们如何与这些线索建立关系。以往工作聚焦家中的纪念物；本文则通过日记和访谈研究，考察日常生活中非自主发生的记忆线索提示。我们结合句子补全日记和回顾访谈，收集了15名成年人的数据。定性分析表明，这些参与者在日常生活中依靠食物等普通实体物件、地点和反复进行的活动唤起记忆，而数字物品和照片较少成为刺激来源。人们与记忆线索之间有意义的关系，可以部分地从记忆线索提示的角度加以解释。我们讨论了这些发现如何为支持回忆的设计提供帮助：审慎权衡提示时机、接触线索的方式，并支持人们逐渐依恋能够唤起记忆的物品。",
+    "size": 10,
+    "source_text": "ABSTRACT \nInteractive devices can support personal remembering to \nbenefit well-being. These designs require insight into what \nbrings the past to mind, and how people relate to such cues. \nPrior work focused on mementos in the home; instead, this \npaper presents a diary and interview study of involuntary \nmemory cueing in everyday life. Data was collected from \nfifteen adult individuals, using sentence completion diaries, \ncombined with debriefing interviews. Qualitative analysis \nof the data showed that these participants were relying on \neveryday physical objects like food items for cueing \nmemories during everyday life, locations and (repeated) \nactivities, while digital items and photos were shown to be \nless frequent stimulants. Meaningful relations to memory \ncues can be partially explained from a memory cueing \nperspective. We discuss how design for remembering can \nbenefit from our insights, through careful trade-offs in \ntiming, exposure to cues, and supporting a process of \npersonal attachment with items invoking memories. \n",
+    "spare": 45.0,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      54,
+      417.2035827636719,
+      298,
+      452.9254150390625
+    ],
+    "text": "作者关键词：交互设计；记忆；记忆线索提示；回忆；日记研究。",
+    "size": 9,
+    "source_text": "Author Keywords \nInteraction Design, Memories, Memory cueing, \nRemembering, Diary study \n",
+    "spare": 11.121831893920898,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      54,
+      456.3235778808594,
+      298,
+      492.0454406738281
+    ],
+    "text": "ACM分类关键词：H.5.m. 信息界面与呈现（如人机交互）：其他。",
+    "size": 9,
+    "source_text": "ACM Classification Keywords \nH.5.m. Information interfaces and presentation (e.g., HCI): \nMiscellaneous. \n",
+    "spare": 11.121862411499023,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      54,
+      495.68359375,
+      298,
+      612.04541015625
+    ],
+    "text": "## 引言\n\n日常生活中，我们经常想起过去：有时出于刻意努力，有时则因为某些想法、他人或环境中的事物使我们想起往事。例如，用社交媒体观看和分享家庭故事，或在公园散步时回想过去。对自传体记忆进行这样的怀旧回忆与反思，具有明确的心理益处，因为回忆对于自我形象、个人身份认同、自我表达以及与他人建立关系至关重要[8]。这些以记忆为基础的活动，",
+    "size": 10,
+    "source_text": "INTRODUCTION \nIn everyday life we often remember our past: sometimes by \ndeliberate effort, and sometimes because thoughts, people \nor elements in our environment remind us. Think of using \nsocial media to view and share family stories, or \nreminiscing while taking a walk in the park. Such \nreminiscing and reflecting on autobiographical memories \nhas clear mental benefits, as remembering is vital to our \nself-image, personal identity, how we express ourselves, \nand relate to others [8]. These activities based on memories, \n",
+    "spare": 14.36181640625,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      317,
+      193.75257873535156,
+      561,
+      345.6454162597656
+    ],
+    "text": "以及由此延伸的、能够触发记忆的环境要素，有助于我们感到幸福并平衡情感需求[6，30]。因此，在日常生活中促进有益的回忆，可以成为值得追求的目标，交互设计领域近来的关注也体现了这一点[例如17，30]。人们长期以来就为此使用纪念物，并拍摄照片等，以便日后用作记忆线索[30]。交互设备可以将所拍摄的图像和其他数据作为记忆线索，支持怀旧回忆；前提是设计充分理解：什么使人们想起过去，这如何影响他们的体验，以及在特定时刻引入这种交互是否合适。",
+    "size": 10,
+    "source_text": "and by extension the elements in the environment that \ntrigger such memories, help us feel well and balance \nemotional \nneeds \n[6, \n30]. \nStimulating \nbeneficial \nremembering in daily life thus can be a worthwhile goal, as \nunderlined by recent attention within the field of interaction \ndesign [e.g., 17, 30]. People have long used mementos for \nthis purpose, and capture (for example) photographs to use \nas memory cues later on [30]. Interactive devices can \nsupport reminiscing using captured images and other data \nas memory cues, provided design efforts are based on a \nsolid understanding of what makes people remember their \npast, how this colors their experience, and whether such \ninteractivity is appropriate at a given time. \n",
+    "spare": 40.89283752441406,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      317,
+      531,
+      561,
+      554
+    ],
+    "text": "**图1。** 唤起记忆的例子：Facebook上的旅行照片；雷暴；Boboti菜肴；晶体管收音机。",
+    "size": 8,
+    "source_text": "Figure 1. Examples invoking memories: Photo of a trip on \nFacebook; Thunderstorm; Boboti dish; Transistor radio. \n",
+    "spare": 0.7999992370605469,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      317,
+      557.83251953125,
+      561,
+      721.2454223632812
+    ],
+    "text": "与实体物品相比，数字物品较不容易唤起记忆和情感，因为它们不够显眼，往往在采集和保存后便不再被回看[31]。人们会展示有意义的物品；反过来，也容易赋予环境中现有的物品以意义。个人纪念物越来越多地以数字形式保存；由于人们感知到的采集成本较低，其数量也不断增加，这同时降低了再次找到某件物品、借其帮助回忆的机会[30]。在入户走访中，当人们被要求指出有价值的物品时，数字纪念物往往被忽略[20，27]。个人媒体的数字化可能减少无需刻意努力就能唤起记忆的机会[31]；但正如Schwarz所说，也可能产生相反作用，因为我们在寻找其他东西时，可能频繁偶遇某些文件[29]。",
+    "size": 10,
+    "source_text": "Digital items stand a lesser chance of evoking memories \nand emotions compared to physical items due to lesser \nsalience, often captured and stored but not reviewed [31]. \nPeople put meaningful items on display, and vice versa tend \nto attach meaning to items available in their environment. \nPersonal mementos are increasingly stored digitally and are \nbecoming more numerous due to lower perceived cost of \ncapture, which also reduces chances of finding it again to \nhelp remembering [30]. When people were asked to \nindicate valuable items during home visits, digital \nmementos were often overlooked [20, 27]. Digitalization of \npersonal media can reduce opportunities to evoke memories \nwithout effort [31], or as Schwarz argues do the opposite as \nwe may frequently come across files when looking for \n",
+    "spare": 16.41290283203125,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      54,
+      622,
+      298,
+      644
+    ],
+    "text": "作者最终稿，出版标识已省略。\nhttp://dx.doi.org/10.1145/2702123.2702460",
+    "size": 7.5,
+    "source_text": "Final author version. Imprint omitted. \nhttp://dx.doi.org/10.1145/2702123.2702460 \n",
+    "spare": 1.0,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      54,
+      60.55256652832031,
+      298,
+      109.00544738769531
+    ],
+    "text": "后一种情况会使我们与这些记忆的关系变得更随意，因为与记忆相关的物品会更加频繁地以非自主方式触发回忆，而我们无法直接控制这类接触，这也可能是不受欢迎的。",
+    "size": 10,
+    "source_text": "something else [29]. The latter would alter our relation to \nthose memories to become more casual as memory-related \nitems would involuntarily cue us more often (beyond direct \ncontrol over such exposures, which may be undesired). \n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      54,
+      112.63258361816406,
+      298,
+      379.48541259765625
+    ],
+    "text": "由此产生一个挑战：如何帮助人们重新接触个人数字物品。我们认为，如果这种重新接触，无论是否自主，都能影响幸福感——积极记忆的研究已表明这一点[6]——那么，设计者就需要审慎决定如何促成它，或是否应当避免这样做。只要满足人们的体验需求，支持性设备的良好设计就能发挥作用。不过，为设计提供依据的实证理解仍存在两方面不足[17，32]。首先，线索媒介，例如数字或实体形式，与随之产生的回忆体验之间的关系尚不清楚。记忆线索的呈现形式，例如照片、音频或文字，是否影响记忆的唤起，以及我们如何看待该记忆，尚未明确[15]。某些形式可能比其他形式带来更积极的回忆体验，也许是因为某些提示方式允许人们更自由地按照自己的愿望想象事件与情感。如果一张事件照片无法帮助某人联系到自己当时的体验，例如照片呈现了不同的感受，那么设备采用另一种呈现形式，是否更适合支持体验上的重温？其次，如何将这些知识应用于实际交互设计，仍需进一步完善。",
+    "size": 10,
+    "source_text": "This raises the challenge of how to assist the revisiting of \npersonal digital items. We believe that if such revisiting \n(involuntary or otherwise) can influence wellbeing (as \nshown for positive memories [6]), this challenges designers \nto do (or refrain from doing) so sensibly. Good design of \nsupportive devices can make a difference, provided that \npeople’s experiential needs are met. Still, empirical \nunderstanding to inform design lacks in two ways [17, 32]. \nFirst, the relation between cueing medium (e.g., digital or \nphysical) and resultant remembering experience is not \nclearly understood. It is not evident whether the \nrepresentation of a memory cue (e.g., photo, audio, writing) \ninfluences cueing of a memory, and how we think about \nthis memory [15]. Some forms may stimulate a more \npositive remembering experience than others, perhaps \nbecause certain ways of cueing allow more freedom to \nimagine the event and emotions as desired. If photographs \nof an event do not support someone to relate to their own \nexperience at the time (e.g., a photo may depict a different \nfeeling), would another representation be more suitable for \na device to adopt for experiential reliving? Second, the way \nthis knowledge can be applied to actual interactive designs \nneeds refinement. \n",
+    "spare": 59.85282897949219,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      54,
+      383.1125793457031,
+      298,
+      580.8453979492188
+    ],
+    "text": "本研究考察由纪念物、公共图像和特定空间等刺激引发的回忆体验（见图1）。我们希望将记忆线索与个人生活中的记忆和意义联系起来；相较于聚焦家庭情境的早期工作[20，例如27]，本研究覆盖的范围更广。我们关注外部刺激，而不是想法等内部刺激，因为内部刺激无法由我们设计或修改；外部线索则为设计介入日常回忆提供了机会。此外，我们讨论人们所感知到的数字物品与实体物品作为线索时的差异。鉴于个人档案不断积累，以及交互设备利用这些档案的潜力，我们认为，有必要关注数字形式、非自主触发的记忆线索。本研究增进了对非自主记忆线索提示及其相关权衡的理解，使未来设计工作能够结合情境探索这一挑战。",
+    "size": 10,
+    "source_text": "In this work, we look into remembering experiences as cued \nby stimuli such as mementos, public images, and particular \nspaces (see Fig.1). We aim to relate memory cues with the \nmemories and meaning within individuals’ lives, and casted \na wider net compared to earlier works focusing on a home \ncontext [20, e.g., 27]. Our focus is on external stimuli (in \ncontrast to internal stimuli such as thoughts, which we \ncannot design or modify), as these external cues provide an \nopportunity for design to appropriate for everyday \nremembering. In addition, we discuss perceived differences \nbetween digital and physical items as cues. We argue this \nfocus on digital, involuntary memory cues is warranted \ngiven the accumulation in people’s archives and potential \nfor appropriation by interactive devices. This work adds \ninsight on involuntary memory cueing and related trade-\noffs to enable future design work to contextualize and \nexplore this challenge. \n",
+    "spare": 50.732818603515625,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      54,
+      584.483642578125,
+      298,
+      597.402587890625
+    ],
+    "text": "## 相关工作",
+    "size": 10,
+    "source_text": "RELATED WORK \n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      54,
+      600.8035888671875,
+      298,
+      705.6453857421875
+    ],
+    "text": "### 认知心理学中的记忆与线索\n\n我们所记得的人生事件，在具体程度上可能不同：人生阶段，例如青少年时期；持续数天至数月的一般事件；或者事件特定知识，对应的事件最长持续数小时[8]。记忆可以通过有意识的努力进入意识，例如看到一个花瓶，随后尝试记起它的来历；也可以非自主地浮现，例如一看到那个花瓶，就想起它是邻居送的[4]。",
+    "size": 10,
+    "source_text": "Memory & cues in cognitive psychology \nRemembered events of our life can differ in specificity: \nlifetime periods (e.g., being a teenager), general events \nlasting days to months, or event-specific knowledge for \nevents lasting up to hours at most [8]. Memories come to \nour awareness based on intentional effort (e.g., seeing a \nvase and then trying to remember how you got it), or \ninvoluntarily (e.g., remembering your neighbor gave you a \nvase upon seeing that vase) [4]. Involuntary memories thus \n",
+    "spare": 14.841796875,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      317,
+      60.55256652832031,
+      561,
+      85.96546936035156
+    ],
+    "text": "因此，非自主记忆需要以某种方式被唤起，例如由想法、活动或外部物品提供线索。",
+    "size": 10,
+    "source_text": "need some way of invocation, whether taking a cue from \n(for example) thoughts, activities, or external items. \n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      317,
+      89.59254455566406,
+      561,
+      287.325439453125
+    ],
+    "text": "依据日记研究，Berntsen发现，非自主线索提示每天发生一至五次。线索通常来自外部，例如物件；有些来自内部，只有少量属于感官线索，例如声音或气味，或没有可识别的线索[4]。尽管对线索提示过程的理解有限，研究仍假定记忆与潜在线索之间存在某种关联[8]。独特性、时间上的接近、频繁复述，或与强烈情绪事件的关联，都可能提高一个被感知物品唤起记忆的能力[4]。然而，其他心理过程也会交互作用，调节线索的效果：一个人可能多次看到相框，却没有意识到相关记忆。这种选择性回忆表明，动机以及相关记忆近期是否被激活，都具有影响[例如4]。在做饭等日常活动中，有些人更容易被非自主地触发回忆，也许是因为他们更容易接纳刺激[例如4，28]。",
+    "size": 10,
+    "source_text": "Based on diary studies, Berntsen finds involuntary cueing \nhappens between one to five times per day. Cues are most \noften external (e.g., objects), some internal, with only a \nsmall amount of sensorial cues (e.g., sound, smell) or \nhaving \nno \nidentifiable \ncues \n[4]. \nDespite \nlimited \nunderstanding of the cueing process, some correlation \nbetween a memory and a potential cue is assumed [8]. \nDistinctiveness, recency, frequent rehearsal, or relation to a \nhighly emotional event may improve a perceived item’s \nability to cue a memory [4]. However, other mental \nprocesses interact to modulate a cue’s effects: one can see a \nphoto frame many times without becoming aware of related \nmemories. Such selective recall illustrates that motivations \nmatter, as does recent activation of related memories [e.g., \n4]. During mundane activities (e.g., cooking) some people \nare more likely to be involuntarily triggered, perhaps \nbecause they are open to stimulation [e.g., 4, 28]. \n",
+    "spare": 38.73289489746094,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      317,
+      290.9635925292969,
+      561,
+      464.6854248046875
+    ],
+    "text": "### 作为记忆线索的个人收藏\n\n物品能够激发对过去的生动重温[10]。交互设备可以通过显示照片、旧消息或录音等线索，支持类似功能，因此，理解人们与哪些线索产生联系很重要。人们会通过整理那些使自己想起往事的物品，主动塑造环境，以支持和展现身份认同；其目的，是将这些物品留在身边，作为自我的象征[例如10，20]。这种被称为自我地景（autotopography）的行为[27]，展现了物件与自我之间的复杂关系。普通物品之所以经常成为纪念物，是“因为主人向其中投入了时间或情感”；这种意义通过长期培育、选择，以及物品之间的相互关系逐渐发展[27]。",
+    "size": 10,
+    "source_text": "Personal collections as memory cues \nItems are able to stimulate vivid re-experience of the past \n[10]. Because interactive devices can stimulate similar \nfunctions via cues (e.g., display of photos, old messages, \naudio recordings), it is relevant what types of cues people \nrelate to. People actively shape their environment to support \nand portray their identity through curation of items \nreminiscent of past memories, with the goal of keeping \nthings around as symbols of the self [e.g., 10, 20]. This \nbehavior, known as autotopography [27], shows the \ncomplex relations between objects and the self. The \npopularity of everyday objects as mementos is “by the \nvirtue of what the owner has invested in them, be it time or \nemotion,” and such meaning develops over time through \ncultivation, selection, and how items relate to others [27]. \n",
+    "spare": 35.721832275390625,
+    "scale": 1.0
+  },
+  {
+    "page": 1,
+    "rect": [
+      317,
+      468.31256103515625,
+      561,
+      712.1254272460938
+    ],
+    "text": "数字纪念物并不出现在日常环境中，因此较难支持这种培育实践。在有关个人重要记忆物件的研究中，它们很少被提及，这并不令人意外[20，26，27]。不过，这一现象掩盖了另一个事实：人们越来越多地使用并依赖数字方式采集记忆线索，包括数字照片、社交网络交流和电子邮件。数字采集的便捷性，乃至自动性，使人们保存的内容不断增加，生活日志运动正体现了这一点[30]。然而，这种“线索囤积”造成了线索过多、相关性过低的问题，因为筛选获得的关注较少[30]。数字遗产、继承和纪念相关研究表明，人们有时会不得不处理庞大且往往缺乏结构的数字收藏[例如13，22]。这些问题引出新的疑问：哪些物品可被视为有益的记忆线索，以及这种线索提示应在什么时刻发生，或者是否应当发生。实践的变化从根本上改变了我们回忆和支持回想的方式[31]；面对这一变化，需要回答设计如何提供最适当的支持。",
+    "size": 10,
+    "source_text": "Such cultivation practices are harder to support with digital \nmementos not being present in the everyday environment. \nNot surprisingly those are mentioned infrequently in studies \nof personally relevant memory objects [20, 26, 27]. \nHowever, this belies that there is an ever-increasing use and \nreliance on digital capturing of memory cues (i.e., digital \nphotos, social network communication, email). The ease or \neven automaticity of digital capturing has grown the \ncollections people keep, as reflected in the life logging \nmovement [30]. However, this ‘cue hoarding’ has led to too \nmany cues with too little relevance as filtering gets less \nattention [30]. Work on digital legacy, inheritance and \nmemorials highlights people may at times be confronted to \ndeal with vast and often unstructured digital collections \n[e.g., 13, 22]. These issues raise questions on what kind of \nitems would be considered beneficial as memory cues, and \nat which moments this cueing might be done (if at all). \nSuch changed practices fundamentally alter the way we \nremember and support recollection [31], and the changing \nlandscape begets answers on how design can best support \nthis trend. \n",
+    "spare": 48.8128662109375,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      54,
+      60.563575744628906,
+      298,
+      303.1654357910156
+    ],
+    "text": "### 交互设计中的记忆线索\n\n以下几项工作利用了交互设计支持非自主线索触发的怀旧回忆的机会。气味是一类少见但引人注意的非自主线索；如果设备能够识别对个人有意义的气味，它就具有很强的唤起记忆的能力[24]。值得注意的是，几项工作通过随机选择来产生意外发现的效果。Pensieve探索了数字纪念物的使用，将早先的社交媒体帖子作为回忆提示，通过电子邮件发送[9]。餐桌照片展示设备4Photos[23]随机呈现社交网络中的照片，旨在开启用餐时的交谈。Cueb采用了类似策略，通过在实体物件上随机展示数字照片，支持父母与青少年交流[12]。Meerkat和Tuba也选择在家中偶然呈现数字媒体，放弃用户控制，以换取惊喜[14]。要知道呈现什么、何时呈现，就需要深入理解什么对个人有意义，这也是本研究关注的问题。",
+    "size": 10,
+    "source_text": "Memory cues in interaction design \nWe would like to highlights several works that have tapped \ninto the opportunities provided by interaction design for \ninvoluntarily cued reminiscing. Smell is rare but noticeable \nas involuntary cue, and offers a strong ability to bring back \nmemories if a device would be aware of personally \nmeaningful odors [24]. It is noticeable several works \nemploy a tactic of random selection for serendipitous \neffects. Pensieve explored the use of digital mementos by \nusing earlier social media posts as emailed prompts for \nreminiscing [9]. 4Photos, a dinner table photo displaying \ndevice [23], aimed to start dinner conversation by \npresenting random photos from social network streams. A \nsimilar tactic was employed by Cueb to support parent-\nteenager communication through random display of digital \nphotos on tangible objects [12]. Meerkat and Tuba also \nwent for serendipitous presentation of digital media in the \nhome, abdicating user control in favor of surprise [14]. \nKnowing what to present and when requires keen \nunderstanding of what is personally meaningful, questions \nof interest in this work. \n",
+    "spare": 56.60186004638672,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      54,
+      306.7925720214844,
+      298,
+      412.8454284667969
+    ],
+    "text": "Petrelli等人[27]认为，纪念物的反思价值来自再次遇到它，并重新评估自己对该物品及其相关记忆的态度；不过，这一评估过程发生在心中，交互设备无法直接察觉。Echo利用这一原则，鼓励人们反思早先采集的线索[18]。Data Souvenirs采用了类似方式，将含义不完全明确、经过数字增强的物件放置于家庭环境中，使人们看到它们时可能产生反思[1]。",
+    "size": 10,
+    "source_text": "Petrelli et al. [27] argue reflective value of a memento \ncomes out of reencountering and re-evaluating our \ndisposition towards an item and its related memories \n(although this evaluative process happens in the mind, and \nis not evident to interactive devices). Echo uses this \nprinciple to encourage reflection on cues captured earlier \n[18]. Data Souvenirs does similarly by placing ambiguous \ndigitally augmented objects in the home environment that \nupon seeing may stimulate reflection [1]. \n",
+    "spare": 19.0528564453125,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      54,
+      416.48358154296875,
+      298,
+      613.0054321289062
+    ],
+    "text": "### 知识缺口\n\n上述案例展示了对记忆、线索提示和交互设计的理解如何支持人们回忆过去，但仍有问题尚待解决。正如部分相关工作所揭示的，我们需要进一步理解什么具有价值，以及人们何时愿意或不愿意被线索触发回忆。尽管关于记忆线索及其对回想影响的兴趣不断增加[例如15]，线索属性如何影响回忆仍不明确，且往往没有得到直接考察。与上文引用的研究相反，van den Hoven等人[16]发现，相较于若干种线索条件，无线索条件引发了对过去事件更丰富的回想。这似乎表明，交互设备使用这类线索时，例如手机上的照片，也可能无法达到预期效果。我们认为，这种不明确性妨碍了支持日常回忆的干预设计取得成功。",
+    "size": 10,
+    "source_text": "Knowledge gap \nNotwithstanding \nthe \nabove \nillustrations \nof \nhow \nunderstanding memory, cueing, and interaction design can \nsupport remembering our past, questions remain. As some \nof the related work reveals, additional understanding of \nwhat is of value, and when people would (not) appreciate \nbeing cued is needed. Despite an increasing interest in \nmemory cues, and effects on recollection [e.g., 15], the \neffect of cue attributes on remembering remains ambiguous \nand is often not directly addressed. Contradictory to the \nstudies quoted above, van den Hoven et al. [16] found that \na no-cue condition compared to several types of cues gave \nrise to richer recollection of a past event. This appears to \nsuggest interactive devices might also miss out on intended \neffects using such cues (e.g., photos on phones). We argue \nthis ambiguity impedes successful design of interventions \nto support everyday remembering. \n",
+    "spare": 34.5218505859375,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      54,
+      616.632568359375,
+      298,
+      699.6453857421875
+    ],
+    "text": "因此，从设计角度考察记忆线索很有价值。不同于实验室研究或仅在家庭环境中进行的研究，日常生活中究竟有哪些物品会唤起记忆？记忆提取或许在很大程度上是非自主过程，但线索可能是出于主动意图而被放置在周围的，例如有意摆放在某处的相框。人们认为哪些线索有价值，",
+    "size": 10,
+    "source_text": "This is why it is valuable to look into memory cues from a \ndesign perspective. What kind of items cue memories in \neveryday life, as opposed to lab studies or just the home \nenvironment? Memory retrieval may largely be an \ninvoluntary process, but cues could be in the surroundings \nfor voluntary reasons (e.g., a photo frame deliberately put \nsomewhere). To which cues do people attach value, and for \n",
+    "spare": 8.0128173828125,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      317,
+      60.55256652832031,
+      561,
+      85.96546936035156
+    ],
+    "text": "原因是什么？数字记忆线索与实体记忆线索，在回忆体验上是否存在差异？",
+    "size": 10,
+    "source_text": "what reason? Is there a difference between digital and \nphysical memory cues for the remembering experience? \n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      317,
+      89.59254455566406,
+      561,
+      253.0054473876953
+    ],
+    "text": "本研究以定性方式探索日常生活中哪些要素会引发回忆体验，其思路与使用日记收集数据、偏重定量的研究[4，28]，以及入户走访的定性描述[例如10，20，27]相近。我们关注作为记忆线索的物品、相关的回忆体验，以及这些物品获得的意义。除普遍关注人们遇到的记忆线索类型外，我们尤其关注数字记忆线索——如果参与者遇到的话。我们相信，通过进一步解析物品与被唤起记忆之间的关系，并说明设计者可考虑的维度和权衡、勾勒未来工作的机会，这些发现能够为成功设计回忆支持系统作出贡献。",
+    "size": 10,
+    "source_text": "This work qualitatively explores what elements in daily life \ncue a remembering experience, similar to the more \nquantitative approach in studies using diaries for data \ngathering [4, 28] and qualitative accounts of home visits \n[e.g., 10, 20, 27]. We were interested in items as memory \ncues and the related remembering experiences and meaning \nthese items take on. Besides a general interest in the kind of \nmemory cues encountered, we were especially interested in \ndigital memory cues (if encountered). We believe our \nfindings contribute towards successful designing for \nremembering support systems by further unpacking the \nrelation between items and cued memories, and by \noutlining opportunities for future work through elucidating \ndimensions and trade-offs that designers may consider. \n",
+    "spare": 40.41290283203125,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      317,
+      256.6435852050781,
+      561,
+      488.4454345703125
+    ],
+    "text": "## 研究方法\n\n本研究探索日常生活中记忆线索与怀旧回忆的关系，使用日记和回顾访谈收集数据。我们关注线索的类型及其相关记忆，以及人们如何与这些线索建立关系。非自主记忆线索提示是一种转瞬即逝的认知现象，如果不在线索触发后尽快记录，就很容易被遗忘。与早期关于非自主记忆的工作类似[4，28]，我们要求参与者一旦意识到这种记忆被唤起，就尽快自行写入日记。当参与者在被唤起的记忆仍然鲜明时主动报告，自我报告可以提供较好的描述，因为报告不必依赖事后追忆；其他方法可能不同，例如经验采样中，事件与报告之间的延迟不可避免。其代价是存在一定主观性，因为参与者之间的解释可能不同[7]。日记条目也为回顾访谈提供素材；访谈进一步展开跨日记条目发现的主题，并补充定性理解。",
+    "size": 10,
+    "source_text": "STUDY METHOD \nThis study explored the relation between memory cues and \nreminiscing in everyday life, in which diaries and \ndebriefing interviews were used for data collection. We \nwere interested in the type of cues and related memories, \nand how people relate to these cues. Involuntary memory \ncueing is a fleeting cognitive phenomenon quickly \nforgotten if not captured shortly after being cued. Akin to \nearlier work on involuntary memories [4, 28], participants \nwere asked to record involuntary memories themselves in a \ndiary as soon as they became aware of such a memory \nbeing cued. Self-reports provide a good account when \ninitiated by a participant while the cued memory is still \nfresh, because reporting need not rely on retrospection (as \nmight the case with other methods like experience sampling \nwhere delays between event and report are inevitable), at \nthe cost of some subjectivity as interpretation may differ \nbetween participants [7]. Diary entries also provided input \nfor debriefing interviews, which expanded on and added \nqualitative insight to themes found across diary entries. \n",
+    "spare": 57.801849365234375,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      317,
+      492.0835876464844,
+      561,
+      677.325439453125
+    ],
+    "text": "### 参与者\n\n共有15名成年人参与，另有5人开始参与但未完成。研究通过作者的个人关系网络和大学公告招募，使用社交网络帖子、电子邮件、传单和当面邀请等方式。我们告知参与者，研究旨在了解人们在日常生活中遇到事物时，可能以哪些不同方式被提醒而想起过去。为尽量增加多样性，所有回应招募的人都被纳入；参与研究没有报酬。参与者年龄为24至66岁，平均39岁；其中11人为女性，占73%。多数参与者是第一作者所在大学的研究生或工作人员。居住情况包括独居、与室友合住、离异并育有子女，以及完整家庭。半数出生于澳大利亚，其余人已在澳大利亚居住至少一年，语言能力与母语使用者相当。",
+    "size": 10,
+    "source_text": "Participants \nFifteen adults participated (another 5 started but did not \ncomplete). They were recruited via personal networks of \nthe authors and university notices, via social network posts, \nemails, flyers, and in person. Participants were told the \npurpose of the study was to learn about the various ways \npeople may be reminded of their past by encountering \nthings in daily life. All respondents were included to \nmaximize diversity, and no rewards were given for \nparticipation. Participants were aged 24 to 66 (M=39 years), \n11 were female (73%), and most were affiliated to the \nuniversity of the first author as postgraduate student or \nstaff. Living situations varied from single, with flatmates, \ndivorced (with children), to complete families. Half were \nborn in Australia, others had been there for at least one year \nand had comparable to native language skills. \n",
+    "spare": 23.241851806640625,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      317,
+      680.963623046875,
+      561,
+      716.6854248046875
+    ],
+    "text": "### 日记\n\n参与者收到一本纸质日记，用于记录非自主记忆及相关线索（见图2）。",
+    "size": 10,
+    "source_text": "Diaries \nParticipants were handed a paper diary to record \ninvoluntary memories and related cues (see Fig. 2). They \n",
+    "spare": 1.5286085644007156e-06,
+    "scale": 0.9159212880143113
+  },
+  {
+    "page": 3,
+    "rect": [
+      54,
+      60.55256652832031,
+      298,
+      270.04541015625
+    ],
+    "text": "研究者要求参与者：“写下你一天中遇到的、使你想起个人过去某件事情的事物，它们也许还让你暂时回到了那个时刻。”采用这一措辞，是为了聚焦外部记忆线索，同时尽量保持开放。研究者向参与者解释，“事物”可以涉及所有感官模态。参与者以句子补全的方式记录，每条记录需要补全三句话：“我想起了……”“因为我注意到……”“这使我感到……”。这种形式只提供满足研究关注点所必需的最低限度引导，以获得自由回答。参与者至少记录十天；如果前十天没有获得有效记录，例如忘记记录，或没有被线索触发、没有意识到被触发，也允许延长记录时间。日记在访谈前被转录，含义不明或有趣的条目被标记出来，以便进一步提问。研究者将日记与较早的记录进行对照，为初步发现提供依据。",
+    "size": 10,
+    "source_text": "were instructed to ‘write down things you encounter \nthroughout the day that remind you of something about \nyour own past, and perhaps made you go back to that \nmoment for a while.’ This phrase was chosen to satisfy a \nfocus on external memory cues, while trying to be open. It \nwas explained to participants that ‘things’ could refer to all \nmodalities. People logged their responses via sentence \ncompletion, with three questions to be completed per entry: \n‘I remembered..,’ ‘Because I noticed..,’ and ‘This made me \nfeel..’ This format garners free responses with a minimum \nof guidance necessary for the study interests. Participants \nkept the diary for a minimum of ten days, although it was \nallowed to keep the diary longer if the first ten days proved \nunfruitful (e.g., due to forgetting or not (realizing) being \ncued). Diary entries were transcribed prior to interviews, \nwith unclear and interesting entries marked for further \nquestioning. Diaries were contrasted with earlier entries to \nhelp grounding of early findings. \n",
+    "spare": 50.49284362792969,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      54,
+      440.367919921875,
+      298,
+      453.1980895996094
+    ],
+    "text": "**图2。** 一本填写完成的日记示例。",
+    "size": 8,
+    "source_text": "Figure 2. Example of a completed and filled in diary. \n",
+    "spare": 0.23016929626464844,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      54,
+      456.5635986328125,
+      298,
+      584.2054443359375
+    ],
+    "text": "### 访谈\n\n在参与者交回日记三至七天后，研究者开展访谈，帮助解释日记内容，并讨论怀旧回忆的实践和看法。半结构式访谈进一步探讨日记条目，以及其中列出的记忆线索对参与者有多大意义；怀旧回忆和反思在其生活中有多重要，物品在其中发挥何种作用；以及他们如何看待实体纪念物与数字纪念物之间的差异，如果他们认为存在差异。访谈在校园内安静的空间进行，最长持续一小时。",
+    "size": 10,
+    "source_text": "Interviews \nThree to seven days after handing in the diary an interview \nwas held to aid interpretation of the diary, and discussed \nreminiscing practices and perspectives. The semi-structured \ninterview elaborated on diary entries and how significant \nthese listed memory cues were to the participant, how \nimportant reminiscing and reflection is in their life and in \nwhat way items play a role, and how they perceive \ndifferences (if any) between physical and digital mementos. \nThe interviews were held in a quiet space on campus and \nlasted up to one hour. \n",
+    "spare": 13.641845703125,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      54,
+      587.8436279296875,
+      298,
+      715.7254028320312
+    ],
+    "text": "### 分析\n\n研究使用了15名参与者的数据（见图3）。其中一名参与者认为日记内容过于私密，不愿分享，因此仅纳入了她的访谈数据；另一名参与者交回了日记，但无法参加访谈。研究共使用208条日记记录。另有七条记录与过去的记忆无关，因此被排除，例如对当下事件的观察。由非自主内部线索，即想法，引发的记录虽然不多，也不是本研究重点，但仍被保留。",
+    "size": 10,
+    "source_text": "Analysis \nData from 15 participants have been used (see Fig.3), \nincluding interview data for one participant who withheld \nher diary because she thought that its content was too \npersonal for her to share, and another person handed in a \ndiary but was not available for an interview. In total, 208 \ndiary entries were used. Seven diary entries did not relate to \na past memory and were excluded (e.g., observations about \nin-the-moment events). Entries based on involuntary \ninternal cueing (i.e., thoughts), although infrequent and not \nthe focus here, were left in. Qualitative thematic analysis \n",
+    "spare": 25.88177490234375,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      317,
+      60.55256652832031,
+      561,
+      235.4854278564453
+    ],
+    "text": "定性主题分析通过日记条目的定量概括来精简数据，并由一名编码者对数据进行归纳编码，识别反复出现的主题[参见5]。条目经过两轮编码：第一轮采用定向方式，使用与既有研究相同的概括性指标，以便比较，例如将线索归类为物件、气味或人物等[4]；第二轮依据涌现的相似性对条目聚类，从而进行更细致的分类和对照，例如不只设立“物件”类别，而是进一步分为工具、纪念物和衣物等。每条记录还编码了记忆的情感效价，即积极、矛盾或消极；记忆的具体程度，即人生阶段、一般事件或事件特定知识[8]；以及参与者是否能够控制自己与记忆线索的接触，最后一项由编码者根据条目文字解释判断。",
+    "size": 10,
+    "source_text": "aimed for data reduction through quantitative summaries of \ndiary entries and identified recurring themes through \ninductive coding of the data, using a single coder [cf. 5]. \nEntries were coded twice: first in a directive approach on \nsummative measures as in earlier work to enable \ncomparison (i.e., categorizing as objects, or smells, or \npeople, etc.) [4], and second, entries were clustered based \non emergent affinity which allowed finer grained \ncategorization and contrasts (i.e., not just objects as \ncategory, but split into tools, souvenirs, clothing, etc.). \nFurther measures per entry included memory valence \n(positive/ambivalent/negative), \nmemory \nspecificity \n(lifetime periods/general events/event-specific knowledge \n[8]), and whether the participant controlled the exposure to \na memory cue (as interpreted by the coder via entry text). \n",
+    "spare": 27.932861328125,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      317,
+      239.11256408691406,
+      561,
+      367.9654235839844
+    ],
+    "text": "访谈经过转录，所有相关陈述均被打印并剪成独立纸条，不包括对旁支话题的展开。来自所有参与者的纸条依据相似性聚成层级结构，以便考察。跨访谈涌现的重复主题，以及围绕这些主题的不同观点，构成组织和分析的基础。它们与日记聚类共同形成了本文的分析结构，用以理解记忆线索在人们生活中的作用、人们如何与过去建立关系，以及人机交互可能发挥的作用。",
+    "size": 10,
+    "source_text": "Interviews were transcribed and all relevant statements (i.e., \nexcluding elaborations on tangential matters) were printed \nand cut into separate paper strips. These strips from all \nparticipants were clustered by similarity into a hierarchical \nstructure to support examination. Recurring themes \nemerging across interviews, and diverse views on these \nthemes were used as the basis for organization and analysis. \nTogether with the diary clusters this provides the structure \nfor our insights into what role memory cues play in \npeople’s lives, how people relate to their past, and what \npotential role HCI can play. \n",
+    "spare": 41.85285949707031,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      317,
+      371.6036071777344,
+      561,
+      441.6454162597656
+    ],
+    "text": "## 研究发现\n\n我们先概述数据，再讨论分析中涌现的几个主题，并将发现与研究问题联系起来。必要时，我们将与以往工作进行比较。日记引文标为（P2-d）这样的形式，访谈引文则标为（P2-i）。",
+    "size": 10,
+    "source_text": "FINDINGS \nWe give an overview of the data, and discuss several \nthemes that emerged during analysis, and relate the findings \nto our research questions. When relevant, findings will be \ncontrasted with earlier work. Quotes from diaries are \nmarked (P2-d), interview quotes show (P2-i). \n",
+    "spare": 4.04180908203125,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      317,
+      445.2835998535156,
+      561,
+      458.20257568359375
+    ],
+    "text": "### 什么会唤起记忆？",
+    "size": 10,
+    "source_text": "What cues memories? \n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      317,
+      461.8435974121094,
+      561,
+      635.5654296875
+    ],
+    "text": "#### 日记条目的定量概览\n\n我们先简要呈现定量情况，但定性发现并不依赖这些数据。参与者报告的线索触发记忆次数中位数为11次，范围为2至37次。本研究限定于外部线索触发的记忆；其他研究也纳入了想法等内部线索，其平均记录次数略高[4]。采用与Berntsen相似的分类，大多数线索涉及实体物件（52%）、地点（14%）、活动（9%）、人物（9%）、数字物品（例如照片或社交媒体，10%），其余7%属于其他类别，例如感官、感觉或措辞。与以往使用日记考察非自主记忆的研究中约17%的比例相比，本研究更常提及物件[例如4，28]。这种偏向物件的现象，可能源于我们要求参与者关注外部线索提示。",
+    "size": 10,
+    "source_text": "Quantitative overview of diary entries \nWe would like to give a brief quantitative impression \n(although our qualitative findings do not depend on these). \nThe median number of reported cued memories was 11 \n(range: 2-37). This study limited itself to externally cued \nmemories, while other studies included internal cues (e.g., \nthoughts) and those reported a slightly higher average of \nrecorded memories [4]. Following a categorization similar \nto Berntsen, most cues relate to physical objects (52%), \nlocations (14%), activities (9%), people (9%), digital items \n(e.g., photos or social media; 10%), and 7% other (e.g., \nsensory, feeling, wording). Objects were mentioned more \noften compared to ~17% in earlier work on involuntary \nmemories using diaries [e.g., 4, 28]. This bias towards \nobjects may result from our request for external cueing.. \n",
+    "spare": 23.721832275390625,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      317,
+      638.9525146484375,
+      561,
+      710.4453735351562
+    ],
+    "text": "在情感效价方面，积极感受占明显优势，为51%；消极感受占21%，矛盾感受占27%。以往日记研究中，消极记忆的比例更高，而积极记忆的比例相近；这或许与纳入内部记忆线索提示有关[4]。被唤起的记忆中，45%的条目涉及事件特定知识，",
+    "size": 10,
+    "source_text": "Valence showed strong dominance of positive (51%) \ncompared to negative (21%) and ambivalent feelings \n(27%). In prior diary studies a higher percentage of \nnegative memories surfaced (positives were similar), \nperhaps due to inclusion of internal memory cueing [4]. The \ncued memories related to event-specific knowledge in 45% \n",
+    "spare": 8.49285888671875,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      54,
+      60.55256652832031,
+      298,
+      200.92543029785156
+    ],
+    "text": "40%涉及一般事件，15%涉及人生阶段。两类指标在参与者之间均存在差异，这些差异可能是真实差异，也可能来自写作风格、描述具体程度，或某些参与者记录较少。我们的数据无法对此作出明确判断。\n\n在所报告线索中，大约一半的接触在一定程度上可由参与者控制，例如通过拥有某物，或主动寻找相应刺激。工具、纪念物、照片（包括数字照片）及所访问网站等类别，明显属于这种情况。地点、音乐、社交活动和社交媒体等其他类别，则较难控制与线索的接触。",
+    "size": 10,
+    "source_text": "of entries, with 40% cueing general events, and 15% related \nto lifetime periods. Both measures showed variance \nbetween participants, which may either be genuine, due to \nstyle and specificity of writing, or due to a low number of \nentries for some. Our data is inconclusive on this aspect. \nFor half of the cues reported on participants had some \ncontrol over the exposure to a cue by means of ownership \nand/or deliberately seeking out these stimuli. This was \nclearly the case for categories such as tools, souvenirs, \n(digital) photos and websites visited. Other categories \nrelated to locations, music, social events, and social media \ndid not give much control over exposure to cues. \n",
+    "spare": 26.37286376953125,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      54,
+      205.0325469970703,
+      199,
+      276.6632385253906
+    ],
+    "text": "【我想起了】小时候的早餐——父亲每天做早餐，我们的早餐总有粥，他对熬粥尤其讲究。",
+    "size": 9,
+    "source_text": "[I remembered] breakfast in my \nchildhood - my father made \nbreakfast every day, and we always \nhad a porridge as part of our \nbreakfast, which he was very \nparticular about cooking \n",
+    "spare": 36.230690002441406,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      54,
+      280.152587890625,
+      199,
+      351.543212890625
+    ],
+    "text": "【因为我注意到】我现在仍然喜欢早餐煮粥、喝粥，不过我的粥料来自超市。父亲则会到健康食品店购买一种特别的混合谷物。",
+    "size": 9,
+    "source_text": "[Because I noticed] I still love to \ncook & eat porridge for breakfast – \nbut my porridge is from the \nsupermarket. My dad bought a \nspecial mix from the health food \nshop \n",
+    "spare": 25.190624237060547,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      54,
+      355.0325622558594,
+      199,
+      415.1432189941406
+    ],
+    "text": "【这使我感到】又与童年联系起来。那是一段非常快乐的时光；父亲的日常习惯和照料，总让我感到十分安全、被爱着。",
+    "size": 9,
+    "source_text": "[This made me feel] connected \nback to my childhood, which was \nvery happy and the routines + care \nof my father, which always gave me \nlots of safety + love. \n",
+    "spare": 13.910655975341797,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      208,
+      205.0325469970703,
+      298,
+      255.62318420410156
+    ],
+    "text": "【我想起了】坐在父亲身边，听他讲“怎样”做事情。",
+    "size": 9,
+    "source_text": "[I remembered] \nsitting with my dad \nwhile he talked about \n‘how’ to do things \n",
+    "spare": 15.190635681152344,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      208,
+      280.152587890625,
+      298,
+      342.0232238769531
+    ],
+    "text": "【因为我注意到】我当时坐着，向朋友的儿子解释水管工在做什么。",
+    "size": 9,
+    "source_text": "[Because I noticed] I \nwas sitting \nexplaining what the \nplumber was doing \nwith my friend’s son \n",
+    "spare": 26.47063446044922,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      208,
+      355.0325622558594,
+      298,
+      382.5832214355469
+    ],
+    "text": "【这使我感到】非常快乐，眼里泛起泪水。",
+    "size": 9,
+    "source_text": "[This made me feel] \nvery happy, teary \n",
+    "spare": 2.9506587982177734,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      54,
+      425.2479248046875,
+      298,
+      438.0780944824219
+    ],
+    "text": "**图3。** 两条典型日记记录示例。",
+    "size": 8,
+    "source_text": "Figure 3. Two examples of typical diary entries. \n",
+    "spare": 0.23016929626464844,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      54,
+      441.443603515625,
+      298,
+      557.5654296875
+    ],
+    "text": "#### 作为线索的物件\n\n实体事物是最常见的记忆线索。虽然与其他日记研究相比，物件的出现频率更高，但并非所有参与者都如此。有些人觉得自己对物件不太敏感。一位表示家中没有保留很多东西的参与者说：“日记的形式让我以为，实体物件是引发我记忆的原因，但我发现，真正让我想起事情的是行动。”（P8-i）",
+    "size": 10,
+    "source_text": "Objects as cues \nPhysical things proved the most common memory cues. \nWhile incidence of objects was higher compared to other \ndiary studies, this was not the case for all participants. \nSome participants perceived less sensitivity to objects: \n“The nature of the diary led me to believe that physical \nobjects were the cause of my memories, but what I found \nwas that it was actions that made me remember things,” \n(P8-i) according to a participant who noted not keeping a \nlot of things around in his home. \n",
+    "spare": 26.121826171875,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      54,
+      561.1925659179688,
+      298,
+      713.0853881835938
+    ],
+    "text": "物件类型十分多样，主要子类别包括工具、衣物、纪念物、礼物、书籍、装饰品、图像和食物。并非每件物品都会唤起记忆；但对那些能够唤起记忆的物品来说，通常存在一个故事，它曾在其中扮演某个、哪怕很小的角色，从此便成为那个故事的象征：“【我注意到】我的晶体管收音机！我白天一直听ABC——体育、新闻和古典音乐！【我想起了】父亲整天听着他的晶体管收音机，在屋里和花园里走来走去时也总带着它……【这使我感到】对父亲的爱与骄傲，也为他教给我的一切感到快乐。”（P3-d）这条记录说明，物件引发记忆，往往不是因为物件本身，而是因为它、或由它唤起的记忆，",
+    "size": 10,
+    "source_text": "The kind of objects varied widely, with tools, clothing, \nsouvenirs, gifts, books, decorative pieces, images, and food \nbeing the main subcategories. Not every object may bring \nback memories, but for those that do there is usually a story \nin which the object played a (minor) role and has since \nbecome a signifier for this story: “[I noticed] My transistor \nradio! I listen to the ABC through the day - sport, news, and \nclassical music! [I remembered] my father listening to his \ntransistor radio all day as he carried it about with him \naround the house & garden (…) [This made me feel] fond + \nproud of my dad, and happy for everything that he taught \nme” (P3-d). This entry illustrates that an object often cues \nmemories not because of itself, but rather because it, or the \n",
+    "spare": 16.892822265625,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      317,
+      60.55256652832031,
+      561,
+      132.04542541503906
+    ],
+    "text": "与其他人有关。部分记忆只涉及参与者本人，但多数包含某种社会关系。这种关系可能十分日常，例如熟人拥有同一套餐具；也可能是某只泰迪熊，曾在个人亲密关系的重要阶段发挥作用。",
+    "size": 10,
+    "source_text": "cued memory, relates to other people. A part of the \nmemories reported relate only to the participant, but the \nmajority involved a social relation. This can range from \nrather mundane (e.g., acquaintances having the same \ncutlery set) to teddy bears that played a role in significant \nperiods of someone’s intimate relationships. \n",
+    "spare": 20.49285888671875,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      317,
+      135.44357299804688,
+      561,
+      240.28541564941406
+    ],
+    "text": "#### 作为线索的照片\n\n访谈显示，除少数例外，人们都会在家中摆放照片，但日记中以照片为线索的记录并不多。多数参与者经常使用手机相机。其中一个有趣的方面是，每当有空闲时间可供消磨时，人们偶尔会翻看已经拍摄的照片。他们不时翻阅新近或较早的照片，以放松心情。",
+    "size": 10,
+    "source_text": "Photos as cues \nWith few exceptions people display photographs around the \nhouse, as told during interviews, but entries were infrequent \nfor photos as cues. Most participants were active users of \nthe camera function on their mobile phones. An interesting \naspect of this use is the occasional glancing at taken photos \npeople engage in whenever they have some time to kill. \nRecent and not so recent photos are flicked through ever so \noften for relaxation purposes. \n",
+    "spare": 26.841842651367188,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      317,
+      243.9125518798828,
+      561,
+      418.8454284667969
+    ],
+    "text": "不同的人对个人照片的实践和价值判断差异很大。有些人拍照较少，也不太重视图像；另一些人则把摄影当作爱好，喜欢在周围摆放美观的作品。因此，家中的照片及其他物品，可以超越记忆线索的作用，成为表达个人或家庭身份认同的媒介，这与Kirk等人[20]的结论相似。\n\n照片可能已成为熟悉的景象，因而没有通过相关记忆吸引注意。在被问及时，人们能够讲述相关事件，但在日常生活中，这些物品似乎不会持续不断地引发非自主记忆：“我们确实到处放了很多照片，但客厅里的那些并不是刺激我想起往事的照片……家里有些照片挺好的。如果丢了，我会很难过。”（P11-i）",
+    "size": 10,
+    "source_text": "Practices and values on personal photographs differ widely \nbetween people, as some take less and attach less value to \nimages, whereas others appreciate photography as a hobby \nand enjoy having aesthetically pleasing examples around. \nTherefore, photos (and other items) in the home can take on \na position beyond memory cue as a medium of expression \nof (family) identity, a conclusion similar to Kirk et al. [20]. \nPhotographs may be a familiar sight and did not capture \nattention with related memories. When prompted, people \ncould report on related events, but in daily life such items \nappear to be no constant source of involuntary memories: \n“we do have lots of photographs around, but those in the \nliving room weren't the ones stimulating memories. (…) It’s \nnice to have some pictures around the house. I would be \nsorry if I'd lost them” (P11-i). \n",
+    "spare": 36.93287658691406,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      317,
+      422.48358154296875,
+      561,
+      676.6054077148438
+    ],
+    "text": "#### 数字线索与实体线索\n\n数字线索只占少量记录，其中最常见的是社交媒体帖子，例如他人发布的照片。参与者并没有刻意寻找这些照片；它们出现在人们经常使用的数字环境中。所有参与者都提到了数字照片，但只有一条日记记录将数字照片列为线索。也许，相较于包括照片在内的数字物品，人们更容易意识到实体物品带来的记忆线索提示。一位男性参与者关于家庭照片的描述，体现了这种感知差异：“我并不太留意存在计算机里的那些照片。对我而言，放在家中相框里的家庭照片才重要。”这似乎与他后来关于数字照片的说法形成对照：“笔记本计算机开着的时候，会轮播家庭照片。我确实很享受看着它们一张张出现。”（P11-i）摆在相框中的家庭照片，因为在家中的位置而获得了额外意义。相比之下，如果数字媒体只是被保存，而没有用作背景图片或投入其他使用，它们可能得到较低评价。这一发现虽然并非首次提出[19，25]，但在不同参与者中似乎都相当稳定。",
+    "size": 10,
+    "source_text": "Digital versus physical cues \nDigital cues account for a small amount of entries, with \nsocial media posts most prevalent (e.g., photos posted by \nothers). These photos were not deliberately sought by \nparticipants but rather appeared in the digital environment \npeople frequent. All participants mentioned digital photos \nalthough only one diary entry listed a digital photo as cue. \nPerhaps people realize memory cueing more with physical \nthan with digital items, including photographs. An example \nof such different perceptions is this quote by a male \nparticipant on family photos: “I don't really pay much \nattention to the computer-stored ones. For me family \npictures in frames around the house are important.” This \nseems in contrast with a later quote on digital photos: \n“When the laptops are on there is a rotation of family \npictures on them. And I do enjoy the process of seeing 'm \ncome up.” (P11-i). Family pictures in frames take on extra \nmeaning given their placement in the home. Digital media, \nwhen merely stored and not put to use as a background \nimage or otherwise, as a result could be valued less. This \nfinding, while not original [19, 25], appears robust across \nparticipants. \n",
+    "spare": 44.121826171875,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      317,
+      680.2325439453125,
+      561,
+      717.1654052734375
+    ],
+    "text": "多数人更偏好用实体物品而非数字物品作为纪念物。下面这段引文很好地概括了他们的看法：\n\n“实物……你能感觉到、触摸到某种东西……",
+    "size": 9,
+    "source_text": "A majority expressed preference for physical compared to \ndigital items as mementos. The following quote summarizes \nthe opinions well: “Things... you can feel and touch \n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      54,
+      60.55256652832031,
+      298,
+      132.04542541503906
+    ],
+    "text": "而数字的东西……从某种意义上说，总有一点距离感。”（P3-i）有一名参与者明确表示更喜欢数字媒体，因为对他而言，两者在主动唤回记忆时的感觉相同，而实体物品可能构成实际负担；他本人几乎不保留实体物品。",
+    "size": 10,
+    "source_text": "something. (…) Whereas with the digital (…) there is \nsomething removed about that, in a sense.” (P3-i). One \nparticipant explicitly mentioned his preference for digital \nmedia given that voluntarily bringing back memories feels \nequal to him, but physical things can be a practical burden \n(he kept hardly any himself). \n",
+    "spare": 8.49285888671875,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      54,
+      135.4325714111328,
+      298,
+      344.9254150390625
+    ],
+    "text": "参与者认为，手机照片等数字媒体的价值和实用性较低，几乎是转瞬即逝的。不过，这些特点也有优点：数字快照被认为很适合与他人分享，作为保持联系的方式。对部分受访者来说，保存并不是重要议题。一位参与者提到，她把旧手机送给朋友时丢失了数字图像，但对此并不太介意。另一位参与者的保存行为则显得有些矛盾：他扫描并上传旧照片，希望补全自己在Facebook上的人生时间线。尽管为确保“自己的故事被讲述出来”（P15-i）付出了相当多努力，他仍表示自己对这一成果并无很强依恋。即使它丢失了，例如Facebook停止运营，他仍然拥有记忆和原始照片。对数字纪念物赋予较低价值的倾向，也见于其他研究[25，27]。数字媒体所带来的积极价值，似乎不那么明显。",
+    "size": 10,
+    "source_text": "Participants felt that digital media, such as photos taken on \na phone, were lower in perceived value and usefulness, \nalmost ephemeral. Such qualities have merit: digital \nsnapshots are considered well suited to share with others as \na means of keeping in touch. Preservation is not a big topic \nfor some of the interviewees, with one participant \nmentioning she lost digital images by giving away an old \nphone to a friend and not feeling too bothered about the \nfact. A somewhat paradoxical case of preservation is seen \nin another participant’s efforts to complete his life’s \ntimeline on Facebook by scanning and uploading old \npictures. Despite considerable effort to make sure “his story \nis told” (P15-i), he mentioned not feeling much attachment \nto this result. In case of losing it (e.g., due to demise of \nFacebook), he would still have the memories, as well as the \noriginal photos. The tendency to ascribe lower value to \ndigital mementos is generalizable [25, 27]. It appears \npositive values derived from digital media are less evident. \n",
+    "spare": 50.49284362792969,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      54,
+      348.5635986328125,
+      298,
+      487.7254333496094
+    ],
+    "text": "#### 作为记忆线索的地点\n\n地点，以及在特定地点进行的行动，经常被报告为线索。多数条目涉及在同一环境中的早先经历，但有时仅凭相似性就足以唤起记忆。例如，沙滩和高温足够鲜明，能够使人想起另一处在时间和空间上都很遥远的海滩。在其他情况下，关键与其说是地点本身，不如说是它提供的机会，例如渡轮码头所提供的前往其他地方的可能性。后一例可被描述为具有反思性质，类似于人们出于某种动机前往公园，而公园随后引发许多相关记忆。",
+    "size": 10,
+    "source_text": "Locations as memory cues \nLocations, and actions in specific locations, were reported \non frequently. Most entries related to earlier experiences in \nthe same environment, but just similarity was enough in \nsome cases to invoke memories. For example, a sandy \nbeach and high temperatures were distinct enough to cue \nmemories of another beach far away in time and space. In \nother cases it was not so much the location as the \nopportunities afforded, such as the ability to go somewhere \nat a ferry terminal. The latter example could be described as \nreflective, similar to motivations to go to a park that later \nsparks many related memories. \n",
+    "spare": 13.161834716796875,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      54,
+      491.3525695800781,
+      298,
+      666.2854614257812
+    ],
+    "text": "本研究无法明确判断，究竟是地点整体构成线索，还是环境中的某个具体事物构成线索。例如，一条在海滩记录的日记提到，低悬的月亮倒映在海面上，触发了参与者的记忆：“几周前第一次在夜里下海。【这使我感到】兴奋，想尽快再去夜泳。”（P17-d）身处同一地点，可能唤起相似心境，使某个方面更容易将往事带到意识中；因此，事后很难说究竟是否只有那个要素构成了线索。另一条记录也说明了这一点：参与者重返大学某栋建筑时，提到了入口的柱廊。返回那里，并沿着熟悉的路行走，在看到那座鲜明的柱廊之前，就已经促成了怀旧感。",
+    "size": 10,
+    "source_text": "This study provides no clear perspective on whether a \nlocation as a whole is the cue, or rather something specific \nwithin this environment. For example, in an entry noted at a \nbeach a low moon reflected in the ocean, triggering a \nparticipant’s memory of “going in the ocean at night for the \nfirst time a couple of weeks ago. [This made me feel] \nexcited: keen on going swimming at night soon again” \n(P17-d). Being in the same place may evoke a similar state \nof mind and makes it likely some aspect pulls past events to \nthe surface, making it difficult to retrospectively tell if it \nreally was just that element as cue. Another entry \nunderlines this by pointing to the column portico of a \nuniversity building upon returning there. The act of going \nback, and taking that familiar walk, contributed to the sense \nof nostalgia before seeing the distinctive portico. \n",
+    "spare": 39.932891845703125,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      54,
+      669.9236450195312,
+      298,
+      717.1654052734375
+    ],
+    "text": "#### 作为记忆线索的活动\n\n活动常被提及为线索，使人想起曾进行类似行动的事件。少数参与者意识到，对自己而言，",
+    "size": 10,
+    "source_text": "Activities as memory cues \nActivity was often named as a cue for events in which a \nsimilar action had been performed. A few participants \nrealized that for them it often wasn’t specific items that \n",
+    "spare": 5.24176025390625,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      317,
+      60.55256652832031,
+      561,
+      154.8454132080078
+    ],
+    "text": "唤回记忆的往往不是具体物品，而是做与过去相似的事情。有一人意识到自己倾向于通过行动回忆，这便成为他的日常做法之一，也使他倾向于少拍照片：“做事情的时候，会有一种似曾相识的感觉：你当时看见的、闻到的，以及感受到的……一张图片，我会想，‘哦，对，那真的、真的很棒’，但做某件事，会让整个回忆过程都参与进来。”（P8-i）",
+    "size": 10,
+    "source_text": "brought back memories but rather it was doing something \nsimilar as in the past. For one person, aware of his \nproclivity to remember by doing, it became part of his \npractice (and tendency not to take many photos): “When \ndoing things, you get a déjà vu: what you were seeing, \nsmelling, and feeling as well. […] An image... I'd think 'oh, \nyeah, that was really, really good,' but doing something \nengages that whole process of remembering.” (P8-i). \n",
+    "spare": 7.2928466796875,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      317,
+      158.47254943847656,
+      561,
+      367.9654235839844
+    ],
+    "text": "活动为什么会唤起记忆？一名参与者尝试将采购物品塞进自行车袋时，想起了以前遇到同样难题的情形。如果没有眼前的问题，关系就没那么直接：“早晨游泳时，我总会想起男朋友。【运动】成了我们一起做的事情的一部分……然后你就会想到某个人，这就变成了一种习惯。”（P4-i）我们认为，可能是重复，以及由此积累的意义，帮助人们想起进行该活动时发生的事件。虽然打扫和做饭等日常活动也被提及，但体育活动似乎通过重复以及与生活价值观的关联，提供了一种独特机会。下面的日记很好地体现了这一点：“【我注意到】慢跑后感觉多好，其实慢跑时也感觉很好。【我想起了】以前活动更多时，我感觉有多好。（过去经常跑步。）【这使我感到】很好，为重新开始规律锻炼而骄傲。”（P1-d）",
+    "size": 10,
+    "source_text": "Why do activities cue memories? When trying to fit \ngroceries in a bicycle bag, a participant was reminded of \nprevious times she faced the challenge. Without an \nimmediate challenge present, it is less straightforward: \n“When I swim in the morning, I always remember my \nboyfriend. [Sporting] became part of something we did \ntogether (...) and then you think about a person and it \nbecomes a habit” (P4-i). We argue it may be repetition, and \nthrough this the accumulation of meaning that aids \nremembering of events in which the activity took place. \nAlthough mundane activities like cleaning and cooking \nwere mentioned as well, it appears sports provide a unique \nopportunity through the repetition and relation to values in \nlife. This diary entry captures it well: “[I noticed] how \ngood I felt after going for a jog, and arguably during the \njog. [I remembered] how good I felt when I was more \nactive. (Used to run frequently). [This made me feel] good, \nproud that I have restarted the regime.” (P1-d). \n",
+    "spare": 50.49287414550781,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      317,
+      371.6036071777344,
+      561,
+      602.6854248046875
+    ],
+    "text": "#### 与食物有关的线索\n\n进食及与食物有关的材料经常出现，包括食材、制作食物、相关工具，以及共同用餐（见图2）。虽然在人机交互研究中并不常被提及[23]，食物是一个融合了物品、活动、社交聚会和累积意义的类别。食物相关线索唤起了关于社交聚会、往事、个人偏好及与家人关系的记忆：“【我想起了】和母亲一起做饭——小时候住在家里的时候。【因为我注意到】那天晚上准备使用的食谱上，有她的笔迹。【这使我感到】有一点难过——我再也不能给她打电话，聊聊日常琐事了。她已经离开了我们。”（P9-d）和活动一样，食物及其社会实践似乎随时间积累意义，重复因而使记忆更强。做饭的例子表明，某道菜肴可能对应特定事件或时期，成为那些时刻的象征，这大概会巩固其日后唤起记忆的能力。",
+    "size": 10,
+    "source_text": "Food related cues \nEating and food-related materials came up often, and \nincluded ingredients, making food, related tools, and \nsharing a meal (see Fig.2). Although not mentioned often \nwithin HCI [23], food is one category where items, \nactivities, social gatherings and accumulated meaning \ncombine. Food-related cues prompted memories on social \ngatherings, past events, people’s preferences, and the \nrelationship with family members: “[I remembered] \ncooking with my mother – as a child living at home, \n[Because I noticed] her handwriting on a recipe I was \nabout to use that evening. [This made me feel] a little sad – \nthat I can no longer call her & chat about day-to-day \nthings. That she is no longer with us.” (P9-d). Like \nactivities, food and its social practices appear to accumulate \nmeaning over time and as such the repetition makes for a \nstronger memory. The cooking example indicates dishes \ncan be specific to an event or a period and take on a role as \nsignifier for those moments, presumably cementing its \nability to cue memories later. \n",
+    "spare": 57.081817626953125,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      317,
+      606.3236083984375,
+      561,
+      711.1654052734375
+    ],
+    "text": "### 哪些记忆线索有价值？\n\n虽然我们关注非自主线索提示，但关于有价值物品作为线索的讨论，集中于家庭实践，因为家是人们出于相关记忆或审美考虑，存放和展示物品的地方。我们发现，人们感知到的接触相关记忆的需要，与物品的摆放位置有关。有些人刻意展示物品，将它们作为积极时刻和自我特质的象征。",
+    "size": 10,
+    "source_text": "Which memory cues are valuable? \nWhile our focus was on involuntary cueing, discussions on \nvaluable items as cues centered on practices in the home as \nthe place for storage and display of items for their related \nmemories and/or aesthetics. We found a relationship \nbetween the perceived need of access to related memories \nand item placement. For some, items were deliberately put \non display to serve as signifiers of positive moments and \nself-attributes. These items thus served to display and cue \n",
+    "spare": 14.841796875,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      54,
+      60.55256652832031,
+      298,
+      132.04542541503906
+    ],
+    "text": "这些物品因而用于展示并唤起身份认同中的积极特质：“就像每一件东西，都在你自己的画作上添了一笔。”（P4-i）几乎所有参与者都希望家能够反映身份认同，这与以往研究一致[例如10，20，27]。这表明，怀旧回忆的需要与人们如何看待过去，以及过去如何关联当下有关。",
+    "size": 10,
+    "source_text": "positive attributes of identity: “it's like each of those things \npaint a stroke in your own painting” (P4-i). This desire to \nhave the home reflect identity is found with nearly all \nparticipants, and echoes prior work [e.g., 10, 20, 27]. This \nhighlights that the need for reminiscing ties into \nperspectives on the past, and how it relates to the present. \n",
+    "spare": 0,
+    "scale": 0.9922480620155039
+  },
+  {
+    "page": 6,
+    "rect": [
+      54,
+      135.4325714111328,
+      298,
+      264.52545166015625
+    ],
+    "text": "物品与当下的关系可能随时间改变：在影响深远的事件之后，它可能获得新意义，并部分因此继续具有价值。例如，一条曾由朋友赠送的手织围巾，在友谊结束后成为个人成长的象征：“它最终是一种【过去遭到】拒绝的象征，但也是爱的象征……把自己失败的见证留在身边，会让人保持谦逊……它鼓励你继续成长。”（P4-i）这类重要人生事件的信物关联着复杂情感。关于数字遗留物和传家物件的其他工作，也支持这些发现[20]。",
+    "size": 10,
+    "source_text": "An item’s relation to the present may morph over time as it \nmay take on new meaning after influential events, and \nremain valuable partly because of this. For example, a \nhand-knitted scarf once received as a gift from a friend \nsince lost has come to signify personal growth: “it's \nultimately a symbol of rejection [in the past]; it's also a \nsymbol of love. (...) And when you keep things of your own \nfailures around, it keeps you humble. (...) It encourages you \nto keep growing” (P4-i). Such tokens of important life \nevents relate to complex emotions. Other work on digital \nremains and heirlooms corroborate these findings [20]. \n",
+    "spare": 30.092880249023438,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      54,
+      268.1525573730469,
+      298,
+      442.8454284667969
+    ],
+    "text": "许多私人物品的意义随时间发展：它们被展示、使用、留下伤痕，或闲置一段时间后再次被遇见。一名参与者每天骑车上班；那辆自行车多年前购买，此后陪他走遍世界，是一个很好的例子：“……有几个部件需要更换。于是我想，‘要买一辆新车吗？还是换掉零件？’最后我换了零件，我想是因为那些记忆，也可能是想留作纪念。”（P8-i）其他人也讲述了类似故事：物品在生活中扮演一个小角色，人们对它的依恋便逐渐形成。这补充了关于个人物品的其他研究；那些研究强调，反复看见或使用某物，有助于向其中投入意义[20，27]。",
+    "size": 10,
+    "source_text": "Meaning develops over time for many personal items, as \nthese things get put on display, get used, scarred, or fall out \nof use and are reencountered after a while. A good example \nis a story on a bike that a participant uses to go to work \ndaily, which was bought years ago and has since \naccompanied him around the world: “… I need to replace a \nfew things. So I think 'do I get a new bike? Or do I replace \nthe components?' And I replaced the components, because \nof the memories I think, and probably as a keepsake.” (P8-\ni). Other people illustrated similar stories that showed a \ngradual attachment over time as an item played a small part \nin their life. This complements other work on personal \nbelongings that emphasize the beneficial role of a \nrepeatedly observed (or used) factor for investment of \nmeaning [20, 27]. \n",
+    "spare": 51.69287109375,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      54,
+      446.48358154296875,
+      298,
+      574.3654174804688
+    ],
+    "text": "## 讨论\n\n本研究考察了非自主记忆线索提示，为支持回忆的设计提供依据。研究发现，多种外部刺激都能引发回忆体验。实体物品是最主要的非自主记忆线索；公园、海滩等环境及活动，也经常被提及。活动较少得到讨论，可能因为人们通常不会将活动视为早先事件的线索。不过，关于非自主记忆线索的心理学研究支持了我们对这些线索类型的发现[例如4，28]。",
+    "size": 10,
+    "source_text": "DISCUSSION \nIn the reported study, we investigated involuntary memory \ncueing to inform design for remembering. Our findings \nshow that a broad range of external stimuli can trigger \nremembering experiences. We found physical items took \nprecedence as involuntary memory cues; environments such \nas parks and beaches got frequent mention, as did activities. \nThe latter is not often discussed, perhaps because activities \nare not typically thought of as a cue for earlier events. Yet, \npsychology studies on involuntary memory cues back up \nour findings for these kinds of cues [e.g., 4, 28]. \n",
+    "spare": 25.8818359375,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      54,
+      577.7525634765625,
+      298,
+      706.8453979492188
+    ],
+    "text": "全天自我报告的方法，使记录超出了个人拥有和有意整理的物品范围。不过，对于私人物品，人们能够讲述它们曾参与的故事和历史。有意义的物品常被摆出来，例如用照片展示家庭纽带；或像继承来的餐盘那样，通过“使用来表达敬意”[20]。事实上，在讨论家中与个人记忆相关的实践时，我们的发现与早期民族志描述相契合[10，20，27]，尽管那些工作面向自主记忆，并采用了更广泛的社会学视角[参见20]。",
+    "size": 10,
+    "source_text": "The use of self-reports throughout the day brought in \nreports beyond the personal and curated. However, for \npersonal items people were able to relate stories and \nhistories in which these items played a role. Meaningful \nitems are often put on display (e.g., photos to display family \nbonds) or, like inherited dinner plates, are “honoring \nthrough use” [20]. Indeed, when discussing personal \nmemory-related practices in the home, our findings dovetail \nwith earlier ethnographic accounts [10, 20, 27], although \nthese works oriented towards voluntary memories, and \nemploy a broader sociological perspective [cf. 20]. \n",
+    "spare": 30.09283447265625,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      317,
+      60.55256652832031,
+      561,
+      247.0054473876953
+    ],
+    "text": "早期非自主线索研究没有关注线索的媒介呈现形式，因此无法讨论数字线索[例如4，28]。我们进行了这类分类，发现数字物品作为非自主线索并不常见。多数使用数字社交媒体的参与者，能够记起通过这种方式引发怀旧回忆的实例。日记中没有出现浏览手机照片的记录，但几名参与者将其描述为令人愉悦的活动。也许他们将其视为自主行为，而本研究关注的是非自主线索。另一种可能是，当人们像使用社交媒体那样，非自主地遇见数字媒体时，它们能够促进怀旧回忆；但对于自行管理的材料，这种价值可能因访问不便而被忽略，例如参与者提到了存储和管理负担。手机照片触手可及，可能降低这道门槛。",
+    "size": 10,
+    "source_text": "In earlier involuntary cueing work there was no attention to \nthe media representation of a cue, so no comments were \npossible on digital cues [e.g., 4, 28]. We did categorize \nthese, and found digital items were not common as \ninvoluntary cues. Most participants who use digital social \nmedia were able to remember instances of reminiscing \ninvoked this way. Browsing photos on a phone gave no \ndiary entries, but was mentioned by several participants as a \npleasant activity. It may be that participants regarded this as \na voluntary act, while the focus here was on involuntary \ncues. Alternatively, if digital media are encountered \ninvoluntarily as on social media, these are able to foster \nreminiscing, but for self-managed material this value may \nbe overlooked due to accessibility (e.g., participants \nmentioned storage and management burden). Photos on \nphones may lower the bar, being within easy reach. \n",
+    "spare": 39.452880859375,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      317,
+      250.63258361816406,
+      561,
+      379.48541259765625
+    ],
+    "text": "尽管有意关注数字线索，本研究仍未明确：对于既可数字呈现、也可实体呈现的线索，两种形式引发的回忆体验是否不同。研究发现表明，多种物品都能够唤起记忆，但有机会被看见是关键；这可能解释了回答中实体物品为何居多。呈现形式问题仍需进一步关注，因为如果回忆体验随记忆线索的呈现方式而变化，就会影响未来利用线索支持回忆的设备。",
+    "size": 10,
+    "source_text": "Despite intent to focus on digital cues, this study does not \nmake clear whether there is a difference in remembering \nexperience for cues that could be both digitally and \nphysically presented. Our findings suggest ability to cue \nextends to a wide variety of items, but availability to be \nobserved is key (which may explain the prevalence of \nphysical items in the responses). This question of \nrepresentation is in need of future attention, because if \nremembering experiences differ depending on the way a \nmemory cue is presented this has implications for future \ndevices that support remembering using cues. \n",
+    "spare": 41.85282897949219,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      317,
+      383.1125793457031,
+      561,
+      511.9654235839844
+    ],
+    "text": "研究存在一些方法上的局限。日记使人们能够在线索触发后立即自我报告，但有些人觉得随身携带日记负担较大，便隔一段时间再写。这可能使报告变成对先前记忆的事后追忆，或使短暂且很快被遗忘的记忆未被报告。日记往往在回家后填写，可能正值晚餐时间，从而预先激活与食物相关的内容。未来研究可分阶段采集数据，例如先记关键词、稍后补充完整描述，以减轻报告负担。",
+    "size": 10,
+    "source_text": "Some methodological limitations apply. Using diaries \nenabled self-reports directly after being cued. However, \nsome people wrote in the diary a while after because they \nfelt burdened carrying it around. Such practices may \nintroduce retrospection on memories invoked earlier or \nleave \nephemeral \nand \nquickly \nforgotten \nmemories \nunreported. Diaries were then filled out upon coming home, \nperhaps around dinnertime, which may have primed food-\nrelated entries. Future studies could employ a staged \ncapturing of data (e.g., noting keywords, with full \ndescriptions added later) to ease reporting. \n",
+    "spare": 29.85284423828125,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      317,
+      515.592529296875,
+      561,
+      667.4854125976562
+    ],
+    "text": "参与者之间的差异，可能源于对任务的不同理解。尤其是，有些人觉得任务仅限于对实体事物的观察，例如把音乐排除在线索之外。这可能部分解释本研究物件数量为何高于其他工作[4]，也可能降低了数字线索的记录数量。不过，比较并不容易，因为既有研究没有将非自主记忆线索明确区分为数字形式。此外，我们怀疑参与者在决定记录什么时进行了筛选。虽然研究依赖参与者意识到自己被非自主触发，因此这种筛选并非预期行为，但有些参与者可能舍弃了自己认为与个人关系不大的记忆，从而使发现产生偏差。",
+    "size": 10,
+    "source_text": "Observed differences between participants might be \nattributed to different task interpretations. In particular, \nsome felt restricted to physical observations and, for \nexample, excluded music as cue. This may partly explain \nthe higher count of objects in our data compared to other \nwork [4], and could have reduced the number of digital \ncues. However, comparing is difficult, as those did not \nspecify involuntary memory cues as digital. Furthermore, \nwe suspect some filtering took place on what was recorded. \nWhile unexpected when relying on someone’s awareness of \nbeing involuntarily cued, some participants might have \ndiscarded cued memories that did not feel very personally \nrelevant, which may bias our findings. \n",
+    "spare": 28.89288330078125,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      317,
+      671.112548828125,
+      561,
+      719.3253784179688
+    ],
+    "text": "虽然我们强调，不要主动寻找能使自己想起个人记忆的东西，而应依靠非自主线索提示，但除事后询问记录某些条目的动机之外，我们无法控制这一点。",
+    "size": 10,
+    "source_text": "Although we stressed people to not look for things that \nreminded them of personal memories, and rather rely on \ninvoluntarily cueing, we could not control for this other \nthan retrospectively asking about their motivations to note \n",
+    "spare": 9.21282958984375,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      54,
+      60.55256652832031,
+      298,
+      120.52546691894531
+    ],
+    "text": "回答表明，记录确实主要来自非刻意引发的记忆；不过，在家中，许多物品本来就被刻意展示，以便偶尔提醒自己，而且显然发挥了这种作用，这使意图性的边界变得模糊。",
+    "size": 10,
+    "source_text": "certain entries. While responses suggest entries were indeed \nbased on unintentional invocation of memories, in many \ninstances in the home items were deliberately put on \ndisplay to serve as occasional reminders and evidently did \nso, blurring the line on intentionality. \n",
+    "spare": 8.972900390625,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      54,
+      124.15254211425781,
+      298,
+      229.96546936035156
+    ],
+    "text": "还需要承认，记忆线索提示并非一个直接简单的过程。线索可能通过连续的思绪，引出一段已无法辨认其最初来源的记忆。写日记的行为，或记着稍后要写，也可能改变一个人对最初线索触发事件及相关记忆的看法。这种改变作用对于交互设备值得考虑；在本研究中，它则是一种我们无法控制的潜在影响。",
+    "size": 10,
+    "source_text": "It needs acknowledgement that memory cueing is not a \nstraightforward process and a cue can via cascading \nthoughts lead to a memory that may no longer be \nrecognized as brought about by the original cue. The act of \nwriting in the diary (or remembering to do so later) may \nequally modify one’s perspective on the original cueing \nevent and related memories. This modifying aspect is \nrelevant to consider for interactive devices, but here it can \nbe seen as a potential influence outside our control. \n",
+    "spare": 30.81292724609375,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      54,
+      233.59254455566406,
+      298,
+      293.325439453125
+    ],
+    "text": "本节余下部分讨论交互设计支持怀旧回忆的启示与机会，将其描述为需要权衡的维度：时机、接触线索，以及成为有意义记忆线索的过程。",
+    "size": 10,
+    "source_text": "The remainder of this section relates implications and \nopportunities for interaction design to support reminiscing, \nwhich are described as dimensions of trade-offs to consider. \nThese dimensions are timing, exposure, and the process of \nbecoming a meaningful memory cue. \n",
+    "spare": 20.732894897460938,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      54,
+      296.8147888183594,
+      298,
+      494.9254150390625
+    ],
+    "text": "### 时机：何时呈现线索\n\n据参与者所述，怀旧回忆和反思并不是人们会专门安排一段时间去做的活动。反思的心境当然会增加其发生机会，但它们更常在做其他事情时出现，例如洗衣、做饭或骑车。依据任务的认知要求，主要活动可能移到注意力的边缘[2]。可以通过增强那些容易让思绪游走的既有交互，为怀旧回忆提供机会。做饭被认为是这种低强度活动的一个例子，设备可以利用这一机会，启发积极的怀旧回忆。促进这一过程当然具有挑战，因为游走的思绪可能很难引导；但嵌入日常活动、具有提示作用的设备，可能利用那些人们表示喜欢思考自身生活的时刻。",
+    "size": 10,
+    "source_text": "Timing: moments for presenting cues \nReminiscing and reflection are not activities people set out \nto do for a while, according to participants. A reflective \nmood will certainly increase the odds, but it is rather \nsomething that comes up while doing another task (e.g., \ndoing laundry, cooking, riding a bike). Depending on \ncognitive demands, a task may allow the main activity to \nmove to the periphery of attention [2]. Opportunities for \nreminiscing can be facilitated by augmenting existing \ninteractions that are prone to mind wandering. Making food \nwas indicated as an example of such a low-key activity, and \na device could capitalize on the opportunity to inspire \npositive reminiscing. Facilitation is certainly challenging \nbecause it may be hard to steer the wandering mind, but \nsuch suggestive devices embedded into everyday activities \nhave potential to tap into moments when people say they \nenjoy thinking about their lives. \n",
+    "spare": 60.110626220703125,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      54,
+      498.5525817871094,
+      298,
+      650.4454345703125
+    ],
+    "text": "通过设计的线索提示使人们参与怀旧回忆，需要对合适时机保持敏感。按照定义，非自主线索提示并非应请求发生；但以此为目标的设备，如果能够感知提示是否受欢迎，或让人们事后表达是否喜欢被触发的体验，就会受益。系统可能随时间从这些反馈中学习。还可以采用其他技术方式感知接受程度，例如面部表情或观看物品的时长。同样，可以将用户活动区分为放松且愿意接受打断，或处于心流状态。这一范围的另一端，则是在用户事先作出主动行动之前，完全不发起线索提示。",
+    "size": 10,
+    "source_text": "To engage people in reminiscing via designed cueing \nrequires sensitivity to opportune moments. By definition \ninvoluntary cueing is unsolicited, but devices that aim to do \nso would benefit from a way to sense (un) desirability, or \nalternatively, provide the means for people to indicate in \nretrospect whether they appreciated the experience of being \ncued. Over time, a system may be able to learn from such \nfeedback. Other technical means may be available to \nsensing appreciation (e.g., facial expressions, time spent \nlooking at an item). Similarly, user activity could be \nclassified as relaxed and open to interruption, or in a state \nof flow. The opposite end on this spectrum would entail no \ncueing is commenced without prior voluntary action. \n",
+    "spare": 40.892852783203125,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      54,
+      653.9347534179688,
+      298,
+      713.805419921875
+    ],
+    "text": "### 接触线索：呈现什么，如何呈现\n\n任何系统都需要解决一个关键问题：现有物品中，哪些与某个人珍视的记忆相关，以及如何呈现这些物品最合适。对于物品作为线索、或相关记忆的感知价值，",
+    "size": 10,
+    "source_text": "Exposing a cue: what and how \nA key element for any system is to find out which available \nitems relate to a valued memory for someone, and in which \nway these items are best presented. Finding out about \nperceived value (whether of an item-as-cue or a related \n",
+    "spare": 5.87066650390625,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      317,
+      60.55256652832031,
+      561,
+      166.3654327392578
+    ],
+    "text": "可以事先明确询问，也可以事后通过反馈了解。自动获取这种知识的一个问题是，正如研究所显示，物品的意义因人而异，也可能存在矛盾情感。例如，交互次数可能是有用指标，如某首歌被播放的次数，但系统可能不知道原因。以往工作通过随机展示来追求意外发现的效果，从而绕开了这一问题[例如9，14]。",
+    "size": 10,
+    "source_text": "memory) could be done in advance through explicit inquiry, \nor retrospectively through feedback. One issue for automated \ngathering of such knowledge is that meaning of an item is \nidiosyncratic and perhaps ambivalent, as our findings \nindicate. While (for example) number of interactions may be \na telling signifier (e.g., how often a song was played), a \nsystem may not know why. Previous work has sidestepped \nthis issue by considering random viewing as a way of \nachieving serendipity [e.g., 9, 14]. \n",
+    "spare": 30.8128662109375,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      317,
+      169.99256896972656,
+      561,
+      310.36541748046875
+    ],
+    "text": "接下来是接触线索应采用什么形式。虽然我们的数据表明，相比线索提示本身，相关记忆更能反映体验是否受到欣赏，但研究仍为探索具体提示形式留下了空间。通过行动回忆，值得进一步研究。我们设想，交互不仅可以作为访问内容的手段，也可以帮助怀旧回忆。如果设备了解哪些活动容易引发怀旧回忆，就可能通过促成这些活动，使人想起早先的事件。联系积极记忆可能激发类似体验，慢跑的例子就体现了这一点。",
+    "size": 10,
+    "source_text": "Next comes the question of which form this exposure should \ntake. While our data suggests a related memory is a stronger \nindicator of appreciation than the cueing itself, our findings \nleave room for exploration of this cueing manifestation. \nRemembering through action is worthwhile for further \ninvestigation. We imagine interactions can be leveraged not \njust as means to access content, but also be conducive to \nreminiscing. If a device is aware of reminiscence-prone \nactivities, there may be opportunities to reminisce on earlier \nevents through stimulation of activities. Relating to positive \nmemories could stimulate similar experiences, as seen with \nthe jogging example. \n",
+    "spare": 41.37284851074219,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      317,
+      313.9925842285156,
+      561,
+      500.4454345703125
+    ],
+    "text": "人们表示，并不需要一直思考过去。交互设备必须考虑接触过度的可能性，因为数字设备让我们可以频繁遇见大量纪念物：只要愿意，就能迅速找到任何旧物，这可能改变我们与纪念物建立关系的方式[29]。这与通常藏起来的旧鞋盒形成对照，也不同于以此为主题的探索[例如11]。两名熟悉抑郁经历的参与者指出，频繁与过去互动可能产生不良影响，既涉及痛苦记忆，也涉及难以继续向前生活。遗忘同样具有价值，是健康记忆系统的一部分；不加区分地唤起不愉快记忆，可能损害幸福感[3]。不过，我们仍相信，处理得当时，设计可以介入人们反思过去有意义事件的过程[例如21]。",
+    "size": 10,
+    "source_text": "People expressed no need to consider the past all the time. \nPotential overexposure is important to consider for \ninteractive devices as digital devices enable us to frequently \nencounter many mementos: we can quickly retrieve any old \nitem, whenever we want, which may change how we develop \nrelations with these mementos [29]. It is a contrast with the \nnormally hidden shoeboxes of old, and explorations building \non this theme [e.g., 11]. Frequent interaction with the past \ncan have adverse effects, both for painful memories and the \ninability to move on with one’s life, as pointed out by two \nparticipants familiar with depression. There is equal value in \nforgetting as part of a healthy memory system, and \nindiscriminate invocation of unpleasant memories can \nadversely affect people’s wellbeing [3]. Still, we believe that \nwhen done right, designs can engage with the process of \nreflecting on meaningful events of the past [e.g., 21]. \n",
+    "spare": 51.452850341796875,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      317,
+      504.0835876464844,
+      561,
+      700.8453979492188
+    ],
+    "text": "### 作为线索逐渐获得意义的过程\n\n能否通过设计支持或培育意义？这是我们希望作出贡献的设计挑战。本文研究的是现有物品：它们虽未被明确设计用于唤回记忆，却已经具有这种能力。依据研究发现，我们注意到，记忆和意义与物品之间并非简单直接的关系。这种有时较为间接的关系，可能因人而异[27]。例如，前述围巾象征着一段失去的友谊，但这一象征也可能由其他物品承担。我们推测，任何事物都可能成为记忆线索，取决于人们如何与之建立关系；但有些设计可能更适合唤回记忆。围巾的手工材质特征，或许就是表达情感投入的设计要素，而这种品质较难在数字媒体中复制。因此，尤其对于可能唤起记忆的数字设备，",
+    "size": 10,
+    "source_text": "Process of becoming meaningful as a cue \nCan meaning be designed for or cultivated through design? \nThis is a design challenge we seek to contribute to. The study \npresented in this paper was concerned with existing items \nthat had the ability to bring back memories without being \ndesigned explicitly for that goal. Based on our findings we \nnote that memories and meaning do not form a \nstraightforward relationship with an item. This sometimes \ntangential relationship can be idiosyncratic [27]. For \nexample, the scarf discussed earlier symbolizes a lost \nfriendship, but this symbol could have been another item. We \nspeculate everything might be able to become a memory cue \ndepending on how people relate to it, but some designs may \nbe better suited to bring back memories. The scarf’s \nhandmade materiality may be such a design element that \nsignifies emotional investment, a quality harder to replicate \nin digital media. Therefore, especially for digital devices that \n",
+    "spare": 34.761810302734375,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      54,
+      60.55256652832031,
+      298,
+      85.96546936035156
+    ],
+    "text": "我们认为，一个十分重要的问题是：如何通过设计，使其逐渐获得意义。",
+    "size": 10,
+    "source_text": "could cue memories, we believe a very relevant question is \nhow it can be designed to become meaningful. \n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      54,
+      89.59254455566406,
+      298,
+      298.8454284667969
+    ],
+    "text": "意义随时间形成这一观点，值得在未来设计中研究，也呼应了Petrelli等人[27]的类似发现。反复接触潜在记忆线索、与其互动似乎很重要；这种时间投入的要求，也使数字线索较难积累意义。按照我们的结果，相较于实体线索，数字线索在日常生活中的接触机会较少，尽管Schwarz指出了另一种趋势[29]。如果重复是意义积累的关键，设计就可以探索意义如何随时间形成和增长，例如通过反复接触。如果人们如何与某事物建立关系，确实比事物是什么更重要，那么我们就应思考如何促进个人记忆与线索之间的关系。面向这一过程进行设计，并支持怀旧回忆与反思，似乎是一条切实的研究方向。这不同于把某件物品设计成能够唤起自传体记忆的对象，而可能是利用物品来促进这一过程。",
+    "size": 10,
+    "source_text": "The notion that meaning develops over time is interesting to \ninvestigate in future designs, and echoes similar findings by \nPetrelli et al. [27]. Repeated exposure and engagement with \npotential memory cues seems important, and such investment \nof time hampers digital cues to pick up meaning. Compared \nto physical cues, digital ones get comparatively less exposure \nin everyday life, if going by our results (although Schwarz \npoints at a different trend [29]). If repetition is key to accrue \nmeaning, designs could explore ways in which meaning \ndevelops and grows over time (e.g., through repeated \nexposure). If indeed how people come to relate to something \nis more relevant than what the thing is, we should consider \nhow we could foster a relationship between a personal \nmemory and a cue. Designing for this process and facilitation \nof reminiscing and reflective thought appears a veritable \ndirection of inquiry. This is different from designing an item \nto be able to cue an autobiographical memory, and rather \nmay use items to facilitate the process. \n",
+    "spare": 50.25288391113281,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      54,
+      302.4725646972656,
+      298,
+      408.5254211425781
+    ],
+    "text": "是通过与用户交互，有意追求这种意义积累，例如反复接触；还是反过来，根据使用数据推断意义正在增强，例如某物被回看的次数，是设计需要作出的决定。这一维度与其他维度相连，重点在于：如果给予时间，什么可能变得有价值。例如，我们的发现表明，与社会联系有关的物品，可能逐渐被认为有价值，前提是这种联系本身确实被看作有价值。",
+    "size": 10,
+    "source_text": "Whether such accrual of meaning is deliberately sought via \ninteractions with someone (e.g., by repeated exposure) or, as \nper the opposite, that increasing meaning is derived from \nusage data (e.g., how often an item is revisited), is a design \ndecision to be made. It relates to the other dimensions by \nfocusing on what could become valuable if given time. As an \nexample, our findings suggest items that relate to social \nconnections would be likely to become regarded as valuable, \nif this connection is indeed seen as such. \n",
+    "spare": 19.0528564453125,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      54,
+      411.7747802734375,
+      298,
+      541.0054321289062
+    ],
+    "text": "### 技术能力的边界\n\n上述各维度都需要从用户角度权衡：非自主线索提示是否受欢迎。例如，提示造成的打扰，可能来自时机选择不敏感，或错误判断而让用户接触到唤起不想要记忆的线索。系统能否成功，取决于它多大程度上理解使用情境，以及如何依据这些知识调整自身。挑战在于，在技术能力范围内判断提示是否受欢迎，并在无法充分了解时妥善处理。",
+    "size": 10,
+    "source_text": "Limits to what technology could accomplish \nThe aforementioned dimensions all require trade-offs to be \nmade considering the desirability of involuntary cueing from \na user’s perspective. For example, obtrusiveness of cueing \nrelates to insensitive timing and/or misjudging exposure to a \ncue for an undesired memory. Whether a system can be \nsuccessful depends on how well it is able to understand the \ncontext of its use and how well it adapts to such knowledge. \nThe challenge is to judge this desirability within the means of \ntechnology, and handle the cases where it cannot adequately \nknow in an appropriate manner. \n",
+    "spare": 27.23065185546875,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      54,
+      544.632568359375,
+      298,
+      719.3253784179688
+    ],
+    "text": "获得必要理解，可能依赖机器学习算法；但面对难以测量的数据，例如对物品的个人依恋，或是否愿意思考过去，这些算法未必具有足够能力。后一个问题意味着，完全以非自主方式被体验的系统可能并不完善，与一定程度的自主交互相结合，也许更能满足需要，例如事后将某些线索标记为想要或不想要。此外，某些方面很难用技术系统预先做好准备，数字数据继承的早期研究已说明这一点[例如13，22]。然而，这些不完美时刻如何展开，仍可以调整。我们认为，设计者应承认技术的局限，不过度依赖技术，而应选择一种对话方式；这类似于实体物品、物品的意义及其可见的摆放或移走，",
+    "size": 10,
+    "source_text": "Getting the necessary understanding may depend on machine \nlearning algorithms that may or may not be sufficiently \ncapable to do so given hard to measure data such as personal \nattachment to an item or openness to consider one’s past. The \nlatter issue implies a fully involuntarily experienced system \nmay be imperfect, and a balance with some voluntary \ninteractions could serve people’s needs better (e.g., using \nretrospectively marking of certain cues as desired or not). \nFurthermore, there are aspects that are hard to prepare for \nwith a technological system, as shown in earlier work on \ninheritance of digital data [e.g., 13, 22]. However, the ways \nimperfect moments play out are malleable. We believe \ndesigners should acknowledge the limitations of technology \nby not relying extensively on it and rather opt for a dialogue, \nsimilar to how physical items, their meaning, and visible (dis) \n",
+    "spare": 39.69281005859375,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      317,
+      60.55256652832031,
+      561,
+      85.96546936035156
+    ],
+    "text": "通过位置操作，例如藏起物品，与主人形成对话。",
+    "size": 10,
+    "source_text": "placement form a dialogue with their owner through \nmanipulation of place (e.g., hiding things). \n",
+    "spare": 10.41290283203125,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      317,
+      89.6036148071289,
+      561,
+      274.84539794921875
+    ],
+    "text": "### 对支持回忆的人机交互研究的反思\n\n既然物品、自我与记忆之间有意义的联系随时间形成，这就对设计研究提出了要求。仔细研究设计干预时，应考虑用户反复参与的影响，因此纵向评估会有所帮助。本文讨论的多数设计案例，以及许多未讨论的案例，都只研究了有限时间，这可能不足以让人们建立更深层关系。时间流逝可能改变我们对早先事件的看法，因此，两年后的回忆体验，与一个月后的回忆体验，可能带来不同认识；前者更接近真实生活中的使用情形。因此，重视纵向评估可以为回忆支持设计提供必要理解。",
+    "size": 10,
+    "source_text": "Reflections on HCI research for remembering \nHaving made the argument that meaningful connections \nbetween items, the self and memories are forged over time, \nthis has implications for design research. Careful study of \ndesigned interventions should consider the effects of repeated \nuser engagement, and would therefore benefit from \nlongitudinal evaluation. Most of the design examples \ndiscussed in this text were studied for a limited period of time \n(as are many not discussed here), perhaps falling short of the \ntime necessary to become related to at a deeper level. \nBecause passage of time may alter our perspective on earlier \nevents, remembering experiences after two years can yield \ndifferent insights from doing so after one month, the former \ncloser to a real life use case. An emphasis on longitudinal \nevaluation can thus provide necessary insight on designing \nfor remembering support. \n",
+    "spare": 59.241783142089844,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      317,
+      278.48358154296875,
+      561,
+      417.6454162597656
+    ],
+    "text": "## 结论\n\n我们认为，理解什么使人们想起过去，以及这如何影响体验，对于指导支持日常回忆的设计十分重要。本文将日记自我报告与后续访谈结合，增进了对非自主记忆及其触发事物之间关系的理解，也帮助理解人们如何与特别有意义的物品建立关系，从而为相关文献作出贡献。研究发现表明，记忆线索提示无处不在：有意义的线索不限于家中，对它们的研究也不应局限于家庭环境。",
+    "size": 10,
+    "source_text": "CONCLUSIONS \nWe believe understanding what makes people remember \ntheir past and how this colors their experience is important to \ninform designs that aim to support everyday remembering. \nOur work contributes to the literature by integrating diary \nself-reports with follow-up interviews to further our \nunderstanding about the relation between involuntary \nmemories and the things that cue such memories, and how \npeople relate to particularly meaningful items. The findings \nillustrate memory cueing happens everywhere: meaningful \ncues are not limited to the home, nor should its study be \nlimited to that environment. \n",
+    "spare": 37.161834716796875,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      317,
+      421.2725830078125,
+      561,
+      573.1654052734375
+    ],
+    "text": "在日常生活中的反复相遇，为物品获得意义提供了机会，即使物品与正在进行的任务只有间接关系。这类实践不易延伸到数字物品，尽管如今许多潜在线索都是数字形式。实体物品可以被展示，也可以用于普通任务，例如继承来的餐具；相比之下，我们认为，这对将数字物品用于日常回忆构成挑战，因为它们往往不会被定期、或偶然遇见。尽管便捷地采集媒体以供未来回忆，似乎已是解决了的问题，甚至可能解决得过了头[29，30]，本研究关注的是：这些物品目前如何被遇见，以及如何支持怀旧回忆与幸福感。",
+    "size": 10,
+    "source_text": "Repeated encounters in daily life, in which the item may be \ntangential to the task at hand, provide opportunities for items \nto take on meaning. Such practices do not easily extend to \ndigital items, although nowadays many potential cues are \ndigital. While physical items can be put on display or used \nfor common tasks (e.g., inherited cutlery), we believe this \nproves a challenge for digital items to be used for everyday \nremembering as these are often not encountered on a regular \nbasis (or serendipitously for that matter). Even though easy \ncapture of media for future recall seems a problem solved – \ntoo well perhaps [29, 30] – our work addressed how these \nitems are currently encountered and can be used as support \nfor reminiscing and wellbeing. \n",
+    "spare": 28.892822265625,
+    "scale": 1.0
+  },
+  {
+    "page": 8,
+    "rect": [
+      317,
+      576.7925415039062,
+      561,
+      694.1254272460938
+    ],
+    "text": "依据这些认识，我们可以提出自己认为对支持日常回忆有效的交互设计实践。融入容易让思绪游走的普通活动，可以为设计促进怀旧回忆提供机会；非自主线索提示可能带来意外的记忆重访，其中也包括不想要的记忆。设计应允许人们在一定程度上控制是否接触特定线索。有意义的联系随时间发展，设计可以支持这一过程。对支持回忆的人机交互设计进行评估时，纵向视角会有所帮助。",
+    "size": 10,
+    "source_text": "Considering our insights we can now state what we believe to \nbe effective practices for interaction design to support \neveryday remembering. Integrating with common activities \nthat stimulate the mind to wander provide opportunities for \nreminiscing through design; involuntary cueing can lead to \nsurprise revisiting of memories, including undesired ones. \nDesigns should allow for some control over (non) exposure \nto certain cues. Meaningful connections grow over time: \ndesigns can support this process. Evaluation of HCI designs \nfor remembering can benefit from a longitudinal focus. \n",
+    "spare": 18.3328857421875,
+    "scale": 1.0
+  },
+  {
+    "page": 9,
+    "rect": [
+      54,
+      60.563575744628906,
+      298,
+      142.3654327392578
+    ],
+    "text": "## 致谢\n\n感谢所有参与者投入时间并作出贡献。本研究获得悉尼科技大学伦理委员会批准（编号2012000570），并得到荷兰科学研究组织（NWO）的STW VIDI资助（编号016.128.303）以及悉尼科技大学博士奖学金支持，两项资助均授予Elise van den Hoven。",
+    "size": 10,
+    "source_text": "ACKNOWLEDGEMENTS \nWe would like to thank all participants for their time and \ncontributions. This study was approved by the UTS Ethics \nCommittee (#2012000570), and supported by STW VIDI \ngrant number 016.128.303 of The Netherlands Organization \nfor Scientific Research (NWO) and a UTS PhD Scholarship, \nboth awarded to Elise van den Hoven.  \n",
+    "spare": 3.8018569946289062,
+    "scale": 1.0
+  },
+  {
+    "page": 9,
+    "rect": [
+      54,
+      146,
+      298,
+      158
+    ],
+    "text": "## 参考文献",
+    "size": 9,
+    "source_text": "REFERENCES \n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      54,
+      662,
+      298,
+      714
+    ],
+    "text": "译本说明：AI中文翻译，未经作者审定，用于个人阅读。保留原作双栏、图表位置与参考文献题录；理论及技术评价按2015年原作理解。",
+    "size": 8,
+    "source_text": "",
+    "spare": 29.799999237060547,
+    "scale": 1.0
+  }
+]
