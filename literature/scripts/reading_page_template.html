@@ -310,6 +310,7 @@ try{ const t=localStorage.getItem('thesis-tab'); if(t){ const b=document.querySe
 
 function accHTML(r){
   const supplements=(r.supplements||[]).map(s=>`<a href="${esc(s.file)}" target="_blank" onclick="event.stopPropagation()">${esc(s.label)}</a>`).join('<br>');
+  if(r.translation_pdf) return `<a class="pdf" href="${esc(encodeURI(r.translation_pdf))}" target="_blank" onclick="event.stopPropagation()">中文 PDF</a>${r.file?`<br><a href="sources/fulltext/${encodeURIComponent(r.file)}" target="_blank" onclick="event.stopPropagation()">英文原文</a>`:''}`;
   if(r.file) return `<a class="pdf" href="sources/fulltext/${encodeURIComponent(r.file)}" target="_blank" onclick="event.stopPropagation()">打开 PDF</a>${r.translation?`<br><a href="translations/${encodeURIComponent(r.translation)}" target="_blank" onclick="event.stopPropagation()">中文译稿</a>`:''}`;
   if(supplements) return supplements+`<br><a href="暂未取得全文-原因与渠道.md" target="_blank" onclick="event.stopPropagation()">全文格式说明</a>`;
   const t=r.acc_type;
@@ -369,7 +370,7 @@ function renderList(){
       <div class="row">
         <div class="num">${pad(r.n)}</div>
         <div class="tierc">${r.star?'<span class="star">★</span>':''}<span class="tier ${r.tier==='精读'?'jd':'ld'}">${r.tier}</span></div>
-        <div class="main"><span class="cite">${esc(r.cite)}</span>，<span class="ttl">${esc(r.title)}</span><span class="tag">${esc(r.src)}</span>${note?'<span class="tag">有笔记</span>':''}<div class="why">${esc(r.why)}</div></div>
+        <div class="main"><span class="cite">${esc(r.cite)}</span>，<span class="ttl">${esc(r.title)}</span><span class="tag">${esc(r.src)}</span>${r.translation_pdf?'<span class="tag">已有中文译本</span>':''}${note?'<span class="tag">有笔记</span>':''}<div class="why">${esc(r.why)}</div></div>
         <div class="acc">${accHTML(r)}</div>
         <div class="stc"><select class="st" onclick="event.stopPropagation()">
           <option value="todo"${s==='todo'?' selected':''}>未读</option>

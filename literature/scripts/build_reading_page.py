@@ -20,6 +20,12 @@ supp_path = LIT / "data/fulltext-supplements-20261031.json"
 supplements = json.loads(supp_path.read_text()) if supp_path.exists() else []
 
 for r in rows:
+    # Only promote finished PDFs; drafts and working copies remain separate.
+    chinese_pdfs = sorted((LIT.parent / "output/pdf").glob(f"{r['n']:03d}-*-中文原版式译本.pdf"))
+    if len(chinese_pdfs) > 1:
+        raise ValueError(f"Multiple final Chinese PDFs for {r['n']:03d}: {chinese_pdfs}")
+    if chinese_pdfs:
+        r["translation_pdf"] = "../output/pdf/" + chinese_pdfs[0].name
     r["supplements"] = [s for s in supplements if s["n"] == r["n"] and (LIT / s["file"]).is_file()]
     translations = sorted((LIT / "translations").glob(f"{r['n']:03d}-*-中文译稿.html"))
     if translations:
