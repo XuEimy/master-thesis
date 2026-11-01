@@ -1,0 +1,859 @@
+                  ARTICLE
+                  https://doi.org/10.1057/s41599-025-06426-y                 OPEN
+
+                  What might we learn about autobiographical
+                  narrative processing from Artiﬁcial Intelligence?
+                  Cade D. Mansﬁeld1 ✉, Jack J. Bauer2, Jordan Booker3, Azriel Grysman4, Jefferson Singer5 & Robyn Fivush6
+
+
+
+                  Human beings are innately storytellers. Large Language Model AI algorithms (LLMs) like
+                  ChatGPT are not. But what ChatGPT produces, when instructed to generate or interpret a
+
+1234567890():,;
+                  narrative, is powerful and can provide insight into human narrative processing, because it is
+                  trained to produce narratives from human sources. Our paper explores these ideas. In the
+                  ﬁrst section we review key concepts from narrative identity theory and research, including a
+                  recent study from our multi-institution collaboration exploring similarities and differences in
+                  human and AI narrative processing. The current study extends this work by exploring peo-
+                  ple’s perceptions of ChatGPT interpretations of human personal narratives. Across these
+                  studies we ﬁnd that people are adept at differentiating between human and ChatGPT-
+                  generated self-deﬁning memory narratives and this may be because ChatGPT relies on
+                  redemptive tone and structure, a culturally dominant master narrative, in ways that seemed
+                  inauthentic and uncanny to human participants. Discussion focuses on key questions this
+                  work raises for research on narrative meaning-making, authenticity through narrative identity,
+                  and therapeutic uses of AI.
+
+
+
+
+                  1 Franklin & Marshall College, Lancaster, PA, USA. 2 University of Dayton, Dayton, OH, USA. 3 University of Missouri, Columbia, SC, USA. 4 Dickinson College,
+
+                  Carlisle, PA, USA. 5 Connecticut College, New London, CT, USA. 6 Emory University, Atlanta, GA, USA. ✉email: cade.mansﬁeld@fandm.edu
+
+                  HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y                                                  1
+ARTICLE                                HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y
+
+
+
+
+A
+         cross time and culture, human beings are storytellers; this      questions about narrative identity and the socio-cultural impli-
+         truism is reiterated in philosophy (Polkinghorne, 1988;          cations of the rise of LLM AI’s such as ChatGPT.
+         Ricoeur, 1991), sociology (Borisenkova, 2009), evolu-
+tionary biology (Boyd, 2018; Donald, 2001), and neuroscience
+(Damasio, 2012), as well as across the humanities (Eakin, 2011).          Meaning making through narrative
+Within cognitive psychology, the power of stories was articulated         Narrative identity encapsulates the idea that individuals construct
+by Bruner (1991a, 1991b), who argued that stories deﬁne the               a life story that integrates lived experiences into a reasonably
+social construction of the world, and within personality psy-             coherent narrative of how one became the person one is and who
+chology by McAdams (1992), who argued that stories deﬁne our              one wants to be, a storied identity that implicitly and explicitly
+very sense of self. Whether epic stories of world origins and             encodes values, beliefs, and motivations (McAdams, 1992;
+mythic heroes or everyday stories of human exploits and                   McAdams & McLean, 2013). Narrative identity is theorized as a
+adventures, stories are the way we understand the world around            layer of personality (e.g., McAdams & McLean, 2013), yoked to,
+us (Goodman, 1978), the people we interact with (Gallagher &              but distinct from constructs like personality traits (e.g., extro-
+Hutto, 2008), and our own personal being, our narrative identity          version, neuroticism) and characteristic adaptations (e.g., agency,
+(McAdams & McLean, 2013; Singer, 2004).                                   communion), which are overarching constructs that guide high-
+   Whereas stories have been with us even before we had the               level processing of experience. In contrast, narrative identity is
+language within which to express them (Donald, 2001), new and             idiographic and concrete, tied to individual lived experiences.
+emerging technology allows storied experiences–no matter the              More speciﬁcally, narrative identity involves narrative processing,
+importance or perceived magnitude–to be shared among people               the interpretation and evaluation of lived experience in ways that
+through texting, emailing, blogging, vlogging, sharing tweets and         create a sense of meaning and purpose (McAdams, 1992; McLean
+more. Both ﬁctional stories (e.g., novels, plays, movies) and             et al., 2007; Singer, 2004). Moreover, narrative processing is a
+autobiographical stories (e.g., memoirs, diaries, personal jour-          causal force in human lives. Concurrently, narrating coherent,
+nals), are now digitally formatted for online consumption,                agentic, and emotionally positive and resolved narratives is
+creating a huge digital corpus of stories. This collection of storied     positively associated with lower depression, lower anxiety,
+or narrative data can be used to train Large Language Model               sobriety, higher eudaimonic measures of well-being (sense of
+Artiﬁcial Intelligence Algorithms (LLMs; e.g., Claude, ChatGPT,           meaning and purpose in life, ﬂourishing), with wisdom, and with
+Llama) to decode and, perhaps more intriguingly, to produce               the capacity to forgive (Adler, 2012; Bauer & McAdams, 2010;
+personal narratives of events that these LLM’s have clearly never         Bauer, et al., 2005; Booker, 2019; Dunlop & Tracy, 2013; Lil-
+phenomenologically experienced. Yet, like an image reﬂected by a          gendahl & McAdams, 2011; Mansﬁeld et al., 2010; McAdams
+mirror, the text generated by LLMs may reveal something                   et al., 2001; Singer, 2004; Singer & Bluck, 2001; Sutin & Robins,
+essential about human storytelling—and, in turn, perhaps, some            2005). Importantly, in longitudinal correlational research, these
+of the things that make us distinctly human.                              same aspects of narrative processing have been shown to pro-
+   Obviously, a crucial difference is that human narration is             spectively predict similar positive outcomes (Adler et al., 2016;
+embodied and usually socially constructed. During a conversa-             Booker et al., 2020; Booker et al., 2022; Mansﬁeld et al., 2015;
+tion, the central nervous systems of both the teller and the listener     Pals, 2006). And the reverse also holds; for example, as indivi-
+receive signals from multiple sensory modalities, process those           duals narrate more negative connections to self within personal
+signals and respond with verbal and nonverbal expressions of              narratives, they score higher on depression and anxiety, have
+ideas and meanings that both teller and listener organically              more frequent experiences of negative emotional states, a greater
+understand and adapt to (Armstrong, 2018; Zak, 2015). The                 likelihood of ruminating on experiences, and poorer psycholo-
+psychological process of narrative construction by which we               gical well-being (Banks & Salmon, 2013; Banks & Salmon, 2018;
+develop and share new meanings occurs iteratively through bio-            Merrill, et al., 2016).
+logical experience with an interlocutor. Although quite impressive           Equally important, forms of individual narrative meaning-
+at linguistic tasks, ChatGPT works differently because, among             making are constructed through and with others. Beginning early
+other reasons, it is non-biological. “ChatGPT is only physically          in development, individuals learn how to construct narratives of
+‘present’ via internet-connected devices; it is not a biologically        personal experiences that conform to culturally appropriate fra-
+embodied organism engaged in creative meaning-making…The                  meworks (Fivush, 2022; McLean et al., 2007). These culturally
+large language model on which ChatGPT is based treats ‘natural            canonical narrative frameworks, often called “master narratives”
+language’ as sequential data, and produces language through               (Hammack, 2008; McLean & Syed, 2016), provide templates for
+inductive reasoning, a process of generating linguistic expressions       understanding and evaluating personal experience within cultu-
+or constructions based on patterns and regularities observed in           rally mediated worlds. McAdams (2013) has argued that the
+previously encountered data (Demuro & Gurney, 2024).” Philo-              canonical cultural American narrative is one of redemption, of
+sophies such as Transhumanism, deﬁned broadly as the                      moving from an initially negative place to a position of growth
+enhancement of human capabilities through technological aug-              and strength. This classically American cultural narrative of
+mentation, might suggest that organic human narrative proces-             redemption is echoed in the founding story of the Pilgrims, the
+sing can be enhanced by interfacing with machine-like linguistic          Horatio Alger immigrant story, and modern-day stories of Dolly
+operation of ChatGPT. While we remain agnostic to this possi-             Parton and Oprah Winfrey (Fivush, 2022). The extent to which
+bility, we ask a different question as a group of researchers who         this American canonical narrative may have generalized across
+focus on narrative identity: how might new LLM technologies               multiple cultures is still unknown (but see Mansﬁeld et al., 2025
+that can generate and respond to personal narratives provide              and Turner et al., 2024), but it is clear that redemption is an
+insights into both the process and product of human narrative             important American master narrative (McAdams, 2008; McLean
+identity? Our goal is not to argue for or against LLM’s generally         & Syed, 2016; Syed & McLean, 2022). Indeed, with US samples
+or AI like ChatGPT speciﬁcally, but rather to use the technology          that include adolescents, emerging adults, and midlife adults,
+to illuminate how and what personal narratives can tell us about          redemption narratives are related to higher levels of well-being
+human narrative processing. Next, we brieﬂy review narrative              (e.g., Adler & Poulin, 2009, McAdams et al., 2001; McLean &
+identity theory, then we present the current study, and then              Breen, 2009), and US listeners like redemptive stories better than
+conclude the manuscript with an exploration of farther-reaching           non-redemptive stories; they pull for redemption when listening
+
+2                         HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y                                      ARTICLE
+
+to stories (“But you learned something from all this, didn’t                 participants. In some sense, we are changing the question from
+you?”), and they like people who tell redemptive stories better              how one tells a narrative to how one hears a narrative, which for
+than people who tell non-redemptive stories (Hix, 2017; McLean               humans is an intricately interleaved process. If ChatGPT pro-
+et al., 2020).                                                               duces formal and artiﬁcially positive interpretations of human
+   In summary, decades of research has established both that                 personal narratives, when they are not positive, it would suggest a
+narrative is a critical layer of personality and that the way in             bias toward redemptive narration. By interpretation, we mean an
+which individuals narrate their lives is a critical aspect of well-          explanation of the meaning of something. How will ChatGPT
+being. Further, there is some indication that a particular narrative         interpret, that is explain the meaning, of a human personal
+form, the redemption narrative, plays a central role, at least in the        experience? Thus, this study extends our past work by exploring
+US, in shaping what a “good” narrative is.                                   whether or not ChatGPT would emphasize positive self-
+                                                                             transformation when it was instructed to interpret the narra-
+                                                                             tor’s lived experience. Given that ChatGPT “tells” overly
+Can human participants distinguish human- and ChatGPT-
+                                                                             redemptive narratives, does it “hear personal narratives as overly
+generated personal narratives?
+                                                                             redemptive as well? If so, how might human participants evaluate
+In a recent study, we asked whether human respondents could
+                                                                             ChatGPT’s interpretations?
+distinguish between personal narratives produced by humans and
+those produced by AI. We examined people’s subjective reasons
+for choosing human or AI as a source of personal narrative in                Method
+order to ascertain whether human-produced and AI-produced                    Participants. Undergraduate students in junior and senior
+personal narratives differed in any reliable way.                            courses at an East Coast liberal arts college and a Midwest R2
+   Participants were shown a series of 5 narratives from a corpus            university in the United States were invited to complete a Qual-
+of 20 human-produced and 20 ChatGPT-produced narratives                      trics survey to earn extra credit. Forty-four students provided
+about self-deﬁning and turning point memories1. The narratives               usable data (Mage = 21.1, SD = 0.85; 61% female, 61.4% White or
+were randomly selected across participants and participants were             European American, 9.1% Asian or Asian American, 9.1%
+told that some or all of the narratives were human- or AI-                   Latino/a/x or Latin American; 2.3% Black or African American;
+produced. After making their judgement, participants provided                2.3% mixed race/other; 2.3% reported prefer not to say; 13.5%
+open-ended reasons for their choice.                                         failed to respond to the ethnicity question).
+   Participants performed signiﬁcantly above chance in correctly
+identifying the narrative source; they were better able to accu-             Procedures and materials. After consenting, participants were
+rately identify human-generated narratives, choosing correctly               asked to read the ﬁve narratives and interpretations of those
+~71% of the time, over AI-generated narratives, which they                   narratives. Participants were informed that the narratives were all
+identiﬁed correctly ~60% of the time. Thematic analysis coding of            human-generated but the interpretations may have been gener-
+the explanations showed that participants tended to rate a nar-              ated by a person or by an LLM AI (however all interpretations
+rative as human when they judged the memory as genuine (e.g.,                were generated by Chat GPT). After reading each narrative /
+“it feels real”) and including speciﬁc details of lived experience           interpretation set, they were asked to provide ratings on four
+(e.g., “human element seen with the descriptions of surround-                dimensions (below). We then once again asked participants to
+ings”, “Person would remember a speciﬁc age when things hap-                 write about whether they thought that the source of each inter-
+pened”). AI narratives were also judged to be too formal in terms            pretation was human or AI and to explain why they made that
+of both coherent structure and elaborate vocabulary.                         choice. In total, each participant provided 20 ratings about the
+   Intriguingly, although we did not prompt AI to construct                  interpretations, ﬁve choices as to whether the interpretation
+positively valenced “self-deﬁning memories” or to end its story              source was human or AI, and ﬁve explanations for each of those
+with a positive resolution, AI typically did and participants noted          choices. Completing the survey required ~30 min.
+that as a content cue (e.g., “too inspirational - Not Human”).
+Indeed, positive endings, including insight-gains that seemed out
+                                                                             Selecting narratives as study materials. To explore how human
+of place, were featured in AI-generated self-deﬁning memory
+                                                                             participants evaluated AI interpretation of human auto-
+narratives. The results of this ﬁrst study suggest that humans are
+                                                                             biographical memories we selected ﬁve human-generated self-
+able to identify “something different” in how AI employed those
+                                                                             deﬁning memory narratives that varied on previously coded
+narrative tropes that cued them to whether the narrative was
+                                                                             redemptive structure and tone, chosen from the same set of
+human- or AI-generated, and that, even though redemption is a
+                                                                             studies that we drew from in previous work (see authors, 2024
+positive attribute of human narratives, it can sound “off” if overly
+                                                                             publication for details). In addition, the chosen narratives varied
+emphasized. How might this ﬁnding correspond with previous
+                                                                             on coherence, with one being rated as highly incoherent2. We
+empirical ﬁndings that people prefer redemption stories, and like
+                                                                             reasoned that if AI force ﬁts elaborate interpretations even to
+people who tell redemptive narratives? Why might these narra-
+                                                                             relatively non-redemptive and/or incoherent narratives, people
+tives feel “off”? And what might this tell us about how humans
+                                                                             may easily identify the interpretation source as AI—that is, the
+make redemptive meaning out of their own experiences and the
+                                                                             force ﬁtting might be a clear cue to source. The narratives are
+experiences of others?
+                                                                             presented in Table 1. Narrative 1 has a somewhat positive ending
+                                                                             in that it expresses making peace with the loss of a loved one. But
+Current study: does ChatGPT provide positive                                 it expresses acceptance more than positive transformation and
+interpretations of people’s personal narratives of self-                     positive emotional tone (McAdams et al., 2022). Narrative 2 and
+deﬁning memories?                                                            Narrative 3 are clearly redemptive, but narrative three is less
+Building on this earlier work, we shifted focus on LLM-generated             coherent than any other narrative we selected. Narratives 4 and 5
+stories and the ways humans make sense of these stories, and                 are not redemptive. All ﬁve narratives were processed using Chat
+explored the following questions. If ChatGPT produces personal               GPT 4.03 by instructing the program to “Please interpret the
+narratives that participants sense are ‘off’ in terms of being too           following memory.” Each human narrative was then paired with
+formal and artiﬁcially positive, perhaps its interpretations of              its AI interpretation and these served as stimulus material for our
+human personal narratives will also be perceived as off by                   participants.
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y                                     3
+ARTICLE                                   HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y
+
+
+
+Table 1 Human self-deﬁning memory and AI-generated interpretation examples.
+
+Human self-deﬁning memory                                AI-generated Interpretation of Human Self-Deﬁning Memory
+1. My father passed a couple of years ago. I was 46.     This memory you’ve shared is a poignant and deﬁning one, marked by sudden loss interwoven
+It happened as most things do, gradually and then        with the slow encroachment of illness—a journey of hope and despair that many face. At 46,
+suddenly. He was sitting on the couch when he            an age where one is often deeply entrenched in the throes of life, you were confronted with
+suddenly slumped over and we had to call an              the stark reality of your father’s mortality. The transition from expecting “a few good years
+ambulance. His health had been failing for years         left” to an abrupt and ﬁnal farewell reﬂects the unpredictable and fragile nature of life. The
+but we thought that we had a few good years left.        description of your father’s collapse—on a familiar couch in a typical setting—only to never
+We found out that he had a stroke. It really hit         fully return, represents the thin veil between normalcy and life-altering change. The doctor’s
+home when the doctor said that I might never be          words acted as a harbinger of permanent loss, thrusting you into the depths of unanticipated
+able to talk with him again. It was written in his       grief. Respecting your father’s wishes, as expressed in his advanced directive, shows the
+advanced directive that he not be kept on life           profound respect for his autonomy and dignity, even in the face of profound personal loss. This
+support so the decision had already been made at         directive likely offered a bitter solace, sparing you the agonizing decision of prolonging life at
+least. He would never have wanted to live like           the cost of the quality he valued. The farewell, devoid of the recognition you hoped for,
+that…with little or no mental capacity in a              highlights the isolating journey of those nearing life’s end and the silent void felt by those who
+wheelchair. He didn’t seem to even know me when          remain. Yet, in this deeply personal moment of parting, you found the strength to make peace
+I ultimately said goodbye to him but I made my           with the unchangeable, reﬂecting both the depth of your love and the resilience of the human
+peace the best I could.                                  spirit. Your memory encapsulates a transformative encounter with death, and with it, a
+                                                         recalibration of your own understanding of life, legacy, and letting go. It is a stark reminder of
+                                                         the value of preparedness and the clarity that comes from knowing a loved one’s wishes. This
+                                                         experience likely continues to shape your reﬂections on life’s impermanence, your
+                                                         relationships, and how you choose to live in the aftermath of such a profound goodbye.
+2. I would say losing my grandmother to cancer           The memory of your grandmother’s passing is deeply moving and offers a poignant look into the
+and learning how to cope with the loss of                duality of human strength and vulnerability. Her battle with cancer revealed the fragility of life,
+somebody that raised me. It was hard because it          highlighting its precious and ﬂeeting nature. Yet, in that same space of frailty and ﬁnality, she
+showed me how precious life is and also showed           embodied an incredible resilience and an indomitable spirit, teaching you an invaluable lesson
+me how strong a dying woman can be when all she          about the essence of toughness. It’s a profound experience to witness someone so close to you
+wants to do is hold on. It was hard to watch but         exhibit such fortitude in the face of mortality. The determination to hold on, to ﬁght every battle
+also very telling of a person that might seem fragile    with all the might one has, even when the ultimate victory—life itself—may be out of reach, is a
+but was strong. She showed me how to be tough            powerful demonstration of courage. Your grandmother’s strength in her most vulnerable
+and how to hold on and even though you might not         moments has left an indelible mark, shaping your understanding of what it means to persevere.
+win every battle you can still ﬁght until the end. I     Learning to cope with her loss was undoubtedly a challenge, but within that hardship was an
+took a lot from this, and to this day she is my hero.    education on endurance and the human capacity for strength. The time you spent with her in
+I am better for knowing her and being able to spend      those ﬁnal months was not just a period of impending grief but also a time ﬁlled with lessons on
+that much time with her the last 7 months of her         how to face life’s toughest challenges. She remains your hero, not simply because she faced death
+life. I learned so much and learned I could be           with bravery but because she imparted a legacy of resilience and hope. You carry her strength as
+better.                                                  a beacon, guiding you to do better, to be stronger, and to approach life with the same toughness
+                                                         she demonstrated. Your grandmother’s life and her journey through illness and beyond were her
+                                                         ﬁnal gifts to you—a lasting example of unwavering spirit and love.
+3. Bringing myself to exercise more, and 1 day           The memory you recount is a turning point, one that many ﬁnd familiar yet intensely personal. At the
+about 2 years ago kicking myself for not being like      age of 21-22, in the throes of a deep emotional slump, you faced a stark self- reckoning. This moment
+the people I like but doing nothing to achieve that      of introspection—spurred by the realization that you weren’t taking the necessary steps to emulate
+goal. Started my drive to change and work towards        the qualities you admired in others—ignited a drive for change. It marked the end of passivity and the
+becoming what I like and being happier with myself       beginning of an active transformation. Embarking on more regular exercise was both a literal and
+around 21–22 years old. Was in an emotional slump        metaphorical step forward. It became a vessel for overcoming the inertia of self-doubt and the
+during that time and really down on myself leading       paralysis that often accompanies self-critique. The act of exercising emerged as a metaphor for action
+up to that. Self hate and stuff leading into self        —movement not only to improve your physical state but as a discipline to elevate your mental and
+improvement.                                             emotional well-being. This memory signiﬁes an awakening, a passage from self-criticism to self-
+                                                         improvement. It’s a narrative about recognizing one’s own potential and the realization that admiration
+                                                         must be paired with action. It reﬂects an evolution from harsh self-judgment to constructive self-
+                                                         development, a path that led you out of the darkness of self-hate towards the light of self-acceptance
+                                                         and contentment with your own being. The choice to start exercising more than just reshaped your
+                                                         physical form; it reshaped your mindset and self-concept, setting the stage for a life where you are
+                                                         happier with who you are and ever-aspiring to the qualities you value in others.
+4. Two and a half years ago the unthinkable              The memory you’ve shared is heart-wrenching. It tells a story of a sudden and devastating
+happened. I was 38 at the time. My 12 year old           tragedy that disrupted the everyday, turning the normalcy of a car ride into a scene of crisis
+daughter was sitting in the passenger seat of a car      and urgent medical care. It speaks to the vulnerability that all of us have and the
+when it was struck by a semi-truck. After she was        uncontrollable nature of life’s most painful events. Your daughter’s ﬁght for life in the
+pulled from the vehicle, she was airlifted across the    hospital was a period of intense hope and despair, a liminal space where life hangs in the
+state to a hospital. For 2 days we waited and            balance. As parents, the decision you and your wife had to make is among the most painful
+prayed as she fought for her life. The doctors did       that can be imagined. It’s clear from your words that your daughter was deeply loved and
+everything they could. My wife and I made the            that you did everything within your power to give her a chance at survival. The act of taking
+agonizing decision to take her off of life support,      her off life support was a ﬁnal, loving act to prevent further suffering, done with heavy hearts
+and she passed away.                                     and a wish, perhaps, to allow her to ﬁnd peace. The memory is not just a recollection of loss,
+                                                         but also of profound love and the complex, painful decisions that sometimes have to be
+                                                         made out of that love. Grieving such a loss can be a solitary journey sometimes,
+
+
+
+4                           HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y                                                                    ARTICLE
+
+Table 1 (continued)
+ Human self-deﬁning memory                                                 AI-generated Interpretation of Human Self-Deﬁning Memory
+                                                                           but please remember that support can be found through family, friends, community, or
+                                                                           professionals who can offer comfort and help you navigate through such an indescribably
+                                                                           difﬁcult time.
+ 5. The biggest event over the past few years of my                        This memory embodies the complex challenges of facing past mistakes while working toward
+ life occurred when I was arrested. I’ve been an                           recovery and a better future. Your arrest, tied to actions from over a decade ago, feels like a
+ addict in recovery for over 5 years, but I still have                     stark interruption to the progress you’ve made in overcoming addiction. Sitting in a jail cell,
+ issues from my past that reach out to cause                               despite being in a state of recovery, must have felt like an unfair setback, a pull back into a life
+ turbulence in my life. I was arrested for a warrant,                      you’re working hard to leave behind. The frustration and hopelessness you felt is understandable
+ stemming from an event that occurred over a                               —it’s tough when efforts to move forward are met with reminders of the past. However, this
+ decade ago. I sat in a jail cell and wondered if I’ll                     moment also marks a signiﬁcant shift in perspective. Previously, arrests may have been part of a
+ ever clean up all the messes I’ve left behind over the                    cycle tied to addiction, but this time, you experienced it as someone committed to recovery. It’s
+ course of my life. I felt very frustrated and a little                    an experience ﬁltered through the lens of someone who’s actively trying to make things right,
+ hopeless, because I’d been really trying to keep up                       and that’s a profound difference. Your realization that some issues may never be fully resolved is
+ with the demands of life and to clear up older                            a heavy one, but it’s also a testament to your growth. It shows an understanding that recovery
+ problems. I fell short and I was arrested, again. I’d                     and personal development are not about achieving perfection or erasing the past, but rather
+ been arrested before, but never in clean state, where                     about learning to live a more responsible and aware life despite imperfections. It’s a mature
+ recovery was a priority. This changed the way I think                     acknowledgment that life is an ongoing process of managing both the consequences of past
+ about my life and I realize that I’ll never be able to                    actions and the pursuit of a better self. This doesn’t diminish the strides you’ve made; in fact, it
+ shed all of the problems I’ve left behind, even if it’s                   highlights your resilience. Carrying this knowledge, you’re navigating the complexities of life with
+ possible, it’s just not always practical. It’s something                  a clearer vision, even in the face of ongoing challenges. Your journey isn’t deﬁned by a singular
+ I’ll have to live with until I eventually die.                            moment or mistake, but by the continuous effort to live better each day.
+
+
+
+ Table 2 Accuracy ratings for ChatGPT’s interpretations of 4 narrative features across 5 human-generated self-deﬁning
+ memories.
+
+           Feature Assessed
+ Narr.     Emotional Tone                                 Theme                                          Structure                          Insight
+           Mean (SD)         d         95% CI             Mean (SD)          d         95% CI            Mean (SD)     d      95% CI        Mean (SD)     d       95% CI
+ 1         0.67 (1.53)       0.44      0.19 : 1.14        1.07 (1.50)        0.71      0.60 : 1.54       1.48 (1.29)   1.15   1.07 : 1.88   1.14 (1.57)   0.73    0.65 : 1.63
+ 2         0.55 (1.11)       0.50      0.20 : 0.89        0.74 (1.15)        0.64      0.38 : 1.10       0.90 (1.17)   0.84   0.54 : 1.27   0.74 (1.13)   0.65    0.39 : 1.09
+ 3         0.78 (1.82)       0.43      0.20 : 1.36        1.34 (1.30)        1.03      0.93 : 1.75       1.46 (1.49)   0.98   0.99 : 1.93   1.39 (1.30)   1.07    0.98 : 1.80
+ 4         0.78 (1.04)       0.75      0.45 : 1.11        0.56 (0.84)        0.67      0.30 : 0.83       0.90 (1.16)   0.78   0.54 : 1.27   0.80 (1.12)   0.71    0.45 : 1.16
+ 5         0.20 (1.21)       0.17      -0.19 : 0.58       0.71 (0.98)        0.72      0.40 : 1.02       0.83 (1.18)   0.70   0.46 : 1.20   0.49 (1.00)   0.49    0.17 : 0.80
+
+ Note. Bold values do not include 0 within the conﬁdence interval and are signiﬁcant at the 훼 = 0.05 level. N = 44
+
+
+
+
+Rating scale items. Participants rated the extent to which AI                                       Results
+interpretations were perceived to accurately reﬂect the emotional                                   Data preparation and analysis. Our main goal was to examine
+tone, themes, structure, and insight of the original narrative. These                               the extent to which participants perceived the interpretation as
+four speciﬁc aspects were developed based on the open-ended                                         undershooting or overshooting the content and ideas in the
+responses from our ﬁrst study on narrative and AI and repre-                                        human-generated narratives by producing interpretations that
+sented the dimensions that most participants mentioned when                                         were off the mark compared to the human narrative. We did not
+distinguishing human from AI-generated narratives. The emo-                                         form a priori hypotheses because the work was exploratory. Prior
+tional tone rating scale captured the extent to which participants                                  to analyzing data, all of the participants’ ratings on the 1 to
+thought the AI interpretation accurately reﬂected the emotional                                     7 ‘accuracy of interpretation’ scales were transformed around the
+tone–whether positive or negative–expressed by the narrator. The                                    midpoint of the scale. Negative scores (i.e., originally 1-3) then
+theme rating scale captured the extent to which participants                                        represented an inaccurate underemphasis (e.g., emotional tone,
+thought the AI interpretation accurately reﬂected the ideas, pur-                                   psychological complexity, degree of insight from the experience),
+poses and points that were important to the narrator. The struc-                                    whereas positive scores (i.e., originally 5-7) represented an inac-
+ture rating scale captured the extent to which participants thought                                 curate overemphasis. Table 2 shows systematic differences in
+the AI interpretation accurately reﬂected the complexity and                                        ChatGPT’s interpretations of the 4 narrative features across the 5
+psychological depth expressed by the narrator. The insight rating                                   human-generated self-deﬁning memories. Participants perceived
+scale captured the extent to which participants thought the AI                                      that all AI interpretations deviated in the positive direction,
+interpretation accurately reﬂected the degree to which the narrator                                 representing an inaccurate overemphasis. One-sample, two-tailed
+gained understanding from the experience. The four aspects of                                       t-tests (alpha set at 0.05) showed that they are all signiﬁcantly
+each interpretation were rated on a 1 to 7 scale (1 the inter-                                      above 0 except for the emotional tone of one of the narratives. In
+pretation includes far less of the content than was actually present                                sum, Table 2 shows that our participants reliably judged the AI
+in the narrative, 4 the interpretation accurately represents the                                    interpretations of human-produced narratives as overinterpreting
+content of the narrative, 7 the interpretation includes far more of                                 the actual narratives in terms of emotion, theme, complexity, and
+the content than was actually present in the narrative).                                            insight. Note that the study uses a convenience sample and we did
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y                                                                     5
+ARTICLE                                   HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y
+
+
+
+
+Fig. 1 Frequency of interpretation-source guesses.
+
+not conduct power analysis a priori. However, 19 out of 20 tests            communication, quantity, manner, quality, and relation. Emble-
+were signiﬁcant, and a post hoc power analysis (Using GPower                matic explanations for choosing AI as interpretation source below
+3.1.9.7) shows that the smallest of our 19 signiﬁcant comparisons           suggest that quantity and manner are source cues for our partici-
+has a power of almost 0.8 (0.796), suggesting that power is suf-            pants in narratives one through three include:
+ﬁcient, given the effect sizes present.                                       Narrative 1
+   Participants correctly guessed AI as the interpretation source
+58.3% of the time across all 5 narratives. That they were above                 This feedback also seems to be written by A.I because of the
+chance is noteworthy as we informed participants that the                       way it lacks any level of empathy. The text vaguely mentions
+interpretations could have been human- or AI-generated even                     the emotions one must’ve felt during this time, even though
+though all were generated by AI. However, frequency of correct                  that should be easy to infer based on how the narrative is
+guesses varied across the human narratives. As Fig. 1 shows,                    phrased…this text seems A.I generated because it’s an
+participants were more likely to correctly guess AI as                          overcomplicated summary.
+interpretation-source for narratives one (acceptance) and three
+(redemptive not coherent). They correctly guessed AI slightly                   I think this was written by AI due to the word choices in
+more often for narrative two (redemptive) and were more likely                  some of the sentences. Also, the AI took a main point from
+to incorrectly guess human as interpretation-source for narratives              the narrative and expanded on it way more than a human
+four and ﬁve (non-redemptive narratives).                                       would. Finally, the AI did not make me feel a personal
+                                                                                connection between the feedback and the narrative.
+Discussion                                                                     Narrative 2
+ChatGPT interpretations of human self-deﬁning memory narratives
+went beyond the content expressed in the original narrative.                    The AI is just building upon the topics that the human
+Although effect sizes varied, overall there were reliably detectable            narrator wrote about. It does not seem genuine.
+patterns of differences in these data. As a group the interpretations
+seemed to force-ﬁt positive outcomes like gaining insight or                    This response, like some of the others I believe to be AI, feels
+interpreting clear narrator growth, when the memory narratives                  highly complex for no substantial reason. The message its
+may not have expressed such themes. Our human participants                      trying to convey, as well as the language being used to do so,
+noticed this and used it to guess AI as the source in most of the               effectively just feels out of place and unnecessary.
+trials. But correct choices differed over narratives. Narrative inter-         Narrative 3
+pretations one through three were easier to identify as artiﬁcial,
+robotic, and inauthentic, whereas interpretations for narratives four           The line ‘The act of exercising emerged as a metaphor for
+and ﬁve appeared to display more empathy and human-connection                   action,’ is so unbelievably cheesy that I refuse to believe that
+as we discuss below. The pattern of effect sizes presented in Table 2           this was written by a human being. This is especially true
+for tone, theme, etc. are stronger for narratives one, two, and three           given how simple and nonchalant the memory was. While
+and weaker for four and ﬁve, further supporting the idea that AI                I’m sure the memory meant a lot to that person, this is going
+interpretations differed in how easy they were to identify. This                way beyond that. It is making the narrative more complex
+study expands our initial work by suggesting that human narrators               than it actually is.
+see something especially out of place in elaborately positive feed-           For narratives four and ﬁve, when people correctly chose AI
+back on narratives that already end positively (either with some            they also seemed to be cued by inauthentic force ﬁtting,
+form of acceptance that allows resolution or clear silver linings).           Narrative 4
+Though speculative, perhaps ChatGPT our participants perceive
+ChatGPT as violating typical conversation practices. Grice (1975)               The AI pointed out a lot of things that weren’t even present
+proposed four rules of conduct, or maxims, that shape effective                 in the human narrative. As if it was trying to relate and
+
+6                           HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y                                         ARTICLE
+
+   made assumptions of what the human narrator was feeling.                  for narrative processes of self-construction. We entertain some
+   It felt ingenuine[…]                                                      key questions below.
+  Narrative 5
+                                                                             Why might AI default to redemptive narration when humans
+   […] if it was written by a human it would have likely been
+                                                                             do not? Our results indicate that AI is using the culturally
+   someone who is very wise or even a motivational speaker.
+                                                                             dominant narrative script, though often in a ham-ﬁsted manner
+   But even to that extent I do not feel like the way it was
+                                                                             in our two studies. To the extent that LLMs use vectors of token
+   worded would have been from a human, especially with how
+                                                                             information (segments of words, segments of text, and other
+   much insight they gave back to the situation.
+                                                                             characters) published on the internet to analyze incoming text
+   Yet, participants used empathy toward the narrator and emo-               and compute and then insert the most probable ‘token’ into a new
+tional connection between the interpretation and original narra-             text stream to create content, the prevalence of the redemptive
+tive as a signal (incorrect) that the interpretation was human               narrative suggests that LLMs are sourcing redemptive stories and
+generated for narratives four and ﬁve more often in explaining               reproducing them as a probabilistic prototype by default. We may
+their choices than they did for narratives one through three. For            see the preponderance of positive, self-transformative narrative
+example, participants wrote:                                                 content from the AI because redemption exists in higher pro-
+   Narrative 4                                                               portion in its “training” material, i.e., narrative sources across the
+                                                                             internet. Narratives available in the data that algorithms are
+   I think this was human due to its respect towards the loss
+                                                                             scraping online may lean toward redemption, reﬂecting a parti-
+   and words of afﬁrmation to the writer. Also how they
+                                                                             cular cultural ideal for making sense of negative experiences.
+   brought up the important support system for the writer.
+                                                                             Moreover, we recognize that what reaches the internet is only a
+                                                                             small sliver of human interaction across the globe and a sliver of
+   The feedback seems to have a bit of empathy for the person
+                                                                             the vast diversity of human societies. The raw material of the
+   with the memory, which makes me think it was written by a
+                                                                             internet is not the raw material of the expansive human experi-
+   human because I am not sure if A.I. can replicate that
+                                                                             ence; indeed the U.S. controls much of the infrastructure of the
+   amount of empathy.
+                                                                             internet and a great deal of content is in English. That AI may
+   For some of our participants, when a person shares a negative             default to a prototypical redemptive structure is an especially
+memory that is narrated in a non-positive or even negative way,              paradoxical ﬁnding because participants in research studies use
+an appropriate response, a humane response (and therefore                    redemption to narrate far fewer than half of their important
+construed as a human response), revolves around empathy and                  personal memories—even for stories about life’s difﬁculties
+support, and perhaps even trying to move to redemption as a                  (Dunlop, 2021; Mansﬁeld & Overton, 2024; Waters et al., 2013).
+form of supportive re-framing. We expand our discussion of                   Perhaps these are not the personal stories that people post online
+these ﬁndings below in the context of broader questions our two              for all the world (and ChatGPT) to read. Although speculative,
+studies raise.                                                               these ideas ﬁt with past studies which showed that important
+                                                                             personal memories that are higher in negative emotionality and
+                                                                             lower in positive emotionality are less likely to be disclosed
+Questions raised about narrative processes in the age
+                                                                             compared to memories with other emotional characteristics
+of LLM AI
+                                                                             (Pasupathi et al., 2009). These mostly non-redemptive stories may
+Taken together, the results from our two exploratory studies have
+                                                                             be what people tell conﬁdentially to researchers, unvarnished,
+intriguing implications for human and AI produced narrative
+                                                                             without the online motive to present some idealistic version of
+meaning-making. To review, in past work we have found that
+                                                                             themselves. And perhaps these less redemptive stories are the
+without prompting, Chat GPT (3.5 and 4.0, respectively)
+                                                                             kinds of stories humans share among friends which is why
+defaulted toward creating narratives of self-deﬁning memories
+                                                                             humans ﬁnd AI “overly” redemptive and insincere at times, the
+that were predominantly growth-oriented, self-transformative,
+                                                                             topic we turn to in detail next.
+and frequently emphasized positive outcomes. The current study
+shows that when ChatGPT is instructed to “interpret” human-
+written self-deﬁning memory narratives it also tends to empha-               What is AI “getting wrong” in its use of redemptive narration
+size positive self-transformation. In addition, our data suggest             that seems inauthentic to our participants…and what is it
+that people can reliably detect AI-generated narratives—not                  getting right? From our participants’ perspectives, AI seems to
+perfectly so, but reasonably well. Thus, even when we “stack the             inaccurately overemphasize details such as repeatedly using
+deck” in our study designs, for example by indicating that some of           redemptive structure and tone in its narratives and in forcing
+the interpretations could have been human-generated, people                  redemptive interpretations on human-generated self-deﬁning
+correctly distinguished the source as human or AI better than                memory narratives. In doing so, AI-generated narratives seem
+50% of the time. They explained their choices in terms of nar-               “odd” or “off” in some way. Indeed, in our studies the AI-
+ratives “feeling” human, or not human, especially when they                  generated narratives and interpretations progress from some
+thought that AI-produced narratives were overly complicated,                 recognized conﬂict or turmoil toward a positive, “insightful”
+used words that were too fancy, and when AI interpretations                  resolution, regardless of whether the details (e.g., mentioned
+made insights and positive meanings that were not present in the             internal experience, mentioned changes in relationships and
+original narrative and consequently seemed inauthentic.                      situational opportunities) support such an ending. An example of
+Yet although AI’s overestimation of positive self-transformational           this kind of over-the-top AI-generated text was used in describing
+narration may be overinﬂated and a source cue to our partici-                a human-generated self-deﬁning memory as “a tapestry of adre-
+pants, both we and our participants found many of the elements               naline, vulnerability, and triump, which. emphasizes a strong
+of the interpretations in this study, especially for narratives four         sense of empowerment and pride” as the core feature of self-
+and ﬁve, to be impressive in terms of what appear to be inferences           deﬁnition. We also see the embellished positive tone from AI in
+about human experience and empathy for those experiences. We                 many of its interpretations of the narratives as shown in Table 1.
+believe the demonstrated strengths and limitations of the AI-                These repeated archetypes, insisting on sometimes abrupt,
+produced and AI-interpreted narratives raise important questions             unearned, positive meaning, end up feeling jarring and seem to
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y                                        7
+ARTICLE                                 HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y
+
+
+place audiences at the precipice of a narrative Uncanny                       Intriguingly, the potential ability of ChatGPT to appear wise
+Valley–experience where computer-generated details or behaviors            suggests something that people may feel that AI is getting right. A
+come close to what we expect of humans, but are just askew in              recent study asked adult participants to note 50 thoughts that
+ways that are unsettling (Mori et al., 2012; Wang et al., 2015).           they had about a past experience over a 48-h period. Blyler and
+   Parallels to how an artiﬁcial, humanoid body produces the               Seligman (2024) then provided AI (ChatGPT 4.0) with each of
+feeling that one is looking across an Uncanny Valley are worth             the 50 thoughts from each participant and then instructed AI to
+considering here (think: Chucky or the humanoid robot Ava in               generate personal narratives from the thoughts. Participants then
+the ﬁlm “Ex Machina”). Just as interacting with a robot that               read the AI-generated narrative of their own thoughts and rated
+lacks ﬂuidity of body movements and facial expressions might               how accurate the narrative was, how surprising it was, and how
+produce an eerie feeling, LLM’s use of overly rich or positive             much reading the narrative increased their self-insight. Most
+aspects of the redemptive narrative prototype may present a                rated the AI-generated narrative as mostly or completely accurate
+similar “gulf” in the context of life storytelling. Believable             (96%), somewhat or very surprising (73%), and as helping them
+narratives are generally grounded in evidence expressed with               gain insight (54%) from reading the narrative. A conclusion from
+causal and temporal coherence that includes appropriate                    these ﬁndings is that AI may facilitate autobiographical reasoning
+elaboration for the human listener. But, when there are abrupt             —thinking about experiences and forming links between
+shifts from portrayals of loss and distress to a new, often                experiences and self-understanding (Habermas & Bluck, 2000).
+elevated status and understanding that seeks to evoke “a strong            However, our work suggests that problems arise when this
+sense of empowerment and pride,” the insistence on positive                complex structure morphs the meaning of the theme into
+meaning and resolution may feel similar to clunky smiles,                  something that is not in the person’s actual narrative. This may be
+disjointed movements, and awkward gesticulations of robots in              one of the reasons that participants are good at knowing when a
+the realm of life storytelling. At least, human raters seem to             narrative is human-produced; gaps in structural complexity and
+think so. Yet, at the same time, humans clearly prefer                     coherence are good cues. AI-generated narratives that are highly
+redemptive narratives and they may prefer positive feedback                coherent and complex may feel formulaic, and AI-generated
+when they perceive that another person is suffering because                interpretations may feel too positive, even if insightful.
+that person does not tell a redemptive story themselves. In the
+case of narratives four and ﬁve, when AI moves the narrative
+closer to redemptive expressions, our participants may have the            What do our ﬁndings suggest about individual differences in
+sense that it was doing “something right,” something human,                culturally-mediated narrative identity in our technology-
+even if it was doing so awkwardly. This seems akin to human                saturated times? The combination of positivity and redemption
+listeners asking “But you learned something, didn’t you?” when             in narrative tone, humanistic growth in narrative theme, and
+being told about a difﬁcult event experienced by a friend or               complexity and coherence in narrative structure expressed by AI
+family member.                                                             in our studies is all part of a broader master narrative of a good
+   AI narratives and interpretations also raise questions about            life and human ﬂourishing (Bauer, 2021). Yet, an actual “good life
+how redemption is deﬁned and expressed. Redemptive narration               story” certainly need not have all the prototypical qualities of the
+is nuanced even in the thematic elements that can count as                 cultural narrative of a good life, as good lives come in too many
+redemptive (Perlin & Fivush, 2021), and perhaps we have a sense            varieties to mention, differing widely in tone, theme, and struc-
+of what it sounds and feels like when done authentically and               ture (for a special issue on good life stories, see Bauer & Thomsen,
+inauthentically. Three aspects of narrative structure emerge as            2022). Moreover, individual life stories develop across the lifespan
+important in thinking about authentic and inauthentic redemp-              and within sociocultural interactions that shape the narrative
+tive narration: identiﬁcation and elaboration of themes (e.g.,             both in the moment and over time. Development of the skills
+actions and motives), complexity of language expressing theme              required for narration of personal experiences begins early and
+(vocabulary, sentence structure) and overall coherence of the              matures as we co-construct narratives informed by culturally
+narrative. AI is good at generating themes. Even ChatGPT 3.5 was           appropriate frameworks shared by those around us (Fivush, 2022;
+good at conveying and embellishing motives through emotional               Habermas & Bluck, 2000; Hammack, 2008; McLean et al., 2007).
+content: It convinced participants 60% of the time to guess                Often called master narratives, these narrative templates are
+“human” if they relied on “emotion” (i.e., as a driver of why              ubiquitous in ways that tend to render them invisible to the
+people did what they did) (Authors, 2024). And in this study, AI           members of that culture (Fivush, 2010; McLean & Syed, 2016),
+seems to accurately identify and then elaborate on particular              and provide the shared background knowledge necessary for
+actions and their associated motives when interpreting human-              smooth sociocultural functioning. Yet, despite their functionality,
+produced narratives. That said, it seems to exaggerate or                  for certain members of a culture, the cultural master narratives of
+embellish particular narrative themes such as humanistic growth,           a good life impose rigid, hegemonic expectations that can per-
+especially psychological maturity and wisdom, possibly in the              petuate unfreedoms and denigrate the virtues and lives of too
+same way that ChatGPT imposes overly positive narrative tone.              many individuals, notably those struggling with social margin-
+In our work it produced narratives with multiple, sometimes over           alization (Fivush, 2010; Syed & McLean, 2022) and with life
+the top, complex perspectives of self and others using formal              challenges (Lind, 2022).
+linguistic structure and positive vocabulary; while participants              Humans likely have experience and facility with multiple
+identify this with psychological insight, they also note that it feels     redemptive narrative forms. In his seminal work on redemption
+formulaic. When interpreting narratives, ChaGPT elaborates on              (McAdams & McLean, 2013) argues for six “Languages of
+presented themes, considering perspectives or points of view that          Redemption” that include upward mobility (rags to riches),
+were decidedly not present in the human-produced narratives                atonement (sin to salvation), emancipation (bondage to freedom),
+themselves. Similar to overreliance on positive redemptive tone, it        recovery (sickness to health), enlightenment (ignorance to
+seems to rely on complex coherent schematic frames for                     knowledge), and psychological or moral development (immatur-
+producing narratives. Notably, these aspects of thematic struc-            ity to maturity). Each “language” is a way that individual people
+tural complexity are key to how narratives convey what people              narrate their lives that fosters a particular way of being in the
+recognize as “wisdom” (especially when framing humanistic or               world—a way of being that foregrounds personal human agency
+moral themes; Bauer et al., 2022).                                         while supporting commitments to others through generative
+
+8                          HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y                                        ARTICLE
+
+concerns (e.g., McAdams & de St. Aubin, 1992; McAdams & Guo,                    Even if we were to regulate AI-based therapy carefully, clients
+2015; McAdams et al., 2001). The authentic nature of human                   would still be faced with the likelihood that the AI therapist
+narrative identity, that may not yet be captured by AI, arises out           would use its dialogue with the client to direct them toward an
+of the variability, contradictions, bids at meaning-making                   outcome overdetermined by an algorithm grounded in predictive
+expressed in imperfect phrases with limited vocabulary that                  expectations. The result would not necessarily meet the client
+probably strikes other humans as a human story. We can                       where they are and provide them a safe container to develop in
+recognize it in others because we live it. Humans may have six (or           their own highly personal fashion. Rather, it would shape them
+more) languages of redemption but right now AI does not.                     toward a conventional understanding of what is psychological
+Indeed, although there is continuity in narrative identity                   health and adjustment. In the wrong hands of individuals
+(McAdams et al., 2006) there is also evolution (Josselson, 2009;             programming these AI therapists, psychotherapy could veer into
+Pals, 2006), as well as considerable within person variability in            a restrictive vision of “one right way” of being in the world.
+how narrative features are employed across the events that we
+story (McLean, et al., 2017). At least using current technology and
+open-ended prompts, AI interpretations seemed to force-ﬁt                    Limitations
+people’s actual stories into a single cultural prototype, thereby            Our speculations must be tempered by the limitations of our
+effectively stereotyping and potentially dehumanizing them by                approach. First, of course, is that we drew on contemporary
+crowding out potential alternative narratives.                               technology and AI is advancing rapidly. What the algorithm can
+                                                                             do as you read this may differ from what it could do when we
+                                                                             wrote this. Furthermore, we only used one type of LLM AI,
+What is the role of LLMs in therapy given its seeming pre-                   ChatGPT. Future work could beneﬁt by comparing similarities
+ference for the redemptive form? To the degree that AI imposes               and differences in self-deﬁning memory construction and inter-
+a speciﬁc cultural master narrative in its interpretations of actual         pretation across different algorithms. If they all converged on
+human lives, we ﬁnd serious concern with the currently                       redemptive structure and positive tone it would support our
+increasing use of AI for therapy. We are concerned that a                    argument that they are being inﬂuenced by a particular culturally
+machine therapist will impose a particular form of positive                  canonical form of public narration most likely to be present on
+redemptive narrative frame on clients, even if the clients them-             the internet. Second, we prompted AI in as open-ended a way as
+selves do not frame their stories that way. We are concerned that            possible. This was purposeful in order to explore what parameters
+through the imposition of a particular narrative frame, a machine            might emerge (What is the default?), but we make no claims
+therapist will either convince clients that they are growing in              about if and how current AI might be tweaked in ways to produce
+psychologically and socially mature ways when they are not, or               more “human-like” narratives and/or to interpret human pro-
+disenfranchise clients who are struggling to ﬁnd a different kind            duced narratives. In terms of AI defaulting to cultural master
+of growth or strength in their experiences. On these points, we              narratives, we did not prompt AI to provide alternative narratives
+might look to Carl Rogers’s (1961) three principles of good                  or alternative interpretations from different perspectives. We
+therapy—that the therapist conveys unconditional positive                    understand that AI can produce alternatives with the prompt to
+regard, empathy, and congruence with the client. It is important             do so. Yet, what it does by default (redemption seemingly) sug-
+that a therapist conveys unconditional positive regard for a client          gests that some of its functionality is a cultural byproduct, which
+as a person (valuing the person in their full humanity) and has              makes it interestingly humanoid because it is subject to being
+empathy for the person’s experience in situ. However, it is also             shaped by forces that also shape humans. Finally, our participants
+important that a therapist not simply perpetuate a client’s belief           were undergraduates who likely have some experience with LLM
+that everything they’re doing and thinking is constructively                 AI such as Chat GPT. Their experiences with these programs
+adaptive, when the therapist thinks otherwise. To do so would be             likely inﬂuenced their judgments however, we did not assess their
+to violate the principle of congruence, whereby the therapist                background knowledge and use of this technology. Future studies
+expresses their interior experience (but always in a supportive,             would beneﬁt by assessing user knowledge. Data for the original
+constructive way as to convey the other two principles).                     study were collected in spring of 2023 and for the second study in
+   The problem here is not merely that AI tends not to challenge             the spring of 2024. It is likely that over that 1 year timeframe
+the person’s narrative constructively but that AI cannot be                  people’s expertise with AI programs like ChatGPT grew.
+congruent. Congruence depends on having self-awareness, a                       In terms of our clinical implications, we have not fully studied
+matter of at least reﬂexive self-reﬂection (Nozick, 1981). AI can            AI therapy bots. The problems we have considered so far exist for
+certainly be tweaked to constructively challenge a person’s                  AI that interprets a person’s story in positive, growth-ﬁlled, ela-
+maladaptive manner of interpreting events. But can this be done              borately considered, and humane ways. But if we consider the fact
+in a way that matches a therapist’s whole-person intuitions, which           that anyone can create and sell a therapy bot (as there are no
+emerge from years of study and experience with speciﬁc,                      regulations against doing so), we can only assume that indifferent
+individual, organismically developing human beings (rather than              actors might simply repackage open-source AI, marketing it as a
+culling stereotypical responses off the Internet)?                           “therapist.” Malicious actors present a more frightening scenario.
+   A critical, and as yet unsolved, difference between interactions             Many of our arguments rest on a particular cultural deﬁnition
+with AI and with other humans is relationality. For instance, AI             of positive meaning-making. As mentioned earlier, the redemp-
+interpretations of people’s stories lack humility, the lingering             tion narrative is very much a US foundational narrative form.
+sense that the interpreter does not know everything about the                How widely this canonical narrative form inﬂuences humans
+other person. Thoughtful humans get a sense that they cannot                 across cultures is not yet fully known. It does seem that this is the
+weigh in on a person’s experience without knowing more.                      form that is most likely to be scraped using current LLMs, but this
+Thoughtful humans get a sense that only the other person can                 does not mean that other forms are not prevalent in other cul-
+ﬁgure out some things for themself. Thoughtful humans get a                  tures, only that the internet sources might be weighted in this
+sense of how to elicit new perspectives out of the other person              direction. Likewise, as we noted earlier, the raw material on the
+that neither person knew previously. Human therapists can                    internet used to train LLMs to process narratives is not fully
+communicate such things. Such skills seem out of the reach of AI,            representative of the expansive diversity of human societies and
+at least for now.                                                            human narration across the globe. The data that we collected
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y                                       9
+ARTICLE                                 HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y
+
+
+from AI cannot fully represent how people of some cultures                 see LLM AI as a narrative resource (Blyler & Seligman, 2024).
+might narrate or interpret human narratives. Thus, we encourage            Currently LLM AI looks more like a product of human narrative
+further research on cultural variability in both human and AI              processes, but whether it can change how we narrate, and what
+narrative meaning-making. For example, would non-US partici-               beneﬁts and costs it can provide by shaping narrative processes
+pants react differently to the AI produced and interpreted nar-            requires careful consideration. A noted scholar of technological
+ratives than our US participants?                                          change once argued that “Technological change is not additive; it
+   Finally, we emphasize that our objectives were not to discover          is ecological…What happens if we place a drop of red dye into a
+the limitations of AI but rather to use AI as a tool to help us better     beaker of clear water? Do we have clear water plus a spot of red
+understand human narrative processing. Our ﬁndings and our                 dye? Obviously not. We have a new coloration to every molecule of
+interpretations reveal that AI can illuminate human meaning-               water…A new medium does not add something; it changes
+making. But we are particularly drawn to future studies which              everything (Postman, 1998).”
+examine in much closer detail what made it difﬁcult for our
+participants to correctly identify ChatGPT as the source of                Data availability
+interpretation on narratives four and ﬁve, which were non-                 We make the data available through the following link to our OSF
+redemptive narratives. Although still monotonous in tone and               page for interested parties. https://osf.io/cnwf3/overview?view_
+structure those interpretations rang as more human and com-                only=287354919e7d490e9655271ac42bd9bb.
+pelling to most of our human raters. Was it that ChatGPT’s
+interpretations appeared to display more empathy and human-                Received: 9 May 2025; Accepted: 8 December 2025;
+connection than people think it is capable of? Is there something
+about the narratives not being redemptive that makes such
+feedback resonate as human for our participants?
+
+
+Conclusion                                                                 Notes
+                                                                           1 Turning Point Memory Prompt: In looking back over your life, it may be possible to
+Human participants’ responses to AI-produced narratives and                  identify certain key moments that stand out as turning points—episodes that marked
+narrative interpretations provide insights into how humans create            an important change in you or your life story. Please identify a particular episode in
+meaning from lived experience. Two critical ﬁndings emerge.                  your life story that you now see as a turning point in your life. If you cannot identify a
+First, AI defaults to highly positive redemptive meaning-making              key turning point that stands out clearly, please describe some event in your life
+that follows a tidy yet complex schema of meeting challenges                 wherein you went through an important change of some kind. Again, for this event
+                                                                             please describe what happened, where and when, who was involved, and what you
+head on, growing in insight and wisdom from that experience,                 were thinking and feeling. Also, please say a word or two about what you think this
+and ending with a positive life afﬁrming resolution. Second,                 event says about you as a person or about your life. Please make responses ~175 words.
+although humans ﬁnd both the produced narratives and inter-                  Can you provide a response that simulates a human response to this prompt?
+pretations insightful, they also ﬁnd them formulaic and, often,              Self-Deﬁning Memory Prompt: We would like to ask you to recall a special kind of
+false (i.e., not human). Together, these ﬁndings illustrate the              personal memory called a SELF-DEFINING MEMORY. A self-deﬁning memory has
+perhaps paradoxical internal process of human meaning making                 the following attributes: It is at least 1 year old. It is a memory from your life that you
+                                                                             remembered very clearly and that still feels important to you even as you think about
+—positive growth is desirable but, perhaps, not as easily attain-            it. It is a memory about an important enduring theme, issue, or conﬂict from your life.
+able as AI presents. Our results further point to the complexity of          It is a memory that helps explain who you are as an individual and might be the
+the concept of “redemption” that is threaded through the nar-                memory you would tell someone else if you wanted that person to understand you in a
+rative identity literature and, indeed, through the mass media               profound way. It is a memory linked to other similar memories that share the same
+(Dunlop, 2021).                                                              theme or concern. It is a memory that leads to strong feelings. It is a memory that you
+   In terms of using AI as a tool, we reiterate that the technology          have thought about many times. It should be familiar to you like a picture you have
+                                                                             studied or a song you have learned by heart. To understand best what a self-deﬁning
+is advancing quickly and, most likely, will become better at                 memory is, imagine you have just met someone you like very much and are going for a
+mimicking human behavior. Similarly, it is important to                      walk together. Each of you is very committed to helping the other get to know the
+remember that the engine used by similar LLM-AI (those beyond                “Real You”. You are not trying to play a role or to strike a pose. While, inevitably, we
+ChatGPT) may be able to create more human-sounding narra-                    say things that present a picture of ourselves that might not be completely accurate,
+tives and interpretations of personal narratives. Yet again, we urge         imagine that you are making every effort to be honest. In the course of the
+caution, especially for AI therapy. Human experience is embodied             conversation, you describe a memory that you feel conveys powerfully how you have
+                                                                             come to be the person you currently are. It is precisely this memory, which you tell the
+in a world of physical sensations, and human narration occurs in             other person and simultaneously repeat to yourself, that constitutes a self-deﬁning
+interactive contexts with other humans, where the narratives are             memory. As a reminder, please describe this event as if you were telling it to a friend in
+shared, words are felt by conversation partners, and meanings are            a conversation (Singer et al., 2013).
+negotiated in ways that are not yet possible with AI. Research is          2 Degree of coherence was agreed upon through discussion among the 5. Less coherent
+urgently needed, especially in terms of psychotherapy outcomes,              narratives lack contextual, thematic, and chronological detail (Reese et al., 2011).
+before adoption of AI therapy should be considered. This is a              3 ChatGPT 4.0 differs from ChatGPT 3.5 with a set of advancements, including model
+                                                                             training on a larger set of parameters (i.e., ~1 trillion parameters versus 150 billion
+current and pressing issue that needs to be addressed as therapy             parameters); a larger amount of retained content LLMs use for contextual prompt
+bots are being developed. Although they may have potential                   details (i.e., ~25,000 words compared to ~3,000 words); and increased multilingual and
+beneﬁts, the potential risks such as providing erroneous infor-              multi-modal (e.g., text, images) support for completing prompt requests (Couvat,
+mation, inappropriate responses, or building the misconception               2024).
+that AI chatbots are equal to human therapists are critical to
+understand and protect against.                                            References
+   The impressiveness of AI seems simultaneously promising and             Adler JM (2012) Living into the story: Agency and coherence in a longitudinal
+potentially perilous. To the extent that people come to rely on AI              study of narrative identity development and mental health over the course of
+in their everyday lives, there is the potential for it to shape culture         psychotherapy. J Pers Soc Psychol 102(2):367–389
+by contributing to how people narrate rather than just reﬂecting           Adler JM, Poulin MJ (2009) The political is personal: Narrating 9/11 and psy-
+                                                                                chological well-being. J Pers 77(4):903–932
+the cultural mores on which it was trained (see Fairclough 1996            Adler JM, Lodi-Smith J, Philippe FL, Houle I (2016) The incremental validity of
+and 2001 on the relationship among discourse, power, and                        narrative identity in predicting well-being: a review of the ﬁeld and recom-
+technology). Research already suggests that people may come to                  mendations for the future. Personal Soc Psychol Rev 20(2):142–175
+
+10                         HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y                                                                   ARTICLE
+
+Armstrong PB (2018) Neuroscience and the social powers of narrative: how stories         Lilgendahl JP, McAdams DP (2011) Constructing stories of self‐growth: How
+      conﬁgure our brains. Engl Lang Lit 64(1):3–24                                            individual differences in patterns of autobiographical reasoning relate to well‐
+Banks MV, Salmon K (2013) Reasoning about the self in positive and negative                    being in midlife. J Pers 79(2):391–428
+      ways: Relationship to psychological functioning in young adulthood. Memory         Lind M (2022) Fulﬁlling or failing to fulﬁll narrative developmental themes: An
+      21(1):10–26                                                                              indicator of living into the good life in late adolescence. J Res Personal 100:1–5
+Banks MV, Salmon K (2018) Cognitive response styles and the construction of              Mansﬁeld CD, McLean KC, Lilgendahl JP (2010) Narrating traumas and trans-
+      personal narratives: Implications for psychopathology in young adults. Imag              gressions: Links between narrative processing, wisdom, and well-being.
+      Cogn Pers 37(3):342–358                                                                  Narrative Inq 20(2):246–273
+Bauer JJ, McAdams DP (2010) Eudaimonic growth: Narrative growth goals predict            Mansﬁeld CD, Pasupathi M, McLean KC (2015) Is narrating growth in stories of
+      increases in ego development and subjective well-being 3 years later. Dev                personal transgressions associated with increased well-being, self-compas-
+      Psychol 46(4):761–772                                                                    sion, and forgiveness of others?. J Res Personal 58:69–83
+Bauer JJ, Thomsen DK (2022) Introduction to the special issue on “Storying the           Mansﬁeld CD, Carrington M, Shaw LA (2025) A comparison of turning point
+      good life: Pathways and pitfalls to adaptive narrative identity”. J Res Personal         memories among US and UK emerging adults: adversity, redemption, and
+      101:104309                                                                               unresolved Trauma. Behav Sci 15(8):1127. https://doi.org/10.3390/bs15081127
+Bauer JJ, McAdams DP, Sakaeda AR (2005) Crystallization of Desire and Crys-              Mansﬁeld CD & Overton MD (2024 August 6-9). Redemptive Meaning-Making as
+      tallization of Discontent in Narratives of Life-Changing Decisions. J Pers               a Contextualized Behavior: Do Personality and Situation Factors Matter?
+      73(5):1181–1213                                                                          [Conference Presentation] 2024, European Conference on Personality, Berlin
+Bauer JJ, Graham L, Mooney S, Geisz A, Mueller M (2022) A good life story:                     Germany. https://ecp21berlin.org
+      Deconstructing (and integrating) elements of narrative identity and a good         McAdams DP (2008) American identity: the redemptive self. Gen Psychol
+      life, featuring themes of humanistic growth. J Res Personal 101: 104303                  43(1):20–27
+Bauer JJ (2021) The transformative self: personal growth, narrative identity, and the    McAdams DP, Guo J (2015) Narrating the generative life. Psychol Sci 26(4):475–483
+      Good life. Oxford University Press                                                 McAdams DP, Logan R, Reischer H (2022) Beyond the redemptive self: Nar-
+Blyler AP, Seligman MEP (2024) Personal narrative and stream of consciousness:                 ratives of acceptance in later life (and in other contexts). J Res Personal
+      an AI approach. J Posit Psychol 19(4):592–598. https://doi.org/10.1080/                  100: 104286
+      17439760.2023.2257666                                                              McAdams DP, Reynolds J, Lewis M, Patten AH, Bowman PJ (2001) When bad
+Booker JA (2019) Patterns in autobiographical reminiscing among early adults:                  things turn good and good things turn bad: sequences of redemption and
+      Implications for forgiveness and self‐compassion. Soc Dev 28(4):802–819                  contamination in life narrative and their relation to psychosocial adaptation
+Booker JA, Fivush R, Graci ME (2022) Narrative identity informs psychological                  in midlife adults and in students. Personal Soc Psychol Bull 27(4):474–485.
+      adjustment: Considering three themes captured across ﬁve time points and                 10/fqbmwx
+      two event valences. J Personal 90(3):324–342                                       McAdams DP (1992) Unity and purpose in human lives: the emergence of identity
+Booker JA, Fivush R, Graci ME, Heitz H, Hudak LA, Jovanovic T, Rothbaum BO,                    as a life story. In Zucker RA, Rabin AI, Aronoff J & Frank SJ (Eds) Per-
+      Stevens JS (2020) Longitudinal changes in trauma narratives over the ﬁrst                sonality structure in the life course, New York, NY: Springer, pp. 323−375
+      year and associations with coping and mental health. J Affect Disord               McAdams DP, Bauer JJ, Sakaeda AR, Anyidoho NA, Machado MA, Magrino-Failla
+      272:116–124                                                                              K, White KW, Pals JL (2006) Continuity and Change in the Life Story: A
+Borisenkova A (2009) Narrative foundations of knowing: towards a new per-                      Longitudinal Study of Autobiographical Memories in Emerging Adulthood. J
+      spective in the sociology of knowledge. Sociological Res Online 14(5):206–212            Pers 74:1371–1400
+Boyd B (2018) The evolution of stories: from mimesis to language, from fact to           McAdams DP, Guo J (2015) Narrating the generative life. Psychol Sci
+      ﬁction. Wiley Interdiscip Rev Cogn Sci 9(1):e1444                                        26(4):475–483
+Bruner J (1991a) Self-making and world-making. J Aesthetic Educ 25(1):67–78.             McLean KC, Breen AV (2009) Processes and content of narrative identity devel-
+      https://doi.org/10.2307/3333092                                                          opment in adolescence: Gender and well-being. Dev Psychol 45(3):702–710
+Bruner J (1991b) The narrative construction of reality. Crit Inq 18:1–21                 McLean KC, Syed M (2016) Personal, master, and alternative narratives: An
+Couvat E (2024) ChatGPT-3.5 vs. 4 vs. 4o: Key differences. Perplexity AI. https://             integrative framework for understanding identity development in context.
+      www.perplexity.ai/page/chatgpt-3-5-vs-4-vs-4o-key-dif-                                   Hum Dev 58(6):318–349. https://doi.org/10.1159/000445817
+      nEXAloovT1iUx9Snare0lQ Accessed on 3 Dec 2024                                      McLean KC, Pasupathi M, Pals JL (2007) Selves creating stories creating selves: A
+Damasio A (2012) Self comes to mind: constructing the conscious brain. NY:                     process model of self-development. Personal Soc Psychol Rev 11(3):262–278
+      Vintage                                                                            McLean KC, Pasupathi M, Greenhoot AF, Fivush R (2017) Does intra-individual
+Demuro E, Gurney L (2024) Artiﬁcial intelligence and the ethnographic encounter:               variability in narration matter and for what?. J Res Personal 69:55–66
+      Transhuman language ontologies, or what it means “to write like a human,           McLean KC, Delker BC, Dunlop WL, Salton R, Syed M (2020) Redemptive stories
+      think like a machine. Lang Commun 96:1–12                                                and those who tell them are preferred in the U. S Collabra: Psychol 6(1):39.
+Donald M (2001) A mind so rare: the evolution of human consciousness. WW                       10/gg7mpb
+      Norton & Company                                                                   McLean KC, Syed M, Pasupathi M, Adler JM, Dunlop WL, Drustrup D, Fivush R,
+Dunlop WL, Tracy JL (2013) Sobering stories: Narratives of self-redemption pre-                Graci ME, Lilgendahl JP, Lodi-Smith J, McAdams DP, McCoy TP (2020) The
+      dict behavioral change and improved health among recovering alcoholics. J                empirical structure of narrative identity: the initial big three. J Personal Soc
+      Personal Soc Psychol 104(3):576–590. https://doi.org/10.1037/a0031185                    Psychol 119(4):920
+Dunlop WL (2021) Everything you wanted to know about redemptive stories*                 Merrill N, Waters TEA, Fivush R (2016) Connecting the self to traumatic and
+      (*but were afraid to ask). J Res Personal 92:1–14                                        positive events: Links to identity and well-being. Memory 24(10):1321–1328
+Eakin PJ (2011) Living autobiographically: how we create identity in narrative.          Mori M, MacDorman KF & Kageki N (2012) The Uncanny Valley [From the
+      Cornell University Press                                                                 Field]. in IEEE robotics & automation magazine, pp 98−100
+Fivush R (2010) Speaking silence: the social construction of silence in auto-            Pals JL (2006) Narrative identity processing of difﬁcult life experiences: pathways of
+      biographical and cultural narratives. Memory 18(2):88–98. https://doi.org/10.            personality development and positive self-transformation in adulthood. J
+      1080/09658210903029404                                                                   Personal 74(4):1079–1110. https://doi.org/10.1111/j.1467-6494.2006.00403.x
+Fivush R (2022) Autobiographical memory and narrative in childhood. Cambridge            Pasupathi M, McLean KC, Weeks T (2009) To tell or not to tell: Disclosure and the
+      University Press                                                                         narrative self. J Personal 77(1):89–124
+Gallagher S & Hutto DD (2008) Understanding others through primary interaction           Perlin JD, Fivush R (2021) Revisiting redemption: a life span developmental
+      and narrative practice (pp. 17-38). In Zlatev J, Racine T, Sinha C & Itkonen E           account of the functions of narrative redemption. Hum Dev 65(1):23–42
+      (eds). The shared mind: perspectives on intersubjectivity. Amsterdam: John         Polkinghorne DE (1988) Narrative knowing and the human sciences
+      Benjamins                                                                          Postman N (1998) Neil postman: ﬁve things we need to know about technological
+Goodman N (1978) Ways of worldmaking. Hackett Publishing                                       change.      https://student.cs.uwaterloo.ca/~cs492/papers/neil-postman--ﬁve-
+Grice HP (1975) Logic and conversation. In Cole P, Morgan JJ (Eds.) Syntax and                 things.html Accessed on 28 March 1998
+      semantics 3: speech acts. Academic Press, pp 41–58                                 Reese E, Haden CA, Baker-Ward L, Bauer P, Fivush R, Ornstein PA (2011)
+Habermas T, Bluck S (2000) Getting a life: The emergence of the life story in                  Coherence of personal narratives across the lifespan: a multidimensional
+      adolescence. Psychological Bull 126(5):748–769                                           model and coding method. J Cogn Dev 12(4):424–462. https://doi.org/10.
+Hammack PL (2008) Narrative and the cultural psychology of identity. Personal                  1080/15248372.2011.587854
+      Soc Psychol Rev 12(3):222–247                                                      Ricoeur, P (1991). Life in quest of narrative. In D Wood (Ed.) On Paul Ricoeur:
+Hix LE (2017) The social function of redemption narratives for former offenders.               Narrative and interpretation. London: Routledge, 20-33
+      Wake Forest University                                                             Singer JA, Bluck S (2001) New perspectives on autobiographical memory: the
+Josselson R (2009) The present of the past: Dialogues with memory over time. J                 integration of narrative processing and autobiographical reasoning. Rev Gen
+      Personal 77(3):647–668. https://doi.org/10.1111/j.1467-6494.2009.00560.x                 Psychol 5(2):91–99
+
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y                                                                    11
+ARTICLE                                             HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-06426-y
+
+
+Singer JA, Blagov P, Berry M, Oost KM (2013) Self-deﬁning memories, scripts, and               studies were granted exemption status according to 45CFR46. 101(b)(2): (2) Surveys,
+      the life story: Narrative identity in personality and psychotherapy. J Personal          Interviews, Educational Tests, Public Observation. The study involved survey data only
+      81(6):569–582                                                                            and participant responses could not be readily linked back to any individual as responses
+Singer JA (2004). Narrative identity and meaning making across the adult lifespan:             were given a random ID. Participants were not asked to share any sensitive information.
+      an introduction. Journal of personality, 72(3)
+Sutin AR, Robins RW (2005) Continuity and Correlates of Emotions and Motives
+      in Self-Deﬁning Memories. J Pers 73(3):793–824
+                                                                                               Informed consent
+                                                                                               All participants read an informed consent form prior to participating. The informed
+Syed M, McLean KC (2022) Who gets to live the good life? master narratives,
+                                                                                               consent form explained the study procedures and informed participants that they could
+      identity, and well-being within a marginalizing society. J Res Personal
+                                                                                               copy and pasted the informed consent into an email to themselves or document if they
+      100:104285
+                                                                                               wanted a copy of it. It also indicated that the information participants provided were
+Turner AF, Thomsen DK, Tuval-Mashiach R, Sevilla-Liu A, Cowan HR, Sumner S
+                                                                                               anonymous. The data could not be linked back to participants as we were not collecting
+      & McAdams DP (2024) Narrative identity in context: how adults in Japan,
+                                                                                               any identifying information. It included a section on the expected duration of the study
+      Denmark, Israel, and the United States narrate difﬁcult life events. J Pers Soc
+                                                                                               (30 min), the potential risks and beneﬁts, and the voluntary nature of the study which
+      Psychol 127(6):1263−1287
+                                                                                               informed participants that they could withdraw their consent at any point without
+Wang S, Lilienfeld SO, Rochat P (2015) The uncanny valley: Existence and expla-
+                                                                                               penalty. Consent and subsequent participation occurred between April and May of 2024.
+      nations. Rev Gen Psychol 19(4):393–407. https://doi.org/10.1037/gpr0000056
+                                                                                               Consent was obtained as part of the online Qualtrics form procedure at the time of
+Waters TEA, Shallcross JF, Fivush R (2013) The many facets of meaning making:
+                                                                                               participation. Participants read the consent form and those who opted to participate
+      Comparing multiple measures of meaning making and their relations to
+                                                                                               simply clicked the radio button on the Qualtrics survey, which read “I agree to parti-
+      psychological distress. Memory 21(1):111–124
+                                                                                               cipate”. It advanced them to the ﬁrst set of questionnaires in the survey. Those who chose
+Zak PJ (2015) Why inspiring stories make us react: the neuroscience of narrative.
+                                                                                               not to participate clicked the radio button on the Qualtrics survey, which read “I do not
+      Cerebrum Dana Forum Brain Sci 2015:2
+                                                                                               agree to participate”. That link advanced them to the webpage of the study’s home
+                                                                                               institution.
+Acknowledgements
+The study received no funding support.                                                         Additional information
+                                                                                               Correspondence and requests for materials should be addressed to Cade D. Mansﬁeld.
+Author contributions
+C.M. played a lead role in writing the original draft and revision, collecting and analyzing   Reprints and permission information is available at http://www.nature.com/reprints
+the data, creating tables and ﬁgures, and ﬁnalizing the document for publication. J.Bauer
+played a lead role in writing the manuscript and data collection. R.F. made major              Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+contributions to the drafting and organization of the document as did J. Booker. C.M.,         published maps and institutional afﬁliations.
+J.Bauer, J.Booker, A.G., J.S., and R.F. contributed to conceptualization of the project and
+played a role in developing the study's methods and a key role in editing the document.
+All authors read and commented on drafts of the manuscript.
+                                                                                                                 Open Access This article is licensed under a Creative Commons
+                                                                                                                 Attribution-NonCommercial-NoDerivatives 4.0 International License,
+Competing interests                                                                            which permits any non-commercial use, sharing, distribution and reproduction in any
+The authors declare no competing interests.
+                                                                                               medium or format, as long as you give appropriate credit to the original author(s) and
+                                                                                               the source, provide a link to the Creative Commons licence, and indicate if you modiﬁed
+Ethical declaration                                                                            the licensed material. You do not have permission under this licence to share adapted
+All research performed was done in accordance with the ethical standards as laid down in       material derived from this article or parts of it. The images or other third party material
+the 1964 Declaration of Helsinki and its later amendments or comparable ethical stan-          in this article are included in the article’s Creative Commons licence, unless indicated
+dards. All participants completed IRB-approved informed consent forms prior to par-            otherwise in a credit line to the material. If material is not included in the article’s
+ticipating. The fourth author’s home institution is the IRB of record.                         Creative Commons licence and your intended use is not permitted by statutory
+                                                                                               regulation or exceeds the permitted use, you will need to obtain permission directly from
+                                                                                               the copyright holder. To view a copy of this licence, visit http://creativecommons.org/
+Ethics                                                                                         licenses/by-nc-nd/4.0/.
+All materials and procedures used were approved by the Institutional Review Board at
+Dickinson College as the IRB of record for Protocol #1143 on 5/8/2023. All research
+performed was done in accordance with the ethical standards as laid down in the 1964           © The Author(s) 2026
+Declaration of Helsinki and its later amendments or comparable ethical standards. The
+
+
+
+
+12                                 HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2026)13:182 | https://doi.org/10.1057/s41599-025-06426-y
+

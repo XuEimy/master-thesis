@@ -1,0 +1,1948 @@
+[
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        141.1224365234375,
+        118.91287994384766,
+        156.7595672607422
+      ],
+      "text": "Full Length Article\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        158.41537475585938,
+        425.7491149902344,
+        214.87368774414062
+      ],
+      "text": "Cueing autobiographical memory in young and older adults: an \nexploration of the effect of cue type on retrieval rates and \nmemory characteristics\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        220.8467559814453,
+        83.67029571533203,
+        238.551025390625
+      ],
+      "text": "Ali Mair *\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.00469970703125,
+        242.73040771484375,
+        174.51553344726562,
+        261.71527099609375
+      ],
+      "text": "School of Psychology, University of Leeds, UK\nDepartment of Psychology, University of York, UK\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.00469970703125,
+        283.5714416503906,
+        117.10665893554688,
+        294.97344970703125
+      ],
+      "text": "A R T I C L E  I N F O\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.00469970703125,
+        302.8244323730469,
+        113.27436828613281,
+        356.1078186035156
+      ],
+      "text": "Keywords:\nAutobiographical memory\nAgeing\nRetrieval processes\nExecutive function\nOpen data\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        197.7449951171875,
+        283.5714416503906,
+        254.46209716796875,
+        294.97344970703125
+      ],
+      "text": "A B S T R A C T\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        197.7449951171875,
+        302.89208984375,
+        507.3790283203125,
+        486.7375183105469
+      ],
+      "text": "Current theories of autobiographical memory (AM) emphasise the involvement of several non- \nmemory auxiliary processes, such as executive function and mental imagery. However, the \ncontribution of these processes to AM retrieval under different circumstances remains poorly \nunderstood, particularly in the context of ageing. The extent to which different AM tasks rely on \nauxiliary processing could explain variability in age-related AM deficits across different contexts. \nThe current study explores the effect of cues varying in format (words, questions, sentences, \nphotos, and videos) and content (e.g., event cues, evaluative cues, imagery cues) on AM retrieval \nrates in young and older adults. In Experiment 1, young and older adults (n = 101) retrieved AMs \nin response to a set of 208 cues; dependent variables were the proportion of cues that produced a \nmemory, and ratings of the characteristics of the retrieved memories. Results showed that \nretrieval rates were influenced by both cue format and cue content, with cues that most closely \nmapped the task requirements producing the largest proportion of memories, regardless of other \ncue features (e.g., detail, imagery). Study 2 collected data from a separate group of 106 adults \nconcerning their interpretation of the same cues, and analysed the responses in relation to the \ndata from Experiment 1. Both retrieval rates and memory characteristics were related to features \nof the cues, such as specificity, theme, and emotional content. Data suggested that less easily \naccessed memories tended to be more autobiographically important. All materials and data – \nincluding 2500 brief descriptions of participants’ autobiographical memories – are freely avail­\nable for further exploration.\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        39.00469970703125,
+        511.248779296875,
+        99.1972885131836,
+        524.2799072265625
+      ],
+      "text": "1. Introduction\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        39.00469970703125,
+        532.1679077148438,
+        507.6051330566406,
+        597.5259399414062
+      ],
+      "text": "Ageing is typically associated with a decline in autobiographical memory specificity (i.e., older adults recall fewer specific \nmemories, or less detailed memories, than young adults; Addis et al., 2008; Levine et al., 2002; Piolino et al., 2006; Ford et al., 2014). \nHowever, recent research, including studies focusing on more naturalistic forms of retrieval, suggests that true age-related differences \nin AM may be overestimated by some laboratory tasks, which tend to constrain autobiographical retrieval in ways that are not yet fully \nunderstood (e.g., Berntsen et al., 2017; Gardner et al., 2015; Mair et al., 2017, 2021; Markostamou et al., 2023; Schryer & Ross, 2014; \nMcVeigh et al., 2025). Methods employed across previous studies have varied considerably, and although performance on any given \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        44.05030059814453,
+        612.43505859375,
+        339.37347412109375,
+        624.1629028320312
+      ],
+      "text": "* Address: School of Psychology, University of Leeds, Woodhouse Lane, Leeds LS2 9JT, UK.\n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        50.96650695800781,
+        621.9593505859375,
+        165.74453735351562,
+        633.6871948242188
+      ],
+      "text": "E-mail address: a.mair@leeds.ac.uk. \n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        202.8470001220703,
+        57.1387825012207,
+        343.44195556640625,
+        70.16989135742188
+      ],
+      "text": "Contents lists available at ScienceDirect\n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        183.2310028076172,
+        78.3358154296875,
+        363.0477600097656,
+        101.13998413085938
+      ],
+      "text": "Consciousness and Cognition\n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        176.54200744628906,
+        115.56990051269531,
+        369.8257141113281,
+        123.54000091552734
+      ],
+      "text": "journal homepage: www.elsevier.com/locate/yccog\n",
+      "type": 0
+    },
+    {
+      "id": 15,
+      "bbox": [
+        39.00469970703125,
+        642.8792724609375,
+        381.82745361328125,
+        664.1881103515625
+      ],
+      "text": "https://doi.org/10.1016/j.concog.2025.103983\nReceived 12 September 2025; Received in revised form 26 November 2025; Accepted 22 December 2025  \n",
+      "type": 0
+    },
+    {
+      "id": 16,
+      "bbox": [
+        193.41000366210938,
+        31.006053924560547,
+        351.6321105957031,
+        42.739234924316406
+      ],
+      "text": "Consciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 17,
+      "bbox": [
+        38.88999938964844,
+        662.0859985351562,
+        507.222412109375,
+        691.3792114257812
+      ],
+      "text": "Available online 24 December 2025 \n1053-8100/© 2025 The Author(s). \nPublished by Elsevier Inc. \nThis is an open access article under the CC BY license \n( http://creativecommons.org/licenses/by/4.0/ ). \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        49.31474685668945,
+        507.60589599609375,
+        125.10401916503906
+      ],
+      "text": "AM test is often taken to represent an individual’s underlying AM ability, there are only weak correlations between scores on different \ntests (Mair, Poirier, & Conway, 2021) and between different approaches to scoring the same test (Kyung et al., 2015). Moreover, two \nrecent studies have shown that (1) within a single sample of participants the magnitude of age effect in AM specificity depended on \nwhich test was used (Mair et al., 2021), and (2) older adults’ retrieval goals can affect the number of episodic details they report (Mair, \nPoirier, & Conway, 2024). Together, these findings suggest that AM tests do not strictly measure AM ability, though precisely what \nthey do measure remains unclear. This is an important question, because the development of interventions to improve AM in ageing \ndepend on knowing the circumstances under which support is needed, as well as the most appropriate cognitive target for intervention.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        122.56074523925781,
+        507.6107177734375,
+        323.8671569824219
+      ],
+      "text": "Current theories of AM suggest that retrieval involves the complex interaction of multiple different cognitive systems (e.g., Conway \n& Pleydell-Pearce, 2000; Rubin, 2005, 2012), involving both memory processes and “working-with-memory” processes such as ex­\necutive function (Moscovitch, 1992). For example, according to Rubin’s (2012) model, AM is supported by a set of basic systems, \nincluding event memory, narrative reasoning, sensory processing, emotion, pain, vestibular function, and others. These systems \noperate independently, but their processing is coordinated by three different coordinating systems: a hippocampal system that binds \ntogether co-occurring activity, an emotion system that codes violations of expectation, and a frontal search and retrieval system that \ndeals with cues and responses, including inhibition of irrelevant responses. According to this model, the relative contribution of each of \nthe basic and coordinating systems is context-dependent. However, when AM tests are administered to young and older adults, there is \ntypically little consideration of how these different systems might be recruited. Understanding the influence of auxiliary processes on \nmemory is especially relevant in the context of ageing, since several candidate processes such as executive function (e.g., Clarys et al., \n2009; Ferguson et al., 2021; Fjell et al., 2017), visual imagery (Dror & Kosslyn, 1994; Guly´as et al., 2022), and self-initiated processing \n(Morcom, 2016) are also generally impaired or reduced in older age. Importantly, these auxiliary processes are separate from memory \nper se, and each particular process may be required to a greater or lesser degree depending on the demands of a particular task or \nretrieval attempt. However, because their influence on task performance remains poorly understood, it is possible that difficulties with \nsome of these processes may cause typical AM tests to inflate estimates of AM impairment in older adults. This is one possible reason \nwhy age-related memory deficits tend to be harder to detect in more naturalistic settings, when the remember is subject to fewer \nexternal constraints (e.g., rules of retrieval that must be followed; Berntsen et al., 2017; Markostamou et al., 2023; Schnitzspahn et al., \n2020). An important question is therefore whether age-related AM deficits are not deficits of memory per se, but rather reflect deficits, \nor differences, in one or more of the auxiliary processes or systems supporting memory retrieval.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        321.32470703125,
+        507.6091003417969,
+        428.46514892578125
+      ],
+      "text": "One way to manipulate the retrieval demands of an AM task is through the use of different retrieval cues. In the lab, these cues are \nmost commonly generic single words (e.g., happy) or time periods/contexts (e.g., high school), both of which have the advantage that \nthey are applicable to a wide range of people. In everyday life, however, a cue could be almost anything in the environment (external or \ninternal), and a substantial proportion of the cues that trigger a conscious effort to retrieve a specific AM are likely to be specific rather \nthan generic (e.g., a friend asks: “Do you remember the restaurant we went to on the last night of our holiday?”). In addition, AMs that \nare retrieved in everyday life are often retrieved involuntarily – that is, without deliberate intention – and these involuntary memories \nare most often cued by specific features of the external environment (Berntsen, 1998). Involuntary memories have been shown to come \nto mind faster, and to be more specific than intentionally retrieved memories (Schlagman & Kvavilashvili, 2008) and are also less \nsensitive to ageing (Berntsen et al., 2017). Most laboratory measures of AM therefore do not represent the ways in which AMs are most \noften retrieved in everyday life.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.00469970703125,
+        425.9219055175781,
+        507.60516357421875,
+        564.4701538085938
+      ],
+      "text": "Several previous studies have investigated the effect of cue type manipulations on AM retrieval latencies and the number of \nmemories retrieved. These studies have shown that factors such as cue concreteness, emotionality, and familiarity can influence how \neasily AMs come to mind. For example, concrete or high-imageability words lead to faster retrieval than abstract or low-imageability \nwords (Rasmussen & Berntsen, 2014; Rubin & Schulkind, 1997; Uzer, 2016; c.f. Guler & Mackovichova, 2019), and presentation of \nphysical objects leads to retrieval of more AMs compared with presentation of their verbal signifiers (Kirk & Berntsen, 2018). On the \nother hand, one study found that although spatial location cues (e.g., park, classroom) accessed AMs more quickly than event theme \ncues (e.g., travelling, memorable meals), the latter produced a greater number of memories (Sheldon & Chu, 2017). In terms of \nemotionality, positively valenced cues have been shown to produce more AMs with faster response latencies than negatively valenced \ncues, while emotionally arousing cues, whether positive or negative, are also associated with faster response latencies (Jakubowski & \nFrancini, 2023; Schulkind & Woldorf, 2005; Sheldon et al., 2020). Cues that are more personal (e.g., friends’names) or more familiar \nalso lead to faster retrieval than more generic or less familiar cues (Gurguryan et al., 2024; Harris & Berntsen, 2019; Jakubowski & \nFrancini, 2023; Uzer & Brown, 2017). Recent work using a retrieve-aloud procedure has demonstrated that the specificity of a cue \ninfluences participants’ retrieval strategy (Mace, Staley, & Sopoci, 2021).\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.00469970703125,
+        561.8703002929688,
+        507.6091003417969,
+        689.9872436523438
+      ],
+      "text": "The type of cue can also affect the kind of memories that are retrieved. Most previous investigations have focused on the \nconcreteness or sensory properties of the cue, which might also be described as nearness to experience. For example, experience-near \ncues appear to access memories from an earlier age: age at encoding is younger for word-cued memories than memories cued by the \nconcept of personal importance (Koppel & Berntsen, 2015), younger for high-imagery vs. low imagery words (Rubin & Schulkind, \n1997), and younger for odour-cued vs. word-cued memories (Chu & Downes, 2000). Age at encoding is also younger for words with \nwhich participants report less overall lifetime experience (Gurguryan et al., 2024). Highly imageable words have also been shown to \ncue more episodically detailed memories than less imageable words (Rasmussen & Berntsen, 2014), and pictures cue more detailed \nAMs than words (Belcher & Kangas, 2013; Ridout et al., 2016). There are also differences in the phenomenology of memories retrieved \nin response to different cues. Personal and emotion words produce memories rated as clearer, more emotional, more significant, and \nmore well-rehearsed than memories cued by generic concrete words (Harris & Berntsen, 2019), and memories evoked by odours are \nrated higher in emotion and reliving than memories cued by words and pictures (Herz & Schooler, 2002; Willander & Larsson, 2007), \nthough odour-cued memories are also less specific (Miles & Berntsen, 2011). In addition, memories cued by popular music are rated as \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        270.16998291015625,
+        699.6494750976562,
+        275.6278381347656,
+        710.0789794921875
+      ],
+      "text": "2 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        49.31474685668945,
+        408.8555908203125,
+        62.34585952758789
+      ],
+      "text": "more vivid and containing more episodic detail than memories cued by famous faces (Belfi et al., 2016).\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.004638671875,
+        59.8026008605957,
+        507.609130859375,
+        240.1898651123047
+      ],
+      "text": "Together these studies demonstrate that the properties of a cue can influence both the ease with which it produces an AM and the \nproperties of the AM it cues. Moreover, the findings suggest that cues high in imagery, or nearness to sensory experience, may predict \nretrieval success. Whether imagery is the underlying reason for retrieval success remains unclear, however, because the relatively \ncontrolled cue sets used in previous studies do not necessarily permit other explanations to be ruled out. For example, high-imagery \ncues could lead to faster retrieval because they promote the use of mental imagery processing during retrieval, allowing fast mapping \nof visual features to stored autobiographical representations. On the other hand, high-imagery cues may be more specific: a photo of a \npark differs from the word “park” in that it both specifies a particular kind of park, and disambiguates the concept of a park as a \nrecreational space from other meanings of the word, such as the verb to park. More specific cues may therefore lead to faster retrieval \nbecause they reduce the amount of executive processing required, whether mental imagery is invoked or not. That is, more specific \n(less generic) cues may be more likely to cue direct, as opposed to generative, retrieval (e.g., Uzer & Brown, 2017; cf. Harris & \nBerntsen, 2019). There are several theoretically relevant ways in which cues may differ from one another, such as imagery, specificity, \ndetail, meaning, and so on, all of which may exert separate influences on AM retrieval. However, it is difficult to disentangle these \nfactors when only a relatively narrow range of cues is tested, and this has been the case in previous studies in which the prioritisation of \nexperimental control has necessarily constrained the cues that can be compared to one another. For example, studies comparing odour \ncues to verbal and visual cues have been restricted to presenting cues for which clearly identifiable odours exist, such as coffee and \nonion (e.g., Goddard et al., 2005). Moreover, because -historically- datasets have not been publicly available, it is difficult to explore \nprevious findings in more depth.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        237.59002685546875,
+        507.59967041015625,
+        365.7062072753906
+      ],
+      "text": "The present study takes a step back, and aims to present a detailed description of the effect of a wide range of different retrieval cues \non AM retrieval, in both young and older adults. This study is not intended to provide a definitive answer about which auxiliary \nprocesses are involved in AM retrieval and to what extent, but rather to lay some groundwork – openly and transparently – for later \ninvestigations to address these important questions. By presenting a wide range of cues that vary along several different theoretically \nrelevant dimensions, the intention of this paper is to explore patterns that may help to untangle the effects of different factors. Cues \nused in this study include words, sentences, specific questions, generic photographs, and generic video clips. These cues vary in the \nformat in which they are presented: some formats are verbal, others are visual; some formats are specific, others are generic. Within \neach format, cues also vary in terms of the kind of content or theme they present (e.g., event cues, social cues, evaluative (meaningful) \ncues) – this variable will hereafter be referred to as cue subtype. As is described below, the categories of cues are only partially \ncontrolled (e.g., cues are not matched for meaning across format or subtype) – the aim was to test the effect of a greater breadth of cues, \nwith the intention of providing a foundation for some interesting exploration and new insight. Here I present completely open ma­\nterials and data, which I hope will also be of use to other researchers interested in exploring AM retrieval.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.00469970703125,
+        373.5950012207031,
+        102.18927001953125,
+        386.6260986328125
+      ],
+      "text": "2. Experiment 1\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.004669189453125,
+        394.5141296386719,
+        507.6131286621094,
+        616.797119140625
+      ],
+      "text": "Experiment 1 tested for effects of cue format and cue subtype on (1) retrieval success, that is, the proportion of times the cue \nproduced an AM, and (2) the characteristics of the AMs that were retrieved. Five different cue formats were used, including words, \nsentences, questions, photographs, and videos. These formats varied in multiple ways: modality (verbal vs. visual), specificity, and the \namount of detail they contained. Within each format, cues were divided into different subtypes (event words, location words, social \nwords, and evaluative words; imagery sentences and evaluative sentences; event questions and evaluative questions; event photos, \nlocation photos, and object photos; event/location videos and imagery/object videos). Subtypes varied in the extent to which they \nwere “experience-near” (such as event cues and location cues) or reflective/autobiographically meaningful (evaluative cues). The cue \nsubtypes were not matched across the five different formats for two reasons: first, matching would be difficult to achieve given the type \nof information conveyed by each format. For example, it is very hard to find photographs that could be described as “evaluative” but \nthat do not contain any objects, locations, or people, but this is relatively easy to achieve with verbal cues. Similarly, although a \nsentence can convey imagery or not, photographs and videos by their nature always convey imagery. Given the difficulty of matching \nsubtypes across formats, any attempt to do so would have resulted in a much-restricted set of stimuli that would not capture the wide \nrange of possible cues that this study intended to explore. The second reason for not matching the cue subtypes across formats was that \nthe differences between the categories allowed for greater exploration of some of the factors that might affect retrieval. For example, if \nimagery is an important dimension in cueing AM, then not only should photos be more effective cues than words, but imagery sen­\ntences should also be more effective than non-imagery sentences. As such, cue formats and types were intended to vary independently \nacross a range of different dimensions that could be relevant to memory retrieval, such as the extent to which they promote mental \nimagery processing, the amount of information they contain, and how directly they map onto task requirements (i.e., to retrieve a \nspecific event memory). Given the exploratory nature of this study, and the lack of existing empirical data on the memory-relevant \ndimensions and relative weightings of different types of cue, this process was necessarily speculative. However, a worked example \nis available in Supplementary File 1 for illustrative purposes (see OSF page; https://osf.io/rnvqy/).\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.004608154296875,
+        614.1971435546875,
+        507.5987243652344,
+        648.1482543945312
+      ],
+      "text": "The pattern of effects in young and older adults was explored, with particular reference to the concepts of imagery and specificity, \nas these features have previously been found to affect AM retrieval (when cues are words), and are also relevant to ageing, given \nevidence of age-related deficits in imagery and executive processing.\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        39.00469970703125,
+        656.0927734375,
+        82.43775939941406,
+        669.1239013671875
+      ],
+      "text": "2.1. Method\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        50.966224670410156,
+        677.0126953125,
+        507.600341796875,
+        690.0438232421875
+      ],
+      "text": "Participants. All participants who completed the study were included in the analysis. Participants were 51 young adults (aged \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        270.16998291015625,
+        699.6494750976562,
+        275.6278381347656,
+        710.0789794921875
+      ],
+      "text": "3 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        49.31474685668945,
+        507.6091003417969,
+        146.02313232421875
+      ],
+      "text": "18–30, M = 24.39, SD = 3.56; 34 females, 7 males) and 50 older adults (aged 60–88, M = 69.58, SD = 5.85; 33 females, 16 males, 1 \nother/preferred not to say) recruited online through Prolific (https://www.prolific.co) in 2021. All participants were fluent English \nspeakers who were residing in the UK at the time of testing, and were paid £6 on completion of the study. Participants self-reported \nhaving normal or corrected-to-normal vision, and self-reported their highest level of education. All participants in the young group and \n96 % of participants in the older group had completed formal schooling up to at least age 16. In addition, 33 % of the young group and \n32 % of the older group had completed a Bachelor’s degree or equivalent, and a further 27 % of the young group and 38 % of the older \ngroup were educated to postgraduate level. The average level of education in each group was not significantly different (t(99) = 0.51, \np = 0.61, d = 0.10). All older adults were retired at the time of testing. In the young group, 49 % were in full-time employment, 20 % \nwere in part-time employment, and 31 % were not employed.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        143.48068237304688,
+        507.59796142578125,
+        198.350830078125
+      ],
+      "text": "Design. The study used a 2 (age group: young vs. older) × 5 (cue format: words vs. sentences vs. questions vs. photographs vs. \nvideos) mixed design, with repeated measures on the second factor. Subtypes of each cue format were explored in follow-up analyses. \nThe main outcome measure was the proportion of memories retrieved in response to each cue format, with additional analyses \nexploring response latencies (measured from cue onset) and some of the characteristics of the retrieved memories, namely age at \nencoding, memory specificity, vividness, personal importance, and rehearsal.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        195.7509765625,
+        507.6147155761719,
+        240.1898651123047
+      ],
+      "text": "Materials. A set of 208 retrieval cues was prepared for this study, consisting of 16 cues belonging to each cue subtype within each \ncue format – that is, there were 16 event words, 16 object photos, 16 evaluative sentences, and so on. Since the number of subtypes \nwithin each format differed, the total number of cues within each overall format also differed. Each format and subtype is described in \ndetail below, and the full set of cues is available on the Open Science Framework project page (https://osf.io/rnvqy/).\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.00469970703125,
+        237.59002685546875,
+        507.6091003417969,
+        313.3793029785156
+      ],
+      "text": "Photo cues. All photos were royalty-free user-uploaded files from Pixabay (https://pixabay.com/) that were free to use without \nattribution. Object photos depicted a single identifiable object or category of objects, either without a background or with a plain \nbackground that did not show a particular location (e.g., a close up of different types of sweets, a fox sitting in grass). Event photos \ndepicted scenes in which a person or people were shown engaging in an identifiable activity (e.g., watching a football match, arguing \nover a toy, playing in a river). Location photos depicted scenes of generic (non-famous) places that one might visit (e.g., a lake, a forest, a \nmotorway), but did not show any people in the foreground engaging in a particular activity. Thus, although event photos often \ndepicted a particular location (e.g., football stadium, river), location photos did not depict a particular event.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.00469970703125,
+        310.8360595703125,
+        507.6114807128906,
+        397.11395263671875
+      ],
+      "text": "Video cues. All videos were royalty-free user-uploaded files from Pixabay (https://pixabay.com/) that were free to use without \nattribution. Videos were a minimum of 7 s in length, and were stripped of any audio before use. Only the first 7 s of each video was \nshown in the experiment. Event/location videos depicted moving scenes in which (a) a person or multiple people were shown engaging \nin a particular activity (e.g., having a snowball fight, watching a band play on stage, riding a merry-go-round) (b) multiple people were \ndepicted in a particular location (e.g., a busy street scene, a busy beach scene) or (c) first-person perspective videos showing an \nidentifiable activity or scene (e.g., driving, ice-skating, looking out of a plane window). In contrast, imagery/object videos did not depict \nany people. These videos depicted animals (e.g., a bee collecting nectar, a dog playing in grass), everyday objects (e.g., a coffee \nmachine pouring a coffee, a dripping tap, a record player) or other moving images (e.g., waves on the surface of water, flames of a fire).\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.00469970703125,
+        394.5141296386719,
+        507.6083068847656,
+        491.2232971191406
+      ],
+      "text": "Word cues. An initial list of 118 words was generated with the aim of creating four categories – event words, location words, \nevaluative words, and social words – with words high and low in imagery, and high and low in emotion, in each category. In a pilot test, \nfour independent participants were asked to match each word to the category they thought was most appropriate, and to rate on a \nsliding scale how emotional the word was (from zero to high emotion, whether positive or negative) and the ease with which it \ngenerated mental imagery. The results of the pilot test informed the selection of the 64 words that were included in the final stimulus \nlist. Where possible, words were only included if all four raters agreed on the most appropriate category, but 6 of the 64 words were \ncategorised according to a majority (3/4) agreement. Each category contained a mixture of words that were high and low in emotion \nand high and low in imagery, though these were not perfectly distributed due to a lack of consensus among raters for some words. \nFurther details of the pilot, including the full word list with all word ratings, are available on the OSF page.\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        39.00469970703125,
+        488.6800842285156,
+        507.58599853515625,
+        564.4701538085938
+      ],
+      "text": "Sentence cues. The set of sentence cues consisted of 16 imagery sentences and 16 evaluative sentences. Imagery sentences were \ndescriptive passages intended to evoke mental imagery. They included detailed references to sensory experience and ranged in length \nfrom 14 to 32 words (M = 20.88, SD = 5.21). Imagery sentences were collected from classic fiction (5 sentences), travel writing (5 \nsentences), and reviews of restaurants, art exhibitions, and music events (6 sentences). Evaluative sentences were intended to provoke \nmore profound autobiographical thoughts, without reference to sensory experience. Evaluative sentences were collected from classic \nfiction (8 sentences), self-help books and essays (4 sentences) and newspaper problem pages (4 sentences), and ranged in length from 7 \nto 20 words (M = 13.13, SD = 3.65).\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        39.00469970703125,
+        561.8703002929688,
+        507.609130859375,
+        627.228271484375
+      ],
+      "text": "Question cues. The set of question cues consisted of 16 event questions and 16 evaluative questions. Event questions took the form of \n“Have you ever…?”, with the text of the question probing for a specific, one-off event that was likely to have been experienced by many \npeople (e.g., Have you ever won a competition? or Have you ever rescued an animal?). Evaluative questions, like evaluative sentences, \nwere intended to provoke more profound autobiographical thoughts and therefore asked participants to consider the meanings behind \ntheir experiences, reflections on their relationships, life story, emotions, and so on (e.g., What sort of person are you? or Have you ever \nhad an experience that you later identified as a turning point in your life?).\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        39.00469970703125,
+        624.62841796875,
+        507.6051940917969,
+        658.5794677734375
+      ],
+      "text": "From the total set of 208 cues, 12 mixed experimental lists were generated each containing 52 cues – four of each subtype within \neach cue format (i.e., one quarter of the total set of cues). Each cue appeared in three different lists, co-occurring with three different \ncues from the same subset each time it appeared. The 12 cue lists are also available on the OSF project page.\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        39.00469970703125,
+        656.0362548828125,
+        507.5955810546875,
+        689.9872436523438
+      ],
+      "text": "Procedure. The study was carried out online using the Gorilla experimental platform (Gorilla, 2021). After providing informed \nconsent and demographic data, participants were automatically assigned to one of the 12 experimental cue lists described above using \nthe platform’s inbuilt counterbalancing procedure. Participants were informed that they would see a series of cues and that, in \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        270.16998291015625,
+        699.6494750976562,
+        275.6278381347656,
+        710.0789794921875
+      ],
+      "text": "4 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        49.31474685668945,
+        507.6114807128906,
+        177.43270874023438
+      ],
+      "text": "response, their task was to try to think of a personal memory that was unique (i.e., not a repeated event) and that lasted a day or less. \nThe 52 cues were presented serially, in random order, and participants were required to press the spacebar whenever a memory came \nto mind. Participants were informed that they were not expected to think of a memory for every cue, but rather that the aim was to \nestablish whether some cues led to memories more readily than others. This detail was included in order to avoid collecting a large \nnumber of non-memory responses in the case that participants felt forced to respond to every cue. Although it could have influenced \nparticipants to “give up” on cues that were perceived to be more difficult, such a pattern of responding would still be informative about \nthe ease of retrieval. For the young adult participants, word cues, photo cues, and video cues were each presented for 5 s, and sentences \nand questions were presented for 7 s to allow sufficient time to read the text. For the older adults, word cues, photo cues and video cues \nwere each presented for 7 s, and sentences and questions were presented for 10 s. The longer presentation times for older adults was \nintended to minimise between-group differences caused only by general slowing of reaction times in older adults (e.g., Salthouse, \n1996), thereby allowing more direct comparison of the two groups on the rates of retrieval to each kind of cue.1 Response latencies \nwere measured from cue onset, and the length of the response window for each cue corresponded to its presentation time.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.0091552734375,
+        174.83287048339844,
+        507.6136169433594,
+        334.3567810058594
+      ],
+      "text": "In cases where participants did retrieve a memory and pressed the spacebar, their reaction time was measured and they were then \npresented with an additional screen, which collected data about the retrieved memory. They were asked to (a) briefly describe the \nmemory in one or two sentences, (b) indicate their age at the time the event happened, (c) indicate whether it was a one-off event or a \nrepeated event, (d) indicate whether the event lasted less than a day or more than a day (e) rate how vivid the memory was, (f) rate how \npersonally important the memory was, and (g) rate how much they had rehearsed the memory in the intervening period. Ratings were \nmade on a sliding scale from 1 to 100, where 1 indicated that the memory was not at all vivid/important/rehearsed and 100 indicated \nthat the memory was maximally vivid/important/rehearsed. No instructions were given about how to interpret these questions. The \nprecise wording of these questions can be found on the OSF page. In cases where the spacebar was not pressed, the experiment \nautomatically advanced to the next cue after the pre-determined presentation time had elapsed. A “continue” button was also provided \non each page, which enabled participants to skip to the next cue if they felt they would not think of a memory for the current cue. Three \nattention checks were inserted into the experimental sequence, after 15 cues, after 30 cues, and after 45 cues. The attention checks \nconsisted of simple tasks that had to be completed in a prescribed way in order to pass (e.g., pressing an on-screen button three times). \nA “continue” button was also provided on the attention check pages, in the same location as on each cue page, such that it was possible \nfor a participant to miss the attention checks entirely if they completed the experiment by simply pressing “continue” repeatedly \nwithout engaging with the test. No participants failed more than one attention check, and all were retained in the sample for analysis.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.0091552734375,
+        342.98284912109375,
+        78.70263671875,
+        356.0139465332031
+      ],
+      "text": "3. Results\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.0091552734375,
+        363.9019775390625,
+        507.6032409667969,
+        429.2599792480469
+      ],
+      "text": "All experimental data are freely available on the OSF project page (https://osf.io/rnvqy/).\nData checking and processing. All participant responses were checked manually to ensure that spacebar presses were legitimate \nrather than accidental. This was achieved by collating all of the brief memory descriptions provided by the participants, and ensuring \nthat they included a description of a memory. Three non-memory responses were identified, in which the participant indicated in the \nresponse box that the spacebar press was accidental; these responses, including the associated rating data, were excluded from the \nsubsequent analysis, and the three trials were re-coded as non-responses.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.0091552734375,
+        426.6601257324219,
+        507.6032409667969,
+        460.6111755371094
+      ],
+      "text": "Data belonging to one older adult was excluded from the analysis because their self-generated ID code, demographics, and the \nmetadata associated with the response suggested the same person had completed the experiment twice; their first attempt was retained \nand their second attempt was removed.\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.0091552734375,
+        458.0679016113281,
+        507.6183776855469,
+        648.886474609375
+      ],
+      "text": "The responses to the uniqueness (was the event one-off or repeated?) and duration (did it last less than a day or more than a day?) \nquestions were initially used in combination to determine whether each response represented an episodic autobiographical memory (a \nunique event that lasted less than a day) or a non-episodic autobiographical memory (a repeated and/or temporally extended event, or \nan autobiographical fact such as Jo is my sister). A score of 1 was assigned for unique events, and a further score of 1 was assigned for \nthose that lasted less than a day. A total score of 2 therefore indicated that the memory was episodic (both unique and less than a day), \na score of 1 represented either a repeated or a temporally extended event, and a score of 0 represented either an event that was both \nrepeated and temporally extended, or a memory that was not an event (e.g., an autobiographical fact). In total, 787 responses in the \nyoung adult group and 785 responses in the older adult group were classified as episodic. However, the brief descriptions were used, \nwhere possible, to confirm participants’ answers to the uniqueness and duration questions. In cases where it was not possible to tell \nfrom the brief description, the classification based on responses to uniqueness and duration questions was retained. In a substantial \nminority of cases, the brief descriptions that were provided were clearly incompatible with the ratings, such that memories that the \nparticipant rated as unique and lasting less than a day in fact referred to repeated events (e.g., “This reminds me of my dad’s wedding \nring. When he played piano I would stare at his ring and think that his hands looked like mine”), temporally extended events (e.g., \n“going to Ibiza”), or autobiographical facts (e.g., “My mother was always accepting and supportive. She was proud of me”). Overall, \nthere were 61 such responses in the young adult group (8 % of the memories self-rated as episodic) and 105 such responses in the older \nadult group (13 % of the memories self-rated as episodic). It is possible that in these cases the participants did retrieve episodic AMs, \nbut that the brief descriptions did not accurately reflect the content of the retrieved memories, however excluding these responses from \nthe episodic category gave a more conservative estimate of 726 episodic responses in the young adult group (M = 14.24, SD = 8.40) \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        39.00516891479492,
+        665.2730102539062,
+        507.3174133300781,
+        689.699951171875
+      ],
+      "text": "1 Supplementary File 7 contains additional analyses of the number of memories retrieved by both groups when the response windows were \nmatched (i.e., excluding older adult responses submitted in the final seconds of their longer response windows).\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        270.16998291015625,
+        699.6494750976562,
+        275.6278381347656,
+        710.0789794921875
+      ],
+      "text": "5 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        49.31474685668945,
+        507.5955810546875,
+        104.18409729003906
+      ],
+      "text": "and 680 episodic responses in the older adult group (M = 13.60, SD = 7.24). There were an additional 925 responses that participants \nself-rated as being non-episodic, all of which were checked and verified. The 166 reclassified responses were added to this group, \ngiving a total of 1091 non-episodic memories (289 in the young adult group and 802 in the older adult group). One young adult did not \nretrieve any episodic AMs, and two young adults and one older adult did not retrieve any non-episodic AMs; these data were retained in \nthe dataset as zeroes.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        101.64163970947266,
+        507.5955810546875,
+        125.10401916503906
+      ],
+      "text": "The brief descriptions of participants’ memories, alongside the answers to the uniqueness and duration questions, are included in \nthe available dataset on the OSF page.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        122.56074523925781,
+        507.6091003417969,
+        187.8621826171875
+      ],
+      "text": "Overall AM retrieval (episodic and non-episodic AMs). Overall response rates and the average memory ratings in young and \nolder adults were compared first. The summary statistics are presented in Table 1. Older adults retrieved more memories than young \nadults overall (t(99) = 5.38, p < 0.001, d = 1.07), however when only episodic AMs were compared there was no difference between \ngroups (t(99) = 0.59, p = 0.55, d = 0.12). Thus, the difference was caused by more retrieval of non-episodic AMs in older adults \ncompared to young adults (t(97) = 6.82, p < 0.001, d = 1.37). Characteristics of the retrieved memories are presented separately for \nepisodic and non-episodic responses in Table 2 and Table 3.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.00469970703125,
+        185.31971740722656,
+        507.58758544921875,
+        229.7012176513672
+      ],
+      "text": "Across all responses, the mean response latency for older adults was significantly longer than for young adults (t(99) = 10.78, p <\n0.001, d = 2.15). Ratings of memory importance (t(99) = 1.31, p = 0.19, d = 0.26) and vividness (t(99) = 0.72, p = 0.48, d = 0.14) did \nnot differ between groups, but ratings of rehearsal were higher in young adults than older adults (t(99) = 2.24, p = 0.03, d = 0.45). \nMean age at encoding was significantly later for older adults than for young adults (t(99) = 16.86, p < 0.001, d = 3.36).\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.00469970703125,
+        227.15875244140625,
+        507.5955505371094,
+        282.0281066894531
+      ],
+      "text": "For the 97 participants who retrieved both episodic and non-episodic AMs, the mean qualities of each were compared. Ratings were \nz-transformed (within participant) to account for potential bias in the use of the scales. Response latencies (t(96) = 0.82, p = 0.41, d =\n0.08), age at encoding (t(96) = 1.56, p = 0.12, d = 0.16), and vividness (t(96) = 0.49, p = 0.62, d = 0.05) were similar for both types of \nresponse, but non-episodic AMs were more personally important (t(96) = 5.69, p < 0.001, d = 0.58) and more well-rehearsed (t(96) =\n4.88, p < 0.001, d = 0.50) than episodic AMs.\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.00469970703125,
+        279.4290771484375,
+        507.6194763183594,
+        365.7062072753906
+      ],
+      "text": "Effect of cue format on retrieval rate. The next section concerns the number of memories that were retrieved in response to \ndifferent cue formats: words, questions, sentences, photos, and videos. The dependent variable in these analyses is retrieval rate: the \nproportion of cues that produced a memory. Data are presented first for the total number of memories (episodic plus non-episodic), and \nafterwards for the number of (researcher-verified) episodic memories, as were required by the task instructions. Equivalent analyses of \nnon-episodic memories are not included here, but are available in Supplementary File 4 on OSF. In addition, though response latency \nwas also measured for all responses and may be another useful indicator of the ease with which memories are retrieved, differences in \nthe available response window between age groups and cue formats make interpretation of these data difficult. Response latencies are \ntherefore not explored further here, but analyses are available in Supplementary File 9.\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        39.00830078125,
+        361.9774475097656,
+        507.6148376464844,
+        459.8757629394531
+      ],
+      "text": "All responses. As can be seen in Fig. 1, there were large main effects of both age (F(1,99) = 28.68, p < 0.001, η2\np = 0.23) and cue \nformat (F(4,396) = 96.86, p < 0.001, η2\np = 0.50). Age and format interacted (F(4,396) = 3.62, p = 0.007, η2\np = 0.04), and follow up \nANOVAs within each age group showed that though the format effect was present in both groups, it was larger in older adults (young \nadults: F(4,200) = 40.7, p < 0.001, η2\np = 0.45; older adults: F(4,196) = 61.1, p < 0.001, η2\np = 0.55). Post hoc pairwise comparisons with \nHolm correction showed that sentence cues produced fewer memories than any other cue type in both groups. However, aside from \nsentence cues, older adults retrieved relatively more memories in response to verbal cues as opposed to visual cues. In older adults, \nquestions produced more memories than any other cue type, and word cues were not significantly different from photo or video cues. \nIn contrast, in young adults, questions, photos, and videos produced a similar number of memories, and all three produced significantly \nmore memories than word cues. Full statistical tests are reported in Supplementary File 3.\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        39.00654602050781,
+        457.2759094238281,
+        507.6109313964844,
+        512.1470336914062
+      ],
+      "text": "Episodic responses. When the analysis was restricted to only episodic memories, there was a similar effect of cue type on retrieval \nrate (F(4,396) = 53.68, p < 0.001, η2\np = 0.35), but this did not interact with age (F(4,396) = 1.23, p = 0.30, η2\np = 0.01), and there was no \nmain effect of age (F(1,99) = 0.16, p = 0.69, η2\np = 0.002). Holm-corrected post hoc pairwise comparisons indicated that sentences and \nwords produced fewer episodic memories than questions, photos, or videos (see Fig. 1). Full statistical tests are reported in Supple­\nmentary File 3 (see OSF page; https://osf.io/rnvqy/).\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        39.00654602050781,
+        509.603759765625,
+        507.5965881347656,
+        543.5548095703125
+      ],
+      "text": "Effect of format within cue subtype. The next question was whether the significant effect of cue format described above was due to \nsomething inherent in the format itself (e.g., visual vs. verbal; specific vs. general) or whether the effect was driven by the subtype of \ncue within each format (e.g., event cues vs. evaluative cues). To explore this, subsets of the data were analysed in separate ANOVAs \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        101.0270004272461,
+        555.8551025390625,
+        372.080322265625,
+        577.1072387695312
+      ],
+      "text": "Table 1 \nOverall response rates and characteristics of the responses in young and older adults.\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        274.2799987792969,
+        579.4864501953125,
+        304.2951965332031,
+        589.9110107421875
+      ],
+      "text": "Mean (SD)\n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        274.2799987792969,
+        592.638671875,
+        433.02203369140625,
+        603.063232421875
+      ],
+      "text": "Young adults\nOlder adults\n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        106.98149108886719,
+        605.79150390625,
+        437.288818359375,
+        684.7569580078125
+      ],
+      "text": "Total responses\n19.90 (8.71)\n29.64 (9.46)\nEpisodic AMs (verified)\n14.24 (8.39)\n13.60 (7.25)\nNon-episodic AMs (verified)\n5.67 (4.56)\n16.04 (9.41)\nProportion episodic\n0.70 (0.23)\n0.48 (0.22)\nRT (ms)\n2746 (533)\n3988 (623)\nAge at encoding (years)\n17.63 (3.69)\n39.09 (8.29)\nPersonal importance (0–100)\n54.12 (16.89)\n49.85 (15.74)\nRehearsal (0–100)\n43.82 (18.28)\n35.77 (17.75)\nVividness (0–100)\n69.23 (10.69)\n71.05 (13.96)\n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        270.16998291015625,
+        699.6494750976562,
+        275.6278381347656,
+        710.0789794921875
+      ],
+      "text": "6 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        580.583740234375,
+        507.59954833984375,
+        656.4296264648438
+      ],
+      "text": "comparing the effect of cue format within the categories of event cues and evaluative cues; ANOVAs were performed for both the total \nretrieval rate and the retrieval rate restricted to episodic memories. The ANOVA for event cues compared the retrieval rate for words, \nphotos, and questions, whereas the ANOVA for evaluative cues compared the retrieval rate for sentences, words, and questions. The \npattern of results is presented in Fig. 2, and full statistical results are presented in Supplementary File 3. Both ANOVAs showed a main \neffect of format, and for event cues the format effect interacted with age. The pattern broadly replicated the overall effect of format \ndescribed above, in that sentences produced fewer memories than other cue types, and questions produced more memories than other \ncue types. The latter was true especially in older adults, whereas young adults were cued equally well by photos and questions.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        653.8297729492188,
+        507.609130859375,
+        687.7808227539062
+      ],
+      "text": "Effect of cue type on retrieval rate. The next analysis concerned whether, within each cue format, the type of cue (e.g., event \ncues, evaluative cues, location cues, social cues, etc.) affected the proportion of AMs that were retrieved. Retrieval rates for each cue \ntype within each format are presented in Fig. 3, and full test results are presented in Supplementary File 3 (see OSF page; https://osf.io/ \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        69.50550079345703,
+        50.55207443237305,
+        298.7682189941406,
+        71.86090850830078
+      ],
+      "text": "Table 2 \nMean characteristics of episodic vs. non-episodic AMs (SDs in brackets).\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        227.6790008544922,
+        74.23843383789062,
+        468.76580810546875,
+        84.66303253173828
+      ],
+      "text": "Episodic AMs (n = 1406)\nNon-episodic AMs (n = 1091)\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        75.46076965332031,
+        87.39064025878906,
+        423.1730041503906,
+        132.0576629638672
+      ],
+      "text": "Response latency (ms)\n3363 (904)\n3303 (1034)\nAge at encoding (years)\n28.34 (12.55)\n27.57 (13.86)\nImportance (0–100)\n50.99 (16.31)\n61.27 (20.58)\nRehearsal (0–100)\n38.80 (17.84)\n48.47 (21.30)\nVividness (0–100)\n70.65 (12.84)\n68.66 (18.50)\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.00469970703125,
+        154.1861114501953,
+        243.48684692382812,
+        175.49493408203125
+      ],
+      "text": "Table 3 \nZ-transformed memory ratings, by response type and age group.\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        155.90499877929688,
+        177.87344360351562,
+        497.3095397949219,
+        196.9150848388672
+      ],
+      "text": "Episodic AMs\nNon-episodic AMs\nYoung adults\nOlder adults\nYoung adults\nOlder adults\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        44.95860290527344,
+        199.64266967773438,
+        499.2911682128906,
+        235.74940490722656
+      ],
+      "text": "Age at encoding\n0.01 (0.27)\n0.004 (0.31)\n−0.20 (0.72)\n−0.02 (0.29)\nImportance\n−0.12 (0.25)\n−0.22 (0.32)\n0.17 (0.55)\n0.19 (0.24)\nRehearsal\n−0.10 (0.20)\n−0.23 (0.37)\n0.14 (0.63)\n0.17 (0.28)\nVividness\n−0.01 (0.24)\n−0.08 (0.39)\n−0.19 (0.71)\n0.02 (0.28)\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        39.00469970703125,
+        539.9810791015625,
+        507.36138916015625,
+        570.870849609375
+      ],
+      "text": "Fig. 1. Retrieval rates for young and older adults for each cue format. The left panel represents all responses (episodic and non-episodic memories \ncombined) and the bottom panel represents episodic responses only. Note that retrieval rate is calculated as the proportion of times the cues \nproduced a response, and is thus equated across formats despite each format containing a different number of cues. Error bars = +/- 1SE.\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        270.16998291015625,
+        699.6494750976562,
+        275.6278381347656,
+        710.0789794921875
+      ],
+      "text": "7 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        635.689697265625,
+        507.5931396484375,
+        680.07177734375
+      ],
+      "text": "rnvqy/). The results were similar for total responses and episodic responses, and showed that cue type did not affect retrieval rates for \nsentences, photos, or videos, but did affect retrieval rates for words and questions. More total memories (F(1,99) = 6.21, p = 0.014, η2\np \n= 0.06), and more episodic memories (F(1,99) = 82.36, p < 0.001, η2\np = 0.45), were produced in response to event questions than \nevaluative questions; neither of these effects interacted with age. For word cues, location words produced fewer total memories than all \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        604.611083984375,
+        507.33270263671875,
+        625.919921875
+      ],
+      "text": "Fig. 2. Retrieval rates for young and older adults for each cue format within cue type. Left panels represent evaluative cues and right panels \nrepresent event cues. Top panels present all responses and bottom panels present episodic AMs only. Error bars = +/- 1SE.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        270.16998291015625,
+        699.6494750976562,
+        275.6278381347656,
+        710.0789794921875
+      ],
+      "text": "8 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        349.2767639160156,
+        507.60906982421875,
+        372.7391357421875
+      ],
+      "text": "other types of word (all p < 0.001, d = 0.36–.45), and event words produced more episodic memories than all other types of word (vs. \nevaluative and social words, p < 0.001, d = 0.46; vs. location words p = 0.03, d = 0.31).\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        370.1958923339844,
+        507.5716552734375,
+        393.6582336425781
+      ],
+      "text": "Characteristics of the retrieved memories. The following section explores the age at encoding of the memories that were \nretrieved, as well as ratings of personal importance, rehearsal, and vividness. In this section, results for all memories (episodic + non- \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        318.1990966796875,
+        507.3520812988281,
+        339.5079345703125
+      ],
+      "text": "Fig. 3. Episodic retrieval rates for young and older adults for each cue type within each cue format (i.e., proportion of times the cue produced an \nepisodic AM). Error bars = +/- 1 SE.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        71.65979766845703,
+        677.97216796875,
+        472.5508728027344,
+        689.7000122070312
+      ],
+      "text": "Fig. 4. Mean ratings (z scored) for retrieved memories in each cue format, in young and older adults. Error bars = +/- 1SE.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        270.16998291015625,
+        699.6494750976562,
+        275.6278381347656,
+        710.0789794921875
+      ],
+      "text": "9 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        49.31474685668945,
+        507.59796142578125,
+        156.5117950439453
+      ],
+      "text": "episodic) are reported. To account for individual differences in the way the rating scales were used, raw values for each measure were \nz-scored separately for each participant, such that a score of 0 represents the participant’s average score, negative values indicate \nbelow-average ratings and positive values indicate above-average ratings. Sentence cues have been excluded from these analyses due \nto their low retrieval rates. A summary of the findings is reported below, and full statistical test results are reported in Supplementary \nFile 4 (see OSF; https://osf.io/rnvqy/). Following a reviewer’s suggestion, additional analyses of the age of the reported memories \nwere carried out (i.e., age at encoding subtracted from the participant’s age at the time of testing). These analyses are summarised \nbelow and reported in detail in Supplementary File 10 (see OSF; https://osf.io/rnvqy/). Note that the age of memory measure differs \nfrom age at encoding in that it is not z-scored, which preserves the true variance between, as well as within, participants. Supplementary \nFile 8 (see OSF page; https://osf.io/rnvqy/) also contains histograms of the age at encoding reported by older adults, which shows \nevidence of a reminiscence bump and a recency effect that vary somewhat by cue format and subtype.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00611877441406,
+        152.78146362304688,
+        507.6201477050781,
+        261.1108703613281
+      ],
+      "text": "Cue format. Cue format affected the age at encoding (F(3,285) = 2.80, p = 0.04, η2\np = 0.03), personal importance (F(3,285) =\n18.57, p < 0.001, η2\np = 0.16), rehearsal (F(3,285) = 15.76, p < 0.001, η2\np = 0.14), and vividness (F(3,285) = 6.38, p < 0.001, η2\np = 0.06) \nof the retrieved memories (see Fig. 4). Holm-corrected pairwise comparisons (see Supplementary File 4; https://osf.io/rnvqy/) showed \nthat verbal cues (words and questions) produced more important, more rehearsed, and more vivid memories than visual cues (photos \nand videos). The age at encoding effect was driven by words cueing memories from a younger age than photos (t(95) = 3.47, p = 0.005, \nd = 0.43). Regarding the age of the retrieved memories, there was a significant interaction between cue format and age group (F \n(3,279) = 4.32, p = 0.005, η2\np = 0.04) wherein, for older adults only, memories cued by words and videos were more remote than those \ncued by photos and questions (see Supplementary File 10; https://osf.io/rnvqy/). However, none of these effects held when comparing \ncue format within the category of event cues, or within location cues (the only cue types to be represented both visually and verbally). \nAs such, the most likely explanation is that the overall effect of cue format was driven by differences in cue subtype within each format.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00585174560547,
+        258.51104736328125,
+        507.6098937988281,
+        386.6281433105469
+      ],
+      "text": "Cue type. Within word cues, photos, and videos, cue type did not affect age at encoding or any of the z-scored memory ratings. \nHowever, evaluative questions produced more important (F(1,88) = 74.56, p < 0.001, η2\np = 0.46) and more rehearsed (F(1,88) =\n13.29, p < 0.001, η2\np = 0.13) memories than event questions in both young and older adults. For age at encoding, there was an \ninteraction with age such that in young adults evaluative questions cued more recent memories than event questions (t(87) = 3.31, p =\n0.001, d = 0.76), whereas in older adults the age at encoding was similar for both question types (t(87) = 1.67, p = 0.099, d = 0.36). \nRegarding the age of memory analysis (which was not z-scored), there were significant effects of word type (F(3,150) = 5.04, p =\n0.002, η2\np = 0.09) and photo type (F(2,158) = 3.78, p = 0.025, η2\np = 0.05), neither of which interacted with age, and a significant age by \nquestion type interaction (F(1,86) = 7.49, p = 0.008, η2\np = 0.08). In each case, pairwise differences were only observed in the older \nadult group. Location words and social words cued more remote memories than event words and evaluative words. In contrast, \nlocation photos cued more recent memories than event photos or object photos. For question cues, evaluative questions cued more \nremote memories than event questions. See Supplementary File 10 (https://osf.io/rnvqy/) for full statistical results and plots of these \neffects.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.007354736328125,
+        384.085693359375,
+        507.60223388671875,
+        512.145263671875
+      ],
+      "text": "Summary of Experiment 1. The analyses of retrieval rates above suggest that both the format and subtype of the cue influence its \nsuccess in producing a memory. Cue formats prompting the highest retrieval rates – questions, photos, and videos – varied in terms of \nvisual imagery and the amount of information in the cue, though all three formats presented relatively specific information, in the \nsense that there was little room for different interpretations. However, sentence cues were extremely specific, yet produced very few \nmemories overall. Photo and video cues produced more memories than word cues, but only in young adults. This is broadly consistent \nwith previous studies showing the superiority of cues higher in imagery (e.g., Rasmussen & Berntsen, 2014; Rubin & Schulkind, 1997; \nUzer, 2016), though the high retrieval rates for question cues in this study suggest that the superiority of pictorial cues may be due to \ntheir increased specificity, rather than the visual imagery they contain. In terms of the characteristics of the retrieved memories there \nwas no evidence for an effect of cue format on ratings of AM importance, rehearsal, vividness, or age at encoding. However, for \nquestion cues, the memories retrieved in response to evaluative questions were more important and more rehearsed than those \nretrieved in response to events questions. Despite the categorical overlap with subtypes of words cues (i.e., the distinction between \nevaluative and event cues), the same pattern was not observed for these less specific verbal cues.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.007354736328125,
+        520.0906982421875,
+        80.08207702636719,
+        533.121826171875
+      ],
+      "text": "4. Study 2\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.007354736328125,
+        541.009765625,
+        507.5990295410156,
+        627.2310791015625
+      ],
+      "text": "One issue with the analysis of Experiment 1 is that, because no attempt was made to match cues across formats and types, these \nclassifications could be seen as somewhat arbitrary. That is, format and type represent just two of the many ways in which these cues \nvaried, and as can be seen in Figs. 2-4, retrieval rates varied widely within each of the assigned categories (see also Supplementary File \n5, for plots of retrieval rates for individual cues within each cue format, collapsed across participants). The large amount of variability \nin how participants responded to the cues even within each category indicates that further exploration of the cues is warranted. In \norder to explore the meanings of the cues in more depth, a follow-up study was conducted in which a separate group of participants \nwere asked to rate each of the cues on a range of different dimensions. The aim was then to explore whether any patterns emerged \nwhen considering retrieval rates in Experiment 1, in relation to the ratings given by the new sample of participants.\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        39.007354736328125,
+        635.1757202148438,
+        82.4404296875,
+        648.2068481445312
+      ],
+      "text": "4.1. Method\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        39.007354736328125,
+        656.0955810546875,
+        507.61334228515625,
+        690.0458984375
+      ],
+      "text": "Participants. A total of 116 participants were recruited via Prolific and a University of York database consisting of Psychology \nstudents. Ten participants were subsequently excluded due to failed attention checks. The remaining sample of 106 participants was \n80 % female (85 females, 20 males, 1 no response). Ages ranged from 18 to 59 (M = 27.93, SD = 7.98). Twenty four percent of the \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        268.3800048828125,
+        699.6494750976562,
+        277.42755126953125,
+        710.0789794921875
+      ],
+      "text": "10 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        49.31474685668945,
+        471.1650390625,
+        62.34585952758789
+      ],
+      "text": "sample were educated to postgraduate level, 28 % to undergraduate level, 39 % to age 18, and 8 % to high school or less.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        59.8026008605957,
+        507.603515625,
+        93.7528305053711
+      ],
+      "text": "Design. The study used a single-question design, in which each participant was asked to evaluate a set of stimuli. There were 208 \nstimuli presented, and 10 questions were posed about each stimulus, but each participant only answered one question per stimulus, \nselected at random.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        91.15298461914062,
+        507.6169128417969,
+        250.6212158203125
+      ],
+      "text": "Materials and procedure. The stimuli that were evaluated by participants were the 208 retrieval cues used in Experiment 1. A list \nof questions was constructed for the purpose of collecting ratings of each individual cue. First, a separate group of young adult par­\nticipants (n = 12; aged 18–26, Mage = 19.33; 9 females, 3 males) was asked to perform a word association task on a random selection of \none quarter (52) of the cues. In the word association task, participants were serially presented with the cues and asked to type the first \nthing(s) they thought of on seeing the cue. They were asked to type between one and ten words or short phrases per cue. Responses to \nthe word association task were collated, and the words and phrases associated with the cues that produced the most and least memories \nin Experiment 1 were examined to identify reoccurring themes. Four such themes were identified: safety, fear, childhood, and travel. \nOf these, safety tended to be associated with poorer cues (i.e., those that produced fewer memories) and the other three themes tended \nto be associated with good cues (i.e., those that produced more memories). These four themes formed the basis of four questions for this \nstudy (items 4, 5, 9, and 10). Because the themes of fear and safety represent emotional concepts, but differ on both emotional valence \nand emotional arousal, two further questions (item 3: positive high arousal, and item 6: negative low arousal) were added for balance. \nA further four questions were derived from the autobiographical memory literature. These questions concerned whether the cue was \nsocially relevant (item 1), whether it involved the beginnings of scene construction (item 2), the extent to which it constrained the \nmemory search space (item 7), and the extent to which it would require generative retrieval to produce a specific memory (item 8). The \nfull set of questions is presented in Table 4.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.00608825683594,
+        248.07875061035156,
+        507.5698547363281,
+        292.4602355957031
+      ],
+      "text": "For the main part of the follow-up study, the 106 participants were asked to answer these 10 questions about each of the 208 cues. \nBecause of the large number of cues, each participant was only required to answer a single question about each one. The question that \nwas posed for each cue for each participant was selected at random. Question-cue pairs were presented serially, with three clickable \nresponse options below: yes, no, and don’t know.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.00608825683594,
+        289.91778564453125,
+        507.6120910644531,
+        376.1949157714844
+      ],
+      "text": "Three attention checks were included at roughly equal intervals, and any participant who failed at least one of the checks was \nexcluded (n = 7). Participants who exhibited a pattern of unusually low response times – defined as < 800 ms across multiple questions \nand cues – were also excluded (n = 3). Finally, individual responses taking < 500 ms were also excluded, as it was judged that it would \nbe impossible to perceive the cue, make a decision, and provide a response within such a short window. This final exclusion criterion \naffected 20 participants in total. For the majority of these participants (n = 14) there was only one such response, and in other cases the \nnumber of excluded responses was 2 (n = 2), 3 (n = 3), or 5 (n = 1). For all 20 of these participants the remainder of their responses \nwere checked carefully to establish whether there was any clear pattern suggesting failure to engage with the task, but no further \nexclusions were applied.\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        50.967613220214844,
+        373.5950927734375,
+        436.81451416015625,
+        386.6261901855469
+      ],
+      "text": "To prepare the data for analysis, the proportion of “yes” responses for each question-cue pair was calculated.\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        39.00608825683594,
+        395.02508544921875,
+        78.69957733154297,
+        408.0561828613281
+      ],
+      "text": "5. Results\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        39.005523681640625,
+        415.94500732421875,
+        507.61334228515625,
+        481.7352600097656
+      ],
+      "text": "Differences in cue themes across cue formats. The mean proportion of “yes” responses for cues within each cue format (words, \nquestions, sentences, photos, and videos) is presented in Table 5. ANOVAs carried out for each of the 10 questions, using an adjusted \nalpha (α = 0.005) to correct for multiple comparisons, showed that cue formats varied most in terms of the vagueness of the cues (F \n(4,203) = 22.60, p < 0.001, η2\np = 0.31) and the number of possible meanings they had (F(4,203) = 15.30, p < 0.001, η2\np = 0.23). Cue \nformats also varied in the extent to which the cues tended to be associated with locations (F(4,203) = 6.47, p < 0.001, η2\np = 0.11) and \npeople (F(4,203) = 10.30, p < 0.001, η2\np = 0.17), and the extent to which they were related to travel (F(4,203) = 6.23, p < 0.001, η2\np =\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        39.00469970703125,
+        491.8490905761719,
+        220.93922424316406,
+        513.1578979492188
+      ],
+      "text": "Table 4 \nQuestions used in Study 2 to explore cues in more depth.\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        59.98109817504883,
+        515.5364379882812,
+        302.7702941894531,
+        525.9609985351562
+      ],
+      "text": "Question\nTheme\nSource/reference\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        44.95820236206055,
+        528.6886596679688,
+        205.1807403564453,
+        547.6741333007812
+      ],
+      "text": "​Does this cue involve (or conjure the thought of) a \nperson or people?\n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        214.63746643066406,
+        528.6886596679688,
+        442.685546875,
+        539.1132202148438
+      ],
+      "text": "person\nSocial nature of AM (e.g., Alea & Bluck, 2007; Vrani´c et al., 2018)\n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        44.95820236206055,
+        545.8098754882812,
+        205.1807403564453,
+        564.794677734375
+      ],
+      "text": "​Does this cue involve (or conjure the thought of) a \nparticular location or place?\n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        44.95820236206055,
+        545.8098754882812,
+        501.1443786621094,
+        581.97265625
+      ],
+      "text": "scene\nImportance of scene construction for memory retrieval (e.g., Hassabis & Maguire, 2007; \nRobin, 2018; Rubin & Umanath, 2015). See also Sheldon & Chu (2017).\n​Is this cue related to any of the following concepts: \nexcitement, happiness, or elation?\n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        44.95820236206055,
+        562.9310302734375,
+        501.15887451171875,
+        599.0938110351562
+      ],
+      "text": "happiness\nIncluded to balance valence & arousal of items 4 and 5 (see also Schulkind & Woldorf, \n2005; Sheldon et al., 2020)\n​Is this cue related to any of the following concepts: \nsafety, contentment, or calmness?\n",
+      "type": 0
+    },
+    {
+      "id": 15,
+      "bbox": [
+        214.63746643066406,
+        580.1083374023438,
+        485.0349426269531,
+        590.5328979492188
+      ],
+      "text": "safety\nWord association task (see also Schulkind & Woldorf, 2005; Sheldon et al., 2020)\n",
+      "type": 0
+    },
+    {
+      "id": 16,
+      "bbox": [
+        44.95820236206055,
+        597.2295532226562,
+        205.1800994873047,
+        616.2150268554688
+      ],
+      "text": "​Is this cue related to any of the following concepts: \nfear, anxiety, or anger?\n",
+      "type": 0
+    },
+    {
+      "id": 17,
+      "bbox": [
+        214.63746643066406,
+        597.2295532226562,
+        485.0349426269531,
+        607.6541137695312
+      ],
+      "text": "fear\nWord association task (see also Schulkind & Woldorf, 2005; Sheldon et al., 2020)\n",
+      "type": 0
+    },
+    {
+      "id": 18,
+      "bbox": [
+        44.95820236206055,
+        614.3507690429688,
+        205.1800994873047,
+        633.3356323242188
+      ],
+      "text": "​Is this cue related to any of the following concepts: \nsadness, boredom, or weariness?\n",
+      "type": 0
+    },
+    {
+      "id": 19,
+      "bbox": [
+        44.95820236206055,
+        614.3507690429688,
+        501.15887451171875,
+        650.5135498046875
+      ],
+      "text": "sadness\nIncluded to balance valence & arousal of items 4 and 5 (see also Schulkind & Woldorf, \n2005; Sheldon et al., 2020)\n​Does this cue have many different meanings or \ninterpretations?\n",
+      "type": 0
+    },
+    {
+      "id": 20,
+      "bbox": [
+        44.95820236206055,
+        631.4719848632812,
+        499.6216735839844,
+        684.7559814453125
+      ],
+      "text": "meanings\nCues that point to many different memories require executive processing to resolve \ninterference (e.g., Mazzoni et al., 2014)\n​Is this cue vague?\nvagueness\nCues that do not point to anything specific require generative retrieval processing (e.g., \nConway & Pleydell-Pearce, 2000).\n​Is this cue associated with childhood?\nchildhood\nWord association task\n​Is this cue related to travel or holidays?\ntravel\nWord association task\n",
+      "type": 0
+    },
+    {
+      "id": 21,
+      "bbox": [
+        39.005027770996094,
+        31.649438858032227,
+        508.5094909667969,
+        42.09272003173828
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 22,
+      "bbox": [
+        268.3800048828125,
+        699.6494750976562,
+        277.42755126953125,
+        710.0789794921875
+      ],
+      "text": "11 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        48.182464599609375,
+        507.6010437011719,
+        135.59280395507812
+      ],
+      "text": "0.11) and childhood (F(4,203) = 4.87, p < 0.001, η2\np = 0.09). There was no effect of cue format on emotion ratings (fear: F(4,203) =\n3.15, p = 0.015, η2\np = 0.06; safety: F(4,203) = 3.04, p = 0.018, η2\np = 0.06; happiness: F(4,203) = 1.78, p = 0.13, η2\np = 0.03; sadness: F \n(4,203) = 2.38, p = 0.053, η2\np = 0.05).\nPost hoc tests with Holm correction (available in full in Supplementary File 6; https://osf.io/rnvqy/) showed that the verbal cue \nformats (words, questions and sentences) all had more possible meanings than visual cue formats (photos and videos), and words were \nrated as more vague than all other cue formats. Photo cues were more strongly related to locations than all other cue formats except \nvideos, and video cues were more strongly related to travel than all other cue formats except photos. Question cues related more to \npeople and childhood than all other cue formats.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00621032714844,
+        132.99295043945312,
+        507.6106262207031,
+        282.0290222167969
+      ],
+      "text": "Associations between cue themes and retrieved memories. The next step was to explore the relationship between cue theme \nratings and the memories retrieved in Experiment 1, independent of cue format and type categories used in Experiment 1. Correlations \nwere calculated between the proportion of “yes” responses to each question for each cue, and (1) the rate at which the cue produced a \nresponse in Experiment 1, (2) response latency, (3) age at encoding of the memory, (4) rated importance, (5) rehearsal, and (6) \nvividness. For 2–6, within-participant z-scores were used to minimise bias. Heatmaps of the correlation coefficients are presented in \nSupplementary File 6, and a summary of the associations is presented in Table 6. In general, cues that were vague and could be \ninterpreted in different ways produced fewer memories (r ~ -0.30), but the memories that were retrieved were rated as more important \nand more well-rehearsed, especially in older adults (r = 0.12 −\n0.37). In contrast, location cues had the highest retrieval rates (r ~ \n0.40), but the relationship with memory importance, rehearsal, and vividness was very weak (r < 0.01). Similarly, cues relating to \ntravel generally produced more memories (r ~ 0.17), but the memories were not particularly important, rehearsed, or vivid. Positive \nemotion cues, and those relating to people and childhood were associated with both high retrieval rates (r ~ 0.20) and high ratings of \nimportance (r = 0.22 −\n0.33), and were also positively associated with ratings of rehearsal and vividness, though to a lesser extent. \nNegative emotion cues were generally not associated with phenomenology ratings, though they were associated with higher retrieval \nrates in older adults.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00621032714844,
+        289.91705322265625,
+        122.83334350585938,
+        302.9481506347656
+      ],
+      "text": "6. General discussion\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.00621032714844,
+        310.83697509765625,
+        507.6042785644531,
+        418.03399658203125
+      ],
+      "text": "The present study sought to present a detailed exploration of autobiographical retrieval in response to different kinds of cues. The \nanalysis in Experiment 1 focused on two main concepts: cue format (word, question, sentence, photo, video) and cue type (event cues, \nevaluative cues, etc.) Results showed that the cue format affected how likely the cue was to produce a memory (the retrieval rate), but \ndid not affect the characteristics of the memories that were retrieved. Regarding retrieval rates, questions prompted memory retrieval \nmost successfully, whereas sentences were poor cues that tended not to prompt memory retrieval. Words, photos, and videos were \nintermediately successful overall, and whereas young adults showed a slight advantage for visual cues over words, older adults did not \nshow any such advantage. Within the word and question formats, event cues also produced more memories than other more abstract \ntypes of cues (e.g., evaluative questions and words). With the exception of the advantage of visual cues in young adults, the effects of \ncue format were broadly similar for young and older adults, and regardless of whether the analysis included all responses or only \nepisodic memories.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.00621032714844,
+        415.4341735839844,
+        507.6106262207031,
+        522.6312255859375
+      ],
+      "text": "This pattern of results suggests that the factor most predictive of retrieval success is the extent to which the cue maps onto the task \ndemands without the need for additional processing, and this does not differ between young and older adults. That is, the reason that \nquestions, and particularly event questions, produced more memories than other kinds of cues, is probably because questions specified \nmore precisely what was to be recalled. In contrast, less specific cues likely required further processing, such as cue interpretation and \ngeneration of a search through memory contents (e.g., Conway & Pleydell-Pearce, 2000). In support of this explanation, the analysis in \nStudy 2 showed that cues that were rated by a separate sample of participants as being vague or having many different possible \nmeanings tended to produce the fewest memories overall, in both young and older adults. This “mapping” explanation draws on the \nhypothetical distinction between direct and generative retrieval (Conway & Pleydell-Pearce, 2000). According to this view, a cue that \ndirectly activates event-specific knowledge can lead to the construction of an autobiographical memory without much additional \nprocessing, as event-specific knowledge representations usually map to one general event, and consequently one main lifetime period. \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.00469970703125,
+        537.7140502929688,
+        345.3097229003906,
+        559.0228881835938
+      ],
+      "text": "Table 5 \nMean agreement for each question (proportion of participants responding “yes”), by cue format.\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        100.00599670410156,
+        561.4014282226562,
+        459.43780517578125,
+        571.8259887695312
+      ],
+      "text": "Words\nSentences\nQuestions\nPhotos\nvideos\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        100.00599670410156,
+        574.4968872070312,
+        489.5415954589844,
+        584.9214477539062
+      ],
+      "text": "Mean\nSD\nMean\nSD\nMean\nSD\nMean\nSD\nMean\nSD\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        44.95838928222656,
+        587.6497192382812,
+        499.29034423828125,
+        675.1754760742188
+      ],
+      "text": "Meanings*\n0.64\n(0.20)\n0.57\n(0.21)\n0.53\n(0.25)\n0.39\n(0.18)\n0.37\n(0.21)\nLocation*\n0.48\n(0.31)\n0.37\n(0.28)\n0.47\n(0.24)\n0.64\n(0.26)\n0.63\n(0.27)\nPerson*\n0.51\n(0.29)\n0.33\n(0.25)\n0.73\n(0.20)\n0.47\n(0.24)\n0.45\n(0.30)\nChildhood*\n0.33\n(0.29)\n0.30\n(0.24)\n0.58\n(0.27)\n0.36\n(0.33)\n0.39\n(0.31)\nHappiness\n0.45\n(0.33)\n0.42\n(0.29)\n0.52\n(0.32)\n0.57\n(0.30)\n0.56\n(0.30)\nFear\n0.26\n(0.25)\n0.28\n(0.25)\n0.38\n(0.29)\n0.18\n(0.26)\n0.23\n(0.25)\nSadness\n0.21\n(0.21)\n0.24\n(0.21)\n0.30\n(0.21)\n0.17\n(0.23)\n0.15\n(0.23)\nSafety\n0.37\n(0.33)\n0.33\n(0.28)\n0.46\n(0.26)\n0.50\n(0.28)\n0.52\n(0.33)\nTravel*\n0.32\n(0.32)\n0.31\n(0.30)\n0.25\n(0.26)\n0.47\n(0.34)\n0.57\n(0.35)\nVagueness*\n0.62\n(0.21)\n0.41\n(0.19)\n0.28\n(0.19)\n0.33\n(0.16)\n0.40\n(0.22)\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        44.56060028076172,
+        674.79736328125,
+        293.1165466308594,
+        689.7000122070312
+      ],
+      "text": "* Responses to these questions were significantly different across cue formats.\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        268.3800048828125,
+        699.6494750976562,
+        277.42755126953125,
+        710.0789794921875
+      ],
+      "text": "12 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        448.602783203125,
+        507.5955505371094,
+        493.0408630371094
+      ],
+      "text": "On the other hand, a less specific cue that activates either higher-order knowledge (e.g., a general event or lifetime period) or non- \nspecific event details (e.g., details shared by many different events) will cause diffuse spreading activation across many different \nautobiographical knowledge representations. In this latter case, additional processing is then required to form the stable pattern of \nactivation required for memory construction.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        490.4984130859375,
+        507.61468505859375,
+        555.7998657226562
+      ],
+      "text": "Given the well-documented decline in executive function abilities that occurs with ageing (e.g., Clarys et al., 2009; Ferguson et al., \n2021; Fjell et al., 2017) it is surprising that there were no observed age differences in retrieval in response to less specific cues (e.g., \nwords), which theoretically should make successful retrieval more executively demanding. However, as the study was conducted \nonline, and executive function was not directly measured, the absence of age effect may be a result of sampling bias. In any case, in \nStudy 2 the association between cue vagueness/number of meanings and retrieval rates was slightly stronger in older adults, which is \nin line with this executive explanation of cue success.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        553.256591796875,
+        507.6083068847656,
+        608.126708984375
+      ],
+      "text": "While the suggestion that generative retrieval is more “difficult” than direct retrieval is not novel, the results of the present study \nsuggest that this factor has more influence on AM retrieval success than other factors such as imagery, emotion, detail, and the se­\nmantic theme of the cue. However, there is a considerable degree of overlap between these factors, and others may still be important. \nThe present study contributes to the existing literature on cueing effects in AM by beginning to untangle the influence of each factor. It \nis intended to lay the groundwork for future investigations that will examine retrieval processing in cue-driven AM more directly.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.00469970703125,
+        605.52685546875,
+        507.6091003417969,
+        681.316162109375
+      ],
+      "text": "Regarding the amount of information in the cue, sentences were poorer cues than words, despite containing more semantic in­\nformation that could be potentially overlap with autobiographical experience. Similarly, videos were (marginally) poorer than photos \nat prompting retrieval, despite containing objectively more information. In fact, this pattern of findings suggests that cues containing \nmore information may be detrimental to retrieval if they constrain the search space too far – that is, if they are too specific, and \nconsequently do not overlap sufficiently with the participant’s prior experience (see also Mazzoni et al., 2014). Although this idea is \nconsistent with the well-known principle of encoding-retrieval match (i.e., that a cue’s success depends on the degree to which it \nmatches, or overlaps with, the target; Tulving, 1979) and the more recent view that cues are effective to extent that they are able to \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.00469970703125,
+        50.55207443237305,
+        347.310302734375,
+        71.86090850830078
+      ],
+      "text": "Table 6 \nSummary of associations between cue content (Study 2) and retrieved memories (Experiment 1).\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        44.957401275634766,
+        74.23843383789062,
+        359.456298828125,
+        84.66303253173828
+      ],
+      "text": "Cue content\nRetrieval rates and memories characteristics\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        44.957401275634766,
+        87.39064025878906,
+        499.2874755859375,
+        414.8383483886719
+      ],
+      "text": "Cues with many different possible meanings\n• Fewer memories overall\n• No association with response latency\n• Memories more important and rehearsed, especially in older adults\n• Memories more vivid, in older adults only\n• Later age at encoding, in young adults only\nCues rated as vague\n• Fewer memories overall\n• No association with response latency\n• Memories more important and rehearsed, in older adults only\n• No association with vividness\n• Later age at encoding, in young adults only\nCues related to a person or people\n• More memories, with faster response latencies\n• More important and vivid memories in both groups\n• More rehearsed memories, especially in young adults\n• Earlier age at encoding, in older adults only\nCues related to childhood\n• More memories, especially in young adults\n• No association with response latency\n• Memories more important in both groups, and more vivid in older adults\n• No association with rehearsal\n• Earlier age at encoding, especially in older adults\nCues related to a particular location\n• More memories and faster response latencies, especially in young adults\n• Earlier age at encoding, in young adults only\n• No relationship with importance, rehearsal, and vividness\nCues related to travel or holidays\n• More memories overall\n• No relationship with response latency, age at encoding, importance, rehearsal, or vividness\nCues related to happiness, excitement, or elation\n• More memories, especially in young adults\n• Faster response latencies in both groups\n• Memories more important\n• Memories more rehearsed and vivid, especially in older adults\nCues related to safety, contentment, or calmness\n• More memories, in young adults only\n• Faster response latencies in both groups\n• Memories more important\n• Memories more vivid, especially in older adults\n• Memories more rehearsed, in older adults only\nCues related to fear, anxiety, or anger\n• More memories, in older adults only\n• No relationship with response latency, age at encoding, importance, rehearsal, or vividness\nCue related to sadness, boredom, or weariness\n• More memories, in older adults only\n• Memories less important, in young adults only\n• No relationship with response latency, age at encoding, rehearsal, or vividness\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        39.00469970703125,
+        417.5810852050781,
+        507.375732421875,
+        438.8899230957031
+      ],
+      "text": "Note. Correlations were calculated at the level of the individual cue (i.e., entire dataset collapsed across participants). Associations reported for all \npairs of variables where r > 0.10.\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        268.3800048828125,
+        699.6494750976562,
+        277.42755126953125,
+        710.0789794921875
+      ],
+      "text": "13 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        49.31474685668945,
+        507.599609375,
+        166.94305419921875
+      ],
+      "text": "discriminate a target memory from among competitors (Nairne, 2002), its application to the context of more complex autobiographical \nmemory warrants some discussion. In a cue that contains a large amount of information, such as a detailed sentence or video clip, the \ninformation could be interpreted either as a whole entity with a very precise meaning, or as a series of individual elements, each one of \nwhich could potentially overlap separately with the contents of autobiographical memory. The finding that such cues are relatively \npoor at triggering retrieval suggests either that (a) participants tend towards the former interpretation, thereby making it unlikely that \nthe cue will produce a match in autobiographical memory (i.e., poor encoding-retrieval match), or (b) each of the individual elements \ndoes indeed activate parts of the autobiographical knowledge base, but the activated knowledge is disparate and causes interference \nbetween competing memories (i.e., poor discrimination). Either way, this hints at an apparent inflexibility in the way that the cues \nand/or memories are represented internally. The autobiographical knowledge base presumably includes so much information that \neven the most specific cues are likely to be relevant to some stored information, so the failure of such cues to reliably prompt retrieval \nsuggests it is difficult to divorce component parts (of complex cues and/or memories) from their context.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.004669189453125,
+        164.39979553222656,
+        507.60906982421875,
+        292.4601745605469
+      ],
+      "text": "Aside from the superiority of question cues, cues that provided visual imagery (photos and videos) produced more memories than \nthose that did not (words), but only in young adults. This is consistent with previous studies showing that high-imagery words produce \nfaster responses than low-imagery words (e.g., Rubin & Schulkind, 1997; Uzer, 2016), though direct comparison of word and photo \ncues on the retrieval of involuntary AMs shows the opposite effect (Mazzoni et al., 2014). It is also broadly consistent with studies \nshowing the general superiority of verbal versus visual processing in older adults (e.g., Murre et al., 2013; Park et al., 2002). In \nExperiment 1 it was difficult to isolate effects of visual imagery both from cue subtype (e.g., event vs. evaluative) and from the amount \nof information in the cue. In the analysis in Study 2, visual cues were more strongly associated with the concepts of travel and \nchildhood, both of which were related to higher rates of retrieval overall, and may have been more salient for younger vs. older adults \n(see, for example, correlations between childhood cues and retrieval rates in young adults, even for non-visual cues; Supplementary \nFile 6; https://osf.io/rnvqy/). Thus, it is not clear whether photos and videos produced a relatively larger number of memories in \nyoung adults because of the visual imagery they contained, or because they prompted participants to think about more autobio­\ngraphically relevant concepts.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        289.91693115234375,
+        507.6106872558594,
+        418.03387451171875
+      ],
+      "text": "An alternative explanation is that older adults’ retrieval may have suffered disproportionately from the inclusion of additional \ndetails in the visual cues, relative to word cues, that might reduce the overlap between the cue and stored memory representations (see \nMazzoni et al., 2014, for a discussion of this idea). To illustrate, consider a participant who lives in the UK who, when presented with \nthe word beach, brings to mind concepts such as cold, grey, windswept, pebbles, fish and chips, based on many personally experienced \ntrips to the seaside. This would be in stark contrast to the imagery present in a photograph of a tropical beach with white sand and palm \ntrees, which shares very few features with the average beach in UK. Consequently, when presented with such a photograph, the \nhypothetical UK participant might arrive at a memory about a beach via the effortful inhibition of the tropical imagery that does not \noverlap with their personal experience. This example highlights the challenge of making inferences based on participants’ behaviour, \nwhen it is not known how different cues are interpreted. One potential avenue for future study is to analyse the content of memories \nretrieved in response to different cues, which may shed more light on the nature of retrieval processing. For example, do cues con­\ntaining visual imagery produce memories with more descriptions of imagery, or do they tend to produce memories with particular \nthemes?\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.00469970703125,
+        415.4340515136719,
+        507.609130859375,
+        553.982177734375
+      ],
+      "text": "The discussion above relates primarily to retrieval rates, however the present study also collected data on some of the charac­\nteristics of retrieved memories. In general, the format in which cues were presented did not affect the rated importance, rehearsal, \nvividness, or age at encoding of the retrieved memories. However, these ratings were affected by cue subtype/theme. For example, in \nExperiment 1, cues that were specifically intended to promote autobiographical reflection (e.g., evaluative questions, words, and \nsentences) produced memories that were rated as relatively important and well-rehearsed, compared to memories prompted by other \ncues. Similarly, Study 2 showed that cues related to people, childhood, and positive (but not negative) emotions also tended to produce \nmemories that were more important, well-rehearsed, and vivid. The same was also found for cues that were vague or had many \ndifferent possible interpretations, despite these cues being relatively poorer at triggering retrieval. These findings raise an interesting \ncontrast: the memories that come to mind most readily (e.g., in response to event cues in Experiment 1 and location cues in Study 2) \nappear to be somewhat more superficial than those that are comparatively harder to retrieve (e.g., evaluative cues in Experiment 1 and \nvague cues with many meanings in Study 2). An important consideration when measuring AM, therefore, is how to balance potential \nconflict between different goals in AM: on one hand fluency, or the ability/ease with which memories come to mind, and on the other \nhand the autobiographical importance of the memories.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.00469970703125,
+        561.9834594726562,
+        93.331298828125,
+        575.0145874023438
+      ],
+      "text": "7. Conclusion\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.004638671875,
+        582.9033813476562,
+        507.60675048828125,
+        690.0438842773438
+      ],
+      "text": "Cues varied dramatically in their ability to trigger autobiographical memory recall. Data from the present study suggest that the \nfactor most predictive of retrieval success (in terms of retrieval fluency) was the extent to which cues minimise the requirement for \nexecutive processing, though further research is needed to test this hypothesis directly. Cues that contained more information tended \nto be poor at prompting AM retrieval, perhaps due to excessive constraints placed on the autobiographical search space, or due to \ndiffuse activation of a large number of candidate memories, requiring additional executive capacity to resolve interference. In general, \nyoung and older adults responded to cues in similar ways. Cue meaning or theme also influenced AM retrieval (in terms of the kinds of \nmemories that were retrieved), with data indicating that the cues that mostly readily triggered retrieval were associated with memories \nthat were more superficial and less autobiographically important. This could have important implications for explaining factors such as \nthe amount of detail participants are able to recall about retrieved events (memory elaboration), which may also be affected, in turn, \nby the kinds of memories that are retrieved. This study is accompanied by open data, including details of all memories retrieved by \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.08704376220703
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        268.3800048828125,
+        699.6494750976562,
+        277.42755126953125,
+        710.0789794921875
+      ],
+      "text": "14 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        49.31474685668945,
+        507.5756530761719,
+        72.83370971679688
+      ],
+      "text": "participants, and it is hoped that this descriptive resource will provide opportunities for other researchers to explore autobiographical \nmemory retrieval in different ways.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        81.06204223632812,
+        200.94277954101562,
+        94.09315490722656
+      ],
+      "text": "CRediT authorship contribution statement\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        101.98196411132812,
+        507.578857421875,
+        125.4443359375
+      ],
+      "text": "Ali Mair: Writing – review & editing, Writing – original draft, Visualization, Project administration, Methodology, Investigation, \nFunding acquisition, Formal analysis, Data curation, Conceptualization.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        39.00469970703125,
+        134.7494354248047,
+        168.8192901611328,
+        147.78054809570312
+      ],
+      "text": "Declaration of Competing Interest\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        39.00469970703125,
+        155.6693572998047,
+        507.5931396484375,
+        179.18832397460938
+      ],
+      "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to \ninfluence the work reported in this paper.\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        39.00469970703125,
+        188.49420166015625,
+        112.8476791381836,
+        201.5253143310547
+      ],
+      "text": "Acknowledgements\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        39.00469970703125,
+        209.413330078125,
+        507.5860290527344,
+        232.93309020996094
+      ],
+      "text": "I would like to thank my mentor, Professor Mike Burton at the University of York, United Kingdom, for support during development \nof this study. This work was supported by a British Academy, United Kingdom, Postdoctoral Fellowship (PF19\\100083).\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        39.00469970703125,
+        240.8210906982422,
+        102.51285552978516,
+        253.85220336914062
+      ],
+      "text": "Data availability\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        50.966224670410156,
+        261.74102783203125,
+        226.55313110351562,
+        274.7721252441406
+      ],
+      "text": "Data are open, and linked to from the manuscript\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        39.00469970703125,
+        284.0772399902344,
+        80.21807861328125,
+        297.10833740234375
+      ],
+      "text": "References\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        39.00469970703125,
+        304.35540771484375,
+        505.1534118652344,
+        426.3499450683594
+      ],
+      "text": "Addis, D. R., Wong, A. T., & Schacter, D. L. (2008). Age related changes in the episodic simulation of future events. Psychological Science, 19, 33–41. https://doi.org/ \n10.1111/j.1467-9280.2008.02043.x\nAlea, N., & Bluck, S. (2007). I’ll keep you in mind: The intimacy function of autobiographical memory. Applied Cognitive Psychology, 21, 1091–1111.\nBelcher, J., & Kangas, M. (2013). Autobiographical memory specificity in response to emotion pictorial cues among non-clinical participants. Australian Journal of \nPsychology, 65, 250–257. https://doi.org/10.1111/ajpy.12027\nBelfi, A. M., Karlan, B., & Tranel, D. (2016). Music evokes vivid autobiographical memories. Memory, 24(7), 979–989. https://doi.org/10.1080/ \n09658211.2015.1061012\nBerntsen, D. (1998). Voluntary and involuntary access to autobiographical memory. Memory, 6(2), 113–141.\nBerntsen, D., Rasmussen, A. S., Miles, A., Nielsen, N. P., & Ramsgaard, S. (2017). Spontaneous or intentional? Involuntary versus voluntary episodic memories in older \nand younger adults. Psychology and Aging, 32, 192–201. https://doi.org/10.1037/pag0000157\nChu, S., & Downes, J. J. (2000). Long live Proust: The odour-cued autobiographical memory bump. Cognition, 75(2), B41–B50. https://doi.org/10.1016/S0010-0277 \n(00)00065-2\nClarys, D., Bugaiska, A., Tapia, G., & Baudouin, A. (2009). Ageing, remembering, and executive function. Memory, 17, 158–168. https://doi.org/10.1080/ \n09658210802188301\nConway, M. A., & Pleydell-Pearce, C. W. (2000). The construction of autobiographical memories in the self-memory system. Psychological Review, 107(2), 261–288. \n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        39.00469970703125,
+        423.9194641113281,
+        505.1512145996094,
+        585.7706909179688
+      ],
+      "text": "https://doi.org/10.1037//0033-295X.107.2.261\nDror, I. E., & Kosslyn, S. M. (1994). Mental imagery and aging. Psychology and Aging, 9(1), 90–102.\nFerguson, H. J., Brunsdon, V. E. A., & Bradford, E. E. F. (2021). The developmental trajectories of executive function from adolescence to old age. Scientific Reports, 11, \n1382. https://doi.org/10.1038/s41598-020-80866-1\nFjell, A. M., Sneve, M. H., Grydeland, H., Storsve, A., & Walhovd, K. B. (2017). The disconnected brain and executive function decline in aging. Cerebral Cortex, 27(3), \n2303–2317. https://doi.org/10.1093/cercor/bhw082\nFord, J. H., Rubin, D. C., & Giovanello, K. S. (2014). Effects of task instruction on autobiographical memory specificity in young and older adults. Memory, 22(6), \n722–736. https://doi.org/10.1080/09658211.2013.820325\nGardner, R. S., Mainetti, M., & Ascoli, G. A. (2015). Older adults report moderately more detailed autobiographical memories. Frontiers in Psychology, 6, 631. https:// \ndoi.org/10.3389/fpsyg.2015.00631\nGoddard, L., Pring, L., & Felmingham, N. (2005). The effects of cue modality on the quality of personal memories retrieved. Memory, 13(1), 79–86. https://doi.org/ \n10.1080/09658210344000594\nGorillaTM, https://gorilla.sc/ ; data collected in September 2021.\nGuler, O. E., & Mackovichova, S. (2019). The role of executive function in autobiographical memory retrieval: Does the type of cue word matter? Memory, 27(4), \n423–430. https://doi.org/10.1080/09658211.2018.1513040\nGuly´as, E., Gombos, F., Süt¨ori, S., Lovas, A., Ziman, G., & Kov´acs, I. (2022). Visual imagery vividness declines across the lifespan. Cortex, 154, 365–374. https://doi. \norg/10.1016/j.cortex.2022.06.011\nGurguryan, L., Yang, H., K¨ohler, S., & Sheldon, S. (2024). Lifetime familiarity cue effects for autobiographical memory. Psychological Research Psychologische \nForschung, 88(5), 1456–1470. https://doi.org/10.1007/s00426-024-01968-3\nHarris, C. B., & Berntsen, D. (2019). Direct and generative autobiographical memory retrieval: How different are they? Consciousness and Cognition, 74, Article 102793. \n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        39.004966735839844,
+        583.2835083007812,
+        505.1540222167969,
+        689.3478393554688
+      ],
+      "text": "https://doi.org/10.1016/j.concog.2019.102793\nHassabis, D., & Maguire, E. A. (2007). Deconstructing episodic memory with construction. Trends in Cognitive Sciences, 11(7), 299–306. https://doi.org/10.1016/j. \ntics.2007.05.001\nHerz, R. S., & Schooler, J. S. (2002). A naturalistic study of autobiographical memories evoked by olfactory and visual cues: Testing the Proustian hypothesis. The \nAmercian Journal of Psychology, 115(1), 21–32.\nJakubowski, K., & Francini, E. (2023). Differential effects of familiarity and emotional expression of musical cues on autobiographical memory properties. Quarterly \nJournal of Experimental Psychology, 76(9), 2001–2016. https://doi.org/10.1177/17470218221129793\nKirk, M., & Berntsen, D. (2018). A short cut to the past: Cueing via concrete objects improves autobiographical memory retrieval in Alzheimer’s disease patients. \nNeuropsychologia, 110, 113–122. https://doi.org/10.1016/j.neuropsychologia.2017.06.034\nKoppel, J., & Berntsen, D. (2015). The peaks of life: The differential temporal locations of the reminiscence bump across disparate cueing methods. Journal of Applied \nResearch in Memory and Cognition, 4(1), 66–80. https://doi.org/10.1016/j.jarmac.2014.11.004\nKyung, Y., Yanes-Lukin, P., & Roberts, J. E. (2015). Specificity and detail in autobiographical memory: Same or different constructs? Memory. https://doi.org/ \n10.1080/09658211.2014.1002411\n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        39.004966735839844,
+        31.649438858032227,
+        508.5094909667969,
+        42.092628479003906
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        268.3800048828125,
+        699.6494750976562,
+        277.42755126953125,
+        710.0789794921875
+      ],
+      "text": "15 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        39.00469970703125,
+        50.14444351196289,
+        505.1512145996094,
+        323.5640563964844
+      ],
+      "text": "Levine, B., Svoboda, E., Hay, J. F., Winocur, G., & Moscovitch, M. (2002). Aging and autobiographical memory: Dissociating episodic from semantic retrieval. \nPsychology and Aging, 17(4), 677–689. https://doi.org/10.1037//0882-7974.17.4.677\nMace, J. H., Staley, B. J. A., & Sopoci, M. K. (2021). When trying to recall our past, all roads lead to Rome: More evidence for the multi-process retrieval theory of \nautobiographical memory. Memory & Cognition, 49, 438–450. https://doi.org/10.3758/s13421-020-01099-1\nMair, A., Poirier, M., & Conway, M. A. (2017). Supporting older and younger adults’ memory for recent everyday events: A prospective sampling study using \nSenseCam. Consciousness and Cognition, 49, 190–202. https://doi.org/10.1016/j.concog.2017.02.008\nMair, A., Poirier, M., & Conway, M. A. (2021). Age effects in autobiographical memory depend on the measure. PLoS One1, 16(10), Article e0259279. https://doi.org/ \n10.1371/journal.pone.0259279\nMair, A., Poirier, M., & Conway, M. A. (2024). Nonepisodic autobiographical memory details reflect attempts to tell a good story. Psychology and Aging, 39(4), \n391–399. https://doi.org/10.1037/pag0000805\nMarkostamou, I., Randall, C., & Kvavilashvili, L. (2023). Dissociations between directly and generatively retrieved autobiographical memories: Evidence from ageing. \nMemory, 31(7), 931–947. https://doi.org/10.1080/09658211.2023.2212921\nMazzoni, G., Vannucci, M., & Batool, I. (2014). Manipulating cues in involuntary autobiographical memory: Verbal cues are more effective than pictorial cues. \nMemory & Cognition, 42, 1076–1085. https://doi.org/10.3758/s13421-014-0420-3\nMiles, A. N., & Berntsen, D. (2011). Odour-induced mental time travel into the past and future: Do odour cues retain a unique link to our distant past? Memory, 19(8), \n930–940.\nMorcom, A. M. (2016). Mind over memory: Cuing the Aging Brain. Current Directions in Psychological Science, 25(3), 143–150. https://doi.org/10.1177/ \n0963721416645536\nMoscovitch, M. (1992). Memory and working-with-memory: A component process model based on modules and central systems. Journal of Cognitive Neuroscience, 4 \n(3), 257–267.\nMurre, J. M. J., Janssen, S. M. J., Rouw, R., & Meeter, M. (2013). The rise and fall of immediate and delayed memory for verbal and visuospatial information from late \nchidlhood to adulthood. Acta Psychologica, 142(1), 96–107. https://doi.org/10.1016/j.actpsy.2012.10.005\nNairne, J. S. (2002). The myth of the encoding-retrieval match. Memory, 10(5/6), 389–395.\nPark, D. C., Lautenschlager, G., Hedden, T., Davison, N. S., & Smith, A. D. (2002). Models of visuospatial and verbal memory across the adult life span. Psychology and \nAging, 17(2), 299–320.\nPiolino, P., Desgranges, B., Taconnat, L., Isingrini, M., & Eustache, F. (2006). Autobiographical memory, autonoetic consciousness, and self-perspective in aging. \nPsychology and Aging, 21(3), 510–525.\nRasmussen, K. W., & Berntsen, D. (2014). “I can see clearly now”: The effect of cue imgeability on mental time travel. Memory & Cognition, 42, 1063–1075. https://doi. \norg/10.3758/s13421-014-0414-1\nRidout, N., Dritschel, B., Matthews, K., & O’Carroll, R. O. (2016). Autobiographical memory specificity in response to verbal and pictorial cues in clinical depression. \nJournal of Behavior Therapy and Experimental Psychiatry, 51, 109–115. https://doi.org/10.1016/j.jbtep.2016.01.002\nRobin, J. (2018). Spatial scaffold effects in event memory and imagination. Wiley Interdisciplinary Reviews: Cognitive Science, 9(4), e1462.\nRubin, D. C., & Schulkind, M. D. (1997). Properties of word cues for autobiographical memory. Psychological Reports, 81, 47–50.\nRubin, D. C., & Umanath, S. (2015). Event memory: A theory of memory for laboratory, autobiographical, and fictional events. Psychological Review, 122(1), 1–23. \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        39.00469970703125,
+        321.1335754394531,
+        505.1544189453125,
+        546.7620239257812
+      ],
+      "text": "https://doi.org/10.1037/a0037907\nRubin, D. C. (2005). A basic-systems approach to autobiographical memory. Current Directions in Psychological Science, 14(2), 79–83. https://doi.org/10.1111/j.0963- \n7214.2005.00339.x\nMcVeigh, K. S., Deffner, A. M., Hernandez, D. A., Sbarra, D., Andrews-Hanna, J., Mehl, M. R., & Grilli, M. D. (2025; preprint). In here and out there: evidence that age- \nrelated differences in memory specificity are attenuated in natural social conversations.Open Science Framework. https://osf.io/5h9bq/files/osfstorage.\nRubin, D. C. (2012). The basic systems model of autobiographical memory. In. D. Berntsen & D. C. Rubin (Eds.), Understandning autobiographical memory (pp. 11-32).\nSalthouse, T. A. (1996). The processsing-speed theory of adult age differences in cognition. Psychological Review, 103(3), 403–428.\nSchlagman, S., & Kvavilashvili, L. (2008). Involuntary autobiographical memories in and outside the laboratory: How different are they from voluntary \nautobiographical memories? Memory & Cognition, 36(5), 920–932. https://doi.org/10.3758/mc.36.5.920\nSchnitzspahn, K. M., Kvavilahsvili, L., & Altgassen, M. (2020). Redefining the pattern of age-prospective memory-paradox: New insights on age effects in lab-based, \nnaturalistic, and self-assigned tasks. Psychological Research Psychologische Forschung, 84(5), 1370–1386. https://doi.org/10.1007/s00426-018-1140-2\nSchryer, E., & Ross, M. (2014). Does the age-related positivity effet in autobiographical recall reflect differences in appraisal or memory? Journals of Gerontology, Series \nB: Psychological Sciences and Social Sciences, 69(4), 548–556. https://doi.org/10.1093/geronb/gbt047\nSchulkind, M. D., & Woldorf, G. M. (2005). Emotional organization of autobiographical memory. Memory & Cognition, 33(6), 1025–1035.\nSheldon, S., & Chu, S. (2017). What versus where: Investigating how autobiographical memory retrieval differs when accessed with thematic versus spatial \ninformation. Quarterly Journal of Experimental Psychology, 70(9), 1909–1921. https://doi.org/10.1080/17470218.2016.1215478\nSheldon, S., Williams, K., Harrington, S., & Otto, A. R. (2020). Emotional cue effects on accessing and elaborating upon autobiographical memories. Cognition, 198, \nArticle 104217. https://doi.org/10.1016/j.cognition.2020.104217\nTulving, E. (1979). Relation between encoding specificity and levels of processing. In L. S. Cermak, & F. I. M. Craik (Eds.), Levels of processing in human memory (pp. \n405–428). Hillsdale, NJ: Lawrence Erlbaum Inc. \nUzer, T., & Brown, N. R. (2017). The effect of cue content on retrieval from autobigraphical memory. Acta Psychologica, 172, 84–91. https://doi.org/10.1016/j. \nactpsy.2016.11.012\nUzer, T. (2016). Retrieving autobiographical memories: How different retrieval strategies associated with different cues explain reaction time differences. Acta \nPsychologica, 164, 144–150. https://doi.org/10.1016/j.actpsy.2016.01.004\nVrani´c, A., Jeli´c, M., & Tonkovi´c, M. (2018). Functions of autobiographical memory in young and older adults. Frontiers in Psychology, 9, 219. https://doi.org/ \n10.3389/fpsyg.2018.00219\nWillander, J., & Larsson, M. (2007). Olfaction and emotion: The case of autobiographical memory. Memory & Cognition, 35(7), 1659–1663. https://doi.org/10.3758/ \nbf03193499\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        39.00469970703125,
+        31.649438858032227,
+        508.5094909667969,
+        42.087852478027344
+      ],
+      "text": "A. Mair                                                                                                                                                                                                                   \nConsciousness and Cognition 138 (2026) 103983 \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        268.3800048828125,
+        699.6494750976562,
+        277.42755126953125,
+        710.0789794921875
+      ],
+      "text": "16 \n",
+      "type": 0
+    }
+  ]
+]

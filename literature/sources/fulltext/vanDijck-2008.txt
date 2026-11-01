@@ -1,0 +1,863 @@
+UvA-DARE (Digital Academic Repository)
+
+
+
+
+Digital photography: communication, identity, memory
+
+van Dijck, J.
+DOI
+10.1177/1470357207084865
+Publication date
+2008
+Document Version
+Author accepted manuscript
+Published in
+Visual Communication
+
+
+
+Link to publication
+
+
+Citation for published version (APA):
+van Dijck, J. (2008). Digital photography: communication, identity, memory. Visual
+Communication, 7(1), 57-76. https://doi.org/10.1177/1470357207084865
+
+
+
+
+General rights
+It is not permitted to download or to forward/distribute the text or part of it without the consent of the author(s)
+and/or copyright holder(s), other than for strictly personal, individual use, unless the work is under an open
+content license (like Creative Commons).
+
+
+Disclaimer/Complaints regulations
+If you believe that digital publication of certain material infringes any of your rights or (privacy) interests, please
+let the Library know, stating your reasons. In case of a legitimate complaint, the Library will make the material
+inaccessible and/or remove it from the website. Please Ask the Library: https://uba.uva.nl/en/contact, or a letter
+to: Library of the University of Amsterdam, Secretariat, P.O. Box 19185, 1000 GD Amsterdam, The Netherlands.
+You will be contacted as soon as possible.
+
+UvA-DARE is a service provided by the library of the University of Amsterdam (https://dare.uva.nl)
+
+
+Download date:22 Oct 2026
+                                                                                                1
+
+Forthcoming in: Visual Communication, Vol. 7, (2008), p. 57-76.
+===============================================================
+Digital Photography: Communication, Identity, Memory.
+José van Dijck
+(j.van.dijck@uva.nl)
+
+Abstract
+
+Taking photographs seems no longer primarily an act of memory intended to safeguard
+family’s pictorial heritage, but is increasingly becoming a tool for an individual’s identity
+formation and communication. Digital cameras, cameraphones, photoblogs and other
+multipurpose devices seem to promote the use of images a the preferred idiom of a new
+generation of users. This article’s aim is to explore how technical changes (digitization) in
+connection to growing insights in cognitive science and to socio-cultural transformations,
+have affected personal photography. The increased malleability of photographic images may
+suit one’s need for continuous self-remodeling and instant communication and bonding.
+However, that same manipulability may also lessen our grip on our images’ future
+repurposing and reframing. Memory will not be eradicated from digital multipurpose tools.
+Instead, the function of memory reappears in the networked, distributed nature of digital
+photographs, as most images are sent over the internet and stored in virtual space.
+
+Key words:
+
+Photography, memory, digital technology, visual culture, identity formation, Abu Ghraib
+pictures
+
+Word count: 6.927
+
+About the author:
+José van Dijck is a Professor of Media and Culture at the University of Amsterdam (The
+Netherlands) and chair of the Media Studies department. She is the author of Manufacturing
+Babies and Public Consent. Debating the New Reproductive Technologies (New York: New
+York University Press) and ImagEnation. Popular Images of Genetics (New York: New York
+University Press, 1998). Her latest book is titled The Transparent Body. A Cultural Analysis
+of Medical Imaging (Seattle: University of Washington Press, 2005). Her research areas
+include media and science, (digital) media technologies, and television and culture. This
+article is part of a book tentatively titled Mediated Memories in the Digital Age (Stanford
+University Press, forthcoming)
+
+=================================================
+                                                                                                2
+
+
+Digital Photography: Communication, Identity, Memory.
+
+
+José van Dijck
+University of Amsterdam
+
+
+
+Introduction
+
+
+A student recently told me about an interesting experience. She and four friends had been
+hanging out in her dormitory room, telling jokes and poking fun. Her roommate had taken the
+student’s camera phone to take a picture of the group, laying in various relaxed positions on
+the couch. That same evening, the student had posted the picture on her photoblog—a blog
+she regularly updated to keep friends and family informed about her daily life in college. The
+next day she received an e-mail from her roommate; upon opening the attached jpg-file she
+found the same picture of herself and her friends on the couch, but now they were portrayed
+with dozens of empty beer cans and wine bottles piled up on the coffee table in front of them.
+Her dismay caused by this unauthorized act of photoshopping only aggravated when she
+noticed the doctored pictured was mailed around to a long list of peers, including some people
+she had never met or only vaguely knew. When confronting her roommate with the potential
+consequences of her action, they engaged in a heated discussion about the innocence of
+manipulating pictures and sending them around (‘everybody will see this is a joke’) vis-à-vis
+the incriminating potential of photographs (‘not everyone may recognize the manipulation’)
+which impact might be less transitory than we think (‘these pictures may show up endlessly’).
+       In recent years, the role and function of western digital photography seem to have
+changed substantially. 1 In the analogue age, personal photography was first and foremost a
+means for autobiographical remembering, and photographs usually ended up as keepsakes in
+someone’s (family) album or shoebox. 2 They were typically regarded to be a person’s most
+reliable aid for recall and for verifying ‘life as it was,’ even if we know that imagination,
+projection, and remembrance are inextricably bound up in the process of remembering
+(Stuhlmiller, 1996). Photography’s functions as a tool for identity formation and as a means
+for communication were duly acknowledged, but were always rated secondary to its prime
+purpose of memory (Sontag 1973; Barthes, 1981). Recent research by anthropologists,
+sociologists, and psychologists seems to suggest that the increased deployment of digital
+cameras—including cameras integrated in other communication devices—favors the
+                                                                                                   3
+
+functions of communication and identity formation at the expense of photography’s use as a
+tool for remembering. (Harrison, 2002; Schiano, Chen and Isaacs, 2002; Gary and Gerrie,
+2005). Although it is undeniable that the functions of photography as communication and
+identity formation have gained importance, I will argue in this article that photography’s
+function as a memory tool is still equally vibrant, even if its manifestation is changing in the
+digital era.
+         Before starting this argument, it is necessary to point out a few misguided assumptions
+we often encounter when tackling this subject. First, communication and identity formation
+are not novel uses, but have always been intrinsic functions of photography, also in the
+analogue days. Indeed, a younger generation seems to increasingly use digital cameras for
+‘live’ communication, instead of storing pictures of ‘life.’ Easy distribution of images over the
+internet and quick dissemination via personal handheld devices promote pictures as the
+preferred idiom in mediated communication practices. But what are the implications of this
+transformed use of photography as a memory tool? Second, personal photography has not
+changed as a result of digital technologies; the changing function of photography is part of a
+complex technological, social and cultural transformation. As the student’s anecdote
+illustrates, digitization is often considered the culprit of photography’s growing unreliability
+as a tool for remembrance, but in fact, the camera has never been a dependable aid for storing
+memories, and photographs have always been twitched and tweaked in the process of
+recollection. Digital photography raises several intriguing questions concerning manipulation
+and cognitive editing: what is the power of digital tools in sculpting identity? How do we
+gauge new features that help us brush up our pictures and make our memories picture perfect?
+It is simply not true that digital photography has eradicated the camera’s function as a tool for
+memory. Instead, the function of memory reappears in the networked, distributed nature of
+digital photographs, as most images are sent over the wires and end up somewhere in virtual
+space.
+         This article’s aim, then, is to show how technical changes, in connection to growing
+insights in cognitive science and to socio-cultural transformations, have affected personal
+photography’s role in communication, the shaping of identity, and memory. Underlying this
+argument is the recurring issue of control versus a lack of control. Part of the digital camera’s
+popularity can be explained by an increased command over the outcome of pictures now that
+electronic processes allow for greater manipulability, and yet the flipside is that pictures can
+also be easily manipulated by everyone with the appropriate toolbox. A similar paradox can
+be noticed with regards to the distribution of personal pictures. While the internet allows for
+                                                                                                   4
+
+quick and easy sharing of private snapshots, that same tool also renders them vulnerable to
+unauthorized distribution. Ironically, the picture taken by the roommate as a token of instant
+and ephemeral communication may live an extended life on the internet, turning up in
+unexpected contexts many years from now. As will be argued in the last section, the increased
+malleability of photographic images may suit one’s need for continuous self-remodeling, but
+that same flexibility may also lessen our grip on our images’ future repurposing and
+reframing, forcing us to acknowledge the distributed presence of pictorial memory.
+
+
+Live Pictures: Personal photography as tools for communication and experience
+
+
+When personal photography came of age in the nineteenth and twentieth centuries, it
+gradually emerged as a social practice that revolved around families wanting to save their
+memories of past experiences in material pictorial forms for future reference or communal
+reminiscing. Yet from the early days of photography, we could already distinguish social uses
+complementary to its primary function. Photography always also served as an instrument of
+communication and as a means to share experience. As Susan Sontag argued in 1973, the
+tourist’s compulsion to take snapshots of foreign places reveals how taking pictures can
+become paramount to experiencing an event; at the same time, communicating experiences
+with the help of photographs is an integral part of tourist photography. Notwithstanding the
+dominance of photography as a family tool for remembrance and reminisce, the other
+functions were immanent to photography from the moment it became popular as a domestic
+technology. In recent years, we can see profound shifts in the balance between these various
+social uses: from family to individual use, from memory tools to communication devices, and
+from sharing (memory) objects to sharing experiences. I will subsequently elucidate each of
+these profound shifts.
+        The social significance and cultural impact of personal photography grew
+exponentially in the past century: by the early 1970s, almost every American and western
+European household owned a photo camera. By the time sociologists and anthropologists
+began to acknowledge the significance of photography as a cultural rite of family life, Susan
+Sontag (1973: 8) took on the ethnographer’s cloak and described its meaning as a tool for
+recording family life: ‘Through photographs, each family constructs a portrait chronicle of
+itself—a portable kit of images that bears witness to its connectedness.’ Through taking and
+organizing pictures, individuals articulate their connections to, and initiation into, clans and
+groups, emphasizing ritualized moments of aging and of coming of age. Cameras go with
+                                                                                                5
+
+family life, Sontag observed: households with children are twice as likely to have at least one
+camera than households in which there are no children. Photography not simply reflected but
+constituted family life and structured an individual’s notion of belonging. Quite a number of
+sociological and anthropological studies have scrutinized the relationship between picture
+taking, organizing, and presenting photographs on the one side, and the construction of
+family, heritage, and kinship on the other (Hirsch, 1997; Holland, 1991; Chambers, 2001).
+       Over the past two decades, the individual has gradually become the nucleus of
+pictorial life. In her ethnographic study of how people connect personal photographs to
+memory and narration, anthropologist Barbara Harrison (2002: 107) observes that self-
+presentation—rather than family re-presentation—is now a major function of photographs.
+Harrison’s field study acquiesces a significant shift from personal photography being bound
+up with memory and commemoration towards pictures as a form of identity formation;
+cameras are used less for the remembrance of family life and more towards the affirmation of
+personhood and personal bonds. Since the 1990s, and most distinctively since the beginning
+of the new millennium, cameras increasingly serve as tools for mediating quotidian
+experiences other than rituals or ceremonial moments. Partly a technological evolution pushed
+by market forces, the social and cultural stakes in this transformation cannot be
+underestimated. When looking at current generations of users, researchers observe a
+watershed between adult users, large numbers of whom are now switching from analogue to
+digital cameras, and teenagers and young adults, who are growing up with a number of new
+digital multifunctional communication and media devices (Chiano, Chen and Isaacs, 2002;
+Liechti and Ichikawa, 2000). The older group generally adheres to the primacy of
+photography as a memory tool, particularly in the construction of family life, whereas
+teenagers and young adults use camera-like tools for conversation and peer-group building.
+       This distinctive swing in photography’s use also shows up in ethnographic
+observations of teenage-patterns of taking and managing pictures. One American study
+focusing on a group of teens between 14 and 19 years of age reports a remarkable
+incongruence between what teenagers say they value in photography and how they behave:
+while most of them describe photos as permanent records of their lives, their behavior reveals
+a preference for photography as social communication (Schiano, Chen, and Isaacs, 2002).
+Showing pictures as part of conversation or reviewing pictures to confirm social bonds
+between friends appears more important than organizing photos in albums and looking at
+them—an activity they consider their parents’ domain. Photos are shared less in the context of
+family and home, and more in peer-group environments: schools, clubs, friends’ houses.
+                                                                                                    6
+
+Other studies note how teens regard pictures as circulating messages, an interactive exchange
+in which personal photographs casually mix public images, such as magazine pictures,
+drawings, and text (Liechti and Ichikawa, 2000).
+       Part of this change is reflected in the popularity of new technologies. In terms of
+hardware, the single-purpose camera for taking still pictures gives way to multifunctional
+appliances, combining the camera function with the personal digital assistant (PDA), the
+mobile phone, MP3 players, and global positioning devices. These emerging digital tools
+substantially affect the way people socialize and interact, and by extension, the way they
+maintain and consolidate relationships. The so-called cameraphone permits entirely new
+performative rituals, such as shooting a picture at a live concert and instantly mailing these
+images to a friend. But we also see this change reflected in terms of software. 3 In the past
+three years, photoblogs have become popular as an internet-based technology—a type of blog
+that adds photographs to text and hyperlinks in the telling of stories. A photoblog, rather than
+being a digital album, elicits entirely different presentational uses: college students use it to
+keep their distant loved ones updated about their daily life, but individuals may also use a
+photoblog to start their own online photo gallery. Photobloggers prefer to profile themselves
+in images rather than words (Cohen, 2005).
+       Whereas their parents invested considerable time and effort in building up material
+collections of pictures for future reference, youngsters appear to take less interest in sharing
+photographs as objects than in sharing them as experiences (Kindberg, Spasojevic, Fleck and
+Sellen, 2005). The rapidly increasing popularity in the use of cameraphones supports and
+propels this new communicative deployment of personal photography. Pictures sent around
+by a cameraphone are used to convey a brief message, or merely to show affect. ‘Connecting’
+or ‘getting in touch’ rather than ‘reality capturing’ or ‘memory preservation,’ are the social
+meanings transferred onto this type of photography. Whereas parents and/or children used to
+sit on the couch together flipping through photo-albums, most teenagers consider their
+pictures to be temporary reminders rather than permanent keepsakes. Phone-photography
+gives rise to a cultural form reminiscent of the old-fashioned postcard: snapshots with a few
+words attached that are mostly valued as ritual signs of (re)connection (Lehtonen, Koskinen,
+and Kurvinen, 2002). Like postcards, cameraphone pictures are meant to throw away after
+they are received.
+       Not coincidentally, the cameraphone merges oral and visual modalities—the latter
+seemingly adapting to the former. Pictures become more like spoken language as photographs
+are turning into the new currency for social interaction. Pixeled images, like spoken words,
+                                                                                                   7
+
+circulate between individuals and groups to establish and reconfirm bonds. Sometimes
+pictures are accompanied by captions that form the ‘missing voice’ explaining the picture. For
+instance, a concert visitor takes a picture of her favorite band’s performance, adds the word
+‘awesome’ and immediately sends off the message to her friends back home. Cameraphone
+pictures are a way of touching base: Picture this, here! Picture me, now! What makes camera
+phones different from the single-purpose camera is the medium’s ‘verbosity’—the inflation of
+images inscribed in the apparatus’s script. When pictures become a visual language channeled
+by a communication medium, the value of individual pictures decreases, while the general
+significance of visual communication augments. A thousand pictures sent over the phone may
+now be worth a single word: see! Taking, sending, and receiving photographs is a real time
+experience, and like spoken words, image exchanges are not meant to be archived (Van
+House, Davis, and Ames, 2005). In their bounty, photographs gain value as ‘moments,’ while
+losing value as mementos.
+       Clearly, we are witnessing a shift, especially among the younger generation, towards
+using photography as an instrument for peer-bonding and interaction. Digitization is not the
+cause of this trend; instead, the tendency to fuse photography with daily experience and
+communication is part of a broader cultural transformation that involves individualization and
+intensification of experience. The emphasis on individualism and personhood at the expense
+of family is a social pattern which roots can be traced back as far as the late 1960s and early
+1970s. The intensification of experience as a turn-of-the-millenium economic and social force
+has been theorized most acutely by American economists Pine and Gilmore; commercial
+products are increasingly marketed as memorable experiences engaging all five senses—sight,
+sound, touch, taste, smell—and packaged in snappy themes, as to prolong the contact zone
+between product and consumers (Pine and Gilmore, 1999). Digital photography is part of this
+larger transformation in which the self becomes the center of a virtual universe made up of
+informational and spatial flows; individuals articulate their identity as social beings not only
+by taking and storing photographs to document their lives, but by participating in communal
+photographic exchanges that mark their identity as interactive producers and consumers of
+culture.
+
+
+Pictures of Life: personal photography as a tool for identity formation.
+
+
+Besides their growing usage as tools for communication and experience, digital photo
+cameras have been touted as novel instruments of identity formation, particularly as they
+                                                                                                  8
+
+allow users to manipulate their own images. However, it should be noticed that photo cameras
+have always been important instruments for the shaping of self-identity. Some theorists have
+claimed that personal pictures equal identities (‘our pictures are us’), but this claim appears to
+understate the intricate cognitive, mental, social and cultural processes at work in identity
+formation (Chalfen, 2002). Roland Barthes (1981: 80) emphasized, in the late 1970s, the close
+interconnection between identity formation and memory: pictures of family and friends are
+visible reminders of former appearances, inviting us to reflect on ‘what has been,’ but by the
+same token, they tell us how we should remember our selves as younger persons. We remodel
+our self-image to fit the pictures taken at previous moments in time. Memories are made as
+much as they are recalled from photographs; our recollections never remain the same, even if
+the photograph appears to represent a fixed image of the past. And yet, we use these pictures
+not to ‘fix’ memory, but to constantly reassess our past lives and reflect on what has been as
+well as what is and what will be. Recollecting is not simply a revisionist project; anticipations
+of future selves inform retrograde projections, and these mental image maps, in turn, feed a
+desire to impact ‘external’ (camera) visions of our selves (Rose, 1992).
+       The role photographs play in the complex construction of one’s identity has been
+reflected upon in cognitive theory as well as in cultural theory, particularly semiotics.
+Cognitive psychologists have investigated the intriguing question of how photographs can
+influence our personal memories (Strange, Gerrie and Garry, 2005). The human mind actively
+produces visual autobiographical evidence through photographs, but also modifies it through
+pictures—cutting off estranged spouses or throwing away depressing images of themselves
+when they were still seriously overweight. Research has shown that people are also easily
+seduced into creating false memories of their pasts on the basis of unaltered and doctored
+pictures. In the early 1990s, researchers from America and New Zealand persuaded
+experimental subjects into believing false narratives about their childhood, written or told by
+family members and substantiated by ‘true’ photographs. 4 Over the next decade, these
+findings were corroborated by experiments in which doctored pictures were used; more than
+50% of all subjects constructed false memories out of old personal photographs that were
+carefully retouched to depict a scene that had never happened in that person’s life. 5 There is a
+continuing debate whether it is narratives or photographs (or a combination of both) that
+triggers most false memories, but the conclusion that people’s autobiographical memories are
+prone to either self-induced intervention or secret manipulation is well established (Garry and
+Wade, 2005). 6
+                                                                                                    9
+
+       The close interweaving of memory, imagination, and desire in creating a picture of
+one’s past life has also been subject to theoretical probing by cultural theorists, most notably
+Roland Barthes. When exploring the intricacies of the camera lucida, Barthes testifies to this
+complex loop of images-pictures informing desire-memory when describing the discomfort he
+feels the moment he succumbs to being the camera’s object. Having one’s photograph taken,
+as Barthes (1981: 13) observes, is a closed field of forces where four image-repertoires
+intersect: ‘the one that I think I am’ (the mental self-image); ‘the one I want others to think I
+am’ (the idealized self-image); ‘the one the photographer thinks I am’ (the photographed self-
+image); and ‘the one the photographer makes use of when exhibiting his art’ (the public self-
+image or imago). Whereas the first two levels represent the stages of mental, internal image
+processing, the third and fourth level refer to the external process of picture taking and
+presentation—the photographer’s frame of reference and cultural perspective. In contrast to
+psychologists, Barthes’ semiotic perspective emphasizes that cognition does not necessarily
+reside inside our brains, but extends into the social and cultural realm.
+       Barthes’ exploration of analogue photography elucidates how the four image-
+repertoires of self intersect and yet never match. They collide at various moments: at the
+instant of capturing, when ‘evaluating’ the outcome or photographed object, or while
+reminiscing at a later point in time, re-viewing the picture. When a picture is taken, we want
+those photographs to match our idealized self-image—flattering, without pimples, happy,
+attractive—so we attempt to influence the process by posing, smiling, or giving instructions to
+the photographer. At a later stage, we can try to encroach the outcome by selecting, refusing,
+or destroying the actual print. A photographed person exerts only limited control over the
+resulting picture. The photographer’s choice of frame and angle defines the portraiture, while
+the referent can still be further modified at the stage of development by applying retouching
+techniques. Roland Barthes obviously feels powerless in the face of the photographer’s
+decisions, lacking control over the image which he wants to equal his idealized self. Its fate is
+in the hands of the photographer who is taking the picture, and of the chemical, mechanical,
+and publishing forces involved in its ultimate materialization. Barthes’ discomfort signals a
+fundamental resentment about his inability to fashion pictures ‘in his own image.’ Since the
+four levels never coincide, photographs that depict oneself are profoundly alienating, even to
+the extent of giving the French philosopher a sense of imposture.
+       Paradoxically, Barthes perceives a lack of control over his photographed image and
+imago and yet he feels confident he can exert power over the mental and idealized images
+entering his mind. Although the experienced powerlessness over the photographer’s
+                                                                                               10
+
+perspective and the ‘black box’ of the camera vis-à-vis the assumed autonomy over his mental
+images and memories appears entirely plausible, neither perception can go undisputed. The
+photographed image—the desire to manipulate public imago—has never been outside the
+subject’s reach, on the contrary. Since the late 1840s, commercial portrait photographers have
+succumbed to their patron’s desire for idealized self-images the way painters did before the
+advent of photography: by adopting flattering perspectives and applying chemical magic.
+Vice versa, the subject’s power over images entering the mind may not be as manageable as it
+appears. Cultural ideals of physical appearance, displayed through photographs and evolving
+over time, often unconsciously influence the mind’s (idealized) images of self (Sontag 1973:
+85). Control over photographic images is hence not inscribed in the machine’s ontology, and
+neither does the mind have full sovereignty over the (cultural) images it allows to enter
+memory. Instead, control over one’s ‘self-portrait’ is a subtle choreography of the four image-
+repertoires, a balancing act in which photographic images ‘enculturate’ personal identity.
+       Now if we replace the analogue camera by a digital one, and laminated photos by
+pixeled shots, how would this affect the intertwining of mental-cognitive and cultural-material
+image processes in photography? When trying to answer this question, we are confronted with
+a conspicuous absence of interdisciplinary research in this area. None of the cognitive studies
+discussed above pay attention to ways in which individuals use digital photography to
+manipulate their own personal pictures and memory; the cultural, material, and technological
+aspects of memory morphing appear strikingly irrelevant to cognitive science. Striking
+because scientists often mention how their academic interest in manipulated pictures gains
+relevance in the face of a growing ubiquitous use of digital photography and its endless
+potential to reconstruct and retouch one’s childhood memories; skills once monopolized by
+Hollywood studios and advertising agencies are now within the reach of every individual who
+owns a ‘digital camera, image editing software computer, and the capacity to follow
+instructions’ (Gary and Gerrie, 2005: 237). 7 Mutatis mutandis, when turning to cultural
+theorists for enlightenment, their disregard of psychological and cognitive studies in this area
+is rather remarkable; semioticians and constructivists typically analyze the intricacies of
+technological devices to connect them to social and cultural agency. 8 Yet without
+acknowledging the profound interlacing of mental, technical, and cultural levels involved in
+digital photography, we may never understand the intricate connection between identity
+formation and photography.
+       It may be instructive to spell out a few significant differences between analogue and
+digital photography in terms of their (cognitive and technical) mechanisms. At first sight,
+                                                                                                11
+
+digital photography provides more access to the imaging process between the stages of taking
+the picture and looking at its printed result. Only seconds after its taking, the picture allows a
+‘sneak preview’ via the camera’s small screen. The display shows a tentative result, an image
+that can be deleted or stored. Since a sneak-preview allows the photographer to instantly share
+the results with the photographed subject, there is room for negotiation: the subject’s
+evaluation of her self-image may influence the next posture. A second moment of re-viewing
+takes place at the computer, in which images, stored as digital code, are susceptible to editing
+and manipulation. Besides selecting or erasing pictures, photo-paint software permits endless
+retouching of images—everything from cropping and color adjustment to brushing out red
+eyes and pimples. Beyond the superficial level, one can remove entire objects from the
+picture, such as unwanted decorations or add desirable features, such as sharper cheekbones
+or palm trees in the background.
+       Let’s be straight about one thing: digitization never caused manipulability or
+artificiality. Although some theorists of visual culture have earmarked manipulability as the
+feature that makes digital photography stand out from its analogue precursors, history
+bespeaks the contrary (Mitchell, 1992). Retouching and manipulation have always been
+inherent to the dynamics of photography (Manovich, 2001; Ritchin, 1999; Holland and Wells,
+…). What is new in digital photography is the increased number of possibilities to review and
+retouch one’s own pictures, first on a small camera screen and later on the screen of a
+computer. When pictures are taken by a digital camera, the subject may feel empowered to
+steer its outcome (the photographed or public image) because he or she may have access to
+stages formerly ‘black boxed’ by cameras, film roles, and chemical labs. Previews and
+reviews of the pixeled image, combined with easy-to-use photoshop software, undoubtedly
+seduce into pictorial enhancement. But does this increased flexibility cause the processes of
+photographic imaging and mental (or cognitive) editing to further entwine in the construction
+of identity? In other words, does image doctoring become an integral element of
+autobiographical remembering?
+       Of course, we have already become used to the prevailing use of the ‘camera pictura’
+with regards to the creation of public images. Since the 1990s, people no longer expect
+indexical fidelity to an external person when looking at photographic portraits, particularly
+those in advertising; almost by default, pictures in magazines, billboards, and many other
+public sources are retouched or enhanced. Digital ‘stock photography’ uses public images as
+resources or ‘input’ to be worked on by anyone who pays for their exploit (Frosh, 2003).
+Companies like Microsoft and Getty have anticipated the consequence of this evolution by
+                                                                                                12
+
+buying up large stocks of public images and selling them back to the public domain by
+licensing their ‘re-creation.’ From the culturally accepted modifiability of public images it is
+only a small step to accepting your own personal pictures to be mere ‘stock’ in the ongoing
+remodeling project of life’s pictorial heritage. The impact of editing software on the profiling
+of one’s personal identity is evident from many photoblogs and personal picture galleries on
+the internet. Enhancing color and beautifying faces is no longer the department of beauty
+magazines: individuals may now purchase photoshop software to brush up their cherished
+images. A large number of software packages allow users to restore their old, damaged and
+faded family pictures; in one and the same breath, they offer to upgrade your self-image. For
+instance, VisionQuest Images advertises its packages as technical aids to create a ‘digital
+masterpiece of your specification’; computer programs let you change everything in your
+personal appearance, from lip size to skin tint. 9 Examples of individuals who use these
+programs abound on the internet. 10 These instances divulge that the acceptability of
+photographic manipulation of someone’s personal photographs can hardly be separated from
+the normalized use of enhanced idealized images. Digital doctoring of private snapshots is
+just another stage in the eternal choreography of the (mental and cultural) image repertoires
+once identified by Roland Barthes.
+       The endless potential of digital photography to manipulate one’s self-image seems to
+make it the ultimate tool for identity formation. Whereas analogue photographs were often
+erroneously viewed as the ‘still’ input for ‘static’ images, digital pictures more explicitly
+serve as visual resources in a life-long project to reinvent one’s self-appearance. Software
+packages supporting the processing of personal photographs often bespeak the digital image’s
+status as a liminal object; pixeled photographs are touted as bricks of memory construction, as
+software is architecturally designed with future remodeling in mind. As Canadian design
+scholar Ron Burnett (2004: 28) eloquently phrases it: ‘The shift to the digital has shown that
+photographs are simply raw material for an endless series of digressions. … As images,
+photographs encourage viewers to move beyond the physical world even as they assert the
+value of memory, place, and original moments.’ I am not saying, though, that with the advent
+of digital photography people all of a sudden feel more inclined to photoshop their personal
+pictures stored in the computer. Neither am I arguing that mental imaging processes change as
+a result of having more access to intermediate layers of photographic imaging. My point is
+that the condition of modifiability, plasticity, and ongoing remodeling, equally informs—or
+should I say ‘enculturate’—all four image-repertoires involved in the construction of personal
+memory.
+                                                                                                  13
+
+         The condition of plasticity and modifiability, far from being exclusive to personal
+photography, resounds in diverging cultural, medical, and technological self-remodeling
+projects. Ultrasound images of fetuses—sneak previews into the womb—stimulate
+intervention in the biological fabric, turning the fetus into and object to be worked on (Van
+Dijck, 1995). Cosmetic surgery configures the human body as a physical resource amenable
+to extreme makeovers; before-and-after pictures structure not only subjective self-
+consciousness, but upon entering the public image repertoire, they concurrently ‘normalize’
+intervention in physical appearance. The most remarkable thing about before-and-after
+pictures abounding on the internet and on television these days is that they do not promote
+perpetual modification of our pictures to portray a better self, but advertise the potential to
+modify our bodies to match our idealized mental images. Contemporary notions of body,
+mind, appearance, identity, and memory seem to be equally informed by the cultural
+condition of perpetual modification; our new tools are only in tune with the mental flexibility
+to refashion self-identity and to morph corporeality. The question whether changing concepts
+of identity have followed from evolving technologies or the other way around is in fact
+besides the point. What is more important is to address how the new choreography of image-
+repertoires operates in a social and cultural climate that increasingly values modifiability and
+flexibility, and whether this climate indeed allows more individual control over one’s own
+image.
+
+
+Pictures for Life? Memory and photography in the digital age.
+
+
+From the above observations we are tempted to draw the conclusion that digital cameras are
+becoming tools for communication, experience, and identity formation, moving away from
+their formerly prime functions as memory tools. But even if accept that photography is
+increasingly regarded as an instrument for identity construction, rather than one for
+recollection or reflection, we can hardly conclude these newly foregrounded functions to
+annihilate photography’s commemorative function. Indeed, digital cameras give rise to new
+social practices in which pictures are considered visual resources in the ‘microcultures’ of
+everyday life (Burnett 2004: 62). Yet in these microcultures, memory does not so much
+disappear from the spectrum of social use as it gets a different form. In the networked reality
+of people’s everyday life, the default mode of personal photography becomes ‘sharing’. Few
+people realize that sharing experience by means of exchanging digital images almost by
+definition implies distributed storage: personal ‘live’ pictures sent around through the internet
+                                                                                               14
+
+may remain there for life, turning up in unforeseen contexts, reframed and repurposed. A well
+known example may clarify the meaning of distributed memory and demonstrate the
+intertwined meanings of personal and collective cultural memory: the Abu Ghraib pictures.
+       In May 2004, a series of the most horrific, graphic scenes of torture and violence used
+by American guards stationed at the Abu Ghraib prison against Iraqi detainees appeared in the
+press, and were subsequently disseminated through the internet. 11 Most pictures were made
+by prison guards and frequently featured two lower ranked members of the armed forces,
+Charles Graner and Lyndie England; they often posed thumbs up in front of individual or
+piled up prisoners who invariably showed signs of torture or sexual assault. The hundreds of
+pictures taken by prison guards of detainees communicate an arduous casualness in the act of
+photographing. Clearly, these picture were made by digital cameras (or cameraphones)
+deployed by army personnel as part of their daily work routines—perfectly in tune with the
+popular function of photography as a ritual of everyday communication. As Susan Sontag
+(2004: 26) poignantly describes in her essay on the case:
+
+
+       The pictures taken by American soldiers in Abu Ghraib reflect a recent shift in the use
+       made of pictures—less objects to be saved than messages to be disseminated,
+       circulated. A digital camera is a common possession among soldiers. Where once
+       photographing war was the province of photojournalists, now the soldiers themselves
+       are all photographers—recording their war, their fun, their observations of what they
+       find picturesque, their atrocities—and swapping images among themselves and e-
+       mailing them around the globe.
+
+
+Intentionally taken to be sent back home as triumphant trophies or to be mailed around to
+colleagues, the pictures were a social gesture of bonding and poaching. Some pictures
+allegedly served as screensavers on prison guards’ desktops, another sign of their function as
+‘office jokes’ to be understood by insiders only. The casualness and look-at-me-here
+enunciation of the Abu Ghraib photographs, conveyed by the uniformed men and women
+whose posture betrayed pride as if they had just caught a big fish, connotes the function of
+these pictures as symbolic resources for communication. The last thing these pictures were
+meant to be by their makers, were objects of lasting memory.
+       And yet, this is exactly how they ended up in the collective memory of the American
+people. Once interceded and published in newspapers and on television worldwide, they were
+reframed as evidence of the army’s abhorrent behavior as torturers posing triumphantly over
+                                                                                                15
+
+their helpless captives. The Abu Ghraib pictures became evidence in a military trial that
+incriminated the perpetrators responsible for the abuse shown in the pictures, but acquitted the
+invisible chain of command that obviously condoned such behavior. Perhaps most telling was
+the military’s response to the Abu Ghraib debacle. Rather than condemning the practice
+depicted by the images taken, the military subsequently ordered to ban personal photography
+from the work floor; pictures made for private use may no longer be taken outside
+penitentiaries. The ‘incident’ resulted in stricter communication regulations as well as a
+prohibition against taking and distributing personal photographs on military premises.
+       Ironically, pictures that were casually mailed off as ephemeral ‘postcards’, meant to be
+thrown away after reading the message, became a permanent engraving in the consciousness
+of a generation; pictures sent with a communicative intent ended up in America’s collective
+cultural memory as painful visual evidence of its military’s hubris. The awareness that any
+picture unleashed on the internet can be endlessly recycled may lead to a new attitude in
+taking pictures: anticipating future reuse, photographs are no longer innocent personal
+keepsakes, but they are potential liabilities in someone’s personal life or professional career.
+The lesson learned from the Abu Ghraib pictures—beyond their horrendous political
+message—is that personal digital photography can hardly be confined to private ‘grounds’;
+embedded in networked systems, pictorial memory is forever distributed, perpetually stored in
+the endless maze of virtual life.
+       The digital evolution that has shaped personal photography is anything but an
+exclusive technological transformation. Rather, the shift in use and function of the camera
+seems to suit a more general cultural condition that may be characterized by terms like
+manipulability, individuality, communicability, versatility, and distributedness. This cultural
+condition has definitely affected the nature and status of photographs as building blocks for
+personal identity. Even if the functions of memory capture, communicative experience, and
+identity formation continue to coexist in current uses of personal photography, their
+rebalanced significance reverberates crucial changes in our contemporary cultural condition.
+Returning to the issue of power, it is difficult to conclude whether digital photography has led
+to more or less control over our personal images, pictures, and memories. The choreography
+of image repertoires, blending mental and cultural imaging processes, not only seems to reset
+our control over ‘pictorial memory,’ but implies a profound redefinition of the very term.
+       Photographs could never be qualified as truthful anchors of personal memory; yet
+since the emergence of digital photography, pictorial manipulation seems to be a default mode
+rather than an option. To some extent, the camera allows more control over our memories,
+                                                                                               16
+
+handing us the tools for ‘brushing up’ and reinvigorating remembrances of things past. In this
+day and age, (digital) photographs let subjects take some measure of control over their
+photographed appearance, inviting them to tweak and reshape our public and private
+identities. As stated before, digital photography is not the cause of memory’s transformation;
+the digital camera derives its revamped application as a memory tool from a culture where
+manipulability and morphing are commonly accepted conditions for shaping personhood.
+Flexibility and morphing do not apply exclusively to pictures as shaping tools for personal
+memory, but also apply more generally to bodies and things. Memory, like photographs and
+bodies, can now be made picture perfect; memory and photography change in conjunction,
+adapting to contemporary expectations and prevailing norms. Our photographs tell us who
+we want to be and how we want to remember; it is hard to imagine how the abundance of
+editing tools available will not effect our desire to brush up our past selves. Personal
+photography may become a lifelong exercise in revising past desires and adjusting them to
+new expectations. Even if still a memory tool, the digital camera is now pushed as an
+instrument for identity construction, allowing more shaping power over autobiographical
+memories.
+       And yet, this same manipulative potential that empowers people to shape their identity
+and memory may be also used by others to reshape that image. The consequence of digital
+technology is that personal pictures can be retouched without leaving traces and can be
+manipulated regardless of ownership or intent of the ‘original’ picture, evidenced by the
+anecdote at the beginning of this article, about the student who was unpleasantly surprised to
+find a doctored picture of herself mailed around to (anonymous) recipients. Personal
+photographs are increasingly pulled out of the shoebox to be used as public signifiers. Pictures
+once bound to remain in personal archives increasingly enter the public domain, where they
+are invariably brushed up or retouched to (retro)fit contemporary narratives. It is quite
+plausible to see personal pictures emerge in entirely different public contexts, either as
+testimony to a criminal on the run, as a memorial to a soldier who died in the war, or as
+evidence of a politician’s excess alcohol use in college (Sturken, 1999). Like the pictures
+shown to subjects in psychologists’ experiments, we have no clue to decide whether they are
+true or false: is it memory that manipulates pictures, or did we use pictures to create or adjust
+memory? The digital age will set new standards for remembrance and recall: the terms ‘true’
+and ‘doctored’ will no longer apply to pictures, and neither can we speak of ‘true’ and ‘false’
+memories.
+                                                                                               17
+
+       The function of personal photography as an act of memory, as we have seen, is
+increasingly giving way to its formative, communicative and experiential uses. Pictures taken
+by a cameraphone, meant as expendable enunciations to be shared with co-workers, have a
+distinctly different discursive power than our framed black-and-white ancestor photographs
+on the wall. We may now take pictures and send them around to a number of known and
+anonymous recipients. Networked systems define new presentational contexts of personal
+pictures, as sharing pictures becomes the default mode of this cultural practice. In many ways,
+digital tools and connective systems expand control over an individual’s image exposure,
+granting her more power to present and shape herself in public.
+       However, the flipside of this increased manipulability is actually a loss of control over
+a picture’s framed meaning: pictures that are amenable to effortless distribution over the
+internet, are equally prone to unintended repurposing. But since the framing of a picture is
+never fixed for once and for all, each re-materialization comes with its own illocutionary
+meaning attached, and each reframing may render the ‘original’ purpose unrecognizable. So
+even if taken with a communicative use in mind, a picture may end up as an persistent object
+of (collective) cultural memory—evidenced by the Abu Ghraib pictures. The consequences
+of reframing and repurposing are particularly poignant when pictures move seamlessly
+between private and public contexts. Of course, this risk is never the direct implication of
+photography’s digital condition, but it cannot be denied that digital media have made
+reframing a lot easier and smoother. Distributing personal pictures over the internet or by
+cameraphone, which is now a common way of communication, intrinsically renders private
+pictures into public property and therefore diminishes one’s power over their presentational
+context.
+       Anxiety over an individual’s ability to control his or her self-image and public imago
+has not abated since analogue days of personal photography. On the contrary, image control is
+still a pressing concern in the debates over personal photography in the digital age, even if the
+parameters for this concern have substantially shifted, adapting to new technological, social,
+and cultural conditions. We may hail the increased manipulability of our self-image due to
+digital photography while at the same time resenting the loss of power over one’s pictorial
+framing in public contexts. The enhanced versatility and multi-purposing of digital pictures
+facilitates promotion of one’s public image, and yet also diminishes control over what
+happens once a picture becomes part of a networked environment which changes its
+performative function upon each retrieval. Due to this networked condition, the definition of
+                                                                                            18
+
+personal memory is gravitating towards distributed presence. Our ‘live pictures’ and ‘pictures
+of life’ may become ‘pictures for life’—even if unintentionally.
+
+
+References:
+
+
+Barthes, Roland (1981) Camera Lucida. Reflections on Photography. Translated by Richard
+Howard. New York: Hill and Wang. (Originally published as La Chambre Claire, 1980.
+Paris: Editions du Seuil.)
+
+Burnett, Ron. (2004) How Images Think. Cambridge: MIT Press.
+
+Chalfen, Richard, and Mai Murui. (2001) ‘Print club photography in Japan: Framing social
+relationships.’ Visual Sociology 16 (1): 55-73.
+
+Chalfen, Richard (2002), ‘Snapshots ‘R’ Us: the evidentiary problematic of home media.’
+Visual Studies 17 (2): 141-149.
+
+Chambers, Deborah. (2001) Representing the Family. London: Sage.
+
+Cohen, Kris (2005) ‘What does the photoblog want?’ Media, Culture and Society 27 (6): 883-
+901.
+
+Dijck, José van (1995) Manufacturing Babies and Public Consent. Debating the New
+Reproductive Technologies. New York : New York University Press.
+
+Frosh, Paul (2003) The Image Factory. Consumer Culture, Photography, and the Visual
+Content Industry. Oxford: Berg.
+
+Garry, Maryanne, and Matthew Gerrie (2005) ‘When photographs create false memories.’
+Current Directions in Psychological Science 14 : 321.
+
+Garry, Maryanne, and Kimberley Wade (2005) ‘Actually, a picture is worth less than 45
+words: Narratives produce more false memories than photographs do.’ Psychonomic Bulletin
+and Review 12 (2): 359-66.
+
+Harrison, Barbara (2002) ‘Photographic Visions and Narrative Inquiry.’ Narrative Inquiry 12
+(1): 87-111.
+
+Hirsch, Marianne (1997) Family Frames. Photography, Narrative, and Postmemory.
+Cambridge: Harvard University Press.
+
+Holland, Patricia (1991) ‘Introduction: History, memory, and the family album’ in: J. Spence
+and Patricia Holland (eds) Family Snaps: The Meaning of Domestic Photography. London:
+Virago. 1-14.
+
+Holland, Patricia and Liz Wells, ……
+                                                                                             19
+
+Intraub, Helene, and James Hoffman (1992) ‘Reading and visual memory: Remembering
+scenes that were never seen.’ American Journal of Psychology 105 (1): 101-14.
+
+Kindberg, Tim, Mirjana Spasojevic, Rowanne Fleck, and Abigail Sellen (2005) ‘I saw this
+and thought of you: Some social uses of camera phones.’ Conference on Human Factors in
+Computing Systems, 1545-8.
+
+Lehtonen, Turo-Kimmo, Ilpo Koskinen, and Esko Kurvinen (2002) ‘Mobile Digital
+Pictures—The future of the postcard? Findings from an experimental field study. In: Laakso
+and Ostman (eds) Postcards and Cultural Rituals (Korttien Talo: Haemeenlinna): 69-96.
+
+Liechti, Olivier and Tadao Ichikawa (2000) ‘A digital photography framework enabling
+affective awareness in home communication’ in Personal and Ubiquitous Computing 4 (1)
+(2000): 232-39.
+
+Lindsay, Stephen, Lisa Hagen, Don Read, Kimberley Wade, and Maryanne Garry (2004).
+‘True photographs and false memories.’ Psychological Science 15, (3): 149.
+
+Lister, Martin, ed. (1995) The Photographic Image in Digital Culture. London: Routledge.
+
+Manovich, Lev (2001) The Language of New Media. Cambridge: MIT Press.
+
+McCarthy, Anna (2002) ‘Cyberculture or Material Culture?’ Etnofoor 15 (1). 47-63.
+
+Mitchell, William J.T. (1992) The Reconfigured Eye. Visual Truth in the Post-photographic
+Era. Cambridge: MIT Press.
+
+Mules, Warwick (2000) ‘Lines, Dots and Pixels: the making and remaking of the printed
+image in visual culture’ Continuum, Journal of Media and Cultural Studies,14 (3). 303-316.
+
+Pine, Joseph and James Gilmore (1999) The Experience Economy. Work is a theatre and
+every business a stage. Cambridge: Harvard Business School.
+
+Ritchin, Fred (1999) In Our Own image. The coming revolution in photography. New York:
+Aperture.
+
+Rodden, Kerry, and Kenneth Wood (2003) ‘How do people manage their digital
+photographs?’ Computer Human Interaction 5 (1): 409-16.
+
+Rodowick, D.N. (2001) Reading the Figural, or, Philosophy after the New Media. Durham:
+Duke University Press.
+
+Rose, Steve. (1992) The Making of Memory. London: Bantam Press.
+
+Schiano, Diane J., Coreena P. Chen, and Ellen Isaacs (2002) ‘How Teens Take, View, Share,
+and Store Photos’ in: Proceedings of the Conference on Computer-Supported Co-operative
+Work (CSCW) New York: ACM
+
+Slater, Don (1995) ‘Domestic Photography and digital culture.’ In: Lister, Martin (ed) The
+Photographic Image in Digital Culture. London: Routledge: 1995. pp. 129-146.
+                                                                                         20
+
+Sontag, Susan. (1973) On Photography. New York: Delta.
+
+Sontag, Susan (2004) ‘Regarding the Torture of Others’ The New York Times Magazine, 23
+May 2004, p. 25-29.
+
+Strange, Deryn, Matthew Gerrie, and Maryanne Garry (2005). ‘A few seemingly harmless
+routes to a false memory.’ Cognitive Process 6 : 237-42.
+
+Sturken, Marita (1999) ‘The Image as Memorial: Personal Photographs in Cultural Memory’
+Marianne Hirsch (ed) The Familial Gaze. Hanover: University Press of New England. 178-
+195.
+
+Van House, Nancy, Marc Davis, and Morgan Ames (2005) ‘The uses of personal networked
+digital imaging: An empirical study of cameraphone photos and sharing.’ In: Conference on
+Human Factors in Computing Systems, 1853-6. New York: ACM.
+
+Wade, Kimberley, Maryanne Garry, Don Read, and Stephen Lindsay (2002) ‘A Picture is
+worth a thousand lies: Using false photographs to create false childhood memories.’
+Psychonomic Bulletin and Review 9 (3): 597-603.
+
+Wright, Chris. (2004) ‘Material and memory. Photography in the Western Solomon Islands.’
+Journal of Material Culture 9 (1): 73-85.
+
+Zaltman, Gerald (2003) How Customers Think. Essential Insights into the Mind of the Market.
+Boston: Harvard Business School Press.
+                                                                                                                 21
+
+
+
+NOTES
+
+1
+ This article will deal with current socio-cultural practices of western photography. Although the different uses
+of (digital) photography in various parts of the world would form an interesting matter of comparison, it is
+beyond the scope of this article. See, for instance, Wright (2004) and Chalfen and Murui (2001).
+2
+  I prefer the term ‘personal photography’ over commonly used terms like ‘amateur photography’ or ‘family
+photography.’ The word personal is meant to distinguish it from professional photography, but also avoids the
+troubling connotation of ‘amateurish’ in relation to camera use. Family photography mistakenly presupposes the
+presence of a familial context, whereas photography has always been, and is increasingly used, for personal
+identity formation. For an extensive discussion on ‘personal photography,’ see Holland and Wells (…)
+3
+ Software engineers increasingly begin to realize that the design of picture management systems requires a
+profound understanding of why and how users interact with their pictures: the acts of storing pictures in a
+shoebox or sticking them into albums cannot simply be transposed onto digital platforms (Rodden and Wood,
+2003).
+4
+ There is a large number of research groups reporting on the issue of false memory as it is related to both
+narrative and visual evidence. For instance, see Intraub and Hoffman, 1992; and Lindsay, Hagen, Read, Wade
+and Garry, 2004.
+5
+  Research by cognitive psychologists focusing particularly on the role of doctored photographs in relation to
+false memory is also widely available. See, for instance, Garry and Gerrie, 2005; Wade, Garry, Read and
+Lindsay, 2002.
+6
+ Not surprisingly, these scientific insights are gratefully deployed in marketing and advertising departments, to
+advance sales by manipulating customers’ memories about their pasts and thus influence their future (buying)
+behaviour. What customers recall about prior product or shopping experiences will differ from their actual
+experiences if marketers refer to those past experiences in positive ways (Zaltman, 2003).
+7
+ Indeed, without digital photo enhancement equipment, cognitive psychologists would have a hard time to
+conduct their research on manipulated autobiographical memory in the first place; only with the help of
+computer paintbrush programs can they make doctored photographs look immaculate.
+8
+  In recent years, there has been an explosion of theory on the semiotics and ontology of the digital image, but it
+is beyond the scope of this chapter to review the literature in this area. As a general introduction to the
+digitization of visual culture in general and photography in particular, one could consult Lister, 1995; Mules,
+2000. A more philosophical introduction to ontology of the image can be found in Rodowick, 2001.
+9
+ See, for instance, the software offered by VisionQuest Images, at
+http://www.visionquestimages.com/index.htm (last checked April 8, 2006). A package called Picture Yourself
+Graphics (www.pygraphics.com) encourages playful collages and manipulation of personal pictures.
+10
+  Asian-American student Chris Lin, for instance, admits in his photoblog that he likes to picture himself with
+brown hair; he also re-colors the faces of his friends’ images to see if it enhances their appearance. See Chris
+Lin’s photoblog at http://a.trendyname.org/archives/category/personal/ (last checked April 8, 2006). Nancy
+Burson, New York based artist and a pioneer in morphing technology, attracted a lot of media attention with her
+design of a so-called Human Race Machine, a digital method that effortlessly morphs racial features and skin
+colors in pictures of peoples’ faces. For more details on the work of Nancy Burson, see
+http://www.nancyburson.com/human_fr.html (last checked April 8, 2006) Her Human Race Machine featured in
+many magazines and television programs in the spring of 2006, most notably in the Oprah Winfrey show
+11
+ The pictures were first made public in the press by journalist Seymour Hersh who wrote the article ‘Torture at
+Abu Ghraib. American soldiers brutalized Iraqis. How far up does the responsibility go?’ in The New Yorker, 4
+May 2004, available at http://www.notinourname.net/war/torture-5may04.htm (Last checked April 8, 2006).
+

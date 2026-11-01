@@ -1,0 +1,1550 @@
+S P E C I A L I S S U E A R T I C L E
+Autobiographical memory in the digital age: Insights based on
+the subjective reports of users of smart journaling apps
+Fabian Hutmacher
+|
+Linus Schläger
+|
+Rinat Meerson
+Human-Computer-Media Institute, University
+of Würzburg, Würzburg, Germany
+Correspondence
+Fabian Hutmacher, Human-Computer-Media
+Institute, University of Würzburg, Oswald-
+Külpe-Weg 82, 97074 Würzburg, Germany.
+Email: fabian.hutmacher@uni-wuerzburg.de
+Abstract
+Humans have long used external memory aids to support remembering. However,
+modern digital technologies could facilitate recording and remembering personal
+information in an unprecedented manner. The present research sought to understand
+the potential impact of these technologies on autobiographical memory based on
+interviews with users of smart journaling apps. In Study 1 (N = 12), participants who
+had no prior experience with smart journaling apps tested the app Day One for
+2 weeks and were interviewed about their subjective perceptions afterwards. In
+order to cross-validate the obtained findings, Study 2 (N = 4) was based on in-depth
+interviews with long-time users of different smart journaling apps. Taken together,
+the two studies provide insights into the way autobiographical remembering may
+change in the digital age – but also into the opportunities and risks potentially associ-
+ated with the use of technologies that allow creating a detailed and multimedia-based
+record of one's life.
+K E Y W O R D S
+autobiographical memory, digital age, new media, smart journaling, total recall
+1
+|
+INTRODUCTION
+For thousands of years, humans have used external memory aids to
+support remembering, ranging from cave paintings and oral traditions
+to archives, calendars, and printed books (cf. Finley et al., 2018). The
+reason for this is straightforward: While internal memories are pre-
+served in biological neural networks, external memories have far less
+limitations in terms of format and flexibility and greatly surpass the
+storage capacity of internal memories (Donald, 1991; Heersmink &
+Carter, 2020). It has already been speculated more than half a century
+ago that modern (computer) technologies could facilitate recording and
+remembering personal information in an unprecedented manner. In his
+famous “memex” vision, Vannevar Bush (1945) imagined a desk-like
+device that would enable individuals to store and retrieve diverse sorts
+of information ranging from books and newspapers to one's personal
+communication in an associative manner. Since then, the development
+and proliferation of mobile, digital technologies have in fact made docu-
+menting one's lived life extremely easy and convenient. It is not only
+possible to store great amounts of personal information in one place
+(Heersmink & Carter, 2020; Kalnikaite & Whittaker, 2012), but also to
+combine different media sources and to organize the data (Konrad
+et al., 2016). Furthermore, digital technologies enable users to search
+through large databases, to analyze the information, and to share it with
+others (cf. Clowes, 2013; Eliseev & Marsh, 2021). Taken together, this
+has lent the Bushian vision new credibility. In their book Total Recall,
+the two Microsoft researchers Gordon Bell and Jim Gemmell (2009)
+have argued, for instance, that digital technologies will help us to store
+and to remember everything we feel and experience. However, is it
+desirable to remember everything? In other words, is “total recall” rather
+a utopian or a dystopian vision?
+Those who believe that total recall is desirable argue that it would
+enable us to compensate the weaknesses of human memory. While
+Received: 27 June 2022
+Revised: 6 October 2022
+Accepted: 15 December 2022
+DOI: 10.1002/acp.4033
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction in any
+medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2023 The Authors. Applied Cognitive Psychology published by John Wiley & Sons Ltd.
+686
+Appl Cognit Psychol. 2023;37:686–698.
+wileyonlinelibrary.com/journal/acp
+
+
+human memory can change, fade, and even vanish over time and is
+therefore susceptible to biases and distortions, digital memory
+remains constant and is supposedly characterized by accuracy, com-
+pleteness, and objectivity (Bell & Gemmell, 2009; Burkell, 2016;
+Harvey et al., 2016; see also Schacter, 2001). In addition, the recent
+technological advancements allow the automatic recording of vast
+amounts of data and the integration of a wide range of different
+media, resulting in easily available and searchable digital records
+(Elsden, Durrant, & Kirk, 2016; Heersmink, 2020). Thus, digital technol-
+ogies can augment human memory and help us to reconstruct past
+events
+with
+far
+greater
+comprehensiveness
+and
+detail
+(Harvey
+et al., 2016; Heersmink, 2020; Loveday & Conway, 2011). As a result,
+narrating
+one's
+own
+experience
+could
+become
+much
+easier
+(Heersmink & Carter, 2020; see also Crete-Nishihata et al., 2012):
+Whenever we have forgotten something, we could turn to our digital
+memories to fill in the blank spaces. Another important benefit of the
+increased use of external memory aids is the reduction of cognitive load
+(Clark, 2015; Eliseev & Marsh, 2021; Heersmink & Carter, 2020;
+Lynch, 2016; van den Hoven, 2014): When personal data are stored in
+external memory devices, we need to worry less about forgetting
+important information. Ultimately, however, total recall may not only
+counterbalance the weaknesses of human memory but also enhance
+the quality of life in different areas – ranging from working life to physi-
+cal and mental health as well as learning, knowledge acquisition, and
+education (Bell & Gemmell, 2009): The more we know about ourselves,
+the better we are able to understand, adapt, and optimize our behavior.
+Critics of this optimist and utopian perspective counter that total
+recall raises major privacy issues (e.g., data breaches, accidental data
+publications) and leads to a fear of surveillance (Harvey et al., 2016;
+Jacquemard et al., 2014). Moreover, as storage and file formats
+undergo constant changes and may become inaccessible over time,
+the
+longevity
+of
+digital
+content
+is
+not
+guaranteed
+(Bell
+&
+Gemmell,
+2009;
+Petrelli
+&
+Whittaker,
+2010;
+van
+den
+Hoven
+et al., 2012; van House & Churchill, 2008). In other words, it is ques-
+tioned whether digital memories are as unchangeable and easily avail-
+able as claimed by the proponents of a total recall. Another point of
+criticism that goes beyond mere technological problems is that
+increasing the dependence on external memory records could under-
+mine an individual's autonomy and the formation of a coherent life
+narrative
+(Burkell,
+2016;
+Heersmink,
+2017;
+Heersmink
+&
+Carter, 2020). The basic idea behind this argument is that human
+beings develop a narrative identity by telling stories about their lives
+and that these stories may change over time when the circumstances
+of their lives change (e.g., McAdams, 2008). If all experiences are
+stored in an external digital memory system, it could potentially
+become harder to make these kinds of adjustments to one's life story
+as this could lead to inconsistencies between the internally con-
+structed narrative and the recorded data. In this context, it is also
+important to mention the adaptive function of forgetting, which is
+arguably prevented by total recall (Heersmink, 2017; Jacquemard
+et al., 2014; Mayer-Schönberger, 2011). In certain situations, forget-
+ting can be just as important as remembering – especially when peo-
+ple want to leave their pasts behind or when they want to avoid being
+reminded of specific negative experiences (Heersmink & Carter, 2020;
+Koops, 2011; Storm & Soares, in press; van House & Churchill, 2008).
+In sum, these considerations make the vision of a total recall appear
+more dystopian than utopian.
+Crucially, however, it has been argued that the question as to
+whether total recall would be good or bad, utopian or dystopian, mis-
+ses the actual point of the recent technological developments. First,
+because of practical limitations: Capturing virtually everything, that is,
+a complete and exhaustive record of all aspects of one's life including
+one's
+thoughts
+and
+emotions,
+is
+not
+possible
+(Sellen
+&
+Whittaker, 2010). Second, the recorded information needs to be
+curated, arranged, and interpreted in order to become meaningful –
+and meaning-making is a specifically human ability that cannot, at
+least not completely, be delegated to an algorithm (Banks, 2011;
+Sellen & Whittaker, 2010; van den Hoven et al., 2012; see also Elsden,
+Durrant, & Kirk, 2016; Elsden, Kirk, & Durrant, 2016). That is, just as
+other external memory aids, digital technologies should not be
+regarded a substitute for biological remembering but as tools that can
+support people's memory and efficient information management
+(Harvey et al., 2016; Kalnikaite & Whittaker, 2012; Sellen &
+Whittaker, 2010). Against this background, it has been argued that
+the developers of digital technologies should not pursue the vision of
+total recall but select more carefully which memory activities require
+assistance (Heersmink, 2018; van den Hoven & Eggen, 2008) and
+focus on so called “situation-specific capture”, that is, a more inten-
+tional logging of rich data in very specific situations (Sellen &
+Whittaker, 2010). In their concept of “situation-specific capture”,
+Sellen and Whittaker (2010) propose to distinguish five memory activ-
+ities that could benefit from digital technologies: recollecting, remi-
+niscing, retrieving, reflecting, and remembering intentions. Recollecting
+refers to remembering past events in the sense that one tries to relive
+these experiences in detail (e.g., thinking about an evening that one
+has spent with friends). Reminiscing means to think back to past expe-
+riences for emotional and sentimental reasons (e.g., looking at a photo
+album to indulge in memories). Retrieving refers to recalling a specific
+piece of information (e.g., looking up the name of a restaurant where
+one has recently had dinner). Reflecting is reviewing past experiences
+from a more abstract perspective (e.g., thinking about the meaning
+and purpose of a past event). Remembering intentions is future-
+oriented and involves remembering intentions and plans for future
+actions (e.g., remembering to show up for a doctor's appointment).
+While recollecting, reminiscing, and reflecting seem to be memory
+activities that are directly concerned with episodic and autobiographi-
+cal memories, retrieving a specific piece of information clearly refers to
+a memory activity that is connected to semantic memory (for the dis-
+tinction between these types of memory, see, e.g., Fivush, 2011;
+Squire, 2004; Tulving, 1972). Moreover, remembering intentions is a
+paradigmatic instantiation of prospective memory (cf. McDaniel &
+Einstein, 2007). In other words, the memory activities proposed by
+Sellen and Whittaker (2010) seem to be in line with established psy-
+chological theories of human memory (see also Finley & Naaz, 2022).
+One way of investigating how these and related activities that
+play a role in (autobiographical) remembering change in the digital age
+HUTMACHER ET AL.
+687
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+is to analyze smart journaling practices. Smart journaling apps are as
+close to the “Bushian” future of autobiographical remembering as
+possible for several reasons (cf. Elsden, Durrant, & Kirk, 2016; Harvey
+et al., 2016). First, they allow storing and integrating information from
+multiple sources—ranging from written text, photos, videos, and
+audios to social media posts and weather and location information.
+Second, the information can typically be organized, searched, and fil-
+tered, allowing creative ways of interacting with the content that tra-
+ditional journals do not offer. Finally, many smart journaling apps
+encourage their users to engage with past entries, for example by
+reminding them what happened on the same day a year ago. Although
+smart journaling apps have become more widely used in recent years,
+only very few studies have addressed their impact from a scientific
+point of view (e.g., Elsden, Durrant, & Kirk, 2016; Harvey et al., 2016;
+see also Schueller et al., 2021).1 Even more importantly, to the best of
+our knowledge, there is no previous study explicitly dedicated to
+investigating the effects of smart journaling apps on the above-
+mentioned memory activities. Hence, the present research had two
+main goals: First, we wanted to understand the ways in which the use
+of a smart journaling app affects memory and processes of remember-
+ing from the users' subjective point of view. That is, our focus was on
+understanding how smart journaling apps influence the users' percep-
+tions of their own experiences and the self-assessments of their own
+memories, rather than measuring or quantifying potential effects on
+the amount of retained information. Second, we wanted to provide a
+comprehensive overview of the opportunities and risks potentially
+associated with the continued use of a technology that allows creating
+a multimedia-based, rich, and detailed record of one's life. To this end,
+we conducted two studies. In Study 1, participants who had no prior
+experience with smart journaling apps tested the app Day One for
+2 weeks and were interviewed afterwards. We chose the app Day
+One because of its widespread use and great range of functions
+(cf. Manjoo, 2019). As the participants in Study 1 had no prior experi-
+ence with smart journaling apps, they shared the same starting condi-
+tions, allowing standardization and ensuring that results can easily be
+compared across participants. However, a two-week test phase can
+be considered too short to draw definitive conclusions about the per-
+ceived long-term effects of using smart journaling apps. In order to
+cross-validate the obtained findings, Study 2 was therefore based on
+in-depth interviews with long-time users of different smart journaling
+apps. Taken together, these two studies provide several important
+insights regarding autobiographical memory in the digital age.
+2
+|
+STUDY 1
+2.1
+|
+Methods
+2.1.1
+|
+Participants
+In total, 12 participants were interviewed (19–27 years, M = 21.50,
+SD = 2.32, 8 female, 4 male). The sample size was based on the idea
+of data saturation, that is, on the idea that data collection in
+qualitative research should be continued until adding further cases
+does not lead to new insights (Boddy, 2016). As previous research has
+indicated that data saturation typically becomes evident somewhere
+between 6 and 12 cases (Guest et al., 2006), although smaller or larger
+samples may be appropriate under certain circumstances, we decided
+to recruit eight participants. As all of these participants were female,
+we decided to collect additional data from four male participants. Par-
+ticipants were recruited through the participant recruitment system
+used by the University of Würzburg (Germany). Based on the regula-
+tions for conducting psychological research in Germany, no formal
+IRB approval was required. The study was conducted in accordance
+with the Helsinki Declaration and the ethical guidelines of the German
+Psychological
+Society
+(DGPs).
+All
+participants
+provided
+written
+informed consent and received course credit. The interviews were
+conducted between the end of July and the end of October 2021.
+2.1.2
+|
+Day One
+The smart journaling app Day One is offered in a basic and in a pre-
+mium version (for screenshots of the app's design and more detailed
+information, see https://dayoneapp.com/). The premium version that
+was used in Study 1 offers a wide range of different functions, includ-
+ing writing text entries, creating drawings, importing photos, videos,
+and audio recordings, an automatic import of all existing and future
+Instagram posts, as well as data from Spotify, YouTube, Facebook,
+and Twitter, the possibility to save the content of websites, to tag and
+favorite entries, to search and filter the recorded content, and to scan
+documents to PDF using the in-app scan camera. In addition, users
+can allow the app to auto-tag text entries and media with information
+regarding date, time, weather, and location. The app also offers daily
+reminders as well as various templates that can serve as a potential
+starting point for beginning a new entry. Users are able to edit and
+delete previous entries. That is, users decide which aspects to include
+in their record, and what to emphasize and elaborate on. Entries that
+the users want to share with others can be posted on social media.
+Moreover, content can be exported as a digital file or printed as a
+book. Users can opt to receive a notification when a day has entries
+from a previous year. In an attempt to deal with privacy concerns, the
+app offers biometric security measures (Touch ID or Face ID) and
+end-to-end encryption. Day One can be used on mobile phones and
+computers.
+2.1.3
+|
+Procedure
+Before beginning with the 14-day test phase, participants were
+informed about the purpose of the study in an online meeting. Partici-
+pants were told that the study sought to investigate whether and, if
+so, how digital technologies affect autobiographical remembering. It
+was emphasized that the study was concerned with their subjective
+perceptions so that all kinds of observations are welcome and that
+there are no right or wrong answers. Participants were told to use the
+688
+HUTMACHER ET AL.
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+smart journaling app Day One for 15 min per day during the two-
+week test phase. We assumed that 15 min per day would be enough
+time for participants to record the most important events of their daily
+lives and to have a meaningful interaction with the app that they
+could reflect upon after using the app for 2 weeks. Participants were
+encouraged to try out different functions in the beginning but also
+told to use only those functions that they felt comfortable with. Par-
+ticipants were reassured that the researchers would not have access
+to the content stored in their smart journal at any point of the study.
+Finally, participants were asked to sign up for a premium membership
+with Day One in order to have unlimited access to all functions. Par-
+ticipants were compensated for their financial expenses.
+After completing the two-week test phase, another online meet-
+ing was scheduled in order to conduct the interview. The inter-
+views were semi-structured. That is, they were based on an
+interview guide in order to ensure that all relevant aspects were
+discussed in the same manner across participants (see the Supple-
+mental Material for the complete interview guides of both studies).
+However, the interviewer was allowed to ask ad-hoc questions
+when it seemed necessary. Each interview consisted of three parts.
+First, participants were asked about their usage behavior. This
+included questions regarding the used functions (“Which functions
+did you use and why?”, “Which functions did you not use and
+why?”), the recorded content (“What kind of events did you record
+and why?”, “What kind of events did you not record and why?”)
+and the participants' overall evaluation of the app (“Which aspects
+did you experience as positive during the use?”, “Which aspects
+did you experience as negative during the use?”). Second, partici-
+pants were asked about the perceived effects of the use of the smart
+journaling app on memory. Following an open question that asked
+participants to state anything that came to their mind, participants
+were asked more specifically whether they had perceived any
+changes
+with
+respect
+to
+the
+five
+memory
+activities
+(i.e., recollecting, reminiscing, retrieving, reflecting, remembering
+intentions) identified by Sellen and Whittaker (2010). It was
+emphasized that perceiving a specific effect is just as informative
+as not perceiving it. Third, participants were asked about the
+potential opportunities and risks with respect to the continued use
+of a smart journaling app. More specifically, participants were
+asked to imagine that they would continue to use the app in the
+way they had done over the past 2 weeks and to think about the
+advantages and disadvantages of possessing a rich and detailed,
+digital record of their own lives potentially encompassing years or
+even decades.
+After completing the interview, participants filled in an online
+questionnaire. They were asked about their age and gender as well as
+the time that they had actually used the app per day over the past
+2 weeks and their intention to continue using the app (7-point Likert
+scale, 1 = “I will certainly not continue using the app”, 7 = “I will cer-
+tainly continue using the app”). The interviews lasted between 25 and
+42 min (M = 34.94 min, SD = 5.75). All interviews were conducted by
+the same interviewer.
+2.1.4
+|
+Qualitative data analysis
+The interviews were recorded and transcribed verbatim. The data
+were analyzed with MAXQDA 2020 (VERBI Software) using qualita-
+tive content analysis (Mayring, 2014, 2021). To ensure the objectivity
+of the coding process, two coders analyzed the data. First, a codebook
+was created based on initiating text work (Kuckartz, 2019). In order to
+do so, the two coders familiarized themselves with the data indepen-
+dently from one another and created an initial draft for a codebook.
+These two drafts were discussed between the two coders and inte-
+grated into a final codebook. The final codebook included categories
+to capture the used functions, the recorded content, and the overall
+evaluation by the participants as well as the perceived effects on
+memory and future expectations regarding opportunities and risks.
+Although participants had been asked about their reasons for using
+specific functions, their answers to this question were not analyzed
+systematically as they were deemed too superficial to be informative.
+The same applies to the question about the functions that the partici-
+pants did not use as well as their reasons for not using them.
+Next, the two coders coded the first two interviews indepen-
+dently from one another. Then, the interrater reliability was calculated
+(Brennan & Prediger, 1981). Two coded segments of the material
+were considered to match when the overlapping rate of the two
+codes was 90% or higher. The interrater reliability indicated a substan-
+tial strength of agreement (Landis & Koch, 1977), κ = 0.73. The coders
+discussed the differences with respect to the first two interviews that
+they had coded independently and agreed upon a final solution. Given
+the substantial agreement between the two coders, one coder coded
+the remaining material. However, open questions and potentially
+ambiguous sections were discussed between the two coders.
+2.2
+|
+Results
+2.2.1
+|
+Usage behavior
+Participants were asked to use the app for 15 min per day during the
+two-week test phase (see above). As indicated by their answers in the
+online
+questionnaire,
+participants
+followed
+this
+instruction
+(M = 15.33 min, SD = 4.92, range: 10–25 min). Overall, participants
+seemed to enjoy using the app: When asked about their future inten-
+tions, only two participants stated that they tended not to continue
+using the app (ticking 3 on the 7-point Likert scale), while the remain-
+ing 10 participants stated that they would probably continue using
+the app (ticking the options 5–7 on the 7-point Likert scale). Details
+with respect to the used functions, the recorded content, and the
+overall evaluation are reported in the following.
+Used functions
+The participants did not use all functions offered by the app with
+equal frequency (see Table 1). All participants stored photos and wrote
+text, and the majority of participants automatically tracked their
+HUTMACHER ET AL.
+689
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+location and used audio recordings. All other functions were used by a
+minority of the participants only. With respect to the audio record-
+ings, it should be noted that most participants who had tried out the
+function did not use it on a regular basis, mostly because they found
+recording themselves “somewhat weird”2 or because they found writ-
+ing text “more enjoyable”. However, two participants stated that they
+particularly liked this function. As one participant put it, recording her-
+self felt “like talking to a friend” whom one is sharing one's day with.
+The templates included in the app, which offer cues to the users
+(e.g., a question to answer or to think about), were perceived as useful
+as they helped the participants in moments in which they did not
+know what to write or how to begin a new entry.
+Recorded and non-recorded content
+The content that participants recorded and stored within their smart
+journal can be sorted into three groups (see Table 2). First, partici-
+pants recorded everyday events (e.g., cleaning one's apartment, doing
+the laundry, having breakfast). Second, participants recorded the
+important and outstanding aspects of their lives, including important
+events (e.g., attending a bachelorette party), being at specific places
+(e.g.,
+being
+on
+vacation),
+and
+engaging
+in
+social
+interactions
+(e.g., conversations with family and friends). Third, participants took
+notes on ideas and thoughts that they had (e.g., reflections on a news
+article, interesting quotes).
+Concerning the aspects of their lives that they decided not to
+record, participants mentioned everyday events, events that they
+deemed too personal as well as negative events and conflicts (see
+Table 2). Note that the participants who recorded everyday events
+and those who did not record everyday events were not mutually
+exclusive groups. In other words, most participants decided to docu-
+ment some everyday events, while not documenting others. Those
+participants who were reluctant to record personal events mostly
+explained this with privacy concerns and the “feeling that someone
+could somehow read these things”. However, not documenting nega-
+tive events and conflicts was explained in a different way. One partici-
+pant stated, for instance, that she had decided to use the app “to
+recall the positive aspects” of her life only, while another participant
+added that writing down negative events “is simply not the way I deal
+with these things”. Yet another participant stated that she did not
+document a conflict she had with another person because she felt
+ashamed when she realized in hindsight that the conflict “was really
+stupid”.
+Overall evaluation
+With respect to aspects that they experienced as positive during the
+use, 10 participants named the app's clear structure and overall usabil-
+ity and half of the participants mentioned the app's wide range of func-
+tions. Apart from that, all participants referred to particular functions
+that they found useful (e.g., templates, calendar overview). Beyond
+these technical aspects, one participant explicitly mentioned that she
+liked the way the app influenced her memory for the events that she
+experienced during the two-week test phase. Although the overall
+evaluation of the app was quite positive (see also the intention of
+most participants to continue using the app), participants also men-
+tioned aspects that they experienced as negative. Seven participants
+mentioned minor problems related to the app's design and usability
+(e.g., a function that was not working as expected). Two participants
+mentioned that they occasionally experienced moments in which they
+felt obliged to use the app because they had signed up for the study. In
+addition, one participant stated that her privacy concerns kept her
+from using the app in the way she would have liked to use it.
+2.2.2
+|
+Perceived effects on memory
+Perceived effects on memory activities
+Participants were explicitly asked whether the use of the smart jour-
+naling app had – from their personal point of view – affected the five
+memory activities originally identified by Sellen and Whittaker (2010):
+recollection, reminiscing, retrieving, reflecting, and remembering
+intentions (see Table 3). With respect to recollection, participants
+stated that they indeed used the recorded content “to remember
+what one has done overall” or “to go back through the days”. More
+specifically, several participants stated that they saw the information
+TABLE 1
+Used functions
+Function
+Number of participants
+Text
+Open text
+12
+Template
+4
+Tags
+1
+Photos
+12
+Location
+10
+Audio
+9
+Video
+5
+Weather
+3
+Import from other apps
+2
+Scanning
+1
+Other
+3
+Note: Results from Study 1 (N = 12).
+TABLE 2
+Recorded and non-recorded content
+Content
+Number of participants
+Recorded content
+Everyday events
+8
+Important aspects
+12
+Ideas and thoughts
+6
+Non-recorded content
+Everyday events
+8
+Personal events
+6
+Negative events and conflicts
+5
+Note: Results from Study 1 (N = 12).
+690
+HUTMACHER ET AL.
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+they had stored the day before when opening the app and that they
+used this as a cue to recollect what they had done and experienced.
+Reminiscing, that is, reliving past experiences for emotional or senti-
+mental reasons was also described by several participants. They
+stated, for instance, that they used the recorded information “to senti-
+mentally dive into the experiences” or that they explicitly looked up
+moments that they had found beautiful. In contrast, participants did
+not use the app that frequently for retrieving specific bits of informa-
+tion. However, one participant stated that she had used the app to
+find the name of a cocktail that she had in a bar one evening, while
+another participant mentioned that she had looked up the name of a
+new colleague at work. Next to recollection, reflecting was the mem-
+ory activity that was mentioned most frequently. Several participants
+noted that the very act of creating an entry for the past day made
+them think and reflect about their experiences: “How did I feel when
+it happened? What was the mood like, how do I see things now in
+hindsight?” In a similar vein, another participant added: “I believe that
+writing down your experiences automatically leads to reflecting them
+and to see them from another perspective”. As this quote already
+illustrates, reflecting was closely related to writing for those partici-
+pants who mentioned this memory activity. As far as remembering
+intentions is concerned, participants stated that they used the app to
+create to-do-lists and to be reminded about their friends' birthdays,
+for instance. Participants also noted that going through old entries
+made them remember things that they had intended to do.
+As these results demonstrate, the use of a smart journaling app
+can influence the way individuals assess their own memories and the
+process of remembering autobiographical information. Although these
+subjectively perceived effects became already apparent during the rel-
+atively short two-week test phase, nine participants stated with
+respect to at least one of these five memory activities that they
+expected it to become (even) more important in the case of continued
+use. Note that participants were not explicitly asked about the antici-
+pated future importance but made these statements on their own ini-
+tiative. On the one hand, this hints at the potential transformative
+power of digital technologies regarding autobiographical remember-
+ing. On the other hand, it points to the importance of cross-validating
+the findings of the present study with the observations of long-time
+users in order to verify whether these expectations are actually
+justified.
+Additional perceived effects on memory
+Participants mentioned further subjectively perceived effects on
+memory that were not captured by the five categories described so
+far. Most importantly, about half of the participants reported that they
+had the impression that externally recording and storing information
+about their lives improved their internal memory for past events. For
+instance, one participant stated that “through uploading so many
+things, it was easier to keep them in my memory”. Similarly, another
+participant explained that going through the events of the day when
+creating the entry helped to retain these events in memory compared
+to a setting “when something happens and then you go to bed in the
+evening and the next day things are happening again”. In short and
+following the participants' line of reasoning, active engagement with
+the app leads to active engagement with one's experiences, which in
+turn leads to better memory for these experiences. Apart from that,
+participants also reported that they sometimes thought that an event
+was noteworthy while experiencing it (anticipated noteworthiness):
+“Sometimes I thought, well: This is something that you can write
+down later.”
+2.2.3
+|
+Future expectations
+In the last part of the interview, participants were asked about the
+potential opportunities and risks with respect to the continued use of a
+smart journaling app. These opportunities and risks are described in
+detail below (for an overview, see Table 4).
+Potential opportunities
+Participants argued that possessing a detailed digital record of their
+past would enable them to make comparisons and to trace their per-
+sonal development over time. That is, they expected that they would
+be able to see how they have evolved as a person and how their life
+has changed. This advantage is closely connected to the idea that
+smart journals allow the creation of an extensive archive that includes
+various sorts of data and information. Especially in comparison to a
+traditional paper diary, participants emphasized several practical bene-
+fits of digital diaries, such as their searchability or the fact that they
+can easily be carried around. This potential advantage coincides well
+with the idea that digital diaries could also have a social function in the
+sense that they could be shared with others in order to tell them
+something about one's life. Moreover, participants explicitly men-
+tioned that a multimedia-based diary would not only help them to
+recall events from their past, but also to re-experience them intensively.
+One participant also noted that the overview that the app offers
+would provide her with a brief and condensed summary of her life.
+Another participant stated that taking a look at the content stored in
+the diary could help to avoid repeating the same mistakes and to learn
+from past experiences.
+TABLE 3
+Perceived effects on memory
+Memory activity
+Number of participants
+Recollecting
+10
+Reminiscing
+6
+Retrieving
+3
+Reflecting
+10
+Remembering intentions
+6
+Improved internal memory*
+7
+Anticipated noteworthiness*
+2
+Note: Results from Study 1. Participants (N = 12) were explicitly asked
+about the first five memory activities—recollection, reminiscing, retrieving,
+reflecting, remembering intentions—originally identified by Sellen and
+Whittaker (2010). The two effects marked with an asterisk (*) were
+mentioned by the participants themselves.
+HUTMACHER ET AL.
+691
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Potential risks
+Almost all participants mentioned concerns regarding privacy and data
+protection. The hesitance to record personal and intimate information
+already described in the section on usage behavior (see above)
+became even more prominent when thinking about a point in the
+future at which participants would have a much larger collection of
+data about their lives. Although participants had identified the possi-
+bility to make comparisons between past and present as one of the
+major advantages of a detailed record of one's life, some participants
+also noted that one could make negative experiences through compari-
+son with one's former self – especially when this former self was hap-
+pier or more successful than one's present self. In line with that, it was
+also emphasized that possessing a detailed record of one's past would
+mean that no forgetting takes place and that one runs at risk of being
+reminded of negative events and experiences. In addition, two partici-
+pants noted that using a smart journal would result in spending (even)
+more time with digital media, which these participants did not consider
+advisable. One participant noted being afraid of a potential data loss
+because losing the stored data would – at least in a certain sense –
+mean losing one's past. Another participant stated that the possibility
+to access past experiences at any time could devalue the present
+moment.
+2.3
+|
+Discussion
+In Study 1, participants who had no prior experience with smart jour-
+naling apps tested the app Day One for 2 weeks and were
+TABLE 4
+Potential opportunities and potential risks of continued use
+Category
+Examples
+Number of
+participants
+Opportunities
+Comparison and
+development
+“I would find it very interesting to see where my focus is, what I focus on in life [and] whether that
+would change”, “One would see much more clearly how one has developed and whether one has
+maybe changed over time”
+10
+Extensive archive
+“It is a really nice thought that one could remember every event [from one's life], as one has it
+ready for recall”, “One would not forget any memory anymore”
+8
+Practical benefits
+“It's very practical, you always have it with you—in the app”, “One could quickly look up things, find
+them again”, “I could imagine that it will replace the photo album, as you simply know more
+specifically when you have done what”
+6
+Social function
+“If you have children or grandchildren, for example. [You could say]: Here, read this, this was me in
+my younger years”, “Maybe people that one got to know later could see some of the things that
+one experienced earlier”
+3
+Intense re-experience
+“You get the opportunity to intensively re-experience the thoughts and feelings from back then”,
+“One could sort of go back into the moment and see how life felt five months ago or a year ago”
+3
+Summary
+“Also, [to have] a summary of the years. To see what the aspects of my life were that I considered
+important enough to be uploaded”
+1
+Learning from past
+experiences
+“Maybe you will not make certain mistakes anymore, because you realize ‘Ok, I have made this
+mistake and this will not happen again’”
+1
+Other
+2
+Risks
+Privacy and data
+protection
+“I think I would be a little scared with regards to data protection”, “The risk that others could access
+it. If one had really recorded everything for every day, one would be completely transparent […]
+and maybe one could also be manipulated”
+10
+Negative experiences
+through comparison
+“If I had done it for one year and then another year and that year was just totally fucked up, it
+would be really sad to see the year before”, “It could take away the motivation […] if you realize
+over longer periods of time that something in life is getting worse”
+4
+No forgetting
+“There are certainly also experiences that one does maybe not want to see again and again”, “Often
+you do not want to look back in certain periods of your life maybe”
+3
+More time with digital
+media
+“It's again another reason to spend more time with your smartphone”, “One is spending so much
+time with one's phone anyway—and that's another factor that makes you spend more time on the
+smartphone”
+2
+Data loss
+“When it's gone, everything is gone”
+1
+Devaluation of the
+present moment
+“Maybe it could make living in the moment a bit more difficult. Because, I do not know, if one
+would really capture every moment […], the moment itself would lose a bit of value. If you could
+basically access it at any time.”
+1
+Other
+3
+Note: Results from Study 1 (N = 12).
+692
+HUTMACHER ET AL.
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+interviewed about their subjective perceptions afterwards. These
+interviews provide insights into the possible changes to autobiograph-
+ical remembering in the digital age as seen from the users' perspective
+as well as into the opportunities and risks potentially associated with
+the continued use of a technology that allows creating a multimedia-
+based, rich, and detailed record of one's life. As the participants in
+Study 1 had no prior experience with smart journaling apps, they
+shared the same starting conditions, allowing standardization and
+ensuring that results can easily be compared across participants. How-
+ever, a two-week test phase can be considered too short to draw
+definitive conclusions about the perceived long-term effects of using
+smart journaling apps. In order to cross-validate the obtained findings,
+Study 2 was therefore based on in-depth interviews with long-time
+users of different smart journaling apps.
+3
+|
+STUDY 2
+3.1
+|
+Methods
+3.1.1
+|
+Participants
+In total, four participants were interviewed (20–25 years, M = 22.50,
+SD = 2.08, 3 female, 1 male). As the interviews were based on the
+questions and categories already tested and established in Study 1, a
+smaller sample size was deemed sufficient. Individuals were invited to
+sign up for the study in case they were long-time users of a smart
+journaling app. Long-time use was defined as continuous use lasting
+1 year or longer (M = 1.48 years, SD = 0.53, 1.08–2.25 years). Each
+participant used a different smart journaling app (Day One, Daylio,
+Diaro, iMoodJournal; see Table 5 for further information). Participants
+were recruited through the participant recruitment system used by
+the University of Würzburg (Germany). Based on the regulations for
+conducting
+psychological
+research
+in
+Germany,
+no
+formal
+IRB
+approval was required. The study was conducted in accordance with
+the Helsinki Declaration and the ethical guidelines of the German Psy-
+chological Society (DGPs). All participants provided written informed
+consent and received course credit. The interviews were conducted in
+January 2022.
+3.1.2
+|
+Procedure
+Before completing the interview, participants filled in an online ques-
+tionnaire. They were asked about their age and gender as well as the
+name of the app that they are using and the time that they spend with
+the app per day. In addition, participants indicated since when they
+are using the app. The interview procedure in Study 2 was largely sim-
+ilar to the interview procedure in Study 1 (see the Supplemental
+Material for the complete interview guides of both studies). Again, the
+semi-structured interviews were conducted online and consisted of
+three parts. First, participants were asked about their usage behavior.
+As in Study 1, this included questions regarding the used functions,
+the recorded content and the participants' overall evaluation of the
+app. In addition, participants were asked when and why they began
+using the app, whether their usage behavior has changed over time,
+and how they currently use the app. Second, participants were asked
+about the perceived effects of the use of the smart journaling app on
+memory. Following an open question that asked participants to state
+anything that came to their mind, participants were asked more spe-
+cifically whether they had perceived any changes regarding the five
+memory activities identified by Sellen and Whittaker (2010) as well as
+the two additional memory activities identified in Study 1. Third, par-
+ticipants were asked about the potential opportunities and risks with
+respect to the continued use of a smart journaling app. Following an
+open question, participants were asked more specifically whether
+they saw the potential opportunities and risks identified in Study
+1. Similar to Study 1, it was emphasized that perceiving a specific
+effect on memory, a certain opportunity or a certain risk, is just as
+informative as not perceiving it. The interviews lasted between
+39 and 51 min (M = 44.48 min, SD = 5.51). All interviews were con-
+ducted by the same interviewer as in Study 1.
+3.1.3
+|
+Qualitative data analysis
+The interviews were recorded and transcribed verbatim. The data
+were analyzed with MAXQDA 2022 (VERBI Software) using qualita-
+tive content analysis (Mayring, 2014, 2021). The codebook used for
+TABLE 5
+Smart journaling apps used by participants in Study 2
+App
+Brief description
+Daylio
+Daylio (https://daylio.net/) is a bullet journal that
+promises its users to keep track of their mood and
+their activities. Users can set themselves goals and
+adjust the items that are used for mood tracking.
+Adding text and photos to the diary entries is
+possible. The app provides users with charts and
+summary statistics. The stored content can be
+exported to PDF.
+Diaro
+Diaro (https://diaroapp.com/) enables users to
+combine text entries with photos. Mood tracking
+is possible. Entries can be tagged and location
+information can be added. Users are reminded of
+memories from the past. The app provides users
+with charts and summary statistics. The stored
+content can be exported to PDF.
+iMoodJournal
+iMoodJournal (https://www.imoodjournal.com/) is a
+mood tracking app that allows users to record
+their mood in combination with tags, location
+information, and photos. The app recommends to
+use self-portraits. The app provides users with
+charts and summary statistics. Data can be
+exported. Users can set automatic reminders.
+Note: Each participant in Study 2 (N = 4) used a different smart journaling
+app. One participant used Day One. As the characteristics of Day One
+were described in detail in the Method section of Study 1, Day One was
+not included in this table.
+HUTMACHER ET AL.
+693
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+analyzing the data was largely similar to the codebook used for Study
+1. More specifically, the only changes that were made to the code-
+book were a direct result of the changes that were made to the inter-
+view procedure. That is, the codebook included categories to capture
+the participants' usage behavior, the perceived effects on memory,
+and the potential opportunities and risks. As the reliability of the cod-
+ing process had already been established in Study 1, the same coder
+who had already served as the main coder in Study 1 coded the four
+interviews. However, open questions and potentially ambiguous sec-
+tions were discussed with the second coder who had already been
+involved in coding Study 1.
+3.2
+|
+Results
+3.2.1
+|
+Usage behavior
+All interviewed long-time users stated that they began using their
+apps upon the recommendation of another person: in three cases a
+friend, in one case a personal mentor. However, the motivation for
+keeping a smart journal differed between participants. While one par-
+ticipant stated that he wanted to identify patterns in his behavior in
+order to change dysfunctional aspects of his life, another participant
+initially intended to keep a dream diary and later decided to extend
+the use. Another participant took the Corona pandemic and the time
+that she had to spend in quarantine as a starting point and the last
+participant explained that she had always wanted to keep a diary and
+thought that using a smart journal could be a convenient way to do
+so. While two participants recorded content in their smart journal
+whenever they felt like doing so, the other two participants had set
+themselves an automatic reminder.
+Used functions
+As in Study 1, all participants stored photos and wrote text. Interest-
+ingly, other functions were only used to a very limited degree: One
+participant used emojis to tag the recorded content, one participant
+used the rating scales and analytics offered by the app, and one partici-
+pant changed the app's layout. That is, the long-time users seemed to
+use fewer functions than those participants who had used a smart
+journaling app during a two-week test phase. Note, however, that this
+difference is hard to interpret for at least two reasons. First, partici-
+pants in Study 1 had been encouraged to try out different functions
+while the long-term users might already have identified the (limited
+number of) functions that work best for them. Second, three out of
+four long-term users used different apps than Day One. Hence, the
+participants of Study 2 might also have used fewer functions com-
+pared to the participants of Study 1 because their app did simply not
+offer as many functions or was not as user-friendly and easy to
+explore as Day One.
+Recorded and non-recorded content
+As in Study 1, the content that participants recorded and stored
+within their smart journal fell into three categories: All long-time users
+recorded important and outstanding aspects of their lives as well as
+ideas and thoughts that they had. Two participants also reported
+recording everyday events. Concerning the aspects of their lives that
+they decided not to record, three participants mentioned everyday
+events. As in Study 1, the participants who recorded everyday events
+and those who did not record everyday events were not mutually
+exclusive groups. In other words, most participants decided to docu-
+ment some everyday events, while not documenting others. Interest-
+ingly, the long-time users did not mention the other two categories of
+non-recorded content identified in Study 1 (i.e., events that were
+deemed too personal as well as negative events and conflicts). One par-
+ticipant additionally noted that she does not store content regarding
+societal or political events, as they do not have the same intimate and
+emotional value as the events from her personal life.
+Overall evaluation
+With respect to aspects that they experienced as positive during the
+use, all participants referred to the clear structure and overall usability
+of the apps that they used and three participants mentioned the wide
+range of functions that the apps offer, confirming the impressions from
+Study 1. Apart from that, one participant named several particular
+functions such as the possibility to be reminded to create a new entry
+on a daily basis. One participant mentioned that the app helped her to
+reflect past experiences and to take time for herself, and one partici-
+pant stated half-jokingly finding the app's logo attracting and energiz-
+ing. Although the overall evaluation of the apps was quite positive, all
+participants also mentioned aspects that they experienced as negative.
+One participant mentioned occasional technical problems and another
+participant stated that her free version of the app showed too many
+advertisements. In addition, two participants mentioned minor prob-
+lems related to the app's design and usability.
+3.2.2
+|
+Perceived effects on memory
+Regarding the question as to whether and, if so, how the use of a
+smart journaling app affects different memory activities from the par-
+ticipants' personal point of view, the results confirmed the findings
+from Study 1. More specifically, all seven memory activities identified
+by the short-term users in Study 1 were also experienced by at least
+one long-time user. Furthermore, the long-time users did not report
+any additional memory activities that had not already been detected
+in Study 1. As far as the five memory activities proposed by Sellen
+and Whittaker (2010) are concerned, the two activities that were
+mentioned by most participants in Study 1, namely reflecting and recol-
+lecting (see Table 3), were also the activities that were mentioned by
+most long-time users (all long-time users in the case of reflecting and
+three in the case of recollecting). Half of the long-time users reported
+that using the smart journaling app has helped them with reminiscing
+and retrieving and one participant mentioned using the smart journal-
+ing app for remembering intentions. The interviews with the long-time
+users also confirmed the validity of the two additional subjectively
+perceived effects on memory identified in Study 1. All long-time users
+694
+HUTMACHER ET AL.
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+reported experiencing moments of anticipated noteworthiness, that is,
+moments during an actual experience in which they were aware that
+they would later store them in their smart journal. In addition, three
+long-time users had the impression that externally recording and stor-
+ing information about their lives improved their internal memory for
+past events. The one participant who had not experienced this effect
+stated that she does not believe that her “complete memory has
+improved. Only if I want to go back to specific moments: Then it is
+very helpful to read these things again.”
+3.2.3
+|
+Future expectations
+As in Study 1, participants were asked about the potential opportuni-
+ties and risks with respect to the continued use of their smart journal-
+ing apps in the last part of the interview.
+Potential opportunities
+With respect to the potential opportunities associated with a contin-
+ued use, the results confirmed the findings from Study 1. Five out of
+the seven opportunities identified in Study 1 were seen as such by all
+long-time users. This applied to the idea that possessing a detailed
+digital record of their past enables users to make comparisons and to
+trace their personal development over time, that smart journals allow
+the creation of an extensive archive while also providing a brief and
+condensed summary of one's life, that one can use the content stored
+in the diary to learn from past experiences, and that digital diaries have
+several practical benefits. The remaining two opportunities identified
+in Study 1, namely the possibility to intensively re-experience past
+events and the possible social functions of digital diaries, were seen as
+such by three long-time users. With respect to the possible social
+functions of digital diaries, the user who did not see them as a poten-
+tial opportunity stated that he keeps his diary for himself and not to
+be shared with others, especially because he has recorded very per-
+sonal thoughts and emotions. The long-time users did not report any
+additional potential opportunities that had not already been detected
+in Study 1.
+Potential risks
+The evaluation of the potential risks associated with a continued use
+of smart journaling apps was a bit more controversial among the long-
+time users than the evaluation of the potential opportunities. While
+all long-time users reported being afraid of data loss and three of them
+saw risks regarding privacy and data protection (the fourth participant
+stated that “this is something that one could think about but it does
+not really bother me”), the other risks were only confirmed by some
+long-time users whereas others provided arguments why they do not
+see these risks. Concerning the idea that using a smart journal could
+devalue the present moment, one participant stated that “if you are
+completely in the moment and enjoying the moment and then you
+take out your phone and start typing […] this could definitely snap
+you out of the moment” and another participant added that “this
+could be a risk for some people”. As these statements already make
+clear, these two participants acknowledged that such a problem could
+exist but had not directly experienced it themselves. A similar pattern
+could be observed regarding the idea that using a smart journal would
+result in spending (even) more time with digital media. While two par-
+ticipants generally acknowledged that this could be a problem without
+seeing a problem for themselves, the other two participants did not
+perceive the risk for different reasons. One participant stated that she
+only uses the smart journal for a couple of minutes per day and
+another participant remarked that keeping a smart journal is a better
+way of spending one's time with digital media than “watching some-
+thing on Instagram for the tenth time during the day”. The idea that
+possessing a detailed record of one's past would mean that no forget-
+ting takes place and that one runs at risk of being reminded of nega-
+tive events and experiences was considered “a great risk, if not the
+greatest” by one participant—and another participant added that it
+could keep individuals from suppressing memories that they may want
+to suppress. In contrast, the other two participants noted that being
+reminded of negative experiences is not necessarily negative in itself
+but could also help to “work through these negative things again in
+your mind”. The closely related risk that one could make negative
+experiences through comparison with one's former self was also per-
+ceived by two participants. In contrast, one participant stated that
+making such a negative experience could also be a starting point for
+future positive developments and should therefore not be considered
+a risk. Another participant stated that she does not consider her past
+self identical to her present self so that comparing her past to her pre-
+sent self does not lead to negative experiences: “I mean, I am a stu-
+dent now and in ten years not anymore, hopefully. And then, some
+things will have changed in my life and I don't think that I would com-
+pare it like this.” In addition to these risks identified in Study 1, one
+participant mentioned two more potential problems with the contin-
+ued use of a smart journaling app. On the one hand, the participant—
+who was the only long-time user who had not observed an improved
+internal memory—remarked that keeping a detailed record of one's life
+could lead to an inner impoverishment. In other words, the participant
+hypothesized that it would be problematic if smart journals were
+indeed used for cognitive offloading. On the other hand, the partici-
+pant stated that spending too much time with one's diary on the
+expense of sharing experiences with others could be considered a
+solipsistic endeavor.
+4
+|
+GENERAL DISCUSSION
+The present research sought to identify possible changes to autobio-
+graphical remembering in the digital age by analyzing interviews with
+users of smart journaling apps. In particular, we had two main goals.
+First, to understand the ways in which the use of a smart journaling
+app affects memory and processes of remembering from the users'
+subjective point of view. Second, to provide a comprehensive over-
+view of the opportunities and risks potentially associated with the
+continued use of a technology that allows creating a multimedia-
+based, rich, and detailed record of one's life. In Study 1, participants
+HUTMACHER ET AL.
+695
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+who had no prior experience with smart journaling apps tested the
+app Day One for 2 weeks and were interviewed about their subjective
+perceptions afterwards. In order to cross-validate the obtained find-
+ings, Study 2 was based on in-depth interviews with long-time users
+of smart journaling apps. Taken together, these two studies provide
+several important insights.
+As demonstrated in Study 1, participants believe that the use of
+smart journaling apps can positively influence the memory activities
+of recollecting, reminiscing, retrieving, reflecting, and remembering
+intentions (Sellen & Whittaker, 2010). In addition to these activities
+identified in previous research, participants described further per-
+ceived effects on processes of remembering. In particular, participants
+had the impression that externally recording and storing information
+about their lives improved their internal memory for past events. That
+is, participants do not seem to use smart journals for cognitive off-
+loading,
+but
+rather
+for
+cognitive
+augmentation
+(Eliseev
+&
+Marsh, 2021). Given that one could assume that participants are able
+to remember events from their recent past without the help of an
+external memory aid and given that the participants used the app for
+only 2 weeks, the finding that even a short-term use of a smart jour-
+naling app significantly affects the way participants assess their mem-
+ories may seem surprising—and hints at the transformative power that
+digital
+technologies
+could
+potentially
+have
+(see
+also
+Finley
+&
+Naaz, 2022, for a nuanced analysis). Support for this conclusion is also
+provided by participants' expectation that the perceived effects would
+become more pronounced with continued use.
+This coincides well with the general observation that participants
+saw many opportunities in using smart journaling apps. Interestingly,
+the opportunities described by the participants seemed to be line with
+the key functions of autobiographical memory identified in previous
+research (cf. Bluck et al., 2005). That is, participants seemed to per-
+ceive opportunities in creating a detailed and digital record of their
+lives if and insofar as this record serves the directive function (e.g., by
+giving them the opportunity to learn from past experiences), the self
+function (e.g., by equipping them with an extensive archive of their
+lives), or the social function (e.g., by enabling them to share their
+memories with others) of autobiographical memory. Apart from that,
+the positive evaluation of the smart journaling app was also mirrored
+in the participants' concrete intention to continue using the app after
+the end of the study. Despite the apparent potential of smart journal-
+ing apps to become an enriching external memory aid, however, exist-
+ing concerns regarding privacy and data protection could turn out to
+be a major problem—especially as these concerns led several partici-
+pants not to record personal and intimate information. This is particu-
+larly interesting as the participants who signed up for the study were
+fully aware of the purpose of the research. In other words, although
+these participants were generally willing and curious to try out a new
+technology, they were still hesitant to fully embrace it.
+These results regarding the perceived effects on memory and
+processes of remembering as well as regarding the potential opportu-
+nities and risks were largely corroborated by Study 2. To begin with,
+the long-time users perceived the same effects on memory and pro-
+cesses of remembering as the short-time users. In this context, two
+limitations should be noted that apply to both studies. First, the inter-
+views reported in this paper were concerned with the users' subjec-
+tive perceptions and evaluations. Hence, it remains to be determined
+whether these subjective perceptions translate into actual changes to
+autobiographical memory that can be measured. Interestingly, there
+are studies demonstrating that taking pictures can—at least under cer-
+tain conditions—improve one's internal memory (for reviews, see
+Foley, 2020; Silva et al., 2018; see also Mair et al., 2017). Against this
+background, similar studies on the other potential effects identified in
+the interviews seem highly promising. In addition, exploring in more
+detail how specific features of smart journaling apps can support spe-
+cific memory activities and the related memory systems is highly rele-
+vant from both a theoretical and a practical perspective. Second, it
+remains to be determined whether the perceived effects on memory
+and processes of remembering observed in the context of smart jour-
+nals differ substantially from the effects of traditional paper-based
+diaries (cf. Elsden, Durrant, & Kirk, 2016). As the users repeatedly
+referred to the overall usability and the wide range of functions of
+smart journaling apps when being asked about the positive features of
+these new technologies, it seems plausible to speculate that smart
+journals could indeed have new transformative effects. However,
+more research is needed to further validate this speculation—
+especially as the range of functions that the participants effectively
+used was quite limited and did not exhaust all options that the smart
+journaling apps would offer.
+As already mentioned above, the interviews with the long-time
+users in Study 2—by and large—also confirmed the results from Study
+1 regarding the potential opportunities and risks associated with the
+continued use of smart journaling apps. More specifically, short-time
+and long-time users particularly agreed with respect to the potential
+opportunities, while the potential risks identified in the interviews
+with the short-time users were a bit more controversial among the
+long-time users. Note, however, that concerns regarding privacy and
+data protection also played a major role among long-time users. The
+differences between the two studies regarding the potential risks
+could, of course, be attributable to the fact that long-term and short-
+time users have made different experiences or used the apps with dif-
+ferent motivations. While participants in Study 1 began using the app
+because they had signed up for participation in the study, participants
+in Study 2 were voluntary users who had decided to use their smart
+journaling app for personal reasons.
+However, the observed differences between the two studies
+regarding the potential risks also point to two further issues. On the
+one hand and despite Bush's (1945) early vision, the technology
+underlying smart journaling apps is still relatively new. Hence, thinking
+about potential long-term risks and benefits necessarily remains spec-
+ulative to a certain extent. On the other hand, the disagreement
+among participants mirrors the disagreement in the academic debate
+with respect to the future of autobiographical memory in the digital
+age (cf. Eliseev & Marsh, 2021; Heersmink & Carter, 2020; Storm &
+Soares, in press). As in the case of other digital technologies devel-
+oped in recent years, it seems plausible to assume that smart journals
+can have both positive and negative effects on individuals and that
+696
+HUTMACHER ET AL.
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+the strength of these effects depends on various boundary conditions
+(cf. Appel et al., 2020; Orben & Przybylski, 2019). Hence, the potential
+opportunities and risks identified by the participants can serve as a
+valuable starting point for further in-depth investigations but should
+not be taken as the last word on the subject.
+In sum, the present research provides evidence for the idea that
+autobiographical remembering could change profoundly in the digital
+age. Smart journals offer a convenient possibility to collect and com-
+bine data from different sources in order to create a multifaceted
+record of one's life. As digital technologies have already transformed
+other aspects of our daily lives, there is no reason to believe that they
+could not also transform autobiographical remembering. At the same
+time, existing concerns regarding privacy and data protection could
+potentially undermine such transformative effects as they may pre-
+vent individuals from using these technologies. Importantly, the pre-
+sent research also demonstrates that both utopian and dystopian
+visions of the future of autobiographical memory are too simplistic to
+account for the complexity of reality. Instead of discussing the
+science-fictionesque vision of a total recall (Bell & Gemmell, 2009), it
+seems more important to investigate the specific effects that digital
+technologies can have on autobiographical remembering and on the
+users' perceptions of their memories in order to enable an informed
+discussion about potential risks and benefits.
+ACKNOWLEDGMENTS
+The authors would like to thank the two anonymous reviewers for
+their extremely helpful comments and suggestions. Open Access
+funding enabled and organized by Projekt DEAL.
+CONFLICT OF INTEREST
+The authors have no conflicts of interest to declare.
+DATA AVAILABILITY STATEMENT
+Data are available upon reasonable request from the authors.
+ORCID
+Fabian Hutmacher
+https://orcid.org/0000-0002-0018-2559
+ENDNOTES
+1 Note that we are fully aware that there is a vast amount of literature on
+lifelogging (for an overview, see Selke, 2016). However, lifelogging prac-
+tices often follow in the footsteps of the vision of a total recall and are
+typically concerned with the automatic capture of quantifiable information
+about one's life. In contrast, smart journals focus more on active user
+involvement and encourage curating the stored information.
+2 As all interviews in both Study 1 and Study 2 were conducted in
+German, the direct quotes taken from the material were translated into
+English by the authors.
+REFERENCES
+Appel, M., Marker, C., & Gnambs, T. (2020). Are social media ruining our
+lives? A review of meta-analytic evidence. Review of General Psychol-
+ogy, 24(1), 60–74. https://doi.org/10.1177/1089268019880891
+Banks, R. (2011). The future of looking back. Microsoft Press.
+Bell, G., & Gemmell, J. (2009). Total recall: How the e-memory revolution will
+change everything. Dutton.
+Bluck, S., Alea, N., Habermas, T., & Rubin, D. C. (2005). A tale of three
+functions: The self-reported uses of autobiographical memory. Social
+Cognition,
+23(1),
+91–117.
+https://doi.org/10.1521/soco.23.1.91.
+59198
+Boddy, C. R. (2016). Sample size for qualitative research. Qualitative Mar-
+ket
+Research,
+19(4),
+426–432.
+https://doi.org/10.1108/QMR-06-
+2016-0053
+Brennan, R. L., & Prediger, D. J. (1981). Coefficient kappa: Some uses, mis-
+uses, and alternatives. Educational and Psychological Measurement, 41,
+687–699. https://doi.org/10.1177/001316448104100307
+Burkell, J. A. (2016). Remembering me: Big data, individual identity, and
+the psychological necessity of forgetting. Ethics and Information Tech-
+nology, 18(1), 17–23. https://doi.org/10.1007/s10676-016-9393-1
+Bush, V. (1945). As we may think. Atlantic Monthly, 176(1), 101–108.
+Clark, A. (2015). What ‘extended me’ knows. Synthese, 192(11), 3757–
+3775. https://doi.org/10.1007/s11229-015-0719-z
+Clowes, R. W. (2013). The cognitive integration of e-memory. Review of
+Philosophy and Psychology, 4(1), 107–133. https://doi.org/10.1007/
+s13164-013-0130-y
+Crete-Nishihata, M., Baecker, R. M., Massimi, M., Ptak, D., Campigotto, R.,
+Kaufman, L. D., Brickman, A. M., Turner, G. R., Steinerman, J. R., &
+Black, S. E. (2012). Reconstructing the past: Personal memory technol-
+ogies are not just personal and not just for memory. Human-Computer
+Interaction,
+27(1–2),
+92–123.
+https://doi.org/10.1080/07370024.
+2012.656062
+Donald, M. (1991). Origins of the modern mind: Three stages in the evolution
+of culture and cognition. Harvard University Press.
+Eliseev, E. D., & Marsh, E. J. (2021). Externalizing autobiographical memo-
+ries in the digital age. Trends in Cognitive Sciences, 25(12), 1072–1081.
+https://doi.org/10.1016/j.tics.2021.08.005
+Elsden, C., Durrant, A. C., & Kirk, D. S. (2016). It's just my history, isn't it?
+Understanding smart journaling practices. Proceedings of the 2016 CHI
+Conference on Human Factors in Computing Systems, 2819–2831.
+https://doi.org/10.1145/2858036.2858103
+Elsden, C., Kirk, D. S., & Durrant, A. C. (2016). A quantified past: Toward
+design for remembering with personal informatics. Human-Computer
+Interaction, 31(6), 518–557. https://doi.org/10.1080/07370024.2015.
+1093422
+Finley, J. R., & Naaz, F. (2022). Strategic use of internal and external mem-
+ory in everyday life: Episodic, semantic, procedural, and prospective
+purposes. Memory. [Advance online publication]. https://doi.org/10.
+1080/09658211.2022.2126858
+Finley, J. R., Naaz, F., & Goh, F. W. (2018). Memory and technology. How we
+use information in the brain and the world. Springer. https://doi.org/10.
+1007/978-3-319-99169-6
+Fivush, R. (2011). The development of autobiographical memory. Annual
+Review of Psychology, 62, 559–582. https://doi.org/10.1146/annurev.
+psych.121208.131702
+Foley, M. A. (2020). Effects of photographic reviews on recollections of
+the personal past: A new perspective on benefits and costs. Review of
+General
+Psychology,
+24(4),
+369–381.
+https://doi.org/10.1177/
+1089268020958686
+Guest, G., Bunce, A., & Johnson, L. (2006). How many interviews are
+enough? An experiment with data saturation and variability. Field
+Methods,
+18(1),
+59–82.
+https://doi.org/10.1177/1525822X05
+279903
+Harvey, M., Langheinrich, M., & Ward, G. (2016). Remembering through
+lifelogging: A survey of human memory augmentation. Pervasive and
+Mobile Computing, 27, 14–26. https://doi.org/10.1016/j.pmcj.2015.
+12.002
+Heersmink, R. (2017). Distributed selves: Personal identity and extended
+memory systems. Synthese, 194(8), 3135–3151. https://doi.org/10.
+1007/s11229-016-1102-4
+HUTMACHER ET AL.
+697
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Heersmink, R. (2018). The narrative self, distributed memory, and evoca-
+tive objects. Philosophical Studies, 175, 1829–1849. https://doi.org/
+10.1007/s11098-017-0935-0
+Heersmink, R. (2020). Extended mind and artifactual autobiographical mem-
+ory. Mind & Language, 37, 659–673. https://doi.org/10.1111/mila.12353
+Heersmink, R., & Carter, J. A. (2020). The philosophy of memory technolo-
+gies: Metaphysics, knowledge, and values. Memory Studies, 13(4), 416–
+433. https://doi.org/10.1177/1750698017703810
+Jacquemard, T., Novitzky, P., O'Brolchain, F., Smeaton, A. F., & Gordijn, B.
+(2014). Challenges and opportunities of lifelog technologies: A litera-
+ture review and critical analysis. Science and Engineering Ethics, 20(2),
+379–409. https://doi.org/10.1007/s11948-013-9456-1
+Kalnikaite, V., & Whittaker, S. (2012). Synergetic recollection: How to
+design lifelogging tools that help locate the right information. In M.
+Zacarias & J. V. de Oliveira (Eds.), Human-computer interaction: The
+agency perspective (pp. 329–348). Springer. https://doi.org/10.1007/
+978-3-642-25691-2_14
+Konrad, A., Isaacs, E., & Whittaker, S. (2016). Technology-mediated mem-
+ory: Is technology altering our memories and interfering with well-
+being? ACM Transactions on Computer-Human Interaction (TOCHI), 23,
+1–29. https://doi.org/10.1145/2934667
+Koops, E. J. (2011). Forgetting footprints, shunning shadows: A critical
+analysis of the ‘right to be forgotten’ in big data practice. SCRIPTed,
+8(3), 229–256. https://doi.org/10.2139/ssrn.1986719
+Kuckartz, U. (2019). Qualitative text analysis: A systematic approach. In G.
+Kaiser & N. Presmeg (Eds.), Compendium for early career researchers in
+mathematics education (pp. 181–197). Springer. https://doi.org/10.
+1007/978-3-030-15636-7_8
+Landis, J. R., & Koch, G. G. (1977). The measurement of observer agree-
+ment for categorical data. Biometrics, 33(1), 159–174. https://doi.org/
+10.2307/2529310
+Loveday, C., & Conway, M. (2011). Using SenseCam with an amnesic
+patient: Accessing inaccessible everyday memories. Memory, 19(7),
+697–704. https://doi.org/10.1080/09658211.2011.610803
+Lynch, M. (2016). The internet of us: Knowing more and understanding less in
+the age of big data. W.W. Norton and Company.
+Mair, A., Poirier, M., & Conway, M. A. (2017). Supporting older and youn-
+ger adults' memory for recent everyday events: A prospective sam-
+pling study using SenseCam. Consciousness and Cognition, 49, 190–
+202. https://doi.org/10.1016/j.concog.2017.02.008
+Manjoo, F. (2019, June 12). Why a digital diary will change your life. The
+New
+York
+Times.
+https://www.nytimes.com/2019/06/12/opinion/
+digital-diary.html
+Mayer-Schönberger, V. (2011). Delete: The virtue of forgetting in the digital
+age. Princeton University Press.
+Mayring, P. (2014). Qualitative content analysis: Theoretical foundation,
+basic
+procedures
+and
+software
+solution.
+Klagenfurt.
+http://nbn-
+resolving.de/urn:nbn:de:0168-ssoar-395173
+Mayring, P. (2021). Qualitative content analysis: A step-by-step guide. Sage.
+McAdams, D. P. (2008). Personal narratives and the life story. In O. P.
+John, R. W. Robins, & L. A. Pervin (Eds.), Handbook of personality: The-
+ory and research (pp. 242–262). The Guilford Press.
+McDaniel, M. A., & Einstein, G. O. (2007). Prospective memory: An overview
+and synthesis of an emerging field. Sage.
+Orben, A., & Przybylski, A. K. (2019). The association between adolescent
+well-being and digital technology use. Nature Human Behaviour, 3(2),
+173–182. https://doi.org/10.1038/s41562-018-0506-1
+Petrelli, D., & Whittaker, S. (2010). Family memories in the home: Con-
+trasting physical and digital mementos. Personal and Ubiquitous
+Computing, 14(2), 153–169. https://doi.org/10.1007/s00779-009-
+0279-7
+Schacter, D. (2001). The seven sins of memory: How the mind forgets and
+remembers. Houghton Mifflin.
+Schueller, S. M., Neary, M., Lai, J., & Epstein, D. A. (2021). Understanding
+people's use of and perspectives on mood-tracking apps: Interview
+study. JMIR Mental Health, 8(8), e29368. https://doi.org/10.2196/
+29368
+Selke, S. (Ed.). (2016). Lifelogging: Digital self-tracking and lifelogging—
+Between disruptive technology and cultural transformation. Springer.
+https://doi.org/10.1007/978-3-658-13137-1
+Sellen, A. J., & Whittaker, S. (2010). Beyond total capture: A constructive
+critique of lifelogging. Communications of the ACM, 53(5), 70–77.
+https://doi.org/10.1145/1735223.1735243
+Silva, A. R., Pinho, M. S., Macedo, L., & Moulin, C. J. A. (2018). A critical
+review of the effects of wearable cameras on memory. Neuropsycho-
+logical
+Rehabilitation,
+28(1),
+117–141.
+https://doi.org/10.1080/
+09602011.2015.1128450
+Storm, B. C., & Soares, J. S. (in press). Memory in the digital age. In M. J.
+Kahana & A. D. Wagner (Eds.), Handbook of human memory: Founda-
+tions and applications. Oxford University Press.
+Squire, L. R. (2004). Memory systems of the brain: A brief history and cur-
+rent perspective. Neurobiology of Learning and Memory, 82(3), 171–
+177. https://doi.org/10.1016/j.nlm.2004.06.005
+Tulving, E. (1972). Episodic and semantic memory. In E. Tulving & W.
+Donaldson (Eds.), Organization of memory (pp. 382–403). Academic.
+van den Hoven, E. (2014). A future-proof past: Designing for remembering
+experiences. Memory Studies, 7(3), 370–384. https://doi.org/10.1177/
+1750698014530625
+van den Hoven, E., & Eggen, B. (2008). Informing augmented memory sys-
+tem design through autobiographical memory theory. Personal and
+Ubiquitous
+Computing,
+12(6),
+433–443.
+https://doi.org/10.1007/
+s00779-007-0177-9
+van den Hoven, E., Sas, C., & Whittaker, S. (2012). Introduction to this spe-
+cial issue on designing for personal memories: Past, present, and
+future. Human-Computer Interaction, 27(1–2), 1–12. https://doi.org/
+10.1080/07370024.2012.673451
+van House, N., & Churchill, E. F. (2008). Technologies of memory: Key
+issues and critical perspectives. Memory Studies, 1(3), 295–310.
+https://doi.org/10.1177/1750698008093795
+SUPPORTING INFORMATION
+Additional supporting information can be found online in the Support-
+ing Information section at the end of this article.
+How to cite this article: Hutmacher, F., Schläger, L., &
+Meerson, R. (2023). Autobiographical memory in the digital
+age: Insights based on the subjective reports of users of smart
+journaling apps. Applied Cognitive Psychology, 37(4), 686–698.
+https://doi.org/10.1002/acp.4033
+698
+HUTMACHER ET AL.
+ 10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

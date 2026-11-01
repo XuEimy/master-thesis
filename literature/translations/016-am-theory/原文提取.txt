@@ -1,0 +1,1186 @@
+ORIGINAL ARTICLE
+Informing augmented memory system design
+through autobiographical memory theory
+Elise van den Hoven Æ Berry Eggen
+Received: 3 October 2005 / Accepted: 1 September 2006 / Published online: 17 July 2007
+ Springer-Verlag London Limited 2007
+Abstract
+Autobiographical memory (AM) is the ‘‘mem-
+ory for the events in one’s life’’ [1]. Often it is assumed that in
+order to remember all those events, you just need to record
+everything and when you replay these recordings you will
+remember those events. You can compare this with a library
+metaphor that has been used to explain AM according to the
+record-keeping approach. However, after many years of
+AM-research it was concluded that AM is stored in a dif-
+ferent manner, namely according to the constructionist ap-
+proach, which often is initiated by memory cues. This paper
+explains these AM theories, surveys literature on existing
+augmented memory systems and describes our own work in
+this area. All this input is combined into eight design rec-
+ommendations for future augmented memory systems.
+Keywords
+Autobiographical memory 
+Recollecting memories  Interactive system design 
+Augmented memory systems
+1 Introduction
+Most people are actively dealing with their personal
+memories. Take for example the woman who just returned
+from a holiday. Probably she will talk about her experi-
+ences with various people, which in fact is the rehearsal
+and perhaps the ﬁxation of her holiday memories. When
+she refers to other related experiences and events in the
+same conversation she is trying to relate her new memories
+to other existing memories, thereby working on her old
+memories at the same time. There even is a fair chance that
+her listeners are doing the same thing. Reminiscing is a
+recurring process, continuously shaping people’s personal
+histories and identities.
+This paper gives an overview of issues and answers that
+are relevant to people who are interested in recollecting
+memories or in designing augmented memory systems.
+These issues were subdivided into theory, on human
+memories and memory cues (Sect. 2), and practice, pre-
+senting a literature overview of (studies on) augmented
+memory systems (Sect. 3). The lessons learned from lit-
+erature and ﬁndings of our own research efforts into the
+design of an augmented memory system are combined to
+describe a set of eight design recommendations for future
+augmented memory systems (Sect. 4). The paper ends with
+conclusions in Sect. 5.
+2 Autobiographical memory
+As Bush [2] already stated in his Memex article, we should
+study the associative way in which our mind works to
+create analogies that improve recording and retrieving in an
+augmented memory system. Since this paper is concerned
+with people who are recollecting personal experiences,
+autobiographical memory (AM) is the most relevant (long-
+term) memory type to study.
+The deﬁnition of AM is ‘‘memory for the events of one’s
+life’’ [1], which includes all the people’s memories that
+E. van den Hoven (&)
+Department of Industrial Design,
+Eindhoven University of Technology,
+Den Dolech 2, HG 2.53, P.O.Box 513,
+5600 MB Eindhoven, The Netherlands
+e-mail: E.v.d.Hoven@tue.nl
+B. Eggen
+Department of Industrial Design,
+Eindhoven University of Technology,
+Den Dolech 2, HG 2.39, P.O.Box 513,
+5600 MB Eindhoven, The Netherlands
+123
+Pers Ubiquit Comput (2008) 12:433–443
+DOI 10.1007/s00779-007-0177-9
+
+
+have something to do with themselves. Episodic memory
+stores information relating to personal experiences, but
+episodic memories can exist without being autobiographi-
+cal and vice versa. It is not yet known how these two
+memory systems relate to each other, although it is certain
+that they have a large overlap in memories [3].
+Various long-term memory types have been proposed
+over the past years (see [4] for an overview), each memory-
+pair is seen as independent of other memory systems. For
+example, prospective and retrospective memory are related
+to the process of remembering, since they are concerned
+with the future and the past: prospective memory helps
+remembering to carry out intended actions and retrospec-
+tive memory remembers past events.
+2.1 Functions of autobiographical memory
+According to [5] six functions of autobiographical memory
+can be distinguished:
+1.
+The construction and maintenance of the self-concept
+(who you think you are) and self-history (what you
+have experienced in life), which shapes the personal
+identity.
+2.
+Regulating moods, e.g., when someone is feeling down
+it can help to think of positive memories.
+3.
+Making friends and maintaining relationships by
+sharing experiences, e.g., when you share personal
+memories with someone this creates a bond and as a
+result the other person might feel the need to share his
+or her personal experiences with you too.
+4.
+Problem-solving based on previous experiences, e.g.,
+if someone encounters a problem, memories of related
+experiences, actions and results are used as input to
+overcome the current problem.
+5.
+Shaping likes, dislikes, enthusiasms, beliefs and prej-
+udices, based on remembered experiences.
+6.
+Helping to predict the future based on the memories of
+the past.
+Note the wide range of AM-functions, from solely
+internal usage, to communication between people. It is
+important to realize that for none of the above-mentioned
+functions the absolute truth behind the memory is needed.
+For a long time it was assumed that memories represent the
+way events really occurred, which resulted in a memory-
+storage theory called the record-keeping approach.
+2.2 Record-keeping approach
+The oldest theory for recollection storage and retrieval
+(already described by the Greek philosopher Plato) is
+called the record-keeping approach [6]. The main idea of
+this approach is based on the metaphor that like a library is
+ﬁlled with books, human memory is ﬁlled with memories.
+In this library each book stands for a memory and every
+new experience creates a new book. Searching for a book
+represents the retrieval process and in case a stored book is
+not found, one speaks of forgetting. According to this
+theory the more memories a person has the harder it gets to
+retrieve the right memory.
+The literature examples in Sect. 3.1 show that projects
+exist which try to ‘‘record life’’ in order to ‘‘store people’s
+memories’’. These projects are based on the record-keeping
+approach.
+2.3 Constructionist approach
+The record-keeping approach is particularly suitable to
+‘‘preserve the past’’, while the constructionist approach [6]
+is more suitable for ‘‘anticipating the future’’. This theory
+describes a constantly adapting memory system. Since
+memories change connections between ideas and concepts,
+mainly recent events, patterns and unique events are stored.
+By repeating or rehearsing events (talking about them or
+experiencing similar events several times, such as eating
+breakfast every day) the connections get stronger (e.g.,
+between cereals and breakfast). This explains why a person
+remembers information relating to her expertise with less
+effort compared to new information; the ideas, concepts
+and connections are already present.
+Memory recall happens by means of reconstruction.
+Take the example that someone tries to remember what she
+did on a speciﬁc Friday around 6 p.m. First, she goes back
+to what she usually did on Fridays, she went to work.
+Usually she stopped working at about 5:30 p.m., thus she
+must have been on her way home by 6 p.m. Unless it was a
+very exceptional Friday, this person does not remember at
+what time she went home that day, but she infers it from
+her regular pattern. Although this person might be sure that
+she was on her way home that day, she might have had a
+day off, instead.
+Because of this reconstruction process memories change
+over time according to current knowledge and beliefs and
+no two recollections of a speciﬁc event are the same [7].
+Forgetting occurs when reconstruction is no longer possible
+due to too many adaptive changes.
+Currently, the constructionist approach is taken forward
+by the majority of memory researchers (e.g., as in con-
+nectionism [8]). This theory is supported by both psycho-
+logical and neurophysiological investigations [6]. From
+this constructionist approach and the general knowledge of
+the relation between memories and emotions [9], it follows
+that central components in memory foundation are: prior
+knowledge, personal importance and affect [10]. In addi-
+tion, enduring memories should be: strongly emotional, a
+turning point in the life of the individual or (remain) rel-
+434
+Pers Ubiquit Comput (2008) 12:433–443
+123
+
+
+atively unique [11]. The category ‘‘unique memories’’
+contains a speciﬁc type of memory which is remembered
+well, namely Flashbulb Memory. Flashbulb memories are
+memories for dramatic world events, such as the death of
+Lady Diana, the Princess of Wales, and the 11th of Sep-
+tember 2001 World Trade Center attacks. Those memories
+are vivid, detailed and long lasting [12].
+According to [9], in general, pleasant events are recalled
+better than unpleasant events. For more information on the
+state of the art with respect to models trying to explain the
+relations between emotion and memory, see for example
+[13].
+2.4 Levels of speciﬁcity
+A recent contribution to the constructionist theory on
+storage and retrieval, relevant for the design of augmented
+memory system, comes from a model that describes three
+levels of speciﬁcity of autobiographical memories [14]:
+1.
+Lifetime periods consist of temporal knowledge about
+the duration of a certain period and thematic knowl-
+edge about common features of this period. Often such
+a period lasts for years, for example ‘‘when I was at
+school’’. Several lifetime periods may be grouped to
+form a higher order theme, such as ‘‘work’’ or ‘‘rela-
+tionships’’.
+2.
+General events cover both repeated and single events,
+which lasted for days up to months, for example ‘‘I
+used to play with my best friends after school’’. Groups
+of general events can form clusters, such as ‘‘learning
+to ride a bike’’ or ‘‘being best friends with X’’.
+3.
+Event-speciﬁc knowledge (ESK) concerns detailed
+information unique to a single event (which can again
+be subdivided into ‘‘microdetails’’), with a duration of
+seconds or hours, for example ‘‘once when sleeping
+over at my friends house I fell and hurt myself when
+trying to do a somersault’’. ESKs are often accompa-
+nied by ‘‘images that pop into mind’’ and ESKs are
+presumably used to convince listeners that the speaker
+really remembers.
+It is thought that lifetime periods and general events are
+stored in a different structure in the brain compared to
+ESKs, since ESKs, and also the links between general
+events and ESKs, are easily forgotten except for rehearsed
+memories.
+Lifetime
+periods
+and
+general
+events
+are
+remembered better than ESKs [14].
+Memory retrieval, as demonstrated in laboratory con-
+ditions, happens in cycles. This means that recollecting
+starts with a cue or a short memory description, a dive into
+long-term memory and then a cycle starts going through
+lifetime periods, general events and ESKs. During and after
+each cycle the supervisory attentional system (SAS) checks
+whether the information retrieved does not conﬂict with the
+constraints imposed on the memory search, which include
+the mental model of the task, the current self concept and
+the active themes, goals, and plans of the self. The SAS
+determines to inhibit or increase certain activities and
+eventually to terminate the search [7].
+2.5 Cuing memories
+In previous sections it was shown that people reconstruct
+events according to the constructionist approach. This
+indicates that the memory itself cannot be stored in an
+augmented memory system, because a person is needed to
+recreate this memory for every recollection. In order to help
+people reconstruct a memory one can cue memories and
+these cues could be stored in an augmented memory system.
+A cue (or trigger) is a stimulus that can help someone to
+retrieve information from long-term memory, but only if
+this cue is related to the to-be-retrieved memory. The
+stimuli most often used in studies are photos, smells or text
+labels. But anything could be a cue (a spoken word, a color,
+an action or a person), as long as there is a link between the
+cue and the to-be-remembered event. A combination of
+cues increases the chance of retrieving a memory, espe-
+cially when a subject in a cued-recall experiment has to
+perform activities, which have to be remembered later, such
+as to write with a pen or close a door [8, 15].
+In general, there are two types of cue-usage, namely
+generative and direct retrieval, respectively caused by a
+conscious, cyclic memory search process and unconscious
+memory cuing [14].
+What kind of cues might work best for memory retrieval?
+Three memory-type categories exist on this topic, namely
+context-, state- and mood-dependent memory [8]. They are
+all based on overlap of internal or external conditions dur-
+ing the encoding of a memory and the retrieving of the same
+memory. The ﬁrst example is called the encoding-speci-
+ﬁcity principle [16] and falls within the category context-
+dependent memory. Both principle and category refer to the
+idea that a memory is easier to retrieve if the physical
+context during retrieval is (partly) the same as the physical
+context during encoding. A famous example of context-
+dependency comes from Godden and Baddeley (1975, as
+mentioned in [8]). They instructed divers to learn words
+either under water or on the beach. They found that the
+number of words recalled correctly was high if the retrieval
+context was the same as the encoding context, meaning if
+the words were learned underwater they were best recalled
+underwater and the same held for the beach condition. The
+performance dropped signiﬁcantly when the context was
+changed from underwater to beach or vice versa.
+The second category explaining a relation between cue
+and retrieval result, is called state-dependent memory,
+Pers Ubiquit Comput (2008) 12:433–443
+435
+123
+
+
+including the state-dependency effect [8]. This category
+does not focus on the external context of the person
+remembering, but the internal one, which is tested often
+with participants who are drugged or drunk. In general, it
+appears that when something is learned when drunk, it is
+best remembered when drunk.
+The third and last category is called mood-dependent
+memory, which states that retrieval is best if the mood at
+recall is similar to the mood at encoding, because of
+hypothesized distinct emotion modes [9]. Although this
+effect, which can be studied with depressed people for
+example, has been found to be strong for free-recall, the
+effect was not present in cued recall [4].
+2.6 Forgetting
+Sometimes cuing does not help recalling a speciﬁc mem-
+ory, and then one might speak of forgetting. Although
+forgetting is not yet understood completely, there is evi-
+dence in support of cue-dependent forgetting, which means
+that memories are still present in memory but they cannot
+be accessed, i.e., the right cues cannot be found [17].
+2.7 Conclusions on theory overview
+Recollecting memories from autobiographical memory,
+‘‘memory for the events of one’s life’’ [1], works by
+means of reconstructing memories, which in turn can be
+initiated by memory cues. Due to changes in, e.g., per-
+sonal belief systems, the outcome of a memory recon-
+struction can change over time. Therefore a memory is
+not always a factual representation of what actually
+happened but it can be a representation of how the event
+at this point in time reﬂects the goals of autobiographical
+memory, such as creating a personal identity or main-
+taining relationships.
+3 Augmented memory system literature
+After the introduction into autobiographical memory the-
+ory (Sect. 2) this section gives an overview of relevant
+literature on augmented memory systems, or systems that
+help people recollect memories. Since this is quite a broad
+topic, the literature is divided into four groups. Each group
+consists of studies around a central theme in recollecting:
+(1) recording life, (2) reminding tasks, (3) creating cues,
+and (4) augmented memory systems (which can also in-
+clude recording life and creating cues as tools for recol-
+lecting). The studies discussed within these categories can
+inspire future work on any type of augmented memory
+systems. As will be shown some even formulate recom-
+mendations for designing such systems.
+3.1 Recording life
+Based on the AM theories mentioned in Sect. 2 human
+memory does not ‘‘record life’’ and even if a system would
+record an event these recordings do not have to be the same
+as the personal memories of this event. However, recording
+a person’s life can be the start of recollecting memories,
+because when the recordings are later re-experienced they
+can cue the viewer. The projects mentioned below do not
+focus on cuing memories, but more on other aspects of
+having a database of facts, such as looking up appoint-
+ments. The process of recording life is made possible with
+an automatic and, in these cases, electronic ‘‘diary’’, such
+as the familiar [18]. This system contains sensors, cameras
+and microphones, that try to record everything the user
+perceives or experiences. The familiar aims at learning to
+record the right event in the multimedia diary. A similar
+study was done for the workspace [19], making use of
+cameras, sensors, displays and RFID tags, where speciﬁc
+activities with artifacts are recorded and replayed in order
+to make the user learn the location of that artifact. This
+project aims at extending human memory by recording
+events that are later shown to the user. The forget-me-not
+device [20] automatically records several types of ofﬁce
+behavior, such as meeting people, using the PC and making
+telephone calls. The user decides to look through the stored
+events later on a portable device, when she tries to
+remember a name of a colleague or the location of a
+document.
+Starner et al. [21] created a remembrance agent which is
+a text-based augmented-reality system. This agent is fed by
+a database of information recorded by means of wearable
+computing that is partly integrated in special glasses and
+partly in special clothing. The wearable computing system
+records audio and video, performs face recognition, detects
+location and body responses of the wearer. The remem-
+brance agent can be addressed by typing in commands and
+it can make suggestions to the wearer.
+Apart from above-mentioned studies there are indica-
+tions that ‘‘recording life’’ is seen as one of the great
+challenges for future research [22].
+In addition to these projects, in which recordings of
+memories are made automatically without user control,
+there are also projects in which the user can decide what to
+record and what not. The very ﬁrst ideas were already
+written down by Bush [2] who proposed the ‘‘memex’’: ‘‘a
+memex is a device in which an individual stores all his
+books, records, and communications, and which is mech-
+anized so that it may be consulted with exceeding speed
+and ﬂexibility. It is an enlarged intimate supplement to his
+memory’’. According to Bush this memex looks like an
+ordinary desk. A more recent description of such an idea is
+called ‘‘The Teddy’’ [23]. The Teddy is a small portable
+436
+Pers Ubiquit Comput (2008) 12:433–443
+123
+
+
+device that each individual carries around his whole life.
+This device can record anything and the interaction nec-
+essary for retrieval, of e.g., telephone numbers, ID-num-
+bers, or bank accounts, goes via speech recognition.
+The previous two examples consisted of ideas, while the
+following projects were implemented to record a part of a
+person’s life. The rememberer [24] is situated in a science
+museum and the beneﬁt for the user is that she can decide
+which information offered in this museum she wants to
+have access to later. The user gets a portable PDA or an
+RFID card (both with the same functionality), that can be
+used to select interesting exhibits. When doing so four
+photos are shot from the user at the speciﬁc stand. When
+the user leaves the museum she receives a fridge magnet
+with a unique URL, which links to a website with all the
+personally requested information and the photos. The
+MyLifeBits project [25] aims at providing software for
+people who record their own life by collecting all personal
+documents and media online. In the near future such
+software could be the basis for an augmented memory
+system.
+3.2 Reminding tasks
+Reminding people of tasks concerns prospective memory
+(see Sect. 2), which helps people remember things they
+have to do, like the well-known knot tied in a handkerchief.
+Examples of investigations in this area include the Mem-
+oClip [26]: a pin worn by the user reminds of a location-
+based task when this user walks into a speciﬁc area. An-
+other example is the CybreMinder [27], a system using
+location sensors, cameras and speech recognition, which
+reminds users of speciﬁc conditions, e.g., to take an um-
+brella when going outside if it is cloudy. This type of
+function is not so much related to remembering in the sense
+of reconstructing an event, as well as remembering facts.
+Therefore, the AM-theory is not needed per se, but could
+be used to facilitate remembering these facts, e.g., by using
+cues. This is done in the following project. Memory
+Glasses [28] go along with a jacket full of computing,
+sensing and a speech recognition system. Reminders,
+depending on the context, are projected on the inside of the
+memory glasses.
+Note that the above-mentioned projects all require from
+the users to insert the events they want to be reminded of
+later.
+3.3 Creating cues
+People use memory cues to help them remember (see
+Sect. 2.5). One way to create cues is to use a recording of
+an event, which is shown in the ﬁrst project [29]. A history-
+of-use of digital artifacts was created, where the traces of
+usage implicitly could help people remember what hap-
+pened to the artifact. Another way of creating cues is by
+making them explicit and let the user decide how to use
+this knowledge. This was done in the Memory Palace
+project [30] that used software to recreate a mnemonic
+device. The idea is that it helps people’s recall if they place
+their to-be-learned material in an imagined house. Later
+when they recollect the mental images of the rooms are
+used as cues to help recall.
+One aspect of creating cues was not covered in any of
+the studies mentioned in this paper and that is how an
+augmented memory system could extract information from
+an event that later could be used as a cue for recollection.
+3.4 Augmented memory systems
+Browsing through digital photos is often the basis of an
+augmented memory system as can be seen in Table 1. This
+table gives an overview of devices that are explicitly de-
+signed to support recollecting or to augment human
+memory. The text below explains the individual systems in
+some more detail.
+(It should be noted that in some cases the applications
+described are mere concepts which are not implemented as
+working demonstrators.1)
+The Personal Digital Historian [32] makes use of
+tabletop projection. Photos can be browsed by touching the
+categories who, what, when and where that are presented as
+text and based on metadata input. The system is especially
+suitable for multi-user interaction, since people can sit
+around the circular table and turn the GUI in any direction.
+However, the ceiling projector ﬁxes it to one location.
+PenPal [33] is a communication device for children
+created for a design competition. With the PenPal children
+can take photos and add sounds or voice annotations, they
+can create and send images across the internet. The pro-
+totype consisted of an LCD touch screen device with slots
+for memory cards, a camera and a microphone.
+The StoryTrack [34] is a portable touch-screen device
+which is meant for enhancing storytelling. The user can
+browse and display digital photos and add and play voice
+annotations on the prototype. The touch screen was not
+used; instead the authors mounted new input controls on
+the edges of the device. The user interface contained a
+display area, a scrollable thumbnail-overview and a section
+showing information and controls for possible annotations
+associated with the digital photo currently displayed.
+The Storytable is an art installation that combines digital
+photos, videos and songs [35]. This table contains three
+1 Commercial devices that can show digital photos and e.g., texts are
+electronic books, or e-books, such as SoftBook Reader and Rocket
+eBook [31], laptops, mobile phones and PDAs.
+Pers Ubiquit Comput (2008) 12:433–443
+437
+123
+
+
+hidden PCs and three visible PC screens. The project aimed
+at the elderly user and was designed to have two large
+buttons in the vicinity of each screen. With one of these
+buttons the user can stop videos and songs from ﬂoating
+over the screen. The other button starts playing the cur-
+rently selected media item. Typed stories can also be added
+to the system.
+The PhotoShare application [36] makes use of a pro-
+jection on a table for displaying digital photos. The user
+interacts via wooden blocks that can be put on top of a
+projected thumbnail in order to enlarge it in an appointed
+location, both local and remote.
+A project called memoryBox [37] developed a concept
+supporting random browsing and creating an interactive
+experience. Clothing buttons are each linked to one digital
+photo, just like the wooden blocks in the PhotoShare
+application. When the user runs her hand through the
+buttons in the memoryBox, the photos appear temporarily
+on the display inside the box cover.
+The Rosebud project [38] links children’s stories to
+keepsake artifacts, in this case stuffed animals. The chil-
+dren can type stories on their PC, which are ‘‘told’’ to the
+animal. The animal can even react to the stories by asking
+questions or by moving, e.g., by nodding its head or
+clapping its paws. Rosebud wants to teach children to treat
+their stuffed animals as listeners of their stories. In this
+way, a learning environment is created to improve chil-
+dren’s verbal skills.
+Artifacts can also be attached to souvenirs which is
+shown by MiMe [39]. A prototype was built based on their
+GlowTags-concept, which concerns small artifacts that can
+be linked to intimate media, such as a printed photo. Two
+people could have a copy of the same photo, each having a
+GlowTag. Then when one person touches the photo, the
+other person’s tag could start to glow, showing an intimate
+connection. The tag could also glow when the person in the
+photo has his/her birthday.
+HP’s Memory Box [40] ‘‘was built to illustrate the
+possibility of recording and attaching stories to memora-
+bilia kept in a box’’. The project focused on recording and
+playing spoken stories which were associated with a lim-
+ited number of artifacts.
+POEMs [41], which stands for physical objects with
+embedded memories, is a concept in which physical arti-
+facts are linked to digital ‘‘memories’’, such as digital
+photos, audio and video. Two scenarios and a video were
+created.
+British Telecom created a prototype of a scanner that
+can scan artifacts, such as souvenirs [42]. When an artifact
+is scanned a PC plays the attached media, like e-mail, text
+messages, websites and the TV shows photos, videos and
+audio.
+Work from Stevens et al. [43] focuses on parents who
+want to preserve memories of and for their children. Based
+on a series of interviews with parents, design activities and
+focus groups they designed the so-called living memory
+box, which makes it possible to link virtual information to
+physical artifacts. This linking is done by putting an artifact
+in a dedicated box and by selecting media-ﬁles on an at-
+tached display.
+The studies mentioned above worked on devices or
+artifacts to help people recollect their autobiographical
+memories. Some of them remain concepts, while others
+have been developed into working prototypes. Stevens
+et al. [43], presented the following recommendations for
+the design of a future augmented memory system:
+1.
+Develop the process of annotating or organizing
+memories into an activity of personal expression.
+2.
+Make the inclusion of practically any artifact possible
+(which is in line with our earlier ﬁndings, see
+Sect. 4.1).
+3.
+Bring the interaction away from the PC.
+4.
+Develop ‘‘natural’’ interactions (i.e., touch and voice).
+Table 1 Augmented memory
+systems, in the same order as
+the description in this paper, are
+categorized by the media types
+they support
+Photo
+Text
+Sound
+Video
+Artifact
+Personal Digital Historian [32]
+·
+·
+PenPal [33]
+·
+·
+·
+StoryTrack [34]
+·
+·
+·
+Storytable [35]
+·
+·
+·
+·
+PhotoShare [36]
+·
+·
+memoryBox [37]
+·
+·
+Rosebud [38]
+·
+·
+MiMe [39]
+·
+·
+Memory Box [40]
+·
+·
+POEMs [41]
+·
+·
+·
+·
+Object scanner [42]
+·
+·
+·
+·
+·
+Living Memory Box [43]
+·
+·
+·
+·
+·
+438
+Pers Ubiquit Comput (2008) 12:433–443
+123
+
+
+5.
+Encourage storytelling at any point.
+6.
+Assure the capability of multiple ‘‘voices’’.
+7.
+Create unique experiences, especially for creating and
+viewing annotations.
+3.5 Conclusions on literature overview
+The number of studies on augmented memory systems
+shows that the topic of helping people remember is a
+popular one. Despite the popularity the authors are not
+aware of studies that mention (autobiographical) memory
+theory or used it to inform their design. Most studies
+therefore do not (explicitly) identify that cues are important
+for recollecting, nor do they use the different levels of
+speciﬁcity of memories.
+The majority of examples focuses on ‘‘recording’’
+memories and not on ‘‘retrieving’’, of which the latter
+could be based on ‘‘cuing’’ or ‘‘reconstructing’’2 memories.
+Some studies do not even make a distinction between these
+processes, perhaps assuming that the process of recording
+memories can automatically make people recollect.
+All media types, from digital photos to physical arti-
+facts, can be used as memory cues in an augmented
+memory system, although none of the papers explicitly
+mentions cuing as such.
+4 Design recommendations
+Based on the literature overview of Sect. 2 we can con-
+clude that the natural way to recollect memories is by
+means of cues and this can be supported by an augmented
+memory system. Therefore our ﬁrst recommendation (R-I):
+R-I An augmented memory system should support
+memory cuing. It could cue the user automatically and
+continuously, as in daily life.
+The design recommendations given by Stevens et al.
+[43] are a ﬁrst set of guidelines that can be used for the
+design of a future augmented memory system. In the fol-
+lowing sections these recommendations will be expanded
+derived from our research on creating an in-home memory-
+recollection support [45]. The focus is on the interaction
+through physical artifacts to which memories are linked:
+souvenirs (Sect. 4.1), the implemented Digital Photo
+Browser demonstrator (Sect. 4.2) and autobiographical
+memory theory and experimentation (Sect. 4.3).
+4.1 Souvenirs
+One promising memory cue type is souvenirs, because
+physical souvenirs can create a counterbalance for the
+increasing digitization of memory cues (such as digital
+photos and digital video footage). The usage of souvenirs
+as memory cues is studied in the ﬁeld of autotopography
+[46].
+Autotopography
+studies
+personal
+collections
+of
+physical artifacts that serve as a memory landscape to the
+owner. These artifacts, such as photos, souvenirs, furni-
+ture or jewelry, physically shape an autobiography be-
+cause they link to memories that are important for the
+owner, and therefore these artifacts are important too.
+This link though is invisible and often unknown to other
+people. The collection of artifacts, its arrangement (such
+as a home altar), and its location (stored in the attic or
+placed in the middle of the living room) represent a part
+of the owner’s memory, history and thus identity. At the
+same time, these artifacts might represent desire, identi-
+ﬁcation and social relations, establishing a form of self-
+representation.
+In addition to some descriptive work on autotopography
+no investigations have been done on the real-world
+implementation of this concept. There is no data on the
+number of autotopographical artifacts, which artifacts can
+become autotopographical or what types of memories are
+attached to them. Csikszentmihalyi and Rochberg-Halton
+[47] did study which artifacts people have at home, but
+they did not ask which artifacts had a souvenir-meaning.
+They asked for favorite artifacts and then wanted to know
+why these artifacts were favorites (the number one reason
+was because of memories). We were interested the other
+way around, which physical artifacts are available in home
+that can be used as souvenirs because they cue memories.
+Therefore, we conducted a questionnaire study [45] of
+which the most relevant conclusions are summarized be-
+low.
+People appeared to have a collection of souvenirs at
+home, on average over 50 and most of these souvenirs
+could be found in the living room and the study. This
+shows that souvenirs are readily available for use together
+with an augmented memory system. Three categories of
+souvenirs were identiﬁed: holiday souvenirs, heirlooms
+(including furniture) and gifts. All three categories made
+the participants recollect memories when they looked at it,
+meaning they served as memory cues for them. Three-
+quarters of the participants had media-type associations
+with their most valuable souvenirs, on average 24.3 asso-
+ciations per souvenir, such as photos, videos, smells,
+sounds, texts. Therefore we can conclude that souvenirs
+should be considered as powerful memory cues in an
+augmented memory system, which is our second recom-
+mendation (R-II):
+2 Within the context of artiﬁcial intelligence case-based reasoning is
+used as a method to show how the reconstruction of memories could
+work [44, pp 8–9].
+Pers Ubiquit Comput (2008) 12:433–443
+439
+123
+
+
+R-II Include souvenirs in an augmented memory system
+as memory cues.
+4.2 Digital Photo Browser demonstrator
+In parallel to the studies mentioned before, we also
+developed our own augmented memory system that sup-
+ported browsing, searching and sharing digital photos in
+the home environment and it was called the Digital Photo
+Browser. This team-effort was carried out in the Phenom
+project, which was part of the Philips research program on
+ambient intelligence [48].
+Based on the results of the souvenir study mentioned in
+the previous section this Digital Photo Browser supported
+souvenirs that cued personal recollections and simulta-
+neously could be used as tangible links to digital media, in
+this case digital photo collections (see Fig. 1). One exam-
+ple activity concerns placing a souvenir on the table, which
+would trigger the handheld touch-screen device to display
+all the photos linked to the souvenir in the photo roll (on
+the right of the screen). In case you were interested to view
+one of these photos that scroll by, you could drag it to the
+center of the screen for a personal enlargement. If you
+decided that you wanted to show a particular photo to your
+guests, you could drag it to the thumbnail of the TV (on the
+left of the screen) and it would be displayed on the tele-
+vision. This supports both public and private photo
+browsing. Photos can also be displayed on a digital photo
+frame in the cupboard or can be sent to a photo printer, all
+wirelessly.
+For more details on the working Digital Photo Browser
+demonstrators, see [45, 49–52].
+More and more people create digital recollection-cues,
+such as digital photos and digital video footage. Therefore
+the design of an augmented memory system should be
+based on a digital device in order to be able to store and
+play those digital media. On the other hand, there is still the
+opportunity to combine the digital cues with the physical
+ones, like the souvenirs in the Digital Photo Browser
+demonstrator. This combination has several beneﬁts, such
+as using the physical artifacts people already have that are
+often valuable to them. Another beneﬁt is that souvenirs
+are traditionally used to cue memories, therefore helping
+the recollection process in a natural way. The combination
+of physical and digital artifacts might also help people who
+are not experienced in working with digital devices in their
+interaction with those new technologies.
+For the Digital Photo Browser the link between souvenir
+and photo seems also useful since often souvenirs are
+bought on a holiday (see previous section) and the buyer
+also creates the digital photos there, which later can be
+linked easily to the corresponding souvenir. Therefore the
+buyer and photographer, who is also the user of the Digital
+Photo Browser, will automatically have a mental model
+linking the souvenirs to the digital photos.
+Physical artifacts representing shortcuts to subsets of
+digital photos, which is called tangible interaction or a
+graspable/tangible user interface [53, 54], were chosen for
+the following reasons: (1) quick access to photos, (2) a self-
+chosen artifact is the link, so there is room for personali-
+zation, (3) people already know beforehand the mental link
+between the artifact or souvenir and the photos, since they
+created the link themselves, (4) the interaction style makes
+it possible to link physical with virtual, making digital
+photos tangible, (5) at the same time the souvenirs provide
+memory cues to the user, (6) the affordances of touching
+and releasing a physical artifact serve as natural start and
+stop events in the interaction [55] and (7) souvenirs might
+facilitate storytelling, or sharing recollections [56]. Be-
+cause of these reasons the following recommendation can
+be formulated:
+R-III Include souvenirs in an augmented memory system
+in the same way as tangible artifacts in tangible
+interaction.
+Physical artifacts, such as furniture, souvenirs, artifacts
+and printed photos, should be linked to the device and
+maintain their original function. The user can decide what
+she wants to associate to the augmented memory system
+and the options should include all kinds of media, ranging
+from a piece of text to a complete bodily experience. In this
+paper the focus is on media that are currently available for
+the regular user, namely: sounds/music, video, photos/
+pictures, physical artifacts/souvenirs/keepsakes/mementos/
+heirlooms/furniture, and text.
+Fig. 1 The Digital Photo Browser demonstrator with souvenirs as
+tangible artifacts (photo: Philips Research)
+440
+Pers Ubiquit Comput (2008) 12:433–443
+123
+
+
+4.3 Autobiographical memory
+Section 2.1 mentioned the diverse functions of autobio-
+graphical memory, including problem solving, regulating
+moods and creating and maintaining relation ships. A fu-
+ture augmented memory system could in theory support all
+these functions. The question however is whether people
+will use such a device for all these functions, since the
+focus of the examples in this paper is predominantly on
+supporting personal identity and sharing experiences with
+other people, only two of the six AM-functions.
+R-IV Choose explicitly which functions of autobiograph-
+ical memory should be supported by the augmented
+memory system and base the design of the system on
+these decisions.
+Most augmented memory system examples mentioned
+in Sect. 3 did not explicitly choose a particular AM-func-
+tion that should be supported. Most examples focused on
+implementing the recording part of the remembering pro-
+cess, without even mentioning retrieval. For an optimal
+augmented memory system the selected function and rec-
+ollection process need to be optimized. For example, an
+augmented memory system focusing on personal identity,
+needs a different recording and retrieval process, compared
+to a system recording one’s life.
+R-V Choose which part of the remembering process
+should be supported by the augmented memory system:
+recording and/or retrieving memories. Design these with
+the requirements of the chosen function (R-IV) in mind.
+An interesting remark resulting from the Maypole pro-
+ject [57] was made about the truthfulness of physical ver-
+sus digital photos. A lot of people do not know whether to
+believe the contents of a digital photo, since anybody
+nowadays can change or edit them with software on their
+own personal PCs. But, according to Maypole, printed
+photos do also not represent real everyday life in the sense
+that people go to great lengths to make a family look
+happy, successful and prosperous in a photograph, whether
+this is true or not.
+From the literature mentioned in Sect. 2 it was learned
+that memories do not stay the same over time, they are, just
+as photos, not per se a carbon-copy of reality. People’s
+beliefs and contexts change and therefore the reconstruc-
+tion of memories can change as well. This is an important
+fact for an augmented memory system, since it implies that
+this device is really only a support for the user. Ultimately,
+it is the user who has to recall the memories herself.
+Therefore:
+R-VI An augmented memory system should not neces-
+sarily present recorded material as the ‘‘only’’ instanti-
+ation of what really happened, since this might interfere
+with the actual recollections of the user.
+In addition to remembering, recollection also comprises
+rehearsal. Every time a memory has been remembered
+(thought about or communicated) this information either
+will be stored more securely, or the information changes,
+because the context has changed. This implies that adding,
+deleting or changing metadata to an augmented memory
+system should be ﬂexible. People might change their mind
+on the story behind a photo or souvenir, which requires a
+metadata system that can easily be adapted. Perhaps it
+could be interesting to keep an interaction history, such as
+the one described in [50], which keeps certain changes
+made by the user, e.g., to digital photos, as metadata.
+R-VII Create a metadata system that can be changed
+easily by the user.
+The theory on AM’s levels of speciﬁcity (Sect. 2.4)
+assumes that the process of recollecting starts with the
+highest of three levels of speciﬁcity, life-time periods, and
+continues to general events, ending with ESK. Depending
+on the goal of the augmented memory system the design
+should focus on different levels of speciﬁcity:
+R-VIII If an augmented memory system has the goal to
+support people’s remembering as much as possible, it
+should focus on ESK. If the goal is to support the general
+structure of memory, the focus has to be on lifetime
+periods and general events. If the system should support
+the user through the whole process of remembering the
+presented information should relate to the recollection
+cycle with its supervisory attentional system (SAS) and
+all three levels of speciﬁcity.
+An augmented memory system for recollection of
+everyday memories beneﬁts most from context-dependent
+memory cues (Sect. 2.5). Such cues could consist of any-
+thing physically related to the external context of the to-be-
+remembered event, ranging from photos to sounds to
+physical artifacts, which supports R-II.
+Within the context of the encoding-speciﬁcity principle
+a real-life cuing experiment was realized in order to test the
+efﬁciency of memory detail (or ESK) recall for ﬁve cue-
+types: photos, smells, sounds, souvenirs and videos [45, 58,
+59]. Against expectation, text cues (the no-cue condition)
+generated signiﬁcantly more ESKs than the cued condition.
+Our explanation for this unexpected result was that cues
+make people focus on what they perceive instead of trying
+to think of other memories that might be related. For
+example, when asking about a speciﬁc event, while giving
+the participant a photo, this person might focus on photo-
+related memories instead of freely recall any related
+memories. Therefore, if the goal is to remember as much as
+Pers Ubiquit Comput (2008) 12:433–443
+441
+123
+
+
+possible text should be the main cue type in an augmented
+memory system.
+However, it might be dangerous to restrict to text (based
+on this experiment) since there are more dimensions to
+recollecting that were not tested. Examples of these addi-
+tional dimensions are: pleasure while recollecting, the
+ability to change the user’s mood, the intensity of the
+memory, the effect of cues a long time after the memory-
+creation, the speed of the memory-recall and perhaps per-
+sonal preferences for certain cue types. Although those
+dimensions were not investigated it is assumed that e.g., the
+pleasure of the recall process is bigger with photos than with
+only text, especially in a situation where someone is com-
+municating her memories to somebody else. The pleasure
+aspect was often apparent during the summative evaluation
+of the Digital Photo Browser [45] in both storyteller and
+listener, shown by smiling faces, pointing ﬁngers towards
+the photos and concentrated conversations. In addition, cues
+might have different effects for the different age groups
+[60]. Therefore, more research is needed to investigate these
+other dimensions of the recollection experience.
+5 Conclusions
+It was long assumed that memories are stored as complete
+events and that whenever you recollect a memory, the
+complete story of the event as it happened, will come back
+to you. This is not how autobiographical memory works.
+Remembering is a process in which you reconstruct what
+happened, based on the strength of the relations between
+concepts stored in memory. This means that what you
+recollect does not have to be what happened at that speciﬁc
+point in time, since the relations between concepts or the
+concepts themselves can change over time or become
+inaccessible (which we experience as forgetting). There-
+fore an augmented memory system cannot store memories.
+Users of such a system should be able to use cues to
+initiate or facilitate this reconstruction process. They
+should (implicitly) steer the recollection process to ﬁt their
+current ‘‘vision’’ on the events that have occurred, because
+there can be reasons behind memory changes and therefore
+they should be supported. Examples of memory cues are
+photos, sounds, smells, texts and souvenirs.
+Interesting areas for future research concern how the
+different functions of autobiographical memory can be
+supported by dedicated augmented memory systems and
+what the relations are between memory cues used and the
+(kind and strength of the) memories that are recollected
+(e.g., do the cues become memories?). Of course, longi-
+tudinal studies of augmented memory systems should give
+insights in all related aspects of everyday recollecting (e.g.,
+the actual use of cues, physical and digital media).
+Acknowledgments
+The authors would like to thank I. Wessel for
+introducing us to and guiding us through the ﬁeld of autobiographical
+memory, A. Kohlrausch and M. Rauterberg for their support during
+the mentioned studies and the other members of the project team that
+created the Digital Photo Browser: E. Dijk, N. De Jong, E. Van
+Loenen, D. Tedd, D. Teixeira and Y. Qian.
+References
+1. Conway MA, Rubin DC (1993) The structure of autobiographical
+memory. In: Collins AF, Gathercole SE, Conway MA, Morris PE
+(eds) Theories of memory. Psychology Press, Hove, pp 103–137
+2. Bush V (1945) As we may think. Atl Mon 176(1):101–108
+3. Conway MA (2001) Sensory-perceptual episodic memory and its
+context: autobiographical memory. Philos Trans R Soc Lond B
+356:1375–1384
+4. Eysenck MW, Keane MT (2000) Cognitive psychology: a stu-
+dent’s handbook. Psychology Press, Hove
+5. Cohen G (1996) Memory in the real world. Psychology Press,
+Hove
+6. Guenther RK (1998) Human cognition, upper saddle river. Pre-
+ntice-Hall, USA
+7. Conway MA (1996) Autobiographical knowledge and autobio-
+graphical memories. In: Rubin DC (ed) Remembering our past:
+studies in autobiographical memory. Cambridge University Press,
+Cambridge, pp 67–93
+8. Baddeley AD (1999) Essentials of human memory. Psychology
+Press, Hove
+9. Oatley K, Jenkins JM (1996) Understanding emotions. Blackwell,
+Cambridge
+10. Rubin DC (1996) Remembering our past. Cambridge University
+Press, Cambridge
+11. Neisser U (1982) Memory observed: remembering in natural
+contexts. WH Freeman, San Francisco
+12. Brown R, Kulik J (1977) Flashbulb memories. Cognition 5:73–99
+13. Philippot P, Schaefer A (2001) Emotion and memory. In: Mayne
+TJ, Bonanno GA (eds) Emotions. Current issues and future
+directions. The Guilford Press, New York, pp 82–122
+14. Conway MA, Pleydell-Pearce CW (2000) The construction of
+autobiographical memories in the self-memory system. Psychol
+Rev 107:261–288
+15. Engelkamp J (1998) Memory for actions. Psychology Press, Hove
+16. Tulving E (1983) Elements of episodic memory. Oxford Uni-
+versity Press, Oxford
+17. Tulving E (1974) Cue-dependent forgetting. Am Sci 62:74–82
+18. Clarkson B, Mase K, Pentland A (2001) The familiar: a living
+diary and companion. In: Proceedings of the ACM conference on
+human factors in computing systems (CHI’01), pp 271–272
+19. Ikei Y, Hirose Y, Hirota K, Hirose M (2003) iFlashback: a
+wearable system for reinforcing memorization using interaction
+records. In: Proceedings of human–computer interaction inter-
+national (HCI-Int. 2003), pp 754–758
+20. Lamming M, Flynn M (1994) ‘‘Forget-me-not’’ intimate com-
+puting in support of human memory. In: Proceedings of
+FRIEND21, ‘94 international symposium on next generation
+human interface
+21. Starner T, Mann S, Rhodes B, Levine J, Healey J, Kirsch D,
+Picard R, Pentland A (1997) Augmented reality through wearable
+computing. Presence 6(4):386–398
+22. Fitzgibbon A, Reiter E (2003) ‘‘Memories for life’’: managing
+information over a human lifetime, Retrieved 14 Mar 2007, from
+http://www.csd.abdn.ac.uk/publications/TR/2002/tr0207.pdf
+23. Norman DA (1992) The Teddy, chapter 6 of the book: Turn
+signals are the facial expression of automobiles, Addison Weas-
+442
+Pers Ubiquit Comput (2008) 12:433–443
+123
+
+
+ley, but now out of print. Retrieved 14 Mar 2007, from http://
+www.jnd.org/TurnSignals/TS-TheTeddy.html
+24. Fleck M, Frid M, Kindberg, T, O’Brien-Strain, Eamonn, Rajani
+R, Spasojevic M (2002a) Rememberer: a tool for capturing mu-
+seum visits. In: Proceedings of the ubiquitous computing con-
+ference (UbiComp 2002), pp 48–55
+25. Gemmell J, Bell G, Lueder R (2006) MyLifeBits: a personal
+database for everything. Commun ACM 49(1):88–95
+26. Beigl M (2000) MemoClip: a location-based remembrance
+appliance. Pers Technol 4:230–233
+27. Dey AK, Abowd GD (2000) CybreMinder: a context-aware
+system for supporting reminder. In: Proceedings of handheld and
+ubiquitous computing (HUC’00), pp 172–186
+28. DeVaul RW, Clarkson B, Pentland AS (nd) The Memory Glas-
+ses: Towards a Wearable, Context Aware, Situation-appropriate
+Reminder System, Retrieved 6 Oct, 2003, from the Citeseer-
+website: http://citeseer.nj.nec.com/493611.html
+29. Schu¨tte AA (1998) Patina: layering a history-of-use on digital
+objects, Masters thesis. MIT Media Laboratory, Cambridge
+30. Harman J (2001) Creating a memory palace using a computer. In:
+Proceedings of the ACM conference on human factors in com-
+puting systems (CHI’01), pp 407–408
+31. Harrison BL (2000) E-Books and the future of reading. IEEE J
+Comput Graph Appl, pp 32–39
+32. Shen C, Lesh N, Vernier F (2003) Personal digital historian: story
+sharing around the table. Interactions, pp 15–22
+33. Piernot PP, Felciano RM, Stancel R, Marsh J, Yvon M (1995)
+Designing the PenPal: blending hardware and software in a user-
+interface for children. In: Proceedings of the ACM conference on
+human factors in computing systems (CHI’95), pp 511–518
+34. Balabanovic´ M, Chu LL, Wolff GJ (2000) Storytelling with
+digital photographs. In: Proceedings of the ACM conference on
+human factors in computing systems (CHI’00), pp 564–571
+35. De Verhalentafel (n.d.) Retrieved 14 Mar 2007 from De Waag’s
+website: http://www.waag.org/verhalentafel (in Dutch and partly
+in English)
+36. Greef P de, IJsselsteijn WA (2001) Social presence in a home
+tele-application. Cyberpsychol Behav 4:307–315
+37. Mingo K, Dahiya R (2002) MemoryBox project, Retrieved 14
+Mar 2007,
+from the
+Ivrea
+University
+website:
+http://pro-
+jects.interaction-ivrea.it/endofyear/en/student/desire/memory-
+box.asp#
+38. Glos J, Cassell J (1997) Rosebud: technological toys for story-
+telling. In: Proceedings of the ACM conference on human factors
+in computing systems (CHI’97), pp 359–360
+39. Multiple Intimate Media Environments (2001) Retrieved 14 Mar
+2007, from: http://www.mimeproject.org
+40. Frohlich DM, Murphy R (2000) The memory box. Pers Technol
+4:238–240
+41. Ullmer B (1997) Models and mechanisms for tangible user
+interfaces, Masters thesis. MIT Media Laboratory, Cambridge
+42. British Telecom (2003) Seashell offers digital memories, Re-
+trieved 14 Mar 2007 from BBCNews’ website: http://news.-
+bbc.co.uk/1/hi/technology/2985063.stm
+43. Stevens MM, Abowd GD, Truong KN, Vollmer F (2003) Getting
+into the living memory box: family archives & holistic design.
+Pers Ubiquitous Comput 7:210–216
+44. Watson I, Marir F (1994) Case-based reasoning: a review.
+Knowledge Eng Rev 9(4):355–381
+45. Hoven EAWH van den (2004) Graspable cues for everyday
+recollecting, Department of Industrial Design, Eindhoven Uni-
+versity of Technology, The Netherlands ISBN 90–386-1958-8
+46. Gonza´lez JA (1995) Autotopographies. In: Brahm G Jr, Driscoll
+M (eds) Prosthetic territories: politics and hypertechnologies.
+Westview Press, Boulder, pp 133–150
+47. Csikszentmihalyi M, Rochberg-Halton E (1981) The meaning of
+things: domestic symbols and the self. Cambridge University
+Press, Cambridge
+48. Aarts E, Marzano S (2003) The new everyday, views on ambient
+intelligence. 010 Publishers, Rotterdam
+49. Hoven E van den, Eggen B (2003) Digital photo browsing with
+souvenirs. In: Proceedings of the interact 2003, September 2003,
+Zurich, pp 1000–1003
+50. Qian Y (2004) Data synchronization and browsing for home
+environments, Ph.D. thesis, Technische Universiteit Eindhoven,
+The Netherlands, ISBN 90-386-0832-2
+51. Dijk EO (2004) Indoor ultrasonic position estimation using a
+single base station, Ph.D. thesis, Technische Universiteit Ein-
+dhoven, The Netherlands, ISBN 90-386-0912-4
+52. Teixeira D, Verhaegh W, Ferreira M (2003) An integrated
+framework for supporting photo retrieval activities in home
+environments. In: Proceedings of the ﬁrst european symposium
+on ambient intelligence (EUSAI 2003). Veldhoven, The Neth-
+erlands, pp 288–303
+53. Fitzmaurice GW, Ishii H, Buxton W (1995) Bricks: laying the
+foundations for graspable user interfaces. In: Proceedings of the
+ACM conference on human factors in computing systems
+(CHI’95), pp 442–449
+54. Ullmer B, Ishii H (2000) Emerging frameworks for tangible user
+interfaces. IBM Syst J 39(3/4):915–931
+55. Fitzmaurice GW (1996) Graspable user interfaces, Ph.D. thesis,
+Department of Computer Science, University of Toronto
+56. Glos J, Umaschi M (1997) Once upon an object... Computa-
+tionally-augmented toys for storytelling. In: Proceedings of the
+international conference on computational intelligence and mul-
+timedia applications (ICCIMA’97), pp 245–249
+57. Pemberton S (1999) The digital hug. Special issue of interactions,
+November and December 1999
+58. Hoven E van den, Eggen B (2003) The design of a recollection
+supporting device: a study into triggering personal recollections.
+In: Proceedings of the HCI-Int. 2003, June 2003, Crete, part II, pp
+1034–1038
+59. Hoven E van den, Eggen B, Wessel I (2003) Context-dependency
+in the real world: how different retrieval cues affect Event-Spe-
+ciﬁc Knowledge in recollections of a real-life event, SARMAC
+V, Aberdeen, July 2003
+60. Sauzeon H, N’Khaoua B, Lespinet V, Guillem F, Claverie B
+(2000) Age effect in recall performance according to levels of
+processing, elaboration, and retrieval cues. Exp Aging Res
+26:57–73
+Pers Ubiquit Comput (2008) 12:433–443
+443
+123

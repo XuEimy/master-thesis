@@ -1,0 +1,974 @@
+[
+  {
+    "page": 4,
+    "source_rect": [
+      45.6,
+      51,
+      288.5,
+      63
+    ],
+    "translation": "表1　使用的功能",
+    "size": 8,
+    "font_size": 8.0
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      45.6,
+      255,
+      288.5,
+      268
+    ],
+    "translation": "注：研究1的结果（N = 12）。",
+    "size": 7,
+    "font_size": 7.0
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      45.6,
+      285,
+      288.5,
+      297
+    ],
+    "translation": "表2　记录与未记录的内容",
+    "size": 8,
+    "font_size": 8.0
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      45.6,
+      433,
+      288.5,
+      446
+    ],
+    "translation": "注：研究1的结果（N = 12）。",
+    "size": 7,
+    "font_size": 7.0
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      45.6,
+      51,
+      288.5,
+      63
+    ],
+    "translation": "表3　感受到的记忆影响",
+    "size": 8,
+    "font_size": 8.0
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      45.6,
+      185,
+      288.5,
+      235
+    ],
+    "translation": "注：研究1的结果。研究明确询问参与者（N = 12）由Sellen和Whittaker（2010）最初区分的前五种记忆活动：回忆、追忆、检索、反思及记住意图。标星号（*）的两种影响由参与者自行提出。",
+    "size": 7,
+    "font_size": 7.0
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      45.6,
+      51,
+      550,
+      63
+    ],
+    "translation": "表4　持续使用的潜在机遇与风险",
+    "size": 8,
+    "font_size": 8.0
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      45.6,
+      535,
+      550,
+      548
+    ],
+    "translation": "注：研究1的结果（N = 12）。",
+    "size": 7,
+    "font_size": 7.0
+  },
+  {
+    "page": 7,
+    "source_rect": [
+      45.6,
+      51,
+      288.5,
+      63
+    ],
+    "translation": "表5　研究2参与者使用的智能日记应用",
+    "size": 8,
+    "font_size": 8.0
+  },
+  {
+    "page": 7,
+    "source_rect": [
+      45.6,
+      328,
+      288.5,
+      371
+    ],
+    "translation": "注：研究2中，每位参与者（N = 4）使用不同的智能日记应用。其中1人使用Day One。由于研究1的方法部分已详细描述其特点，表中不再列入Day One。",
+    "size": 7,
+    "font_size": 7.0
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      69,
+      195,
+      81
+    ],
+    "translation": "功能",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      204,
+      69,
+      282,
+      81
+    ],
+    "translation": "参与者人数",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      84,
+      200,
+      96
+    ],
+    "translation": "文字",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      98,
+      200,
+      110
+    ],
+    "translation": "自由文本",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      112,
+      200,
+      124
+    ],
+    "translation": "模板",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      126,
+      200,
+      138
+    ],
+    "translation": "标签",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      140,
+      200,
+      152
+    ],
+    "translation": "照片",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      154,
+      200,
+      166
+    ],
+    "translation": "位置",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      168,
+      200,
+      180
+    ],
+    "translation": "音频",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      182,
+      200,
+      194
+    ],
+    "translation": "视频",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      196,
+      200,
+      208
+    ],
+    "translation": "天气",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      210,
+      200,
+      222
+    ],
+    "translation": "从其他应用导入",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      224,
+      200,
+      236
+    ],
+    "translation": "扫描",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      238,
+      200,
+      250
+    ],
+    "translation": "其他",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      303,
+      195,
+      315
+    ],
+    "translation": "内容",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      204,
+      303,
+      282,
+      315
+    ],
+    "translation": "参与者人数",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      318,
+      200,
+      330
+    ],
+    "translation": "记录的内容",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      332,
+      200,
+      344
+    ],
+    "translation": "日常事件",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      346,
+      200,
+      358
+    ],
+    "translation": "重要方面",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      360,
+      200,
+      372
+    ],
+    "translation": "想法与思考",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      374,
+      200,
+      386
+    ],
+    "translation": "未记录的内容",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      388,
+      200,
+      400
+    ],
+    "translation": "日常事件",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      402,
+      200,
+      414
+    ],
+    "translation": "私人事件",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 4,
+    "source_rect": [
+      52.6,
+      416,
+      200,
+      428
+    ],
+    "translation": "负面事件与冲突",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      52.6,
+      69,
+      195,
+      81
+    ],
+    "translation": "记忆活动",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      204,
+      69,
+      282,
+      81
+    ],
+    "translation": "参与者人数",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      52.6,
+      84,
+      200,
+      96
+    ],
+    "translation": "回忆",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      52.6,
+      98,
+      200,
+      110
+    ],
+    "translation": "追忆",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      52.6,
+      112,
+      200,
+      124
+    ],
+    "translation": "检索",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      52.6,
+      126,
+      200,
+      138
+    ],
+    "translation": "反思",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      52.6,
+      140,
+      200,
+      152
+    ],
+    "translation": "记住意图",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      52.6,
+      154,
+      200,
+      166
+    ],
+    "translation": "内部记忆改善*",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 5,
+    "source_rect": [
+      52.6,
+      168,
+      200,
+      180
+    ],
+    "translation": "预期的记录价值*",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      69,
+      150,
+      89
+    ],
+    "translation": "类别",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      156,
+      69,
+      485,
+      89
+    ],
+    "translation": "示例",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      492,
+      69,
+      542,
+      89
+    ],
+    "translation": "参与者人数",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      94.5,
+      150,
+      106.5
+    ],
+    "translation": "机遇",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      108.5,
+      150,
+      141.5
+    ],
+    "translation": "比较与发展",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      108.5,
+      485,
+      141.5
+    ],
+    "translation": "“我会觉得很有意思，可以看到自己的关注点在哪里、生活中关注什么，[以及]这些是否会改变”；“会更清楚地看到自己如何发展，是否随着时间发生了变化”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      143.5,
+      150,
+      166
+    ],
+    "translation": "大型档案",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      143.5,
+      485,
+      166
+    ],
+    "translation": "“能够记起[生活中的]每一件事，是个很美好的想法，因为它们随时可以供你回忆”；“再也不会遗忘任何记忆”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      168,
+      150,
+      201
+    ],
+    "translation": "实用优势",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      168,
+      485,
+      201
+    ],
+    "translation": "“很实用，你总是随身带着它——就在应用里”；“可以很快查找东西，再次找到它们”；“我能想象它会取代相册，因为你可以更具体地知道自己何时做过什么”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      203,
+      150,
+      236
+    ],
+    "translation": "社会功能",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      203,
+      485,
+      236
+    ],
+    "translation": "“比如有了孩子或孙辈，[你可以说]：来，读读这个，这是年轻时的我”；“也许后来认识的人，能看到你之前经历过的一些事情”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      238,
+      150,
+      260.5
+    ],
+    "translation": "强烈的重新体验",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      238,
+      485,
+      260.5
+    ],
+    "translation": "“你有机会强烈地重新体验当时的想法和感受”；“仿佛能回到那个时刻，看看五个月前或一年前的生活是什么感觉”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      262.5,
+      150,
+      285
+    ],
+    "translation": "摘要",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      262.5,
+      485,
+      285
+    ],
+    "translation": "“也[拥有]那些年份的摘要，看看生活中哪些方面被我认为足够重要，值得上传”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      287,
+      150,
+      309.5
+    ],
+    "translation": "从过去经历中学习",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      287,
+      485,
+      309.5
+    ],
+    "translation": "“也许你不会再犯某些错误，因为你意识到：‘好吧，这个错误我犯过，以后不会再发生了’”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      311.5,
+      150,
+      323.5
+    ],
+    "translation": "其他",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      325.5,
+      150,
+      337.5
+    ],
+    "translation": "风险",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      339.5,
+      150,
+      372.5
+    ],
+    "translation": "隐私与数据保护",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      339.5,
+      485,
+      372.5
+    ],
+    "translation": "“在数据保护方面，我想我会有点害怕”；“别人可能访问这些内容的风险。如果真的记录了每一天的一切，自己就会完全透明[…]，甚至可能被操纵”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      374.5,
+      150,
+      407.5
+    ],
+    "translation": "比较带来的负面体验",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      374.5,
+      485,
+      407.5
+    ],
+    "translation": "“如果我记录了一年，又记录下一年，而下一年过得一团糟，再看到前一年会很难过”；“这可能会让人失去动力[…]，如果经过较长时间，你发现生活中的某些事情越来越糟”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      409.5,
+      150,
+      432
+    ],
+    "translation": "无法遗忘",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      409.5,
+      485,
+      432
+    ],
+    "translation": "“肯定也有一些经历，是你不想一遍遍再看的”；“很多时候，你可能并不想回顾人生的某些阶段”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      434,
+      150,
+      467
+    ],
+    "translation": "更多时间接触数字媒介",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      434,
+      485,
+      467
+    ],
+    "translation": "“又多了一个花更多时间用手机的理由”；“本来就已经花很多时间在手机上了——这又增加了一个让你花更多时间用手机的因素”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      469,
+      150,
+      481
+    ],
+    "translation": "数据丢失",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      469,
+      485,
+      481
+    ],
+    "translation": "“一旦没了，就全都没了”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      483,
+      150,
+      516
+    ],
+    "translation": "当下时刻贬值",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      155.8,
+      483,
+      485,
+      516
+    ],
+    "translation": "“也许这会让活在当下稍微变难。因为，我不知道，如果真的捕捉每一个时刻[…]，那个时刻本身会失去一点价值，如果你基本上随时都能访问它的话”",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 6,
+    "source_rect": [
+      52.6,
+      518,
+      150,
+      529
+    ],
+    "translation": "其他",
+    "size": 7.4,
+    "font_size": 7.4
+  },
+  {
+    "page": 7,
+    "source_rect": [
+      52.6,
+      69,
+      105,
+      81
+    ],
+    "translation": "应用",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 7,
+    "source_rect": [
+      109.7,
+      69,
+      282,
+      81
+    ],
+    "translation": "简介",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 7,
+    "source_rect": [
+      109.6,
+      84,
+      283,
+      167
+    ],
+    "translation": "Daylio（https://daylio.net/）是一款子弹日记应用，宣称可帮助用户追踪情绪与活动。用户可设定目标，调整情绪追踪所用的项目。可在日记条目中添加文字和照片。应用提供图表与汇总统计，存储的内容可以导出为PDF。",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 7,
+    "source_rect": [
+      109.6,
+      171.5,
+      283,
+      244
+    ],
+    "translation": "Diaro（https://diaroapp.com/）让用户结合文字条目与照片，也可以追踪情绪。条目可添加标签及位置信息。应用会提醒用户回顾过去的记忆，并提供图表与汇总统计。存储的内容可以导出为PDF。",
+    "size": 7.5,
+    "font_size": 7.5
+  },
+  {
+    "page": 7,
+    "source_rect": [
+      109.6,
+      248.5,
+      283,
+      322
+    ],
+    "translation": "iMoodJournal（https://www.imoodjournal.com/）是一款情绪追踪应用，允许用户记录情绪，并结合标签、位置信息及照片。应用建议使用自拍照，提供图表与汇总统计，数据可以导出。用户可设置自动提醒。",
+    "size": 7.5,
+    "font_size": 7.5
+  }
+]

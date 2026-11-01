@@ -1,0 +1,626 @@
+[
+  {
+    "page": 0,
+    "rect": [
+      13,
+      14,
+      440,
+      70
+    ],
+    "text": "研究文章",
+    "size": 30,
+    "color": "#666666",
+    "rotate": 0,
+    "source_text": "contributed articles\n",
+    "spare": 13.0,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      42,
+      130,
+      372,
+      181
+    ],
+    "text": "系统设计应聚焦人类记忆的心理学基础，而不是试图记录一切。",
+    "size": 14,
+    "color": "#007f9d",
+    "rotate": 0,
+    "source_text": "Rather than try to capture everything, system \ndesign should focus on the psychological basis \nof human memory. \n",
+    "spare": 10.60000228881836,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      36,
+      190,
+      382,
+      209
+    ],
+    "text": "Abigail Sellen、Steve Whittaker 著",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "by Abigail Sellen and Steve Whittaker \n",
+    "spare": 3.3000001907348633,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      36,
+      212,
+      382,
+      455
+    ],
+    "text": "超越全量记录：\n\n对生活日志的\n建设性批评",
+    "size": 32,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "W\nw\nv\nw\nBeyond Total \nCapture: \nA Constructive \nCritique of \nLifelogging \n",
+    "spare": 110.20001220703125,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      36,
+      518,
+      373,
+      743
+    ],
+    "text": "如果我们能够以数字形式记录自己所做和所见的一切，会怎样？如果我们能够保存接触过的每一点信息，记录经历的每一个事件，又会怎样？这种个人数字档案会是什么样子，又会如何影响我们的生活方式？对许多技术人员和研究者而言，完整“生活日志”的愿景犹如圣杯；他们认为，我们正处于一场“电子记忆”革命的边缘。\n\n过去几年，“终身记忆”的记录已成为英国计算领域的一项重大挑战（http://www.nesc.ac.uk/esi/events/Grand_Challenges/proposals/），许多研究计划致力于开发技术，支持海量个人数据归档。",
+    "size": 12,
+    "color": "#666666",
+    "rotate": 0,
+    "source_text": "What if we could digitally capture everything we do \nand see? What if we could save every bit of information \nwe touch and record every event we experience? \nWhat would such a personal digital archive be like, \nand how might it affect the way we live? This vision \nof a complete “lifelog” is the holy grail for many \ntechnologists and researchers who consider us to be \non the brink of an “e-memory” revolution. \nIn the past few years, capturing “Memories for Life” \nhas become a U.K. Grand Challenge in Computing \n(http://www.nesc.ac.uk/esi/events/Grand_Challenges/\nproposals/), and many research programs today are \ndedicated to developing technologies to support the \narchiving of vast amounts of personal data. A 2009 \n",
+    "spare": 60.99998474121094,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      382,
+      120,
+      545,
+      547
+    ],
+    "text": "Gordon Bell与Jim Gemmell在2009年出版的一本书[2]中，热情描绘了这样的未来：技术通过“全量记录”与个人有关的信息，使我们能够对人生进行“完全回忆”。这些信息包括工作中处理或看过的纸质与数字文档；收发的电子邮件、纸质邮件及即时消息；电话交谈内容；访问过的网站；信用卡交易。还包括其他日常活动的数据，例如静态图像、视频、环境声音和位置数据。最后，这些个人档案还可能补充环境测量数据，例如光照强度和温度变化，甚至身体内部的生物传感数据，例如心率和皮肤电反应，用于反映身体及情绪状态。\n\n构建如此多样的个人信息档案，需要一系列采集、管理和存储技术。如今，可穿戴传感器与网络能力的进步，加之数字存储容量的大幅增长，使这一愿景成为可行之事，也让人们对技术本身提供的可能性充满热情。\n\n进一步的推动力来自这样的设想：全面的生活日志能做什么，又会如何改变我们的生活。Czerwinski等人在2006年指出[9]，",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "book2 by Gordon Bell and Jim Gem-\nmell outlined an enthusiastic view of \na future in which technology enables \n“total recall” of our lives through “total \ncapture” of personally relevant infor-\nmation. Such information includes the \npaper and digital documents we work \non or look at; email, paper mail, and \ninstant messages sent and received; \ncontent of telephone conversations; \nWeb sites visited; and charge-card \ntransactions. Also included are data \nfrom other everyday activities (such as \nstill images, video, ambient sound and \nlocation data). Finally, these personal \narchives might also be supplemented \nwith environmental measures (such \nas light intensity and temperature \nvariation) and even internal, biosensor \ndata (such as heart rate and galvanic \nskin-response measures) reflecting our \nphysical and emotional state. \nConstructing such a diverse archive \nof personal information requires a \nrange of technologies for its capture, \nmanagement, and storage. Today’s \nadvances in wearable sensors, net-\nworking capabilities, and massive \nincreases in digital-storage capacity \nmean this vision is feasible, fueling \nenthusiasm for the possibilities of-\nfered by the technology itself. \nFurther \nimpetus \ncomes \nfrom \nspeculation about what a compre-\nhensive lifelog might do and how it \nmight change our lives. As outlined \nin 2006 by Czerwinski et al.,9 lifelog-\n",
+    "spare": 157.60003662109375,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      399,
+      557,
+      541,
+      575
+    ],
+    "text": "主要观点",
+    "size": 10,
+    "color": "#007f9d",
+    "rotate": 0,
+    "source_text": "key insights\n",
+    "spare": 1.0,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      381,
+      578,
+      545,
+      741
+    ],
+    "text": "• 当前生活日志研究聚焦“全量记录”，却未充分探索如此详尽的个人数字记录究竟能发挥什么实际作用。\n• 在评估新方法时，心理学是尚未得到充分利用的资源，可用于界定人类记忆的性质、关键过程及弱点。\n• 将心理学作为设计框架，有助于明确系统应支持哪些记忆类型、应具备哪些关键界面属性，以及如何与人类记忆协同运作，而不是取代它。",
+    "size": 8,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": " \u0007 \u0007Focusing on “total capture,” current \napproaches to lifelogging have failed \nto explore what practical purpose such \nexhaustive personal digital records \nmight actually serve. \n \u0007 \u0007Evaluating new approaches, psychology \nhas emerged as an underexploited \nresource in defining the nature of human \nmemory and its key processes and \nweaknesses.\n \u0007 \u0007Psychology as design framework could \nhelp define the types of memory such \nsystems should support, along with \ntheir key interface properties and need \nto work in synergy with human memory, \nrather than as its replacement.\n",
+    "spare": 54.99999237060547,
+    "scale": 1.0
+  },
+  {
+    "page": 0,
+    "rect": [
+      554,
+      651,
+      563,
+      742
+    ],
+    "text": "插图：Giacomo Marchesi",
+    "size": 5,
+    "color": "#111111",
+    "rotate": 90,
+    "source_text": "Illustration by Giacomo Marchesi\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      36,
+      51,
+      199,
+      742
+    ],
+    "text": "生活日志可能永久改变个人数据的使用和分享方式，使我们能够回顾人生，搜索和组织过去的经历。它可以帮助我们找到遗失的物品、回忆姓名、检索文档细节、回顾会议讨论。它还可能提供新的方式，让我们与在意的人分享数据，或向感兴趣的各方提供数据。尽管隐私与安全方面存在棘手问题——这是一个庞大议题，本文不作讨论——潜在收益仍值得开展大规模研发。这一愿景确实引人入胜。有些支持者甚至认为，新技术可以为每个人提供一套全面的“数字记忆”，以增强、乃至取代生物记忆。[2]\n\n但这些目标有多可靠？这些努力会带来什么收益？反思这些问题后，我们认为，要实现这一宏大愿景，需要更聚焦、以人为中心的研究议程。这也意味着不再执着于“记录一切”，转而更准确地说明支持人类记忆究竟意味着什么，由此形成具体的系统与明确的设计启示。\n\n## 历史\n\n尽管近来关注迅速增加，生活日志系统并非新事物。它可追溯至Vannevar Bush在1945年提出的“Memex”愿景：一种类似书桌的设备，支持个人信息库的归档、搜索和索引，围绕我们接触的文档展开。[7] 此后，它启发了许多不同系统，不过主要仍在研究实验室中。早期尝试接近原始愿景，限于在集成系统内记录数字对象。过去[11]和现在[12]的实例，实际上都是用于存储异构数字对象集合的基础设施；这些对象由用户生成或接触，包括文档、照片、网页和电子邮件。随着基础设施发展，对这些集合进行搜索、浏览及信息检索的工具也不断发展。工具常利用与对象过去情境或来源有关的元数据，",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "ging could permanently change how \nwe use and share personal data, en-\nabling us to look back over our lives \nor search through and organize past \nexperiences. It could help us find lost \nobjects, recall names, retrieve details \nin documents, and review discussions \nin meetings. It might also offer new \nways of sharing data with those we \ncare about or offer up data to inter-\nested parties. While there are knotty \nprivacy and security implications (a \nhuge topic, not addressed here), the \npotential benefits warrant substantial \nprograms of research and develop-\nment. The vision is indeed compel-\nling. Some proponents have even said \nthat new technologies could give each \nof us a comprehensive set of “digital \nmemories” to augment or even re-\nplace their biological counterparts.2 \nBut how sound are these goals? \nWhat benefits would the effort bring \nus? In reflecting on these questions \nwe see we need a more focused and \nhuman-centered research agenda to \nrealize the grand ambition. This, in \nturn, entails moving away from an ob-\nsession with “capturing everything” to \na more precise specification of what \nit means to support human memory, \nleading to specific systems and con-\ncrete design implications. \nHistory \nDespite the recent upsurge of interest, \nlifelogging systems are not new. They \ncan be traced back to Vannevar Bush’s \n1945 “Memex” vision (a sort of desk) \nsupporting the archiving, searching, \nand indexing of personal information \nstores revolving around documents \nwith which we interact.7 Since then, it \nhas inspired many different systems, \nthough mainly in research laboratories. \nEarly forays were close to the original \nvision, confined to capturing digital ob-\njects within an integrated system. Both \npast11 and present12 examples are in fact \ninfrastructures for storing collections of \nheterogeneous digital objects that users \ngenerate or encounter, including docu-\nments, photos, Web pages, and email. \nAnd as infrastructures have developed, \nso too have the tools for searching, \nbrowsing, and retrieving information \nfrom the collections. The tools often \nmake use of metadata about the various \naspects of an object’s past context, or \nprovenance (such as when and where it \n",
+    "spare": 251.79986572265625,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      209,
+      51,
+      372,
+      248
+    ],
+    "text": "例如创建时间、地点、来源人物，以及与其他对象的关系，使信息更容易重新找到，例如Dumais等人的研究。[10]\n\n不过，当今生活日志的愿景已超出单纯存储桌面数字对象。正如我们能够记录和收集人与文档的互动，也能够记录离开电脑、走出办公室后在日常世界中的活动。其关键在于，数字工具能够自动、全面地记录许多日常活动，不仅存储重要内容，也存储活动的情境细节，帮助日后访问这些内容。",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "was created, who it came from, and its \nrelationships with other objects), mak-\ning it easier to re-find information (such \nas Dumais et al.10). \nHowever, today’s lifelogging vision \nextends beyond the mere storage of \ndesktop objects. Just as we can capture \nand collect personal interactions with \ndocuments, we can capture activities \naway from the computer, out of the of-\nfice, in the everyday world. Key to it all \nis that many everyday activities can be \ncaptured automatically and compre-\nhensively through digital tools that \nallow us to not only store important \ncontent, but also contextual details of \nthe activities to help access the content \n",
+    "spare": 60.300018310546875,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      382,
+      51,
+      545,
+      248
+    ],
+    "text": "需要注意，我们将生活日志与其他更有意进行的个人数据记录活动区分开来，例如数码摄影和博客。这些活动需要人们主动选择要记录的数字材料，并面向特定受众展示。相比之下，生活日志追求数据采集毫不费力且无所不包。\n\n生活日志系统主要分为两类：\n\n**全量记录。** 目标是完整记录日常生活，尽可能连续地采集尽可能多种类的数据。数据从文档、",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "later. Note that we distinguish between \nlifelogging and other more deliberate \nactivities involving the capture of per-\nsonal data (such as digital photography \nand blogging) that involve the effortful \nselective capture and display of digital \nmaterials for a particular audience. In \ncontrast, lifelogging seeks to be effort-\nless and all-encompassing in terms of \ndata capture. \nThere are two main classes of life-\nlogging system: \nTotal capture. For this one, the tar-\nget is a complete record of everyday \nlife, capturing as many kinds of data as \npossible, as continuously as possible. \nData types range from documents to \n",
+    "spare": 68.00001525878906,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      209,
+      489,
+      543,
+      502
+    ],
+    "text": "Vannevar Bush于1945年提出的“Memex”愿景。",
+    "size": 7,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "Vannevar Bush’s 1945 “Memex” vision.\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      209,
+      731,
+      543,
+      745
+    ],
+    "text": "Gordon Bell的MyLifeBits旨在终身存储一切，实现Memex愿景。",
+    "size": 7,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "MyLifeBits by Gordon Bell is a lifetime store of everything, aiming to fulfill the Memex vision.\n",
+    "spare": 0.9000005722045898,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      42,
+      51,
+      205,
+      742
+    ],
+    "text": "图像、视频、声音、位置、环境温度，到光照水平及生物传感读数，不一而足。早期系统，例如Lamming等人[17]的系统，重点记录人的位置：用户携带或佩戴小型装置，由局域联网传感器追踪。较新的可穿戴系统使用头戴式相机和摄像机[15]、挂在颈部且由传感器触发的相机[14]（见图），以及声音采集设备。[26] 还有一些系统依靠部署仪器的环境，通过传感器或网络记录人的活动，例如MIT的“PlaceLab”（http://architecture.mit.edu/house_n/placelab.html）。\n\n**特定情境记录。** 这类系统范围较窄，旨在涉及复杂信息的特定领域中采集丰富数据。它可视为生活日志的一种专门形式，针对特定活动或活动发生的特定场所，尽可能完整、自动地记录多种数据。多数系统着重记录会议、讲座或其他与工作有关的交谈活动，使“组织知识”能够被浏览和搜索。[28] 早期系统只为录音及笔迹数据建立简单索引。较新的技术增强会议室通过多个摄像头和麦克风采集视频、声音，并与白板内容、幻灯片采集及数字笔迹结合起来。这类系统往往还包含自动概括数据、提取关键事件的软件。\n\n## 明确收益：五个R\n\n令人意外的是，许多生活日志系统没有明确描述它们能为用户带来的潜在价值，反而聚焦数据采集、检索机制等技术挑战。即便声称存在潜在收益，这些收益也往往界定不清。然而，明确这些主张究竟指什么很重要。下面，我们通过说明系统可能如何支持“五个R”，概述其对记忆的潜在收益。这五类活动分别是：回想（recollecting）、怀旧回忆（reminiscing）、信息检索（retrieving）、反思（reflecting）和记住意图（remembering intentions）。\n\n**回想。** 技术可以帮助我们",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "images to videos to sound to location \nto ambient temperature, along with \nlight levels and biosensor readings. \nIn early systems (such as Lamming \net al.17), capturing people’s locations \nwas a focus, involving users carrying \nor wearing small devices tracked by \nlocalized networked sensors. More \nrecent wearable systems use head-\nmounted still and video cameras,15 \nsensor-triggered still cameras worn \naround the neck14 (see the figure here), \nand audio-capture devices.26 Yet others \nrely on instrumented environments that \ncapture human activity through sensors \nor networks, as in MIT’s “PlaceLab” \n(http://architecture.mit.edu/house_n/\nplacelab.html). \nSituation-specific \ncapture. \nThese \nare more limited in scope, aiming to \ncapture rich data in specific domains \ninvolving complex information. They \ncan be viewed as a specialized form of \nlifelogging, aiming to record multiple \nkinds of data as completely and auto-\nmatically as possible for specific activities \nor in particular places where the activity \noccurs. Most focus on recording activi-\nties during meetings, lectures, or other \nforms of work-related conversation, al-\nlowing “organizational knowledge” to \nbe browsed and searched.28 Early sys-\ntems involved the simple indexing of \nrecorded audio and pen-stroke data. \nMore \nrecent \ntechnology-enhanced \nmeeting rooms capture video from \nmultiple cameras and microphones, \ncombining it with whiteboard content, \nslide capture, and digital pen strokes. \nOften included is software that auto-\nmatically summarizes and extracts key \nevents from the data. \nDefining the Benefits: Five Rs \nSurprisingly, many lifelogging systems \nlack an explicit description of poten-\ntial value for users, focusing instead \non technical challenges (such as data \ncapture and retrieval mechanisms). \nWhen claims are made about poten-\ntial benefits, they tend to be ill-defined. \nNevertheless, it is important to clarify \nwhat these claims might be. Here, we \noutline potential benefits for memory \nby describing the ways such systems \nmight support “the five Rs,” or the ac-\ntivities we call recollecting, reminisc-\ning, retrieving, reflecting, and remem-\nbering intentions: \nRecollecting. Technology could help \n",
+    "spare": 200.99981689453125,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      388,
+      51,
+      551,
+      742
+    ],
+    "text": "在心中“重新经历”某些具体人生经历，详细回顾过去的个人经验，通常称为“情景”记忆。[25] 记住过去经历的某些方面，可以发挥许多实际作用，例如在脑中重走行动路线以找到遗失实物；通过回想何时、何地见过某人来记起其面孔和姓名；或记住会议讨论的细节。\n\n**怀旧回忆。** 作为回想的一种特殊情况，生活日志还可帮助用户出于情绪或情感原因重历过去。人们可以独自进行，也可以在群体中共同进行，并以这一通常令人愉悦的活动本身为目的，例如与亲友观看家庭录像、翻阅相册。\n\n**信息检索。** 生活日志有望帮助我们找回多年来接触过的特定数字信息，例如文档、电子邮件和网页。检索可能包含回想的成分：找回一份文档，可能需要记起何时写过它、上次何时使用它，或将它放在哪里。另一种情况是，检索依赖推断，例如推测文档中的关键词，或思考文档可能具备的其他属性，如类型和大小。只要另有办法找到所需信息，考虑这些信息属性就完全不必涉及对过去经历的回想。\n\n**反思。** 生活日志可能支持对个人数据作更抽象的表征，促进对过去经历的反思与回顾。反思可能包括考察过去经历中的模式，例如自己的行为随时间呈现的模式。这些模式可能提供有用信息，帮助了解总体身体活动水平，或不同情境下的情绪状态，使我们能够将其与健康等其他数据联系起来。反思也可能意味着从不同角度或视点审视过去。这里的价值不是像回想那样重历过去事件，而是以新的眼光看待事物，以不同方式理解过去。[13] ",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "us mentally “re-live” specific life ex-\nperiences, thinking back in detail to \npast personal experiences (often called \n“episodic” memories25). Remembering \naspects of a past experience can serve \nmany practical purposes; examples \ninclude locating lost physical objects \nby mentally retracing our steps, recol-\nlecting faces and names by recalling \nwhen and where we met someone, or \nremembering the details of what was \ndiscussed in a meeting. \nReminiscing. As a special case of \nrecollection, lifelogs could also help \nusers re-live past experiences for emo-\ntional or sentimental reasons. This can \nbe done by individuals or socially in \ngroups, as an (often pleasurable) end \nin itself; examples are watching home \nvideos and flipping through photo al-\nbums with friends and family. \nRetrieving. Lifelogs promise to help \nus retrieve specific digital informa-\ntion we’ve encountered over the years \n(such as documents, email, and Web \npages). Retrieval can include elements \nof recollection; for example, retrieving \na document might require remember-\ning the details of when we wrote it, \nwhen we last used it, or where we put \nit. Alternatively, retrieval might de-\npend on inferential reasoning (such \nas trying to deduce keywords in a \ndocument or thinking about the docu-\nment’s other likely properties, like \ntype and size). Pondering information \nproperties need not involve recollec-\ntion of past experiences at all, as long \nas other ways are available for finding \nthe desired information. \nReflecting. Lifelogs might support \na more abstract representation of \npersonal data to facilitate reflection \non, and reviewing of, past experience. \nReflection might include examining \npatterns of past experiences (such \nas about one’s behavior over time). \nSuch patterns might provide useful \ninformation about our general level \nof physical activity or emotional states \nin different situations, allowing us to \nrelate it to other data about, say, our \nhealth. Alternatively, reflection might \ninvolve looking at one’s past experi-\nences from different angles or per-\nspectives. Here, the value is not in re-\nliving past events (as in recollecting) \nbut in seeing things anew and framing \nthe past differently.13 The value is less \nabout memory per se than it is about \n",
+    "spare": 277.19989013671875,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      215,
+      96,
+      379,
+      246
+    ],
+    "text": "令人意外的是，许多生活日志系统缺乏对用户潜在价值的明确描述，反而聚焦技术挑战。",
+    "size": 15,
+    "color": "#007f9d",
+    "rotate": 0,
+    "source_text": "Surprisingly, \nmany lifelogging \nsystems lack an \nexplicit description \nof potential value \nfor users, focusing \ninstead on technical \nchallenges.\n",
+    "spare": 68.0,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      36,
+      51,
+      199,
+      421
+    ],
+    "text": "其价值与其说在于记忆本身，不如说在于学习和自我认同。\n\n**记住意图。** 另一类活动涉及记住生活中未来要发生的事件，即“前瞻记忆”，而不是已经发生的事情。日常活动要求我们不断推迟行动并规划未来活动，例如记得办事、服药和赴约。\n\n仔细分析生活日志文献提出的用户价值后可以发现，研究总体上聚焦回想和检索过程，但这些收益通常只是隐含的，并未明确说明。\n\n## 评估\n\n生活日志系统能带来这些收益吗？确定其效用证据的一种方法，是系统评估，例如有针对性的实验室研究，以及在现实世界中的长期使用研究。然而，这些评估尚未提供足以令人信服的有效性证据；长期使用研究表明，其在研究实验室之外的影响很小。更糟的是，即便在开发这些系统的实验室内部，也很少有生活日志系统得到广泛使用。",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "learning and self-identity. \nRemembering intentions. Another \ntype of activity concerns remembering \nprospective events in one’s life (“pro-\nspective memory”), as opposed to the \nthings that have happened in the past. \nOur everyday activities require that \nwe constantly defer actions and plan \nfuture activities; examples include re-\nmembering to run errands, take medi-\ncation, and show up for appointments. \nA careful analysis of the lifelogging \nliterature for proposed user value sug-\ngests a general focus on the processes \nof recollection and retrieval, but these \nbenefits are usually implied rather \nthan explicit. \nEvaluation \nDo lifelogging systems deliver these \nbenefits? One way to identify evi-\ndence of utility is through system-\natic evaluation (such as focused lab \nstudies and studies of longer-term \nreal-world use). However, such evalu-\nations have yet to provide overwhelm-\ning evidence of effectiveness, and \nextended usage studies show little im-\npact outside research labs. Worse, few \nlifelogging systems are in widespread \nuse, even within the research laborato-\nries that developed them.\n",
+    "spare": 102.300048828125,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      209,
+      51,
+      372,
+      421
+    ],
+    "text": "实践中，全量记录系统只有少数人使用，这些人往往直接投入于相关技术；生活日志基础设施[11,12]也没有得到广泛使用。微软的Gordon Bell[2]和多伦多大学的Steve Mann[18]确实通过记录日常生活的许多方面，“践行了这一愿景”，但他们对生活日志极深的投入程度十分罕见。除此之外，全面使用全量记录系统的实例寥寥无几。\n\n在证明效用方面，更受控的系统评估同样不容乐观。SenseCam（见图）根据运动以及光照、热量强度的变化，拍摄一系列静态图像。研究表明，它能够支持日常经历的回想，以及过去事件的信息检索。[23] 然而，同一研究也发现，仅过三个月，这些图像帮助人们回想过去经历的能力就迅速下降，因此，人们有理由怀疑这类设备能否支持更长期的回想。\n\n文献中的多数评估考察的是特定情境记录系统。",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "In practice, total-capture systems \nhave been used by only a small number \nof people (often those with direct in-\nvestment in the technology), and life-\nlogging infrastructures11,12 are not in \nwidespread use. While Gordon Bell of \nMicrosoft2 and Steve Mann of the Uni-\nversity of Toronto18 have both “lived \nthe vision” by recording many aspects \nof their everyday lives, they are unusual \nin the extreme extent of their engage-\nment with lifelogging. Otherwise, \nthere are few instances of full-fledged \nuse of total capture. \nMore controlled system evaluations \nare also not encouraging in terms of \ndemonstrable utility. The SenseCam \n(see the figure), which captures a series \nof still images based on movement and \nchanges in the intensity of light and \nheat, has been shown to support the \nrecollection of everyday experience, as \nwell as retrieval of information about \npast events.23 However, the same study \nshowed that the capacity for these im-\nages to help people recollect their past \nexperience rapidly decreased after only \nthree months, casting doubt on wheth-\ner such devices can support longer-\nterm recollection. \nMost evaluations described in the \nliterature have examined situation-\n",
+    "spare": 124.00004577636719,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      382,
+      51,
+      545,
+      742
+    ],
+    "text": "例如，Filochat允许用户通过个人数字笔记访问会议中的口头信息。20世纪90年代初，惠普实验室开展的实验室实验和现场试用均表明，在支持会议信息检索方面，Filochat优于传统方法，例如纸笔记录和录音机录音。一组活跃用户对系统作出了积极评价，因为它能帮助他们生成准确的会议纪要。其他相关会议记录技术的现场研究也报告了类似发现，综述见Whittaker等人。[28] 不过，尽管早期结果积极，较新的研究仍应使我们保持怀疑：记录可能并不像最初想象的那样有用。例如，讲座录音并未显著提高学生成绩[1]；会议记录系统评估也显示，复杂记录的实际使用很少。[20]\n\n其他研究也支持这一看法：数字档案总体上可能没有人们希望的那么有价值。即使我们主动选择保存数字纪念物——这与生活日志原则不同——也很少访问它们。Petrelli与Whittaker在2010年对数字家庭纪念物，例如照片、视频、扫描图像和电子邮件，开展的研究表明，数字档案很少被访问。[19] 同一研究请拥有大量数字纪念物的人，在家中挑选具有记忆意义的物件；他们报告的物件中，数字物件不足2%。[19] 其他研究发现，即便用户收藏了数千张数码照片，其中大多数也从未被查看。[27]\n\n对数字数据缺少兴趣，并不意味着所有此类档案都价值有限，但它确实使这些档案在记住或回顾过去方面的效用受到质疑。人们或许会推测，我们只是缺少有效的档案访问技术。然而，多数针对会议、讲座的特定情境记录系统都配备了复杂的访问工具，例如多媒体搜索和专门设计的浏览界面。",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "specific capture systems. For example, \nFilochat is an application that allows \nusers to access spoken information \nfrom meetings via personal digital \nnotes. Both lab experiments and a \nfield trial at Hewlett-Packard Labs in \nthe early 1990s demonstrated Filo-\nchat’s superiority in supporting re-\ntrieval of meeting information com-\npared with traditional techniques \n(such as pen-and-paper notes and \nDictaphone recordings). An active \nuser group reported positive reactions \nto the system because it allowed them \nto generate accurate meeting min-\nutes. Similar findings were reported in \nother field studies of related meeting-\ncapture technologies; see Whittaker et \nal.28 for a review. But despite such early \npositive results, more recent research \nshould make us skeptical, suggesting \nthat records may be less useful than \nwe might first think. For example, \nlecture recordings don’t significantly \nimprove student grades,1 and evalua-\ntions of meeting-capture systems have \nshown little uptake of sophisticated \nrecords.20 \nOther research confirms the view \nthat digital archives may be generally \nless valuable than people would hope. \nEven when—contrary to lifelogging \nprinciples—we deliberately choose to \nsave digital memorabilia, we seldom \naccess them. Studies by Petrelli and \nWhittaker19 in 2010 of digital family \nmemorabilia (such as photos, videos, \nscanned images, and email) showed \nthat digital archives are rarely ac-\ncessed. In the same study, when people \nwith large collections of digital memo-\nrabilia were asked to select objects \nof mnemonic significance in their \nhomes, less than 2% of the objects they \nreported were digital.19 Other work has \nfound that users with collections of \nthousands of digital photos never ac-\ncess the majority of them.27 \nWhile this lack of interest in digi-\ntal data doesn’t imply that all such \narchives have little value, it raises \nquestions about their utility in remem-\nbering or reviewing the past. One might \nsurmise that we simply lack effective \ntechniques for accessing the archives. \nHowever, most situation-specific cap-\nture systems for meetings and lectures \ninclude sophisticated access tools \n(such as multimedia search and be-\nspoke browsing interfaces), suggesting \n",
+    "spare": 257.79986572265625,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      36,
+      715,
+      372,
+      744
+    ],
+    "text": "微软SenseCam根据运动等活动变化触发拍摄静态图像，并采集环境光照、温度等其他数据。图片由微软剑桥研究院提供。",
+    "size": 7,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "Microsoft SenseCam captures a series of still images triggered by changes in activity (such \nas movement) and includes sensors that capture other kinds of data (such as ambient light \nlevels and temperature); courtesy Microsoft Research Cambridge. \n",
+    "spare": 6.80000114440918,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      42,
+      51,
+      205,
+      742
+    ],
+    "text": "这提示，访问方式不佳很可能不是普遍适用的解释。其他研究者认为，桌面搜索等新访问工具会促进数字档案的利用。[21] 然而，谢菲尔德大学2008年有关桌面搜索的研究表明，人们只是偶尔使用它。更重要的是，并没有一致证据表明搜索质量提高会增加搜索工具的使用。[3] 这些结果说明，桌面搜索并不是让人们有效访问和利用个人数字档案的“万能解药”。\n\n总体而言，这些发现意味着，档案数据的价值可能不足以证明投入这些系统的大量努力是值得的。\n\n## 设计原则\n\n如何避免创造出使用不足的基础设施，或仅能展示概念可行性的演示系统？我们需要一个新的概念框架，更好地聚焦生活日志技术能够发挥的功能。尽管生活日志研究使用了许多记忆术语，却似乎很少关注人类记忆及其运作方式。记忆心理学研究基本受到忽视，而这些研究提供了相关概念和结果，可以直接导出新的设计原则。\n\n**有策略地针对人类记忆的弱点。** 全量记录系统不作区分，假定各类数据同样有价值，而且越多越好。常见论点是，由于我们永远不知道未来需要记住什么，因此应“尽可能多”地记录。但这种“以防万一”的原则有两个弱点。第一，我们永远不可能记录绝对的一切，因此在设计和构建系统时确实必须作出选择。例如，不同数据需要不同传感器或采集设备，增加了系统使用者和建造者面临的复杂性。第二，采集大量数据可能让最终用户不堪重负，因为他们需要维护庞大档案并从中找回有价值的信息；这种做法也忽略了海量数据给系统设计者和开发者带来的负担。\n\n既有研究可以指导未来工作。例如，",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "that having poor access is likely not a \ngeneral explanation. Other researchers \nhave argued that new access tools (such \nas desktop search) will facilitate exploi-\ntation of digital archives.21 However, \nresearch at the University of Sheffield \nin 2008 on desktop search suggests it \nis used only infrequently. More impor-\ntant, there is no consistent evidence \nthat improving the quality of search \nleads to increased use of search tools.3 \nThese results indicate that desktop \nsearch is not a “silver bullet” leading to \neffective access to and exploitation of \nour personal digital archives. \nIn general, these findings imply that \narchival data may be less valuable than \nthe considerable effort expended on \nthese systems would justify. \nDesign Principles \nHow can we prevent creating under-\nused infrastructures or only proof-of-\nconcept demonstrators? Needed is \na new conceptual framework that is \nbetter focused on the functions life-\nlogging technologies could serve. De-\nspite the memory terminology used \nin lifelogging work, little attention \nseems to focus on human memory and \nhow it operates. Psychological studies \nof memory are largely ignored, even \nthough they provide relevant concepts \nand results that lead directly to new \ndesign principles: \nStrategically targeting the weaknesses \nof human memory. Total-capture sys-\ntems are indiscriminate, assuming that \nall kinds of data are equally valuable \nand the more data the better. The argu-\nment often goes that we should capture \n“as much as we can” because we never \nknow what we might need to remem-\nber in the future. But this ”just-in-case” \nprinciple has two weaknesses: First, \nwe can never capture absolutely every-\nthing, so choices must indeed be made \nwhen designing and building systems; \nfor example, different kinds of data re-\nquire different kinds of sensors or cap-\nture devices, adding complexity for the \npeople using and building the systems. \nSecond, capturing vast arrays of data \nmight overwhelm end users maintain-\ning and retrieving valuable information \nfrom large archives; it also ignores the \nburden huge amounts of data impose \non system designers and developers. \nPrevious research provides future \nguidance; for example, psychology re-\n",
+    "spare": 243.79986572265625,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      388,
+      51,
+      551,
+      742
+    ],
+    "text": "心理学研究帮助我们更深入地理解人们最常遇到、最关键的记忆问题，使系统设计者能够聚焦真正对用户有价值的领域。这意味着，相比“记录一切”这一过于宏大的目标，生活日志系统的创造者最好将精力用于人们认为最有价值的数据，以及最令他们困扰的问题。除了记忆随时间消退的问题——许多生活日志技术隐含地针对这一问题——人们还会遭遇各种记忆扭曲和不准确，例如心不在焉、提取阻塞、错误归因、易受暗示、偏差及挥之不去的记忆。[22] 此外，几乎所有生活日志应用都聚焦支持关于过去的回溯记忆，但强有力的证据表明，人们更难记住未来打算做的事，即前瞻记忆。[24] 其他记忆研究识别出因记忆状况而严重受损的特定群体，例如阿尔茨海默病患者和老龄人群，并展示了SenseCam等视觉记录技术如何提供帮助。[4]\n\n**设计有效的提取线索，而非“记录体验”。** 生活日志支持者有时在措辞中混淆了线索提示和体验记录。这一区别或许显而易见，却值得重申。数字数据集合，例如一组数码照片和声音，可以作为触发过去事件自传体记忆的线索，但它们本身不是记忆，也绝不是个人体验的复制品。遵循这一原则，我们便更能明确探讨线索帮助记忆的具体机制。例如，元数据通过提供文档作者及写作时间等情境信息，可以提示用户找回遗失文件。另一种情况是，数字档案中的信息本身提示某段已遗忘记忆，例如一张保存的数码照片，引发对先前已经忘却之事的怀旧回忆。\n\n心理学同样有高度相关的研究，详细说明时间、地点、人物及事件等不同线索如何触发自传体记忆。",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "search provides a deeper understand-\ning of the most frequent and critical \nkinds of memory problems people have, \nallowing system designers to focus on \nareas of true value to users. This means \nthat, rather than the overambitious \ngoal of “logging everything,” creators \nof lifelogging systems would be better \noff directing their efforts at the kinds \nof data people find most valuable and \nthe issues they find most problematic. \nIn addition to the problem of the tran-\nsience of memory (implicitly addressed \nby much lifelogging technology), people \nare subject to myriad other distortions \nand inaccuracies in memory (such as \nabsentmindedness, blocking, misat-\ntribution, suggestibility, bias, and per-\nsistence).22 And while almost all lifelog-\nging applications focus on supporting \npeople’s past (retrospective) memory, \nstrong evidence indicates that people \nhave greater difficulty remembering \nwhat they intend to do in the future \n(prospective memory).24 Other memory \nstudies have identified specific groups \n(such as Alzheimer’s patients and aging \npopulations) with debilitating memory \nconditions and demonstrated how \nvisual-recording technologies (such as \nSenseCam) can be of help.4\nNot “capturing experience” but design-\ning effective retrieval cues. The language \nused by lifelog proponents sometimes \nconflates cueing with experiential cap-\nture. This distinction may seem obvi-\nous but is worth restating. Collections \nof digital data (such as sets of digital \nphotos and sounds) can serve as cues \nto trigger autobiographical memory \nabout past events but are not memo-\nries in themselves or in any way facsim-\niles of personal experience. Following \nthis principle, we are thus better able \nto address the precise mechanisms by \nwhich cues help memory. For example, \nmetadata can help cue retrieval of lost \nfiles by, say, providing contextual infor-\nmation about who wrote a document \nand when it was written. Alternatively, \ninformation in the digital archive may \nitself serve to cue a forgotten memory \n(such as when a stored digital photo \nprompts reminiscence about a previ-\nously forgotten incident). \nThere is again highly relevant psy-\nchology research detailing how differ-\nent cues (such as time, place, people, \nand events) trigger autobiographical \nmemories, suggesting (in contrast to \n",
+    "spare": 257.79986572265625,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      215,
+      96,
+      380,
+      246
+    ],
+    "text": "数字数据集合可以作为线索，触发有关过去事件的自传体记忆，但数据本身不是记忆。",
+    "size": 15,
+    "color": "#007f9d",
+    "rotate": 0,
+    "source_text": "Collections of digital \ndata can serve \nas cues to trigger \nautobiographical \nmemory about \npast events but are \nnot memories in \nthemselves. \n",
+    "spare": 68.0,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      36,
+      51,
+      199,
+      742
+    ],
+    "text": "这些研究提示，与许多生活日志界面的设计不同，地点、事件及人物比时间更能发挥线索作用。[5] 另一些研究发现，线索可能触发的是对人生中“一定发生过什么”的推断，而非真正的回想。[23] 例如，一张我们与朋友共进午餐的照片，可能使我们真的记起事件，也可能只是让我们得出“自己一定在那里”的结论。最后，回想过去高度依赖提供给人的线索类型，但对于前瞻记忆，即有关未来事件和意图的记忆，关键并不主要在于线索类型，而在于何时提供线索，让人在正确的时间和地点想起意图。[24] 这一观察提示，位置或其他情境线索等数据的采集，可以用于触发提醒，而不是提供需要被记住的内容。\n\n这些观察与生活日志领域许多常见说法相反，后者经常使用“数字记忆”“体验记录”等措辞。它们说明，理解生活日志技术能记录的线索，与这些线索所触发的记忆体验之间的准确关系，非常重要，也能为设计更好的系统提供明确启示。\n\n**支持五个R。** 多数生活日志支持者预设系统能够带来收益，却不明确说明收益是什么，假定一种系统适合所有用途。正如前文有关收益的讨论，心理学文献区分了许多不同记忆类型，每种都涉及不同的提取过程。因此，问题不只是系统记录什么，还要确定系统将如何被使用。这在很大程度上取决于目标记忆类型；更一般地说，取决于设计者希望为最终用户提供什么收益。\n\n许多全量记录系统似乎隐含地针对回想，即记住过去的个人经历。心理学文献早已表明，这些自传体记忆与视觉图像密切相关。[8] ",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "the design of many lifelogging user in-\nterfaces) that place, events, and people \nare stronger cues than time.5 Other re-\nsearch has found that cues can trigger \ninferences about what must have hap-\npened in someone’s life, rather than \ngenuine recollection23; for example, a \nphoto showing us having lunch with \nfriends may cause us to truly remember \nthe event or simply lead us to conclude \nwe must have been there. Finally, while \nrecollecting the past is highly depen-\ndent on the kind of cues presented to \npeople, for prospective memory (mem-\nory for future events and intentions), \nthe important issue is not so much \nthe type of cue but rather when a cue \nis delivered, allowing an intention to \nbe remembered at the right time and \nplace.24 This observation suggests that \nthe capture of data (such as location or \nother contextual cues) might be used to \ntrigger reminders rather than provide \ncontent to be remembered. \nThese observations run counter to \nmuch of the rhetoric surrounding life-\nlogging, where such phrases as “digital \nmemories” and “experience capture” \nare often used. They show instead the \nimportance of understanding the pre-\ncise relationship between the cues we \nare able to capture through lifelogging \ntechnologies and the memory experi-\nences they trigger, with clear impli-\ncations for how we might design im-\nproved systems. \nSupport for the Five Rs. Most lifelog-\nging proponents presume that the sys-\ntems deliver benefits without being \nspecific about what the benefits might \nbe, assuming a one-system-suits-all \napproach. As we outlined earlier in \nthe section on lifelogging benefits, the \npsychological literature distinguishes \nmany different types of memory, each \ninvolving different retrieval processes. \nThus, it is not simply a question of what \nthe system captures but determining \nhow such a system would be used. This \ndetermination depends largely on the \ntype of memory being targeted or, more \ngenerally, the kind of benefit system de-\nsigners hope to deliver to end users. \nMany total-capture systems implic-\nitly seem to address recollection, or re-\nmembering past personal experiences. \nIt is well known in the psychological \nliterature that there are strong connec-\ntions between these autobiographical \nmemories and visual images.8 This \n",
+    "spare": 253.79986572265625,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      382,
+      51,
+      545,
+      742
+    ],
+    "text": "因此，这类系统应以图像作为界面设计的主干。相反，支持信息检索的系统不一定需要关心回想，而应关注如何高效搜索庞大、异构的数据集合，并让用户访问可能支持有效搜索的元数据。如果设计者决定支持怀旧回忆，其他因素就会变得重要，例如优化与他人的数据分享。支持反思的系统可能又有所不同：它重视抽象，提供灵活、新颖的个人数据查看方式，使用户可能感到意外、受到启发或学到东西。最后，要有效提醒用户，支持记住意图的系统必须着重在合适情境中及时提供线索。\n\n应用这些记忆分类，对有效系统设计至关重要。第一，它们明确系统试图支持记忆的哪些方面；如果不明确，就难以判断系统是否成功。第二，理解相关心理过程，有助于设计者更好地支持这些过程。第三，分类可以提示新的探索方向。例如，与支持回想和信息检索的系统相比，支持怀旧回忆与反思的系统受到的关注少得多。\n\n**认知卸载与元记忆。** 许多生活日志方法的出发点，是人类记忆容易出错这一观察。支持者认为，需要将记忆负担从人身上移走，卸载到可靠、全面的外部数字存储中。即使数字档案能保存海量数据，在计算其相关成本时，也仍需仔细审视这些主张。例如，采集、创建和维护某些数据所需的努力，可能高得难以承受。此外，与利用人类自身的“有机”记忆相比，访问数据可能效率较低。\n\n人们如何、何时以及为何使用外部记忆工具，已在心理学的元记忆分支中得到广泛研究。[6] 元记忆研究关注人们对",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "suggests that the interfaces for such \nsystems should focus on images as the \nbackbone of their design. In contrast, \nsystems for retrieval need not be con-\ncerned with recollection, but rather \nwith efficient ways of searching though \nlarge heterogeneous collections of data \nand so provide access to metadata that \nmight support effective search. If sys-\ntem designers decide to support remi-\nniscence, other kinds of factors become \nimportant (such as optimizing the shar-\ning of data with others). Systems for \nreflection might be different still where \nabstraction is important, offering flex-\nible and novel methods for viewing per-\nsonal data in ways that might surprise, \nprovoke, or educate users. Finally, de-\nsigning systems to support remembering \nintentions need to focus on delivering \ntimely cues in appropriate contexts if \nthey are to provide effective reminders. \nApplying such memory taxonomies \nis vital for designing effective systems. \nFirst, they clarify the aspects of mem-\nory the systems are trying to support; \nwithout such clarification it is difficult \nto know whether the systems succeed. \nSecond, understanding the relevant \npsychological processes allows design-\ners to create systems to better support \nthe processes. Third, taxonomies can \nsuggest new directions for exploration; \nfor example, systems supporting remi-\nniscence and reflection have received \nfar less attention than those support-\ning recollection and retrieval. \nOffloading and metamemory. Much \nof the lifelogging approach is moti-\nvated by the observation that human \nmemory is fallible. Lifelog proponents \nargue we need to remove the memory \nburden from humans, offloading it to \nreliable and comprehensive external \ndigital stores. These claims need care-\nful scrutiny, as we calculate the costs \nassociated with digital archives, even \nif they make it possible to store vast \namounts of data. For example, the ef-\nfort required to capture, create, and \nmaintain some kinds of data can be \nprohibitive. Moreover, accessing data \ncan be inefficient compared with ex-\nploiting “organic” human memory. \nHow, when, and why people ex-\nploit external memory tools has been \nstudied extensively in the psychologi-\ncal subfield of metamemory,6 which \naddresses people’s understanding of \nthe strengths and weaknesses of their \n",
+    "spare": 277.19989013671875,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      209,
+      96,
+      373,
+      246
+    ],
+    "text": "与支持回想和信息检索的系统相比，支持怀旧回忆与反思的系统受到的关注少得多。",
+    "size": 15,
+    "color": "#007f9d",
+    "rotate": 0,
+    "source_text": "Systems supporting \nreminiscence and \nreflection have \nreceived far less \nattention than \nthose supporting \nrecollection and \nretrieval.\n",
+    "spare": 68.0,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      42,
+      51,
+      205,
+      742
+    ],
+    "text": "自身记忆优势与弱点的理解，以及他们克服弱点所用的策略。Kalnikaite与Whittaker[16]考察了有机记忆和元记忆如何相互作用，决定人们何时选择访问数字化谈话记录。研究发现，即便记录准确而完整，如果用户觉得不借助工具也能记住信息，就不会依赖记录。是否使用数字记忆辅助工具，还取决于访问工具的效率。事实上，研究发现，访问效率有时会压过准确性：只要方法快速、易用，参与者就愿意接受并非完全准确的结果。\n\n生活日志应用必须更好地分析这些权衡。人们什么时候应使用高效但易出错的有机记忆，而不是效率较低、却可能更准确的数字记录？系统设计者最好将生活日志看作与有机记忆协同工作的工具，而不是记忆的替代品。\n\n## 启示与研究问题\n\n对于生活日志研究，既有工作提供了四项关键启示：\n\n**选择性，而非全量记录。** 与其不加聚焦地“记录一切”，设计者应识别人类记忆表现不佳的情境，或针对用户最想记住的内容，以更有成效的方式投入精力。在这些情境下，系统才能提供最大效用。此外，人们有时可能希望遗忘，而这种看法与生活日志理念相悖。\n\n**线索，而非体验记录。** 设计者必须明确：系统并不是“记录体验”，而是提供可能触发不同类型记忆的线索。这不只是措辞欠妥的问题，而是说明我们需要更好地理解线索提示过程，才能构建真正满足用户记忆支持需求的系统。\n\n**记忆是一组复杂、多面的概念。** 记忆有不同类型，设计者必须明确目标是哪些方面，例如回想、",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "own memories and the strategies they \nemploy to overcome the weaknesses. \nKalnikaite and Whittaker16 looked at \nthe interplay between organic mem-\nory and metamemory in determining \nwhen people choose to access digital \nconversational records, showing that \neven when a digital record is accurate \nand complete, users do not rely on it \nif they feel they can remember the in-\nformation unaided. The decision to \nuse a digital-memory aid also depends \non the efficiency with which a memory \naid can be accessed. Indeed, the study \nfound that efficiency of access some-\ntimes overrides accuracy, with subjects \nbeing willing to settle for less-than-per-\nfect accuracy, as long as the method is \nquick and easy to use. \nLifelogging applications must be \nbetter at analyzing these trade-offs. \nWhen should people use efficient but \nfallible organic memory instead of less \nefficient but potentially more accurate \ndigital records? Rather than seeing \nlifelogs as replacing memory, system \ndesigners would be better off viewing \nthem as working in synergy with organ-\nic memory. \nLessons and Research Questions \nFor lifelogging research, prior work of-\nfers four key insights: \nSelectivity, not total capture. Rather \nthan unfocused efforts to “capture ev-\nerything,” system designers should \nchannel their efforts more fruitfully \nby identifying the situations where hu-\nman memory is poor or targeting the \nthings users most want to remember. \nThese situations are where the systems \nwould provide their greatest utility. \nFurthermore, people may sometimes \nwant to forget, a view anathema to the \nlifelogging philosophy. \nCues not capture. System designers \nmust be explicit about the fact that these \nsystems do not “capture experiences” \nbut instead provide cues that might trig-\nger different kinds of memories. This is \nnot a simple matter of infelicity in lan-\nguage, pointing instead to the need to \nbetter understand cueing processes to \nbuild systems that genuinely support \nuser requirements for memory support. \nMemory refers to a complex, multi-fac-\neted set of concepts. There are different \ntypes of memory, and system design-\ners must clarify the aspects of memory \nthey are targeting (such as recollection, \n",
+    "spare": 239.79986572265625,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      215,
+      51,
+      378,
+      432
+    ],
+    "text": "怀旧回忆、信息检索、反思和记住意图。更清晰的界定，应能使系统更适合预期用途，并支持用户相关认知过程。除非设计者准确知道系统要做什么，否则便无法判断设计是否成功。\n\n**协同，而非替代。** 很多支持生活日志的论述都假定系统将取代人类记忆。然而，只有当数字记录容易高效访问，而且用户认为自己的记忆不可靠时，数字记录才会被使用。设计者应利用人类记忆的优势，帮助克服其弱点，而不是试图用数字系统取代记忆。因此，生活日志必须被设计为与用户自身记忆协同运作。\n\n将记忆心理学融入新型记忆辅助技术的设计，为增强和支持人类活动开辟了令人振奋的可能性。考虑到人类记忆的多样性及其在日常生活中的表现，我们尝试勾勒一个设计空间，充分利用已经掌握的坚实心理学知识。",
+    "size": 9,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "reminiscence, retrieval, reflection, and \nremembering intentions). Greater clar-\nity should produce systems that better \nfit their intended purpose and support \nthe user’s relevant cognitive processes. \nUnless system designers know precise-\nly what their systems are intended to \ndo, they can’t determine whether their \ndesigns are successful. \nSynergy not substitution. Much of \nthe rhetoric on behalf of lifelogging as-\nsumes the systems will replace human \nmemories. However, digital records \nare used only when they are efficient to \naccess and when users feel their own \nmemory is unreliable. Rather than try \nto replace human memory with digital \nsystems, system designers should look \nto capitalize on the strengths of human \nmemory and help overcome its weak-\nnesses. Lifelogging design must there-\nfore be engineered to work in synergy \nwith users’ own memories. \nIncorporating the psychology of \nmemory into the design of novel mne-\nmonic technologies opens up exciting \npossibilities for ways to augment and \nsupport human endeavors. In light of \nthe diversity of human memory and \nhow it plays out in everyday life, we’ve \nsought to outline a design space that ex-\nploits the strong body of psychological \nknowledge we already have in hand. \t\n",
+    "spare": 146.70004272460938,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      388,
+      665,
+      549,
+      698
+    ],
+    "text": "Abigail J. Sellen（asellen@microsoft.com）是英国微软剑桥研究院的首席研究员，同时担任英国诺丁汉大学交互领域特聘教授。",
+    "size": 7,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "Abigail J. Sellen (asellen@microsoft.com) is a principal \nresearcher at Microsoft Research in Cambridge, U.K., \nand Special Professor of Interaction at the University of \nNottingham, U.K. \n",
+    "spare": 1.7000007629394531,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      388,
+      700,
+      549,
+      725
+    ],
+    "text": "Steve Whittaker（whittaker@almaden.ibm.com）是美国加利福尼亚州圣何塞IBM Almaden研究中心的研究科学家。",
+    "size": 7,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "Steve Whittaker (whittaker@almaden.ibm.com) is a \nresearch scientist at IBM Almaden Research Center, San \nJose, CA. \n",
+    "spare": 4.408696713654892,
+    "scale": 0.927536231884058
+  },
+  {
+    "page": 7,
+    "rect": [
+      215,
+      447,
+      378,
+      453
+    ],
+    "text": "参考文献",
+    "size": 7,
+    "color": "#111111",
+    "rotate": 0,
+    "source_text": "References\n",
+    "spare": 0.0,
+    "scale": 1.0
+  },
+  {
+    "page": 2,
+    "rect": [
+      16,
+      12,
+      150,
+      31
+    ],
+    "text": "研究文章",
+    "size": 10,
+    "color": "#666666",
+    "rotate": 0,
+    "source_text": "contributed articles\n",
+    "spare": 2.0,
+    "scale": 1.0
+  },
+  {
+    "page": 3,
+    "rect": [
+      441,
+      12,
+      570,
+      31
+    ],
+    "text": "研究文章",
+    "size": 10,
+    "color": "#666666",
+    "rotate": 0,
+    "source_text": "contributed articles\n",
+    "spare": 2.0,
+    "scale": 1.0
+  },
+  {
+    "page": 4,
+    "rect": [
+      16,
+      12,
+      150,
+      31
+    ],
+    "text": "研究文章",
+    "size": 10,
+    "color": "#666666",
+    "rotate": 0,
+    "source_text": "contributed articles\n",
+    "spare": 2.0,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      441,
+      12,
+      570,
+      31
+    ],
+    "text": "研究文章",
+    "size": 10,
+    "color": "#666666",
+    "rotate": 0,
+    "source_text": "contributed articles\n",
+    "spare": 2.0,
+    "scale": 1.0
+  },
+  {
+    "page": 6,
+    "rect": [
+      16,
+      12,
+      150,
+      31
+    ],
+    "text": "研究文章",
+    "size": 10,
+    "color": "#666666",
+    "rotate": 0,
+    "source_text": "contributed articles\n",
+    "spare": 2.0,
+    "scale": 1.0
+  },
+  {
+    "page": 7,
+    "rect": [
+      441,
+      12,
+      570,
+      31
+    ],
+    "text": "研究文章",
+    "size": 10,
+    "color": "#666666",
+    "rotate": 0,
+    "source_text": "contributed articles\n",
+    "spare": 2.0,
+    "scale": 1.0
+  },
+  {
+    "page": 5,
+    "rect": [
+      215,
+      600,
+      378,
+      730
+    ],
+    "text": "译本说明\nAbigail Sellen、Steve Whittaker，2010。DOI：10.1145/1735223.1735243。\nAI中文翻译，未经作者审定。用于个人阅读；参考文献题录与软件界面截图保留原文。作者任职和技术评价均按原作历史时点理解。",
+    "size": 7.5,
+    "color": "#555555",
+    "rotate": 0,
+    "source_text": "",
+    "spare": 67.5,
+    "scale": 1.0
+  }
+]

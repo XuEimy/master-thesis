@@ -1,0 +1,1247 @@
+Review of Philosophy and Psychology
+https://doi.org/10.1007/s13164-026-00831-1
+
+    SI MEMORY AND TECHNOLOGY: 4E PERSPECTIVES (HEERSMINK/MICHAELIAN)
+
+
+
+The Story of Your Life: Large Language Models and
+Personal Memory
+
+Paul Smart1         · Robert Clowes2,5         · Joel Krueger3        · Michael Boniface4
+
+Received: 20 June 2025 / Accepted: 27 May 2026
+© The Author(s) 2026
+
+
+
+Abstract
+The present paper explores how large language models (LLMs) can function as
+personal memory systems. Unlike conventional lifelogging technologies, which
+passively record data, LLMs can actively participate in memory processes through
+dialog, interpretation, and narrative generation. LLMs, we suggest, mark a new
+chapter in the history of memory technology, one characterized by the active so-
+licitation of mnemonically-relevant information and the co-production of narrative
+artifacts. Courtesy of their conversational capabilities, LLMs are poised to influence
+memory in the manner of a human social companion. This, we suggest, blurs the
+distinction between technologically- and socially-situated approaches to the shaping
+of human memory.
+
+
+
+
+      Paul Smart
+      ps02v@ecs.soton.ac.uk
+      Robert Clowes
+      robert.clowes@gmail.com
+      Joel Krueger
+      j.krueger@exeter.ac.uk
+      Michael Boniface
+      M.J.Boniface@soton.ac.uk
+
+1
+      Electronics and Computer Science, University of Southampton Highfield,
+      Southampton SO17 1BJ, UK
+2
+      Faculdade de Ciências Sociais e Humanas, Instituto de Filosofia da Nova, Universidade
+      Nova de Lisboa, Campus de Campolide - Colégio Almada Negreiros, Lisboa
+      1099-032, Portugal
+3
+      Social and Political Sciences, Philosophy and Anthropology, University of Exeter, Amory
+      Rennes Drive, Exeter EX4 4RJ, UK
+4
+      Electronics and Computer Science, University of Southampton Highfield,
+      Southampton SO17 1BJ, UK
+5
+      Institute for Philosophy II, Ruhr-Universität Bochum, Universitätsstraße 150,
+      Bochum 44801, Germany
+                                                                            P. Smart et al.
+
+
+1 Introduction
+
+From the earliest knots in strings and marks on clay tablets to the invention of writing
+and the printing press, human beings have long relied on external resources to shape
+and augment memory (Clowes 2017; Heersmink in press). These material supports
+have historically functioned as scaffolds for individual and collective recall, enabling
+the preservation and transmission of knowledge across generations. More recent
+developments—including photographs, phonographs, digital computers, smart-
+phones, search engines, and cloud-based storage—have significantly expanded the
+fidelity, flexibility, and immediacy of memory storage, providing new opportunities
+for mnemonic augmentation (Clowes 2013, 2015). Lifelogging technologies have
+emerged as a particularly important focus area for memory-related research (Dingler
+et al. 2021; Harvey et al. 2016). Such devices are designed to record and archive
+the fine-grained details of daily life, ranging from conversations and movements to
+visual and auditory experiences. As noted by Kalnikaite et al. (2010), these technolo-
+gies offer a compelling vision of “prosthetic memory”: a comprehensive, searchable
+archive of lived experience, capable of supplementing or even supplanting biologi-
+cal recall. They also provide important opportunities for therapeutic interventions
+designed to tackle memory impairments caused by injury or disease (e.g., Dubourg
+et al. 2016).
+   In this paper, we suggest that large language models (LLMs) mark a new chapter
+in the history of technologically-augmented memory. Whereas lifelogging systems
+primarily function as passive repositories that capture and store information about
+lived experience, LLMs offer a more active and participatory mode of memory sup-
+port. Courtesy of their dialogic capabilities, LLMs can act as conversational partners,
+engaging users in dynamic exchanges that contribute to the formation, retrieval, and
+enrichment of mnemonic records. In addition, the generative capabilities of LLMs
+support the co-creation of personalized narratives, helping to weave the elements of
+lived experience into an evolving life story.
+   Our aim in the present paper is to explore the status of LLMs as memory technolo-
+gies. In Sect. 2, we explore some of the innovations that enable LLMs to function as
+personal memory systems. In particular, we focus on the innovations that are driv-
+ing the development of real-world memory systems, such as MemoryBank (Zhong
+et al. 2024), Memoro (Zulfikar et al. 2024), and OS-1 (Xu et al. 2024). Section 3
+explores the ways that LLMs can contribute to memory processes, focusing on their
+role in encoding and retrieval processes. Section 4 briefly considers the theoretical
+significance of these developments, focusing on the implications for extended and
+embedded approaches to human memory. Section 5 turns to the question of a ‘good’
+memory, discussing LLM hallucinations and their relevance to personal memory.
+We conclude (in Sect. 6) by highlighting some of the ways that LLMs mark a new
+direction for philosophical and empirical research into technologically-augmented
+memory.
+
+
+
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+
+2 Large Language Models and Personal Memory
+
+LLMs are AI systems that specialize in language-related tasks, such as text genera-
+tion, translation, summarization, and question-answering. As with many contempo-
+rary AI systems, LLMs are driven by deep (multi-layer) neural networks that are
+trained on large datasets. Notable examples of LLMs include OpenAI’s GPT-5,
+Meta’s LLaMA, and Google’s Gemini system. These models exhibit exceptional
+levels of performance across a wide range of natural language processing tasks.
+From summarization and translation to creative writing and dialogue systems, LLMs
+are reshaping how machines understand and generate human-like language, often
+achieving results that rival or surpass human performance on standard benchmarks
+(e.g., Shultz et al. 2025).
+    Recent work has explored the intersection between LLMs and human memory
+from at least two perspectives. One strand focuses on the relationship between
+human bio-memory and memory-related mechanisms in LLM architectures. Dong
+et al. (in press), for example, review attempts to treat Memory-Augmented LLMs
+(MA-LLMs) as computational models of human episodic memory, evaluating how
+well such systems capture properties such as event segmentation, selective encoding,
+temporal contiguity, and dynamic updating. A second strand of research focuses on
+the use of LLMs to support human memory, either through the development of mne-
+monic aids (e.g., Maniar et al. 2025) or (more commonly) through the development
+of personalized conversational assistants (e.g., Xu et al. 2024). In principle, there is
+no reason why these two strands of research cannot overlap. Indeed, some attempts
+to support human memory explicitly rely on the integration of human-like memory
+mechanisms. The MemoryBank system, for example, incorporates a memory updat-
+ing mechanism inspired by the Ebbinghaus Forgetting Curve (Zhong et al. 2024).
+Notwithstanding these overlaps, our focus in the present paper relates to the second
+strand of research: the use of LLMs to support personal memory.
+    To clarify our use of the term, we understand personal memory to be a form of
+memory that concerns the encoding, organization, and retrieval of personal data—
+information about one’s own experiences, relationships, activities, and life events. It
+encompasses emotionally rich, self-referential episodes; semantic information about
+one’s past; and the narrative structures that integrate this information into a coherent
+sense of identity and temporal continuity. In this broad sense, biological memory
+already qualifies as a form of personal memory—it is, after all, a form of memory that
+centers on an individual’s personal past.
+    The primary challenge for LLM-based personal memory systems is to integrate
+personal data into an LLM’s responses—to somehow tailor the model’s activity to
+reflect previously encoded information. One way to achieve this is to rely on standard
+machine-learning techniques, such as fine-tuning. In practice, however, this approach
+is fraught with difficulties. The parameters of most LLMs are frozen once their ini-
+tial training is complete, meaning that their internal weights cannot be modified at
+inference time. And even when fine-tuning is technically feasible, it is often imprac-
+
+
+
+
+                                                                             13
+                                                                                             P. Smart et al.
+
+
+tical due to the risk of catastrophic forgetting1 and the overheads associated with
+data preparation. Additional problems relate to issues of transparency, control, and
+mnemonic auditing: once information has been absorbed into a model’s parameter
+space, it cannot be selectively inspected, edited, or removed. These limitations make
+conventional fine-tuning techniques an awkward fit for systems that must remain
+flexible, transparent, and responsive to ongoing changes in an individual’s personal
+history.
+    How, then, can LLMs act as a technological support for personal memory? As
+we shall see, the answer comes in the form of a distinction between what is called
+parametric (or internal) and non-parametric (or external) memory. In essence, LLMs
+are able to interact with external bodies of information (e.g., a repository of person-
+specific information), factoring this information into their generative routines. The
+distinction between parametric and non-parametric memory serves as the basis for a
+further distinction between what we will call parametric and non-parametric learn-
+ing. While parametric learning involves adjustments to an LLM’s internal parameters
+(i.e., weight matrices), non-parametric learning involves adjustments to the content
+of an external memory store. Both types of adjustment are apt to change an LLM’s
+responses, but they do so via different means.
+    Two additional innovations are relevant to our understanding of LLMs as per-
+sonal memory systems. The first is a capacity for multimodal data processing. This
+is important when it comes to dealing with the sort of data delivered by conven-
+tional lifelogging devices. Wearable cameras, for example, deliver information in
+the form of images, while health-tracking devices (e.g., Fitbits) collect information
+about physiological, behavioral, and environmental variables. Typically, this infor-
+mation needs to be transformed into something that is more amenable to linguistic
+processing (e.g., a textual description of an image). The advent of multimodal LLMs
+(e.g., GPT-4V) helps to meet this challenge, enabling disparate lifelogging data to be
+converted to a common textual format.
+    Another important innovation relates to tool use. This refers to the capacity of
+LLMs to interoperate with a wider ecology of computational systems (including other
+AI systems). This is important because LLMs are mostly intended for language pro-
+cessing, and, more specifically, language generation. Accordingly, they sometimes
+perform poorly on tasks that require mathematical calculations or logico-deductive
+reasoning (see Floridi and Chiriatti 2020). An ability to interoperate with external
+tools or systems helps to address this problem, enabling LLMs to integrate external
+computational tools into their own generative routines.
+    We thus have three innovations that are relevant to understanding the status of
+LLMs as personal memory technologies: multimodal capabilities, external memory
+and tool use. The remainder of this section offers a brief overview of these innovations.
+
+
+1
+     Catastrophic forgetting is a phenomenon whereby learning causes the model to lose previously acquired
+    knowledge.
+
+
+
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+
+2.1 Multimodal Capabilities
+
+While early LLMs were constrained to purely textual inputs and outputs, recent
+advances have produced a new generation of systems capable of processing and gen-
+erating data across a range of modalities, including images, audio, video, and sensor
+streams. These multimodal LLMs extend the interpretative and generative reach of
+language models, supporting tasks such as image captioning, visual question answer-
+ing, and cross-modal reasoning.
+   In talking of multimodal LLMs, we should make a distinction between LLMs that
+deal with multimodal data via a single architecture (e.g., a transformer architecture)
+and those that rely on interactions with other generative AI systems, such as varia-
+tional encoders and diffusion models. The former are what might be called unified
+multimodal LLMs, while the latter are what might be called modular multimodal
+LLMs. One example of a unified multimodal LLM is OpenAI’s GPT-4V model. This
+model integrates visual processing into the LLM’s transformer architecture, allow-
+ing the model to produce a textual description of the entities depicted in an image.
+One example of a modular multimodal LLM comes in the form of LLaVA (Liu et al.
+2023), which combines an LLM with a specialized machine vision module.
+   In addition to the distinction between unified and modular multimodal LLMs, there
+is a further distinction between systems that accept multimodal inputs and those that
+produce or generate multimodal outputs. The aforementioned GPT-4V model accepts
+text and images as input and generates text as an output. The appeal to multimodality
+thus occurs in respect of the model’s inputs. Other LLMs, however, can produce non-
+text content (such as images, audio, and videos) as outputs. For example, an LLM
+might generate an image based on a textual description. In most cases, these systems
+rely on additional generative AI systems to produce the actual content. OpenAI’s
+DALL-E (version 2), for example, relies on a transformer architecture for text encod-
+ing and a diffusion model for image generation.
+   Multimodal capabilities are an ongoing focus of contemporary research efforts,
+with newer systems exhibiting increasingly sophisticated abilities. Google’s Veo sys-
+tem, for example, is a state-of-the-art video generation model that accepts a combi-
+nation of image and text prompts (as input) and produces realistic video and audio
+data (as output).2 At first sight, this sort of capability might seem irrelevant to the
+status of LLMs as personal memory systems. After all, it is natural to think that the
+main objective for an LLM-based personal memory system would be the generation
+of linguistic outputs. As we will see, however, the importance of LLMs goes beyond
+their ability to transform multimodal data into a natural language format. In addition
+to such capabilities, LLMs can participate in the generation of narrative artifacts
+with multimedia content, similar to the multimedia biographies that have featured in
+dementia-related research (see Smith et al. 2009).
+
+
+2
+    See https://deepmind.google/models/veo/.
+
+
+
+
+                                                                            13
+                                                                              P. Smart et al.
+
+
+2.2 External Memory
+
+To function as a personal memory system, an LLM needs some way to store personal
+data and coordinate its responses with respect to that data. In short, LLMs require a
+capacity to assimilate new data into their generative routines. As noted above, such
+forms of assimilation can occur via the adjustment of two sorts of memory: paramet-
+ric (or internal) memory and non-parametric (or external) memory. Internal mem-
+ory refers to the information stored within the model’s internal parameters (i.e., the
+weights of a deep neural network, specifically a transformer architecture). This sort
+of memory is acquired as a result of the model’s training regime. If, for example, a
+model has been trained on a dataset that includes information about the Museum of
+Modern Art (MoMA), then the model will be in a position to answer questions about
+MoMA once the training is complete. If, for example, the model is asked about the
+address of MoMA, the model may respond by saying that “MoMA is on 53rd Street.”
+    The problem with internal memory is that it is both fallible (the model may fail to
+recall certain information) and difficult to update. The contents of internal memory
+are encoded in a highly distributed fashion, possibly across billions of parameters,
+and such distributed forms of encoding make it difficult to update specific items of
+information. If, for example, the address of MoMA should change, the only option is
+to retrain the model on the new data. In general, distributed forms of encoding make
+it difficult (if not impossible) to make targeted updates to specific information items
+(e.g., those pertaining to MoMA).
+    Enter the notion of external memory. External memory refers to a data repository
+(typically a vector database) that lies external to the LLM. When the LLM responds
+to a user query, it can access this data repository, relying on a retrieval loop to return
+query-relevant information. The retrieved information can then be used to tailor (or
+‘condition’) the LLM’s response.
+    As a means of making this clearer, suppose that an LLM was trained on data that
+did not include any information about MoMA. When this LLM is presented with a
+question such as “Where is MoMA located?”, the model may respond by saying that
+it doesn’t know, or it may report an incorrect response. Now suppose that we cre-
+ate a repository of information about MoMA, using information extracted from the
+museum’s website. This repository serves as the LLM’s external memory. When the
+aforementioned query is presented to the LLM, the LLM retrieves information from
+the repository using the query as a ‘retrieval cue’. The execution of this retrieval
+action then returns information to the LLM, where it is used as context for the LLM’s
+output. The upshot is that the LLM’s response is now coordinated with respect to two
+items of information: 1) the user’s original query, and 2) the information retrieved
+from external memory. Note that the latter type of information (the information
+retrieved from external memory) could be text that specifies the location of MoMA
+(e.g., “The main entrance is on 53rd Street, close to Sixth Avenue and just east of our
+flagship Museum Store”). In response to this enriched context, the LLM is now able
+to issue the correct response to the user’s query: “MoMA is located on 53rd Street.”
+The model is able to produce the correct answer, because (in this case) the answer to
+the user’s query is already contained in the context that drives the model’s response.
+One way to think about this is to regard the external memory as a form of long-term
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+
+memory, albeit one that trades in symbolic, linguaform encodings of domain-rele-
+vant information. The call to external memory then functions as a retrieval loop that
+returns information relevant to the current generative context. The combination of the
+user query and the retrieved information then acts as a sort of ‘working memory’ that
+drives the LLM’s responses.
+   This approach to incorporating external information into an LLM’s generative
+routines is known as Retrieval-Augmented Generation (RAG) (Lewis et al. 2020;
+Gao et al. 2024). The specific details of this technique need not concern us here.3
+What matters is simply the idea that an LLM can access external bodies of informa-
+tion and factor this information into its generative routines. This capability is central
+to understanding how LLMs can function as personal memory systems. While the
+parameters of a production-level LLM,4 such as ChatGPT, might be fixed, the con-
+tents of external memory are not so constrained. As new information is acquired, it
+can be added to external memory, thereby allowing LLM responses to be conditioned
+on the newly acquired information. Suppose, for the sake of example, that you are
+equipped with a wearable camera that periodically takes a picture of your field of
+view. This image can be posted to a multimodal LLM that generates a textual descrip-
+tion of the image, and the textual description can then be added to external memory.
+If one of the images depicts you engaged in a certain activity (a canoeing activity,
+for example), then information about this activity will now be stored as a record in
+external memory. If you subsequently ask the LLM whether you have been engaged
+in a canoeing activity, the LLM will use your query as a retrieval cue, attempting
+to retrieve relevant information from its external memory. Assuming the retrieval
+routine succeeds, information about your canoeing trip will be made available to the
+LLM, and the LLM will generate its response on that basis.5
+   This, in outline form, is how an LLM can be made to work as a personal mem-
+ory system without the need for conventional (i.e., parametric) forms of machine
+learning. Indeed, the learning that occurs in RAG contexts is via the modification
+of external memory, not the adjustment of the LLM’s internal memory. This is what
+we earlier referred to as non-parametric learning. A key feature of non-parametric
+learning is that it allows a single production-level LLM (e.g., ChatGPT) to function
+as the core of multiple personal memory systems, with person-specific data stores
+providing the means by which an LLM’s responses are tailored to an individual’s per-
+sonal history. This is how the majority of experimental LLM-based personal memory
+systems (e.g., MemoryBank, OS-1, and Memoro) are implemented. It is also the
+approach adopted by a number of production-level LLMs that rely on a rudimentary
+form of personal memory to tailor responses to particular users. In the case of Chat-
+GPT, for example, user accounts are associated with a set of “Saved Memories” that
+
+3
+     See Smart et al. (2025), for an accessible introduction to RAG techniques and their application to the
+    development of ‘philosophically-minded’ LLMs.
+4
+   A production-level LLM is a model deployed for real-world use, typically with a fixed set of learned
+ parameters and a stable architecture. Examples include ChatGPT, Gemini, and Grok.
+5
+    In practice, retrieval-augmented generation is rarely as straightforward as this idealised description sug-
+    gests. Even when the retrieval step returns the relevant information, that information must still be inte-
+    grated into the model’s output. Zhang and Zhang (2025) provide a recent summary of efforts to improve
+    the reliability of RAG techniques (see also Sect. 5).
+
+
+                                                                                                 13
+                                                                              P. Smart et al.
+
+
+store information about the user’s activities, preferences, interests, and social rela-
+tionships.6 While ChatGPT is not explicitly designed as a personal memory system,
+the “Saved Memories” feature illustrates how a single production-level LLM can
+function as the core of multiple personal memory systems, with tailored responses
+emerging from the content of person-specific data stores rather than from adjustments
+to the model’s internal parameters.
+
+2.3 Tool Use
+
+While RAG represents a powerful technique for extending the capabilities of LLMs,
+it is increasingly being generalized into a broader class of what are called aug-
+mented LLMs (Mialon et al. 2023). The distinctive feature of RAG is the inclusion
+of a retrieval loop that targets a body of domain- or person-specific information,
+typically in the form of a vector database. In principle, however, there is no reason
+why the retrieval loop could not be directed at other types of resources. Nor is there
+any reason to assume that every type of interaction between an LLM and its wider
+environment is best understood as a form of retrieval action. At a general level, we
+can characterize RAG as the instantiation of an information processing circuit (or
+information processing loop) that extends beyond the borders of the LLM. In the
+case of RAG, the LLM uses (and sometimes generates) content that functions as a
+retrieval cue. In other cases, however, the LLM might generate content that enables
+it to invoke an external tool, such as an online calculator or logic reasoner. This is the
+basic vision behind the notion of augmented LLMs. It is a vision in which the capa-
+bilities of LLMs are augmented courtesy of their interaction with external resources
+or tools. By directing attention to the nature of these interactions, we are able to dis-
+tinguish different types of augmentation. RAG is, of course, one example, but other
+forms of augmentation have been the focus of recent research efforts. These include
+the following:
+
+● Knowledge-Augmented Generation (KAG). This form of augmentation close-
+  ly resembles RAG, except the external memory consists of a graph database con-
+  taining structured knowledge, typically in the form of (computational) ontologies
+  (see Pan et al. 2024). The specific virtue of ontologies lies in their capacity to
+  support symbolic reasoning and the retrieval of information that respects cer-
+  tain semantic constraints. In this sense, KAG is an ideal candidate for semantic
+  memory applications.
+● Search-Augmented Generation (SAG). SAG integrates real-time search capa-
+  bilities into the generative process, typically via an online search engine, such as
+  Google Search. This technique has become something of a standard feature of
+  production LLMs, such as ChatGPT and Gemini. When prompted for news on
+  current affairs, for example, ChatGPT issues a call to a search tool and factors
+  the results into its response. In a personal memory context, this capability can be
+  used to enrich the information obtained from various recording devices. If, for
+  example, a GPS device indicates that an individual is currently in the vicinity of
+
+6
+    See https://ope​nai.com/ind​ex/memory-a​nd-new-c​ontrols-for-chatgpt/.
+
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+
+  MoMA, an LLM can perform a search operation to obtain information about the
+  current weather conditions at this location.
+● Tool-Augmented Generation (TAG). TAG refers to situations where LLMs in-
+  teract with external computational tools, such as calculators, formal logic reason-
+  ers, and online services (Schick et al. 2023). This interaction is achieved cour-
+  tesy of the LLM’s capacity to generate programmatic instructions that respect
+  the target tool’s Application Programmatic Interface (API). An LLM might, for
+  example, invoke the services of a specialized reasoning agent to infer information
+  about the temporal relationships between certain events. Such capabilities are apt
+  to be useful when it comes to the process of emplotment, which refers to the tem-
+  poral ordering of events, activities, and other occurrent entities within a narrative
+  structure (see Heersmink 2022a).
+● Code-Augmented Generation (CAG). Some LLMs can generate executable
+  code to perform operations that are too complex to be handled by language pro-
+  cessing alone (e.g., Gao et al. 2023). Consider a case where an LLM is tasked
+  with computing the total number of steps performed by an individual within a
+  given time period. This requires the LLM to engage in a process that it may not be
+  optimized for (i.e., a task involving numerical reasoning). One possibility is to re-
+  sort to an external tool, such as a calculator. But another strategy is to generate the
+  (programmatic) code that implements the desired operation. This code can then
+  be executed by a code interpreter and the result returned to the LLM. The total
+  number of steps can then be added to external memory. In some ways, of course,
+  CAG is similar to TAG, in the sense that the code interpreter might be seen as an
+  external tool. On the other hand, CAG introduces us to the idea of LLMs as the
+  creators of tools. By generating the code to perform a particular task, the LLM is,
+  in effect, creating an ad hoc computational tool—one that is tailored to the task at
+  hand and (usually) abandoned once the task is complete.
+
+These different forms of augmentation tend to complicate the rather simplistic image
+of LLMs as the sole technological ingredient of a personal memory system. This is
+because such systems are likely to involve a multiplicity of technological and infor-
+mational resources. In addition, there is no reason to assume that personal memory
+systems will be built around a single LLM. In practice, a personal memory system
+is likely to involve multiple LLMs, with different LLMs being invoked to perform
+different tasks. A multimodal LLM, for example, might be tasked with the processing
+of physiological data (see Fang et al. 2024), while another LLM might be tasked with
+the optimization of retrieval cues (see Ma et al. 2023). Other LLMs may specialize
+in the generation of narrative artifacts, such as textual descriptions of daily events or
+significant life periods.
+    As noted by an anonymous reviewer, the use of augmented generation techniques
+in combination with multi-LLM solutions complicates the implementation of LLM-
+based memory systems. In particular, it raises questions about the coordination of
+LLM activity at both the individual and collective level. At the individual level, a sin-
+gle LLM may need to choose among multiple augmented-generation techniques or
+select between different external memory stores. At the collective level, the activities
+of several LLMs must be coordinated in pursuit of some larger information-process-
+
+                                                                              13
+                                                                                                                                          P. Smart et al.
+
+
+ing objective. While these challenges are important, they are not unique to the devel-
+opment of LLM-based personal memory systems; they are, in fact, a standard feature
+of contemporary efforts to implement multi-agent workflows. For individual LLMs,
+current approaches to tool and memory-store selection include in-context learning
+(e.g., Yao et al. 2023), function calling,7 and tool-learning techniques (e.g., Schick
+et al. 2023). In-context learning is the most widely used approach. It involves giving
+the model structured descriptions of available tools and the conditions under which
+they should be invoked. Attempts to address the second challenge—the challenge
+of coordinating multi-LLM activity—typically rely on agentic AI frameworks such
+as LangChain and AutoGen. These frameworks provide mechanisms for structur-
+ing inter-agent communication, delegating subtasks, and managing tool invocations,
+often through forms of “conversational programming” that treat natural language as a
+generic interface for agent control (see Wu et al. 2024). As these orchestration frame-
+works continue to mature, the coordination demands posed by LLM-based personal
+memory systems are likely to be absorbed into increasingly standardized design prac-
+tices. Nevertheless, understanding how these orchestration techniques behave in the
+context of personal memory applications remains an important focus area for future
+research.
+
+
+3 Memory Processes
+
+Courtesy of their interpretive, generative, and dialogic capabilities, LLMs can par-
+ticipate in multiple memory processes. In this section, we explore the role that LLMs
+can play in four key processes, namely, encoding (the process of acquiring informa-
+tion), elaboration (the process of enriching or elaborating on acquired information),
+retrieval (the process of recalling information), and joint reminiscing (the process of
+collaboratively re-visiting—and perhaps reconstructing—the past). Our aim here is
+not to outline the architecture or functionality of a particular memory system; rather,
+we focus on the contributions that LLMs can make to different memory processes.
+For the most part, we keep the discussion grounded in the current state-of-the-art,
+linking the proposed capabilities to the functionality of existing systems.
+
+3.1 Encoding
+
+Encoding refers to the initial capture of information concerning an individual’s
+activities and lived experience. This process is, of course, supported by conventional
+lifelogging technologies, such as fitness trackers, smartwatches, body-worn cameras,
+medical sensors, and so on.8 But while lifelogging technologies can capture continu-
+ous streams of physiological and behavioral data, LLMs are ideally placed to inter-
+pret and annotate this data. An image received from a wearable camera, for example,
+could be annotated with a linguistic description: “A peaceful solo canoeing trip on a
+
+7
+    See https://pla​tform.opena​i.com/docs/​guides/f​unction-calling.
+8
+   Some wearable devices provide access to LLMs. Examples include the Rabbit R1 (https://www.rabbit.
+ tech/) and Ray-Ban Meta Glasses ​(​​h​​​​t​t​​p​​s​:​​/​​/​​w​w​​w​​.​r​​a​​​y​-​b​a​n​.​c​o​m​/​u​k​/​r​a​y​-​b​a​n​-​m​e​t​a​-​a​i​-​g​l​a​s​s​e​s​​​​)​.​​
+
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+
+misty morning—light fog on the water and ducks in the distance.” Such annotations
+also provide opportunities for inference. Assuming the aforementioned image is from
+a body-worn camera, an LLM can infer that the user is engaged in a canoeing activity
+(recall the earlier discussion of multimodal LLMs). This capacity for inference is evi-
+dent in systems such as OS-1, a wearable assistant that integrates smart eyewear with
+cloud-based multimodal processing (Xu et al. 2024). OS-1 employs a multimodal
+LLM (LLaVA) to generate scene descriptions from visual input and a speech recogni-
+tion model (Whisper) to transcribe spoken utterances. The resulting text streams are
+then used to make inferences about the user’s current activity and location.
+   Multimodal LLMs thus provide an important opportunity to augment the opera-
+tion of lifelogging devices, helping to transform low-level sensorimotor data into
+semantically rich, temporally structured representations of lived experience. Perhaps
+more importantly, however, LLMs provide an opportunity to move towards a more
+active and collaborative approach to encoding. To help us see this, consider that some
+of the information obtained from lifelogging devices may be incomplete or ambigu-
+ous. Given an elevated heart rate, for example, it may be hard to determine whether
+an individual is experiencing stress, anxiety, or excitement. Similarly, an individual’s
+internal thoughts, motivations, and intentions often leave no trace in the incoming
+data stream.
+   To address these problems, an LLM can leverage its dialogic capabilities to actively
+solicit information from the user. Given the ambiguity surrounding an elevated heart
+rate, for example, an LLM might pose a question to the user: “How are you feeling
+right now?”9 Similarly, when gaps in the incoming data stream are detected, an LLM
+can attempt to fill this gap by issuing a request to the user. If, for example, a user is
+talking about a particular object (“I bought this at the market today”), an LLM can
+ask the user to take a picture of the object. In such cases, the LLM plays an active
+role in shaping the encoding process, using targeted prompts to solicit information in
+a manner that optimizes the prospects for future mnemonic support.
+   The general idea here is the same as that seen in the earlier cases of RAG, KAG,
+SAG, and so on (see Sect. 2.3). Just as an LLM can interact with informational and
+technological resources by generating certain token sequences (e.g., queries, search
+terms, and programmatic instructions), so it can interact with a human user by
+capitalizing on its facility with natural language—its ability to generate linguistic
+expressions that trigger some sort of response from a human individual. The main
+difference here relates to the nature of the resource that is the target of the LLM’s
+interaction (i.e., a human individual as opposed to a retrieval system, search engine,
+or code interpreter). In general, however, we can understand the active shaping of
+encoding processes in more or less the same way as we understand other types of
+augmented generation: Just as a well-formed query can surface relevant information
+from an external datastore, a well-formed question can surface otherwise inacces-
+sible information from the user. In both cases, the goal (for the LLM) is to generate
+9
+   Note that there is an important difference between this sort of user-directed querying and the kinds of AI-
+ based emotion inference that have been critiqued in the recent literature (e.g., Goffin & Archer in press).
+ Rather than inferring or categorizing a user’s emotional state, the LLM prompts the user to articulate
+ their own feelings, thereby supporting affective self-elaboration without imposing external emotional
+ interpretations.
+
+
+                                                                                                13
+                                                                                              P. Smart et al.
+
+
+content (e.g., a question, instruction, or retrieval cue) that optimizes the informational
+response from an entity that lies external to itself.
+    The upshot is a novel form of augmented generation that builds on those discussed
+in the existing literature (see Sect. 2.3). Call this Human-Augmented Generation
+(HAG). While existing forms of augmented generation focus on the informational
+and technological aspects of an LLM’s ecology (i.e., the resources of the online envi-
+ronment), HAG focuses on the interactions between an LLM and a human individual.
+Such interactions are, we suggest, likely to be a key feature of the encoding process.
+The goal of the encoding process is to record information about the lived experience
+of a human individual, but not all aspects of this lived experience can be distilled
+from conventional recording devices. In some cases, the LLM needs to ‘prompt’ the
+user for information about their cognitive and affective response to situations. Argu-
+ably the best way to solicit or (to press the RAG analogy) ‘retrieve’ this information
+is to engage the user in conversation.10 In some ways, such forms of interaction are
+little different from those in which one LLM communicates with another LLM as part
+of some larger problem-solving effort (e.g., Schick et al. 2023). In both cases, natural
+language is being used as a sort of ‘programming language’ to influence the behavior
+of another entity.
+    Ultimately, the goals of encoding for LLM-based memory systems converge with
+those of conventional lifelogging. That is to say, the goal of encoding is to preserve
+information in a manner that supports later recall. But the advent of LLMs yields
+a potentially richer (and more complicated) vision of the encoding process. Multi-
+modal LLMs provide opportunities for the interpretation and annotation of personal
+data, while the notion of HAG opens the door to a more interactive and collabora-
+tive vision of the encoding process, one in which both LLMs and human users work
+together to create a richer record of lived experience.
+
+3.2 Elaboration
+
+Encoding results in the storage of information within one or more personal data
+repositories that function as the external memory for one or more LLMs. Elaboration
+refers to the processes that enrich and restructure this information.11 This may involve
+the addition of semantic or contextual information to existing memory records, the
+removal of redundant content, and the consolidation of newly-acquired information
+with existing memory records. Some insight into the nature of elaborative processes
+
+10
+    Clearly, the timing and frequency of such user-directed engagements must be handled with care, since
+poorly timed prompts could be intrusive or inappropriate in certain contexts. In practice, these interaction
+patterns are specified as part of the design of agentic workflows. The AutoGen framework, for example,
+provides a user-agent component that allows developers to specify the conditions under which an LLM
+will attempt to solicit human input (Wu et al. 2024).
+11
+   The distinction between encoding and elaboration is somewhat vague, for certain forms of enrichment
+may occur as part of the encoding process. In the present context, elaboration refers to processes that
+operate over previously encoded information; e.g., the data contained in one or more personal data stores.
+The need for elaboration arises as a result of the computational demands of processing high-velocity data
+streams—such as those associated with physiological sensors (e.g., heart rate data). In addition, some
+elaborative processes—for example, the generation of textual summaries—are only feasible once a suf-
+ficient quantity of data has been collected.
+
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+
+is provided by existing (LLM-based) memory systems. OmniQuery, for example,
+strives to enhance user memories by establishing semantic and temporal associa-
+tions between data records (Li et al. 2025). MemoryBank, by contrast, relies on the
+use of summarization techniques to transform lengthy conversational dialogues into
+concise memory records (Zhong et al. 2024). Other systems, such as OS-1, exemplify
+the effort to cluster data into meaningful units, typically by dividing the larger data
+record into temporal periods marking the occurrence of particular events (e.g., one’s
+attendance at a conference) (Xu et al. 2024).12
+   Elaboration also provides an important opportunity for the creation of narrative
+artifacts—informational structures that weave personal data into coherent repre-
+sentations of the past.13 This is especially relevant given the intimate links between
+narrative and mnemonic processes in contemporary memory research. In particular,
+research in psychology and philosophy suggests that autobiographical memory is not
+merely a store of discrete episodes; it is the basis for constructing an ongoing life
+story that situates the self within an evolving temporal arc (McAdams 2001; McAd-
+ams and McLean 2013). Through processes of selection, organization, and inter-
+pretation, individuals craft narratives that explain how they came to be the person
+they are and where their lives might be heading. This autobiographical narrative is
+widely regarded as a cornerstone of narrative identity—the internalized and evolving
+story that provides a person with a sense of unity, purpose, and temporal coherence
+(Schechtman 2005; McAdams 2001).
+   Narrational capabilities thus represent an important focus area for research into
+personal memory systems, and it is an area where LLMs are poised to outperform
+their technological predecessors. Courtesy of their language generation capabilities,
+LLMs can draw on the data stored in personal data repositories, yielding narratives
+that are not just factual summaries, but meaningful, temporally structured personal
+stories that resonate with human users (see Yunusov et al. 2024). In this sense, LLMs
+are poised to play an increasingly important role in what has been dubbed narrative
+niche construction (Heersmink 2020)—the process by which a variety of mnemonic
+resources (including narrative artifacts) are created and pressed into cognitive ser-
+vice. This is important when it comes to understanding the distinctive contribution
+of LLMs to memory-related research. Whereas lifelogging technologies provide us
+with a vision of data being recorded for a mnemonic purpose, LLMs provide us with
+a vision in which disparate bodies of data are progressively assimilated into an evolv-
+ing life story. It is in precisely this sense, we suggest, that LLMs mark a new era in the
+history of memory technology—one that marks the shift from the mere recording or
+‘logging’ of personal data (i.e., lifelogging) to a process of life narration.
+
+12
+    Event segmentation is an active area of research for those developing LLM-based memory systems.
+A recent approach is EM-LLM (Fountas et al. 2025), which applies predictive processing principles to
+segment token sequences at points of high ‘surprise’. The resulting ‘event chunks’ function as structured
+episodic units, illustrating how predictive discontinuities can ground artificial episodic memory in ways
+broadly consistent with human event cognition.
+13
+     Some insight into this capability is provided by contemporary AI meeting assistants such as Otter.ai
+and Fireflies.ai. While these systems tend to produce factual rather than deeply interpretive accounts, they
+illustrate how existing LLM-based tools can begin to organize complex, temporally extended interactions
+into coherent narrative-like structures.
+
+
+                                                                                               13
+                                                                                P. Smart et al.
+
+
+   It is no doubt natural to assume that the narratives generated by LLMs will be of
+the textual variety. As noted in Sect. 2.1, however, the advent of multimodal LLMs
+yields additional possibilities. Using image generation systems, for example, it is
+possible for life events to be depicted in a visual form, perhaps as a series of images
+rendered in a comic-book style format. Over time, these synthetic digital artifacts
+may come to acquire the status of an evocative object—an object that is poised to
+prompt the recollection of the past in a manner similar to more familiar examples
+such as photographs, a child’s drawing, or a broken watch (see Heersmink 2022a).
+   Narratives vary not only in form—such as text or image—but also in temporal
+scope, ranging from brief, singular events to extended periods of time. Conway and
+Pleydell-Pearce (2000) propose that autobiographical memory is organized in a hier-
+archical manner, comprising three levels: lifetime periods (e.g., the years you lived in
+London), general events (e.g., recurring experiences like Friday dinners at a favorite
+restaurant), and specific episodes (e.g., a recent trip to Italy for a conference). In prin-
+ciple, LLMs could generate narratives that mirror these hierarchical levels, presenting
+users with a coherent sense of personal history while allowing for focused retrieval at
+different scales of granularity. At the time of writing, however, it is unclear how well
+LLMs perform at generating longer-term or more abstract narratives, such as those
+associated with lifetime periods and general events. For the most part, extant systems
+focus on more concrete and temporally-constrained periods, such as those associ-
+ated with specific events (e.g., Li et al. 2025). In this sense, the hierarchical scheme
+proposed by Conway and Pleydell-Pearce (2000) may prove useful when it comes to
+informing the development of future LLM-based memory systems.
+
+3.3 Retrieval
+
+Retrieval is a core feature of memory technologies. If LLMs are to function as per-
+sonal memory systems, they should not just support the encoding and storage of the
+past, they should also support the recollection of the past. One way to understand
+this capability is via the notion of just-in-time information retrieval, where informa-
+tion is retrieved (and presented to a user) in accord with the present context (Rhodes
+and Maes 2000). Existing LLM-based memory systems, such as Memoro, rely on a
+mixed initiative retrieval scheme, where information can be retrieved in response to
+explicit user instructions (e.g., “What was the name of that restaurant we visited last
+week?”) or information about the present context (Zulfikar et al. 2024).
+   LLMs can also participate in more interactive and collaborative forms of remem-
+bering. One example is cross-cueing, which has been observed in human dyads (Har-
+ris et al. 2014). Systems like Tip-pong exemplify this process by engaging users
+in dialogic exchanges during tip-of-the-tongue states (Ha et al. 2023). When a user
+struggles to retrieve a specific memory item, the system initiates a conversational
+back-and-forth—a “ping pong” of semantic prompts and clarifications—until the elu-
+sive memory is eventually surfaced. In this case, the LLM does not merely retrieve
+previously encoded information; rather, it participates in an active cue-elaboration
+process that combines user-provided cues with its own recollections.
+
+
+
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+
+3.4 Joint Reminiscing
+
+Joint reminiscing refers to the process by which earlier memories are revisited (and
+possibly revised) by LLMs and human users. The resources generated during elabo-
+ration are one of the obvious targets for joint reminiscing (see Sect. 3.2). This is par-
+ticularly true of narrative artifacts, which undoubtedly benefit from some degree of
+checking and refinement by a human user. As an extension of these processes, users
+may be involved in the co-production of new narrative artifacts. Examples include
+life story books (Elfrink et al. 2018) and multimedia biographies (Smith et al. 2009),
+both of which have been used in clinical settings to help individuals retain a sense of
+identity in the wake of progressive cognitive decline.
+    In addition to the collaborative production and editing of narrative artifacts, LLMs
+are poised to influence memory in a manner similar to that observed in human social
+contexts. A nice example of this comes in the form of MindTalker—a conversational
+agent intended for individuals with early-stage dementia (Xygkou et al. 2024). Built
+using OpenAI’s GPT-4 model, MindTalker is designed to participate in reminiscence
+therapy via a user’s photo gallery. In particular, the application engages users in con-
+versations about particular photos by asking open-ended questions such as “Who is
+in this photo?” or “What do you remember about this day?” This resembles the sort
+of interventions that are sometimes seen in the case of lifelogging devices, such as
+SenseCam (see Dubourg et al. 2016). But while these earlier interventions relied on
+the support of a human caregiver, MindTalker yields a vision in which this socially-
+supportive role is now occupied by an LLM.
+    The notion of an LLM occupying a social role points to a broader issue concerning
+the status of LLMs as memory technologies. Specifically, it highlights how LLMs
+blur the boundary between technologically- and socially-shaped routes to mnemonic
+influence. We saw this in the case of Tip-pong, which emulates a process that has
+traditionally been studied in human–human dyads (i.e., cross-cueing). More gener-
+ally, by engaging users in conversations about past events or helping them explore the
+emotional significance of prior experiences, LLMs are poised to recreate the kind of
+mnemonic scaffolding typically provided by human interlocutors (see Hirst and Ech-
+terhoff 2012). Just as conversational interactions with others can help to strengthen,
+weaken, or modify memories of the past, the conversational capabilities of LLMs
+may open the door to similar forms of (technological? social? ) influence. Addressing
+these questions is an important area for future research. It expands the scope of exist-
+ing work by acknowledging the potential of a technological entity to participate in
+processes of conversational remembering—processes that have typically been con-
+fined to the realm of human–human interaction.
+
+
+4 Component or Companion?
+
+We have discussed some of the ways in which LLMs can contribute to mnemonic
+processes. But how does this vision of LLMs as a memory technology connect with
+ongoing philosophical debates about the environmentally-situated nature of human
+memory processes?
+
+                                                                              13
+                                                                              P. Smart et al.
+
+
+    One possibility is that we should regard LLMs as the constituents (or components)
+of extended cognitive circuits, as per claims regarding extended cognition and the
+extended mind (Clark and Chalmers 1998; Clark 2010). Relative to this perspec-
+tive, an LLM would qualify as part of the physical machinery by which certain sorts
+of mnemonic capacity are realized. Heersmink (2022b), for example, explores how
+external artifacts—such as diaries, photographs, digital archives, and lifelogging
+devices—can play a constitutive role in autobiographical memory, functioning as
+integral parts of remembering processes.
+    As far as we can tell, there is no reason why LLMs could not qualify as the con-
+stituents of extended memory systems. Insofar as we understand memory as a par-
+ticular sort of capacity—e.g., a capacity to coordinate current thoughts and actions
+with regard to previously encountered information—then it is at least plausible that
+LLMs could feature as part of the physical machinery that sustains this capacity.
+To be a little more precise, we see no reason why LLMs could not form part of the
+mechanisms that realize memory processes, where a memory process corresponds to
+the manifestation (or exercise) of a mnemonic capacity that is ascribed to a particular
+individual (see Smart 2024). In such cases, an LLM would operate as a so-called AI
+extender (Hernández-Orallo and Vold 2019)—an AI system that qualifies as one of
+the constituents of an extended cognitive system or an extended mind.
+    On the other hand, it is far from clear that every process in which an LLM is
+involved ought to be understood as an extended cognitive process. Rather than
+approach LLMs from an extended perspective, some situations may call for a more
+embedded approach (Rupert 2004), one that emphasizes the merely causal (but not
+constitutive) contribution of LLMs to human memory processes. Perhaps, for exam-
+ple, an LLM may qualify as an AI extender when it comes to semantic memory, but
+fail to qualify as an AI extender when it comes to episodic memory. Rather than
+regard extended and embedded approaches as competing and mutually exclusive cat-
+egories, it may be better to adopt a more ecumenical position, one that tailors claims
+of extended or embedded cognition to the details of particular cases. This is likely to
+be important given the different ways that LLMs can contribute to human memory
+processes.
+    A further complication stems from the status of LLMs as social (or, at any rate,
+quasi-social) entities (see Clowes in press). Consider, for example, the OS-1 sys-
+tem, which is an LLM-based memory system modelled after the fictional character
+Samantha in the movie Her (Xu et al. 2024). In one sense, it is certainly true that
+OS-1 provides opportunities for cognitive extension, but the main objective of the
+development effort was not so much to engineer an extended memory system as it
+was to create an artificial social companion.
+    There is, of course, no reason to think that social entities could not form part of an
+extended memory system. It has long been recognized that other human individuals
+(e.g., a caregiver or intimate companion) could play a constitutive role in cognitive
+processes, thereby giving rise to what is known as socially-extended cognition (see
+Clark and Chalmers 1998). The limiting factor, here, is more the extent to which an
+
+
+
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+
+extra-organismic resource meets the conditions for cognitive extension14 than it is
+the nature of the resource itself. As noted by Clark and Chalmers (1998), appeals
+to socially-extended cognition are likely to be limited to certain situations, such as
+those featuring an “unusually interdependent couple.” But these situations need not
+be so unusual once our attention turns to LLMs. Unlike a human companion, an LLM
+may be more-or-less constantly available and always ready to assist with a cognitive
+or epistemic task. In this sense, then, LLMs (qua social companions) may be much
+better suited to support socially-extended cognition than their human counterparts.
+At the same time, of course, an LLM is, at root, a technological entity. Accordingly,
+LLMs may yield a hybrid form of cognitive extension: one that papers over (or at
+least blurs) the otherwise crisp conceptual distinction between social and technologi-
+cal forms of mnemonic (and, more generally, cognitive) extension.
+
+
+5 A ‘Good’ Memory?
+
+A natural concern about the use of LLMs as personal memory technologies centers
+on their tendency to generate factually incorrect responses—a phenomenon widely
+referred to as hallucination. Insofar as personal memory systems aim to support the
+reliable recall of past events, one might reasonably worry that such errors undermine
+the suitability of LLMs for personal memory applications. One way to mitigate hal-
+lucinations is to employ the augmented-generation techniques described in Sect. 2.
+But while these techniques are effective at reducing errors, none offers a guaranteed
+solution. In the case of RAG, for example, errors may arise either because incorrect
+information is retrieved from the external store (retrieval failure) or because informa-
+tion is not properly assimilated into the model’s output (generation failure). Zhang
+and Zhang (2025) provide a useful overview of these failure modes together with a
+survey of recent efforts to improve the accuracy and fidelity of RAG-based systems.
+    While there has been progress towards mitigating hallucinations, it remains
+unclear whether hallucinations can ever be fully eliminated. The problem is that
+LLMs are, at root, generative systems: they do not merely retrieve information from
+internal or external memory but use such information to generate new representations
+(token sequences) via an inferential process. This naturally invites comparisons with
+constructivist (or generative) approaches to human memory (Michaelian 2011). Con-
+structivist theories hold that remembering involves the active reconstruction of past
+events from fragmentary traces, background schemas, and current goals. Because
+this process relies on inference rather than literal replay, errors and distortions are a
+recurring—and perhaps unavoidable—aspect of human memory. As Bernstein and
+Loftus (2009, p. 373) note, “In essence, all memory is false to some degree. Memory
+is inherently a reconstructive process, whereby we piece together the past to form a
+coherent narrative that becomes our autobiography.”
+
+14
+   The conditions include, according to Clark and Chalmers (1998), the availability of an external resource,
+the accessibility of the information contained in the resource, and the extent to which the information
+retrieved from the resource is automatically endorsed.
+
+
+
+
+                                                                                               13
+                                                                                         P. Smart et al.
+
+
+    A propensity for error and distortion thus appears to be a common feature of both
+LLM architectures and human bio-memory systems.15 But while LLM hallucinations
+are widely regarded as flaws or defects—and therefore as problems to be remedied—the
+treatment of human memory errors is far more nuanced. This is especially true in the
+case of autobiographical memory, where an expanded appreciation of the cognitive,
+affective, and social functions served by remembering has prompted a more positive
+view of mnemonic errors. As Bluck (2003, p. 113) notes, “levels and types of accuracy
+need not always be regarded as memory ‘failures’ but are sometimes integral to a self-
+memory system that serves a variety of meaningful ends of human activity.” Conway et
+al. (2004) make a similar point in their discussion of the self‐memory system, arguing
+that autobiographical remembering is governed by a dynamic tension between adaptive
+correspondence (the accurate retention of previously encountered information) and self-
+coherence (the maintenance of a meaningful and temporally integrated sense of self). In
+many cases, they suggest, the system privileges coherence: thematic elaborations, rein-
+terpretations, and selective omissions that help sustain a stable and intelligible personal
+identity. Habermas and Bluck (2000) likewise emphasize that narrative identity emerges
+not from literal fidelity to experience but from the selective integration and interpretive
+reconstruction of autobiographical memories into a coherent life story. From this per-
+spective, a propensity for error and distortion is not a defect in a system designed for
+accurate recollection, but a naturally recurring—and often productive—feature of a sys-
+tem geared toward supporting psychological continuity and future-oriented reasoning.
+    All this, we suggest, complicates the normative interpretation of LLM halluci-
+nations. If human autobiographical memory routinely sacrifices accuracy in favor
+of coherence, continuity, and psychological well-being, then it is at least plausible
+that some LLM hallucinations might play a similar role in the context of a personal
+memory system. Support for this idea stems from work by Sui et al. (2024). They
+suggest that a propensity for hallucination “mirror[s] a human propensity to utilize
+increased narrativity as a cognitive resource for sense-making and communication”
+(p. 14274). Hallucinations, Sui et al. (2024) suggest, are the result of LLMs striving
+to generate plausible and coherent outputs, as opposed to strictly accurate outputs.
+This emphasis on coherence at the expense of accuracy is clearly problematic when
+the goal is to accurately recall the past, but it is not clear that every application of an
+LLM-based memory system ought to be designed around this goal.
+    Our aim here is not to underplay the importance of hallucinations in a personal memory
+context; it is simply to note that we should not judge hallucinations to be problematic in
+the absence of a clearer understanding of the role that error and distortion play in normal
+human memory. If the sorts of errors and distortions we observe in normal human bio-
+memory are understood to play a productive role in the psychological and social lives of
+individuals, then it is, at best, unclear that technical efforts should be geared to the elimina-
+tion of those errors and distortions. At the very least, we may need to adopt a more nuanced
+approach to hallucinations—one that recognizes the hazards they pose for perfect recall
+while also acknowledging their potential value in the co-creation of a coherent life story.
+
+15
+    An additional question—one we do not pursue here—is whether the errors produced by LLMs differ in
+their structure or impact from those found in human memory, and whether such differences bear on their
+normative evaluation.
+
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+
+   Evidently, there is a need for further research in this area. Such research, however,
+should not be limited to the standard LLM benchmarks, many of which focus on
+accuracy and truth. Arguably, what is required are benchmarks specifically tailored
+to the realm of personal memory—benchmarks that evaluate LLMs in terms of their
+capacity to optimize the cognitive, affective, and social well-being of their users.
+Issues of accuracy and truth are clearly important here, but they are not the only con-
+cern. Ultimately, what matters is not whether LLMs reproduce the past with perfect
+precision, but whether they help users navigate and narrate their lives in ways that
+support cognitive, emotional, and social flourishing. This, we suggest, is the standard
+by which a genuinely ‘good’ memory system ought to be judged.
+
+
+6 Conclusion
+
+LLMs fascinate because of their peculiar facility with language. Like us, they can
+adapt their responses to linguistic instructions and sustain temporally extended con-
+versational exchanges. Such forms of linguistic competence open the door to novel
+modes of human–machine interaction, enabling us to engage with LLMs in ways
+that often resemble our interactions with other people. These capabilities are particu-
+larly significant in the context of memory applications. As demonstrated by a number
+of recent systems, LLMs can function as personal memory technologies, retrieving
+information in response to conversational or contextual cues to yield various sorts of
+mnemonic support (Xu et al. 2024; Zhong et al. 2024; Zulfikar et al. 2024).
+   In the present paper, we explored some additional ways in which a facility with
+language could be used to support the development of personal memory systems.
+Firstly, we discussed how language opens the door to a more interactive, participa-
+tory approach to the encoding of information. Unlike conventional lifelogging tech-
+nologies, which passively capture data, LLMs are able to shape the structure of the
+encoding process by (e.g.) requesting additional or clarifying information from a
+human user. The upshot is a novel form of augmented generation—what we dubbed
+human-augmented generation. This extends the types of augmented generation that
+have been discussed in the wider (technical) literature.
+   We also explored the role of LLMs in generating narrative artifacts. This, we sug-
+gested, marks a shift from the notion of lifelogging to life narration. Whereas earlier
+technologies focused on the ‘logging’ or recording of personal data, LLMs provide
+opportunities to generate narrative artifacts across a variety of temporal scales. In this
+respect, LLMs are poised to play an important role in the process of narrative niche
+construction (see Heersmink 2020).
+   Finally, we examined the status of LLMs as technological and/or social entities.
+While LLMs are, at root, technological entities, their proficiency with language
+enables them to function in the manner of a human social companion. This poten-
+tially blurs the distinction between socially-extended and technologically-extended
+forms of memory. The practical significance of this should be clear: by recapitulat-
+ing the dynamics of socially-distributed remembering, LLMs yield opportunities to
+shape human memory in ways that resemble those observed in long-standing human
+relationships. In addition to the practical considerations, however, LLMs raise inter-
+
+                                                                               13
+                                                                                                                                          P. Smart et al.
+
+
+esting questions about the nature of LLM-based memory systems. Are such systems
+best understood as a technological system that helps us remember the past, or are
+they best understood as something more akin to a social companion—a new kind of
+intimate ‘other’ that is poised to provide a variety of types of cognitive, affective, and
+social support? And who is that intimate ‘other’, exactly? Is the LLM distinct from
+you, or is it more a part of you—part of the material fabric that makes you the sort
+of person you take yourself to be? Perhaps, as Clark (2025, p. 3) suggests, such enti-
+ties will come to be viewed as a ‘borderline you’—an entity that “learn[s] from your
+projects and choices, and play[s] a role in sculpting your future projects and choices.”
+In this sense, an LLM is not simply an entity that helps you navigate the past; it is also
+the co-creator of a shared autobiography. A co-narrator, perhaps, of the story of you.
+
+Author Contributions Paul Smart: Conceptualization; Writing - Original Draft. Robert Clowes: Concep-
+tualization; Writing - Review & Editing. Joel Krueger: Conceptualization; Writing - Review & Editing.
+Michael Boniface: Writing - Review & Editing.
+
+Funding [Paul Smart and Michael Boniface] The authors declare financial support was received for the
+research, authorship, and/or publication of this article. This study was partly funded by the NIHR South-
+ampton Biomedical Research Centre (NIHR203319) as part of the Data, Health and Society theme. The
+views expressed are those of the authors and not necessarily those of the National Institute for Health and
+Care Research (NIHR) or the Department of Health and Social Care. [Rob Clowes] This work is supported
+by the GENAI Project (Exploring Human Cognitive Flourishing against the background of GENerative
+AI) awarded by FCSH, Universidade NOVA de Lisboa and by the Portuguese Foundation for Science and
+Technology under Grant Number UIDB/00183/2020. Rob Clowes also acknowledges support from the
+Companionship in the Digital Age project, funded by the Notre Dame–IBM Technology Ethics Lab under
+Grant Number 262812NOV.
+
+Data Availability None.
+
+Code Availability None.
+
+Declarations
+
+Ethics Approval Not applicable.
+
+Consent for Publication Approval given by all authors.
+
+Consent to Participate Not applicable.
+
+Financial interests The authors declare they have no financial interests.
+
+Competing interests The authors have no competing interests to declare that are relevant to the content
+of this article.
+
+Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as
+you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons
+licence, and indicate if changes were made. The images or other third party material in this article are
+included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​v​e​c​o​m​m​o​n​s​.​o​r​g​/​l​i​c​e​n​s​e​s​/​b​y​/​4​.​0​/​​​.​​​
+
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+
+References
+Bernstein, D. M., and E. F. Loftus. 2009. How to tell if a particular memory is true or false. Perspectives on
+      Psychological Science 4(4):370–374. https://doi​.org/10.111​1/j.1745-69​24.2009.​01140.x.
+Bluck, S. 2003. Autobiographical memory: Exploring its functions in everyday life. Memory (Hove, Eng-
+      land) 11(2):113–123. https://doi.org/10.1080/741938206.
+Clark, A. 2010. Memento’s revenge: The extended mind, extended. In The Extended Mind, ed. R. Men-
+      ary. 43–66. Cambridge, Massachusetts, USA: MIT Press. https://doi​.org/10.755​1/mitpress/​8535.003​
+      .0003.
+Clark, A. 2025. Extending Minds with Generative AI. Nature Communications 16(Article 4627):1–4.
+      https://doi.org/10.1038/s41467-025-59906-9.
+Clark, A., and D. Chalmers. 1998. The Extended Mind. Analysis 58(1):7–19. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​9​3​/​a​n​a​
+      l​y​s​/​5​8​.​1​.​7​​​.​​​​
+Clowes, R. W. 2013. The Cognitive Integration of E-Memory. Review of Philosophy and Psychology
+      4(1):107–133. https://doi.org/10.1007/s13164-013-0130-y.
+Clowes, R. 2015. Thinking in the Cloud: The Cognitive Incorporation of Cloud-Based Technology. Phi-
+      losophy & Technology 28(2):261–296. https://doi.org/10.1007/s13347-014-0153-z.
+Clowes, R. W. 2017. Extended Memory. In The Routledge Handbook of Philosophy of Memory, ed. S.
+      Bernecker, and K. Michaelian. 243–254. New York, New York, USA: Routledge.
+Clowes, R. W. (in press) Generative AI Companions and the Cognitive and Affective Incorporation of the
+      Ersatz Other. In V. C. Müller, A. R. Dewey, L. Dung & G. Löhr (Eds.), Philosophy of Artificial Intel-
+      ligence. Springer, Berlin, Germany.
+Conway, M. A., and C. W. Pleydell-Pearce. 2000. The construction of autobiographical memories in the self-
+      memory system. Psychological Review 107(2):261–288. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​3​7​/​0​0​3​3​-​2​9​5​x​.​1​0​7​.​2​.​2​6​1​​​.​​​​
+Conway, M. A., J. A. Singer, and A. Tagini. 2004. The self and autobiographical memory: Correspondence
+      and coherence. Social Cognition 22(5):491–529. https://doi.org/10.1521/soco.22.5.491.50768.
+Dingler, T., P. E. Agroudy, R. Rzayev, L. Lischke, T. Machulla, and A. Schmidt. 2021. Memory augmenta-
+      tion through lifelogging: opportunities and challenges. In Technology-Augmented Perception and
+      Cognition, ed. T. Dingler, and E. Niforatos. 47–69. Cham, Switzerland: Springer. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​
+      1​0​0​7​/​9​7​8​-​3​-​0​3​0​-​3​0​4​5​7​-​7​_​3​​​.​​​​
+Dong, C. V., Q. Lu, K. A. Norman, and S. Michelmann. (in press) Towards large language models with
+      human-like episodic memory. Trends in Cognitive Sciences. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​t​i​c​s​.​2​0​2​5​.​0​6​.​
+      0​1​6​​​.​​​
+Dubourg, L., A. R. Silva, C. Fitamen, C. J. A. Moulin, and C. Souchay. 2016. SenseCam: A new tool for
+      memory rehabilitation? Revue Neurologique 172(12):735–747. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​n​e​u​r​o​l​.​2​0​1​
+      6​.​0​3​.​0​0​9​​​.​​​
+Elfrink, T. R., S. U. Zuidema, M. Kunz, and G. J. Westerhof. 2018. Life story books for people with
+      dementia: a systematic review. International Psychogeriatrics 30(12):1797–1811. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​
+      0​.​1​0​1​7​/​S​1​0​4​1​6​1​0​2​1​8​0​0​0​3​7​6​​​.​​​​
+Fang, C. M., V. Danry, N. Whitmore, A. Bao, A. Hutchison, C. Pierce, and P. Maes. 2024. PhysioLLM:
+      Supporting Personalized Health Insights with Wearables and Large Language Models. IEEE-EMBS
+      International Conference on Biomedical and Health Informatics, Houston, Texas, USA. ​h​t​t​p​s​​:​/​/​d​o​i​​.​o​
+      r​g​/​​1​0​.​1​​1​0​9​/​B​H​I​6​2​6​6​0​.​2​0​2​4​.​1​0​9​1​3​7​8​1​​​.​​​​
+Floridi, L., and M. Chiriatti. 2020. GPT-3: Its nature, scope, limits, and consequences. Minds and Machines
+      30:681–694. https://doi.org/10.1007/s11023-020-09548-1.
+Fountas, Z., M. Benfeghoul, A. Oomerjee, F. Christopoulou, G. Lampouras, H. B. Ammar, and J. Wang.
+      2025. Human-inspired episodic memory for infinite context LLMs. The Thirteenth International Con-
+      ference on Learning Representations, Singapore.
+Gao, L., A. Madaan, S. Zhou, U. Alon, P. Liu, Y. Yang, J. Callan, and G. Neubig. 2023. PAL: Program-
+      aided language models. Proceedings of the 40th International Conference on Machine Learning,
+      Honolulu, Hawaii, USA.
+Gao, Y., Y. Xiong, X. Gao, K. Jia, J. Pan, Y. Bi, Y. Dai, J. Sun, and H. Wang. 2024. Retrieval-augmented
+      generation for large language models: A survey. arXiv:2312.10997. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​4​8​5​5​0​/​a​r​X​i​v​.​
+      2​3​1​2​.​1​0​9​9​7​​​.​​​
+Goffin, K., and A. Archer. (in press) Don’t go reading my emotions: affective harm, affective injustice and
+      affective artificial intelligence. Philosophical Psychology, 1–24. ​h​t​t​p​s​​:​/​/​d​o​i​​.​o​r​g​/​​1​0​.​1​​0​8​0​/​0​9​5​1​5​0​8​9​.​
+      2​0​2​5​.​2​5​7​1​4​4​5​​​.​​​
+
+
+
+                                                                                                                                    13
+                                                                                                                               P. Smart et al.
+
+Ha, J., D. Lee, and C. Oh. 2023. You Know What I’m Saying: Designing Conversational Strategies of AI
+       Agent for Tip of the Tongue Phenomenon. Extended Abstracts of the 2023 CHI Conference on Human
+       Factors in Computing Systems, Hamburg, Germany. https://doi.org/10.1145/3544549.3585670.
+Habermas, T., and S. Bluck. 2000. Getting a life: the emergence of the life story in adolescence. Psycho-
+       logical Bulletin 126(5):748–769. https://doi.org/10.1037/0033-2909.126.5.748.
+Harris, C. B., A. J. Barnier, J. Sutton, and P. G. Keil. 2014. Couples as socially distributed cognitive sys-
+       tems: Remembering in everyday social and material contexts. Memory Studies 7(3):285–297. ​h​t​t​p​s​:​/​
+       /​d​o​i​.​o​r​g​/​1​0​.​1​1​7​7​/​1​7​5​0​6​9​8​0​1​4​5​3​0​6​1​9​​​.​​​​
+Harvey, M., M. Langheinrich, and G. Ward. 2016. Remembering through lifelogging: A survey of human
+       memory augmentation. Pervasive and Mobile Computing 27:14–26. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​p​m​c​j​
+       .​2​0​1​5​.​1​2​.​0​0​2​​​.​​​
+Heersmink, R. 2020. Narrative niche construction: memory ecologies and distributed narrative identities.
+       Biology & Philosophy 35(Article 53):1–23. https://doi.org/10.1007/s10539-020-09770-2.
+Heersmink, R. 2022a. Preserving narrative identity for dementia patients: Embodiment, active environ-
+       ments, and distributed memory. Neuroethics 15(Article 8):1–16. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​/​s​1​2​1​5​2​-​0​2​
+       2​-​0​9​4​7​9​-​x​​​.​​​
+Heersmink, R. 2022b. Extended mind and artifactual autobiographical memory. Mind & Language
+       37(4):659–673. https://doi.org/10.1111/mila.12353.
+Heersmink, R. (in press). Memory and technology: Historical and developmental perspectives. In Oxford
+       Handbook of Philosophy of Memory, ed. A. Sant’Anna, and C. F. Craver. Oxford, UK: Oxford Uni-
+       versity Press.
+Hernández-Orallo, J., and K. Vold. 2019. AI Extenders: The Ethical and Societal Implications of Humans
+       Cognitively Extended by AI. AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society,
+       Honolulu, Hawaii, USA. https://doi.org/10.1145/3306618.3314238.
+Hirst, W., and G. Echterhoff. 2012. Remembering in conversations: The social sharing and reshaping of
+       memories. Annual Review of Psychology 63(1):55–79. ​h​t​t​p​s​​:​/​/​d​o​i​​.​o​r​g​/​​1​0​.​1​​1​4​6​/​a​n​n​u​r​e​v​-​p​s​y​c​h​-​1​2​0​7​
+       1​0​-​1​0​0​3​4​0​​​.​​​
+Kalnikaite, V., A. Sellen, S. Whittaker, and D. Kirk. 2010. Now let me see where I was: understanding how
+       lifelogs mediate memory. Proceedings of the SIGCHI Conference on Human Factors in Computing
+       Systems, Atlanta, Georgia, USA. https://doi.org/10.1145/1753326.1753638.
+Lewis, P., E. Perez, A. Piktus, F. Petroni, V. Karpukhin, N. Goyal, H. Küttler, M. Lewis, W.-t. Yih, T. Rock-
+       täschel, S. Riedel, and D. Kiela. 2020. Retrieval-augmented generation for knowledge-intensive NLP
+       tasks. Vancouver, Canada: Advances in Neural Information Processing Systems.
+Li, J. N., Z. J. Zhang, and J. Ma. 2025. OmniQuery: Contextually Augmenting Captured Multimodal Mem-
+       ory to Enable Personal Question Answering. Proceedings of the 2025 CHI Conference on Human
+       Factors in Computing, Yokohama, Japan. https://doi.org/10.1145/3706598.3713448.
+Liu, H., C. Li, Q. Wu, and Y. J. Lee. 2023. Visual instruction tuning. New Orleans, Louisiana, USA:
+       Advances in Neural Information Processing Systems.
+Ma, X., Y. Gong, P. He, H. Zhao, and N. Duan. 2023. Query rewriting in retrieval-augmented large lan-
+       guage models. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Pro-
+       cessing, Singapore. https://doi​.org/10.186​53/v1/2023.​emnlp-ma​in.322.
+Maniar, N., S. W. T. Chan, W. Zulfikar, S. Ren, C. Xu, and P. Maes. 2025. MemPal: Leveraging multi-
+       modal AI and LLMs for voice-activated object retrieval in homes of older adults. 30th International
+       Conference on Intelligent User Interfaces, Cagliari, Italy. https://doi.org/10.1145/3708359.3712151.
+McAdams, D. P. 2001. The psychology of life stories. Review of General Psychology 5(2):100–122.
+       https://doi.org/10.1037/1089-2680.5.2.100.
+McAdams, D. P., and K. C. McLean. 2013. Narrative Identity. Current Directions in Psychological Sci-
+       ence 22(3):233–238. https://doi.org/10.1177/0963721413475622.
+Mialon, G., R. Dessì, M. Lomeli, C. Nalmpantis, R. Pasunuru, R. Raileanu, B. Rozière, T. Schick, J.
+       Dwivedi-Yu, A. Celikyilmaz, E. Grave, Y. LeCun, and T. Scialom. 2023. Augmented language mod-
+       els: a survey. Transactions on Machine Learning Research 1–35. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​4​8​5​5​0​/​a​r​X​i​v​.​2​3​
+       0​2​.​0​7​8​4​2​​​.​​​
+Michaelian, K. 2011. Generative memory. Philosophical Psychology 24(3):323–342. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​
+       0​8​0​/​0​9​5​1​5​0​8​9​.​2​0​1​1​.​5​5​9​6​2​3​​​.​​​​
+Pan, S., L. Luo, Y. Wang, C. Chen, J. Wang, and X. Wu. 2024. Unifying large language models and knowl-
+       edge graphs: A roadmap. IEEE Transactions on Knowledge and Data Engineering 36(7):3580–3599.
+       https://doi.org/10.1109/TKDE.2024.3352100.
+
+
+
+
+13
+The Story of Your Life: Large Language Models and Personal Memory
+
+Rhodes, B., and P. Maes. 2000. Just-in-time information retrieval agents. IBM Systems Journal 39(3–
+      4):685–704. https://doi.org/10.1147/sj.393.0685.
+Rupert, R. 2004. Challenges to the Hypothesis of Extended Cognition. Journal of Philosophy
+      101(8):389–428.
+Schechtman, M. 2005. Personal identity and the past. Philosophy Psychiatry & Psychology 12(1):9–22.
+      https://doi.org/10.1353/ppp.2005.0032.
+Schick, T., J. Dwivedi-Yu, R. Dessì, R. Raileanu, M. Lomeli, L. Zettlemoyer, N. Cancedda, and T. Scia-
+      lom. 2023. Toolformer: Language Models Can Teach Themselves to Use Tools. New Orleans, Loui-
+      siana, USA: Advances in Neural Information Processing Systems.
+Shultz, T. R., J. M. Wise, and A. S. Nobandegani. 2025. Text understanding in GPT-4 versus humans.
+      Royal Society Open Science 12(2):241313. https://doi.org/10.1098/rsos.241313.
+Smart, P. R. 2024. Extended X: Extending the Reach of Active Externalism. Cognitive Systems Research
+      84(Article 101202):1–12. https://doi.org/10.1016/j.cogsys.2023.101202.
+Smart, P. R., R. W. Clowes, and A. Clark. 2025. ChatGPT, Extended: Large Language Models and the
+      Extended Mind. Synthese 205(242):1–30. https://doi.org/10.1007/s11229-025-05046-y.
+Smith, K. L., M. Crete-Nishihata, T. Damianakis, R. M. Baecker, and E. Marziali. 2009. Multimedia biog-
+      raphies: a reminiscence and social stimulus tool for persons with cognitive impairment. Journal of
+      Technology in Human Services 27(4):287–306. https://doi.org/10.1080/15228830903329831.
+Sui, P., E. Duede, S. Wu, and R. So. 2024. Confabulation: The Surprising Value of Large Language Model
+      Hallucinations. 62nd Annual Meeting of the Association for Computational Linguistics, Bangkok,
+      Thailand. https://doi​.org/10.186​53/v1/2024.​acl-long​.770.
+Wu, Q., G. Bansal, J. Zhang, Y. Wu, B. Li, E. Zhu, L. Jiang, X. Zhang, S. Zhang, J. Liu, A. H. Awadal-
+      lah, R. W. White, D. Burger, and C. Wang. 2024. AutoGen: Enabling next-gen LLM applications
+      via multi-agent conversations. First Conference on Language Modeling, Philadelphia, Pennsylvania,
+      USA.
+Xu, Z., H. Xu, Z. Lu, Y. Zhao, R. Zhu, Y. Wang, M. Dong, Y. Chang, Q. Lv, and R. P. Dick. 2024. Can large
+      language models be good companions? An LLM-based eyewear system with conversational common
+      ground. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies,
+      8(2), 1–41. https://doi.org/10.1145/3659600.
+Xygkou, A., C. S. Ang, P. Siriaraya, J. P. Kopecki, A. Covaci, E. Kanjo, and W.-J. She. 2024. Mind-
+      Talker: Navigating the Complexities of AI-Enhanced Social Engagement for People with Early-Stage
+      Dementia. Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems,
+      Honolulu, Hawaii, USA. https://doi.org/10.1145/3613904.3642538.
+Yao, S., J. Zhao, D. Yu, N. Du, I. Shafran, K. Narasimhan, and Y. Cao. 2023. ReAct: Synergizing reason-
+      ing and acting in language models. Eleventh International Conference on Learning Representations,
+      Kigali, Rwanda.
+Yunusov, S., H. Sidat, and A. Emami. 2024. MirrorStories: Reflecting Diversity through Personalized Nar-
+      rative Generation with Large Language Models. Proceedings of the 2024 Conference on Empirical
+      Methods in Natural Language Processing, Miami, Florida, USA. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​8​6​​​5​3​/​v​1​/​2​0​2​4​.​
+      e​m​n​l​p​-​m​a​i​n​.​3​8​2​​​.​​​​
+Zhang, W., and J. Zhang. 2025. Hallucination mitigation for retrieval-augmented large language models: a
+      review. Mathematics 13(5):856. https://doi.org/10.3390/math13050856.
+Zhong, W., L. Guo, Q. Gao, H. Ye, and Y. Wang. 2024. MemoryBank: Enhancing large language mod-
+      els with long-term memory. Thirty-Eighth AAAI Conference on Artificial Intelligence, Vancouver,
+      Canada. https://doi.org/10.1609/aaai.v38i17.29946.
+Zulfikar, W. D., S. Chan, and P. Maes. 2024. Memoro: Using large language models to realize a concise
+      interface for real-time memory augmentation. Proceedings of the 2024 CHI Conference on Human
+      Factors in Computing Systems, Honolulu, Hawaii, USA. https://doi.org/10.1145/3613904.3642450.
+
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations.
+
+
+
+
+                                                                                                                      13
+

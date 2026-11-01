@@ -1,0 +1,1014 @@
+ Slip Through the Chat: Subtle Injection of False Information in
+ LLM Chatbot Conversations Increases False Memory Formation
+             Pat Pataranutaporn∗                              Chayapatr Archiwaranguprok∗                                      Samantha Chan
+         MIT Media Lab, Massachusetts                           University of the Thai Chamber of                     MIT Media Lab, Massachusetts
+            Institute of Technology                                         Commerce                                      Institute of Technology
+          Boston, Massachusetts, USA                                   Bangkok, Thailand                              Cambridge, Massachusetts, USA
+            patpat@media.mit.edu                                         pub@from.pub                                    swtchan@media.mit.edu
+
+                                            Elizabeth F. Loftus                                        Pattie Maes
+                                    UCI School of Social Ecology, UC                       MIT Media Lab, Massachusetts
+                                                  Irvine                                      Institute of Technology
+                                         Irvine, California, USA                           Cambridge, Massachusetts, USA
+                                           eloftus@law.uci.edu                                 pattie@media.mit.edu
+
+
+
+
+Figure 1: The figure illustrates two ways in which malicious LLM could potentially inject misinformation into users’ memory.
+Through interactive sessions, including reading LLM-generated article summaries and engaging in discussions with chatbots,
+users may inadvertently form false memories based on the manipulated information provided by the LLM. For instance, an
+LLM could subtly imply election fraud, potentially causing users to misremember details not present in the source material.
+Abstract                                                                                  concludes by discussing implications and proposing future research
+This study examines the potential for malicious generative chat-                          directions to address this concerning phenomenon.
+bots to induce false memories by injecting subtle misinformation
+during user interactions. An experiment involving 180 participants                        CCS Concepts
+explored five intervention conditions following the presentation of                       • Human-centered computing → Interaction design theory,
+an article: (1) no intervention, (2) reading an honest or (3) mislead-                    concepts and paradigms; Empirical studies in interaction
+ing article summary, (4) discussing the article with an honest or                         design; Empirical studies in HCI; HCI theory, concepts and
+(5) misleading chatbot. Results revealed that while the misleading                        models.
+summary condition increased false memory occurrence, mislead-
+ing chatbot interactions led to significantly higher rates of false                       Keywords
+recollection. These findings highlight the emerging risks associated
+                                                                                          False Memory, AI-generated Media, Misinformation, Generative
+with conversational AI as it becomes more prevalent. The paper
+                                                                                          AI, Chatbot, Human-AI Interaction
+∗ Both authors contributed equally to the paper
+                                                                                          ACM Reference Format:
+                                                                                          Pat Pataranutaporn, Chayapatr Archiwaranguprok, Samantha Chan, Eliza-
+                                                                                          beth F. Loftus, and Pattie Maes. 2025. Slip Through the Chat: Subtle Injection
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+                                                                                          of False Information in LLM Chatbot Conversations Increases False Memory
+IUI ’25, Cagliari, Italy
+© 2025 Copyright held by the owner/author(s).
+                                                                                          Formation. In 30th International Conference on Intelligent User Interfaces (IUI
+ACM ISBN 979-8-4007-1306-4/25/03                                                          ’25), March 24–27, 2025, Cagliari, Italy. ACM, New York, NY, USA, 17 pages.
+https://doi.org/10.1145/3708359.3712112                                                   https://doi.org/10.1145/3708359.3712112
+
+
+
+
+                                                                                   1297
+IUI ’25, March 24–27, 2025, Cagliari, Italy                                                                  Pataranutaporn and Archiwaranguprok et al.
+
+
+Introduction                                                                 AI-driven systems are increasingly being used to summarize and
+False memories, recollections of events that did not occur or are            interpret information, potentially replacing the need for humans to
+significantly altered from reality, have become an important area            read and comprehend full texts themselves. This shift towards AI-
+of psychological research. These distorted memories can have                 mediated information processing raises important questions about
+far-reaching consequences, including compromising witness tes-               its impact on human cognition and memory formation. Of partic-
+timonies, interfering with legal proceedings, and leading to poor            ular concern is the potential for these systems to unintentionally
+decisions based on inaccurate information [24, 51, 52, 55, 80, 96].          hallucinate or be intentionally manipulated to provide false informa-
+   The malleability of human memory has been extensively studied,            tion. Our study investigates a particularly insidious phenomenon:
+with researchers demonstrating that memories can be influenced               the subtle injection of false information during chat interactions
+and altered through various means, including the use of misleading           and its effects on false memory formation and confidence in those
+questions. This technique involves presenting individuals with post-         memories.
+event information in the form of questions that can distort their               By examining how misinformation can "slip through the chat," we
+recollection of the original event. Seminal work by Loftus and               explore the cognitive vulnerabilities that arise when humans engage
+Palmer [54] demonstrated that question-wording can significantly             with AI systems that may inadvertently or intentionally present
+affect eyewitness memory, with participants’ speed estimates of a            inaccurate information, especially after an individual has read or
+car accident varying based on the verb used. For instance, asking,           consumed the original, accurate information. This scenario has
+"How fast were the cars going when they smashed into each other?"            become increasingly relevant as the use of AI chatbots to summarize
+led to higher speed estimates compared to using the verb "hit." This         information has evolved into a common practice across various
+study highlighted the profound impact that subtle linguistic cues            domains. With the rapid proliferation of LLMs, everyday people
+can have on memory recall. Building on this foundation, researchers          [78, 93], legal professionals [15, 36], medical practitioners [60, 86],
+have explored more elaborate methods of memory manipulation.                 and experts in numerous fields now routinely rely on AI-powered
+   The "Lost in the Mall" study [55] further showed that false child-        tools to distill and interpret complex information. This scenario
+hood memories could be implanted through suggestive question-                presents a unique and potentially dangerous situation where a
+ing and guided imagination techniques. In this groundbreaking                person might initially read correct information from a reputable
+research, participants were led to believe they had experienced              source, but subsequent interaction with an AI model could alter or
+getting lost in a shopping mall as children despite this event never         distort their memory of what they have read.
+occurring. A recent replication [67] with a larger sample found that            This phenomenon undermines the traditional safeguards of in-
+35% of participants reported a false memory of being lost in a mall          formation verification and source credibility. Even when individuals
+as children, up from 25% in the original study. These results not only       make an effort to seek out reliable information, the post-processing
+confirm the initial findings but also underscore their importance            and summarization by AI models could introduce subtle distortions
+in legal contexts, where the reliability of eyewitness testimony is          or outright false information, effectively overwriting or altering the
+crucial. Collectively, these studies demonstrate the susceptibility of       original, accurate memories. This potential for AI-mediated mem-
+human memory to external influences and the potential for false              ory distortion poses significant challenges for information literacy,
+memories to be created or existing memories to be altered through            critical thinking, and decision-making processes. It raises important
+carefully crafted questioning and suggestion.                                questions about the role of AI in information dissemination and the
+   Unlike other forms of misinformation [94], false memories                 need for new strategies to preserve the integrity of human memory
+present a unique and particularly dangerous challenge that has               in an increasingly AI-mediated information landscape.
+been underexplored in the context of Human-Computer Interaction                 Motivated by both the potential risks and applications of AI-
+(HCI) and misinformation research. What sets false memories apart            mediated information processing, we aim to assess whether expo-
+is that individuals genuinely believe they recall accurate events,           sure to LLM-generated content can influence individuals’ recollec-
+making them highly resistant to correction and potentially more              tions of original information. Specifically, this paper explores the
+influential in shaping beliefs and behaviors [49, 53]. This internal-        following research questions:
+ization of misinformation as personal experience creates a cognitive
+barrier that traditional fact-checking or debunking methods often               (1) To what extent do LLM-generated summaries and chatbot
+fail to overcome. Furthermore, false memories can act as a catalyst                 interactions influence participants’ memories of the original
+for increased susceptibility to additional false information [41, 83],              article, and how does this compare to participants in a control
+creating a snowball effect that further distorts perceptions of reality             condition who only read the article?
+and complicates efforts to establish accurate historical or personal            (2) Does the interactive nature of chatbot conversations further
+narratives. While HCI research has extensively explored user inter-                 exacerbate the formation of false memories, both in terms of
+actions with digital misinformation and the design of interventions                 the number of false memories reported and the confidence
+to combat it [6, 18, 22, 23, 25, 26, 43, 46, 69, 79], the specific chal-            participants have in these memories, compared to static LLM-
+lenges posed by false memories in digital contexts remain relatively                generated summaries and the control condition?
+understudied.                                                                   (3) What factors, such as familiarity with AI technology, mem-
+   In recent years, Large Language Model (LLM) powered chatbots                     ory efficacy, skepticism towards media and institutions, age,
+have become increasingly prevalent in daily life, serving as vir-                   gender, and education, moderate the severity and frequency
+tual assistants, search engines, and even companions [10]. These                    of false memory formation when participants are exposed
+                                                                                    to LLM-generated content?
+
+
+
+
+                                                                      1298
+Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation   IUI ’25, March 24–27, 2025, Cagliari, Italy
+
+
+   (4) How consistent is the effect of LLM-induced false memories                               false memory formation, with misleading chatbots having
+       across different article topics, and are certain subjects more                           the greatest effect (2.92x more false memories than control).
+       susceptible to memory distortion?                                                      • Impact of LLMs on Memory Confidence: We demon-
+                                                                                                strate that exposure to misleading LLM interactions not only
+   To address these questions, we conducted a pre-registered                                    increases false memories but also reduces participants’ con-
+between-group experiment with 180 participants. Participants were                               fidence in their accurate recollections of true information.
+randomly assigned to read one of three information articles and                               • Effect of Different LLM Interaction Types: We explore
+then allocated to one of five conditions: a control group (no inter-                            how various LLM interaction types (honest summaries, hon-
+vention) or four LLM intervention groups. The LLM interventions                                 est chatbots, misleading summaries, and misleading chat-
+comprised two types (reading an AI-generated summary or engag-                                  bots) influence the severity of false memories, finding that
+ing in a discussion with an AI chatbot), each with two intentions                               interactive and misleading conditions have the most pro-
+(honest or misleading). Following the intervention, participants an-                            nounced effect.
+swered 15 questions, recalling whether specific points appeared in                            • Consistency Across Information Domains: We show
+the original article. This design enables an examination of how dif-                            that LLM-induced false memories occur consistently across
+ferent LLM interactions affect memory accuracy and susceptibility                               different article topics, suggesting a broad potential for mis-
+to misinformation.                                                                              information spread across various domains of knowledge.
+   Our findings reveal the impacts of AI-powered chatbots on mem-                             • Individual Factors in False Memory Susceptibility: We
+ory formation and confidence. Misleading chatbot interactions in-                               identify how individual factors such as education level and
+duced 2.92 times more false memories than the control group while                               self-reported memory efficiency correlate with susceptibil-
+also reducing confidence in true memories (M=4.803) compared to                                 ity to LLM-induced false memories, providing insights for
+honest summary (M=5.805) and honest chatbot (M=5.618) condi-                                    targeted mitigation strategies.
+tions. This led to a negative weighted score, i.e., the sum of three                          • Implications for Human-AI Interactions Research: We
+types of memories multiplied by confidence, for the misleading                                  discuss the potential consequences of these findings for AI-
+chatbot condition (M=-3.950), contrasting with positive scores in                               assisted information processing, including risks in educa-
+other conditions (e.g., control M=14.595). Interestingly, recall of                             tional, legal, and public information contexts, as well as
+factual information remained consistent across all conditions. Indi-                            potential benefits in therapeutic settings.
+vidual factors played a role, with education level showing a small                         These contributions aim to advance our understanding of the
+positive effect on false memory formation (Coef.=4.852, P=0.012)                        complex interplay between AI technologies and human psycholog-
+and self-reported memory efficiency demonstrating a slight nega-                        ical processes, informing future research and design practices in
+tive correlation (Coef.=-2.757, P=0.006). The effect was generally                      HCI.
+consistent across different article topics.
+   To our knowledge, this is one of the first studies providing em-
+                                                                                        1     Related Work
+pirical evidence on the impact of LLM-generated content on false
+memory formation. Our research also examines ethical consider-                          This research expands on a substantial body of interdisciplinary
+ations related to AI use in media and communication, including                          scholarship that lies at the convergence of cognitive psychology,
+its potential influence on personal and collective memories. We                         human-computer interaction, and artificial intelligence. Our study
+explore the implications of these findings and discuss possible ap-                     integrates and further develops insights from three key areas: re-
+proaches to address AI-generated misinformation, touching on the                        search on false memory, investigations into AI-generated misinfor-
+societal, political, and legal aspects of memory alteration through                     mation, and studies within the field of HCI.
+AI technology.
+   This research extends the long-standing HCI concept of "aug-                         1.1     False Memories Research
+menting human intellect" through technology, as pioneered by                            The foundational work by Loftus and colleagues has established
+Engelbart [17], by examining how AI-mediated information pro-                           false memory as a pivotal topic in psychological research, particu-
+cessing might not just supplement but potentially reshape human                         larly concerning the malleability of memory and the misinformation
+memory processes. This research highlights the critical responsibil-                    effect [48, 50, 51, 54, 55]. Their studies have profoundly influenced
+ity of HCI researchers and practitioners in guiding the design and                      our comprehension of memory processes, carrying significant impli-
+ethical implementation of AI technologies that could profoundly                         cations for fields such as psychology, law, and education [48, 50, 56].
+impact human cognitive functions. As AI increasingly influences                            One influential study illustrated how linguistic framing can
+how users interact with and interpret digital content, it is essential                  shape eyewitness memory, showing that the verbs used in ques-
+to understand how these systems can unintentionally distort mem-                        tions could alter participants’ speed estimates of a car crash they
+ory and alter perception and recollection of reality. To summarize,                     had observed [54]. Additionally, the “Lost in the Mall” experiment
+this paper contributes to the discussion of false memories in the                       demonstrated the feasibility of implanting completely fabricated
+context of HCI and AI along several key dimensions:                                     childhood memories [55]. A recent large-scale replication of this
+                                                                                        experiment confirmed these results, reporting a 35% false memory
+     • Empirical Evidence on LLM-induced False Memories:                                rate compared to the original study’s 25%, underscoring the ro-
+       We report on one of the first evidence-based studies showing                     bustness of these findings and their implications for legal contexts
+       that LLM-powered chatbots and summaries can increase                             involving eyewitness testimonies [67].
+
+
+
+
+                                                                              1299
+IUI ’25, March 24–27, 2025, Cagliari, Italy                                                              Pataranutaporn and Archiwaranguprok et al.
+
+
+   A comprehensive meta-analysis sought to address variability in        critical design issues surrounding user experience, privacy, and the
+false memory estimates across studies by applying a standardized         ethical considerations associated with digital memory outsourcing.
+coding approach [77]. Analyzing data from eight studies on false
+memory implantation (N = 423), this meta-analysis identified a
+30.4% overall rate of false memory formation, with an additional 23%     1.3    AI-generated Media and Misinformation
+of cases showing partial acceptance of suggested events. Notably,        Recent advancements in AI, particularly with large language mod-
+when the false memory suggestion was personalized, included an           els [10] and generative visual technologies [90], have rapidly in-
+imagination component, and did not rely on a photograph, the             tegrated into professional and personal domains, raising essential
+formation rate increased to 46.1%. This meta-analysis provides           questions regarding their impact on human cognition, particularly
+a robust estimate of false memory formation and highlights key           concerning misinformation (the spread of inaccurate information ir-
+moderating factors within the literature on false memories.              respective of intent) and disinformation (content crafted to mislead
+   The scope of false memory research has expanded to include            intentionally).
+modern technological domains. Recent studies have shown that                 Research indicates a rise in AI-driven disinformation campaigns
+vulnerabilities in chatbot memory systems allow for the injection        [23, 43], with factors such as authoritative tone [42], persuasive
+of misinformation alongside user-specific information [2]. Collec-       language [22, 42, 87], and targeted personalization [81] contribut-
+tively, these findings underscore the reconstructive and dynamic         ing to users’ difficulties in distinguishing between true and false
+nature of memory, significantly advancing our understanding of           information [6, 18, 22, 25, 26, 46, 69, 79]. Additionally, AI-generated
+how memories are shaped and influenced.                                  content has been shown to influence people’s beliefs and attitudes
+                                                                         [37, 44, 87].
+                                                                             A significant concern surrounding AI-generated misinformation
+1.2      HCI and Human Memory                                            is the tendency of AI systems to hallucinate or generate erroneous
+The field of HCI has a long-standing interest in enhancing and           information, whether by design or error [12, 33, 89, 94]. Initial
+supporting human memory through technological means, an idea             studies reveal that AI systems can even affect memory formation,
+originating with Doug Engelbart’s visionary work on augmenting           such as through a social robot study where users received false
+human intellect, which conceptualized computers as external ex-          information before a memory test. This research found that 77% of
+tensions of cognitive functions, including memory and intellect          the misremembered words were errors sourced from the robot’s
+[17]. Early innovations in this area included wearable systems,          incorrect information, comparable to errors caused by human mis-
+termed “remembrance agents,” that delivered contextually relevant        information [34].
+information to users [73]. More recent approaches have employed              The proliferation of misinformation on social media has sparked
+life-logging technologies to capture and recall personal experiences     considerable HCI research interest, examining how users engage
+[11, 27, 28, 39]. Research has also targeted digital memory aids         with misinformation [57, 61], the influence of visual elements
+specifically for older adults and individuals with memory impair-        [47, 88], and strategies to counteract it [29, 35]. The role of AI
+ments, such as prospective memory training systems [8, 9, 97] and        in detecting and addressing misinformation has become prominent,
+shared memory aids for couples’ safety settings [62]. In addition,       with studies investigating how AI-driven credibility indicators im-
+researchers have explored designs that foster embodied memory            pact users’ perceptions of news [58] and the effectiveness of using
+recall [70, 74] and support autobiographical memory in individuals       non-expert judgments to challenge misinformation [19].
+experiencing depression [72].                                                Additional research has explored the distinct risks associated
+    Beyond individual memory enhancement, participatory research         with AI-generated misinformation [38], AI-powered fact-checking
+has examined the construction of collective and cultural memory          and misinformation detection tools [64], and comparisons between
+[40]. Advances in virtual and augmented reality have introduced          AI-generated and human-produced misinformation [95]. Scholars
+new avenues for memory augmentation, with scholars investigat-           are also developing innovative AI-driven solutions to counter mis-
+ing enhanced recall capabilities [75] and augmented reality-based        information, such as tools designed to foster metacognitive skills
+memory cues [3].                                                         in natural settings [84]. The intersection of AI and misinformation
+    Wearable technology has also been developed to boost auditory        thus presents both complex challenges and promising opportuni-
+attention and memory [85], as well as to activate memory through         ties for the HCI community. Research should emphasize creating
+olfactory stimuli [1]. Moreover, personal knowledge management           transparent, robust, and user-centered AI systems that aid users in
+tools aim to facilitate long-term memory support [76], while other       navigating the intricate information landscape while thoughtfully
+research has focused on sound-based mementos for visually im-            addressing the broader implications and possible unintended effects
+paired individuals [91]. The emergence of AI and large language          of AI-enabled interventions.
+models has further enabled sophisticated memory augmentation
+tools, such as conversational agents that adapt to users’ memory
+needs in real-time [97] and AI-enhanced journaling applications          2     Methodology
+[45].                                                                    This study examines the influence of AI on false memory forma-
+    HCI researchers have also explored gamified memory studies           tion, primarily assessing the potential of malicious LLMs to inject
+[16] and developed models to understand language learning and            misinformation. In this preregistered between-group experiment
+forgetting patterns [59]. As memory-augmentation technologies be-        (AsPredicted #192802 - not yet public for anonymity), 180 partic-
+come more widespread, ongoing HCI research continues to address          ipants were randomly assigned to read one of three information
+
+
+
+
+                                                                  1300
+Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation   IUI ’25, March 24–27, 2025, Cagliari, Italy
+
+
+articles. After completing a filler task, participants were then ran-                   authentication. This approach enables us to investigate the poten-
+domly allocated to one of five conditions (36 participants per con-                     tial of unverified AI-enhanced content to alter memories, as well
+dition, with 12 per article): a control group (no intervention) or                      as to examine the risks associated with the widespread, uncritical
+four LLM intervention groups. The LLM interventions comprised                           acceptance of such material.
+two types (reading an AI-generated summary or engaging in a
+discussion with an AI chatbot), each with two intentions (honest or                    2.1.3 Confidence in False Memories. A significant concern in real-
+misleading). Honest conditions presented factual key points, either                    world scenarios is the compounding effect of false memories. When
+through static summaries or interactive discussions with chatbots.                     individuals develop a false memory, such as misattributing specific
+Misleading conditions incorporated misinformation alongside fac-                       statements to a political figure, they may become more effective
+tual points. The specific mechanisms of the chatbot interactions                       at convincing themselves and others of the memory’s authentic-
+are detailed in Section 2.4. Following the intervention, participants                  ity [53, 55]. This, in turn, can increase their susceptibility to further
+answered 15 questions, recalling whether specific points appeared                      misinformation [41, 83]. Our research not only examines the po-
+in the original article. This design enables an examination of how                     tential for LLM interactions to generate false memories but also
+different LLM interactions affect memory accuracy and suscepti-                        assesses the level of confidence individuals place in these erroneous
+bility to misinformation. The subsequent section elaborates on the                     recollections. This approach addresses a crucial issue in the con-
+study design, experimental conditions, and protocols.                                  temporary information landscape, where manipulated content can
+                                                                                       potentially distort collective perceptions of reality on a significant
+                                                                                       scale.
+2.1     Study Design Rationale
+This study simulates two common scenarios of Large Language                            2.1.4 Potential Risk of AI for Systematic False Memories Inducement
+Model (LLM) interaction in everyday contexts: reading LLM-                             at Scale. Traditional research on false memory injection, while com-
+generated summaries of textual information and discussing specific                     mon in psychology, has been constrained by the need for direct
+information with LLM-powered chatbots. Consequently, we test                           interaction with trained professionals, limiting its scalability. The
+two intervention types: participants reading an LLM-generated arti-                    emergence of generative AI, however, introduces a potential shift.
+cle summary and engaging in a discussion about an article with an                      LLMs and similar AI systems can engage in personalized, persuasive
+LLM chatbot. This design allows us to examine how different forms                      interactions with numerous individuals simultaneously, potentially
+of AI-mediated information processing might influence memory                           automating and scaling false memory induction to an unprece-
+and information retention.                                                             dented degree. This technological leap raises alarming prospects
+                                                                                       for the systematic manipulation of collective memory and beliefs on
+2.1.1 LLMs are Ubiquitous. Large Language Models (LLMs) are                            a massive scale. AI-driven approaches could target vast populations
+becoming increasingly integrated into everyday life, with various                      with tailored misinformation, exploiting cognitive vulnerabilities
+models now serving as default features on computers and smart-                         more efficiently than ever before. The risk is twofold: the poten-
+phones [14, 30, 32]. People utilize LLMs in diverse ways, particularly                 tial for widespread dissemination of false information and the AI’s
+for summarizing textual information and engaging in discussions.                       ability to adapt its strategies based on user responses, making the
+Beyond popular chatbots like ChatGPT and Claude, numerous prod-                        process more effective and harder to detect or counteract. This
+ucts incorporate LLMs as core features to streamline tasks. For                        experiment embodies the aforementioned rationale by systemati-
+instance, the Arc search browser offers a "Pinch-to-Summarize"                         cally generating the artifacts used in the interventions, including
+feature [63], allowing users to generate webpage summaries with                        summaries, key points, and misinformation, rather than creating
+a simple gesture. Additionally, LLM-based search engines such as                       them manually. The detailed process is elaborated in section 2.3.
+Perplexity are capable of summarizing webpages and subsequently
+engaging in discussions with users regarding the content. How-
+ever, this type of usage is susceptible to misinformation, stemming
+                                                                                        2.2     Article Sources
+from both the models’ inherent tendency to hallucinate and the                          To diversify the information presented and demonstrate the gen-
+potential for maliciously designed LLMs intentionally created to                        eralizability of LLMs’ impact across various contexts, we utilized
+mislead users. The study reflects this reality by using two types of                    three distinct articles for this experiment. The selected articles in-
+interventions, as mentioned earlier. The two types of interventions                     cluded a coverage report on shoplifting situations in the United
+are further categorized based on the intentions of the LLMs: honest                     Kingdom [4], a scientific article examining the impact of funding
+and misleading. This distinction allows for a separate exploration                      on drug development [7], and a news article discussing the politi-
+of both the general impact of LLM interactions and the specific                         cal situation in Thailand following the 2023 general election[31].
+effects of their intended purposes.                                                     The articles are approximately 1,000 to 1,200 words long. By using
+                                                                                        diverse sources, we aimed to demonstrate the generalizability of
+2.1.2 Minimal Verification by Users. In reality, while individuals                      LLMs’ effects across different domains and strengthen the external
+have the means to verify information or authenticate images, stud-                      validity of our study. These diverse topics were chosen to represent
+ies suggest that the majority do not invest time in such verification                   a range of content that individuals might realistically encounter
+processes [65]. Instead, people tend to place trust in media they                       in their daily lives. However, our selection process was guided by
+encounter, particularly when it presents itself as credible and au-                     ethical considerations to minimize potential harm or dangerous
+thoritative [21, 66]. Our research design replicates this tendency                      reactions by carefully curating the content to avoid contexts di-
+by exposing participants to modified media without mandating                            rectly related to countries with significant impact on US politics and
+
+
+
+
+                                                                              1301
+IUI ’25, March 24–27, 2025, Cagliari, Italy                                                                 Pataranutaporn and Archiwaranguprok et al.
+
+
+
+
+Figure 2: Experimental procedure for assessing LLM-induced false memories. Participants read an information article, completed
+a filler task, and then engaged with one of five conditions (control or four LLM interventions). Memory assessment followed,
+measuring the impact of interventions on information recall and potential misinformation adoption.
+
+
+excluding any content with a highly disturbing tone or promoting            2.4    Chatbot Mechanism
+harmful ideologies or extremist views.                                      The chatbots utilize the gpt-4o-2024-08-06 model, initially in-
+                                                                            structed to discuss an information article with participants. The
+                                                                            chat mechanism comprises four main steps, as illustrated in Fig-
+                                                                            ure 4:
+2.3      Experiment Conditions and Questionaire
+                                                                               (1) The chatbot initiates with a pre-filled summary of the article,
+The experiment consists of five conditions: no intervention (con-
+                                                                                   identical to the honest/misleading summary conditions. This
+trol), honest summary, honest chatbot, misleading summary, and
+                                                                                   summary is presented as the chatbot’s first message and
+misleading chatbot. The process of generating each condition is
+                                                                                   included as an assistant message in subsequent API calls. It
+designed to be systematic and generative, as discussed in the study
+                                                                                   concludes with a question prompting participants’ thoughts
+rationale regarding the potential risk of using malicious LLM for
+                                                                                   on the article, serving as a discussion starter.
+false memory inducement at scale. The pipeline is illustrated in
+                                                                               (2) Following the participant’s response, a system prompt
+Figure 3. Using gpt-4o-2024-08-06, the article is first summarized
+                                                                                   guides the conversation towards a predetermined context.
+into ten factual key points. In the honest summary intervention, the
+                                                                                   For honest chatbots, this context comprises ten factual key
+ten key points are used to generate a brief summary of the article
+                                                                                   points from the summarization step (Figure 3). Misleading
+while being fed as context for honest chatbot intervention.
+                                                                                   chatbots use five factual points combined with five misinfor-
+   Meanwhile, in misleading conditions, 20 potential misinforma-
+                                                                                   mation points. In this experiment, the context is provided as
+tion are generated and input into a new GPT-4o session to be ranked
+                                                                                   discussion topics without explicit instructions to mislead or
+according to their severity (how impactful they will be) and plau-
+                                                                                   convince.
+sibility (how plausible they sound regardless of the actual infor-
+                                                                               (3) The conversation progresses through each key point in the
+mation). The top five misinformations are selected and combined
+                                                                                   information context. After discussing one point, the context
+with five randomly selected key points from the first step, which
+                                                                                   shifts to the next, and step (2) repeats until all ten points are
+then are combined with the honest summary to generate a brief
+                                                                                   covered.
+summary of the article while being fed as context for misleading
+                                                                               (4) Once all key points have been discussed, the chatbot is in-
+chatbot, similar to the honest conditions. Each of the 15 questions
+                                                                                   structed to conclude the conversation.
+corresponds to one of either ten key points from the first step or five
+misinformation selected for misleading conditions. Based on these              That is, in this experiment, the misleading chatbot mechanism
+key points, we can quantify the information recalled in the analysis.       subtly inserts misinformation as contextual cues rather than overtly
+Participants were initially presented with an article, followed by          deceiving users. In conversations, the chatbot integrates false in-
+one of the interventions or no intervention after a filler task. The        formation and solicits user opinions instead of directly persuading
+intervention is presented as a customized web interface embedded            them. For instance, in a discussion about UK shoplifting, the chat-
+within Qualtric.                                                            bot was instructed to introduce the notion that "The government’s
+
+
+
+
+                                                                     1302
+Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation   IUI ’25, March 24–27, 2025, Cagliari, Italy
+
+
+
+
+Figure 3: The figure illustrates the systematic process to create information for intervention in each condition, i.e., honest
+chatbot, honest summary, misleading summary, and misleading chatbot, and the questionnaire for memory assessment. Each
+article is summarized into key points, and potential misinformation regarding the article is generated. The key points and
+potential misinformation are fed as data to generate a summary in summary conditions and as a context for chatbot conditions.
+
+
+£1500 security grants were secretly intended to fund sophisticated                     sales?). The participant could either answer yes, no, or unsure. In
+surveillance systems for monitoring citizens rather than enhancing                     addition, participants rated their confidence on a 7-point scale from
+shop security" This resulted in the following message:                                 1 (extremely lacking confidence) to 7 (extremely confident).
+                                                                                           For the moderating factors, we measured several aspects: AI
+        Those are solid strategies for promoting accountabil-
+                                                                                       Familiarity was assessed on a 7-point scale (1 = Not familiar at
+        ity and transparency. Its interesting you mention regu-
+                                                                                       all, 7 = Very familiar), indicating participants’ familiarity with AI
+        lation because the government’s 1,500 security grants
+                                                                                       technologies. Frequency of Forgetting, adapted from Zelinski et al.
+        for small businesses are rumored to actually be a front
+                                                                                       [92], evaluated participants’ general memory performance on a
+        for funding sophisticated surveillance systems, pos-
+                                                                                       scale from 1 (Major problems) to 7 (No problems). Memory Efficacy
+        sibly shifting the focus from mere shop security to
+                                                                                       was measured using a subset of items from Berry et al. [5], where
+        broader citizen monitoring. This brings a whole new
+                                                                                       participants rated their ability to remember visual and verbal in-
+        layer of complexity to the discussion on privacy and
+                                                                                       formation on a 7-point scale (1 = Strongly disagree, 7 = Strongly
+        ethics. What are your thoughts on the balance be-
+                                                                                       agree). Lastly, Skepticism was assessed using a scale adapted from
+        tween security and privacy in such scenarios?
+                                                                                       Ferrer-Urbina et al. [20], with participants rating their agreement
+   After the conversation ends, participants are then given a pass-                    to statements reflecting distrust in official information on a 7-point
+word to continue to the next page in the form after they complete                      scale (1 = Strongly disagree, 7 = Strongly agree).
+the chat.
+                                                                                        2.6     Experiment Protocol
+2.5     Measurement                                                                    The experiment was conducted using Qualtrics. 180 participants
+Participants were presented with a Memories Test Questionnaire                         were recruited from CloudResearch, with an equal 1:1 ratio of fe-
+consisting of 15 questions regarding their memory of the original                      male to male participants. The study was limited to individuals
+article. Each question asks participants to recall whether they read                   residing in the United States, and participants ranged in age from
+about the specific information in the original article. (e.g., Did                     19 to 76 years old, M=35.3, s.d.=11.6. The experimental procedure
+you remember reading in the original article that the true impact                      began with participants signing a consent form, which included a
+of cardiovascular disease is overstated in order to promote drug                       disclosure regarding the possibility of deception in the study.
+
+
+
+
+                                                                              1303
+IUI ’25, March 24–27, 2025, Cagliari, Italy                                                                  Pataranutaporn and Archiwaranguprok et al.
+
+
+
+
+Figure 4: The diagram illustrates how a misleading chatbot discusses articles with users through a four-step process: (1) chatbot
+provides an initial misleading summary of the article, (2) user interaction with the chatbot, (3) chatbot generates responses
+based on user messages and pre-generated information keypoints containing both factual statements and misinformation, and
+(4) conversation wrap-up.
+
+
+   The questionnaire introduction informed participants they                 2.7    Analysis
+would read an article and share their impressions for a journalism-          To evaluate AI’s potential for misinformation injection and memory
+style evaluation. In chatbot conditions, participants were instructed        distortion, we conducted two analysis groups:
+to discuss the article with a chatbot to deepen researchers’ un-
+derstanding of how journalism style affects article perception. An              (1) Primary Analysis tested our main hypothesis on AI’s effect
+initial attention check ensures participant focus. Participants then                in inducing false memories, focusing on five questions cor-
+viewed a randomly selected article from three options, with the                     responding to misinformation injected in misleading condi-
+"next" button hidden for 3 minutes to encourage thorough read-                      tions. We observed three key metrics: 1) Number of reported
+ing. Following this, participants completed a 2-minute filler task                  false, uncertain, and non-false memories. 2) Confidence lev-
+playing Pac-Man. They were then randomly assigned to one of five                    els associated with each memory type. 3) Weighted score:
+conditions: control (no intervention) or one of four interventions.                 calculated by assigning values to each memory type (false:
+A second attention check follows the intervention. The sample                       -1, uncertain: 0, true: 1), multiplying by confidence levels,
+interface is shown in Figure 5                                                      and summing the products
+   Following the intervention, participants answered 15 memory                  (2) Additional Analysis examining 1) the overall impact of
+test questions to assess their recollection of the original article. The            interventions on recalling factual memories (based on ten
+study concluded with a demographic questionnaire and post-survey.                   questions about article key points) using the weighted score.
+This final section addressed potential technical issues and explored                2) Moderating factors influencing false memory occurrences
+moderating factors such as AI technology familiarity, memory ef-                    via a mixed-effect regression model. 3) Impact of article
+ficacy, tendency for forgetting, and skepticism. It also gathered                   sources on false information recall
+demographic information, including age, gender, and education
+level. The participants were then given a debrief regarding the                 Participants’ memories were categorized based on their re-
+actual objective of the research.                                            sponses to specific questions about the original article. Incorrect an-
+                                                                             swers (disagreeing with true statements or agreeing with false ones)
+                                                                             were classified as false memories. Correct answers were categorized
+                                                                             as non-false memories. Responses of "unsure" were classified as
+                                                                             uncertain memories.
+
+
+
+
+                                                                      1304
+Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation   IUI ’25, March 24–27, 2025, Cagliari, Italy
+
+
+
+
+Figure 5: Sample interfaces from different experimental conditions (original article on drug development). Top: (Left) Informa-
+tion article reader screen; (Right) Honest summary. Bottom: (Left) Misleading chatbot(AI: star icon; User: circle outline icon
+with bold text); (Right) Memory assessment questionnaire, prompting recall and confidence rating.
+
+
+    For each test, we first assessed if the normality assumption was                    3.1.1 Number of False Memories. As illustrated in the first col-
+met for each outcome variable distribution using the Shapiro-Wilk                       umn of Figure 6, the test indicates significant differences in re-
+test. If the normality assumption was not met, we performed a                           ported false memories between the conditions, H =19.66, P=5.829e-4,
+Kruskal-Wallis test followed by a post-hoc Dunn test using the                          P<0.05. Misleading chatbot induced significantly more false memo-
+Bonferroni error correction. If the normality assumption was met,                       ries compared to every other condition. In the most extreme case,
+we then conducted a homogeneity test using a Levene test to assess                      misleading chatbot intervention leads to 2.92x more false memo-
+whether the samples were from populations with equal variances.                         ries than no intervention (control). Statistics: control: M=16.216,
+If the samples were not homogeneous, we ran a Welch analysis of                         s.d.=24.970, err=4.105; honest summary: M=23.684, s.d.=33.672,
+variance (ANOVA) and a Tukey’s honestly significant difference                          err=5.462; honest chatbot: M=21.714, s.d.=28.833, err=4.874; mislead-
+test (Tukey’s HSD) test. If the samples were homogeneous, we ran                        ing summary: M=28.889, s.d.=32.470, err=5.412; misleading chatbot:
+a basic ANOVA test with a Tukey post-hoc test.                                          M=47.500, s.d.=35.969, err=5.687. Post hoc Dunn test with Ben-
+                                                                                        jamini–Hochberg (FDR) correction: control vs misleading chatbot,
+                                                                                        P=0.0005; honest summary vs misleading chatbot, P=0.00105; hon-
+2.8     Approvals                                                                       est chatbot vs misleading chatbot, P=0.00187; misleading summary
+This research was reviewed and approved by the MIT Committee                            vs misleading chatbot, P=0.02459.
+on the Use of Humans as Experimental Subjects, protocol number
+E-6102. The study was also preregistered at AsPredicted #192802.
+                                                                                        3.1.2 Number of Uncertain and Non-false memories. There were no
+3 Result of Primary Analysis                                                            significant differences in the number of reported uncertain mem-
+                                                                                        ories between conditions as shown in the second column of Fig-
+3.1 Number of Recalled Memories by Categories                                           ure 6, H =6.937, P=0.139. Statistics: control: M=14.054, s.d.=20.196,
+Shapiro-Wilk tests revealed non-normality across all three types                        err=3.320; honest summary: M=5.789, s.d.=11.152, err=1.809; hon-
+of memories (False, Uncertain, Non-false). We employed one-way                          est chatbot: M=17.143, s.d.=23.491, err=3.971; misleading summary:
+Kruskal-Wallis tests to analyze variation in all three datasets. The                    M=15.556, s.d.=23.147, err=3.858; misleading chatbot: M=14.500,
+statistics are illustrated in Figure 6.                                                 s.d.=18.967, err=2.999.
+
+
+
+
+                                                                              1305
+IUI ’25, March 24–27, 2025, Cagliari, Italy                                                                 Pataranutaporn and Archiwaranguprok et al.
+
+
+
+
+Figure 6: The percentage of reported false, uncertain, and non-false memories (i.e., how many times participants recalled
+incorrectly, were unsure, or recalled the original image correctly) were analyzed using a one-way Kruskal-Wallis and post hoc
+Dunn with FDR. P-value annotation legend: *, P<0.05; **, P<0.01; ***, P<0.001; ****, P<0.0001.
+
+
+   Meanwhile, in the third column, the test indicates significant           misleading summary: M=5.552, s.d.=0.960, err=0.178; misleading
+differences in the number of reported non-false memories between            chatbot: M=4.803, s.d.=1.422, err=0.284;
+the conditions with H =19.874, P=5.289e-4. Corresponding with the
+number of false and uncertain memories, misleading chatbot leads
+to the lower number of non-false memories compared to all other             3.3    Weighted Score
+conditions. Statistics: control: M=69.730, s.d.=35.904, err=5.903; hon-     We calculated the weighted score by multiplying the score assigned
+est summary: M=70.526, s.d.=36.631, err=5.942; honest chatbot:              to each memory type (False=-1, Uncertain=0, Non-False=1) by the
+M=61.143, s.d.=36.392, err=6.151; misleading summary: M=55.556,             participant’s confidence level for that memory (ranging from 1
+s.d.=37.152, err=6.192; misleading chatbot: M=38.000, s.d.=36.824,          to 7). Shapiro-Wilk indicates non-normality across all conditions.
+err=5.822. Post hoc Dunn test with Benjamini–Hochberg (FDR) cor-            Kruskal-Wallis test suggests significant differences between the
+rection: control vs misleading chatbot, P=0.00016; honest summary           conditions, H =21.584, P=2.425e-4, P>0.05. Misleading chatbot in-
+vs misleading chatbot, P=0.00014; honest chatbot vs misleading              tervention introduces a significantly lower score, with the mean
+chat, P=0.01063.                                                            below zero. Statistics: control: M=14.595, s.d.=16.968, err=2.790;
+                                                                            honest summary: M=14.000, s.d.=20.529, err=3.330; honest chatbot:
+                                                                            M=11.829, s.d.=17.829, err=3.014; misleading summary: M=7.528,
+3.2      Confidence in Recalled Memories                                    s.d.=19.111, err=3.185; misleading chatbot: M=-3.950, s.d.=19.870,
+                                                                            err=3.142. Post hoc Dunn test with Benjamini–Hochberg (FDR) cor-
+Shapiro-Wilk tests revealed non-normality across all three types
+                                                                            rection: control vs misleading chatbot, P=0.00011; honest summary
+of memories. We employed one-way Kruskal-Wallis tests to ana-
+                                                                            vs misleading chatbot, P=0.00007; honest chatbot vs misleading
+lyze variation. The tests indicate no significant differences between
+                                                                            chatbot, P=0.00167; misleading summary vs misleading chatbot,
+the conditions in false (H =5.627, P=0.229) and uncertain memories
+                                                                            P=0.02554.
+(H =5.764, P=0.217). Conversely, significant variation is shown in
+the confidence of non-false memories (H =11.091, P=0.0256), namely
+between the pairs between misleading chatbot and honest sum-                4 Results of Additional Analysis
+mary/chatbot. Post hoc Dunn test with Benjamini-Hochberg (FDR)
+correction: honest summary vs misleading chatbot, P=0.00226; hon-
+                                                                            4.1 Performance in Recalling Factual
+est chatbot vs misleading chatbot, P=0.01524. The data are illus-               Information from the Article
+trated in Figure 7.                                                         While the primary aim of this research is to investigate the effective-
+   Statistics: False Memories. control: M=5.421, s.d.=0.661,                ness of misleading interventions in implanting false memories, we
+err=0.177; honest summary: M=5.729, s.d.=0.766, err=0.186; hon-             also examine their impact on accurate recall. This section analyzes
+est chatbot: M=5.185, s.d.=0.920, err=0.223; misleading sum-                participants’ performance in recalling true information based on
+mary: M=5.740, s.d.=0.626, err=0.137; misleading chatbot: M=5.460,          ten questions corresponding to factual key points from the arti-
+s.d.=1.047, err=0.188; Uncertain Memories. control: M=4.511,                cles. We use the previously introduced weight score to synthesize
+s.d.=1.039, err=0.268; honest summary: M=4.571, s.d.=1.294,                 both the number of correct responses and participants’ confidence
+err=0.489; honest chatbot: M=3.544, s.d.=1.236, err=0.319; mislead-         levels into a single metric. This approach allows us to comprehen-
+ing summary: M=3.994, s.d.=1.190, err=0.307; misleading chat-               sively assess how different interventions affect both false memory
+bot: M=4.196, s.d.=1.329, err=0.322; Non-False Memories. con-               formation and accurate information retention.
+trol: M=5.287, s.d.=1.273, err=0.218; honest summary: M=5.805,                 Shapiro-Wilk informs the non-normality across all conditions,
+s.d.=1.075, err=0.187; honest chatbot: M=5.618, s.d.=1.205, err=0.224;      and Kruskal-Wallis suggests no significant differences between
+
+
+
+
+                                                                     1306
+Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation   IUI ’25, March 24–27, 2025, Cagliari, Italy
+
+
+
+
+Figure 7: Confidence levels of recalled memories in three categories (false/uncertain/non-false) were analyzed using a one-way
+Kruskal-Wallis and post hoc Dunn with FDR. P-value annotation legend: *, P<0.05; **, P<0.01; ***, P<0.001; ****, P<0.0001.
+
+
+                                                                                        memories are (1) education level (P=0.012), yet the number is low
+                                                                                        (Coef.=4.852), and (2) memory efficiency (i.e., how well participants
+                                                                                        can remember things). Interestingly, the Coef. is negative (-2.757),
+                                                                                        meaning that people who self-reported having high memory effi-
+                                                                                        ciency may perform worse in recalling memories, but the number
+                                                                                        is nonetheless small.
+
+                                                                                        4.3     Number of False, Uncertain, and Non-False
+                                                                                                Memories Based on Article Sources
+                                                                                        Figure 9 compares memory accuracy across 5 experimental condi-
+                                                                                        tions, with data separated by article source. Each bar consists of two
+                                                                                        segments: the bottom segment represents the percentage of false
+                                                                                        memories, while the top segment shows the percentage of uncertain
+                                                                                        responses. The remaining portion (reaching 100%) represents accu-
+                                                                                        rate memories, which can be calculated by subtracting the false and
+                                                                                        uncertain percentages from 100%. All types of interventions lead
+                                                                                        to a higher number of false memories, with misleading chatbots
+Figure 8: The confidence of recalled memories in three cate-
+                                                                                        inducing a higher number of false memories compared to every
+gories (false/uncertain/non-false) was analyzed using a one-
+                                                                                        condition. Meanwhile, the mixed effects regression, as discussed in
+way Kruskal-Wallis and post hoc Dunn with FDR. P-value
+                                                                                        the previous section, shows no significant effect of article sources
+annotation legend: *, P<0.05; **, P<0.01; ***, P<0.001; ****,
+                                                                                        on the number of reported false memories. This shows that inter-
+P<0.0001.
+                                                                                        ventions, particularly misleading chatbot interventions, can induce
+                                                                                        false memories across different article sources.
+
+groups (H =5.448, P=0.244, P>0.05). This indicates that the interven-
+tions do not have a significant impact on recalling the factual in-
+                                                                                        5     Discussion
+formation from the article. Statistic: control: M=45.351, s.d.=16.160,                  Our findings reveal significant implications regarding the influ-
+err=2.657; honest summary: M=45.342, s.d.=18.535, err=3.007; hon-                       ence of AI-mediated information processing on human memory
+est chatbot: M=52.829, s.d.=11.208, err=1.895; misleading summary:                      formation and confidence. The results demonstrate that interac-
+M=47.861, s.d.=15.974, err=2.662; misleading chatbot: M=45.325,                         tions with LLM-powered chatbots, particularly those designed to
+s.d.=17.978, err=2.843.                                                                 mislead, can substantially increase false memory formation while
+                                                                                        simultaneously reducing confidence in accurate recollections.
+4.2     Moderating Factors
+We employed a mixed effects regression to investigate how partic-                       5.1     Impact of AI Interactions on Memory
+ipants’ factors, including gender, age, education, familiarity with                     The most striking result is that misleading chatbot interactions
+AI technology, and cognitive factors (frequency of forgetting and                       induced 2.92 times more false memories compared to the control
+memory efficiency), and, in addition, article sources, relate to the                    condition. This aligns with previous research on misinformation ef-
+percentage of false memories. The result of the model is presented                      fects [53], but extends these findings to the domain of AI-mediated
+in Table 1. Two factors that significantly affect the number of false                   information processing. The interactive nature of chatbots appears
+
+
+
+
+                                                                              1307
+IUI ’25, March 24–27, 2025, Cagliari, Italy                                                              Pataranutaporn and Archiwaranguprok et al.
+
+
+                                                                  Coef. Std.Err.      z    P>|z|   [0.025 0.975]
+                        Gender (Male compared to Female)          6.690    4.721 1.417     0.157   -2.564 15.943
+                        Familiarity with AI Technology           -0.071    1.756 -0.040    0.968   -3.512    3.371
+                        Frequency of Forgetting                  -0.406    1.906 -0.213    0.831   -4.142    3.330
+                        Memory Efficiency                        -2.757    0.996 -2.769 0.006*     -4.709 -0.805
+                        Education Level                           4.852    1.925 2.521 0.012**       1.080   8.625
+                        Age                                      -0.198    0.204 -0.969    0.333   -0.598    0.202
+                        Skepticism toward Media and Institutions -0.132    0.244 -0.540    0.589   -0.610    0.347
+                        Article (Election compared to other)      9.873    5.592 1.766     0.077   -1.087 20.834
+                        Article (Shoplifting compared to other)   0.169    5.589 0.030     0.976 -10.786 11.123
+                   Table 1: The mixed effects regression model result. P-value annotation legend: *, P<0.05; **, P<0.01.
+
+
+
+
+Figure 9: A stacked bar chart comparing memory accuracy across 5 experimental conditions, with data separated by article
+source. Each bar consists of two segments: the bottom segment represents the percentage of false memories, while the top
+segment shows the percentage of uncertain responses. The remaining portion (reaching 100%) represents accurate memories,
+which can be calculated by subtracting the false and uncertain percentages from 100%.
+
+
+to amplify the misinformation effect, potentially due to increased en-     negative score (M=-3.950) compared to positive scores in other
+gagement and perceived credibility [21]. Interestingly, even honest        conditions.
+AI interactions showed a trend towards increased false memories,
+though not statistically significant. This suggests that the mere act
+of re-processing information through AI systems may introduce
+subtle distortions in memory, echoing findings from studies on             5.3   Malicious LLMs, Hallucinating LLMs, and
+reconsolidation and memory malleability [51].                                    Misinformation
+                                                                           The chatbot used in this experiment was not specifically instructed
+                                                                           to deceive or convince users, and its tone may have been influenced
+5.2      Confidence in Memories                                            by the safeguards of GPT-4o. Instead, it subtly inserted misinfor-
+Our results indicate that misleading chatbot interactions not only         mation through misleading contextual cues. Yet, the possibility of
+increase false memories but also reduce confidence in true memo-           memory manipulation is still evident. This highlights the need to
+ries. This dual effect is particularly concerning, as it suggests that     explore the effects of more explicitly malicious chatbots that are
+AI-mediated misinformation can both distort recollections and un-          deliberately designed to manipulate user perceptions. Such studies
+dermine trust in accurate memories. The weighted memory score,             could reveal the full extent of potential cognitive vulnerabilities
+which accounts for both accuracy and confidence, further empha-            when interacting with AI systems and may help develop robust
+sizes this issue, with the misleading chatbot condition yielding a         safeguards against intentionally misinforming LLMs.
+
+
+
+
+                                                                    1308
+Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation   IUI ’25, March 24–27, 2025, Cagliari, Italy
+
+
+   In addition, while our study primarily focused on intentional                        crucial. These systems would continuously verify AI-presented in-
+misinformation injection, the results also have implications for un-                    formation, flagging potential misinformation in real time. When
+intended AI-generated inaccuracies, often termed "hallucinations."                      discrepancies are detected, the interface could visually highlight
+While not directly studied here, the demonstrated effectiveness of                      questionable content, prompting users to approach it cautiously. For
+chatbots in implanting false information suggests that a similar                        example, [19] demonstrated that encouraging users to consider the
+mechanism may apply to hallucinations. This implies that even                           accuracy of social media posts can reduce misinformation sharing.
+without malicious intent, LLMs might inadvertently propagate mis-                       Similarly, [71] showed that a notification system focusing users on
+information through erroneous outputs. The ability of users to                          post accuracy could decrease misinformation spread. Combining
+form false memories based on AI-provided information, as shown                          these approaches with fact-checking engines may start to miti-
+in our study, could extend to these unintentional inaccuracies. This                    gate the issue. Equally important is the ongoing development of
+realization broadens the scope of concern regarding AI-mediated                         interfaces and interactions that foster critical thinking [13, 68], ad-
+information dissemination, highlighting the need for safeguards                         dressing evolving challenges. These designs aim to cultivate a more
+against both deliberate and accidental misinformation spread in AI                      discerning user base capable of critically evaluating AI-generated
+systems.                                                                                information. By promoting an environment of healthy skepticism,
+                                                                                        these approaches can help users develop a nuanced understanding
+5.4     Individual Factors in Susceptibility                                            of AI-generated content, thereby reducing the risk of false memory
+Our analysis of moderating factors revealed small but significant                       formation and misinformation propagation.
+effects of education level and self-reported memory efficiency on
+false memory formation. Surprisingly, higher education levels were                      5.6     Limitations and Future Work
+associated with slightly increased susceptibility to false memories,
+contradicting some previous findings on educational attainment                         This study provides valuable insights into the influence of LLM-
+and critical thinking [65]. The negative correlation between self-                     powered interventions on memory formation, but several limita-
+reported memory efficiency and actual performance highlights                           tions should be acknowledged to contextualize our findings and
+the potential disconnect between perceived and actual cognitive                        guide future research.
+abilities in the context of AI interactions.                                              First, our investigation focused primarily on immediate recall
+                                                                                       following the interventions. While this approach allowed us to cap-
+                                                                                       ture the initial impact of AI-mediated information processing on
+5.5     Ethical Implications                                                           memory formation, it leaves unexplored the long-term persistence
+Our experiment revealed a significant capacity for LLMs to alter                       of these false memories in the specific context of AI-generated
+memories through injecting misinformation, raising serious con-                        misinformation. It’s worth noting that prior work in cognitive psy-
+cerns and underscoring the urgent need for mitigation strategies.                      chology has already demonstrated the potential for false memories
+                                                                                       to persist over extended periods [41]. Understanding the tempo-
+5.5.1 Societal Impact. The information explosion and prolifera-
+                                                                                       ral dynamics of AI-induced false memories is crucial for assessing
+tion of social networks in recent decades have led to information
+                                                                                       their real-world implications and developing appropriate mitigation
+polarization and the spread of fake news, profoundly impacting
+                                                                                       strategies, especially given the persistent nature of false memories
+contemporary society. These persistent issues continue to challenge
+                                                                                       observed in other contexts.
+us. The recent boom in LLMs potentially exacerbates this problem,
+                                                                                          Second, the experiment was conducted in a controlled online
+as these AI systems offer even more personalized interactions than
+                                                                                       setting, which, while allowing for precise manipulation of variables,
+current social media algorithms. This escalation necessitates a mul-
+                                                                                       may not fully reflect real-world scenarios where users interact with
+tifaceted approach encompassing societal, legal, and technological
+                                                                                       AI-powered systems. In natural environments, users encounter
+solutions to mitigate the risks.
+                                                                                       AI-generated content amidst a complex web of contextual factors,
+5.5.2 AI Security. Our findings have far-reaching implications for                     competing information sources, and varying levels of attention
+the design and implementation of AI systems in information pro-                        and engagement. The ecological validity of our findings could be
+cessing contexts. The potential for AI interactions to distort human                   enhanced by examining these effects in more naturalistic settings,
+memory, whether inadvertently or intentionally, raises critical ques-                  where the interplay between AI interventions and human memory
+tions about the responsible development and deployment of these                        might manifest differently.
+technologies. Even AI systems without malicious intent can propa-                         Third, our study utilized a single LLM model (GPT-4o) for gen-
+gate misinformation due to hallucinations, demonstrating an ability                    erating interventions. While GPT-4o represents a state-of-the-art
+to inject such information into users’ memories. This suggests a                       language model, the landscape of AI technologies is rapidly evolv-
+pressing need for further developments in AI security and mecha-                       ing, with various models and architectures in use. The observed
+nistic interpretability. [82], for instance, highlights the potential of               effects may vary with different models or versions, potentially
+semantic interpretability and the impact of neuron distortion on                       limiting the generalizability of our findings across allsystems. Fu-
+AI behavior.                                                                           ture research comparing the memory-influencing capabilities of
+                                                                                       different AI models could provide a more comprehensive under-
+5.5.3 HCI Design. To mitigate the risks of AI-induced misinfor-                        standing of this phenomenon and identify any model-specific risks
+mation, we propose two key focus areas in HCI design. First, in-                       or safeguards. In addition, the behavior of LLMs (i.e., subtly inject-
+tegrating robust fact-checking mechanisms into AI interfaces is                        ing information or directly persuading regarding some piece of
+
+
+
+
+                                                                              1309
+IUI ’25, March 24–27, 2025, Cagliari, Italy                                                                      Pataranutaporn and Archiwaranguprok et al.
+
+
+information), as discussed in section ??, should be further explored       their users. Moreover, these interventions not only fostered false
+regarding the impact and method to mitigate the effect.                    memories but also diminished participants’ confidence in recalling
+   Finally, our sample was limited to participants residing in the         accurate information.
+United States, which may restrict the generalizability of our findings        These findings have implications for the design and implementa-
+to other cultural contexts. Memory formation and susceptibility to         tion of AI systems in information-processing contexts. The potential
+misinformation can be influenced by cultural factors, educational          for AI interactions to inadvertently or intentionally distort human
+backgrounds, and societal norms. The impact of AI-generated con-           memory raises critical questions about the responsible development
+tent on memory may manifest differently across diverse global pop-         and deployment of these technologies. The observed effects were
+ulations. Expanding this research to include cross-cultural samples        consistent across different article topics, suggesting a broad vulner-
+would provide a more nuanced and globally applicable understand-           ability to AI-induced false memories across various information
+ing of how AI interventions influence human memory processes.              themes. This underscores the need for robust safeguards and ethical
+   Building on these findings and limitations, we propose several          guidelines in AI-human interaction, particularly in contexts where
+directions for future research. Studies should explore design in-          the accuracy of information recall is crucial.
+terventions that could mitigate the formation of false memories               Moving forward, this research calls for methods to address and
+in AI-mediated information processing, such as investigating the           prevent false memories induced by generative chatbots. Key ar-
+effectiveness of explicit warnings, source attribution techniques,         eas for investigation include the development of fact-checking
+or interactive fact-checking mechanisms. Future work could delve           mechanisms integrated into AI interfaces, the design of interaction
+deeper into how personality traits, cognitive styles, or digital lit-      paradigms that promote critical thinking and information verifica-
+eracy levels modulate susceptibility to AI-induced false memories,         tion, and the exploration of usercharacteristics that may modulate
+informing more personalized approaches to mitigating these effects.        susceptibility to AI-induced false memories. Additionally, longi-
+While our study focused on text-based interactions, future research        tudinal studies are needed to assess the long-term persistence of
+could investigate how multimodal AI interactions (e.g., voice as-          these false memories and their potential cumulative effect on belief
+sistants and augmented reality interfaces) might influence false           systems and decision-making processes. By continuing to explore
+memory formation differently. To understand the long-term impli-           these areas, we can work towards creating more responsible AI
+cations of AI-induced false memories, longitudinal studies tracking        systems that augment human intelligence without compromising
+the persistence and potential reinforcement of these memories over         the integrity of our memories and beliefs.
+time are crucial.
+   Furthermore, future work should examine these effects in spe-
+cific real-world contexts, such as educational settings, news con-         References
+sumption, or professional environments where AI-assisted informa-          [1] Judith Amores Fernandez, Nirmita Mehra, Bjoern Rasch, and Pattie Maes. 2023.
+tion processing is becoming prevalent. Interdisciplinary research              Olfactory Wearables for Mobile Targeted Memory Reactivation. In Proceedings of
+                                                                               the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23). ACM,
+is needed to develop ethical frameworks and guidelines for the                 1–20. doi:10.1145/3544548.3580892
+responsible design and deployment of AI systems that interact with         [2] Conor Atkins, Benjamin Zi Hao Zhao, Hassan Jameel Asghar, Ian Wood, and
+human memory processes. Comparative studies of different LLM                   Mohamed Ali Kaafar. 2023. Those Aren’t Your Memories, They’re Somebody Else’s:
+                                                                               Seeding Misinformation in Chat Bot Memories. Springer Nature Switzerland,
+models and architectures could identify potential model-specific               284–308. doi:10.1007/978-3-031-33488-7_11
+risks or safeguards. Finally, while our study focused on the risks of      [3] Kilian L Bahnsen, Lucas Tiemann, Lucas Plabst, and Tobias Grundgeiger. 2024.
+                                                                               Augmented Reality Cues Facilitate Task Resumption after Interruptions in
+false memory formation, future research could explore potential                Computer-Based and Physical Tasks. In Proceedings of the CHI Conference on
+beneficial applications of AI-mediated memory influences, particu-             Human Factors in Computing Systems (CHI ’24, Vol. 2). ACM, 1–16. doi:10.1145/
+larly in therapeutic or rehabilitative contexts for individuals with           3613904.3642666
+                                                                           [4] George Bass. 2023.        ‘I know what it’s like to be tempted’: a secu-
+memory impairments. By addressing these areas, future research                 rity guard on UK shoplifting epidemic — theguardian.com.                    https:
+can build upon our findings to develop a more comprehensive un-                //www.theguardian.com/business/2023/nov/24/security-guard-on-uk-
+derstanding of the complex interplay between AI technologies and               shoplifting-epidemic-black-friday/. [Accessed 10-10-2024].
+                                                                           [5] Jane M Berry, Robin L West, and Dierdre M Dennehey. 1989. Reliability and
+human memory processes, ultimately informing the design of more                validity of the Memory Self-Efficacy Questionnaire. Developmental psychology
+cognitively responsible AI systems.                                            25, 5 (1989), 701.
+                                                                           [6] Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan,
+                                                                               Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda
+                                                                               Askell, et al. 2020. Language models are few-shot learners. Advances in neural
+6     Conclusion                                                               information processing systems 33 (2020), 1877–1901.
+                                                                           [7] The Conversation US C. Michael White. 2024. When Choosing What Dis-
+This study examined how deceptive AI chatbots might implant false              eases to Develop Drugs For, It All Comes Down to Funding — scientificamer-
+memories through subtle misinformation during user interactions.               ican.com. https://www.scientificamerican.com/article/when-choosing-what-
+Our experiment involving 180 participants, allocated in five inter-            diseases-to-develop-drugs-for-it-all-comes-down-to-funding/. [Accessed 10-
+                                                                               10-2024].
+vention conditions (control, honest summary, misleading summary,           [8] Samantha W. T. Chan, Thisum Buddhika, Haimo Zhang, and Suranga
+honest chatbot, and misleading chatbot), yielded crucial insights              Nanayakkara. 2019. ProspecFit: In Situ Evaluation of Digital Prospective Memory
+                                                                               Training for Older Adults. Proceedings of the ACM on Interactive, Mobile, Wearable
+into AI-mediated information processing and its effects on memory              and Ubiquitous Technologies 3, 3 (Sept. 2019), 1â€“20. doi:10.1145/3351235
+formation. The findings revealed that LLM-driven interventions             [9] Samantha W. T. Chan, Shardul Sapkota, Rebecca Mathews, Haimo Zhang, and
+heighten false memory creation, with misleading chatbots generat-              Suranga Nanayakkara. 2020. Prompto: Investigating Receptivity to Prompts Based
+                                                                               on Cognitive Load from Memory Training Conversational Agent. Proceedings of
+ing the most pronounced misinformation effect. This points to a                the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 4, 4 (Dec.
+worrying capacity for language models to introduce false beliefs in            2020), 1â€“23. doi:10.1145/3432190
+
+
+
+
+                                                                    1310
+Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation                IUI ’25, March 24–27, 2025, Cagliari, Italy
+
+
+[10] Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao                    thailand-prime-minister.html. [Accessed 10-10-2024].
+     Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, et al. 2024. A survey on                 [32] https://www.nytimes.com/by/tripp mickle. 2024. Apple Jumps Into A.I. Fray
+     evaluation of large language models. ACM Transactions on Intelligent Systems                 With Apple Intelligence — nytimes.com. https://www.nytimes.com/2024/06/10/
+     and Technology 15, 3 (2024), 1–45.                                                           technology/apple-intelligence-openai.html. [Accessed 9-10-2024].
+[11] Yi Chen and Gareth J. F. Jones. 2010. Augmenting human memory using personal            [33] Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, Haotian
+     lifelogs. In Proceedings of the 1st Augmented Human International Conference (AH             Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, et al. 2023. A
+     ’10). ACM. doi:10.1145/1785455.1785479                                                       survey on hallucination in large language models: Principles, taxonomy, chal-
+[12] Valdemar Danry, Pat Pataranutaporn, Ziv Epstein, Matthew Groh, and Pattie                    lenges, and open questions. arXiv preprint arXiv:2311.05232 (2023).
+     Maes. 2022. Deceptive AI systems that give explanations are just as convinc-            [34] Tsung-Ren Huang, Yu-Lan Cheng, and Suparna Rajaram. 2023. Unavoidable
+     ing as honest AI systems in human-machine decision making. arXiv preprint                    social contagion of false memory from robots to humans. American Psychologist
+     arXiv:2210.08960 (2022).                                                                     (2023).
+[13] Valdemar Danry, Pat Pataranutaporn, Yaoli Mao, and Pattie Maes. 2020. Wearable          [35] Farnaz Jahanbakhsh, Amy X. Zhang, and David R. Karger. 2022. Leveraging
+     Reasoner: towards enhanced human rationality through a wearable device with                  Structured Trusted-Peer Assessments to Combat Misinformation. Proc. ACM
+     an explainable AI assistant. In Proceedings of the Augmented Humans International            Hum.-Comput. Interact. 6, CSCW2, Article 524 (nov 2022), 40 pages. doi:10.1145/
+     Conference. 1–12.                                                                            3555637
+[14] Wes Davis. 2024. All the AI features coming to Google’s Pixel 9 series —                [36] Deepali Jain, Malaya Dutta Borah, and Anupam Biswas. 2024. A sentence is
+     theverge.com. https://www.theverge.com/24219355/google-pixel-9-ai-features-                  known by the company it keeps: Improving Legal Document Summarization
+     screenshots-add-me-magic-editor. [Accessed 9-10-2024].                                       Using Deep Clustering. Artificial Intelligence and Law 32, 1 (2024), 165–200.
+[15] Aniket Deroy, Kripabandhu Ghosh, and Saptarshi Ghosh. 2024. Ensemble meth-              [37] Maurice Jakesch, Advait Bhat, Daniel Buschek, Lior Zalmanson, and Mor Naaman.
+     ods for improving extractive summarization of legal case judgements. Artificial              2022. Interacting with Opinionated Language Models Changes Users’ Views.
+     Intelligence and Law 32, 1 (2024), 231–289.                                                  Arxiv Open Access (2022).
+[16] Passant ElAgroudy, Pedram Khoshdani, Tilman Dingler, Geoffrey Ward, Paweł W.            [38] Samia Kabir, David N. Udo-Imeh, Bonan Kou, and Tianyi Zhang. 2024. Is Stack
+     Woźniak, and Albrecht Schmidt. 2021. Prisoner of Words: Lessons Learnt from                  Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT An-
+     Mobile Gamification of Lab Memory Experiments. In Extended Abstracts of the                  swers to Stack Overflow Questions. In Proceedings of the CHI Conference on
+     2021 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY ’21).                  Human Factors in Computing Systems (Honolulu, HI, USA) (CHI ’24). Associ-
+     ACM, 256–261. doi:10.1145/3450337.3483502                                                    ation for Computing Machinery, New York, NY, USA, Article 935, 17 pages.
+[17] Douglas C Engelbart. 2021. Augmenting human intellect: a conceptual framework                doi:10.1145/3613904.3642596
+     (1962). (2021).                                                                         [39] Vaiva Kalnikaite, Abigail Sellen, Steve Whittaker, and David Kirk. 2010. Now let
+[18] Ziv Epstein, Aaron Hertzmann, Investigators of Human Creativity, Memo Akten,                 me see where i was: understanding how lifelogs mediate memory. In Proceedings
+     Hany Farid, Jessica Fjeld, Morgan R Frank, Matthew Groh, Laura Herman, Neil                  of the SIGCHI conference on human factors in computing systems. 2045–2054.
+     Leach, et al. 2023. Art and the science of generative AI. Science 380, 6650 (2023),     [40] Asnath Paula Kambunga, Heike Winschiers-Theophilus, and Rachel Charlotte
+     1110–1111.                                                                                   Smith. 2020. Participatory Memory Making: Creating Postcolonial Dialogic
+[19] Ziv Epstein, Gordon Pennycook, and David Rand. 2020. Will the Crowd Game                     Engagements with Namibian Youth. In Proceedings of the 2020 ACM Designing
+     the Algorithm? Using Layperson Judgments to Combat Misinformation on                         Interactive Systems Conference (DIS ’20). ACM. doi:10.1145/3357236.3395441
+     Social Media by Downranking Distrusted Sources. In Proceedings of the 2020              [41] Irene P. Kan, Kendra L. Pizzonia, Anna B. Drummey, and Eli J. V. Mikkelsen.
+     CHI Conference on Human Factors in Computing Systems (Honolulu, HI, USA)                     2021. Exploring factors that mitigate the continued influence of misinformation.
+     (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–11.                     Cognitive Research: Principles and Implications 6, 1 (Nov. 2021). doi:10.1186/s41235-
+     doi:10.1145/3313831.3376232                                                                  021-00335-9
+[20] Rodrigo Ferrer-Urbina, Yasna Ramírez, Patricio Mena-Chamorro, Marcos                    [42] Elise Karinshak, Sunny Xun Liu, Joon Sung Park, and Jeffrey Hancock. 2023.
+     Carmona-Halty, and Geraldy Sepúlveda-Páez. 2024. Naive skepticism scale:                     Working with AI to persuade: Examining a large language model’s ability to
+     development and validation tests applied to the chilean population. Psicologia:              generate pro-vaccination messages. Stanford Preprint (2023).
+     Reflexão e Crítica 37 (2024), 6.                                                        [43] Katarina Kertysova. 2018. Artificial intelligence and disinformation: How AI
+[21] B. J. Fogg. 2003. Prominence-interpretation theory: explaining how people assess             changes the way disinformation is produced, disseminated, and can be countered.
+     credibility online. In CHI ’03 extended abstracts on Human factors in computing              Security and Human Rights 29, 1-4 (2018), 55–81.
+     systems - CHI ’03 (CHI ’03). ACM Press, 722. doi:10.1145/765891.765951                  [44] Celeste Kidd and Abeba Birhane. 2023. How AI can distort human beliefs. Science
+[22] Josh A Goldstein, Jason Chao, Shelby Grossman, Alex Stamos, and Michael Tomz.                380, 6651 (2023), 1222–1223.
+     2024. How persuasive is AI-generated propaganda? PNAS nexus 3, 2 (2024),                [45] Taewan Kim, Donghoon Shin, Young-Ho Kim, and Hwajung Hong. 2024. Diary-
+     pgae034.                                                                                     Mate: Understanding User Perceptions and Experience in Human-AI Collabo-
+[23] Josh A Goldstein, Girish Sastry, Micah Musser, Renee DiResta, Matthew Gentzel,               ration for Personal Journaling. In Proceedings of the CHI Conference on Human
+     and Katerina Sedova. 2023. Generative Language Models and Automated Influ-                   Factors in Computing Systems (CHI ’24). ACM, 1–15. doi:10.1145/3613904.3642693
+     ence Operations: Emerging Threats and Potential Mitigations. arXiv preprint             [46] Himabindu Lakkaraju and Osbert Bastani. 2020. " How do I fool you?" Manipu-
+     arXiv:2301.04246 (2023).                                                                     lating User Trust via Misleading Black Box Explanations. In Proceedings of the
+[24] Brian Gonsalves and Ken A Paller. 2000. Neural events that underlie remembering              AAAI/ACM Conference on AI, Ethics, and Society. 79–85.
+     something that never happened. Nature Neuroscience 3, 12 (2000), 1316–1321.             [47] Maxim Lisnic, Alexander Lex, and Marina Kogan. 2024. "Yeah, this graph doesn’t
+[25] Matthew Groh, Ziv Epstein, Chaz Firestone, and Rosalind Picard. 2022. Deepfake               show that": Analysis of Online Engagement with Misleading Data Visualizations.
+     detection by human crowds, machines, and machine-informed crowds. Proceed-                   In Proceedings of the CHI Conference on Human Factors in Computing Systems
+     ings of the National Academy of Sciences 119, 1 (2022), e2110013119.                         (Honolulu, HI, USA) (CHI ’24). Association for Computing Machinery, New York,
+[26] Matthew Groh, Aruna Sankaranarayanan, Nikhil Singh, Dong Young Kim, An-                      NY, USA, Article 199, 14 pages. doi:10.1145/3613904.3642448
+     drew Lippman, and Rosalind Picard. 2023. Human detection of political speech            [48] Elizabeth F Loftus. 1981. Eyewitness testimony: Psychological research and legal
+     deepfakes across transcripts, audio, and video. arXiv preprint arXiv:2202.12883              thought. Crime and justice 3 (1981), 105–151.
+     (2023).                                                                                 [49] Elizabeth F. Loftus. 1992. When A Lie Becomes Memory’s Truth: Memory
+[27] Cathal Gurrin, Alan F. Smeaton, and Aiden R. Doherty. 2014. LifeLogging:                     Distortion After Exposure to Misinformation. Current Directions in Psychological
+     Personal Big Data. Foundations and Trends® in Information Retrieval 8, 1 (2014),             Science 1, 4 (Aug. 1992), 121–123. doi:10.1111/1467-8721.ep10769035
+     1–125. doi:10.1561/1500000033                                                           [50] Elizabeth F Loftus. 1996. Eyewitness testimony. Harvard University Press.
+[28] Morgan Harvey, Marc Langheinrich, and Geoff Ward. 2016. Remembering                     [51] Elizabeth F Loftus. 1997. Creating false memories. Scientific American 277, 3
+     through lifelogging: A survey of human memory augmentation. Pervasive and                    (1997), 70–75.
+     Mobile Computing 27 (2016), 14–26.                                                      [52] Elizabeth F Loftus. 2003. Make-believe memories. American Psychologist 58, 11
+[29] Hendrik Heuer and Elena Leah Glassman. 2022. A Comparative Evaluation                        (2003), 867.
+     of Interventions Against Misinformation: Augmenting the WHO Checklist. In               [53] Elizabeth F. Loftus. 2005. Planting misinformation in the human mind: A 30-year
+     Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems                 investigation of the malleability of memory: Figure 1. Learning & Memory 12, 4
+     (New Orleans, LA, USA) (CHI ’22). Association for Computing Machinery, New                   (July 2005), 361–366. doi:10.1101/lm.94705
+     York, NY, USA, Article 241, 21 pages. doi:10.1145/3491102.3517717                       [54] Elizabeth F Loftus and John C Palmer. 1974. Reconstruction of automobile de-
+[30] https://www.nytimes.com/by/brian-x chen. 2024. Can Artificial Intelligence                   struction: An example of the interaction between language and memory. Journal
+     Make the PC Cool Again? — nytimes.com. https://www.nytimes.com/2024/05/                      of verbal learning and verbal behavior 13, 5 (1974), 585–589.
+     20/technology/microsoft-copilot-ai-pc.html. [Accessed 9-10-2024].                       [55] Elizabeth F Loftus and Jacqueline E Pickrell. 1995. The formation of false memo-
+[31] https://www.nytimes.com/by/sui-lee wee. 2024.             Thailand Has a New                 ries. 720–725 pages.
+     Prime Minister, but the Same Old Power Brokers — nytimes.com.                           [56] Elizabeth F Loftus and Guido Zanni. 1975. Eyewitness testimony: The influence
+     https://www.nytimes.com/2024/08/16/world/asia/paetongtarn-shinawatra-                        of the wording of a question. Bulletin of the Psychonomic Society 5, 1 (1975),
+
+
+
+
+                                                                                      1311
+IUI ’25, March 24–27, 2025, Cagliari, Italy                                                                                           Pataranutaporn and Archiwaranguprok et al.
+
+
+     86–88.                                                                                  [76] Christina Schneegass, Yannik Wojcicki, and Evangelos Niforatos. 2021. Design
+[57] Zhicong Lu, Yue Jiang, Cheng Lu, Mor Naaman, and Daniel Wigdor. 2020. The                    for Long-term Memory Augmentation in Personal Knowledge Management
+     Government’s Dividend: Complex Perceptions of Social Media Misinformation in                 Applications. In 12th Augmented Human International Conference (AH2021). ACM.
+     China. In Proceedings of the 2020 CHI Conference on Human Factors in Computing               doi:10.1145/3460881.3460931
+     Systems (Honolulu, HI, USA) (CHI ’20). Association for Computing Machinery,             [77] Alan Scoboria, Kimberley A Wade, D Stephen Lindsay, Tanjeem Azad, Deryn
+     New York, NY, USA, 1–12. doi:10.1145/3313831.3376612                                         Strange, James Ost, and Ira E Hyman. 2017. A mega-analysis of memory reports
+[58] Zhuoran Lu, Patrick Li, Weilong Wang, and Ming Yin. 2022. The Effects of                     from eight peer-reviewed false memory implantation studies. Memory 25, 2
+     AI-based Credibility Indicators on the Detection and Spread of Misinformation                (2017), 146–163.
+     under Social Influence. Proc. ACM Hum.-Comput. Interact. 6, CSCW2, Article 461          [78] Hassan Shakil, Ahmad Farooq, and Jugal Kalita. 2024. Abstractive text summa-
+     (nov 2022), 27 pages. doi:10.1145/3555562                                                    rization: State of the art, challenges, and improvements. Neurocomputing (2024),
+[59] Boxuan Ma, Gayan Prasad Hettiarachchi, Sora Fukui, and Yuji Ando. 2023. Each                 128255.
+     Encounter Counts: Modeling Language Learning and Forgetting. In LAK23: 13th             [79] Nathaniel Sirlin, Ziv Epstein, Antonio A Arechar, and David G Rand. 2021. Digital
+     International Learning Analytics and Knowledge Conference (LAK 2023). ACM.                   literacy is associated with more discerning accuracy judgments but not sharing
+     doi:10.1145/3576050.3576062                                                                  intentions. Harvard Kennedy School, Misinformation Review (2021).
+[60] Chong Ma, Zihao Wu, Jiaqi Wang, Shaochen Xu, Yaonai Wei, Zhengliang Liu,                [80] Scott D Slotnick and Daniel L Schacter. 2004. A sensory signature that distin-
+     Fang Zeng, Xi Jiang, Lei Guo, Xiaoyan Cai, et al. 2024. An Iterative Optimizing              guishes true from false memories. Nature Neuroscience 7, 6 (2004), 664–672.
+     Framework for Radiology Report Summarization with ChatGPT. IEEE Transac-                [81] Ben M Tappin, Chloe Wittenberg, Luke B Hewitt, Adam J Berinsky, and David G
+     tions on Artificial Intelligence (2024).                                                     Rand. 2023. Quantifying the potential persuasive returns to political microtarget-
+[61] Lisa Mekioussa Malki, Dilisha Patel, and Aneesha Singh. 2024. "The Headline                  ing. Proceedings of the National Academy of Sciences 120, 25 (2023), e2216261120.
+     Was So Wild That I Had To Check": An Exploration of Women’s Encounters                  [82] Adly Templeton, Tom Conerly, Jonathan Marcus, Jack Lindsey, Trenton Bricken,
+     With Health Misinformation on Social Media. Proc. ACM Hum.-Comput. Interact.                 Brian Chen, Adam Pearce, Craig Citro, Emmanuel Ameisen, Andy Jones, Hoagy
+     8, CSCW1, Article 128 (apr 2024), 26 pages. doi:10.1145/3637405                              Cunningham, Nicholas L. Turner, Callum McDougall, Monte MacDiarmid, Alex
+[62] Nora McDonald and Helena M. Mentis. 2021. Building for ‘We’: Safety Settings                 Tamkin, Esin Durmus, Tristan Hume, Freeman Mosconi, Francesco, Theodore R.
+     for Couples with Memory Concerns. In Proceedings of the 2021 CHI Conference                  Sumers, Edward Rees, Joshua Batson, Adam Jermyn, Shan Carter, Chris Olah,
+     on Human Factors in Computing Systems (CHI ’21). ACM. doi:10.1145/3411764.                   and Tom Henighan. 2024. Scaling Monosemanticity: Extracting Interpretable
+     3445071                                                                                      Features from Claude 3 Sonnet — transformer-circuits.pub. https://transformer-
+[63] Ivan Mehta. 2024. Arc browser’s new AI-powered ’pinch-to-summarize’                          circuits.pub/2024/scaling-monosemanticity/index.html. [Accessed 11-10-2024].
+     feature is clever, but often misses the mark | TechCrunch — techcrunch.com.             [83] Emily Thorson. 2015. Belief Echoes: The Persistent Effects of Corrected Mis-
+     https://techcrunch.com/2024/02/23/arc-browsers-new-ai-powered-pinch-to-                      information. Political Communication 33, 3 (Nov. 2015), 460–480. doi:10.1080/
+     summarize-feature-is-clever-but-often-miss-the-mark/. [Accessed 10-10-2024].                 10584609.2015.1102187
+[64] Martino Mensio, Gregoire Burel, Tracie Farrell, and Harith Alani. 2023. Mis-            [84] Jacqueline Urakami, Yeongdae Kim, Hiroki Oura, and Katie Seaborn. 2022. Find-
+     infoMe: A Tool for Longitudinal Assessment of Twitter Accounts’ Sharing of                   ing Strategies Against Misinformation in Social Media: A Qualitative Study. In
+     Misinformation. In Adjunct Proceedings of the 31st ACM Conference on User                    Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Sys-
+     Modeling, Adaptation and Personalization (Limassol, Cyprus) (UMAP ’23 Ad-                    tems (New Orleans, LA, USA) (CHI EA ’22). Association for Computing Machinery,
+     junct). Association for Computing Machinery, New York, NY, USA, 72–75.                       New York, NY, USA, Article 242, 7 pages. doi:10.1145/3491101.3519661
+     doi:10.1145/3563359.3597396                                                             [85] Jacqueline Urakami, Akito Moriwaki, Shotaro Nagao, Kousuke Osumi, Erika
+[65] Miriam J Metzger. 2007. Making sense of credibility on the Web: Models for                   Yamamoto, and Toshikazu Kanaoka. 2023. Augmenting Auditory Attention
+     evaluating online information and recommendations for future research. Journal               and Memory to Reduce Cognitive Load in Dual Tasks: A wearable device to
+     of the American society for information science and technology 58, 13 (2007), 2078–          augment auditory attention and memory to improve performance in a duals task.
+     2091.                                                                                        In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing
+[66] Miriam J Metzger and Andrew J Flanagin. 2013. Credibility and trust of in-                   Systems (CHI ’23). ACM. doi:10.1145/3544549.3585584
+     formation in online environments: The use of cognitive heuristics. Journal of           [86] Dave Van Veen, Cara Van Uden, Louis Blankemeier, Jean-Benoit Delbrouck, Asad
+     pragmatics 59 (2013), 210–220.                                                               Aali, Christian Bluethgen, Anuj Pareek, Malgorzata Polacin, Eduardo Pontes Reis,
+[67] Gillian Murphy, Caroline A Dawson, Charlotte Huston, Lisa Ballantyne, Elizabeth              Anna Seehofnerová, et al. 2024. Adapted large language models can outperform
+     Barrett, Conor S Cowman, Christopher Fitzsimons, Julie Maher, Katie M Ryan,                  medical experts in clinical text summarization. Nature medicine 30, 4 (2024),
+     and Ciara M Greene. 2023. Lost in the mall again: a preregistered replication and            1134–1142.
+     extension of Loftus & Pickrell (1995). Memory 31, 6 (2023), 818–830.                    [87] Jan G Voelkel, Robb Willer, et al. 2023. Artificial Intelligence Can Persuade
+[68] Elena Musi, Lorenzo Federico, and Gianni Riotta. 2022. Human–computer                        Humans on Political Issues. OSF Preprints (2023).
+     interaction tools with gameful design for critical thinking the media ecosys-           [88] Yuping Wang, Chen Ling, and Gianluca Stringhini. 2023. Understanding the Use
+     tem: a classification framework. AI & SOCIETY 39, 3 (Nov. 2022), 1317–1329.                  of Images to Spread COVID-19 Misinformation on Twitter. Proc. ACM Hum.-
+     doi:10.1007/s00146-022-01583-z                                                               Comput. Interact. 7, CSCW1, Article 108 (apr 2023), 32 pages. doi:10.1145/3579542
+[69] Sophie J Nightingale and Hany Farid. 2022. AI-synthesized faces are indistin-           [89] Danni Xu, Shaojing Fan, and Mohan Kankanhalli. 2023. Combating misinforma-
+     guishable from real faces and more trustworthy. Proceedings of the National                  tion in the era of generative AI models. In Proceedings of the 31st ACM International
+     Academy of Sciences 119, 8 (2022), e2120481119.                                              Conference on Multimedia. 9291–9298.
+[70] Nathalie Overdevest, Rakesh Patibanda, Aryan Saini, Elise Van Den Hoven,                [90] Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao,
+     and Florian ‘Floyd’ Mueller. 2023. Towards Designing for Everyday Embodied                   Wentao Zhang, Bin Cui, and Ming-Hsuan Yang. 2023. Diffusion models: A
+     Remembering: Findings from a Diary Study. In Proceedings of the 2023 ACM                     comprehensive survey of methods and applications. Comput. Surveys 56, 4 (2023),
+     Designing Interactive Systems Conference (DIS ’23). ACM. doi:10.1145/3563657.                1–39.
+     3595999                                                                                 [91] MinYoung Yoo, William Odom, Arne Berger, Samuel Barnett, Sadhbh Kenny,
+[71] Gordon Pennycook, Ziv Epstein, Mohsen Mosleh, Antonio A Arechar, Dean                        Priscilla Lo, Samein Shamsher, Gillian Russell, and Lauren Knight. 2024. Re-
+     Eckles, and David G Rand. 2021. Shifting attention to accuracy can reduce                    membering through Sound: Co-creating Sound-based Mementos together with
+     misinformation online. Nature 592, 7855 (2021), 590–595.                                     People with Blindness. In Proceedings of the CHI Conference on Human Factors in
+[72] Chengcheng Qu, Corina Sas, and Gavin Doherty. 2019. Exploring and Designing                  Computing Systems (CHI ’24, Vol. 21). ACM, 1–19. doi:10.1145/3613904.3641940
+     for Memory Impairments in Depression. In Proceedings of the 2019 CHI Conference         [92] Elizabeth M Zelinski, Michael J Gilewski, and Cheri R Anthony-Bergstone. 1990.
+     on Human Factors in Computing Systems (CHI ’19). ACM. doi:10.1145/3290605.                   Memory Functioning Questionnaire: concurrent validity with memory perfor-
+     3300740                                                                                      mance and self-reported memory failures. Psychology and aging 5, 3 (1990),
+[73] Bradley J Rhodes. 1997. The wearable remembrance agent: A system for aug-                    388.
+     mented memory. Personal Technologies 1 (1997), 218–224.                                 [93] Tianyi Zhang, Faisal Ladhak, Esin Durmus, Percy Liang, Kathleen McKeown, and
+[74] Oscar Rosello, Marc Exposito, and Pattie Maes. 2016. NeverMind: Using Aug-                   Tatsunori B Hashimoto. 2024. Benchmarking large language models for news
+     mented Reality for Memorization. In Adjunct Proceedings of the 29th Annual ACM               summarization. Transactions of the Association for Computational Linguistics 12
+     Symposium on User Interface Software and Technology (Tokyo, Japan) (UIST ’16                 (2024), 39–57.
+     Adjunct). Association for Computing Machinery, New York, NY, USA, 215–216.              [94] Jiawei Zhou, Yixuan Zhang, Qianni Luo, Andrea G Parker, and Munmun
+     doi:10.1145/2984751.2984776                                                                  De Choudhury. 2023. Synthetic lies: Understanding ai-generated misinformation
+[75] Shadan Sadeghian and Marc Hassenzahl. 2021. From Limitations to “Superpow-                   and evaluating algorithmic and human solutions. In Proceedings of the 2023 CHI
+     ers”: A Design Approach to Better Focus on the Possibilities of Virtual Reality to           Conference on Human Factors in Computing Systems. 1–20.
+     Augment Human Capabilities. In Designing Interactive Systems Conference 2021            [95] Jiawei Zhou, Yixuan Zhang, Qianni Luo, Andrea G Parker, and Munmun
+     (DIS ’21). ACM. doi:10.1145/3461778.3462111                                                  De Choudhury. 2023. Synthetic Lies: Understanding AI-Generated Misinfor-
+                                                                                                  mation and Evaluating Algorithmic and Human Solutions. In Proceedings of the
+
+
+
+
+                                                                                      1312
+Slip Through the Chat: Subtle Injection of False Information in LLM Chatbot Conversations Increases False Memory Formation        IUI ’25, March 24–27, 2025, Cagliari, Italy
+
+
+     2023 CHI Conference on Human Factors in Computing Systems (Hamburg, Ger-           [97] Wazeer Deen Zulfikar, Samantha Chan, and Pattie Maes. 2024. Memoro: Using
+     many) (CHI ’23). Association for Computing Machinery, New York, NY, USA,                Large Language Models to Realize a Concise Interface for Real-Time Memory
+     Article 436, 20 pages. doi:10.1145/3544548.3581318                                      Augmentation. In Proceedings of the CHI Conference on Human Factors in Comput-
+[96] L Zhuang, J Wang, B Xiong, C Bian, L Hao, PJ Bayley, and S Qin. 2022. Rapid             ing Systems (Honolulu, HI, USA) (CHI ’24). Association for Computing Machinery,
+     neural reorganization during retrieval practice predicts subsequent long-term           New York, NY, USA, Article 450, 18 pages. doi:10.1145/3613904.3642450
+     retention and false memory. Nature Human Behaviour, 6 (1), 134-145.
+
+
+
+
+                                                                                1313
+

@@ -1,0 +1,1382 @@
+                           Snjólaug G. Jóhannesdóttir &
+                           Ólafur Rastrick
+
+
+Engaging (with) Places
+Employing audio-visual recording glasses to study
+emplaced attachments to everyday features of the
+historic urban landscape
+
+Abstract
+Places are significant for people, providing grounds for a sense of belonging,
+identity, and well-being. This article draws on a research project examining
+people-place relations within the everyday material environment of central
+Reykjavík. Grounded in a critical heritage studies perspective, the project aims
+to contribute to an understanding of how individuals ascribe meaning and
+value to the historic urban landscape and analyse the emotions and affective
+qualities that emerge through sensory engagement with places perceived as
+material embodiments of the past. The article addresses the method of soli-
+tary, self-led participant walks using audio-visual recording glasses, supple-
+mented with follow-up interviews. This approach facilitates in-situ, on-the-
+move observations of participants’ spatial encounters, offering insights into
+their emotional and sensory experiences of the urban landscape. The article
+delineates how the method enabled participants to immerse themselves in
+the flow of their walks, evoking a variety of sensorial expressions, mnemonic
+fragments, and shared narratives prompted by encounters with the material
+facets of the city centre. The findings highlight the potential of the method to
+provide partial yet meaningful access to the affective and emotional dimen-
+sions of people’s interactions with urban spaces, offering insights into the ways
+individuals experience and value the historic urban landscape.
+
+Keywords: Sensory ethnography, Emplacement, Place attachment, Place mem-
+ory, Historic urban landscape
+
+
+
+
+                          © Snjólaug G. Jóhannesdóttir & Ólafur Rastrick
+       https://orcid.org/0009-0006-8638-9505, https://orcid.org/0000-0002-3679-8638
+  ETHNOLOGIA FENNICA Vol. 51 (2024, issue 2), 7–34. https://doi.org/10.23991/ef.v51i2.142184
+       This work is licensed under Creative Commons CC-BY-NC 4.0 International License.
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+Introduction: The case of the absent fencepost
+Torfi is a man in his fifties. He is participating in an ethnographic project
+studying people-place relations focused on everyday aspects of the historic
+urban landscape in central Reykjavík. He has been provided with audio-visu-
+al recording glasses and sent off, on his own, for a stroll in the city. He has
+received minimal instructions but has been advised to communicate verbally
+his perception of the environment for the benefit of the recording. A few min-
+utes into his walk he is strolling along a street, mostly lined with residential
+housing. His attention is caught by a building a few houses down. As he ap-
+proaches the building he informs us, the researchers: “Here ahead is the old …
+I think it’s the Seaman´s College … anyway that yellowish building in front”.
+He is slightly hesitant in identifying the house but approaching the place calls
+forth a clear association: “Due to this one occasion”, he says, “I have quite a
+vivid memory connected to this building”. He then goes on to tell us about his
+first girlfriend, that she had been studying abroad and how he had sometimes
+visited her there. And then his thoughts go back to when they were both in
+Reykjavík on a “romantic walk” in the neighbourhood. At this point in Torfi’s
+narration, he passes the front of the house and turns his gaze to the pave-
+ment beside the house, at what currently appears to function as a car park:
+“It was here to the left, just here on the pavement”, Torfi directs his gaze to a
+specific spot on the pavement, indicating a precise location. He then shifts his
+eyes slightly: “Maybe just here, or here where I’m standing, I’m not quite sure.
+It’s not here anymore, there was this old fencepost, just here.” Torfi explains:
+
+   And we were just walking and discussing that we would be separated for some time.
+   Then she just said: Come along here and when you see this post, should you have
+   forgotten me, you’ll be reminded. You’ll remember me when you see this fencepost.
+   That’s that! Later we split up, of course. But for years, for as long as the post was
+   there, whenever I went past, I was reminded of her. This was a pretty good trick she
+   played on me. She knew what she was doing. (H-113)
+
+
+    In a self-conscious act of associating herself with a fencepost, the girl-
+friend recognised the potential power of cementing place and meaning. For
+Torfi, decades later, even though the fencepost is long since gone, the place
+still fosters this memory of a past romantic relationship. He however suggest-
+ed that the association was not as vivid after the post had been removed, “the
+post disappeared, the memory faded”, indicating the significance of the tan-
+gible in facilitating acts of remembrance. Even though the material artefact
+that prompted the reminiscing is absent, Torfi can still situate the missing
+fencepost quite precisely, with the help of the material context, notably the
+“yellowish building” and the pavement by its side. In the curious situation of
+
+
+
+                                           8
+            Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+being a participant in a study on people-place relations, expected to express
+his sentiments verbally as he moves through the urban landscape, this is the
+association that springs to mind as he approaches this place.
+    A week after the walk, Torfi came in for a follow-up interview, designed to
+delve deeper into the content captured by the recording. We had chosen a few
+segments from the recording to review and discuss, including the one described
+above. In the interview, Torfi thought it curious how his memories were tied to
+the fencepost, which he said had been “an oddly unattractive, old, and square
+thing”. Living in the vicinity he said that he had “always noted it” when he passed
+by, “checking if it was still there”. The fencepost seemed to have opened for fur-
+ther recollections about the couple’s time together as the follow-up revealed
+more details about their relationship, which according to Torfi had all become
+“kind of capsulated in this fencepost” (H-113f). The reminiscing that the post
+prompted was therefore not just tied to the specific place but fostered thoughts
+on a specific period in Torfi’s life. Even after the post had been removed, its
+absent presence (Hetherington 2004; Harrison 2013), supported by other el-
+ements in the surroundings, seemed to add a layer to the sensory significance
+of the place for Torfi: “And now, always when I go past there, I remember, this
+just adds on to this [experience] … aah it [the post] is gone”. Somewhat incon-
+sistently with what he said during his walk he concludes that “it’s still all there”,
+referring to the memories and sentiments prompted by the fencepost (H-113f).
+
+
+
+
+Image 1. On the sidewalk to the left of this building, which previously hosted the Naviga-
+tional College, was the fencepost that awakened memories for Torfi. Photo: Jóhannes Birgir
+Guðvarðarson, 2024.
+
+
+
+
+                                             9
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+    Absent or not, the fencepost is vital for Torfi’s embodied and emplaced
+narration of the past and feeds into his relationship with the place and the
+significance that it holds for him. His mnemonic and sensory entanglement
+with the spectral presence of the post is an example of a way people form
+emotional attachments to places, even to such “oddly unattractive” and
+seemingly insignificant everyday features of the environment. In addition
+to representing an aspect of his past and being an aide-memoire, the fen-
+cepost facilitates an emotional bond between Torfi and the urban setting.
+A bond that joins the present-day Torfi, his long past experience, and the
+materiality of the fencepost, linking the present and the past. Such subjec-
+tive relations, on a personal and communal level, are important as they dic-
+tate the (durable yet provisional) meaning and value of the environment. In
+the literature on place attachment, it is recognised that such people-place
+relations are beneficial and may indeed be a bedrock for feelings of belong-
+ing, sense of identity and well-being (cf. Scannell & Gifford 2017; Ilovan &
+Markuszewska 2022).
+    The case of the absent fencepost, delineated above, derives from a re-
+search project conducted in central Reykjavík, seeking to contribute to an un-
+derstanding of how people ascribe meaning and value to the everyday urban
+landscape that people perceive to be of the past. It seeks to analyse the types
+of emotions expressed and understood through shared meanings as well as
+the more somatic, preconscious and relational affective qualities (Wetherell
+2012) that emerge through sensory engagement with places that they associate
+with a communal or personal past. The research project employs three mutu-
+ally supportive ethnographic methods, designed to facilitate the observation
+of participants’ spatial encounters and practices. These methods are specifi-
+cally devised for in-situ and on-the-move engagements between participants
+and the material environment of the city centre. This article aims to explore
+the possibilities and limitations of one of the methods used: the self-led par-
+ticipant walks with audio-visual recording glasses and follow-up interviews.
+The objective is to examine how the use of this method can provide partial
+yet significant insight into the emotional and affective encounters with ur-
+ban spaces that are both historically and experientially layered. To clarify the
+specificities of the method, references will be made to the other approaches
+employed in the project: walk-alongs and focus-group sessions.
+    The article is structured as follows: first, we will outline the theoretical
+framework that forms the basis of our methodological approach. Second,
+we will explain our research design in more detail and how we see the dif-
+ferent methods as mutually supportive. Third, we will explore how the par-
+ticipants engaged with the research design. Finally, we will give insight into
+the diversity of participants’ perceptions as they engaged with places in the
+
+
+
+                                          10
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+city and the narratives they offered on their self-led walks, as documented
+by the audio-visual recording glasses as well as reflections offered in the fol-
+low-up interviews.
+
+Theoretical framework
+Addressing how the concept of heritage has undergone a process of rearrange-
+ment in recent years, Schofield (2016, 1) identifies an understanding of heri-
+tage that has been gaining momentum as “something everyone can (and to an
+extent does already) engage with”. Rejecting the priority of the “authoritative,
+elected or appointed heritage experts”, he highlights a move towards a more
+democratic approach to heritage that is appreciative of the diversity of people’s
+dynamic engagement with the past. Leaving aside the question of if this has
+indeed changed how heritage is managed (Colomer 2023; Jónsdóttir 2023),
+the multiplicity of articulations of heritage has clearly shifted the boundaries
+of the concept, taking us, as Schofield (2016, 1) notes, “beyond its comfort
+zone, from the special and the exceptional places and things, to the everyday”.
+    Such ideals of democratisation resonate with a range of institutional ini-
+tiatives such as the Faro Convention (Council of Europe 2005) and, in terms
+of the urban heritage, UNESCO’s (2011) recommendations on the historic
+urban landscape. In terms of place, the adoption (from the Burra charter) of
+the notion of cultural significance is suggestive. The term refers to values “em-
+bodied in the place itself, its fabric, setting, use, associations, meanings, re-
+cords, related places, and related objects”. While it is not accurately specified
+whose values are being referred to, the diversity of connotations of places for
+different people is recognised: “Places may have a range of values for different
+individuals or groups”. To accommodate for this possible diversity, it becomes
+critical to break from value judgements prescribed by the authorised heritage
+discourse (Smith 2006). Here the term plural heritages, as developed by White-
+head, Schofield and Bozoğlu (2021), becomes useful when wanting to under-
+stand the tangible heritage of the city, based on the multitude of stories told
+and sensory encounters people engage with in their everyday lives. “To think
+with plural heritages”, they suggest “involves recognizing the different mean-
+ings of the emplaced past for different groups and different people” (2021, 3).
+By acknowledging the multiplicity of people’s relationship with places it be-
+comes possible to understand the different aspects that inform people’s place
+attachment and sense of belonging.
+    In our project, we have sought to bracket value judgments and expert prem-
+ises inherent in formal heritage classificatory schemes. The project seeks an
+approach to heritage from below (Muzaini & Minca 2018), emphasising the
+need to recognise how people relate to places that they themselves perceive
+to be a part of “their” past. Here we seek to include whatever aspect of the
+
+
+
+                                          11
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+historic urban landscape that has meaning for the participants as they engage
+with places that are in some way significant to them, without specifically di-
+recting their attention to sites that have been sanctioned as heritage. This
+does not infer that expert judgements and recognised sites are irrelevant as
+indeed they have been integrated into popular discourse and perception. But
+as Pérez and Colomer (2024) indicate, even in heritage management projects
+designed as participatory, there is always the danger that such advances end
+up endorsing the expert premises, “conferring a symbolic character to these
+bottom-up practices” (2024, 227). In attempting to access what matters to
+people – and not only what they have been taught matters (by experts) – in
+terms of places and the historic urban landscape in general, there is a need to
+keep the authoritative discourse at bay.
+    Exploring people’s engagement with the historic urban landscape calls for
+scrutiny of the people-place nexus. In addressing this relationship, the no-
+tion of place attachment has recently received attention from heritage schol-
+ars (Madgin & Lesh 2021; Čebron Lipovec 2023). The concept, developed by
+geographers and environmental psychologists, refers to the emotional rela-
+tions or bonds that individuals develop with specific places and can encom-
+pass feelings of affection, belonging, and identity. Importantly, place attach-
+ment encompasses both cognitive and affective dimensions, as individuals
+form mental representations of places and cultivate affective and emotional
+ties to them (Altman & Low 1992; Lewicka 2011; 2014; Smith 2018; Manzo
+& Devine-Wright 2021). In attempting to understand how our participants
+engage with places that they perceive to be of the past, we have found this
+concept highly useful in distinguishing the different aspects of how and why
+these places matter to people.
+    Directing the focus on the emotional ties that emerge in people-place rela-
+tions also calls for an examination of the more-than-representational aspect
+of people’s engagement in and with places. The use of sensory approaches to
+engage with how people encounter heritage has received widespread atten-
+tion in the last decade. The affective turn has had extensive influence within
+critical heritage studies as scholars have turned their attention to emotional
+and affective aspects of the cultural process that constitutes heritage in addi-
+tion to the discursive and representational facets (Harrison 2013; Waterton
+& Watson 2015; Crouch 2015; Tolia-Kelly, Waterton & Watson 2017; Smith,
+Wetherell & Campbell 2018).
+    Simultaneously, we have seen a surge in experimentations with senso-
+ry ethnography (Pink 2015; Vannini 2024) designed to capture some of the
+multi-sensory contexts that define our existence and understanding of others
+and the environment. Sensory methodology is sensitive to the understanding
+
+
+
+
+                                          12
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+that people’s engagement with the environment is not just a question of reg-
+istering the objective stimuli that it offers, but rather that the meaning and
+value of places is an interactive process, where the experiences, knowledge,
+and memory of the sensing individual enter a dynamic relationship with the
+material qualities of the sensed environment. Pink (2015, 28) refers to em-
+placed sensory ethnography that “attends to the question of experience by
+accounting for the relationships between bodies, minds, and the materiality
+and sensoriality of the environment.” This infers that perception is central to
+how people relate to places.
+    In emphasising perception, sensory ethnography draws on insights from
+the phenomenological tradition, stressing the embodied and emplaced nature
+of people’s experience and being in the world (Pink 2015). Building on Mer-
+lau-Ponty’s argumentation on the central role of bodily presence and action
+in human existence, it is often highlighted that emplacement constitutes the
+existential predicament of our existence – as Trigg (2012, 4) notes: “We are
+forever in the here, and it is from that here that our experiences take place”.
+Our embodied subjectivity is thus always emplaced, and it is from that point
+that our multisensory understanding of the environment emerges. From this
+perspective it becomes important to devise methodologies that can access
+some of the more-that-representational aspects of our engagements with
+the environment and, from a heritage studies perspective, why “old” places
+matter to people.
+
+Methodological Framework
+There is a growing repository of ethnographic methods aimed at grasping el-
+ements of the affective and sensory aspects of people’s engagement with the
+environment. As Degen and Rose (2012) argue, such methods are needed be-
+cause it is not possible to account for these engagements entirely as an effect
+of the urban design (cf. Manzo & Pinto de Carvalho 2021). Advancements in
+technology, easy access to an array of gadgets that can be employed to mon-
+itor movement, various physiological variables, as well as audio and video
+have added to the toolbox of researchers interested in analysing the dynam-
+ics of personal interaction (Pink 2015; Madgin & Lesh 2021; Osborne 2022;
+Järviluoma & Murray, 2023; Pernarella & Madsen, 2023). Despite the grow-
+ing interest in the role of the senses and affect within social sciences, there is
+still much work to be done, as highlighted by Madgin and Lesh (2021, 7), in
+developing research methods to enhance access to the sensory aspects of peo-
+ple-place relations. Pink (2015, 150) advocates for mixed-method approaches
+and encourages ethnographers to re-think available methods in ways that are
+attentive to the senses.
+
+
+
+
+                                          13
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+    In our project we have opted for a range of qualitative methods, drawing
+on established ethnographic approaches as well as experimenting with the
+less rehearsed use of the audio-visual recording glasses. We concur with Pink
+(2015, 160) on the need to adopt different methods to tackle the question of
+how the multisensory environments that people engage with are experienced
+and understood on different levels and from different angles. Juxtaposing
+different methods might in itself offer an enhanced chance to access people’s
+emotional attachment to places and the tacit and emplaced knowledge that a
+sensory ethnography seeks to document.
+    The project thus adopts the three different research methods to examine
+people’s relationship with everyday cultural heritage, in an attempt to offer a
+broader and more varied take on people-place relations than a single-method
+approach would do. Each method is designed to complement the others, fa-
+cilitating openings that the others might foreclose. Together they are orient-
+ed at fulfilling the project’s goals of giving insights into the affective, senso-
+ry, and emotional attachments of the participants to places they consider of
+significance as places transposing the past into the present.
+    The first method involves the participant going for a walk with a research-
+er, who engages them in conversation, thereby actively seeking information
+about the participant’s cognitive and sensory perceptions of the physical en-
+vironment they pass through. This builds on the well-established method of
+walk-alongs that has been widely used in different variations for research,
+e.g. on the sensory experience of urban environments (Kusenbach 2003; De-
+gen & Rose 2012; Hill 2013; Holgerson 2017; Rishbeth 2021;). This method
+permits a dialogue between researcher and participant as they move through
+the environment, allowing for a reflective exploration of the participants em-
+bodied engagement with place. However, the result is highly influenced by
+the emplaced presence and interest of the researcher.
+    The second method involves focus group sessions (Krueger & Casey
+2015) where three to four individuals who are acquainted with each other
+meet at a predetermined location in the city. The session is moderated by
+a researcher and is video recorded from a distance to cause minimal dis-
+turbance. The sessions include a photo-elicitation component as the group
+is presented with old photographs from the place as an incentive for re-
+membering and discussing the changing urban landscape. The method
+recognises the collaborative aspect of people-place relations, and that per-
+ception and knowledge of place may be negotiated via social engagement
+with place. This also leads to power dimensions within the group possibly
+influencing the trajectory of the sessions and any co-production of mean-
+ing and understanding.
+
+
+
+
+                                          14
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+    Finally, we employ the use of the audio-visual recording glasses, the ones
+Torfi was wearing during his mnemonic encounter with the absent present
+fencepost. The methodology is modelled on the sensory research method
+(SRM) developed by Steven Cooke, Kristal Buckley, and associates, under-
+taken in Melbourne and Ballarat in Victoria, Australia (Cooke & Constan-
+tinidis 2019; Cooke & Buckley 2020; Cooke & Buckley 2021). It is designed
+as “a way of recording and sharing the micro-interactions with our every-
+day ordinary heritage landscapes”, based on “an urgent and growing desire
+to experience and share new approaches, and to decentre the “expert” her-
+itage practitioner in the act of identifying how and why places and areas
+are important”. Referring to their findings, they concluded that the meth-
+od evoked “at least in part – the experienced multi-sensory mobile engage-
+ment with place that may be missing from talk-only interviews”. Adapting
+this methodology to our project we followed their proposal as it regards
+the progression of data collection implementing a repeated process of dis-
+crete stages (Cooke & Buckley 2021, 150–152). Thus, on the one hand, the
+data collecting phase includes documentation of the participants’ solitary
+encounters with the urban landscape, capturing what people are looking at
+as well as speech and environmental sounds, with minimal influence from
+the researcher. On the other hand, it involves a detailed conversation with-
+in a week after the solitary walk, which provides a chance to reflect on the
+experience in collaboration with the researcher. Rather than adhering to a
+structured interview format, the follow-up interviews employ a narrative
+methodology (Schorch 2015; Schorch, Walton, Priest & Paradies 2015),
+guiding the conversation through the recording to foster a more natural
+discussion. This approach allows the participants to articulate their expe-
+rience and offer additional insights into the observations made during the
+self-guided walk.
+    The data was analysed by way of a grounded research approach (Charmaz
+2014; Creswell & Poth 2018). This approach is particularly suitable for an-
+alysing miscellaneous data, as it offers the creation of focus and flexibility
+that are beneficial for comparing the varied data from different individuals.
+Moreover, this approach aligns well with the research goal of exploring data
+through the lens of individuals’ experiences rather than predefined themes
+(Charmaz 2014, 3-15). This is especially relevant when investigating the con-
+nections people have with an array of places and how these relationships are
+reflected in the data. As the study involves a substantial number of transcrip-
+tions the data coding has been conducted using Atlas.ti software.
+    Participants for the study were recruited using the snowball sampling
+method, complemented by advertisements on social media platforms. The sole
+
+
+
+
+                                          15
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+criterion was that participants felt in some way connected to the city centre
+and had a long-term or repeated relationship with this place, emphasising the
+personal connections established within its historic context. The demograph-
+ic composition of our participants shows a gender balance and covers a wide
+age range from 25 to 80 years of age, with the majority being between forty
+and seventy. The predominance of participants in this age range is attributed
+to their longer history within the city centre and a greater awareness of their
+connection in comparison to younger individuals. However, this does not im-
+ply that younger participants have not formed significant connections with
+the area. Challenges specific to older participants included limited mobility
+and feelings of insecurity because of it. The ethnographic material discussed
+in the following is derived from 20 self-led walks, which typically lasted about
+an hour, and the follow-up interviews, lasting for a similar duration.
+
+Engaging with the Research Design
+The objective of the self-led walks is to simulate some aspects of everyday soli-
+tary walks in the city. The method seeks to document participant engagement
+with places and at the same time limit the direct influence or guidance of the
+researcher. However, as Kusenbach (2003, 464) highlights in terms of walk-
+alongs, such walks are “obviously not a naturally occurring social occasion”.
+Being recruited to an ethnographic study and having received limited instruc-
+tions about what to do places participants in an unusual situation, which they
+are certainly aware of as they set off on their walks.
+    For the walks, the participants were provided with iVUE Vista spectacles
+with either clear or shaded lenses. While the glasses may seem somewhat
+conspicuous, they can pass as regular, stylish glasses or sunglasses. They are
+simple enough to use and participants did not encounter significant problems
+operating them. Some participants were concerned, especially at the start of
+their journey, if the video recording was running. For instance, one partici-
+pant took off his glasses along the route to check if the red indicator light, sig-
+nalling that a recording was underway, was flashing (H-118). For participants
+who wear glasses regularly, mounting the audio-visual recording glasses posed
+a problem. Most went without their own glasses which meant that their sight
+was diminished to some extent, while one participant opted to place the au-
+dio-visual recording glasses on top of her own, making her quite conscious
+about her appearance (H-110). However, as a rule, wearing the glasses did not
+seem to trouble the participants. As for the quality of the recordings, there
+were no substantial problems. Minor issues arose, mainly related to distur-
+bances in the audio recording caused by wind or traffic, but these issues did
+not significantly impact the recordings.
+
+
+
+
+                                          16
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+    The limited instructions the participants received consisted of asking them
+to think beforehand of two or three places in the central area of the city that
+held personal significance for them, that they would then visit en route. Fur-
+thermore, they were encouraged to express themselves verbally during the
+walk, communicating reminiscences, sentiments, and contemplations that
+emerged as they moved through the urban landscape. To reduce the awkward-
+ness of wandering around town wearing conspicuous glasses and “talking to
+themselves” they were advised to envision themselves talking on a hands-free
+mobile device. This worked for some, while others professed indifference to
+the opinion of others, one participant in her fifties stating that she was too
+old to worry about others’ opinions of her (H-102). Originally adopting such
+indifference, Pétur started his walk in a quiet part of the area but as he ap-
+proached more crowded areas, he became acutely aware of his situation and
+remarked: “Well, now I’m entering the crowd. That makes me even more of an
+oddity” (H-116). However, this did not seem to inhibit his speaking. Though
+some remarked on how “strange it [felt] to walk around the city centre talking
+to oneself” (H-105), most seemed quite at ease pretending to be on the phone
+and almost all participants proved not at all reluctant to express themselves
+verbally as they moved through the city landscape, sharing their knowledge,
+thoughts, memories, reactions, et cetera, as they engaged with places and
+routes. Some even indicated that the glasses, worn for the benefit of an aca-
+demic research project, proved to be “a cap of invisibility”, setting them slight-
+ly apart from their everyday and thus allowing them to express themselves
+freely without being too conscious about the opinions of other pedestrians.
+“It’s fun to walk around the town like you’re in a capsule”, Torfi remarked at
+one stage, “it is very comfortable” (H-113). When asked in the follow-up in-
+terview, he said that he was aware of the glasses for the first two to three min-
+utes but quickly forgot about them and felt relaxed inside “the capsule” that
+the glasses created (H-113f).
+    The participants who signed up for the study approached the project of
+walking in the city somewhat on their own terms, especially given the limit-
+ed instructions received. Some were drawn to the study by an interest in old
+buildings and set out with the intention of exploring them. Others embarked
+on what they considered a memory walk, while some, who traverse the area
+regularly, saw participating in the study as an opportunity to add purpose to
+their routine. Despite starting with specific intentions, participants encoun-
+tered various unexpected elements along the way that captured their attention
+and shifted their focus to entirely different aspects than they had anticipat-
+ed. This ranged from crossing the street to admire flowers to being moved by
+unexpected aspects of the built environment that stirred memories or emo-
+tions. This demonstrates that interacting with the environment is an embod-
+
+
+
+                                          17
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+ied activity involving multiple senses (Ingold & Vergunst 2008) and how such
+sensory engagements can override pre-existing plans as the senses guide the
+participants’ actions.
+    Indeed, walking through the city to explore cognitive and sensory expe-
+riences involves engaging with persistently changing stimuli, as O’Neill and
+Roberts (2020) point out. Seasonal changes and the ever-shifting weather in
+Reykjavík may constitute a significant factor in how participants experience
+the urban landscape. The time of day when the walk is undertaken likewise
+influences the ambience of places. The sounds and aroma met in the city may
+alter from one walk to the next, as might parts of the tangible environment –
+cars come and go, buildings are torn down, new ones appear, others are ren-
+ovated, and new street signs are put up. As participants navigate through the
+city, they also meet different people.
+    Several instances were documented when participants ran into acquain-
+tances during their walks. Kusenbach (2003, 464) describes research walks as
+“contrived social situations” that disrupt the natural flow of events. This was
+evident in our research, as participants, aware of the recording in progress,
+reacted in diverse ways to such encounters. One participant, not expecting to
+meet anyone familiar, abruptly greeted an acquaintance before hurrying on,
+later expressing remorse for not greeting them properly and taking the time
+for a brief chat (H-116). Another chose to mute her recording during a con-
+versation with friends. Unmuting the recording she apologetically stated that
+“you have to greet your friends” (H-112). Yet another encountered a friend
+and explained that she was recording with the glasses for research purposes.
+The friend responded by posing in front of the camera and greeting “the view-
+ers” cheerfully (H-103). These varied responses highlight how walking for re-
+search purposes influences participants´ reactions to a normal social situation.
+    The level of preparation for the walking route varied among participants.
+Some only planned the initial part of the route, making decisions about where
+to go next in the moment. This sometimes led to participants wandering out-
+side the designated area of the study, into neighbouring suburbs. Others, like
+Eva (H-112), prepared the entire route within the city centre, concluding with
+a momentous finale – a house she referred to as the “Palace of memories”. For
+her, this place holds many cherished memories from her childhood to the pres-
+ent. While some participants had, like Eva, planned a specific point to end their
+walk, others stopped the recording as they approached their home or car, and
+still others spontaneously chose a significant spot to end the walk. This is what
+Torfi did, standing on a small rise overlooking the city centre and the harbour,
+with a view towards Mount Esja across the fjord: “Good to end this up here
+… so pleasant to enjoy this view” (H-113) and then turning off the recording.
+
+
+
+
+                                          18
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+Perceiving and narrating the city
+Equipped with the audio-visual recording glasses, most participants seemed
+to enter an introspective state of mind as they set off on their walk through
+the city. Shielded by “the cap of invisibility” they were focused on absorbing
+the environment and communicating their perceptions and stories. Though
+some showed signs of being quite self-aware, others seemed, at times at least,
+to be completely absorbed in a world of their own, walking light-heartedly
+and humming to themselves in between sharing their memories, thoughts,
+narratives, and sentiments. At other times, and more with some than others,
+a more learned approach took over, with participants sharing formal knowl-
+edge of urban history, aesthetics, and city planning. Either or, the walks un-
+leashed stories and observations revealing connections between the partici-
+pants and the historic urban landscape they encountered. Curious similarities
+can be detected between the act of walking and narrating a story – in the way
+we retrace our steps so others can follow (Ingold 2007 in O´Neill & Roberts
+2020, 5). The recordings from the glasses and follow-up interviews allow us
+to follow in the footsteps of the participants. The objective is to sample how
+participants, left to themselves, albeit with a video recorder placed between
+their eyes, tell stories prompted by their encounters and how they communi-
+cate their perceptions of the urban landscape, ultimately revealing the mean-
+ing and value it holds for them.
+
+Walking in the city
+For many of the participants, walking through the city centre is a part of their
+everyday practice. Grímur is one of those who regularly take a walk around
+the area, he enjoys the chance to reminisce about his childhood, “telling sto-
+ries of how it used to be, though not everyone is always keen to listen” (H-
+115). He is referring to members of his family who join him on these walks
+from time to time. With the recording glasses, he seized the chance to have
+an audience that might be more receptive to his narratives and to share his
+knowledge and memories of the area’s bygone times, effectively mapping out
+images in his mind. In this active process of reminiscence, it can be said that
+he was both reconfiguring his relationship with the past and reactivating it.
+Thus, we can say that he enacted his “relationship to the past from a specific
+point in the present” (Erll & Rigney 2009, 2) by retrieving past stories and
+expressing them.
+    The walks brought forth different narratives shaped by the varying percep-
+tions that different areas prompted, from residential neighbourhoods to shop-
+ping zones, nightclubs, and areas of urban nature (cf. Degen & Rose 2012). This
+is evident in the narrative of Inga, whose focus shifted as she moved through
+
+
+
+
+                                          19
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+the city centre. At the beginning of the walk, she enthusiastically shared her
+knowledge of the residential area where she has resided all her life. But as
+Inga ventured beyond her immediate neighbourhood, that narrative became
+less prominent and the engagement with the landscape kindled different
+sentiments. Passing the Cathedral inspired a kind of reverence and when she
+reached Tjörnin (the lake in the city centre) she expressed an experience of
+tranquillity, describing the site as “beautiful, so peaceful and quiet” (H-106).
+Surrounded by old buildings and trees, and hosting a rich birdlife, Tjörnin,
+along with the Cathedral, elicited quite a distinct response from Inga in com-
+parison to the adjacent neighbourhood where she lives. Her narrative shifted
+from sharing her extensive knowledge of the area to savouring the walk itself
+and communicating her sensory experience.
+    As Pink (2015) observes, given that walking is a multi-sensory event
+where all senses come into play, the sensory stimuli provoked by the urban
+environment are bound to influence participants’ experiences and recollec-
+tions of places. Bendix (2011) highlights how perception through the sens-
+es, particularly scents, can evoke deep memories and feelings tied to spe-
+cific places. For example, the scent from a diner instantly triggered Torfi’s
+memories from his childhood involving walks with his late father, which of-
+ten ended with them getting hamburgers. In this case, it was not the place
+itself that activated the memory since it did not exist at that time, but pri-
+marily the scent, which he associated with pleasant memories, “despite hav-
+ing stopped eating meat a long time ago” (H-113). This exemplifies Bendix’s
+(2011) observation that scents can serve as powerful catalysts for memo-
+ry, evoking complex emotional landscapes. Despite the absence of the ex-
+act place from his childhood, the scent alone was enough to transport Torfi
+back to cherished moments with his father, underscoring the sensory di-
+mensions of memory and place.
+    As the participants perceived the environment through all their senses,
+the soundscape of the city can also be seen as integral to their experience of
+walking through the urban landscape (cf. Bull & Back 2003; Bull 2024). For
+instance, the church bells of the city centre elicited attention and reactions
+from the participants. The sound reminded one of a grandfather clock that
+was in her grandmother’s home, which was located near the church. In her
+childhood years, she “enjoyed listening to the sound of the clocks striking
+simultaneously with the same rhythm, a so-called Big Ben chimes” (H-109).
+Another woman, who lives in the vicinity of the church, says she enjoys lis-
+tening to the clocks and “sometimes opens the window to hear better” (H-
+106). Yet another found the sound aggressive when she first moved near the
+church, but after living there for a while, she began to appreciate the bell
+chimes (H-108). The sound of the church bells brought forth memories and
+
+
+
+                                          20
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+evoked pleasant feelings for these women. City sounds vary, some of them
+elicited pleasant feelings, like the bell chime, while traffic noise acted as a dis-
+turbance to the participants, who tended to shun places with noisy traffic.
+It can partly be explained by their awareness of the ongoing audio record-
+ing and the realisation that such a sound could disrupt it. Additionally, they
+might have preferred strolling around in quieter places.
+
+The years of youth
+Engagement with the different vicinities that the participants encountered on
+their walks often sparked memories of specific periods in their lives. Torfi’s
+meeting with the absent fencepost is a clear example, taking him back to his
+early twenties (H-113). As noted above, Inga grew up in a residential neigh-
+bourhood adjacent to the city centre, where she still resides in the family
+house passed down through several generations. Actively engaged in the
+family history, this positions her as somewhat of an authority on the area,
+possessing profound knowledge spanning decades of buildings and inhabit-
+ants. Living in this neighbourhood, she holds memories from all periods of
+her life and feels a strong connection to the place that is underscored by her
+knowledge. Though length of residence is not the only indicator of a strong
+place attachment it is traditionally seen as an important factor in facilitat-
+ing people-place relations (Lewicka 2014, 51). While walking in this neigh-
+bourhood, Inga (H-106) shared her knowledge but also reminisced about her
+youth, revealing cherished memories, youthful exuberance, and games played
+with friends. As Erll & Rigney (2009, also Hussein et. al. 2020) highlight in
+terms of cultural memory, personal memory is a dynamic process. As Inga
+(and the other participants) walked through the centre of their hometown,
+the environment triggered their memory. This underscores the active and sit-
+uational nature of remembering; the act of recalling is a process influenced
+and shaped by the interaction of people and place.
+   Certain streets that Torfi walked also motivated sentiments about his
+youth, centring around warm memories of his father. He experienced a
+blend of grief from his loss as an adult and cherished recollections of child-
+hood strolls through these streets, extended with tales from his father’s
+youth, who was also brought up in the area. “It is the overarching memo-
+ry of these walks [with my father] that resonates so deeply, more than any
+specific event. These memories are incredibly heartwarming,” reflected Torfi
+(H-113). Similarly to Torfi and Inga, numerous participants found them-
+selves reminiscing about their childhood at certain stages of their walks,
+sharing intimate moments as they spontaneously emerged in dialogue with
+their environment.
+
+
+
+
+                                          21
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+    Other locations triggered memories of different life stages. As Torfi ap-
+proached an area with more shops, bars, cafés, and restaurants, the environ-
+ment brought forth memories from his adolescence and early adulthood (H-
+113). This part of the city, with its rich cultural and entertainment offerings,
+has long been a magnet for young people in search of leisure. There you would
+find places that appealed to young people, where they could “hang out with
+their friends” (H-107). Participants like Torfi fondly remembered this period
+of their lives, immersed in the lively social scene. However, not all were eager
+to share reflections on this period of their life. Stína, for example, passed two
+once-familiar nightclubs with a shake of her head, signifying a desire to leave
+those memories behind: “Here at 22 [bar] we partied a lot, oh yes, bah, and
+Sirkus, yea!” and then turns to other issues (H-103). Her reaction closed the
+door on further tales from that era, illustrating the varied ways individuals
+relate to their past and what they choose to share. Traumatic or not, not all
+associations made during the walks are expressed verbally by the participant
+and accessible to the researchers. At some level, they are always selected be-
+fore being shared (Hussein et. al. 2020).
+    Participants brought to life memories of various leisure and entertain-
+ment spots they had frequented during specific periods of their lives as they
+passed by these locations. Some of the establishments remain operational,
+while others have ceased to exist, leaving behind only the buildings or the lo-
+cations themselves to trigger memories. Lárus, for instance, decided to have
+a look behind a fenced-off site that had been the site of a beloved café that
+Lárus frequented in his younger days but has since been demolished. Behind
+the high plywood fence, now prominently decorated with graffiti, the ruins
+of the building remain. A glimpse over the fence instantly prompted rem-
+iniscences of friends and features of the old café (H-107). In the follow-up
+interview, he elaborated on the incident, expressing his surprise at the sight
+of “nothing but grass and moss-covered ruins” (H-107f). As for Torfi and the
+missing fencepost, although the house is gone, the ruins remain and serve as
+a reminder of the past, evoking memories for Lárus of the period in his life
+when he attended the café to hang out with his friends. In his memory, Lárus
+finds a connection between the materiality of the ruins and his experience
+that becomes significant for him.
+
+Old houses – in place, absent and substitutes
+Changes in the urban landscape are inevitable, eliciting reactions and mem-
+ories from locals about lost elements, ranging from grand buildings that
+have disappeared, to missing fenceposts. Being in a mode of regeneration,
+the city centre of Reykjavík has seen the disappearance of several old build-
+
+
+
+
+                                          22
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+ings, a transformation that often evokes a sense of loss among participants.
+Among these is Fjalakötturinn, a building that was situated on Reykjavík’s
+oldest street, demolished in 1985 after a fierce battle to save it. Despite the
+building no longer existing, elderly participants fondly remembered it as they
+walked by the site. Grímur new this old house well and was a frequent visi-
+tor: “I would love to be able to step into Fjalakötturinn today, just as I could
+back in the days. It had such a charm” (H-115). Several years after the dem-
+olition, a house was built on the same street, replicating the façade of the
+old building. However, Grímur finds little value in the replica, stating that
+“of course, it’s not the same” (H-115). Pointing out that not only is the loca-
+tion different, but the mere replication of the façade fails to capture “the es-
+sence of the original”. While the participants associated with the old build-
+ing to different degrees, its former site and the replica serve to preserve the
+memory of the vanished house in some form. While some may be dissatis-
+fied with the replica, it has nonetheless “found its way into local perception
+of the city´s built heritage by way of borrowing (or stealing) memories from
+the original” (Rastrick 2016, 154).
+    Another example involves a house that lacks an exact location in the
+area. A house that only exists within the vague confines of Torfi’s memory,
+leading him to find a stand-in for it. Torfi reflects on a story passed down
+by his father about his childhood, that he has shared with his daughters.
+This story recounts an incident where his father, while playing, accidentally
+fell through the basement window of a house near his home. Torfi, unable
+to recall the exact house where this event took place, says he just picks out
+one of the “nice houses with street-level windows”, that resembles the one
+in his foggy recollection, when sharing “this story with [his] daughters” (H-
+113). In doing so, Torfi brings this substitute house to life in their imagi-
+nations. While some might view this as fabrication, alternatively, it can be
+considered a form of world-making. This perspective, as suggested by Ingold
+(2022), recognises Torfi’s storytelling as a way to weave past narratives into
+the present, enriching his daughters’ understanding of their ancestor’s life
+and past times.
+    It is not just houses that have disappeared from the urban landscape, rep-
+licas, or substitutes that evoke the participants’ perceptions. Of course, exist-
+ing buildings, especially the old houses that are a defining feature of the city
+centre, readily provoke sentiments in the participants. They often expressed
+enchantment as they passed by such buildings, like Erna, who was struck by
+an old house along her path, referring to it as “one of those old, beautiful
+houses in Reykjavík.” She believed the house captured “the romance of Reyk-
+javík,” exuding “a certain grandeur” (H-102). Her reaction reflects not only
+
+
+
+
+                                          23
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+her aesthetic perception, which is among the various facets of participants’
+experiences of the urban environment, but also an emotional response and
+a deep affection for and cultivated respect towards the city’s built heritage –
+a sentiment widely shared among participants.
+    Recent years have seen a rise in new buildings, squeezed into spaces in es-
+tablished neighbourhoods that some participants eagerly wish to preserve.
+Among these participants was Bjössi, whose participation in the study was
+driven in part by his interest in the preservation of the tangible heritage of
+the city. He holds strong opinions on these issues, repeatedly decrying the
+tall new buildings among the city’s older, lower-rise houses, during his walk.
+He vocally criticizes the insertion of the larger structures “almost on top of
+these old fragile buildings” and questions “how individuals with years of uni-
+versity education could even consider it”. Despite his criticisms, he finds “this
+dynamic intriguing” because it represents “a constant tension between the
+old and the new, and the contrasting aesthetics” (H-104f). Bjössi’s feedback
+and observations were influenced by his encounters, yet he also commended
+the successes in the city’s planning and preservation efforts. Notwithstand-
+ing being appalled by “planning disasters”, Bjössi professed that he enjoyed
+the walk because “walking around here is, after all, wonderfully delightful”
+(H-104). During the walk he shared his attitudes and feelings about conser-
+vation and planning but at the same time, he relished walking around, being
+in the moment and perceiving the environment and the atmosphere he felt
+in the city centre.
+
+Urban Nature
+Places where aspects of nature feature in the urban setting, particularly around
+Lake Tjörnin, seemed to have a magnetic effect on participants. Many shared
+sentiments and memories from this area, such as of ice skating in the win-
+ter or feeding the ducks. Bjössi, for instance, expressed a consistent sense of
+well-being near the lake, expressing an equally “good feeling, both in winter
+and summer” (H-104). Many participants perceive the vicinity of the lake as
+a natural jewel nestled within the urban landscape. Their stories highlight the
+symbiotic relationship between it and the surrounding city. The view south-
+ward from the lake, where a singular low-rise building stands, strikes Björg as
+emblematic of “the city’s luminance,” asserting that “perhaps no other build-
+ing captures Reykjavík’s light quite as well” (H-108). As a relatively open space
+in the middle of the city centre, the area offers panoramic views of the sur-
+roundings and beyond. The lake is framed by stately old buildings, churches,
+an old elementary school, and a park. Further on, hills and mountains such
+as Mount Esja are visible to the north of the city. Inga, moved by the vistas of
+
+
+
+
+                                          24
+            Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+
+Image 2. The view to the north over Lake Tjörnin in Reykjavík, where Mount Esja provides a
+background over the low-rise buildings of the city centre. Photo: Jóhannes Birgir Guðvarðarson,
+2024.
+
+
+
+
+Tjörnin, paused twice to admire and declare her “favourite viewpoint”, until
+reaching a third spot overlooking the neighbourhood where she lives. Here,
+her words carried added weight as she reiterated: “This is my favourite view,
+looking over there, over my neighbourhood. It’s beautiful here, yet I live on
+the other side” (H-106). While she holds the entire area dear, “her” neighbour-
+hood has the greatest significance for her.
+   Erna unequivocally identified her preferred vantage point by the lake. She
+halted at a spot with a northward view over the lake and reflected:
+
+    For me, this is my city. It’s wonderful to have a place or a city that’s mine, where I
+    belong or can return to, especially after wandering the world. To walk here, and wow,
+    whether on a spring or summer evening, or especially when the days are short and
+    the light lingers, or the days stretch on for long – there’s something uniquely special
+    about it. That’s what makes this city extraordinary. And it endears itself to you. It
+    possesses a subtle beauty, perhaps because it nurtures one. And perhaps it has shaped
+    and moulded one. (H-102)
+
+
+She expresses a sense a profound feeling of belonging, reflecting an intimate
+connection with the city as if it truly belongs to her. With Erna and several
+other participants, the attraction of this area is evident, associated with the
+convergence of nature and the built environment. The cityscape’s overall char-
+acter is perceived through an interactive process between the participants and
+the environment.
+
+
+
+
+                                              25
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+    The harbour in Reykjavík is another locale where nature significantly en-
+riches participants’ perceptions of their surroundings. Among those drawn
+to the harbour was Torfi, who noted that he frequently visits this part of the
+city when he “needs to be somewhere” where he “feels good” and can relax. He
+mused over the harbour’s magnetic appeal despite having “never once tasted
+the salty sea or been out at sea” (H-113). Nonetheless, he expressed “a great
+sense of well-being there,” while looking from the harbour across the water
+to the mountains emerging to the north. The recording glasses captured both
+his gaze and verbal expressions, illustrating the research method’s advantage
+in combining visual context with participants’ narratives.
+    As Lindal and Hartig (2015) note in a study with Icelandic participants,
+street vegetation promotes the likelihood of people experiencing psycholog-
+ical restoration. Our participants were attracted to areas that included nat-
+ural elements, “how the trees interact with the buildings ... and cast shad-
+ows onto them”, one participant commented (H-102) and another noted
+that “buildings are so bare without vegetation” (H-108). The importance of
+green spaces is a reoccurring theme among participants, who expressed their
+admiration for both the private gardens and public parks found throughout
+the city centre.
+    One such area is the old cemetery that many participants included in their
+walk. When Erna entered the cemetery, her sensory faculties were provoked
+as she observed that “the rain has ceased, the sky cleared,” and it “smells,
+smells of summer” (H-102). She spoke of her regular visits to this “sanctuary”,
+drawn by its qualities as “some sort of green space, a friend in the city, in the
+hustle. It’s like entering another world... perhaps”, she continued, “it’s a ref-
+uge, a place to relax and to contemplate life and existence” (H-102) trying to
+transpose her perception of the atmosphere into words. Like so many other
+affective qualities or sensory experiences that are difficult to express verbal-
+ly, or as Vannini (2024) states, capturing one of the perpetual challenges of
+sensory ethnography: “Atmospheres, after all, may be clearly felt by people
+but remain notoriously difficult to describe and make sense of through words”
+(12). There is something, be it its tranquillity, that attracted the participants
+to the cemetery. When entering the cemetery, Pétur refers to the serenity of
+the place and goes on to visit his grandparents’ graves, who passed away be-
+fore his birth. In his family, their memory is preserved through regular visits
+to this place, notably during the Christmas season. The cemetery thus occu-
+pies a unique place for him, offering a tranquil environment that “provides a
+sense of the flow of time and finality, memento mori,” he reflects, suggesting
+that it is beneficial for everyone to contemplate these themes occasionally,
+“especially as one approaches middle age” (H-116).
+
+
+
+
+                                          26
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+Places of loved ones
+For many participants, the walk through the city with the recording glasses
+evoked fond memories of family members and friends, some of whom had
+passed away. This highlights the profound significance of such reminiscenc-
+es, which often constitute poignant elements in their narratives. As noted
+earlier, the surroundings at the outset of Torfi’s walk stirred memories of his
+father. One street that Torfi traversed is deeply imbued with solemn mem-
+ories of his father’s sudden passing. Torfi had been informed of his father’s
+death over the phone and had quickly made his way to his parents’ house, liv-
+ing only a short distance away. He recalls the initial part of that walk as be-
+ing in a haze, but then the predicaments became vivid as he turned into his
+parents’ street, as he “stepped through some sort of portal, instantly”. Torfi,
+who resides in the vicinity, often finds himself walking along this same path,
+and upon entering the street, that moment of clarity is “the first thing that
+springs to mind” (H-113).
+    On another part of his walk, Torfi walked past a house where he had spent
+countless hours in his youth engaged in music practice with friends, includ-
+ing one who lived there. From this place, he has “both very good memories
+and bittersweet ones,” particularly because his friend, the homeowner, passed
+away suddenly a few years ago. Following his friend’s passing, the house grew
+in importance in Torfi’s heart because “somehow the memory locks in place
+and becomes stronger” (H-113) as a result, cementing that house to the mem-
+ory of his friend.
+    Other participants, too, found memories of their loved ones surfacing as
+they navigated through the streets. For Stína, memories involving her recently
+passed mother repeatedly surfaced throughout the walk, indicating how she
+deeply associated her mother with the area. Several places along the route,
+the schools her mother had been to and “the Cathedral where [her] mother
+received her confirmation”, provoked stories and incidents from her moth-
+er´s life (H-103). In the follow-up interview, Stína agreed that the Cathe-
+dral had figured in various important events in her own life as well as in the
+lives of other family members and friends. Nonetheless, it was the thought
+of her mother that dominated her perception and thoughts as she passed
+by. Stína expressed surprise at the palpable presence of her mother’s mem-
+ory throughout the walk, something that had eluded her while she was im-
+mersed in the moment. Upon realizing this, she initially laughed, finding it
+“strangely funny,” but then her tone shifted to a more contemplative one as
+she thought of her mother, sighing: “Ah, dear mom” (H-103f), her response
+capturing the emotional value vested in the memories that instantly emerged
+at different places on her route. The participants shared their memories of
+
+
+
+
+                                          27
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+loved ones through stories, which then came alive in their imagination and
+vivid in their minds.
+
+Conclusion
+Adopting a research method that enables us to understand how and why
+places from the past matter to people presents a significant challenge. We
+have embraced this challenge by utilising and developing three distinct re-
+search methods focused on observing individuals as they interact with the
+historic landscape of a city. These methods seek to assess how participants
+perceive their material surroundings and examine the affective qualities
+generated by the city. They are designed to allow researchers to observe
+participants’ reactions, senses, and experiences through diverse and com-
+plementary lenses.
+    The advantages of employing different research methods include provid-
+ing diverse insights into individuals’ multisensory experiences. The methods
+used in this study all foster an embodied relationship between participant
+and place as documentation takes place in situ. Using audio-visual record-
+ing glasses for the self-led walks opens one avenue of access to people’s per-
+ception of the environment while keeping the researcher’s managerial influ-
+ence at bay. By contrast, those partaking in walk-alongs engage in dialogue
+with the researcher, influencing their experience through his presence and
+interest. Additionally, focus group sessions encourage interaction within the
+group, facilitating negotiated understandings of places. While none of these
+methods can be seen to offer a holistic approach to people-place relations
+they may enhance each other.
+    The research method, which involves individuals navigating the urban
+landscape alone using recording glasses, provides valuable information be-
+cause it gives a different kind of insight into the experiences of individu-
+als than those that are more indebted to social interaction. It enables com-
+parison between the negotiation that takes place in a social situation and
+what happens when the social stimulus is minimised, and individuals are
+left to wander alone with their thoughts and perceptions (albeit with the
+absent presence of the researcher as well as fellow pedestrians). The meth-
+od may, for instance, incite a kind of intimacy that differs from the intima-
+cy created in a researcher-participant dialogue. For instance, it seems un-
+likely that the presence of Stína’s late mother, as discussed above, would
+have been felt to the same extent throughout her walk if a researcher had
+accompanied her. The solitude may thus be seen to shape the participants’
+engagement with place, guiding them through the environment and their
+embodied presence along familiar paths. Alone, the sensorial faculties are
+
+
+
+
+                                          28
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+facilitated differently as individuals delve into their perceptions, experienc-
+es, memories, contemplations, et cetera, in dialogue with the environment
+they are moving through.
+    However, this does not infer that analysing solitary engagements with
+place somehow gives better or more truthful access to people-place relations.
+Perceptions and narrations of relationships are always also constructed so-
+cially. Furthermore, as in interview situations, the method is limited to what
+people are willing to share, as demonstrated by Stína when she chose not to
+discuss her adolescent experiences of city centre nightclubs. The method is
+also limited to the spontaneous arousal of cognitive and sensorial actions and
+reactions at the moment of each engagement. Such moments are of course
+infused by a multitude of affective influences that may define each encoun-
+ter with place. The absent presence of Stína’s late mother characterised her
+walk with the recording glasses on the particular day of the walk. If that walk
+had taken place at another time, Stína’s memory of her mother might not
+have come up at all.
+    In the follow-up interviews, there is still the opportunity to probe de-
+tailed questions to compensate for the researcher’s lack of possibility of
+dialogue or impact during the walk. But these questions are still based on
+what has been captured in the recordings. As for the data accumulated in
+this study, the most valuable resources originate directly from the walks
+themselves, although the follow-ups gave additional explanations, enrich-
+ing the narratives and further contextualising perceptions communicat-
+ed in the recordings. Sometimes, the participants had even experienced
+moments during their solitary tours that were so profound that they felt
+compelled to share and discuss their experiences in detail in the follow-up
+interviews.
+    Special attention to how the participants experience their participation
+is beneficial, given the unusual situation of wearing recording glasses on
+their solitary walks. On the one hand, the situation led to feelings of odd-
+ity, while on the other, the “cap of invisibility” offered a certain security of
+detachment from the gaze of other pedestrians. While the participants re-
+ceived minimal instructions, it proved important to cultivate a relaxed at-
+mosphere and help the participants feel at ease in approaching the task on
+their premises. It is useful to offer them tips such as pretending to be talk-
+ing on the phone while walking and strategies for tackling unexpected inci-
+dents, like meeting acquaintances. Recognising the uniqueness of the par-
+ticipant’s situation, their feelings, and experience of the walking process,
+helps the researcher to follow in the steps of the participant, in attempting
+to access the mindset and perceptions of the environment.
+
+
+
+
+                                          29
+          Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+    There are also practical drawbacks to the method to be considered, as iden-
+tified in previous studies developing these methods (Cooke & Buckley 2021,
+151). It is quite time-consuming for both researchers and participants. Partic-
+ipants undertake a walk of up to an hour, followed by a follow-up interview of
+a similar length at a later date, resulting in a substantial amount of material
+for transcription and analysis, compared to the walk-alongs. Additionally, re-
+viewing the video recordings can be challenging due to the glasses moving in
+consonance with the wearer’s head, resulting in considerable instability in the
+footage. This may induce nausea for viewers when watching intently. Techni-
+cal issues, such as recording failures are also to be anticipated, although we
+fortunately avoided such problems.
+    Despite its limitations and the considerable time required, our experience
+suggests that the research method, wherein participants walk alone with re-
+cording glasses, significantly enriches methodologies aimed at examining peo-
+ple’s relationships with the historic urban landscape. This method, highlight-
+ing various layers of information through the inclusion of detailed, nuanced
+descriptions of places, offers a means to capture an intimate, multi-sensory,
+and dynamic interaction with the environment. We can observe participants’
+aesthetic experiences – how sounds influence perceptions, smells evoke mem-
+ories, and the atmosphere affects their experience in different locales of the
+city – enhancing our understanding of perception’s role in the urban environ-
+ment. The participants’ mobility illustrated how various city locales prompted
+distinct responses and shaped their narratives concerning the environment.
+Their movements between places revealed connections between different life
+stages and specific locations, as they recounted memories from childhood and
+youth, and had moments of remembering deceased loved ones. These narra-
+tives uncovered a range of emotions, including loss, joy, and sadness. The par-
+ticipants’ walks thus unveiled the multi-layered relationship that people form
+with the area, highlighting the capacity of urban spaces to evoke a complex
+tapestry of emotions, memories, and senses.
+
+Ethical statement
+The researchers are committed to ensuring that the preservation and usage
+of data strictly adhere to the scientific ethical guidelines set forth by the Uni-
+versity of Iceland, as well as to broader ethical standards governing the man-
+agement of scientific data.
+
+Funding
+The research presented in this article is funded by The Icelandic Centre for Re-
+search - IRF (Grant number: 228411).
+
+
+
+
+                                          30
+           Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+AUTHORS
+
+Snjólaug G. Jóhannesdóttir is a PhD student in Ethnology in the Faculty of
+Sociology, Anthropology, and Folkloristics at the University of Iceland.
+
+Ólafur Rastrick is a cultural historian and professor of European Ethnology
+in the Faculty of Sociology, Anthropology, and Folkloristics at the University
+of Iceland. His area of research is nineteenth and twentieth-century cultural
+history, popular culture, and cultural heritage. He teaches graduate and un-
+dergraduate courses on everyday life, body culture, subcultures, cultural her-
+itage, and the ethnology of place.
+
+
+
+SOURCES
+
+Fieldwork materials
+Walk with audio-visual recording glasses in the city centre of Reykjavík and follow-up
+   interviews. Interviewer in the follow-up interviews: Snjólaug G. Jóhannesdóttir.
+
+H-102.    August, 2022. Erna, woman in her fifties.
+H-103.    August, 2022. Stína, woman in her fifties.
+H-103f.   August, 2022. Follow-up interview with Stína.
+H-104.    August, 2022. Bjössi, male in his fifties.
+H-104f.   August, 2022. Follow-up interview with Bjössi.
+H-105.    September, 2022. Vera, woman in her thirties.
+H-106.    September, 2022. Inga, woman in her fifties.
+H-107.    September, 2022. Lárus, male in his forties.
+H-107f.   September, 2022. Follow-up interview with Lárus.
+H-108.    April, 2023. Björg, woman in her forties.
+H-109.    April, 2023. Ólöf, woman in her sixties.
+H-110.    May, 2023. Kolla, woman in her twenties.
+H-112.    July, 2023. Eva, woman in her sixties.
+H-113.    September, 2023. Torfi, male in his fifties.
+H-113f.   October, 2023. Follow-up interview with Torfi.
+H-115.    August, 2023. Grímur, male in his fifties.
+H-116.    August, 2023. Pétur, male in his fifties.
+H-118.    August, 2023. Egill, male in his forties.
+
+The names of the participants are pseudonyms.
+
+Research material: video and audio recordings, transcripts, and research journal, in the
+   possession of the authors, stored at the University of Iceland.
+
+
+Bibliography
+Altman, Irwin and Setha M. Low. 1992. Place Attachment. A Conceptual Inquiry. New
+    York: Springer.
+Bendix, Regina. 2011. “Sense, Scent, and (Urban) Sensibility”. In Senses and the City.
+    An Interdisciplinary Approach to Urban Sensescapes, edited by Madalina Diaconu,
+
+
+
+
+                                           31
+           Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+     Eva Heuberger, Ruth Mateus-Berr and Lukas Marcel Vosicky, 209–221. Berlin: Lit
+     Verlag.
+Bull, Michael. 2024. “Ethnography and the Sounds of Everyday Life.” In The Routledge
+     International Handbook of Sensory Ethnography, edited by Philip Vannini, 32–42.
+     Oxon: Routledge. DOI: 10.4324/9781003317111-4.
+Bull, Michael and Les Back. 2003. “Introduction: Into Sound.” In The Auditory Culture
+     Reader, edited by Michael Bull and Les Back, 1–18. Oxford: Berg.
+Čebron Lipovec, Neža. 2023. “‘Memory Talk’ in a Museum in a Contested Land: A Platform
+     for Mutual Understanding and a Potential Method for Built Heritage Conservation.”
+     Ethnologia Fennica 50 (2): 75–102. https://doi.org/10.23991/ef.v50i2.110014.
+Charmaz, Kathy. 2014. Constructing grounded theory. 2nd edition. Thousand Oaks, CA:
+     Sage Publication.
+Colomer, Laia. 2023. “Participation and cultural heritage management in Norway. Who,
+     when, and how people participate.” International Journal of Cultural Policy. htpps://
+     doi.org/10.1080/10286632.2023.2265940.
+Cooke, Steven and Kristal Buckley. 2021. “Visual Research Methodologies and the Heritage
+     of ‘Everyday’ Places.” In People-Centred Methodologies for Heritage Conservation:
+     Exploring Emotional Attachment to Historic Urban Places, edited by Rebecca Madgin
+     and James Lesh, 143–156. Abingdon-New York: Routledge.
+Cooke, Steven and Kristal Buckley. 2020. “The Historic Urban Landscape: New method-
+     ologies for exploring sense of place.” In The Routledge Handbook on Historic Urban
+     Landscapes in the Asia-Pacific, edited by Kapila Silva, 166–179. London: Routledge.
+Cooke, Steven and Dora Constantinidis. 2019. “Investigating ‘ordinary’ landscapes: Us-
+     ing visual research methods to understand heritage digital technologies and sense of
+     place.” In The Routledge International Handbook of New Digital Practices in Galleries,
+     Libraries, Archives, Museums and Heritage Sites, edited by Hannah Lewi, Wally Smith,
+     Dirk vom Lehn and Steven Cooke, 450–462. London: Routledge.
+Creswell, John W. and Cheryl N. Poth. 2018. Qualitative inquiry and Research design.
+     Choosing among five approaches. 4th edition. Thousand Oaks, CA: Sage Publication.
+Crouch, David. 2015. Affect, Heritage, Feeling. In The Palgrave Handbook of Contemporary
+     Heritage Research, edited by Emma Waterton and Steve Watson, 177-190. London:
+     Palgrave Macmillan.
+Council of Europe. 2005. “Explanatory Report to the Council of Europe Framework
+     Convention on the Value of Cultural Heritage for Society.” Council of Europe Treaty
+     Series – No. 199. https://rm.coe.int/16800d3814.
+Degen, Monica Montserrat and Gillian Rose. 2012. “The Sensory Experiencing of Ur-
+     ban Design: The Role of Walking and Perceptual Memory.” Urban Studies 49 (15):
+     3271–3287. https://doi.org/10.1177/0042098012440463.
+Erll, Astrid and Ann Rigney. 2009. “Introduction: Cultural Memory and its Dynamics.” In
+     Mediation, Remediation, and the Dynamics of Cultural Memory, edited by Astrid Erll
+     and Ann Rigney, 1–11. Berlin: De Gruyter.
+Harrison, Rodney. 2013. Heritage. Critical Approaches. London: Routledge.
+Hetherington, Kevin. 2004. “Secondhandedness: Consumption, Disposal, and Absent
+     Presence.” Environment and Planning D: Society and Space 22 (1): 157–173.
+Hill, Liza. 2013. “Archaeologies and geographies of the post-industrial past: landscape,
+     memory and the spectral.” Cultural Geographies 20 (3): 379-396. https://doi.
+     org/10.1177/1474474013480121.
+Holgerson, Helena. 2017. “Keep Walking. Notes on How to Research Urban Pasts and
+     Futures.” In Walking Through Social Research, edited by Charlotte Bates and Alex
+     Rhys-Taylor, 70–85. Abingdon-New York: Routledge.
+
+
+
+
+                                           32
+           Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+Hussein, Fatmaelzahraa, John Stephens, and Reena Tiwari. 2020. “Towards Psychosocial
+    Well-Being in Historic Urban Landscapes: The Contribution of Cultural Memory.” Urban
+    Science 4 (4): 59. https://doi.org/10.3390/urbansci4040059.
+Ilovan, Oana-Ramona and Iwona Markuszewska (eds.). 2022. Preserving and Constructing
+    Place Attachment in Europe. Charn: Springer.
+Ingold, Tim. 2022. Imagining for real: Essays on creation, attention, and correspondence.
+    Abingdon: Routledge.
+Ingold, Tim and Jo Lee Vergunst. 2008. “Introduction.” In Ways of Walking: Ethnographic
+    Practice on Foot, edited by Tim Ingold and Jo Lee Vergunst. London: Ashgate.
+Ingold, Tim. 2007. Lines: A Brief History. Abingdon and New York: Routledge.
+Järviluoma, Helmi and Lesley Murray (eds.). 2023. Sensory Transformations. Environments,
+    Technologies, Sensobiographies. Abingdon and New York: Routledge.
+Jónsdóttir, Vilhelmína. 2023. “Cultural heritage and participation in Icelandic legis-
+    lation and policies.” Nordisk kulturpolitisk tidskrift 26 (2): 264–281. https://doi.
+    org/10.18261/nkt.26.2.10.
+Krueger, Richard A. and Mary Anne Casey. 2015. Focus Groups: A Practical Guide for
+    Applied Research. 5th edition. Thousand Oaks, CA: Sage Publications.
+Kusenbach, Margarethe. 2003. “Street phenomenology: The go-along as ethnographic
+    research tool.” Ethnography 4 (3): 455–485.
+Lewicka, Maria. 2011. “Place attachment: How far have we come in the last 40 years?.”
+    Journal of Environmental Psychology 31 (3): 207–230. https://doi.org/10.1016/j.
+    jenvp.2010.10.001
+Lewicka, Maria. 2014. “In Search of Roots: Memory as Enabler of Place Attachment.” In
+    Place Attachment: Advances in Theory, Methods and Applications, edited by Lynne C.
+    Manzo and Patrick Devine-Wright, 49–60. Abingdon-New York: Routledge.
+Lindal, Pall J. and Terry Hartig. 2015. “Effects of urban street vegetation on judge-
+    ments of restoration likelihood.” Urban Forestry & Urban Greening 14 (2): 200-209.
+    DOI:10.1016/j.ufug.2015.02.001.
+Madgin, Rebecca and James Lesh. 2021. “Exploring emotional attachments to historic
+    places: Bridging concept, practice and method”. In People-Centred Methodologies
+    for Heritage Conservation. Exploring Emotional Attachments to Historic Urban Places,
+    edited by Rebecca Madgin and James Lesh, 1–15. Abingdon-New York: Routledge.
+Manzo, Lynne C. and Laís Pinto de Carvalho. 2021. “The role of qualitative approaches
+    to place attachment research.” In Place Attachment: Advances in Theory, Methods
+    and Applications. 2nd edition, edited by Lynne C. Manzo and Patrick Devine-Wright,
+    111–126. Abingdon-New York: Routledge.
+Manzo, Lynne C. and Patrick Devine-Wright (eds.). 2021. Place Attachment: Advances in
+    Theory, Methods and Applications. 2nd edition. Abingdon-New York: Routledge. https://
+    doi.org/10.4324/9780429274442.
+Muzaini, Hamzah and Claudio Minca (eds.). 2018. After Heritage Critical Perspectives
+    on Heritage from Below. Cheltenham: Edward Elgar Publishing.
+O´Neill, Maggie and Brian Roberts. 2020. Walking Methods. Research on the Move.
+    Abingdon-New York: Routledge.
+Osborne, Tess. 2022. “Restorative and Afflicting Qualities of the Microspace Encounter:
+    Psychophysiological Reactions to the Spaces of the City.“ Annals of the American
+    Association of Geographers 112 (5): 1461–1483. https://doi.org/10.1080/246944
+    52.2021.1972791.
+Pérez, Ana Pastor and Laia Colomer. 2024. “Dissecting authorised participation in cultural
+    heritage.” International Journal of Heritage Studies 30 (2): 226–241. https://doi.org/
+    10.1080/13527258.2023.2284741.
+
+
+
+
+                                           33
+           Snjólaug G. Jóhannesdóttir & Ólafur Rastrick: Engaging (with) Places
+
+
+
+Pernarella, Marco and Anders Koed Madsen. 2023. “Urbino belonging: Exploring place-
+    based community heritage with digital & participatory methods.” International Journal
+    of Heritage Studies 29 (9): 939–960. https://doi.org/10.1080/13527258.2023.22
+    31909.
+Pink, Sarah. 2015. Doing Sensory Ethnography. 2nd edition. London: Sage Publication.
+Rastrick, Ólafur. 2016. “Movable topographies – Negotiating the Built Cultural Heritage
+    of ´Old´ Reykjavík.” In Heritage, Democracy and the Public, edited by Torgrim Sneve
+    Guttormsen and Grete Swensen, 145–158. Farnham: Ashgate.
+Risbeth, Clare. 2021. “Articulating transnational attachments through on-site narratives
+    and collaborative creative processes.” In Place Attachment: Advances in Theory,
+    Methods and Applications. 2nd edition, edited by Lynne C. Manzo and Patrick Devine-
+    Wright, 127–142. Abingdon-New York: Routledge.
+Scannell, Leila and Robert Gifford. 2017. “Place Attachment Enhances Psychologi-
+    cal Need Satisfaction.“ Environment and Behavior 49 (4): 359–389. https://doi.
+    org/10.1177/0013916516637648.
+Schofield, John. 2016. “Heritage Expertise and the Everyday: Citizens and Authority in the
+    Twenty-first Century.“ In Who Need Experts? Counter-mapping Cultural Heritage, edited
+    by John Schofield, 1–12. London: Routledge. DOI: 10.4324/9781315547251-1.
+Schorch, Philipp. 2015. “Experiencing differences and negotiating prejudices at the
+    Immigration Museum Melbourne.” International Journal of Heritage Studies 21 (1):
+    46–64. https://doi.org/10.1080/13527258.2013.877955.
+Schorch, Philipp, Jessica Walton, Naomi Priest, and Yin Paradies. 2015. “Encountering
+    the ´other´: Interpreting student experiences of a multi-sensory museum exhibition.”
+    Journal of Intercultural Studies 36 (2): 221–240. https://doi.org/10.1080/072568
+    68.2015.1008432.
+Smith, Jeffrey (ed.). 2018. Explorations in Place-Attachment. London: Routledge.
+Smith, Laurajane. 2006. The Uses of Heritage. London: Routledge.
+Smith, Laurajane, Margareth Wetherell, and Gary Campbell (eds.). 2018. Emotion, Affective
+    Practices, and the Past in the Present. Abingdon-New York: Routledge.
+Tolia-Kelly, Divya P., Emma Waterton and Steve Watson (eds.). 2017. Heritage, Affect
+    and Emotion: Politics, practices and infrastructures. Abingdon-New York: Routledge.
+Trigg, Dylan. 2012. The Memory of Place: A Phenomenology of the Uncanny. Athens,
+    OH: Ohio University Press.
+UNESCO. 2011. Recommendation on the Historic Urban Landscape. Adopted by the 36th
+    session of the UNESCO General Conference, Paris.
+Vannini, Philip. 2024. “The qualities of the “new” sensory ethnography: an introduction.”
+    In The Routledge International Handbook of Sensory Ethnography, edited by Philip
+    Vannini, 1–20. Abingdon: Routledge. DOI: 10.4324/9781003317111-1.
+Waterton, Emma and Steve Watson, Steve. 2015. “Methods in Motion: Affecting Heritage
+    Research.” In Affective methodologies: Developing Cultural Research Strategies for
+    the Study of Affect, edited by Britta Timm Knudsen and Carsten Stage, 97–118. New
+    York: Palgrave Macmillan.
+Wetherell, Margaret. 2012. Affect and Emotion: A New Social Science Understanding.
+    London: Sage Publications.
+Whitehead, Christopher, Tom Schofield, and Gönül Bozoğlu (eds.). 2021. Plural Heritages
+    and Community Co-production: Designing, Walking and Remembering. Abingdon-New
+    York: Routledge.
+
+
+
+
+                                           34
+

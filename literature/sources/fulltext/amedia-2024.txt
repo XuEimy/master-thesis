@@ -1,0 +1,1566 @@
+      Psychological Inquiry
+      An International Journal for the Advancement of Psychological Theory
+
+
+
+
+      ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/hpli20
+
+
+
+
+Understanding Autobiographical Memory in the
+Digital Age: The AMEDIA-Model
+
+Fabian Hutmacher, Markus Appel & Stephan Schwan
+
+To cite this article: Fabian Hutmacher, Markus Appel & Stephan Schwan (2024) Understanding
+Autobiographical Memory in the Digital Age: The AMEDIA-Model, Psychological Inquiry, 35:2,
+83-105, DOI: 10.1080/1047840X.2024.2384125
+
+To link to this article: https://doi.org/10.1080/1047840X.2024.2384125
+
+
+
+
+       © 2024 The Author(s). Published with
+       license by Taylor & Francis Group, LLC.
+
+
+       Published online: 17 Sep 2024.
+
+
+
+       Submit your article to this journal
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=hpli20
+PSYCHOLOGICAL INQUIRY
+2024, VOL. 35, NO. 2, 83–105
+https://doi.org/10.1080/1047840X.2024.2384125
+
+
+RESEARCH ARTICLE
+
+Understanding Autobiographical Memory in the Digital Age: The AMEDIA-Model
+Fabian Hutmachera                 , Markus Appela               , and Stephan Schwanb
+a
+                                  urzburg, W€urzburg, Germany; bLeibniz-Institut f€ur Wissensmedien, T€ubingen, Germany
+ Julius-Maximilians-Universita€t W€
+
+
+    ABSTRACT                                                                                                                                   KEYWORDS
+    Recent technological developments have led to an increased density of recorded life episodes. To                                           Autobiographical memory;
+    understand how creating and sharing such immense amounts of data shapes the way individuals                                                digital age; external
+    remember their past, we propose a model for autobiographical memory in the digital age                                                     memory; internal memory;
+                                                                                                                                               social media
+    (AMEDIA-Model) that systematizes the existing literature and sketches avenues for future research.
+    The model views autobiographical remembering in the digital age as the result of the iterative
+    process of combining information stored in the mind and information stored in the environment
+    using high-tech applications. Moreover, the way autobiographical memories are (re-)constructed
+    crucially depends on the way the information has been encoded and curated: Autobiographical
+    remembering in the digital age is not a uniform process but is fundamentally shaped by the tech­
+    nology and the data that is being used. The AMEDIA-Model offers a framework for understanding
+    technology-mediated human cognition in the twenty-first century.
+
+
+
+
+As early as in 1945, Vannevar Bush imagined a desk-like                                     time (Elsden, Kirk, et al., 2016; Heersmink, 2020) and can
+device called “memex” that would enable individuals to store                                be searched and analyzed (cf. Clowes, 2013; Eliseev &
+information ranging from books and newspapers to their                                      Marsh, 2021). Moreover, the stored information typically
+personal communication and to retrieve this information                                     represents a combination of different media sources, includ­
+whenever they want. Bush thought of the memex as a flex­                                    ing but not limited to written text, photos, videos, and audio
+ible and dynamic device that would work in an associative                                   recordings (Konrad et al., 2016).
+manner by connecting related content, similar to human                                          Arguably, the fact that the development and proliferation
+memory (see also Jones, 1986). As it seems, our present-day                                 of mobile, digital technologies have simplified documenting
+societies are closer to a realization of this vision than any                               one’s lived life to an astonishing extent could have far-reach­
+society before (cf. Bell & Gemmell, 2009): For an increasing                                ing consequences for autobiographical remembering. From
+number of individuals, living in the digital age means creat­                               an optimist’s point of view, technology-mediated autobio­
+ing and sharing immense amounts of data. Recent estimates                                   graphical remembering in the digital age could help to com­
+state that approximately five billion people worldwide are                                  pensate the weaknesses of human memory by reducing biases
+active on the Internet, and approximately 4.65 billion are                                  and memory distortions (Bell & Gemmell, 2009; Burkell,
+social media users (Domo, 2022). In each minute of 2023,                                    2016; Harvey et al., 2016). While human memory is highly
+these users sent about 241 million emails, 41.6 million                                     reconstructive and therefore prone to errors, omissions, and
+WhatsApp messages, and 360,000 tweets, shared about                                         confabulations, an externally stored life history could poten­
+694,000 reels via direct messages on Instagram, and liked 4                                 tially provide a stable and accurate representation of past
+million posts on Facebook (Domo, 2023). From a more                                         events that can be accessed to verify and—if needed—to cor­
+abstract point of view, these numbers point to several                                      rect our subjective perceptions. This also implies unprece­
+important characteristics of living in the digital age (see also                            dented possibilities for memory augmentation (Harvey et al.,
+Marsh & Rajaram, 2019). Maybe most importantly, the fact                                    2016; Heersmink, 2020; Loveday & Conway, 2011): Using the
+that great amounts of personal data can easily be stored and                                respective technology would allow us to create a rich and
+shared leads to an increased density of recorded life episodes                              multimedia-based record of ordinary everyday events just as
+(Heersmink & Carter, 2020; Kalnikait_e & Whittaker, 2012).                                  the personally important moments in our lives, ultimately
+That is, people living in the twenty-first century tend to pre­                             enabling us to remember our past in greater detail. This
+serve much more information about their private and pro­                                    should also make it easier to narrate our lives (Heersmink &
+fessional lives than previous generations. In addition, the                                 Carter, 2020; see also Crete-Nishihata et al., 2012), as we
+recorded content can often be accessed anywhere at any                                      could always turn to our digital memories in case we feel
+
+CONTACT Fabian Hutmacher         fabian.hutmacher@uni-wuerzburg.de                    Julius-Maximilians-Universit€at W€
+                                                                                                                       urzburg, Human-Computer-Media Institute, Oswald-
+K€ulpe-Weg 82, 97074, W€
+                       urzburg, Germany.
+� 2024 The Author(s). Published with license by Taylor & Francis Group, LLC.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted
+Manuscript in a repository by the author(s) or with their consent.
+84     F. HUTMACHER ET AL.
+
+
+unsure about the order of events, our experiences and feel­         autobiographical remembering is likely to be too superficial
+ings at a certain point in time, or some other aspect of an epi­    to account for the complexity of reality (cf. Appel et al., 2020;
+sode from the past. Apart from that, having access to a             Orben & Przybylski, 2019). Hence, what is needed and what
+virtually limitless storage space would enable cognitive off­       we will provide in the next section is a nuanced model for
+loading (Clark, 2015; Eliseev & Marsh, 2021; Heersmink &            Autobiographical Memory in the Digital Age (AMEDIA-
+Carter, 2020; Lynch, 2016; Sch€onpflug & Esser, 1995; van den       Model). Through integrating the available empirical evidence
+Hoven, 2014). In other words, it would be possible to store         on different sub-aspects of autobiographical remembering
+information that we consider important to remember but              involving high-tech devices and applications as well as
+that we do not necessarily need to keep readily available in        through connecting previously unrelated theory on non-
+our own minds in a digital format and to retrieve this infor­       technological autobiographical memory and technology-
+mation whenever needed.                                             mediated remembering, our AMEDIA-Model provides the
+   However, such an optimistic outlook is met with serious          first systematic and comprehensive framework for under­
+criticism by others who hold a more pessimist view. First,          standing autobiographical memory in the digital age. Based
+rather than increasing, the available technology could be           on a strong foundation of established theoretical considera­
+undermining our autonomy (Burkell, 2016; Heersmink, 2017;           tions and empirical findings, the AMEDIA-Model can help
+Heersmink & Carter, 2020). This claim has two interrelated          us to go beyond what is already known and to organize future
+aspects. On the one hand, cognitive offloading could—as             research. Ultimately, the AMEDIA-Model will also enable us
+practical as it might seem at first sight—increase our depend­      to get back to the question about the nature of the changes to
+ency on the digital records of our lives: When the digital          autobiographical memory in the digital age and to the risks
+record is lost, everything is lost. On the other hand, narrating    and benefits potentially associated with these changes.
+our lives requires at least some room for the creative inter­
+pretation of the events of our lives and their meaning (cf.
+                                                                    Thinking About the Future of Autobiographical
+McAdams, 2008). In this context, the weight of the seemingly
+                                                                    Memory: The AMEDIA-Model
+objective facts could restrict the necessary narrative freedom
+in an unwelcome way. The latter aspect also points to the           Let us begin with an example: Imagine that you are thinking
+adaptive function of forgetting (Heersmink, 2017; Heersmink         about your summer vacation from two years ago. You try to
+& Carter, 2020; Koops, 2011; Jacquemard et al., 2014; Mayer-        remember what you did and when. While you can still recall
+Sch€onberger, 2009; Storm & Soares, in press; van House &           spending three days in City A, you are not quite sure whether
+Churchill, 2008). In the lives of many people, there are at least   your stay in City B lasted for two or three days and whether
+some episodes that they may prefer not to be reminded of            you directly traveled from City A to City B or whether you
+because bringing them up again would potentially lead to            spent one night elsewhere in-between. Hence, you decide to
+negative emotions and social conflicts (e.g., remembering how       pick up your smartphone and to scroll through the pictures
+angry and disappointed one was when hurt by a loved one).           that you took during your vacation. As you quickly realize,
+In a world of technology-mediated autobiographical remem­           you did indeed travel directly from City A to City B.
+bering, avoiding such memories could become increasingly            However, you also stopped in a nice little town by the sea for
+difficult—especially when the digital records are permanent         a few hours. The photos you took verify this. Seeing these
+and cannot be edited or deleted by the users. Apart from that,      photos, you now also remember that a live band was playing
+concerns regarding privacy and surveillance have also received      in the caf�e where you were having a cup of coffee and that
+considerable attention (Harvey et al., 2016; Jacquemard et al.,     you enjoyed the concert very much. Unfortunately, you have
+2014), as the collection of highly detailed and intimate data       neither a photo nor a recording of the band’s performance,
+about all aspects of our lives could be used for ethically ques­    but you are quite sure that you made a note of the band’s
+tionable purposes in case the wrong person, company, or gov­        name at the time. In fact, you find an entry in your smart­
+ernment gains access to it. Last but not least, storage and file    phone’s notes app that gives you the information that you
+formats have undergone constant changes over the last years         were looking for. Therefore, you decide to play the band’s lat­
+and decades, demonstrating that the longevity of digital con­       est album in the background while you continue scrolling
+tent is not guaranteed (Blum & Beyer, 2019; Petrelli &              through the photos of your vacation. As you listen to the
+Whittaker, 2010; van den Hoven et al., 2012; van House &            music, various memories come to your mind. For example,
+Churchill, 2008). Quite the contrary, digital content typically     you see yourself walking along the beach with your partner—
+becomes inaccessible when it is not updated on a regular basis      and you remember how relaxed you felt during that vacation.
+while older, non-digital media for storing personal informa­           What exactly happens when you see the pictures of the
+tion such as books and paper diaries can survive centuries.         nice little town by the sea that you visited two years ago?
+   So should we rather be optimistic or pessimistic regarding       From a naïve point of view, one might argue that the pic­
+the future of autobiographical remembering in the digital           tures simply work as cues for your memory: Before seeing
+age? There is probably no easy answer to this question.             the pictures, you could not access your memories of spend­
+Usually, new technologies tend to have complex and multi­           ing a few hours in the nice little town by the sea, but once
+layered effects on individuals and societies, which are not         you have seen them, you can. This is, however, not the full
+simply black or white; that is, the question whether digital        story. As the example illustrates, seeing the pictures leads to
+technologies have desirable or problematic effects on               a whole cascade of mental processes and actual behavior. It
+                                                                                                     AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE                  85
+
+
+results in an ongoing interaction with the recorded material,                      information in general but only insofar as it concerns auto­
+potentially leading remembering in directions that were not                        biographical memory and autobiographical remembering.
+foreseen or intended when beginning the process. In our                               Crucially, we propose that internal autobiographical
+example, the process of remembering began with the ques­                           memories and external records work in concert to bring
+tion whether you directly traveled from City A to City B                           about autobiographical remembering; that is, autobiograph­
+and ended with listening to music while continuing to rem­                         ical remembering in the digital age can be viewed as the
+inisce about the good time that you had.                                           result of the iterative process of combining information
+                                                                                   stored in the mind and information stored in the environ­
+                                                                                   ment using high-tech devices and applications (for similar
+Model Overview
+                                                                                   ideas, see, e.g., Sch€onpflug, 1986a, 1986b; Sch€   onpflug &
+This example can help to illustrate the main ideas of the                          Esser, 1995; Esser, 1996; Finley et al., 2018; 2022). This does
+AMEDIA-Model that we propose (see Figure 1). To begin                              not, of course, mean that internally and externally stored
+with, we follow the basic distinction made by various                              information have the same characteristics or follow the same
+authors over the last decades between internal memories                            principles of organization. Obviously, the fact that internal
+that individuals keep in their minds and externally recorded                       autobiographical memories are stored in the mind, which is
+information that is stored in their environment (e.g.,                             bound to the human cognitive, biological, and neural struc­
+Donald, 1991, 2001; Finley et al., 2018; Heersmink & Carter,                       ture, while high-tech external resources rely on the data for­
+2020; Michaelian & Sutton, 2013; Nestojko et al., 2013;                            mats and processing characteristics of digital tools, goes
+Sch€onpflug 1986a, 1986b; Sutton, 2015; see also Finley &                          hand in hand with certain strengths and weaknesses in each
+Naaz, 2022). More specifically, an individual may have cer­                        case (see Donald, 1991; Finley et al., 2018).
+tain internal memories about their last summer vacation                               Fleshing out these ideas entails a twofold task: (1) to
+(e.g., whom the vacation was spent with, what happened at                          describe the structure of autobiographical memories as they
+a particular day at the beach) but may also possess some                           are stored in our minds and to provide a precise description
+externally recorded information (e.g., photos, videos, audio                       of the external resources that are used for autobiographical
+recording, notes). To be clear, not all of this internally or                      remembering, and (2) to analyze the interactions between
+externally stored information is autobiographical in nature                        autobiographical memories and externally stored informa­
+(see below for our definition of autobiographical memory).                         tion that lead to the (re-)construction of past events (i.e.,
+Therefore, our goal in the following will not be to capture                        the process of encoding, curating, and retrieving autobio­
+the relation between internally and externally stored                              graphical memories).
+
+
+
+
+Figure 1. Autobiographical memory in the digital age: model overview. The AMEDIA-Model views autobiographical remembering in the digital age as the result of
+the iterative process of combining information stored in the mind (internal autobiographical memory) and information stored in the environment (externally recorded
+information) using high-tech devices and applications. Internal autobiographical memory is organized in a hierarchical structure in which knowledge about general
+events and lifetime periods is built on individual memories that are integrated into life themes and a life story. The way autobiographical memories are constructed
+and reconstructed during retrieval crucially depends on the way the information has been encoded and curated. Autobiographical remembering in the digital age
+is namely not a uniform process but is fundamentally shaped by the kinds of technology and the kinds of data that are being used.
+86     F. HUTMACHER ET AL.
+
+
+Structural Components of the AMEDIA-Model:                          (McLean et al., 2007) as well as in achieving subjective well-
+Internal Autobiographical Memory and Externally                     being (Adler et al., 2016).
+Recorded Information                                                    This also implies that the content and especially the
+                                                                    interpretation of autobiographical memories is not fixed but
+Internal Autobiographical Memory                                    may change, depending on our individual goals as well as
+In short, autobiographical memory can be defined as “self-          the themes that are important at a particular point in our
+referenced memory of personal experiences in the service of         life (Conway, 2005): That is, the currently active goals cru­
+short-term and long-term goals that define identity and             cially shape which new information is encoded, which old
+purpose” (Fivush, 2011, p. 561). This definition contains           information can be retrieved from long-term memory, and
+several important elements. To begin with, it allows distin­        how this retrieved information is interpreted and narrated.
+guishing autobiographical from merely episodic memories.            Arguably, this can create a tension between coherence and
+Episodic memories are memories of specific events that hap­         correspondence (cf. Conway, 2005). On the one hand, indi­
+pened at a specific time at a specific place (Tulving, 1972,        viduals are inclined to make their memories fit in with their
+2002). In addition to the information about the what, where,        current goals and needs (i.e., they strive for coherence
+and when of an event, autobiographical memories also con­           between the different strands of their life story). On the
+tain the awareness of the self having experienced the event         other hand, they need to maintain an accurate record of the
+in the past (i.e., autonoetic consciousness), that is, the          events of their lives in order not to run into conflicts with
+notion that the person who is remembering the event now             reality (i.e., there needs to be sufficient correspondence
+                                                                    between the facts and the way individuals tell their lives). As
+is the same as the person who experienced the event in the
+                                                                    these considerations make clear, autobiographical remem­
+past (cf. Nelson & Fivush, 2004). Beside these autobiograph­
+                                                                    bering is a highly constructive and reconstructive process.
+ical memories in a narrower sense, however, individuals
+may also refer to and make use of abstract knowledge about
+their lives (i.e., personal semantics; Renoult et al., 2012)        External Resources for Autobiographical Remembering
+including autobiographical facts (e.g., “My sister’s name is
+Maria”) and self-knowledge (e.g., “I am an open-minded              In the process of constructing and reconstructing memories,
+                                                                    humans make use of external resources or external memory
+person”) when engaging in autobiographical remembering.
+                                                                    aids. This is not an invention of the digital age. Quite the
+In any case, autobiographical memories perform several
+                                                                    contrary, humans have created external records to support
+important functions in everyday life (Bluck et al., 2005):
+                                                                    remembering for thousands of years, ranging from oral tradi­
+They can help us to learn from our past, that is, they can
+                                                                    tions and cave paintings to archives, monuments, bodily prac­
+help to guide our future thinking and behavior and to avoid
+                                                                    tices, and printed books (cf. Donald, 1991, 2001; for a more
+repeating the mistakes of the past (directive function). They
+                                                                    recent overview, see Heersmink, in press). When such techni­
+support developing and maintaining social relations with
+                                                                    ques are used by groups or societies, one commonly speaks
+others by providing material for conversations, giving us the
+                                                                    of cultural memory (Assmann, 2012; Wertsch & Roediger,
+opportunity to empathize with each other and to arrive at a
+                                                                    2008). In the context of the AMEDIA-Model, however, we
+better understanding of the other person (social function).         are mainly concerned with the ways individuals use external
+Finally, they help us to maintain a sense of continuity of          resources to store information and to (re-)construct autobio­
+our self (self function).                                           graphical memories. In doing so, we follow the taxonomy
+    Importantly, autobiographical memories do not exist in          proposed by Finley et al. (2018) who suggest to distinguish
+isolation but are integrated into larger and hierarchically         between social, low-tech and high-tech external resources (for
+structured units. More specifically, autobiographical memories      a different taxonomy, see Sutton, 2015). Social resources for
+can often be condensed into general events, which are related       autobiographical remembering are other individuals who also
+to certain lifetime periods, which are in turn related to per­      have memories of a certain event or period of time.
+sonally important themes (Conway & Pleydell-Pearce, 2000;           Sometimes, this is also referred to as transactive memory
+Conway, 2005). For instance, someone who is remembering             (Wegner et al., 1985; for a review, see, e.g., Huebner, 2016;
+their past relationships (i.e., a particular autobiographical       Peltokorpi, 2008). When trying to remember the last summer
+theme) may think about the high school years (i.e., a particu­      vacation, for example, you may decide to talk to the people
+lar lifetime period) and the things the person was typically        with whom you spent this vacation. As each individual
+doing when going on a date with their first great love (i.e.,       remembers certain aspects or details that the other individuals
+knowledge about a general event). On the highest level of           do not remember, the combination of the individual memo­
+abstraction, autobiographical memories can be woven into a          ries in a joint communicative effort can help to create a more
+life story. This life story, which typically begins to emerge in    complete, more detailed, and more diverse memory of the
+late adolescence (Habermas & Bluck, 2000; Habermas &                things that happened during the vacation. In other words, the
+Reese, 2015), helps us develop a narrative identity that con­       shared memory of the last summer vacation is the result of
+nects our past to our present (McAdams & McLean, 2013;              the memories of individuals working in concert. As a result
+McAdams & Olson, 2010; Singer, 2004). In other words, cre­          of the social interaction, this shared memory may have prop­
+ating a life story provides stability to our existence and there­   erties that were not already contained in the individual mem­
+fore plays a central role in the development of the self            ories. Importantly, transactive memory systems can also be
+                                                                                    AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE                  87
+
+
+used intentionally by deciding who will try to remember what       the encoded information can be neglected when trying to
+(e.g., based on the individuals’ expertise). When preparing a      understand autobiographical memory in the digital age,
+vacation, for instance, one person may be responsible for          especially because the way information is encoded and cura­
+memorizing information about certain sights, while another         ted may have effects on the way this information is later
+person takes care of more practical aspects (e.g., remembering     retrieved and used. Moreover, it can be assumed that cur­
+how to get from the hotel to the train station).                   rent life goals and themes not only influence to which
+    In contrast to socially based memory aids, both low-tech       aspects of our environment we direct our attention and
+and high-tech external resources refer to “information stored      which aspects we will try to preserve for later (encoding),
+in the inanimate environment” (Finley et al., 2018, p. 5):         but also which of the stored information we find important
+While low-tech external resources do not require a power           or worth exploring in detail (curating), as well as how and
+source to operate (e.g., paper, printed photos, material           when we will try to remember what kind of aspect of our
+objects), high-tech external resources do (e.g., smartphone,       personal past (retrieval; cf. Conway, 2005). When analyzing
+computer). Sometimes, high-tech external resources are also        and integrating the existing theoretical and empirical evi­
+described as electronic memory or E-memory (Clowes, 2013;          dence in the following section, we consequently devote the
+see also Bell & Gemmell, 2009). Against the background of          first two subsections to encoding and curation before pro­
+these theoretical distinctions, asking how autobiographical        ceeding with the different processes of retrieving. Note that
+memory might change in the digital age means trying to             research regarding autobiographical memory in the digital
+understand how high-tech external resources shape (re-)con­        age is still relatively limited, which is why we will sometimes
+structing autobiographical memories. From our point of             provide informed speculations and sketch avenues for future
+view, two aspects need emphasis here. First, “high-tech            research rather than offer empirically substantiated answers.
+external resources” is a very broad umbrella term encom­
+passing applications that are in fact not that different from      Encoding
+their low-tech counterparts (e.g., an app for taking notes
+versus taking handwritten notes on a piece of paper) as well       Encoding autobiographical information is always a matter of
+as applications that did not exist prior to the digital age and    selection.1 This applies to both internally and externally
+that clearly represent a new technological development (e.g.,      encoding. As far as internal autobiographical memory is
+social media, automatic location tracking). Put differently,       concerned, it is well known, for instance, that emotional
+taking different types of technology into account when ana­        events are preferentially encoded compared to neutral events
+lyzing autobiographical memory in the digital age seems to         (Ochsner, 2000; Qasim et al., 2023) and that information on
+be an important precondition for arriving at meaningful            which we decide to focus our attention (e.g., because we
+conclusions. This is also why we will organize our theoret­        find it important) will be remembered better (Aly & Turk-
+ical integration of findings along several dimensions that         Browne, 2017; Driver, 2001). Although one might initially
+might play an important role in this context. Second, using        assume that the same applies to externally recorded infor­
+the term “high-tech external resources”, however, to desig­        mation in the sense that individuals will encode more exter­
+nate what is new in the digital age seems justified, as most,      nal information about important and emotional events, the
+if not all, of these resources share certain characteristics and   situation is actually more complex: While internal autobio­
+affordances (cf. Gibson, 1979): First, they contribute to          graphical memories are inextricably bound to the cognitive
+increasing the density of recorded life episodes (e.g., because    architecture of our minds and brains, individuals have much
+they have overcome previous recording and storage limits           more degrees of freedom regarding the way they encode
+and because they enable the automatic tracking of informa­         information in external resources. In the following, we con­
+tion); second, they lead to a searchable database (because         sider some crucial distinctions that might have an impact on
+the recorded data is available in a digital format); third, this   autobiographical remembering in the digital age.
+digital database consists of a combination of different media
+sources (e.g., photos, videos, audio recordings, text, quantita­   Type of External Resource—Digital Substitutes Versus
+tive parameters); and fourth, this database can often be           Innovative Tools
+accessed anywhere at any time (e.g., because it is stored one      As already mentioned, we assume that all high-tech external
+one’s smartphone or in a cloud system).                            resources share certain characteristics insofar as they tend to
+                                                                   increase the density of recorded life episodes and contribute
+Process Components of the AMEDIA-Model:                            to creating a searchable database consisting of a combination
+Encoding, Curating, Retrieving                                     of different media sources that can often be accessed any­
+                                                                   where at any time. Despite these commonalities, not all high-
+When speaking about the process of constructing and recon­         tech external resources are alike: We suggest sorting the
+structing autobiographical memories in the digital age, it is
+helpful to distinguish between three steps: encoding, curat­       1
+                                                                    This even applies in case individuals should decide to continuously record
+ing, and retrieving. Although the example that we introduced       certain information about their lives (e.g., by using a video camera or by
+to illustrate the main ideas of our AMEDIA-Model mainly            tracking their heart rate and location 24/7): Recording absolutely everything is
+                                                                   virtually impossible as this would require recording the entire
+focused on the way information is retrieved, neither the           multidimensionality of our lives (including thoughts and feelings) in every
+encoding stage nor the processes of organizing and curating        single moment.
+88      F. HUTMACHER ET AL.
+
+
+available high-tech external resources along a dimension that        self movement (Lupton, 2016; Selke, 2016). Quantitative data
+ranges from digital substitutes to innovative tools. In the case     that can be recorded using smartphones and wearables (e.g.,
+of a digital substitute, an already existing low-tech tool is sim­   smartwatches, activity trackers, smartglasses) include health
+ply replaced by its digital counterpart. In contrast, innovative     data (e.g., heart rate, sleep cycle, blood pressure) and various
+tools did not exist prior to the digital age, offer a wide range     activity parameters (e.g., steps walked, calories burned; for a
+of new possibilities, and come with new affordances (cf.             review, see Ribeiro et al., 2022). Although quantitative data
+Gibson, 1979). To get a better understanding of this con­            can also be used to document one’s life and to reflect upon
+tinuum, let us consider three examples. First, taking notes in       long-term trends and developments as well as personal prior­
+an app instead of taking notes on a piece of paper: This could       ities and aspirations (Trace & Zhang, 2019), the primary goal
+be seen as the classic case of a digital substitute. However,        of lifelogging usually seems to be the identification of behav­
+even this digital substitute should not be considered a digital      ioral patterns that are used for improving the quality of one’s
+equivalent in the strictest sense of the word as the high-tech       life (for a review, see Kersten-van Dijk et al., 2017).
+version of taking notes differs from the low-tech version with       Obtaining meaningful quantitative data has proven difficult as
+respect to the dimensions described above. Second, smart­            individuals tend to track too many aspects of their lives while
+phone cameras—which could be considered to be located                forgetting to record relevant contexts and triggers that could
+somewhere in the middle between digital substitutes and              help analyzing the data later (Choe et al., 2014).
+innovative tools—do not only surpass traditional cameras                 While quantitative data offer a rather formal and—at least
+because they have overcome previous storage limits and are           seemingly—objective perspective on an individual’s life, it
+arguably more convenient to use, but also because digital            should not be forgotten that even quantitative data never
+photos can easily be modified (e.g., through applying filters),      speak for themselves but need to be interpreted. When a
+contain a wide range of metadata (e.g., information about            wearable indicates a significant reduction in one’s daily activ­
+when and where the photo was taken), and have transformed            ities, for instance, this may have various reasons ranging
+the photo-taking practices of individuals, most notably by           from physical health issues (e.g., being sick, having had an
+leading to the wide-spread adoption of selfies (cf. Dinhopl &        accident) to psychological problems (e.g., depression) and
+Gretzel, 2016). Third, social media and the internet allow           problems with the software (e.g., having forgotten to enable
+sharing information about one’s life with a broader audience,        the tracking). Despite the need to contextualize quantitative
+which sets them apart from some of the other high-tech               data, qualitative data give users even more room for inter­
+resources (cf. Stone & Zwolinski, 2022). Notably, the conse­         pretation and for reconstructing past events (Elsden, Kirk,
+quences of using these tools for autobiographical remember­          et al., 2016), arguably because they provide richer and more
+ing are likely to depend on the characteristics of the specific      diverse information about autobiographical events, including
+platform. For instance, people who write a blog on a personal        perceptual details (e.g., in the case of photos and videos) and
+web page (“macroblogging”) usually reflect upon specific             insights into one’s thoughts and motivations (e.g., in the case
+aspects of their lives that they have chosen for self-presenta­      of text entries in a diary). Notably, the immersive potential of
+tion, often trying to tell a coherent story; in contrast, posting    qualitative information may reach unprecedented levels using
+about one’s whereabouts on social media (“microblogging”)            virtual reality environments that can simulate the multimo­
+relies much less on narrative integration but rather focuses         dality and vividness of real-life experiences (Kisker et al.,
+instead on immediate sharing with others, nevertheless leav­         2021; Sch€ one et al., 2019). Indeed, there is at least some pre­
+ing a more or less permanent digital trace (Wang, 2013,              liminary evidence that recalling positive autobiographical
+2021). These three examples already make it clear that the           events in a virtual reality setting that reinstates the environ­
+way an individual remembers autobiographical events in the
+                                                                     ment of the original event can have positive effects on affect
+digital age may crucially depend on the kind of external
+                                                                     and emotion regulation (Fernandez-Alvarez et al., 2021).
+resource being used and the kind of data being recorded; that
+                                                                         Of course, individual users of digital technologies can
+is, researchers investigating autobiographical remembering in
+                                                                     combine quantitative and qualitative data (e.g., by adding
+the digital age will have to be explicit about the specific con­
+                                                                     text and photos to the tracked itinerary of one’s last summer
+text and technology they are dealing with. Note also that
+                                                                     vacation) to acquire a more nuanced picture of their past. In
+what counts as an innovative tool may change over time as
+                                                                     previous research, there have been at least some attempts to
+new technologies emerge. In the following subsections, we
+                                                                     combine qualitative and quantitative data: For example,
+consider at least some of the potential dimensions that might
+                                                                     location information and sudden changes in heart rate were
+be important for making further distinctions among the dif­
+                                                                     connected to images that were taken using a wearable cam­
+ferent high-tech external resources.
+                                                                     era (Wang & Tanaka, 2019; see also Bermejo et al., 2020).
+                                                                     Further investigating the effects of such combinations of
+Type of Data—Qualitative Versus Quantitative                         qualitative and quantitative data seems particularly impor­
+Regarding the type of data that individuals record, we pro­          tant, as different kinds of data may later support different
+pose to distinguish between quantitative (e.g., location track­      kinds of memory processes. In this context, one study found
+ing, sleep patterns, mood ratings) and qualitative (e.g., text,      that visual (i.e., qualitative) information is best suited for
+photos, audio recordings) data. Strategies for collecting quan­      enabling detailed recollection, while locational (i.e., quantita­
+titative data about oneself are often referred to as lifelogging     tive) information is more useful for reconstructing habits
+techniques and are sometimes associated with the quantified          and behavioral patterns (Kalnikait_e et al., 2010).
+                                                                                 AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE     89
+
+
+The Individual’s Role—Active Versus Passive                           Taken together, this suggests that intentionally encoding
+Another important distinction in the context of encoding           information in external resources for later retrieval is an
+information in the digital age concerns the role of the indi­      effortful process that requires attention (cf. Marsh &
+vidual: Individuals can either actively record certain bits of     Rajaram, 2019). Recent studies suggest that individuals are
+information (e.g., by taking a picture or writing text) or use     willing to engage in this effortful process when they expect
+passive recording (e.g., by allowing their phone to track their    that the recorded information will serve one of the functions
+sleep cycle automatically). In this context, it has been argued    of autobiographical memory described above (Stone et al.,
+that manually taken photos already have a meaning when             2022; see also Broekhuijsen et al., 2017; Choe et al., 2014;
+being taken (because individuals usually have reasons for          Elsden, Durrant, et al., 2016; Finley et al., 2018; Soares &
+taking them); in contrast, automatically recorded photos           Storm, 2022). Individuals thus intentionally encode personal
+taken with lifelogging cameras such as SenseCam or                 information in high-tech external resources because they
+Narrative Clip appear more random and only acquire mean­           assume that it will help them to express themselves and to
+ing insofar as they offer access to aspects of one’s life that     account for their lives (self function), because it provides a
+one would otherwise not think about (Lee & Ryu, 2020; see          basis for sharing their memories with others and for creat­
+also Niforatos et al., 2017). In addition to the automatic         ing a legacy (social function), and because it potentially sup­
+tracking of information using technical devices, passive           ports them in their goal to learn for the future (directive
+recording can also refer to information recorded by others         function).
+(e.g., pictures a friend has taken at a birthday party and            Notably, however, much of the information that individu­
+shared later). In this regard, it has been proposed that           als store in high-tech external resources and that can be
+actively recorded information will feel more familiar to the       used for reconstructing one’s past is recorded incidentally,
+individual than information recorded by another person,            that is, without the intention of creating a permanent arch­
+which also implies that this actively recorded information         ive that can be consulted later. For instance, the primary
+will be easier to retrieve and to interpret (Finley et al.,        purpose of instant messaging services such as WhatsApp is
+2018). However, this assumption still needs to be tested           to have conversations with other people. In a similar vein,
+empirically.                                                       posting on social media is often not so much driven by
+                                                                   mnemonic goals but rather by social motivations (e.g.,
+                                                                   informing others about one’s experiences; cf. Stone et al.,
+Purpose of Encoding—Intentional Versus Incidental                  2022). However, the records of instant messaging conversa­
+Encoding of personal information can be intentional in the         tions as well as one’s posts on social media can also be used
+sense that a certain bit of information is encoded using an        to reflect upon past events or to bring about memories.
+external resource in order to be remembered later (e.g.,           Note also that the distinction between intentionally and inci­
+when using a smart journal). An early suggestion how to            dentally encoded information can be combined with the pre­
+understand the intentional encoding of information in exter­       viously discussed dimension of active versus passive
+nal resources comes from Esser (1996; see also Sch€     onpflug    encoding. While writing a diary entry or recording a live
+& Esser, 1995), who suggests that the decision to record or        concert to document one’s experiences and to be able to
+not to record information in an external store depends on          review them later is both active and intentional, sharing
+three factors. First, the importance of recall: The more           photos or videos on social media hoping to get likes and fol­
+important it seems to a person in the moment of experience         lowers is active but incidental in the sense that the informa­
+to recall this experience at a later point in time, the more       tion is not posted for memory purposes. In contrast,
+likely they will rely on an external resource. Although the        automatic location tracking is always passive. Depending on
+importance of recall is assumed to be the most important           whether it is primarily enabled for later review (e.g., to
+criterion (see also Sch€     onpflug, 1986b), considerations       remember one’s whereabouts) or rather to get feedback
+regarding the effort of storing (i.e., “How much effort does it    regarding one’s fitness level, however, it can either be inten­
+cost me to store this information in an external store?”) and      tional or incidental. To our knowledge, the differential
+the probability of recall (i.e., “How likely will I be able to     impact of these different motivations for encoding autobio­
+retrieve the desired information when using the external           graphical events on later retrieval has not been investigated
+store?”) also play an important role. When encountering a          so far.
+new or unknown situation, individuals will use these three
+factors to determine the kind of information they want to
+store and the kind of external resource they want to use for       Intended Audience—Public Versus Private
+doing so. However, individuals also establish habits regard­       The information stored using high-tech external resources
+ing the kind of information they want to encode for reoc­          can either be kept private (i.e., the information is encoded
+curring situations (e.g., documenting one’s summer                 for oneself and not accessible to others) or made publicly
+vacation) based on their previous experiences. Creating such       available (e.g., by sharing them on social media). Arguably,
+representational scripts (cf. Esser, 1996) reduces cognitive       publicly and privately stored information differ in several
+load, as it frees the individual from the necessity to evaluate    crucial respects. First, publicly shared information is often
+the appropriateness of a given external store for known sit­       optimized for self-presentation and consequently more
+uations. Moreover, it may also facilitate later recall, as indi­   selective (Marsh & Rajaram, 2019). Second, the fact that the
+viduals will know where to look for the stored information.        information shared online tends to be curated more
+90     F. HUTMACHER ET AL.
+
+
+carefully, which also includes reflecting about an event’s          AMEDIA-Model, we have replaced the term “storage” with
+meaning as well as its key components, leads to a better            the term “curation” to designate that externally recorded
+internal memory for these events compared to information            information is not necessarily simply kept in a (digital) stor­
+that is not shared (Johnson & Morley, 2021; Wang et al.,            age space (such as one’s hard drive, smartphone, or social
+2017; see also Stone & Wang, 2019). Third, public and pri­          media profile) until it is used for retrieval but that the
+vate encoding seem to accentuate different functions of             material can be changed, rearranged, and reorganized. In
+autobiographical memory: In the case of publicly shared             fact, it has repeatedly been demonstrated that the captured
+information, the social function is particularly prominent,         data need to be curated in order to become meaningful
+while information that is kept private more strongly serves         (Banks, 2011; van den Hoven et al., 2012). In other words,
+self-reflection and learning from past experiences (Stone           while it is commonly accepted that the retrieval of autobio­
+et al., 2022; see also Hou et al., 2022). Interestingly, this can   graphical memories is a reconstructive process, we addition­
+also lead to conflicts: When individuals aim at using a social      ally emphasize that storing externally recorded information
+networking site such as Facebook, which is optimized for            is not necessarily passive but can be deeply reconstructive as
+public self-presentation, also for creating a personal archives     well. As we see it, acknowledging the dynamic nature of the
+of their lives, they may struggle to balance these different        curation process is essential for understanding autobiograph­
+purposes (Zhao et al., 2013).                                       ical remembering in the digital age.
+
+
+Summary and Future Directions                                       Degree of Curation—From No Curation to Active Curation
+In the above subsections, we have reviewed the existing evi­        Broadly speaking, there are two ways of dealing with infor­
+dence regarding several dimensions that play an important           mation that has been encoded and stored in high-tech exter­
+role for understanding the encoding of autobiographical             nal resources: It can be kept as an unorganized
+information using high-tech external resources. As it seems,        accumulation of various kinds of data—or it can be curated
+digital technologies indeed have the potential to shift the         (e.g., by rearranging, structuring, and integrating the
+avenues available for encoding memories and to change the           recorded content). In previous research, it has been argued
+tone and texture of the encoded information. More specific­         that active curation is preferable to no curation from the
+ally, it has become clear that a uniform process of autobio­        standpoint of autobiographical remembering because
+graphical remembering in the digital age does not exist: The        unorganized collections of an abundance of data make find­
+kind of high-tech external resource that individuals use and        ing relevant information more complicated and because
+the kind of data that they record will shape how the                meaning-making requires prioritizing some aspects of one’s
+encoded events will be reconstructed later on. To give but          life over others (Kalnikait_e et al., 2010; Sas & Whittaker,
+one example, qualitative information that has been actively         2013; Whittaker et al., 2012). Interestingly, however, active
+encoded and publicly shared (e.g., Instagram stories) may           curation seems to be used less frequently than one might
+contribute to autobiographical remembering in entirely dif­         intuitively assume given its importance for later remember­
+ferent manner than quantitative information that has been           ing. This not only refers to incidentally encoded information
+passively encoded and kept private (e.g., running statistics,       (such as WhatsApp conversations) but also to information
+data collected by wearables). This has important implica­           that is encoded actively and intentionally: Many of the pho­
+tions for researchers: Given the lack of empirical studies          tos that individuals take are never looked at again, slowly
+regarding many of the aspects covered in this section, it           being forgotten on old smartphones and hard drives
+seems desirable to design such empirical studies that allow         (Whittaker et al., 2010). Of course, sometimes some degree
+for contrasting the different dimensions and their combina­         of curation is already achieved through encoding; that is,
+tions as well as taking into account the different affordances      individuals purposefully decide which photos to take or
+of different platforms. Note also that the dimensions pre­          what to post on social media, automatically limiting the
+sented here do not provide an exhaustive list. For instance,        kind of data that can be used later for reconstructing past
+the specific context of encoding (e.g., recording information       memories (cf. Zhao et al., 2013). Nevertheless, the question
+in a private setting versus in a work environment) or the           of how to curate the vast amounts of data that each individ­
+effects of encoding on the event that is being encoded could        ual almost automatically produces in the digital age remains
+also be taken into account. Regarding the latter, it has been       pressing (cf. Dang-Nguyen et al., 2018).
+demonstrated that taking photos can increase the enjoyment
+of an event but less likely so when the photo-taking creates        Type of Curation—Human Versus Algorithmic Curation
+interference or the event is already highly enjoyable (Diehl        There are many curatorial practices in which individuals
+et al., 2016; Nardini et al, 2019).                                 might engage to organize their externally recorded informa­
+                                                                    tion, such as changing the names of data files, putting
+                                                                    related data files in a common folder, and adding tags or
+Curation
+                                                                    keywords so that the information can be retrieved more eas­
+When describing the process of (autobiographical) remem­            ily. Again, the available curatorial practices are likely to
+bering, memory models usually distinguish between the               depend on the kind of tool and the kind of data individuals
+three stages of encoding, storage, and retrieval. In our            have stored. Here, we consider three exemplary curatorial
+                                                                                 AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE     91
+
+
+practices regarding which there is at least some preliminary       listening trends (such as their favorite songs; Perez, 2021)
+evidence. First, individuals may decide to enhance and             and Reddit summarizes the users’ activities using statistics at
+change recorded content, for instance by adding filters to         the end of the year (Malik, 2021a). However, algorithmic
+photos. There may be various motivations for doing so,             curation is not without challenges. For instance, it has been
+ranging from improving self-presentation and fostering             observed that those criteria that individuals find most
+social interactions to enjoyment and playful exploration           important when manually selecting photos (such as personal
+(Javornik et al., 2022). Importantly, enhancing and changing       relevance or a high probability to evoke memories) are pre­
+recorded content is not restricted to photos but may also          cisely the criteria that are difficult to evaluate and predict
+include rewriting diary entries (e.g., because one’s evaluation    for an algorithm (Ceroni et al., 2015; see also Kuzovkin
+of a past event changed in the light of new information) or        et al., 2019). In addition, one may wonder under which cir­
+making manual adjustments to one’s running statistics (e.g.,       cumstances algorithmic curation supports and under which
+when assuming that the automatic tracking device made a            circumstances it undermines the meaning-making efforts of
+mistake). Second, sharing information with others can also         the individual. This mirrors the general observation that
+be considered a curatorial practice as it involves selecting       personalization in digital environments often comes as a
+the information that an individual wants to present and as it      double-edged sword: It can help us dealing with the abun­
+invites others to join the curatorial process by liking the        dance of available data but can potentially also threaten the
+shared content or by commenting on it (cf. Stone &                 freedom and autonomy of the individual (Hutmacher &
+Zwolinski, 2022). Again, the motivations behind sharing            Appel, 2023).
+information with others may be manifold (Stone et al.,
+2022): While experiences may be shared for purposes related
+to the self and memory (self function; e.g., documenting           Summary and Future Directions
+autobiographical events, recording thoughts and feelings) or       Although there seems to be some consensus that curation is
+to achieve a certain directive goal (directive function; e.g.,     better than no curation when it comes to supporting auto­
+sharing useful information, influencing the way other people       biographical remembering, many open questions remain.
+think), for instance, the most prominent motivation behind         For instance, one may ask which individual differences dis­
+sharing autobiographical information online seems to be            tinguish those individuals who decide to curate their data
+related to social goals (social function; e.g., staying in touch   from those who do not or whether there are certain kinds
+with friends, feeling close to others). Third, individuals may     of life events that serve as triggers for individuals to start
+decide to delete recorded content, for instance, because a         curating the data. For instance, why are some individuals
+certain offloading goal has been completed (e.g., one has          very selective about the content that they share with their
+ordered the product of which one had taken a photo) or             personal environment while others share seemingly every
+because one does not find the content esthetically pleasing        mundane aspect of their lives—and what consequences does
+enough (Soares, 2023). Interestingly, it has been shown that       this have for the way they remember past events later?
+individuals can intentionally forget and suppress autobio­         Moreover, it would be interesting to know what kind of cur­
+graphical memories (Barnier et al., 2007; Joslyn & Oakes,          ation strategies individuals use for what purposes—and
+2005; Noreen & MacLeod, 2013). Transferring this finding           whether the chosen strategies are as useful as anticipated
+to externally recorded information, one might assume that          when trying to remember the events later. In line with this,
+individuals will also delete content that they do not want to      one could investigate whether the applied curation strategies
+be reminded of (e.g., photos or messages from an ex-part­          change depending on the motivations, goals, and themes
+ner). Indeed, deleting relationship-related photos seems to        that are currently salient in the life of the individual.
+reduce the distress experienced after a breakup (McDaniel          Similarly, understanding the impact of social factors (e.g.,
+et al., 2021). Of course, more research is needed to system­       the way others in one’s personal environment curate their
+atize these and related curatorial practices and their effects     data, norms about what is considered an appropriate degree
+on remembering.                                                    of curation) on the curation strategies individuals use, is an
+    As actively curating the encoded information about one’s       important avenue for future research. Apart from this and
+life is an effortful process and as many individuals seem to       as already discussed above, understanding the potential
+avoid making this effort, it has been suggested that curation      opportunities and risks associated with using algorithmic
+could be delegated to software (i.e., algorithmic curation)        curation require thorough investigation.
+that would identify patterns within the data and reorganize
+them in a meaningful way (Dobbins et al., 2014; Teraoka,
+                                                                   Retrieval
+2012). To a certain degree, such tools are already in use (cf.
+Jacobsen, 2020). For instance, many smartphones can auto­          The dynamic interaction between the individual and the
+matically sort one’s photos in folders based on location and       available external sources that lies at the heart of our
+date information—and social media platforms such as                AMEDIA-Model is arguably most pronounced at the
+Facebook, Instagram, and Snapchat offer their users person­        retrieval stage. Here, internally and externally recorded
+alized year-end stories containing the supposed highlights of      information is finally combined to bring about autobio­
+last year (Malik, 2021b; see also Holloway & Green, 2017).         graphical remembering. In theory and empirical research,
+In a similar vein, Spotify presents users music and podcast        retrieving autobiographical memories is often equated with
+92     F. HUTMACHER ET AL.
+
+
+the amount of recalled information (i.e., How many auto­            reminiscing about one’s recent past and is—as mentioned
+biographical events do individuals remember in how much             above—already used by several social media platforms in com­
+detail?). However, merely asking whether and, if so, how the        bination with algorithmic curation (Jacobsen, 2020; see also
+amount of retrievable autobiographical information changes          Brewer et al., 2017), it is also faced with several challenges.
+when using high-tech devices and applications seems inad­           First, the algorithms not only help individuals to remember,
+equate: The transformations of autobiographical remember­           but “narrate” themselves; that is, the way they remind individ­
+ing in the digital age may also pertain to processes such as        uals of past events potentially shapes the way these individuals
+reflection (i.e., How do individuals think about their lives?),     remember them and ultimately also the way they construct
+narration (i.e., How do individuals tell their life stories?),      their life narratives (Jacobsen, 2022a). Second, timing matters:
+and rumination (i.e., To what degree do individuals tend to         If the reminders are not presented at the right moment (e.g.,
+perseverative cognition circling around negative events and         in a situation in which one is absolutely not willing to think
+emotions?). In other words, using high-tech devices and             about one’s past; Jacobsen, 2022b; see also Bucher, 2020) or
+applications may not only change what individuals remem­            bring back memories that one would have preferred not to be
+ber about their past but also how they remember their past.         reminded of (e.g., the death of a loved one; Lambert et al.,
+Before reviewing some of the effects observed in studies            2018), triggered remembering can create confusion and lead
+from recent years that help to illuminate these different           to negative emotions. Third, it should however be noted that
+processes, we will briefly consider the circumstances under         the effects of triggering memories are not fixed (Jacobsen,
+which autobiographical remembering might take place.                2020): Ultimately, it is the individual who decides how to deal
+                                                                    with algorithmic reminders and what to make of them. Even
+                                                                    if one prefers to ignore a certain trigger because one finds it
+Mode of Remembering: Intentional, Incidental, and                   inappropriate, for example, one may still use the trigger as an
+Triggered                                                           inspiration to go through other recorded content. Once more,
+Briefly put, autobiographical remembering based on the infor­       this illustrates that autobiographical remembering in the
+mation that has been stored in high-tech external resources         digital age can be viewed as the result of the iterative process
+can be intentional, incidental, or triggered. Autobiographical      of combining information stored in the mind and information
+remembering is intentional or voluntary when individuals            stored in the environment using high-tech devices and appli­
+access the stored information in order to remember a certain        cations as postulated in our AMEDIA-Model.
+event or period of life. As research has shown (Rasmussen &
+Berntsen, 2011; see also Bluck et al., 2005), intentionally
+remembering autobiographical events can be driven by a wide         Memory Processes
+range of different goals and motivations, such as, regulating       Recollection. Recollection denotes remembering past events
+one’s emotions (self function), wanting to solve a certain prob­    in detail (cf. Sellen & Whittaker, 2010). Most studies that
+lem (directive function), or sharing information with others        have investigated the effects of high-tech external resources
+(social function). When remembering is intentional, this does       on recollection focused on the impact of reviewing photos
+not imply that the end of the entire process is already prede­      (see, e.g., Finley et al., 2011; Mair et al., 2017; Martin et al.,
+termined: As we hypothesize in our AMEDIA-Model, individ­           2022; for reviews, see Foley, 2020; Silva et al., 2018).
+uals may stumble upon information that they did not expect,         Generally speaking, these studies indicate that having access
+leading the remembering process in unforeseen directions.           to photos documenting one’s life can help to reconstruct
+However, remembering does not have to be planned but can            past experiences that are not accessible in unaided recall.
+also be incidental or unvoluntary: For example, individuals         Importantly, these findings are in line with the results
+may browse the externally recorded information for purposes         obtained when looking at the effects of note-taking (Schryer
+unrelated to autobiographical remembering (e.g., in order to        & Ross, 2013) as well as the subjective perceptions of users
+find a document that a colleague sent some time ago) but            of smart journaling apps (Hutmacher et al., 2023). In sum,
+stumble upon something that makes them engage in remem­             this suggests that using high-tech external resources can
+bering. Such occasions are more frequent than one might             augment human memory and can make it easier to avoid
+intuitively think and can occur up to several times a day           everyday memory failures (cf. Harvey et al., 2016).
+(Berntsen, 2021; see also Rasmussen & Berntsen, 2011).
+Moreover, people seem to enjoy rediscovering records of their       Reminiscing. Engaging with externally recorded information
+past experiences; interestingly, this not only applies to special   does not necessarily have to be aimed at recollecting past
+and extraordinary experiences but also to mundane everyday          experiences or life periods in the greatest possible detail.
+ones that may otherwise have been forgotten (Zhang et al.,          Sometimes one may want to think back to past events for
+2014). Crucially, algorithmic curation offers a third mode of       sentimental and emotional reasons, that is, with the inten­
+autobiographical remembering, which we term triggered               tion to delve into one’s memories. This is called reminiscing
+remembering. In this case, it is not the individual who ini­        (cf. Sellen & Whittaker, 2010). It has been observed that
+tiates the remembering process but a software tool (“Look           individuals engage in reminiscing when browsing through
+what you posted on our platform three years ago!”); at the          their social media profiles and the photos stored on their
+same time, the trigger is not incidental as it was designed to      smartphones (Cosley et al., 2012; van Gennip et al., 2015).
+induce remembering. Although algorithmically triggered auto­        However, quantitative data can also serve as a starting point
+biographical remembering can be a welcome opportunity for           for reminiscing, especially when they have been visualized in
+                                                                                  AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE     93
+
+
+the form of maps or charts (Thudt et al., 2016).                    automatically listed in chronological order, which could pro­
+Interestingly, there is at least some preliminary evidence          vide at least a rudimentary framework for developing a life
+(from vignette studies) indicating that individuals prefer          narrative (Habermas & Reese, 2015). Nevertheless, more
+technology-mediated to unmediated reminiscing (Uhde &               research is needed to disentangle these potential advantages
+Hassenzahl, 2022). Nevertheless, the boundary conditions of         and disadvantages.
+such positive effects remain to be determined.
+                                                                    Rumination and Forgetting. Despite the positive effects that
+Reflection and Narration. Engaging with externally stored           possessing a detailed digital record of one’s life might have,
+information can go beyond retrieving factual information: It        there are also potential downsides (cf. Hutmacher et al.,
+can contribute to reflecting and narrating one’s life in the        2023). For instance, thinking about one’s past does not
+sense that individuals use the recorded information as a            necessarily have to be an enriching experience—as described
+vehicle to think about their desires, emotions, beliefs, or         in the previous section—but can also lead to rumination,
+goals and to engage in autobiographical reasoning, that is,         that is, to perseverative cognition circling around negative
+to place autobiographical events in a broader life story (cf.       events and emotions (Eikey et al., 2021). Just as likes and
+Grysman et al., 2024; Pasupathi & Wainryb, 2010). In other          positive comments from others might spark important
+words, reviewing old social media posts, photos stored on           meaning-making processes, a lack of likes as well as receiv­
+the smartphone, entries in one’s smart journal, or quantified       ing negative feedback might undermine efforts of narrative
+lifelogging data may support individuals in understanding           self-exploration. One additional concern that is also dis­
+their personal past and in creating a unique perspective that       cussed in the literature is the idea that the increased density
+integrates thoughts and feelings about positive as well as          of recorded life events could undermine the adaptive func­
+negative life events (Crete-Nishihata et al., 2012; Elsden,         tion of forgetting (Heersmink, 2017; Heersmink & Carter,
+Durrant, et al., 2016; Elsden, Kirk, et al., 2016; Fawns, 2020;     2020; Koops, 2011; Jacquemard et al., 2014; Mayer-
+Isaacs et al., 2013; Lee & Ryu, 2020). Ultimately, this can         Sch€onberger, 2009; Storm & Soares, in press; van House &
+lead individuals to change their views about themselves             Churchill, 2008). For this problem to occur, the information
+(DeVito et al., 2017) and maybe even to modify their behav­         stored in high-tech external resources needs to be perman­
+ior (Isaacs et al., 2013; Kersten-van Dijk et al., 2017). In line   ent and non-editable. Otherwise, individuals could just
+with our AMEDIA-Model, it has been pointed out that the             delete the content that they no longer want to be confronted
+recorded data do not present an authoritative version of            with. Although the decision which information to encode
+one’s past and that individuals are aware of this (Elsden,          and which information to keep at least partially lies in the
+Kirk, et al., 2016): Individuals know that the recorded data        hands of the users, there certainly is externally recorded
+need to be contextualized and interpreted and, consequently,        information that is permanent (“The Internet never for­
+negotiate the meaning of past events between their own              gets”), such as information that others have shared about
+internal accounts of what has happened and the externally           oneself on social media (cf. Eichhorn, 2019). Moreover,
+stored information. Importantly, it has repeatedly been             there is evidence indicating that the mere presence of a
+emphasized that the processes of narrating one’s life and           digital record does not disrupt memory processes that help
+reasoning about autobiographical events are deeply social in        individuals to uphold a positive self-image (Konrad et al.,
+nature and often take place in conversations (Grysman               2016).
+et al., 2024; Nelson & Fivush, 2004; Pasupathi & Wainryb,
+2010). How such conversations may change in the digital             Summary and Future Directions. The existing literature pro­
+age when high-tech devices and applications are used is             vides compelling evidence that high-tech external resources
+largely uncharted territory. While there may be instances in        can be used and are already used for autobiographical
+which one would probably not expect marked differences              remembering. In line with the predictions made in our
+between low-tech and high-tech devices (e.g., showing some­         AMEDIA-Model, the available data support the idea that the
+one a photo stored on one’s smartphone versus showing               externally recorded digital information does not merely
+someone a printed photo), there are other contexts creating         serve as a cue but is used in an iterative process to stimulate
+new affordances and interactional patterns. To give but one         reflection and narration. Nevertheless, more research is
+example, posting autobiographical information on social             required to capture and analyze the interplay between
+media means sharing this information with other individuals         internal memory and externally recorded information in
+who can like the content and comment on it. To what                 more detail. In particular, this will also require conducting
+degree this can prompt autobiographical reasoning in simi­          more studies that go beyond investigating how using high-
+lar ways to how a face-to-face conversation with a friend           tech external resources changes the amount of retrievable
+can, seems an important question. In this context, it has           information. This may include describing changes to the
+been suggested that the content that individuals share on           process of engaging in autobiographical remembering, the
+social media present brief slices of life that tend to be dis­      tone of the retrieved memories, or the contexts in which
+connected from other events (i.e., that are not necessarily         autobiographical remembering takes place. In this regard,
+integrated into a broader narrative), which could make the          one may ask, for instance, what kind of recorded data is
+establishment of a coherent life story more difficult; at           useful for what kind of memory processes, that is, whether
+the same time, however, social media posts are usually              different kinds of data have different affordances, which
+94      F. HUTMACHER ET AL.
+
+
+may ultimately also influence how individuals reconstruct            mediated human cognition, for conducting research in dif­
+and narrate their lives. To disentangle the effects of different     ferent areas of application, for making normative claims
+technologies (e.g., quantitative data collected by wearables         about the recent developments, and for anticipating the
+versus photos shared on social media versus entries in a             impact that future technological innovations might have on
+smart journal that is kept private), it will be essential to refer   autobiographical remembering.
+back to the dimensions described in the section on
+encoding.
+   The way different digital technologies shape the social and       Varying Degrees of Autobiographical Dependency
+conversational nature of autobiographical remembering and            As summarized above, the AMEDIA-Model is based on the
+autobiographical meaning-making also deservers particular            assumption that internal autobiographical memories and
+attention. As much of technology-mediated autobiographical           external records work in concert to bring about autobio­
+remembering is likely to be either involuntary or triggered,         graphical remembering. Importantly, however, the degree to
+considering how these retrieval contexts serve the self, social,     which autobiographical remembering depends on external
+and directive functions of autobiographical remembering is           records may vary across situations. Indeed, the vacation
+worth exploring. In addition, it would be important to know          example that we used to introduce our AMEDIA-Model
+whether the observed effects go beyond the effects achieved          included different levels of autobiographical dependency
+by other, non-digital external resources (e.g., written paper        (Heersmink, 2020). For some aspects of the vacation, the
+diaries). Given that the available technology allows for record­     autobiographical dependency was low or moderate, in other
+ing information about one’s life with increased density (cf.
+                                                                     words, you were able to remember these aspects in detail or
+Heersmink & Carter, 2020; Kalnikait_e & Whittaker, 2012) as
+                                                                     at least partially without the support of an external resource.
+well as using an unprecedented number of different media
+                                                                     In the case of the few hours that you spent in the nice little
+sources and data formats (cf. Hutmacher et al., 2023; Konrad
+                                                                     town by the sea, however, your autobiographical dependency
+et al., 2016), the digital age could lead to a fundamental
+                                                                     was high. You needed therefore to interact with the pictures
+transformation of autobiographical remembering. At the same
+                                                                     stored on your smartphone in order to remember the event.
+time, the fact that much of the recorded information is never
+                                                                     Taking this logic one step further, one could also imagine
+looked at again and that the sheer amount of data may pre­
+                                                                     instances in which interacting with an external record does
+vent individuals from a meaningful interaction with the
+                                                                     not result in the internal feeling of remembering. In our
+stored content (cf. Dang-Nguyen et al., 2018; Whittaker et al.,
+2010) could also limit the transformative power of modern            example, this would be the case if you scrolled through your
+technologies. As these modern technologies are relatively            vacation pictures and realized that you must have spent
+new, it will be particularly interesting to see how they shape       some hours in a nice little town by the sea without actually
+autobiographical remembering in the long-term, that is, over         remembering you having been there (e.g., you do not
+years and decades.                                                   remember the live band or taking a walk on the beach).
+                                                                        Would it be justified in this case to say that you have an
+                                                                     autobiographical memory of spending a few hours in the
+Discussion                                                           nice little town by the sea, an external albeit not an internal
+Based on the insight that understanding the impact of the            one? While some authors seem to believe so (Heersmink,
+current technological changes on autobiographical remem­             2020; see also Sutton & Windhorst, 2009), others dispute
+bering requires a nuanced analysis, we have proposed our             this (cf. Nestojko et al., 2013). Building on the definitions
+AMEDIA-Model, which provides the first systematic and                provided within our AMEDIA-Model, we hold that external
+comprehensive framework for understanding autobiograph­              records of one’s life that are not accompanied by autonoetic
+ical memory in the digital age. The AMEDIA-Model not                 consciousness should not be counted as autobiographical
+only integrates a wide range of existing evidence but also           memories in the narrower sense because autonoetic con­
+provides a theoretical basis for investigating the interplay         sciousness is an essential part of what is commonly consid­
+between individuals and the technology that they use in the          ered to constitute autobiographical memories. Nevertheless,
+context of encoding, curating, and retrieving autobiograph­          they might still be counted as autobiographical facts or per­
+ical memories. Most importantly, we view autobiographical            sonal semantics that also play a role in constructing our life
+remembering in the digital age as the result of the iterative        narratives; that is, although subscribing to the idea that
+process of combining information stored in the mind and              human cognition is often embodied, embedded, extended,
+information stored in the environment using high-tech devi­          and enacted (so-called “4E cognition”; Clark & Chalmers,
+ces and applications. Moreover, the way autobiographical             1998; Gallagher, 2017; Malafouris, 2020; Varela et al., 1991;
+memories are constructed and reconstructed crucially also            for an overview, see, Newen et al., 2018; for applications in
+depends on the way the information has been encoded and              the context of human memory, see Heersmink, 2020;
+curated, meaning that autobiographical remembering in the            Heersmink & Carter, 2020; Michaelian & Sutton, 2013;
+digital age is not a uniform process but is fundamentally            Sutton, 2010), we find it important to emphasize that auto­
+shaped by the kinds of technology and the kinds of data              biographical remembering is something that a person does
+that are being used. Taken together, our AMEDIA-Model                and that, in principle, cannot be delegated completely to the
+has important consequences for understanding technology-             environment.
+                                                                                               AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE      95
+
+
+Consequences for Theory and Empirical Research                                   memory ecology (Hoskins, 2016; see also Stone & Zwolinski,
+                                                                                 2022), in which they are never really separated from their
+Toward a Memory Ecology
+                                                                                 social and inanimate environment (cf. Hirst & Stone, 2015).
+If internal memories and externally recorded information are                     Although memory research seems to be slowly moving away
+indeed used in concert to bring about autobiographical                           from studying individuals in isolation (cf. Burnell et al.,
+remembering, “focusing on unaided human cognition [ … ]                          2023; Heux et al, 2023), the host of empirical studies on
+rather than integrated human-cognitive tool systems, [ … ]                       autobiographical memory published in recent years arguably
+miss[es] precisely what is unique about human cognition”                         still views externally available information as nothing but a
+(Yamashiro & Roediger, 2019, p. 16; see also Stone &                             cue that individuals respond to, misrepresenting the
+Zwolinski, 2022). Taking this line of reasoning seriously would                  dynamic and iterative nature of human remembering.
+imply a clear divergence from the way many researchers still                     Against this background, thinking about autobiographical
+approach human memory and remembering. For instance,                             memory in the digital age could serve as another, long-
+there are several studies demonstrating impaired internal                        needed wake-up call for memory research.
+memory for information that is saved in an external resource
+(Sparrow et al., 2011) at least when the saving process is per­                  Conducting Empirical Research
+ceived as reliable (Schooler & Storm, 2021) as well as studies
+showing that taking photos of objects can impair memory for                      Embracing the dynamic and iterative nature of human
+these objects (Henkel, 2014; for a potential explanation, see                    remembering also has important consequences for conduct­
+Barasch et al., 2017).2 Asking how using external resources for                  ing empirical research: While experimental and laboratory
+storing information changes internal memory representations                      studies have the clear advantage of allowing a well-con­
+is certainly a relevant question. However, internal memory                       trolled manipulation of the variables of interest, they also
+representations should not be confused with the ability to                       come with a reduced ecological validity as they tend to cre­
+remember, because remembering is—as outlined in our                              ate settings in which the individual is removed from the
+AMEDIA-Model—what happens when internal memories and                             usual environment, in which the above-mentioned processes
+externally recorded information are combined in an iterative                     of encoding, curating, and retrieving usually take place.
+process. Individuals who have access to certain external resour­                 Importantly, it has repeatedly been observed that findings
+ces for recording information certainly behave differently than                  on human memory obtained in experimental and laboratory
+individuals who do not. Comparing the performance of indi­                       settings do not always generalize to more ecologically valid
+viduals who usually rely on a certain external resource in a                     real-life settings (e.g., Haas et al., 2022; Wank et al., 2020).
+situation in which they have access to this resource to a situ­                  Together with the more general claim that psychology as an
+ation in which they do not seems to miss the actual point of                     academic discipline should put greater emphasis on meth­
+how remembering works in real-world settings and may                             odological pluralism (cf. Hutmacher, 2023; Hutmacher &
+ultimately obfuscate scientific progress.                                        Franz, 2024; Mayrhofer & Hutmacher, 2020), this observa­
+    In other words, the proliferation of digital technologies                    tion lends credibility to the idea that researchers interested
+has the potential to transform autobiographical remember­                        in autobiographical memory in the digital age should strive
+ing. If people decide to use and to rely on these technolo­                      to capture everyday practices and contrast them with experi­
+gies, however, testing how they perform when these                               mental and laboratory studies to create an evolving dialectic
+technologies are taken away again will not result in mean­                       of “thinner” (i.e., more controlled but less ecologically valid)
+ingful insights; that is, when investigating autobiographical                    and “thicker” (i.e., less controlled but more ecologically
+memory in the digital age, researchers should focus on                           valid) descriptions of the phenomena under investigation
+understanding the characteristics of the interplay between                       (cf. Fivush, 2013).
+internal memories and externally recorded information as                             More specifically, we suggest three methodological paths
+well as the affordances that come into play with new plat­                       to complement experimental and laboratory studies. First,
+forms and technologies. In short, the new digital technolo­                      research on autobiographical memory in the digital age
+gies should probably not be viewed as tools for cognitive                        would greatly benefit from a more systematic inclusion of
+offloading but rather as tools for memory augmentation and                       qualitative and mixed methods (cf. Fawns, 2020), which
+memory diversification (cf. Eliseev & Marsh, 2021; Storm &                       could help to elucidate the interplay between internal mem­
+Soares, in press), which can of course be used in more or                        ories and externally recorded information. Such methods
+less useful ways (see also Nestojko et al., 2013).                               could include naturalistic observations and interviews as
+    On a more general level, such an approach would mean                         well as content analyses of digital archives and collections,
+embracing the idea that individuals are embedded in a                            but also more unconventional qualitative methods, which
+                                                                                 have been applied in the context of autobiographical
+2
+                                                                                 remembering, such as letting participants engage in role-
+ Note that these studies were not concerned with remembering
+autobiographical but with remembering factual information and that things        playing (e.g., Armstrong et al., 2023) or using (auto-)ethno­
+may look different in the case of autobiographical memory (cf. Stone & Wang,     graphic writing (e.g., Hutmacher, 2024).
+2019; Wang et al., 2017). However, the studies can still be used to illustrate       Second, ambulatory and ecological momentary assessment
+our concerns regarding focusing on unaided human cognition. Note also that
+these studies have been criticized on both theoretical and empirical grounds     can be used to sample individuals’ current behaviors and
+elsewhere (Eliseev & Marsh, 2021; Heersmink, 2016; Storm & Soares, in press).    experiences over a longer period of time in a naturalistic
+96     F. HUTMACHER ET AL.
+
+
+environment, providing important insights into within- and          AMEDIA-Model can also be extended and applied to differ­
+between-person variability (for a recent study in the context       ent areas of research. In the following, we briefly sketch how
+of autobiographical memory, see, e.g., Colombo et al., 2024).       the model might be used for organizing research in the field
+Third, mobile sensing, that is, using quantitative data from        of developmental, social, and clinical psychology.
+smartphones or wearables as tracked by onboards sensors
+could provide an important add-on to currently applied
+methods (for an overview, see Harari & Gosling, 2023). In           Developmental Psychology: Narrative Identity in
+contrast to ecological momentary assessment, which usually          Adolescence and Beyond
+requires participants to respond to questions, mobile sensing       To begin with, the way individuals encode, curate, and
+allows the automatic, continuous, and unobtrusive tracking          retrieve external information might change across the life­
+of real-world behavior. While this may be inadequate for            span, possibly in line with processes of identity formation
+gaining deeper insights in meaning-making processes that            and identity development (cf. Davis & Weinstein, 2017;
+usually play a great role in the context of autobiographical        Manago, 2015; Soh et al., 2024). As identity exploration and
+remembering, it can provide a relatively objective basis for        identity formation as well as the creation of a coherent life
+understanding the way individuals use modern-day                    story play a particularly prominent role in adolescence and
+technologies.                                                       emerging adulthood (cf. Habermas & Bluck, 2000), these
+    Ultimately, applying a host of different—quantitative and       phases of life have been studied most extensively in this
+qualitative, experimental and observational, laboratory-based       respect. On the one hand, it has been observed that young
+and ecologically valid—methods would allow testing the key          individuals will typically change the content that they store
+assumptions of our AMEDIA-Model, such as the idea that              and share when their identity changes as they grow older
+internal autobiographical memories and external records             (e.g., Davis, 2010; Weinstein et al., 2015). This may also
+work in concert to bring about autobiographical remember­           include deleting old information that does no longer fit with
+ing. Although we believe that testing the entire model in a         one’s current identity or that is deemed irrelevant given that
+single study would be too ambitious, empirical investigations       the focus of one’s life has changed. In other words, changes
+can focus on specific sub-aspects and thereby also contribute       in identity may not only change the nature of the informa­
+to refining our model. For instance, one could ask partici­         tion that is newly being encoded but also lead to a host of
+pants to review their own data and the way they have                curatorial practices. This is also illustrates that the externally
+organized them to evaluate the usefulness of different cura­        recorded information that individuals possess about their
+torial practices (qualitative and mixed methods); one could         lives are not static and passive data reservoirs but actively
+ask participants to use an app programmed for the purpose           shaped by individuals, which may ultimately also shape the
+of the investigation in their daily lives and manipulate how        way these individuals remember their personal past. On the
+participants encode autobiographical events in order to see         other hand, using digital media gets individuals in touch
+how this influences their memories of these events (ambula­         with different possible ways of narrating their lives (Granic
+tory and ecological momentary assessment); or one could             et al., 2020), which can include both culturally dominant
+relate quantitative parameters about and individual’s usage         master narratives as well as alternative narratives that might
+patterns of modern-day technology to the subjective recon­          be particularly important for marginalized groups or groups
+structions of their past (mobile sensing).                          of individuals with non-mainstream interests (cf. Bates et al.,
+                                                                    2020).
+                                                                        Despite these potential positive effects, one might still ask
+Areas of Application
+                                                                    to what extent social media and digital technologies do in
+Our AMEDIA-Model offers a theory-based and empirically              fact contribute to a positive identity development, given that
+founded perspective that can be used as a tool for analyzing        most platforms incentivize quick responses in the form of
+the ways in which the available technologies may change and         likes and shares rather than reflection and narrative integra­
+transform autobiographical remembering. While it seems              tion (cf. Granic et al., 2020). Moreover, processes of auto­
+plausible that the increased density of recorded life episodes      biographical remembering and meaning-making are often
+has the potential to lead to a richer and more detailed record      associated with social interactions (Grysman et al., 2024;
+of one’s life, it is still an open question how exactly this will   Nelson & Fivush, 2004; Pasupathi & Wainryb, 2010): When
+affect the way individuals construct and reconstruct their          talking about autobiographical events, individual adopt fac­
+memories and life narratives (for discussions, see, e.g., Eliseev   tual details from their conversational partners, adapt inter­
+& Marsh, 2021; Storm & Soares, in press). Crucially, answer­        pretive details, and experiment with forming links between
+ing this question would also entail investigating whether the       the different elements of their lives. If autobiographical
+key findings from seminal studies on autobiographical mem­          remembering in the digital age is shaped more by online
+ory, which have often been conducted in the pre-digital age,        posts and less by face-to-face conversations, then the indi­
+are still valid in our present-day societies or whether there       vidual’s identity work is happening less in protected and
+are signs of technology-mediated cross-temporal variability         trusted environments and more in the public sphere. This
+that need to be taken into account (cf. Hutmacher &                 could impact identity development in profound ways: As it
+Mayrhofer, 2023; for some preliminary evidence, see Stone           can be hard for individuals to predict how the public will
+et al., 2022; Talarico, 2022). More generally speaking, the         react to their postings, they may decide to limit the aspects
+                                                                                AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE     97
+
+
+of their lives they are willing to share, thereby unintention­     evident that there is a close connection between mediated
+ally also limiting the aspects of their lives regarding which      memory practices and collective memory: “On the one
+they engage in profound identity work. Although exploring          hand, for a memory to be collective, it needs to be mani­
+these and related questions may be particularly pressing in        fested and socially shared, and thus ought to be mediated;
+the case of adolescents and emerging adults, the AMEDIA-           on the other hand, many media products and mediatization
+Model provides a rationale for extending the research              processes incorporate shared recollections” (Neiger, 2020, p.
+beyond these phases of life: Assuming that the digital traces      1). For instance, there is a clear nexus between the death of
+about our lives will eventually span decades, exploring the        people of public interest and memory work regarding these
+way this information affects narrative identity and the con­       individuals: When people of public interest die, this usually
+struction of the life story at later stages of life is likely to   leads to a sharp rise in media attention and social media
+become an important area of research as well.                      activity that decays in a matter of days (West et al., 2021)
+                                                                   and rises again at anniversaries and special dates related to
+                                                                   the deceased individual (cf. Ferron & Massa, 2014; Keegan
+Social Psychology: From Social Identity and Family                 & Brubaker, 2015). Fascinatingly, collective memories seem
+Narratives to Collective Memory                                    to serve similar functions as individual autobiographical
+As the considerations about the development of a life story        memories (Burnell et al., 2023; Heux et al., 2023): They
+in times of social media have already made clear, under­           shape the identity of collectives, can provide a basis for
+standing autobiographical memory in the digital age may            future decision-making, and may create bonds between dif­
+begin but should not end with the individual. Three obser­         ferent collectives (e.g., when two nations commemorate an
+vations seem particularly important in this context. First,        event that was important to both). This also suggests that
+digital data that is being encoded and curated does not only       the AMEDIA-Model can also be applied to the way larger
+document and express a personal but also a social identity         groups and collectives encode, curate, and retrieve memories
+(cf. Barker & Rodriguez, 2019). Take selfies as a case in          in an attempt to craft an overarching narrative.
+point: Selfies indeed convey aspects of personality and life­
+style and give hints to people’s values (cf. Dollinger, 2017);
+                                                                   Clinical Psychology: Digital Memory as Curse and
+however, they can also be used as a means to negotiate
+                                                                   Blessing
+social roles and societal expectations (e.g., in the case of
+motherhood; see Gawro�    nska & Sikorska, 2023; Holmes &          As far as investigating autobiographical memory in the
+Atkins, 2023). Importantly, this is not a one-directional pro­     digital age from a clinical perspective is concerned, one
+cess: By taking a selfie, one does not merely express one’s        worry that might immediately come to mind is that the
+social identity or one’s relationship with the personal envir­     information that is shared on social networking sites gives
+onment; in contrast, the way these photos have been taken          rise to upward social comparisons, which can have negative
+can also shape and transform these identities and relation­        effects on well-being and mental health (Verduyn et al.,
+ships (Stiglbauer & Weber, 2018).                                  2020; for meta-analyses, see Yang et al., 2019; Yoon et al.,
+    Again, these findings fit well with the assumptions made       2019). That is, as the information that individuals publicly
+in our AMEDIA-Model, namely that the way data is being             share online is often optimized for self-presentation, seeing
+encoded, curated, and retrieved has important consequences         the digital traces of the lives of others may give rise to the
+for the way the past is being reconstructed, that the process      feeling that one’s own life is comparably shallow and boring.
+of combining internal memories and externally stored infor­        The detrimental effects of upward social comparisons not­
+mation is iterative and interactive, and that this process is      withstanding, there is also consistent evidence that the over­
+fundamentally shaped by the kinds of technology and the            all effects of digital media on well-being and mental health
+kinds of data that are being used. This also applies to the        are rather small and depend on a wide range of contextual
+second observation: the importance of digital data for con­        factors (for an overview, see Orben & Przybylski, 2019;
+structing family narratives. Although it is well known that        Valkenburg, 2022). This suggests, however, that using digital
+externally recorded information plays a key role for estab­        media in general and externally recording information about
+lishing, representing, and rearranging family narratives (e.g.,    one’s life in particular must also have positive effects for
+Petrelli et al., 2014), research from recent years has con­        individuals that somewhat counterbalance the negative
+firmed that this also applies to digital data such as the pho­     effects. For instance, research has shown that individuals
+tos that individuals share on social media. More specifically,     sometimes share memories online for therapeutic reasons
+it has been shown that such photos are used to present             (e.g., to ease their distress, to get advice and feedback from
+moments and events that families spend together as well as         others, or to gain insight into their problems; Stone et al.,
+to depict intergenerational relationships, possibly spanning       2022).
+grandparents, children, and grandchildren (Barnwell et al.,            In addition, it has been demonstrated that automatically
+2023).                                                             capturing snapshots of everyday life as well as recording
+    Third, and moving beyond the level of one’s immediate          short videos can help people to remember aspects of their
+social environment, one might also examine how digital             recent past that may otherwise become inaccessible (Hodges
+media contribute to constituting and reproducing collective        et al., 2011; Loveday & Conway, 2011; Martin et al., 2022;
+memories of groups and societies. It seems almost self-            for a review, see Silva et al., 2018). This might be
+98     F. HUTMACHER ET AL.
+
+
+particularly helpful in situations in which an individual’s        functioning and well-being of individuals. As most platforms
+internal autobiographical memory lacks detail or is particu­       and services that individuals use for storing and sharing
+larly prone to errors. From a clinical perspective, there seem     information about their lives are provided by companies
+to be at least two use cases. On the one hand, autobiograph­       with commercial interests, which do not necessarily align
+ical memories become less specific and generally harder to         with the users’ needs and preferences, this seems to be a
+recall in the case of people with dementia (Irish, 2023; see       particularly important point. For instance, the business
+also Hutmacher, 2021). On the other hand, it has been              model of many tech companies involves collecting as much
+observed that individuals with psychiatric diagnoses remem­        information about individual users as possible. In turn, the
+ber fewer specific and more general memories compared to           concerns regarding data privacy resulting from this might
+individuals without a psychiatric diagnosis (overgeneral           keep users from fully exhausting the options that the avail­
+memory; for a meta-analysis, see Barry et al., 2021).              able technology offers (cf. Hutmacher et al., 2023). It has
+Although it remains to be determined what exactly drives           repeatedly been pointed out that such ethical concerns
+these differences between people with and without psychi­          should be taken much more seriously during the develop­
+atric diagnoses, and although effectively supporting the auto­     ment of digital technologies so that these technologies can
+biographical memory of people with dementia remains                be a force for good instead of merely increasing company
+challenging, digital technologies could potentially offer a        revenues (Calvo & Peters, 2014; Floridi, 2013).
+way for addressing the lack of detail and specificity in auto­         In addition to these points, we want to address two
+biographical memories. Most importantly, the different com­        broader ethical dilemmas: data permanence and the digital
+ponents of the AMEDIA-Model offer a framework for                  divide. As far as data permanence is concerned, there is the
+organizing research in this respect and for keeping the dif­       idea that autobiographical remembering in the digital age
+ferent facets in mind that might be relevant for designing         could lead to problems because of both too much and too
+tools for intervention.                                            little data permanence. Too much data permanence might be
+                                                                   a problem insofar as it reduces the individuals’ control about
+                                                                   the way they narrate their lives and as it prevents forgetting
+Ethical Considerations: From the Empirical to the
+                                                                   that is necessary for distinguishing important from more
+Normative
+                                                                   ephemeral life events (cf. Mayer-Sch€onberger, 2009; Tirosh,
+The AMEDIA-Model is a psychological model. That is, it             2017). Arguably, publicly sharing information about one’s
+provides a framework for understanding the interplay               life (e.g., on social media) might be particularly problematic
+between internal memory and externally recorded informa­           in this respect, because this information is far more difficult
+tion that is rather descriptive than prescriptive. Nevertheless,   to delete than information that individuals keep for them­
+the AMEDIA-Model can be used to inform societal debates            selves (e.g., in a smart journal). Somewhat paradoxically, too
+with normative implications. To begin with, we have                little data permanence could be a problem as well: As
+emphasized that autobiographical remembering in the digital        already briefly mentioned in the introduction, storage and
+age is not a uniform process but is fundamentally shaped by        file formats have undergone constant changes over the last
+the kinds of technology and the kinds of data that are being       years and decades (e.g., Blum & Beyer, 2019). In addition,
+used. From a normative perspective, this implies that articu­      the popularity and availability of different platforms and
+lating hopes and concerns regarding technology-mediated            applications also changes relatively rapidly, making it
+memory in the twenty-first century should always take these        unclear whether information that is posted on Instagram or
+nuances into account. To give but one example, being skep­         stored in the software environment of one’s activity tracker
+tical about the benefits of quantifying humans’ lives (cf.         today will really be available for remembering one’s life in
+Mau, 2019) does not imply that one needs to be skeptical           thirty or more years in a similar way as photo albums and
+about all aspects that come with the increased density of          paper diaries were for previous generations. Although it
+recorded life episodes in the digital age. In addition, our        may be too early to tell which of the two problems related
+elaborations also suggest that externally recorded informa­        to data permanence turns out to be more pressing in the
+tion is not meaningful in and of itself but that it needs to be    long run, it seems clear that both phenomena could have
+curated and interpreted (Banks, 2011; van den Hoven et al.,        important policy implications: As the externally recorded
+2012). In close connection with this, individuals usually nei­     information that individuals store using high-tech devices
+ther want their internal memories to be replaced by external       and applications does not merely serve as a cue for autobio­
+recordings (Eliseev & Marsh, 2021; Harvey et al., 2016) nor        graphical remembering but forms an important part of the
+do they strive for capturing as many moments of their lives        individual’s memory ecology, both the unintended availabil­
+as possible: Instead, they are more interested in having a         ity and unintended unavailability of information about one’s
+more detailed record of the moments that are dear and              life could be experienced as deeply troublesome. Last but
+important to them (i.e., situation-specific capture; Sellen &      not least, the relevance of our AMEDIA-Model rests on the
+Whittaker, 2010; see also Heersmink, 2018). Against this           assumption that living in the digital age means creating and
+background, the AMEDIA-Model can be used as a basis for            sharing immense amounts of data for individuals. Although
+critically evaluating the promises associated with recent          this is true for the majority of people on our planet (cf.
+technologies, as it enables us to determine whether the fea­       Domo, 2022, 2023), there is still a significant digital divide
+tures of these technologies rather support or undermine the        within and across societies (van Dijk, 2020; Warschauer,
+                                                                                 AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE       99
+
+
+2003). That is, it should not be forgotten that not everyone       the contour of the jawline). Against this background, the
+has equal access to the currently available technology or          possibility to design memories in the sense that one can cre­
+possesses the skills for using it. For example, elderly individ­   ate photos or videos in which one does things that one has
+uals who would arguably form one of the groups that could          in fact never done or in which other individuals are added
+profit the most from using digital technologies to counter­        to or removed from the available footage almost seems like
+balance weaknesses of internal memory (e.g., Martin et al.,        a logical next step. Given that several decades of empirical
+2022) are generally less likely to benefit from the digital        research have impressively demonstrated that individuals
+revolution (e.g., Mubarak & Suomi, 2022). In a similar vein,       can be relatively easily tricked into believing that fictitious
+individuals who cannot afford the available technology will        events have actually taken place (cf. Loftus, 2005), the possi­
+not be able to integrate it in their memory ecology and may        bility to willingly fake our personal past using digital tech­
+ultimately feel excluded and disconnected from the recent          nologies offers a worrying outlook into the future. The same
+developments.                                                      applies to the possibility that third parties might try to
+                                                                   manipulate and change an individual’s memory of past
+                                                                   events through changing the externally recorded information
+Anticipated Future Developments                                    related to this event, for instance using deepfakes (Appel &
+Recent years have seen impressive technological develop­           Prietzel, 2022; Murphy & Flynn, 2022). Although it remains
+ments that have brought us closer to the realization of            to be determined how powerful such manipulations can be,
+Bush’s (1945) memex vision than ever before. Even more so,         that is, to what degree they can alter the content of internal
+the existing high-tech tools such as smartphones may               autobiographical memories, the potential dangers of such
+already possess capabilities that Bush did not even dream          developments for both individuals and societies should not
+about. However, there is no reason to believe that the             be brushed aside easily.
+technological developments will come to an end any time                Third, the availability of an incredible amount of data
+soon. Importantly, we believe that our AMEDIA-Model will           about the life of each individual in combination with the
+provide a valid framework for understanding and investigat­        progress in the context of virtual reality environments could
+ing the impact of such future developments. That is,               present new ways for creating immersive scenarios for reex­
+although the AMEDIA-Model was created based on the                 periencing past events or for experimenting with alternative
+available empirical evidence and through extending and con­        outcomes and realities (“What would have happened if I
+necting existing theoretical strands, the basic structures and     had done X instead of Y in this situation?”; see also
+processes that we have identified can be transferred to new        Fernandez-Alvarez et al., 2021; Kisker et al., 2021). Taking
+technological innovations. As far as such technological inno­      things even one step further, virtual reality environments
+vations are concerned, we have three potential changes in          could offer opportunities for—at least seemingly—interacting
+mind that might already be waiting around the corner. First,       with deceased individuals (Stein, 2021): For instance, it
+given the rapid progress of language-based artificial intelli­     could become possible to create virtual avatars that not only
+gence applications, new forms of algorithmic curation and          mimic the physique but also the personality of loved ones
+algorithmic narration seem to be within reach; that is, newly      that have passed away. While this might be helpful for con­
+designed algorithms could help us engaging with externally         tinuing bonds with the deceased or during therapeutic inter­
+recorded information in an unprecedented manner. Already           ventions (e.g., when addressing difficult or traumatic
+as of now, it does not seem far-fetched to feed an applica­        experiences), it also raises important ethical concerns (e.g.,
+tion such as ChatGPT with information about one’s life and                          €
+                                                                   Bassett, 2022; Ohman     & Floridi, 2017): Would it be morally
+to ask the application to create a coherent story out of this      justifiable, for instance, to create a virtual reality scenario in
+information. In fact, a first empirical demonstration has          which two estranged siblings are reunited although this runs
+shown that AI-driven models can create helpful and accur­          counter to what the deceased sibling would have wanted?
+ate summaries of diary entries (Siriwardhana et al., 2023).        Importantly, virtual reality could not only be used for pri­
+Although this is to date not much more than a proof of             vate or entertainment purposes but also in the context of
+concept, that is, although it remains to be seen to what           education, for example, when it comes to providing future
+degree individuals will be willing to integrate such tools into    generations access to witnesses of past events (e.g., in the
+their memory ecology, their potential seems obvious.               case of the Holocaust; Marcus et al., 2022). In this case, vir­
+    Second, the technology that might become available over        tual reality could help to connect individual and collective
+the course of the next years may offer unforeseen possibil­        memories.
+ities for designing memories that serve the self-enhancing
+function of autobiographical remembering. Again, prelimin­
+                                                                   Conclusion
+ary versions of such technologies are already available today:
+For instance, applying beauty filters enables individuals to       The digital age is associated with profound and far-reaching
+optimize their physical appearance without much effort or          changes for individuals and societies. Autobiographical
+expertise (e.g., Appel et al., 2023). Crucially, these beautify­   remembering is a core aspect of being human that might
+ing practices go beyond superficial changes (such as adjust­       undergo significant transformations in the face of the cur­
+ing color saturation) and may include significant                  rent technological innovations. In the AMEDIA-Model that
+modifications (such as adjusting the shape of the nose or          we have proposed in the present paper, autobiographical
+100       F. HUTMACHER ET AL.
+
+
+remembering in the digital age is seen as the result of the                  Bassett, D. J. (2022). The creation and inheritance of digital afterlifes.
+iterative process of combining information stored in the                        Springer.
+                                                                             Bates, A., Hobman, T., & Bell, B. T. (2020). “Let me do what I please with
+mind and information stored in the environment using
+                                                                                it … Don’t decide my identity for me”: LGBTQþ youth experiences of
+high-tech devices and applications. The AMEDIA-Model                            social media in narrative identity development. Journal of Adolescent
+offers a valuable and nuanced basis for understanding and                       Research, 35(1), 51–83. https://doi.org/10.1177/0743558419884700
+investigating how individuals construct and reconstruct their                Bell, G., & Gemmell, J. (2009). Total recall. How the e-memory revolu­
+personal past in the digital world of the twenty-first century.                 tion will change everything. Dutton.
+                                                                             Bermejo, C., Braud, T., Yang, J., Mirjafari, S., Shi, B., Xiao, Y., & Hui,
+                                                                                P. (2020). VIMES: A wearable memory assistance system for auto­
+Disclosure Statement                                                            matic information retrieval. In Proceedings of the 28th ACM
+                                                                                International Conference on Multimedia (pp. 3191–3200). ACM.
+No potential conflict of interest was reported by the author(s).                https://doi.org/10.1145/3394171.3413663
+                                                                             Berntsen, D. (2021). Involuntary autobiographical memories and their
+                                                                                relation to other forms of spontaneous thoughts. Philosophical
+ORCID                                                                           Transactions of the Royal Society of London. Series B, Biological
+                                                                                Sciences, 376(1817), 20190693. https://doi.org/10.1098/rstb.2019.0693
+Fabian Hutmacher      http://orcid.org/0000-0002-0018-2559                   Bluck, S., Alea, N., Habermas, T., & Rubin, D. C. (2005). A tale of three
+Markus Appel     http://orcid.org/0000-0003-4111-1308                           functions: The self-reported uses of autobiographical memory. Social
+Stephan Schwan     http://orcid.org/0000-0003-2451-720X                         Cognition, 23(1), 91–117. https://doi.org/10.1521/soco.23.1.91.59198
+                                                                             Blum, R., & Beyer, B. (2019). Achieving digital permanence.
+                                                                                Communications of the ACM, 62(5), 36–42. https://doi.org/10.1145/
+References                                                                      3303872
+Adler, J. M., Lodi-Smith, J., Philippe, F. L., & Houle, I. (2016). The       Brewer, R. N., Morris, M. R., & Lindley, S. E. (2017). How to remember
+   incremental validity of narrative identity in predicting well-being: A       what to remember: exploring possibilities for digital reminder sys­
+   review of the field and recommendations for the future. Personality          tems. Proceedings of the ACM on Interactive, Mobile, Wearable and
+   and Social Psychology Review, 20(2), 142–175. https://doi.org/10.            Ubiquitous Technologies, 1(3), 1–20. https://doi.org/10.1145/3130903
+   1177/1088868315585068                                                     Broekhuijsen, M., van den Hoven, E., & Markopoulos, P. (2017). From
+Aly, M., & Turk-Browne, N. B. (2017). How hippocampal memory                    PhotoWork to PhotoUse: Exploring personal digital photo activities.
+   shapes, and is shaped by, attention. In D. Hannula & M. Duff                 Behaviour & Information Technology, 36(7), 754–767. https://doi.
+   (Eds.), The hippocampus from cells to systems (pp. 369–403)                  org/10.1080/0144929X.2017.1288266
+   Springer. https://doi.org/10.1007/978-3-319-50406-3_12                    Bucher, T. (2020). The right-time web: Theorizing the kairologic of
+Appel, M., Hutmacher, F., Politt, T., & Stein, J. P. (2023). Swipe right?       algorithmic media. New Media & Society, 22(9), 1699–1714. https://
+   Using beauty filters in male Tinder profiles reduces women’s evalua­         doi.org/10.1177/1461444820913560
+   tions of trustworthiness but increases physical attractiveness and        Burkell, J. A. (2016). Remembering me: Big data, individual identity,
+   dating intention. Computers in Human Behavior, 148, 107871.                  and the psychological necessity of forgetting. Ethics and Information
+   https://doi.org/10.1016/j.chb.2023.107871                                    Technology, 18(1), 17–23. https://doi.org/10.1007/s10676-016-9393-1
+Appel, M., Marker, C., & Gnambs, T. (2020). Are social media ruining         Burnell, R., Umanath, S., & Garry, M. (2023). Collective memories serve
+   our lives? A review of meta-analytic evidence. Review of General             similar functions to autobiographical memories. Memory, 31(3), 316–
+   Psychology, 24(1), 60–74. https://doi.org/10.1177/1089268019880891           327. https://doi.org/10.1080/09658211.2022.2154804
+Appel, M., & Prietzel, F. (2022). The detection of political deepfakes.      Bush, V. (1945). As we may think. Atlantic Monthly, 176(1), 101–108.
+   Journal of Computer-Mediated Communication, 27(4), zmac008.               Calvo, R. A., & Peters, D. (2014). Positive computing: Technology for
+   https://doi.org/10.1093/jcmc/zmac008                                         wellbeing and human potential. MIT Press.
+Armstrong, A., Briggs, J., Moncur, W., Carey, D. P., Nicol, E., &            Ceroni, A., Solachidis, V., Fu, M., Kanhabua, N., Papadopoulou, O.,
+   Schafer, B. (2023). Everyday digital traces. Big Data & Society, 10(2),      Nieder�ee, C., & Mezaris, V. (2015, June). Investigating human behav­
+   20539517231213827. https://doi.org/10.1177/20539517231213827                 iors in selecting personal photos to preserve memories. In 2015 IEEE
+Assmann, A. (2012). Cultural memory and Western civilization:                   International Conference on Multimedia & Expo Workshops (ICMEW)
+   Functions, media, archives. Cambridge University Press.                      (pp. 1–6). IEEE. https://doi.org/10.1109/ICMEW.2015.7169750
+Banks, R. (2011). The future of looking back. Microsoft Press.               Choe, E. K., Lee, N. B., Lee, B., Pratt, W., & Kientz, J. A. (2014, April).
+Barasch, A., Diehl, K., Silverman, J., & Zauberman, G. (2017).                  Understanding quantified-selfers’ practices in collecting and explor­
+   Photographic memory: The effects of volitional photo taking on mem­          ing personal data. In Proceedings of the SIGCHI Conference on
+   ory for visual and auditory aspects of an experience. Psychological          Human Factors in Computing Systems (pp. 1143–1152). Association
+   Science, 28(8), 1056–1066. https://doi.org/10.1177/0956797617694868          for Computing Machinery. https://doi.org/10.1145/2556288.2557372
+Barker, V., & Rodriguez, N. S. (2019). This is who I am: The selfie as a     Clark, A. (2015). What ‘extended me’ knows. Synthese, 192(11), 3757–
+   personal and social identity marker. International Journal of                3775. https://doi.org/10.1007/s11229-015-0719-z
+   Communication, 13, 1143–1166.                                             Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1),
+Barnier, A. J., Conway, M. A., Mayoh, L., Speyer, J., Avizmil, O., &            7–19. https://doi.org/10.1093/analys/58.1.7
+   Harris, C. B. (2007). Directed forgetting of recently recalled autobio­   Clowes, R. W. (2013). The cognitive integration of e-memory. Review
+   graphical memories. Journal of Experimental Psychology: General,             of Philosophy and Psychology, 4(1), 107–133. https://doi.org/10.1007/
+   136(2), 301–322. https://doi.org/10.1037/0096-3445.136.2.301                 s13164-013-0130-y
+Barnwell, A., Neves, B. B., & Ravn, S. (2023). Captured and captioned:       Colombo, D., Wrzesien, M., & Ba~       nos, R. M. (2024). Recalling tough
+   Representing family life on Instagram. New Media & Society, 25(5),           times: Exploring the effect of acceptance on autobiographical mem­
+   921–942. https://doi.org/10.1177/14614448211012791                           ory in daily life. Mindfulness, 15(3), 601–615. https://doi.org/10.
+Barry, T. J., Hallford, D. J., & Takano, K. (2021). Autobiographical            1007/s12671-024-02301-0
+   memory impairments as a transdiagnostic feature of mental illness:        Conway, M. A. (2005). Memory and the self. Journal of Memory and
+   A meta-analytic review of investigations into autobiographical mem­          Language, 53(4), 594–628. https://doi.org/10.1016/j.jml.2005.08.005
+   ory specificity and overgenerality among people with psychiatric          Conway, M. A., & Pleydell-Pearce, C. W. (2000). The construction of
+   diagnoses. Psychological Bulletin, 147(10), 1054–1074. https://doi.org/      autobiographical memories in the self-memory system. Psychological
+   10.1037/bul0000345                                                           Review, 107(2), 261–288. https://doi.org/10.1037/0033-295X.107.2.261
+                                                                                             AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE             101
+
+
+Cosley, D., Sosik, V. S., Schultz, J., Peesapati, S. T., & Lee, S. (2012).       Computer Interaction, 31(6), 518–557. https://doi.org/10.1080/07370024.
+   Experiences with designing tools for everyday reminiscing. Human–             2015.1093422
+   Computer Interaction, 27(1-2), 175–198. https://doi.org/10.1080/           Esser, K. B. (1996). What can I do to remember? Outlines of a general
+   07370024.2012.656047                                                          model for preparing future retrieval. In W. Battmann, & S. Dutke
+Crete-Nishihata, M., Baecker, R. M., Massimi, M., Ptak, D., Campigotto,          (Eds.), Processes of the molar regulation of behavior (pp. 73–88).
+   R., Kaufman, L. D., … Black, S. E. (2012). Reconstructing the past:           Pabst Science.
+   personal memory technologies are not just personal and not just for        Fawns, T. (2020). Blended memory: A framework for understanding dis­
+   memory. Human–Computer Interaction, 27(1–2), 92–123. https://doi.             tributed autobiographical remembering with photography. Memory
+   org/10.1080/07370024.2012.656062                                              Studies, 13(6), 901–916. https://doi.org/10.1177/1750698019829891
+Dang-Nguyen, D.-T., Riegler, M., Zhou, L., & Gurrin, C. (2018).               Fernandez-Alvarez, J., Colombo, D., Suso-Ribera, C., Chirico, A.,
+   Challenges and opportunities within personal life archives. In                Serino, S., Di Lernia, D., Palacios, A. G., Riva, G., & Botella, C.
+   Proceedings of the 2018 ACM on International Conference on                    (2021). Using virtual reality to target positive autobiographical mem­
+   Multimedia Retrieval (pp. 335–343). ACM. https://doi.org/10.1145/             ory in individuals with moderate-to-moderately severe depressive
+   3206025.3206040                                                               symptoms: A single case experimental design. Internet Interventions,
+Davis, K. (2010). Coming of age online: The developmental underpin­              25, 100407. https://doi.org/10.1016/j.invent.2021.100407
+   nings of girls’ blogs. Journal of Adolescent Research, 25(1), 145–171.     Ferron, M., & Massa, P. (2014). Beyond the encyclopedia: Collective
+   https://doi.org/10.1177/0743558409350503                                      memories in Wikipedia. Memory Studies, 7(1), 22–45. https://doi.
+Davis, K., & Weinstein, E. (2017). Identity development in the digital           org/10.1177/1750698013490590
+   age: An Eriksonian perspective. In M. F. Wright (Ed.), Identity,           Finley, J. R., Brewer, W. F., & Benjamin, A. S. (2011). The effects of
+   sexuality, and relationships among emerging adults in the digital age         end-of-day picture review and a sensor-based picture capture pro­
+   (pp. 1–17). IGI Global.                                                       cedure on autobiographical memory using SenseCam. Memory,
+DeVito, M. A., Birnholtz, J., & Hancock, J. T. (2017). Platforms, peo­           19(7), 796–807. https://doi.org/10.1080/09658211.2010.532807
+   ple, and perception: Using affordances to understand self-presenta­        Finley, J. R., & Naaz, F. (2022). Strategic use of internal and external
+   tion on social media. In Proceedings of the 2017 ACM Conference on            memory in everyday life: Episodic, semantic, procedural, and pro­
+   Computer Supported Cooperative Work and Social Computing (pp.                 spective purposes. Memory, 31(1), 108–126. https://doi.org/10.1080/
+   740–754). ACM. https://doi.org/10.1145/2998181.2998192                        09658211.2022.2126858
+Diehl, K., Zauberman, G., & Barasch, A. (2016). How taking photos             Finley, J. R., Naaz, F., & Goh, F. W. (2018). Memory and technology.
+   increases enjoyment of experiences. Journal of Personality and Social         How we use information in the brain and the world. Springer.
+   Psychology, 111(2), 119–140. https://doi.org/10.1037/pspa0000055              https://doi.org/10.1007/978-3-319-99169-6
+Dinhopl, A., & Gretzel, U. (2016). Selfie-taking as touristic looking.        Fivush, R. (2011). The development of autobiographical memory.
+   Annals of Tourism Research, 57, 126–139. https://doi.org/10.1016/j.           Annual Review of Psychology, 62(1), 559–582. https://doi.org/10.
+   annals.2015.12.015                                                            1146/annurev.psych.121208.131702
+Dobbins, C., Merabti, M., Fergus, P., & Llewellyn-Jones, D. (2014). The       Fivush, R. (2013). Autobiographical memory. In E. Kneightley & M.
+   big data obstacle of lifelogging. In 2014 28th International Conference       Pickering (Eds.), Research methods for memory studies (pp. 13–28).
+   on Advanced Information Networking and Applications Workshops                 Edinburgh University Press.
+   (pp. 922–926). IEEE. https://doi.org/10.1109/WAINA.2014.142                Floridi, L. (2013). The ethics of information. Oxford University Press.
+Dollinger, S. J. (2017). Much more than selfies: Autophotography, indi­       Foley, M. A. (2020). Effects of photographic reviews on recollections of
+   viduality, and creativity. In G. J. Feist, R. Reiter-Palmon, & J. C.          the personal past: A new perspective on benefits and costs. Review
+   Kaufman (Eds.), The Cambridge handbook of creativity and personal­            of General Psychology, 24(4), 369–381. https://doi.org/10.1177/
+   ity research (pp. 323–353) Cambridge University Press. https://doi.           1089268020958686
+   org/10.1017/9781316228036.017                                              Gallagher, S. (2017). Enactivist interventions: Rethinking the mind.
+Domo. (2022, September 21). Domo releases 10th annual “data never                Oxford University Press.
+   sleeps” infographic. https://www.domo.com/news/press/domo-releases-        Gawro� nska, M., & Sikorska, M. (2023). Snapshots of family: Family
+   10th-annual-data-never-sleeps-infographic                                     representations and practices of mothering displayed by
+Domo. (2023, December 14). Domo releases 11th annual “data never                 Instamothers. Sociological Research Online. Advance online publica­
+   sleeps” report. https://www.domo.com/news/press/domo-releases-                tion. https://doi.org/10.1177/13607804231195550
+   11th-annual-data-never-sleeps-report                                       Gibson, J. J. (1979). The ecological approach to visual perception.
+Donald, M. (1991). Origins of the modern mind: Three stages in the evo­          Houghton Mifflin Harcourt.
+   lution of culture and cognition. Harvard University Press.                 Granic, I., Morita, H., & Scholten, H. (2020). Beyond screen time:
+Donald, M. (2001). A mind so rare: The evolution of human conscious­             Identity development in the digital age. Psychological Inquiry, 31(3),
+   ness. W. W. Norton & Company.                                                 195–223. https://doi.org/10.1080/1047840X.2020.1820214
+Driver, J. (2001). A selective review of selective attention research from    Grysman, A., Camia, C., & Pasupathi, M. (2024). Different routes to
+   the past century. British Journal of Psychology, 92(1), 53–78. https://       conversational influences on autobiographical memory. Journal of
+   doi.org/10.1348/000712601162103                                               Applied Research in Memory and Cognition, 13(1), 40–56. https://
+Eichhorn, K. (2019). The end of forgetting: Growing up with social               doi.org/10.1037/mac0000101
+   media. Harvard University Press.                                           Haas, M., Mehl, M. R., Ballhausen, N., Zuber, S., Kliegel, M., & Hering,
+Eikey, E. V., Caldeira, C. M., Figueiredo, M. C., Chen, Y., Borelli, J. L.,      A. (2022). The sounds of memory: Extending the age–prospective
+   Mazmanian, M., & Zheng, K. (2021). Beyond self-reflection:                    memory paradox to everyday behavior and conversations. The
+   Introducing the concept of rumination in personal informatics.                Journals of Gerontology. Series B, Psychological Sciences and Social
+   Personal and Ubiquitous Computing, 25(3), 601–616. https://doi.org/           Sciences, 77(4), 695–703. https://doi.org/10.1093/geronb/gbac012
+   10.1007/s00779-021-01573-w                                                 Habermas, T., & Bluck, S. (2000). Getting a life: The emergence of the
+Eliseev, E. D., & Marsh, E. J. (2021). Externalizing autobiographical            life story in adolescence. Psychological Bulletin, 126(5), 748–769.
+   memories in the digital age. Trends in Cognitive Sciences, 25(12),            https://doi.org/10.1037/0033-2909.126.5.748
+   1072–1081. https://doi.org/10.1016/j.tics.2021.08.005                      Habermas, T., & Reese, E. (2015). Getting a life takes time: The devel­
+Elsden, C., Durrant, A. C., & Kirk, D. S. (2016). It’s just my history,          opment of the life story in adolescence, its precursors and conse­
+   isn‘t it? Understanding smart journaling practices. In Proceedings of         quences. Human Development, 58(3), 172–201. https://doi.org/10.
+   the 2016 CHI Conference on Human Factors in Computing Systems                 1159/000437245
+   (pp. 2819–2831). https://doi.org/10.1145/2858036.2858103                   Harari, G. M., & Gosling, S. D. (2023). Understanding behaviours in
+Elsden, C., Kirk, D. S., & Durrant, A. C. (2016). A quantified past:             context using mobile sensing. Nature Reviews Psychology, 2(12),
+   Toward design for remembering with personal informatics. Human–               767–779. https://doi.org/10.1038/s44159-023-00235-3
+102       F. HUTMACHER ET AL.
+
+
+Harvey, M., Langheinrich, M., & Ward, G. (2016). Remembering                      Psychologist. Advance online publication. https://doi.org/10.1037/
+  through lifelogging: A survey of human memory augmentation.                     amp0001300
+  Pervasive and Mobile Computing, 27, 14–26. https://doi.org/10.1016/         Hutmacher, F., & Mayrhofer, R. (2023). Psychology as a historical sci­
+  j.pmcj.2015.12.002                                                              ence? Theoretical assumptions, methodological considerations, and
+Heersmink, R. (2016). The internet, cognitive enhancement, and the                potential pitfalls. Current Psychology, 42(22), 18507–18514. https://
+  values of cognition. Minds and Machines, 26(4), 389–407. https://               doi.org/10.1007/s12144-022-03030-0
+  doi.org/10.1007/s11023-016-9404-3                                           Hutmacher, F., Schl€ager, L., & Meerson, R. (2023). Autobiographical
+Heersmink, R. (2017). Distributed selves: Personal identity and                   memory in the digital age: Insights based on the subjective reports
+  extended memory systems. Synthese, 194(8), 3135–3151. https://doi.              of users of smart journaling apps. Applied Cognitive Psychology,
+  org/10.1007/s11229-016-1102-4                                                   37(4), 686–698. https://doi.org/10.1002/acp.4033
+Heersmink, R. (2018). The narrative self, distributed memory, and             Irish, M. (2023). Autobiographical memory in dementia syndromes –
+  evocative objects. Philosophical Studies, 175(8), 1829–1849. https://           an integrative review. Wiley Interdisciplinary Reviews. Cognitive
+  doi.org/10.1007/s11098-017-0935-0                                               Science, 14(3), e1630. https://doi.org/10.1002/wcs.1630
+Heersmink, R. (2020). Extended mind and artifactual autobiographical          Isaacs, E., Konrad, A., Walendowski, A., Lennig, T., Hollis, V., &
+  memory. Mind & Language, 37(4), 659–673. https://doi.org/10.1111/               Whittaker, S. (2013). Echoes from the past: How technology medi­
+  mila.12353                                                                      ated reflection improves well-being. In Proceedings of the SIGCHI
+Heersmink, R. (in press). A history of memory artifacts. In L. M. Bietti          Conference on Human Factors in Computing Systems (pp. 1071–
+  & M. Pogacar (Eds.), The Palgrave encyclopedia of memory studies.               1080). Association for Computing Machinery. https://doi.org/10.
+  Palgrave Macmillan.                                                             1145/2470654.2466137
+Heersmink, R., & Carter, J. A. (2020). The philosophy of memory tech­         Jacobsen, B. N. (2020). You have a new memory’: Mediated memories
+  nologies: Metaphysics, knowledge, and values. Memory Studies,                   in the age of algorithms [Dissertation, University of York]. White
+  13(4), 416–433. https://doi.org/10.1177/1750698017703810                        Rose eTheses Online. https://etheses.whiterose.ac.uk/28341/
+Henkel, L. A. (2014). Point-and-shoot memories: The influence of tak­         Jacobsen, B. N. (2022a). Algorithms and the narration of past selves.
+  ing photos on memory for a museum tour. Psychological Science,                  Information, Communication & Society, 25(8), 1082–1097. https://
+  25(2), 396–402. https://doi.org/10.1177/0956797613504438                        doi.org/10.1080/1369118X.2020.1834603
+Heux, L., Rathbone, C., Gensburger, S., Clifford, R., & Souchay, C. (2023).   Jacobsen, B. N. (2022b). When is the right time to remember? Social
+  Collective memory and autobiographical memory: Perspectives from                media memories, temporality and the kairologic. New Media &
+  the humanities and cognitive sciences. Wiley Interdisciplinary Reviews.         Society, 26(5), 2872–2888. https://doi.org/10.1177/14614448221096768
+  Cognitive Science, 14(3), e1635. https://doi.org/10.1002/wcs.1635           Jacquemard, T., Novitzky, P., O’Brolch�ain, F., Smeaton, A. F., &
+Hirst, W., & Stone, C. B. (2015). Social aspects of memory. In                    Gordijn, B. (2014). Challenges and opportunities of lifelog technolo­
+  Emerging trends in the social and behavioral sciences: An interdisci­           gies: A literature review and critical analysis. Science and
+  plinary, searchable, and linkable resource (pp. 1–12). Wiley. https://
+                                                                                  Engineering Ethics, 20(2), 379–409. https://doi.org/10.1007/s11948-
+  doi.org/10.1002/9781118900772.etrds0304
+                                                                                  013-9456-1
+Hodges, S., Berry, E., & Wood, K. (2011). SenseCam: A wearable cam­
+                                                                              Javornik, A., Marder, B., Barhorst, J. B., McLean, G., Rogers, Y., Marshall,
+  era that stimulates and rehabilitates autobiographical memory.
+                                                                                  P., & Warlop, L. (2022). ‘What lies behind the filter?’ Uncovering the
+  Memory, 19(7), 685–696. https://doi.org/10.1080/09658211.2011.
+                                                                                  motivations for using augmented reality (AR) face filters on social
+  605591
+                                                                                  media and their effect on well-being. Computers in Human Behavior,
+Holloway, D., & Green, L. (2017). Mediated memory making: The vir­
+                                                                                  128, 107126. https://doi.org/10.1016/j.chb.2021.107126
+  tual family photograph album. Communications, 42(3), 351–368.
+                                                                              Johnson, A. J., & Morley, E. G. (2021). Sharing personal memories on
+  https://doi.org/10.1515/commun-2017-0033
+                                                                                  ephemeral social media facilitates autobiographical memory.
+Holmes, S., & Atkins, B. (2023). Locating the ‘invisible’ mum:
+                                                                                  Cyberpsychology, Behavior and Social Networking, 24(11), 745–749.
+  Exploring maternal selfie practices. Journal of Gender Studies, 33(4),
+  386–403. https://doi.org/10.1080/09589236.2023.2262938                          https://doi.org/10.1089/cyber.2020.0511
+Hoskins, A. (2016). Memory ecologies. Memory Studies, 9(3), 348–357.          Jones, W. P. (1986). On the applied use of human memory models:
+  https://doi.org/10.1177/1750698016645274                                        The memory extender personal filing system. International Journal
+Hou, Y., Pan, X., Cao, X., & Wang, Q. (2022). Remembering online                  of Man-Machine Studies, 25(2), 191–228. https://doi.org/10.1016/
+  and offline: The effects of retrieval contexts, cues, and intervals on          S0020-7373(86)80076-1
+  autobiographical memory. Memory, 30(4), 441–449. https://doi.org/           Joslyn, S. L., & Oakes, M. A. (2005). Directed forgetting of autobio­
+  10.1080/09658211.2021.1953078                                                   graphical events. Memory & Cognition, 33(4), 577–587. https://doi.
+Huebner, B. (2016). Transactive memory reconstructed: Rethinking                  org/10.3758/BF03195325
+  Wegner’s research program. The Southern Journal of Philosophy,              Kalnikait_e, V., Sellen, A., Whittaker, S., & Kirk, D. (2010). Now let me
+  54(1), 48–69. https://doi.org/10.1111/sjp.12160                                 see where I was: Understanding how lifelogs mediate memory. In
+Hutmacher, F. (2021). Understanding the self of people with dementia:             Proceedings of the SIGCHI Conference on Human Factors in
+  Psychological and philosophical considerations. Zeitschrift fur                 Computing Systems (pp. 2045–2054). Association for Computing
+  Gerontologie und Geriatrie, 54(2), 161–166. https://doi.org/10.1007/            Machinery. https://doi.org/10.1145/1753326.1753638
+  s00391-020-01718-1                                                          Kalnikait_e, V., & Whittaker, S. (2012). Synergetic recollection: How to
+Hutmacher, F. (2023). Taking methodological pluralism seriously:                  design lifelogging tools that help locate the right information. In M.
+  Considerations based on the work of Norbert Groeben. Frontiers in               Zacarias & J. V. de Oliveira (Eds.), Human-computer interaction:
+  Psychology, 14, 1215737. https://doi.org/10.3389/fpsyg.2023.1215737             The agency perspective (pp. 329–348). Springer. https://doi.org/10.
+Hutmacher, F. (2024). Listening to a voice from the periphery: A                  1007/978-3-642-25691-2_14
+  female German life 1934–2022. Cultural Studies $ Critical                   Keegan, B. C., & Brubaker, J. R. (2015). Is” to “was”: Coordination and
+  Methodologies. Advance online publication. https://doi.org/10.1177/             commemoration on posthumous Wikipedia biographies. In
+  15327086241237999                                                               Proceedings of the 18th ACM Conference on Computer Supported
+Hutmacher, F., & Appel, M. (2023). The psychology of personalization              Cooperative Work & Social Computing (pp. 533–546). ACM. https://
+  in digital environments: From motivation to well-being – a theoret­             doi.org/10.1145/2675133.2675238
+  ical integration. Review of General Psychology, 27(1), 26–40. https://      Kersten-van Dijk, E. T., Westerink, J. H., Beute, F., & IJsselsteijn,
+  doi.org/10.1177/10892680221105663                                               W. A. (2017). Personal informatics, self-insight, and behavior
+Hutmacher, F., & Franz, D. J. (2024). Approaching psychology’s cur­               change: A critical review of current literature. Human–Computer
+  rent crises by exploring the vagueness of psychological concepts:               Interaction, 32(5-6), 268–296. https://doi.org/10.1080/07370024.2016.
+  Recommendations for advancing the discipline. American                          1276456
+                                                                                              AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE                103
+
+
+Kisker, J., Gruber, T., & Sch€  one, B. (2021). Virtual reality experiences    Mayrhofer, R., & Hutmacher, F. (2020). The principle of inversion:
+   promote autobiographical retrieval mechanisms: Electrophysiological            Why the quantitative-empirical paradigm cannot serve as a unifying
+   correlates of laboratory and virtual experiences. Psychological Research,      basis for psychology as an academic discipline. Frontiers in
+   85(7), 2485–2501. https://doi.org/10.1007/s00426-020-01417-x                   Psychology, 11, 596425. https://doi.org/10.3389/fpsyg.2020.596425
+Konrad, A., Isaacs, E., & Whittaker, S. (2016). Technology-mediated            McAdams, D. P. (2008). Personal narratives and the life story. In O. P.
+   memory: Is technology altering our memories and interfering with               John, R. W. Robins, & L. A. Pervin (Eds.), Handbook of personality:
+   well-being? ACM Transactions on Computer-Human Interaction,                    Theory and research (pp. 242–262). The Guilford Press.
+   23(4), 1–29. https://doi.org/10.1145/2934667                                McAdams, D. P., & McLean, K. C. (2013). Narrative identity. Current
+Koops, E. J. (2011). Forgetting footprints, shunning shadows: A critical          Directions in Psychological Science, 22(3), 233–238. https://doi.org/
+   analysis of the ‘right to be forgotten’ in big data practice. SCRIPTed,        10.1177/0963721413475622
+   8(3), 229–256. https://doi.org/10.2139/ssrn.1986719                         McAdams, D. P., & Olson, B. D. (2010). Personality development:
+Kuzovkin, D., Pouli, T., Meur, O. L., Cozot, R., Kervec, J., & Bouatouch,         Continuity and change over the life course. Annual Review of
+   K. (2019). Context in photo albums: Understanding and modeling                 Psychology, 61(1), 517–542. https://doi.org/10.1146/annurev.psych.
+   user behavior in clustering and selection. ACM Transactions on                 093008.100507
+   Applied Perception, 16(2), 1–20. https://doi.org/10.1145/3333612            McDaniel, B. T., Drouin, M., Dibble, J., Galovan, A. M., & Merritt, M.
+Lambert, A., Nansen, B., & Arnold, M. (2018). Algorithmic memorial                (2021). Are you going to delete me? Latent profiles of post-relation­
+   videos: Contextualising automated curation. Memory Studies, 11(2),             ship breakup social media use and emotional distress.
+   156–171. https://doi.org/10.1177/1750698016679221                              Cyberpsychology, Behavior and Social Networking, 24(7), 464–472.
+Lee, A., & Ryu, H. (2020). Comparison of the change in interpretative             https://doi.org/10.1089/cyber.2020.0714
+   stances of lifelog photos versus manually captured photos over time.        McLean, K. C., Pasupathi, M., & Pals, J. L. (2007). Selves creating sto­
+   Online Information Review, 44(2), 521–541. https://doi.org/10.1108/            ries creating selves: A process model of self-development.
+   OIR-03-2018-0108                                                               Personality and Social Psychology Review, 11(3), 262–278. https://doi.
+Loftus, E. F. (2005). Planting misinformation in the human mind: A                org/10.1177/1088868307301034
+   30-year investigation of the malleability of memory. Learning &             Michaelian, K., & Sutton, J. (2013). Distributed cognition and memory
+   Memory, 12(4), 361–366. https://doi.org/10.1101/lm.94705                       research: History and current directions. Review of Philosophy and
+Loveday, C., & Conway, M. (2011). Using SenseCam with an amnesic                  Psychology, 4(1), 1–24. https://doi.org/10.1007/s13164-013-0131-x
+   patient: Accessing inaccessible everyday memories. Memory, 19(7),           Mubarak, F., & Suomi, R. (2022). Elderly forgotten? Digital exclusion
+   697–704. https://doi.org/10.1080/09658211.2011.610803                          in the information age and the rising grey digital divide. Inquiry: a
+Lupton, D. (2016). The quantified self. Polity.                                   Journal of Medical Care Organization, Provision and Financing, 59,
+Lynch, M. (2016). The Internet of us: Knowing more and understanding              469580221096272. https://doi.org/10.1177/00469580221096272
+   less in the age of big data. W.W. Norton and Company.                       Murphy, G., & Flynn, E. (2022). Deepfake false memories. Memory,
+Mair, A., Poirier, M., & Conway, M. A. (2017). Supporting older and               30(4), 1–13. https://doi.org/10.1080/09658211.2021.1919715
+   younger adults’ memory for recent everyday events: A prospective            Nardini, G., Lutz, R. J., & LeBoeuf, R. A. (2019). How and when taking
+   sampling study using SenseCam. Consciousness and Cognition, 49,                pictures undermines the enjoyment of experiences. Psychology &
+   190–202. https://doi.org/10.1016/j.concog.2017.02.008                          Marketing, 36(5), 520–529. https://doi.org/10.1002/mar.21194
+Malafouris, L. (2020). Thinking as “thinging”: Psychology with things.         Neiger, M. (2020). Theorizing media memory: six elements defining the
+   Current Directions in Psychological Science, 29(1), 3–8. https://doi.          role of the media in shaping collective memory in the digital age.
+   org/10.1177/0963721419873349                                                   Sociology Compass, 14(5), e12782. https://doi.org/10.1111/soc4.12782
+Malik, A. (2021a, December 8). Reddit to roll out personalized end-of-         Nelson, K., & Fivush, R. (2004). The emergence of autobiographical
+   year recaps with stats about users’ habits. TechCrunch. https://tech­          memory: A social cultural developmental theory. Psychological Review,
+   crunch.com/2021/12/08/reddit-rolls-out-personalized-end-of-year-recaps-        111(2), 486–511. https://doi.org/10.1037/0033-295X.111.2.486
+   with-stats-about-users-habits/                                              Nestojko, J. F., Finley, J. R., & Roediger, H. L. (2013). Extending cogni­
+Malik, A. (2021b, December 9). Facebook and Instagram roll out per­               tion to external agents. Psychological Inquiry, 24(4), 321–325.
+   sonalized ‘Year in Review’ features. TechCrunch. https://techcrunch.           https://doi.org/10.1080/1047840X.2013.844056
+   com/2021/12/09/facebook-and-instagram-roll-out-personalized-year-in-        Newen, A., De Bruin, L., & Gallagher, S. (Eds.). (2018). The Oxford
+   review-features/                                                               handbook of 4E cognition. Oxford University Press. https://doi.org/
+Manago, A. M. (2015). Identity development in the digital age: The                10.1093/oxfordhb/9780198735410.001.0001
+   case of social networking sites. In K. C. McLean & M. Syed (Eds.),          Niforatos, E., Cinel, C., Mack, C. C., Langheinrich, M., & Ward, G.
+   The Oxford handbook of identity development (pp. 508–524). Oxford              (2017). Can less be more? Contrasting limited, unlimited, and auto­
+   University Press.                                                              matic picture capture for augmenting memory recall. Proceedings of
+Marcus, A. S., Maor, R., McGregor, I. M., Mills, G., Schweber, S.,                the ACM on Interactive, Mobile, Wearable and Ubiquitous
+   Stoddard, J., & Hicks, D. (2022). Holocaust education in transition            Technologies, 1(2), 1–22. https://doi.org/10.1145/3090086
+   from live to virtual survivor testimony: Pedagogical and ethical            Noreen, S., & MacLeod, M. D. (2013). It’s all in the detail: Intentional for­
+   dilemmas. Holocaust Studies, 28(3), 279–301. https://doi.org/10.1080/          getting of autobiographical memories using the autobiographical think/
+   17504902.2021.1979176                                                          no-think task. Journal of Experimental Psychology: Learning, Memory,
+Marsh, E. J., & Rajaram, S. (2019). The digital expansion of the mind:            and Cognition, 39(2), 375–393. https://doi.org/10.1037/a0028888
+   Implications of internet usage for memory and cognition. Journal of         Ochsner, K. N. (2000). Are affective events richly recollected or simply
+   Applied Research in Memory and Cognition, 8(1), 1–14. https://doi.             familiar? The experience and process of recognizing feelings past.
+   org/10.1016/j.jarmac.2018.11.001                                               Journal of Experimental Psychology: General, 129(2), 242–261.
+Martin, C. B., Hong, B., Newsome, R. N., Savel, K., Meade, M. E., Xia,            https://doi.org/10.1037/0096-3445.129.2.242
+   A., Honey, C. J., & Barense, M. D. (2022). A smartphone interven­           €
+                                                                               Ohman, C., & Floridi, L. (2017). The political economy of death in the
+   tion that enhances real-world memory and promotes differentiation              age of information: A critical approach to the digital afterlife indus­
+   of hippocampal activity in older adults. Proceedings of the National           try. Minds and Machines, 27(4), 639–662. https://doi.org/10.1007/
+   Academy of Sciences of the United States of America, 119(51),                  s11023-017-9445-2
+   e2214285119. https://doi.org/10.1073/pnas.2214285119                        Orben, A., & Przybylski, A. K. (2019). The association between adoles­
+Mau, S. (2019). The metric society: On the quantification of the social.          cent well-being and digital technology use. Nature Human
+   Polity Press.                                                                  Behaviour, 3(2), 173–182. https://doi.org/10.1038/s41562-018-0506-1
+Mayer-Sch€onberger, V. (2009). Delete: The virtue of forgetting in the         Pasupathi, M., & Wainryb, C. (2010). On telling the whole story: Facts
+   digital age. Princeton University Press.                                       and interpretations in autobiographical memory narratives from
+104       F. HUTMACHER ET AL.
+
+
+   childhood through midadolescence. Developmental Psychology, 46(3),             entries? Investigating utility of abstractive summarization for auto­
+   735–746. https://doi.org/10.1037/a0018897                                      biographical text. International Journal of Human–Computer
+Peltokorpi, V. (2008). Transactive memory systems. Review of General              Interaction, 1–19. Advance online publication. https://doi.org/10.
+   Psychology, 12(4), 378–394. https://doi.org/10.1037/1089-2680.12.4.378         1080/10447318.2023.2286090
+Perez, S. (2021, December 1). Spotify’s Wrapped 2021 arrives with art­         Soares, J. S. (2023). Comparing functions of and recollection with
+   ist video messages, Blend and even a game. TechCrunch. https://                recently taken and recently deleted smartphone camera photos.
+   techcrunch.com/2021/12/01/spotifys-wrapped-2021-arrives-with-art­              Applied Cognitive Psychology, 37(4), 699–710. https://doi.org/10.
+   ist-video-messages-blend-and-even-a-game/                                      1002/acp.4064
+Petrelli, D., Bowen, S., & Whittaker, S. (2014). Photo mementos:               Soares, J. S., & Storm, B. C. (2022). Exploring functions of and recol­
+   Designing digital media to represent ourselves at home.                        lections with photos in the age of smartphone cameras. Memory
+   International Journal of Human-Computer Studies, 72(3), 320–336.               Studies, 15(2), 287–303. https://doi.org/10.1177/17506980211044712
+   https://doi.org/10.1016/j.ijhcs.2013.09.009                                 Soh, S., Talaifar, S., & Harari, G. M. (2024). Identity development in
+Petrelli, D., & Whittaker, S. (2010). Family memories in the home:                the digital context. Social and Personality Psychology Compass, 18(2),
+   Contrasting physical and digital mementos. Personal and Ubiquitous             e12940. https://doi.org/10.1111/spc3.12940
+   Computing, 14(2), 153–169. https://doi.org/10.1007/s00779-009-0279-7        Sparrow, B., Liu, J., & Wegner, D. M. (2011). Google effects on mem­
+Qasim, S. E., Mohan, U. R., Stein, J. M., & Jacobs, J. (2023). Neuronal           ory: Cognitive consequences of having information at our fingertips.
+   activity in the human amygdala and hippocampus enhances emo­                   Science, 333(6043), 776–778. https://doi.org/10.1126/science.1207745
+   tional memory encoding. Nature Human Behaviour, 7(5), 754–764.              Stein, J.-P. (2021). Conjuring up the departed in virtual reality: The
+   https://doi.org/10.1038/s41562-022-01502-8                                     good, the bad, and the potentially ugly. Psychology of Popular
+Rasmussen, A. S., & Berntsen, D. (2011). The unpredictable past:                  Media, 10(4), 505–510. https://doi.org/10.1037/ppm0000315
+   Spontaneous autobiographical memories outnumber autobiograph­               Stiglbauer, B., & Weber, S. (2018). A picture paints a thousand words:
+   ical memories retrieved strategically. Consciousness and Cognition,            The influence of taking selfies on place identification. Journal of
+   20(4), 1842–1846. https://doi.org/10.1016/j.concog.2011.07.010                 Environmental Psychology, 58, 18–26. https://doi.org/10.1016/j.jenvp.
+Renoult, L., Davidson, P. S., Palombo, D. J., Moscovitch, M., & Levine,           2018.07.007
+   B. (2012). Personal semantics: At the crossroads of semantic and            Stone, C. B., Guan, L., LaBarbera, G., Ceren, M., Garcia, B., Huie, K.,
+   episodic memory. Trends in Cognitive Sciences, 16(11), 550–558.                Stump, C., & Wang, Q. (2022). Why do people share memories
+   https://doi.org/10.1016/j.tics.2012.09.003                                     online? An examination of the motives and characteristics of social
+Ribeiro, R., Trifan, A., & Neves, A. J. (2022). Lifelog retrieval from            media users. Memory, 30(4), 1–15. https://doi.org/10.1080/09658211.
+   daily digital data: Narrative review. JMIR mHealth and uHealth,
+                                                                                  2022.2040534
+   10(5), e30517. https://doi.org/10.2196/30517
+                                                                               Stone, C. B., & Wang, Q. (2019). From conversations to digital com­
+Sas, C., & Whittaker, S. (2013). Design for forgetting: Disposing of
+                                                                                  munication: The mnemonic consequences of consuming and pro­
+   digital possessions after a breakup. In Proceedings of the SIGCHI
+                                                                                  ducing information via social media. Topics in Cognitive Science,
+   Conference on Human Factors in Computing Systems (pp. 1823–
+                                                                                  11(4), 774–793. https://doi.org/10.1111/tops.12369
+   1832). https://doi.org/10.1145/2470654.2466241
+                                                                               Stone, C. B., & Zwolinski, A. (2022). The mnemonic consequences
+Schooler, J. N., & Storm, B. C. (2021). Saved information is remem­
+                                                                                  associated with sharing personal photographs on social media.
+   bered less well than deleted information, if the saving process is per­
+                                                                                  Memory, Mind & Media, 1, e12. https://doi.org/10.1017/mem.2022.6
+   ceived as reliable. Memory, 29(9), 1101–1110. https://doi.org/10.
+                                                                               Storm, B. C., & Soares, J. S. (in press). Memory in the digital age. In
+   1080/09658211.2021.1962356
+                                                                                  M. J. Kahana & A. D. Wagner (Eds.), Handbook of human memory:
+Sch€one, B., Wessels, M., & Gruber, T. (2019). Experiences in virtual
+                                                                                  Foundations and applications. Oxford University Press.
+   reality: A window to autobiographical memory. Current Psychology,
+                                                                               Sutton, J. (2010). Exograms and interdisciplinarity: History, the
+   38(3), 715–719. https://doi.org/10.1007/s12144-017-9648-y
+Sch€onpflug, W. (1986a). External information storage: An issue for the           extended mind, and the civilizing process. In R. Menary (Ed.), The
+   psychology of memory and cognitive capabilities. In F. Klix & H.               extended mind (pp. 189–225). MIT Press.
+   Hagendorf (Eds.), Human memory and cognitive capabilities (Vol. 1,          Sutton, J. (2015). Scaffolding memory: Themes, taxonomies, puzzles. In
+   pp. 369–375). Elsevier.                                                        L. Bietti & C. B. Stone (Eds.), Contextualizing human memory: An
+Sch€onpflug, W. (1986b). The trade-off between internal and external              Interdisciplinary approach to how individuals and groups remember
+   information storage. Journal of Memory and Language, 25(6), 657–               their pasts (pp. 187–205). Routledge.
+   675. https://doi.org/10.1016/0749-596X(86)90042-2                           Sutton, J., & Windhorst, C. (2009). Extended and constructive remem­
+Sch€onpflug, W., & Esser, K. B. (1995). Memory and its Graeculi:                  bering: Two notes on Martin and Deutscher. Crossroads: An
+   Metamemory and control in extended memory systems. In C. A.                    Interdisciplinary Journal for the Study of History, Philosophy, Religion
+   Weaver, III, S. Mannes, & C. R. Fletcher (Eds.), Discourse compre­             and Classics, 4(1), 79–91.
+   hension: Essays in honor of Walter Kintsch (pp. 245–255). Erlbaum.          Talarico, J. M. (2022). Replicating autobiographical memory research
+Schryer, E., & Ross, M. (2013). The use and benefits of external mem­             using social media: A case study. Memory, 30(4), 429–440. https://
+   ory aids in older and younger adults. Applied Cognitive Psychology,            doi.org/10.1080/09658211.2021.1903040
+   27(5), 663–671. https://doi.org/10.1002/acp.2946                            Teraoka, T. (2012). Organization and exploration of heterogeneous per­
+Selke, S. (Ed.) (2016). Lifelogging: Digital self-tracking and lifelogging –      sonal data collected in daily life. Human-Centric Computing and
+   between disruptive technology and cultural transformation. Springer.           Information Sciences, 2(1), 1–15. https://doi.org/10.1186/2192-1962-2-1
+   https://doi.org/10.1007/978-3-658-13137-1                                   Thudt, A., Baur, D., Huron, S., & Carpendale, S. (2016). Visual
+Sellen, A. J., & Whittaker, S. (2010). Beyond total capture: A construct­         mementos: Reflecting memories with personal data. IEEE
+   ive critique of lifelogging. Communications of the ACM, 53(5), 70–             Transactions on Visualization and Computer Graphics, 22(1), 369–
+   77. https://doi.org/10.1145/1735223.1735243                                    378. https://doi.org/10.1109/TVCG.2015.2467831
+Silva, A. R., Pinho, M. S., Macedo, L., & Moulin, C. J. A. (2018). A           Tirosh, N. (2017). Reconsidering the ‘Right to be Forgotten’–memory
+   critical review of the effects of wearable cameras on memory.                  rights and the right to memory in the new media era. Media, Culture
+   Neuropsychological Rehabilitation, 28(1), 117–141. https://doi.org/10.         & Society, 39(5), 644–660. https://doi.org/10.1177/0163443716674361
+   1080/09602011.2015.1128450                                                  Trace, C. B., & Zhang, Y. (2019). The quantified-self archive: docu­
+Singer, J. A. (2004). Narrative identity and meaning making across the            menting lives through self-tracking data. Journal of Documentation,
+   adult lifespan: An introduction. Journal of Personality, 72(3), 437–           76(1), 290–316. https://doi.org/10.1108/JD-04-2019-0064
+   459. https://doi.org/10.1111/j.0022-3506.2004.00268.x                       Tulving, E. (1972). Episodic and semantic memory. In E. Tulving & W.
+Siriwardhana, S., Gupta, C., Kaluarachchi, T., Dissanayake, V., Ellawela,         Donaldson (Eds.), Organization of memory (pp. 381–402). Academic
+   S., & Nanayakkara, S. (2023). Can AI models summarize your diary               Press.
+                                                                                          AUTOBIOGRAPHICAL MEMORY IN THE DIGITAL AGE             105
+
+
+Tulving, E. (2002). Episodic memory: From mind to brain. Annual              autobiographical memory: A naturalistic observation study of older
+  Review of Psychology, 53(1), 1–25. https://doi.org/10.1146/annurev.        adults’ memory sharing in daily conversations. Frontiers in Human
+  psych.53.100901.135114                                                     Neuroscience, 14, 238. https://doi.org/10.3389/fnhum.2020.00238
+Uhde, A., & Hassenzahl, M. (2022). Time perspectives in technology-        Warschauer, M. (2003). Demystifying the digital divide. Scientific
+  mediated reminiscing: effects of basic design decisions on subjective      American, 289(2), 42–47. https://doi.org/10.1038/scientificameri­
+  well-being. Human–Computer Interaction, 37(2), 117–149. https://           can0803-42
+  doi.org/10.1080/07370024.2021.1913415                                    Wegner, D. M., Giuliano, T., & Hertel, P. T. (1985). Cognitive inter­
+van den Hoven, E. (2014). A future-proof past: Designing for remem­          dependence in close relationships. In W. Ickes (Ed.), Compatible
+  bering experiences. Memory Studies, 7(3), 370–384. https://doi.org/        and incompatible relationships (pp. 253–276). Springer. https://doi.
+  10.1177/1750698014530625                                                   org/10.1007/978-1-4612-5044-9_12
+van den Hoven, E., Sas, C., & Whittaker, S. (2012). Introduction to this   Weinstein, E., Rundle, M., & James, C. (2015). A hush falls over the
+  special issue on designing for personal memories: Past, present, and       crowd: Diminished online civic expression among young civic
+  future. Human-Computer Interaction, 27, 1–12. https://doi.org/10.          actors. International Journal of Communication, 9(23), 84–105.
+  1080/07370024.2012.673451                                                Wertsch, J. V., & Roediger III, H. L. (2008). Collective memory:
+van Dijk, J. (2020). The digital divide. Polity Press.                       Conceptual foundations and theoretical approaches. Memory, 16(3),
+van Gennip, D., van den Hoven, E., & Markopoulos, P. (2015). Things          318–326. https://doi.org/10.1080/09658210701801434
+  that make us reminisce: Everyday memory cues as opportunities for        West, R., Leskovec, J., & Potts, C. (2021). Postmortem memory of pub­
+  interaction design. In Proceedings of the 33rd Annual ACM                  lic figures in news and social media. Proceedings of the National
+  Conference on Human Factors in Computing Systems (pp. 3443–                Academy of Sciences of the United States of America, 118(38),
+  3452). ACM. https://doi.org/10.1145/2702123.2702460                        e2106152118. https://doi.org/10.1073/pnas.2106152118
+van House, N., & Churchill, E. F. (2008). Technologies of memory:          Whittaker, S., Bergman, O., & Clough, P. (2010). Easy on that trigger
+  Key issues and critical perspectives. Memory Studies, 1(3), 295–310.       dad: A study of long term family photo retrieval. Personal and
+  https://doi.org/10.1177/1750698008093795                                   Ubiquitous Computing, 14(1), 31–43. https://doi.org/10.1007/s00779-
+Valkenburg, P. M. (2022). Social media use and well-being: What we           009-0218-7
+  know and what we need to know. Current Opinion in Psychology,            Whittaker, S., Kalnikait_e, V., Petrelli, D., Sellen, A., Villar, N.,
+  45, 101294. https://doi.org/10.1016/j.copsyc.2021.12.006                   Bergman, O., Clough, P., & Brockmeier, J. (2012). Socio-technical
+Varela, F. J., Thompson, E., & Rosch, E. (1991). The embodied mind:          lifelogging: Deriving design principles for a future proof digital past.
+  Cognitive science and human experience. MIT Press.                         Human–Computer Interaction, 27(1–2), 37–62. https://doi.org/10.
+Verduyn, P., Gugushvili, N., Massar, K., T€aht, K., & Kross, E. (2020).      1080/07370024.2012.656071
+  Social comparison on social networking sites. Current Opinion in         Yamashiro, J. K., & Roediger, H. L. I. (2019). Expanding cognition: A
+  Psychology, 36, 32–37. https://doi.org/10.1016/j.copsyc.2020.04.002        brief consideration of technological advances over the past 4000
+Wang, J., & Tanaka, J. (2019). Aiding autobiographical memory by             years. Journal of Applied Research in Memory and Cognition, 8(1),
+  using wearable devices. In K. Arai, S. Kapoor, & R. Bhatia (Eds.),         15–19. https://doi.org/10.1016/j.jarmac.2018.12.004
+  Advances in information and communication networks: Proceedings          Yang, F. R., Wei, C. F., & Tang, J. H. (2019). Effect of Facebook social
+  of the 2018 future of information and communication conference             comparison on well-being: A meta-analysis. Journal of Internet
+  (FICC) (Vol. 2, pp. 534–545). Springer. https://doi.org/10.1007/978-       Technology, 20(6), 1829–1836.
+  3-030-03405-4_37                                                         Yoon, S., Kleinman, M., Mertz, J., & Brannick, M. (2019). Is social net­
+Wang, Q. (2013). The autobiographical self in time and culture. Oxford       work site usage related to depression? A meta-analysis of Facebook–
+  University Press. https://doi.org/10.1093/acprof:oso/9780199737833.        depression relations. Journal of Affective Disorders, 248, 65–72.
+  001.0001                                                                   https://doi.org/10.1016/j.jad.2019.01.026
+Wang, Q. (2021). The cultural foundation of human memory. Annual           Zhang, T., Kim, T., Brooks, A. W., Gino, F., & Norton, M. I. (2014). A
+  Review of Psychology, 72(1), 151–179. https://doi.org/10.1146/             “present” for the future: The unexpected value of rediscovery.
+  annurev-psych-070920-023638                                                Psychological Science, 25(10), 1851–1860. https://doi.org/10.1177/
+Wang, Q., Lee, D., & Hou, Y. (2017). Externalising the autobiograph­         0956797614542274
+  ical self: Sharing personal memories online facilitated memory reten­    Zhao, X., Salehi, N., Naranjit, S., Alwaalan, S., Voida, S., & Cosley, D.
+  tion. Memory, 25(6), 772–776. https://doi.org/10.1080/09658211.            (2013). The many faces of facebook: Experiencing social media as
+  2016.1221115                                                               performance, exhibition, and personal archive. In Proceedings of the
+Wank, A. A., Mehl, M. R., Andrews-Hanna, J. R., Polsinelli, A. J.,           SIGCHI Conference on Human Factors in Computing Systems (pp.
+  Moseley, S., Glisky, E. L., & Grilli, M. D. (2020). Eavesdropping on       1–10). ACM. https://doi.org/10.1145/2470654.2470656
+

@@ -1,0 +1,1021 @@
+                                         Memory Printer: Exploring Everyday Reminiscing by Combining
+                                            Slow Design with Generative AI-based Image Creation
+                                                                        Zhou Fang                                                     Janet Yi-Ching Huang
+                                                                  Industrial Design                                                      Industrial Design
+                                                         Eindhoven University of Technology                                     Eindhoven University of Technology
+                                                             Eindhoven, the Netherlands                                             Eindhoven, the Netherlands
+                                                               z.fang1@student.tue.nl                                                    y.c.huang@tue.nl
+
+
+
+
+arXiv:2603.13116v1 [cs.HC] 13 Mar 2026
+                                           Figure 1: Memory printer that allows users to recreate their memory scenes using GAI and print them as memoryphoto.
+                                         Abstract                                                                    CCS Concepts
+                                         Generative Artificial Intelligence (GAI) offers new opportunities for       • Human-centered computing → Interaction design; Empiri-
+                                         reconstructing these unrecorded memory scenes, yet existing web-            cal studies in interaction design; Systems and tools for inter-
+                                         based tools undermine users’ sense of agency through disengaging            action design.
+                                         and unpredictable interactions. In this work, we advance three de-
+                                         sign arguments about how slow, tangible interaction can reshape             Keywords
+                                         human–AI relationships by making temporality, embodied agency,              Generative Artificial Intelligence, Tangible Interfaces, Slow Design,
+                                         and generative processes experientially legible. We instantiate these       Reminiscing Support
+                                         arguments by presenting Memory Printer, a tangible design that
+                                                                                                                     ACM Reference Format:
+                                         combines silk-screen printing metaphors with text-to-image gener-
+                                                                                                                     Zhou Fang and Janet Yi-Ching Huang. 2026. Memory Printer: Exploring
+                                         ation. The design features layered reconstruction that decomposes
+                                                                                                                     Everyday Reminiscing by Combining Slow Design with Generative AI-based
+                                         image generation into incremental steps, a physical wooden scraper          Image Creation. In Proceedings of the 2026 CHI Conference on Human Factors
+                                         enabling embodied control over image revelation, and built-in print-        in Computing Systems (CHI ’26), April 13–17, 2026, Barcelona, Spain. ACM,
+                                         ing that produces tangible photos. We examine these arguments               New York, NY, USA, 18 pages. https://doi.org/10.1145/3772318.3791325
+                                         through a comparative study with 24 participants, exploring how
+                                         participants engage with, interpret, and respond to this interac-           1    Introduction
+                                         tion stance. The study surfaces both opportunities—such as vivid
+                                                                                                                     Memory is one of the core components of the human cognitive
+                                         memory evocation, heightened sense of control, and creative ex-
+                                                                                                                     system. It not only carries an individual’s life experience and knowl-
+                                         ploration—and critical tensions, including risks of false memory
+                                                                                                                     edge base, but also plays a key role in shaping self-awareness,
+                                         formation, algorithmic bias, and data privacy. Together, these find-
+                                                                                                                     emotional expression and decision-making [34]. The triggering of
+                                         ings articulate important boundaries for deploying generative AI
+                                                                                                                     memory is very complex and involves a variety of internal and
+                                         in emotionally sensitive contexts.
+                                                                                                                     external factors. Research shows that the triggering of memory
+                                                                                                                     usually depends on the stimulation of memory cues. These memory
+                                                                                                                     cues can be physical factors in the external environment, or internal
+                                                                                                                     emotions and associations [7]. Artifacts have long been used as an
+                                                                                                                     important carrier of memory. People use photos, diaries, souvenirs
+                                         This work is licensed under a Creative Commons Attribution-NonCommercial-   and other forms of artifacts to record memories. These memory
+                                         NoDerivatives 4.0 International License.                                    triggers help individuals to reproduce past moments and even cer-
+                                         CHI ’26, Barcelona, Spain                                                   tain emotions through sensory impressions [38]. Based on this, in
+                                         © 2026 Copyright held by the owner/author(s).
+                                         ACM ISBN 979-8-4007-2278-3/2026/04                                          the field of health, people use these artifacts as therapeutic tools
+                                         https://doi.org/10.1145/3772318.3791325                                     to alleviate certain cognitive diseases such as Alzheimer’s disease
+CHI ’26, April 13–17, 2026, Barcelona, Spain                                                                                   Fang and Huang
+
+
+[3, 42]. In everyday life, people share photos with their friends and       Based on these considerations, we follow the Research through
+family and tell each other stories from the past. This not only leads    Design methodology [45] and Gaver’s characterization of design
+to reminiscing, but also promotes communication and strengthens          exemplars [13]. We advance three interconnected design arguments
+emotional bonds [39].                                                    about how slow and tangible interaction might reshape human–AI
+   Over the years, researchers have explored how to use technology-      interaction in the context of everyday reminiscing. Drawing inspira-
+mediated artifacts to support reminiscing. With the development          tion from traditional screen printing—an inherently slow, embodied,
+of Artificial Intelligence (AI), large language models (LLMs) have       and layered draft practice—we argue that (1) deliberate slowness cre-
+shown potential in human-like dialogue and information retrieval.        ates space for reflection; (2) embodied interaction restores agency;
+This has led researchers to work on how to use AI to enhance             and (3) decomposed control enables negotiation with AI. These
+reminiscing. At present, most research in this field is still based      arguments address a specific design space: emotionally significant
+on LLM such as ChatGPT. There has been less research on how              content, autobiographical material where authorship matters, and
+other types of AI models can enhance reminiscing. Furthermore,           contexts tolerating deliberate pace. In efficiency-critical domains,
+among various memory cues, visual stimuli, especially images, have       these arguments may not apply.
+always been considered one of the best memory cues for evoking              To stage these arguments for experiential exploration, we de-
+memories because they can help individuals to visualize abstract         signed Memory Printer, a tangible design that combines traditional
+events [10]. At the same time, the information is more direct and        screen printing with generative artificial intelligence to support
+richer than that of text [46]. However, not all the important mo-        reminiscing in everyday scenarios. Memory Printer is not a solution
+ments can be recorded in photos or other forms of media. Memories        to the challenges identified above; rather, it operates as a design
+that are not recorded often fade, distort, and disappear over time,      exemplar—a materialized argument that instantiates these con-
+which makes it impossible for us to relive certain moments. How          testable propositions and invites their critique. The prototype en-
+to effectively evoke these unrecorded memories has always been a         ables users to gradually recreate memory scenes through a layered
+challenge. Generative Artificial Intelligence (GAI), with its ability    reconstruction process, decomposing prompt engineering into in-
+to quickly generate realistic images from textual descriptions, offers   cremental steps. Users interact through a physical wooden ‘scraper’
+new opportunities to address this challenge. Yet the introduction        that controls the revelation of the generated images, replacing pas-
+of generative images into memory work raises questions not only          sive button-clicking with embodied action and allowing users to
+about what AI can generate, but also about how people interact           control the pace of image revelation. The prototype also prints
+with and make sense of these generative processes.                       the reconstructed memory as a tangible photograph, transforming
+   To explore this potential, we conducted a preliminary study           digital interaction into a lasting physical artifact.
+with eight participants to examine how users interact with exist-           We conducted a user study with 24 participants comparing the
+ing web-based GAI tools to reconstruct personal memory scenes.           Memory Printer with a web-based GAI tool. Our goal is to under-
+The findings confirmed that GAI has potential to scaffold memory         stand users’ experience of using the Memory Printer and exam-
+retrieval—participants recalled additional details through iterative     ine these design arguments empirically. Specifically, we examine
+image generation. However, this preliminary study also revealed a        how this interaction stance reshapes participants’ sense of con-
+critical challenge: participants consistently reported a diminished      trol, emotional resonance, and creative exploration during memory
+sense of agency, describing the interaction as emotionally disen-        reconstruction. Our findings lend support to the proposition that
+gaging and the generation process as unpredictable and difficult to      Memory Printer’s design qualities—slowness, tangibility, and lay-
+control.                                                                 ered control—facilitated more coherent memory evocation while
+   These findings point to a fundamental tension: while GAI shows        enhancing participants’ sense of control, emotional resonance, and
+promise for memory reconstruction, existing web-based tools un-          creative exploration. While our findings demonstrate the poten-
+dermine the sense of personal control, agency and authorship that        tial of combining slow design with GAI for reminiscing, we also
+meaningful memory work requires. The sense of agency—the sub-            acknowledge that critical concerns—false memories, algorithmic
+jective experience of controlling one’s actions and their outcomes       bias, and data security—represent important boundaries and con-
+[23]—is supported by multiple cues, including motor signals from         siderations for deploying GAI in emotionally sensitive contexts like
+physical action and external feedback that enables reflection [27].      reminiscing.
+The screen-confined, automated nature of web-based GAI tools                This work contributes to HCI in two ways. First, we offer Mem-
+disrupt both sources: users cannot execute meaningful embodied           ory Printer as a design exemplar that demonstrates how slow de-
+actions, and rapid, unpredictable generation forecloses opportu-         sign principles and tangible interaction can work synergistically
+nities for reflection. We propose that two complementary design          in human-AI interaction, providing a concrete–yet contestable—
+strategies can address these challenges. Slow design, which advo-        reference point for future design work. Second, through the process
+cates for technology that creates space for reflection rather than       of designing, building, and evaluating Memory Printer, we gen-
+prioritizing efficiency, aligns with both the reconstructive nature      erate experiential knowledge about the possibilities and pitfalls
+of memory and the need to restore user agency—memories emerge            of GAI-supported reminiscence, contributing grounded insights
+gradually through reconstruction [35], and deliberate slowness           rather than universal guidelines to an emerging design space.
+creates temporal space for evaluation and sense-making. Tangible
+interaction can restore the embodied engagement that screen-based
+interfaces eliminate, providing richer agency cues through move-
+ment, proprioception, and spatial reasoning [9, 18].
+Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation      CHI ’26, April 13–17, 2026, Barcelona, Spain
+
+
+2 Related Work                                                                       the user and their photo collection. Similar explorations include
+                                                                                     Olly [31] and memory tracer [41], all these projects explore how
+2.1 Technology-Mediated Reminiscing in
+                                                                                     slow design supports ongoing, reflective memory engagement. Our
+    Everyday Contexts                                                                work attempts to further explore the positive impact of slow design
+From photographs to diaries, letters to mementos, artifacts play a                   on reminiscing based on new technologies.
+crucial role as external triggers for memory, evoking associations
+through sight, sound, smell, taste, and touch [16, 21, 29, 40].                      2.4     User Agency in Human-AI Interaction
+   The effectiveness of artifacts in memory evocation has been
+                                                                                     2.4.1 Theoretical Background. Human agency, the subjective ex-
+studied and applied in various fields. In the health field, reminis-
+                                                                                     perience of controlling one’s actions and their consequences, has
+cence therapy based on autobiographical memory is used to treat
+                                                                                     long been a central concept in the field of HCI. Limerick et al. [23]
+Alzheimer’s disease. Stimulating memory through photos and per-
+                                                                                     argue that as an increasing number of agentic interactions in our
+sonal items can help patients improve cognitive function [37]. Tech-
+                                                                                     daily lives involve technology, understanding how interface design
+nological advances have expanded these possibilities for everyday
+                                                                                     affects users’ sense of agency is crucial for human-computer inter-
+use across diverse user groups [22]. Recent HCI research has ex-
+                                                                                     action research. Previous studies have established several models
+plored various approaches: MemoryReel [40] encourages reflection
+                                                                                     to explain how humans develop a sense of agency. The comparator
+through photos and sounds. Kim et al. designed an interactive photo
+                                                                                     model suggests that agency arises when the predicted outcomes of
+frame as a memory aid [21]. Memento [29] is an interactive pendant,
+                                                                                     our actions match the actual outcomes we perceive [12]. Building
+captures daily sound clips to stimulate memories unobtrusively.
+                                                                                     on this, Moore and Fletcher [27] proposed the cue integration ap-
+                                                                                     proach, arguing that the sense of agency is not determined by any
+2.2     Use AI-Powered Design Enhance                                                single factor but emerges from multiple cues. The HCI community
+        Reminiscing                                                                  has developed several design paradigms that effectively support
+Research using AI to directly support reminiscing is still in its                    user agency. Shneiderman’s work [36] established that physical
+infancy [19]. Related research has pointed out the unique advan-                     actions and incremental operations can enhance users’ sense of
+tages of AI in some fields. For example, the active chat-bot memory                  control. Dourish’s work [9] further emphasized how bodily en-
+reviver based on a visual recognition model and LLM has been                         gagement with computational systems creates richer experiences
+used to help visually impaired people recall a photo collection [43].                of agency than purely symbolic interaction. Tangible interfaces
+However, most approaches rely on LLM (e.g., ChatGPT), which                          extend this principle by coupling digital information to physical
+emphasizes the importance of dialog with users. With the itera-                      objects, providing users with haptic feedback and proprioceptive
+tive development of generative adversarial networks (GANs), it                       awareness that screen-based interfaces cannot offer [18].
+has become possible to quickly generate images and even videos,
+                                                                                     2.4.2 Agency Disruption in Human-AI Interaction. Prior work noted
+some of which are almost indistinguishable from the real [20]. This
+                                                                                     that as more task execution stages involve automated processing,
+provides more possibilities for using memory cues. Previous re-
+                                                                                     users’ sense of control diminishes even when system performance
+search has shown that the combination of visual and even tactile
+                                                                                     improves [1]. This paradox becomes more pronounced when AI
+multi-sensory experiences is conducive to enhancing the emotional
+                                                                                     systems make autonomous decisions or generate content without
+impact of memories, thus better evoking memories [44].
+                                                                                     transparent, incremental user control. When users interact with
+                                                                                     these GAI tools, their actions are reduced to inputting prompts and
+2.3     Slow Design and Reminiscing                                                  clicking buttons—operations that provide minimal sensorimotor
+Memory is a cognitive process that is susceptible to emotional and                   feedback. While this intent-based outcome specification represents
+cognitive factors [6]. It is not simply a static storage system, but a               a powerful new interaction paradigm [28], it fundamentally trans-
+dynamic process that is reconstructive. Memory can be affected by                    fers control from users to opaque generative models.
+many factors, such as personal cognition, memory behavior, and the                      Researchers have begun to explore how generative AI specifi-
+environment [35]. This means that memories often undergo a long                      cally disrupts user agency. Recent research [25] found that users
+and slow process of remodeling after they are formed. The theory of                  struggle to cope with generative models’ unpredictability—minor
+slow design suggests that technology can be made slow in various                     variations in prompts can yield drastically different outputs. This
+ways because it takes time for reflection [14], which presents a                     lack of transparency and predictability undermines two key prereq-
+symbiotic relationship with the characteristics of memory. Slow                      uisites for agency established in early HCI research: understanding
+design provides an environment in which time is stretched out,                       system behavior and being able to reliably produce intended re-
+allowing users to think. This gradual, reflective engagement allows                  sults [23]. Moreover, the cognitive burden imposed by "prompt
+users to develop a deeper connection with their memories over time,                  engineering" shifts users’ attention from creative goals to technical
+rather than obtaining fleeting, transient moments of recollection.                   problem-solving, potentially diminishing their sense of ownership
+HCI research has explored this relationship through various proto-                   over generated content. Given these challenges, researchers have
+types. Photobox [32] randomly prints users‘ photo collections every                  explored various strategies to preserve or restore user agency in
+month. This slow, unpredictable interaction promotes more mem-                       AI-assisted environments. Some work emphasizes transparency
+ories and reflections during the waiting. Photoclock [5] displays                    and explainability to achieve this goal [26], while others attempt
+photos taken at the same time in the past. This design helps users                   to distribute control across multiple stages of the AI process [24].
+reflect on the past and establish an evolving relationship between                   Despite some progress, most existing solutions remain screen-based
+CHI ’26, April 13–17, 2026, Barcelona, Spain                                                                                     Fang and Huang
+
+
+and focus on single dimensions of agency (e.g., execution control         with details growing richer. However, this process was cognitively
+through iterative prompt refinement). Prior research suggests that        demanding. Participants needed to recall memory details, trans-
+through multisensory integration, physical manipulation can pro-          late them into effective textual prompts, evaluate generated images
+vide richer agency cues [8]. However, generative AI tools largely         for accuracy, and iterate based on discrepancies. This imposed an
+abandon physicality in favor of purely digital, screen-based inter-       additional cognitive burden on participants.
+faces optimized for efficiency rather than experiential richness.
+There remains limited research on how factors such as temporal-           3.2.2 Interaction with Web-based GAI Tool Lacks Engagement. Par-
+ity, materiality, and embodied cognition work synergistically to          ticipants universally found prompt input difficult—despite careful
+support multidimensional agency in generative AI systems. Our             selection, generated images often mismatched expectations, leading
+research also aims to explore how tangible and slow interaction           to frustration and lost interest. Participants’ frustrations extended
+design can support agency in human-AI interaction. Through user           beyond mere difficulty. They perceived the entire interaction as
+testing with Memory Printer, we provide empirical evidence that           “emotionally flat and disengaging.” The process consisted only of
+these design strategies can enhance users’ sense of agency beyond         repetitive typing and mouse clicking, lacking appeal.
+what purely screen-based tools can achieve, even when the under-          3.2.3 Participants Lacked Sense of Control over Image Generating.
+lying generative process remains opaque.                                  Image generation uncertainty further hindered participants’ ability
+                                                                          to obtain the desired images. Participants found that when attempt-
+3     Preliminary Study                                                   ing to modify images, they struggled to control specific details pre-
+To inform the design of the Memory Printer, we conducted a prelimi-       cisely. Moreover, when they adjusted their prompts to fix certain
+nary study with two primary objectives: (1) to validate whether gen-      elements, other aspects they were previously satisfied with often
+erative GAI can effectively assist users in reconstructing memory         changed unexpectedly. This inscrutable, fully automated process
+scenes, and (2) to identify specific limitations in existing web-based    left them feeling frustrated. Although participants were generally
+GAI tools that prevent users from better reconstructing memory            satisfied with the overall atmosphere of the generated images, this
+scenes. This formative study provided empirical grounding for our         unpredictability made them feel a lack of control. They agreed that
+design principles and revealed critical gaps in how conventional AI       it prevented them from building trust in AI and hindered deeper
+interfaces support reflective memory practices.                           reflection on their memories.
+
+3.1     Participants and Procedure                                        3.3    Design Principles
+We recruited eight participants (four women and four men) through         Based on the findings, we derived three design principles to guide
+social media advertising. All participants were between 20 and 30         prototype’s development. Each principle addresses a specific di-
+years old. Our goal in this preliminary study was to observe how          mension that was compromised in existing web-based GAI tools.
+users interact with web-based GAI tools for memory reconstruction         Through these principles, we aim to create more engaging and
+and to identify challenges in this process, rather than to specifically   meaningful interactions that better support users’ reminiscing and
+study novice users.                                                       reflection.
+   The testing consisted of three phases: First, participants de-
+scribed their personally experienced events . Next, they used AI to       3.3.1 Create Interaction Experiences beyond Screen. Our findings
+generate images that could reconstruct these events. For this pur-        indicate that participants described this screen-based, simple yet
+pose, we employed KreaAI, a web-based GAI tool. During this phase,        repetitive interactive process as a bland and disengaging experience.
+participants iteratively refined their prompts based on their descrip-    Meanwhile, memory is personal, emotionally charged, and mean-
+tions until they believed the generated images matched the scenes         ingful. To better support reminiscing, interactions should engage
+in their memory (Figure 2). Finally, we conducted semi-structured         users beyond mere efficiency. Previous research explored how phys-
+interviews. We aimed to collect qualitative data from two perspec-        ical objects can transform users’ interaction experiences. To better
+tives: (1) whether participants believed the AI accurately recreated      understand user needs, we applied Norman’s “visceral, behavioral,
+their scene descriptions, and (2) participants’ opinions about this       and reflective” framework during the prototype design process [30].
+web-based AI image generation tool.                                       We aim for a GAI tool that effectively supports reminiscence while
+                                                                          evoking feelings associated with memory—cultivating a retro, warm
+                                                                          atmosphere that strengthens users’ emotional connection to the
+3.2     Findings
+                                                                          events they want to reconstruct.
+3.2.1 GAI Tool Shows Potential for Assisting in Memory Scene Re-
+construction. After multiple prompt adjustments, all participants         3.3.2 Provide Guidance for Users’ Memory Recall. Research indi-
+successfully generated images they believed could represent their         cates that memory details tend to emerge in a particular order: either
+memories. During the interaction, participants formed a behavioral        by association from salient details or by temporal sequence [6]. In
+loop of “recalling events → modifying prompts → observing gener-          the preliminary study, generated images supported this process
+ated image details → recalling more scene details.” When observing        by serving as visual cues for recalling memory details, but did not
+generated images, participants proactively compared the images            guide the sequential emergence of these details—users had to ad-
+with their memories and modified the image details. This behavior         dress all aspects of memory reconstruction at once. At the same
+not only gradually aligned the images with their memory scenes,           time, while GAI can support this process, it imposes substantial cog-
+but Participants also felt their memories gradually becoming clearer,     nitive demands. We attempted to decompose the entire process into
+Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation        CHI ’26, April 13–17, 2026, Barcelona, Spain
+
+
+
+
+                        Figure 2: Participants attempted to use KreaAI to recreate scenes from their memories.
+
+
+few phases. This phased approach serves a dual purpose: (1) reduc-                   and invites critique of these claims. Specifically, we advance three
+ing cognitive burden by breaking complex tasks into manageable                       design arguments, each operationalized in specific design features
+steps; (2) To provide natural reflection points through incremental,                 and examined in our empirical study.
+segmented interactions, allowing users to pause, evaluate progress,
+and progressively elicit deeper memories.
+
+3.3.3 Enhance Users’ Sense of Control over Generated Images. The                     4.1     Design Inspiration: Screen Printing as
+purely virtual nature of web-based GAI tools fundamentally under-                            Metaphor
+mines users’ sense of control. Moreover, when entire images trans-
+                                                                                     The design of the Memory Printer draws inspiration from screen
+form based on prompt modifications, users cannot discern which
+                                                                                     printing, an ancient technique where a scraper pushes pigment
+specific prompt elements caused particular visual changes—their
+                                                                                     through stenciled templates, building complete images through
+actions fail to produce clearly attributable effects. This resulting
+                                                                                     successive color layers. This craft practice suggested three design
+unpredictability leaves users feeling constrained by an incompre-
+                                                                                     possibilities that address the limitations we observed in web-based
+hensible system. Previous research indicates that sense of agency
+                                                                                     GAI tools.
+is influenced by multiple cues, including internal motor signals
+                                                                                         First, screen printing is inherently slow and deliberate. Each layer
+and external contextual cues [27]. By providing users with clear,
+                                                                                     requires preparation, alignment, and careful execution—rushing
+attributable methods of control, we aim to restore their sense of
+                                                                                     produces poor results. This contrasts sharply with the instanta-
+agency over the generative process through these two aspects.
+                                                                                     neous generation of web-based tools, suggesting that enforced
+                                                                                     slowness might create a valuable reflective space.
+4    Memory Printer                                                                      Second, screen printing is fundamentally embodied. Practitioners
+Based on the insights from our preliminary study, we designed                        grip the scraper, feel its resistance against the screen, and control
+Memory Printer, a tangible interface inspired by traditional screen                  pressure and speed through bodily skill. This physical engagement
+printing combined with generative AI capabilities to support ev-                     stands in stark contrast to the disembodied clicking of web inter-
+eryday reminiscing. The prototype consists of a wooden housing, a                    faces.
+physical scraper for controlling image revelation, a layered redraw-                     Third, screen printing decomposes images into independent lay-
+ing interface, and a built-in Zink printer that produces tangible                    ers. Rather than producing complete images in one action, prac-
+photo outputs (Figure 1).                                                            titioners build complexity incrementally, addressing one color or
+   Memory Printer is not merely a functional tool—it embodies a                      region at a time. This layered construction enables systematic re-
+design-as-argument approach. Following Research through Design                       finement impossible when outputs appear wholesale.
+methodology [45] and Gaver’s characterization of design exem-                            Beyond these functional parallels, screen printing’s vintage aes-
+plars [13], we see the Memory Printer as a materialized argument: a                  thetic evokes nostalgia appropriate for memory work, and its fa-
+designed object that embodies contestable theoretical propositions                   miliar physicality reinforces the embodied engagement central
+about human–AI interaction and stages them for experiential eval-                    to our second design argument. The conceptual alignment runs
+uation in everyday use. We do not claim that Memory Printer is                       deeper still: spreading activation theory [11] suggests that memo-
+definitive; instead, it operates as a design exemplar that instantiates              ries emerge sequentially with salient details first, while self-memory
+CHI ’26, April 13–17, 2026, Barcelona, Spain                                                                                       Fang and Huang
+
+
+system theory [6] describes hierarchical retrieval where details inte-    control. We employ a distance sensor to monitor the scraper’s
+grate progressively—processes that mirror screen printing’s layered       movement. As the scraper moves along the screen toward its bot-
+image construction.                                                       tom edge, the modified image gradually reveals itself in tandem
+                                                                          with the scraper’s motion, with the image’s bottom edge always
+4.2     Design Arguments                                                  aligned with the scraper (Figure 5). This approach transforms the
+Drawing on these inspirations, we advance three interconnected            web-based GAI tool, which relies solely on button clicks or other
+arguments about how tangible, slow interaction can reshape human-         virtual interactions for image generation. The scraper not only
+AI relationships in emotionally sensitive contexts. Each argument         makes the entire process more akin to actual screen printing but
+transforms an observed quality of screen printing into a testable         also allows users to control image presentation at their own pace,
+proposition about human-AI interaction:                                   further enhancing their sense of control. As users repeatedly move
+                                                                          the scraper, they can carefully compare pre- and post-modification
+4.2.1 Argument 1: Deliberate Slowness Creates Space for Reflection.       versions of the image. This comparative method enables users to
+Contemporary GAI tools prioritize immediacy, assuming that faster         more intuitively evaluate whether local changes in the image align
+is better. We argue that for emotionally significant content like         with their expectations.
+personal memories, enforced slowness enables deeper engagement
+that rapid interaction forecloses. When users must invest time to         4.3.2 Layered Redrawing. Rather than regenerating entire images
+see results, they gain opportunities to prepare emotionally, evaluate     from revised prompts, users modify specific regions through inde-
+incrementally, and reflect on emerging content. Memory Printer            pendent layers. For each layer, users draw directly on the screen
+operationalizes this through the scraper mechanism, which requires        to create a mask indicating the target region, then provide verbal
+deliberate physical movement to reveal images, and through the            descriptions of the desired changes. The system redraws only the
+layered modification process, which decomposes rapid iteration            masked area based on these descriptions (Figure 7). This decom-
+into sequential stages of observation, drawing, description, and          position serves two purposes: reducing cognitive load by focusing
+evaluation.                                                               attention on one element at a time, and enabling causal attribu-
+                                                                          tion—users can identify which layer produced which change. Users
+4.2.2 Argument 2: Embodied Interaction Restores Agency. Web-              can create multiple layers addressing foreground, middle ground,
+based GAI tools confine users to typing and clicking, contributing to     and background elements separately, building systematic modifica-
+a diminished sense of control. We argue that physical manipulation—       tion strategies.
+gripping, pushing, feeling resistance—provides proprioceptive and
+haptic feedback that creates richer agency cues. Memory Printer           4.3.3 Physical Photo Output. When satisfied with the reconstructed
+operationalizes this through the wooden scraper requiring grip and        image, users lift the upper portion of the device to activate the built-
+force, the warm birch wood housing, and the physical photo output         in Zink printer, which produces a tangible photograph, “a photo
+that transforms digital interaction into a lasting material form.         from the past” (Figure 6). By doing this, the digital Human-AI inter-
+                                                                          action process is transformed into a touchable photo, imbuing the
+4.2.3 Argument 3: Decomposed Control Enables Negotiation. Most            memory reconstruction activity with deeper meaning. It serves not
+GAI systems present complete outputs that users accept or reject          only as a copy of the final generated image but also as a witness
+wholesale, preventing users from understanding cause-effect rela-         and memento of the entire recollection journey. Users can preserve
+tionships. We argue that decomposing generation into addressable          these printed photos as tangible mementos, filling gaps in personal
+components enables iterative negotiation with AI. Memory Printer          histories lacking photographic documentation. Simultaneously, the
+operationalizes this through layered redrawing, where users create        deliberately slowed-down manual printing process creates a final
+independent layers targeting specific image regions, each with its        space for reflection, allowing users to revisit the entire interaction,
+own mask and description, allowing attribution of specific changes        contemplate how they gradually reconstructed the memory, and
+to specific actions.                                                      imbue the memory printer’s use with a sense of ritual.
+   These arguments address a specific design space: content carry-
+ing emotional significance, autobiographical material where author-       5 Empirical Study
+ship matters, and contexts tolerating deliberate pace. In efficiency-
+critical domains, these arguments may not apply. By articulating          5.1 Participants
+them explicitly, we invite critical evaluation through our empirical      We recruited 24 participants through social media advertisements
+study.                                                                    and snowball sampling. Before the user testing began, we ensured
+                                                                          that all participants understood the testing objectives; confirmed
+4.3     Prototype Features                                                that participants had no major illnesses, sensory impairments, and
+Figure 4 illustrates the complete interaction flow. Users first narrate   maintained clear thinking. This user study protocol was approved
+initial memory impressions; the built-in microphone captures these        by the Institutional Review Board at the authors’ institution, and all
+and generates a preliminary base image. Users then examine the            participants signed informed consent forms prior to participation.
+image and modify details through layered redrawing. Finally, they         Participants were informed of the research purpose, procedures,
+print the reconstructed memory as a physical photograph.                  potential risks (including exposure to potentially disturbing AI-
+                                                                          generated content), and their right to withdraw from the study
+4.3.1 Scraper-Controlled Image Revelation. During image gener-            at any time. The sample included 8 females (33%) and 16 males
+ation, we introduced a “scraper” as the interactive tool for image        (67%), with ages ranging from 22 to 57 years (mean age M = 27.6
+Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation     CHI ’26, April 13–17, 2026, Barcelona, Spain
+
+
+
+
+                                             Figure 3: The memory printer and the wooden scraper
+
+
+
+
+                                   Figure 4: Six steps to restore memory scenes using the memory printer
+
+
+years). 23 participants were aged between 22 and 31 years, with one                  no substantive prior hands-on experience with AI image genera-
+participant aged 57 (P17). Participants were primarily drawn from                    tion. This variation in prior experience was incidental rather than
+university communities and their relatives. We did not require par-                  a primary recruitment criterion; our central research objective was
+ticipants to have prior experience with generative AI tools. Among                   to examine the three design arguments (slowness, embodiment,
+the 24 participants, 18 (75%) reported having previously used AI                     and decomposed control) rather than to compare novice and expe-
+image generation tools on various platforms (e.g., generating im-                    rienced users. Participants were primarily drawn from university
+ages using ChatGPT). Most of them described their experience as                      communities, resulting in a sample predominantly composed of
+occasional or outcome-oriented rather than involving sustained,                      young and highly educated individuals. We discuss the implications
+iterative interaction. The remaining 6 participants (25%) reported                   of this sample composition in the limitations subsection.
+CHI ’26, April 13–17, 2026, Barcelona, Spain                                                                                  Fang and Huang
+
+
+
+
+                                                                       Figure 6: User retrieves images printed by Zink printers from
+Figure 5: The image is gradually updated as the scraper moves.
+                                                                       the memory printer.
+
+
+
+
+Figure 7: Demonstration of the process of modifying and redrawing parts of an image. Users first create a base image generated
+by AI. Then add layers to the image, drawing within each layer and adding prompts for the drawn parts. Subsequently, based
+on the drawn content and prompts, the base image is redrawn layer by layer.
+
+
+5.2     Procedure                                                      gave participants ten minutes to familiarize themselves with it. Par-
+Our user study consisted of three stages, as shown in Figure 8.        ticipants were then asked to select another memory and attempt
+All user study was conducted in laboratory settings. In the first      to use the memory printer to recreate memory scenes within 20
+stage of the user study, participants were asked to select a memory    minutes. Similarly, after the generation activity concluded, partic-
+and use a web-based GAI tool (KreaAI) to generate an image that        ipants introduced this memory and provided self-evaluations of
+could represent it. Within 20 minutes, they modified image details     the generated image. In both the first and second stages, all partici-
+based on their recollections to make the images as close as possible   pants were required to think-aloud to help the research team better
+to their memories. Afterward, participants shared this memory          understand participants’ behaviors and thought processes. In the
+verbally while watching the image, and provided self-evaluations       third stage, we conducted one-on-one semi-structured interviews
+of the generated image. In the second stage, we introduced the         with participants. All participants were interviewed in English.
+memory printer to participants, demonstrated its workflow, and
+Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation         CHI ’26, April 13–17, 2026, Barcelona, Spain
+
+
+
+
+                                                     Figure 8: Procedure of the empirical study
+
+
+5.3     Data Collection                                                              6.1.1 AI-Generated Images as Visual Cues. Participants used GAI
+During the user tests, we recorded participants’ testing procedures                  tools to generate visual references for memories lacking photo-
+through audio and video recording . During the semi-structured                       graphic documentation. Throughout testing, participants progres-
+interview phase, we used audio recording for documentation. Ad-                      sively modified the generated images based on their recollections,
+ditionally, we preserved all AI-generated images produced during                     which in turn provided increasingly relevant visual anchors. P6
+participants’ testing processes. To supplement details missed by                     attempted to recreate the scene of her mother giving her a watch
+the above media, we used observational notes to specifically record                  during the second phase (Figure 9). In her interview, she stated: “I of-
+participants’ noteworthy behaviors and expressions. All collected                    ten think about this memory, but there are no photos of it...” P6 viewed
+audio recordings were transcribed using professional audio tran-                     the AI-generated image as compensating for a memory scene lack-
+scription software and saved in text format, with final proofreading                 ing photographic recording, finding image-assisted recollection
+conducted by the research team.                                                      more vivid than unaided recall. Other participants concurred. P14
+                                                                                     noted:“Although the AI-generated image doesn’t perfectly match the
+                                                                                     memory, the atmosphere is very close.” Participants naturally com-
+5.4     Data Analysis                                                                pared the details of the generated image with their own memories,
+We employed thematic analysis to synthesize and analyze the col-                     repeatedly “scanning” their recollections. As they gradually aligned
+lected data, combining data-driven inductive and question-driven                     images with memories, their recollections deepened. P10 remarked
+deductive approaches. This part of the work followed the step-                       during testing: “I remember this part wasn’t like this—it should be... I
+by-step guide proposed by Braun & Clarke [2]. Specifically, our                      rarely thought about these things before...” While generating ideal
+qualitative analysis included the following steps: (1) We carefully                  images proved challenging at times, most participants (19 out of
+read all textual transcripts, re-watched all the videos, and supple-                 24) sought not perfect visual matches but atmospheric resonance.
+mented missing details in the transcripts based on the recorded                      P19 reflected: “The person in the image doesn’t look like me, but they
+content. (2) We generated initial codes for each transcript through                  seem happy. I like this vibe.”
+inductive coding. (3) We used affinity diagramming to organize
+codes, iteratively refining them to identify patterns and develop                    6.1.2 AI-Generated Images Help Organizing Memories. Participants
+themes. (4) We reviewed and defined the final themes, extracting                     employing the Memory Printer (Phase 2) produced more detailed,
+relevant quotes from the data and further categorizing them to                       narrative-driven accounts compared to their web-based tool expe-
+understand how GAI helps participants construct memory scenes,                       riences (Phase 1). P5 described travel experiences with friends in
+and what utility our prototype provides in this process.                             both phases. In Phase 1 (Figure 10), P5 focused on the observed
+                                                                                     scenery, “the weather was nice”, “the lake water was crystal clear.” In
+6     Findings                                                                       Phase 2 (Figure 11), P5 provided richer descriptions with emotional
+Our findings are organized around two overarching themes: how                        commentary: “...the campfire made me so excited, and I was happy
+GAI-generated images support reminiscing activities (section 6.1),                   we were all together...” —despite considering both memories equally
+and how Memory Printer’s design arguments performed when                             pleasant and nostalgic. P22 finds this contrast striking. He noted
+evaluated through user experience (section 6.2). We also report                      that although both phases involved selecting memories of everyday
+challenges and concerns that emerged (section 6.3).                                  moments with friends, Memory Printer evoked a deeper sense of
+                                                                                     immersion: “Interacting with the memory printer reminded me of the
+                                                                                     old days... I miss my friends... I didn’t feel that way earlier (Phase 1).”
+6.1     GAI-Generated Images Enhance                                                 This suggests that Memory Printer helped participants construct
+        Reminiscing                                                                  more coherent memories, prompting reflection on additional de-
+AI-generated images supported participants’ recall activities in                     tails. AI-generated images helped participants narrate their stories,
+three ways: providing visual cues that made memories more con-                       while enhanced storytelling led to more vivid memory details—a
+crete, helping participants organize fragmented recollections into                   mutually reinforcing process.
+coherent narratives, and evoking unexpected reflections through
+serendipitous image elements. While these characteristics appeared                   6.1.3 AI-Generated Images Evoke Reflection. The uncontrolled, un-
+in both web-based GAI tools and Memory Printer, participants                         expected elements that occasionally appear in images became in-
+reported stronger effects with Memory Printer.                                       triguing aspects for participants. They found these “unexpected
+CHI ’26, April 13–17, 2026, Barcelona, Spain                                                                                        Fang and Huang
+
+
+
+
+Figure 9: The scene of P6’s Figure 10: Image from the Figure 11: Image from the Figure 12: P2’s first experience
+mother giving her a watch.  first phase: P5 hiking with his second phase: P5 gathering playing video games as a child.
+                            friends.                        around a bonfire with friends.
+
+
+elements” sometimes frustrating, yet other times pleasantly sur-           casual recollection or routine image generation. P15, for instance,
+prising. P2 attempted to recreate her first experience playing video       attempted to reconstruct a childhood memory of playing with his
+games as a child (Figure 12). The retro computer in the image re-          father by the seaside (Figure 15). Although he often recalled this
+minded her of when her parents first brought a computer home,              memory, he rarely considered specific details—such as what exactly
+prompting further recollections of what the computer desk looked           happened that day or what his father was wearing. The tangible,
+like at the time. This brought the generated image closer to her           deliberate nature of interacting with the Memory Printer led P15 to
+memory. In other cases, these unexpected elements sparked reflec-          frame this remembering as ”making amends for the past,” prompt-
+tions extending beyond the memory itself. P9 attempted to recreate         ing him to organize his narrative more thoughtfully than he would
+a memory of participating in a sports meet with high school class-         with a conventional digital tool.
+mates (Figure 13), but the generated image triggered associations             The material choices also received positive feedback. P19 noted
+like “I was terrified of public speaking as a child... I was so shy back   that its wooden casing reminded her of the animation “The Flint-
+then...” In this case, these uncontrollable visual elements prompted       stones”, where characters live in the Stone Age yet possess modern
+the participant to reflect on and evaluate their own life. P17 at-         technologies “packaged” in primitive forms, such as wooden cars or
+tempted to compensate for a long-standing regret of not having             stone cell phones. She found this contrast highly amusing. Partici-
+a photo taken at a tourist attraction years ago (Figure 14). The ar-       pants also reported that the wooden structure conveyed warmth
+chitecture depicted in the generated image reminded him of some            and a pleasant tactile quality. As P9 observed: “I like the smooth
+“ancient legends,” prompting P17 to engage in additional discussions       texture of birch wood. It does not feel as rigid as metal or plastic.”
+about these stories with the experiment organizers. Although these
+reflections sometimes had no direct connection to the memory itself,
+                                                                           6.2.2 The Role of Scraper in Human-AI Interaction. None of the
+they prompted participants to engage in deeper contemplation.
+                                                                           participants had prior hands-on experience with screen printing,
+                                                                           though most had encountered it through videos or had long been
+6.2     The Impact of Tangible Interface                                   curious about it. This familiarity without direct experience cre-
+In addition to the positive effects of the generated images, the           ated an ideal starting point: participants approached the Memory
+Memory Printer offers participants a novel human–AI interaction            Printer with curiosity rather than apprehension, eager to explore
+experience through its tangible form, providing them with more             the interaction. Once engaged, they found that the screen printing
+structured and controllable ways to engage with generative AI.             metaphor made GAI interaction more intuitive and accessible. By
+                                                                           incorporating alternative interaction paradigms grounded in famil-
+6.2.1 Physical Form and Material Appeal. Participants reported             iar physical actions, the Memory Printer lowered the entry barriers
+that the physical presence of the Memory Printer created a unique          for engaging with generative AI as an interactive, iterative process,
+appeal distinct from web-based AI tools. The device actively at-           and enhanced users’ sense of control. P12 noted: “What has always
+tracted them to engage with it. For example, P12 highlighted the           prevented me from understanding generative AI is the complexity of
+aesthetic value of the Memory Printer, suggesting that: “If the proto-     the concepts... while I found the silk print easier to understand...” P4
+type were placed in my home, just seeing it would subconsciously make      commented: “This prototype gives me a sense of a completely different
+me wonder whether there was a memory I wanted to re-create.”, and          possibility from the generative AI tools I have used before.”
+that “It could serve as a decorative object in the living environment”.       During the process, participants enjoyed interacting with it,
+P7 emphasized the entertainment aspect of the device: “Perhaps             repeatedly pulling the scraper to make the image disappear and
+using AI to reconstruct memory scenarios could become an enjoyable         reappear, and comparing the original with the regenerated version.
+daily activity. When I feel bored, I might use it as a form of leisure.”   The scraper transformed a simple task into an engaging activity,
+For some participants, the physical presence of the device imbued          while also encouraging participants to observe the final images
+the act of remembering with a sense of ritual, distinguishing it from      more carefully. This hands-on control created a stronger sense of
+Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation      CHI ’26, April 13–17, 2026, Barcelona, Spain
+
+
+
+
+Figure 13: P9 in a sports meet Figure 14: P17 attempted to Figure 15: P15 and his father Figure 16: Image of P8 hik-
+with high school classmates. recreate a photo taken with a played together by the sea.   ing with family members, af-
+                               tourist attraction.                                       ter multiple redraws by P8.
+
+
+agency than clicking buttons or typing prompts—participants felt                     experience, making GAI tools more approachable for participants
+they were actively shaping the output through body movement.                         while giving them greater control over the images.
+   The introduction of the scraper deliberately slowed down the im-
+age generation process, and this enforced slowness proved valuable                   6.2.3 Layered Redrawing Supports Detailed Reflection. The lay-
+for reflection. P14 attempted to reconstruct a memory of running                     ered redrawing function provided participants with a structured
+with his mother during her work breaks (Figure 17). As he moved                      approach to modifying AI-generated images. Instead of simply
+the scraper to compare the modified and unmodified depictions                        clicking buttons to regenerate entire images, users were required to
+of his mother, he reflected aloud: “I didn’t understand why she was                  identify, redraw, and describe specific areas they wanted to modify
+running in her work clothes. . . Later, I realized it was because she                in different layers, while controlling the image update through the
+didn’t have enough time to change.” These reflections subsequently                   movement of the scraper. This method proved particularly useful
+evolved into an acknowledgment of his mother’s hard work and his                     for complex image modifications where multiple elements needed
+own lack of time spent accompanying her. P14 emphasized that the                     adjustment.
+slowness brought by the scraper “gave me the opportunity to observe                     For example, P8 shared a memory of hiking with family members,
+the modifications carefully,” without this slow, deliberate movement,                in which he vividly described the day’s weather and the surrounding
+he “would not have voiced such reflections.” In this case, the scraper’s             environment. The image generated by the AI, however, contained
+motion prompted P14 to move beyond recalling the event itself to-                    contained numerous elements and diverged significantly from P8’s
+ward expressing a deeper emotional appreciation for his mother—a                     perception. During the modification process, the layered modifica-
+shift from factual recollection to meaningful reflection.                            tion paradigm enabled P8 to decompose the image into foreground,
+   We further observed that the scraper also showed potential in                     middle ground, and background, which in turn provided a clear
+terms of harmful content moderation. Participants who were in-                       strategy for making changes and prevented aimless adjustments.
+formed about possible disturbing outputs intentionally slowed their                  Rather than feeling overwhelmed by the mismatched image, he had
+scraper movements, giving themselves more time to prepare. P6                        concrete tools to systematically address specific elements, resulting
+explained that she deliberately paced her interaction, which “pro-                   in a stronger sense of control (Figure 16).
+vided more time to prepare for potentially harmful content.” Some                       Feedback indicated that this method supported deeper visual in-
+participants questioned whether this approach might keep users                       spection. By breaking down the modification task into manageable
+in a state of constant anxiety—an issue that requires further inves-                 layers, participants could focus their attention on one aspect of the
+tigation. Nonetheless, within the scope of the study, the scraper                    image at a time, leading to more thoughtful and deliberate adjust-
+heightened participants’ awareness and prevented generated con-                      ments. The layered modification function thus not only enhanced
+tent from being presented to them too abruptly. However, since no                    sense of control but also scaffolded a more structured cognitive
+harmful content appeared during the test, additional research is                     process for memory reconstruction, helping participants organize
+needed.                                                                              their recollections in a spatial and systematic manner.
+   Overall, introducing the scraper as a component for image con-
+                                                                                     6.2.4 Slow Design as a Means to Support Reminiscing. Guided by
+trol enabled participants to move beyond purely screen-based in-
+                                                                                     slow design, we incorporated both the scraper-based interaction
+teractions, encouraging more natural bodily movements that sup-
+                                                                                     paradigm and the concept of layered modification into the Memory
+ported them in entering a reflective state of remembering. The
+                                                                                     Printer, with the aim of prompting users to engage in more detailed
+scraper also provided a window for participants to carefully com-
+                                                                                     observation and reflection. Rather than enabling rapid, click-based
+pare image details, allowing them to notice subtle aspects that might
+                                                                                     iteration typical of web-based GAI tools, these design elements de-
+otherwise go unnoticed. From a usability perspective, the scraper
+                                                                                     liberately slowed down the generation process, creating temporal
+transformed the “emotionally flat and disengaging” process of AI
+                                                                                     and cognitive space for deeper engagement with memories. While
+image generation into an intuitive and enjoyable ”screen-printing”
+                                                                                     the scraper controlled the pace of interaction, the layering system
+CHI ’26, April 13–17, 2026, Barcelona, Spain                                                                                            Fang and Huang
+
+
+encouraged users to think systematically about what to modify                  to memories that had previously existed only in mental or digital
+and in what order. Taking P8’s case as an example, the layered                 space, creating what participants described as “photos from the past”
+approach prompted a methodical examination of the scene. As he                 (P17, P15) that represented both the memory itself and the process
+moved the scraper across the image to compare different versions,              of its reconstruction.
+P8 articulated observations he might not have otherwise consid-
+ered: “Although the mountains are cold at this time of year, the grass
+should still be very green...I like the pine trees in the distance, but they   6.3    Challenges and Concerns
+should be larger...” The combination of slow physical movement                 6.3.1 Concerns About AI-Induced False Memory Formation. The
+(scraper) and structured modification (layering) created a rhythm              majority of participants expressed concerns that AI-generated im-
+of interaction that supported both redraw precision and emotional              ages might interfere with or overwrite their original memories. P14
+depth.                                                                         articulated this anxiety: “(AI-generated images) might merge with
+   Together, these elements transformed memory reconstruction                  my original memories... eventually overwriting what I actually re-
+into a deliberate, contemplative practice. Participants reported that          membered.” P11 used the term “memory contamination” to describe
+the slower pace, rather than being frustrating, enhanced their en-             this risk, noting: “I think we need to remain constantly aware of this
+joyment and engagement. P22 noted that using the Memory Printer                and maintain a clear-headed attitude... to distinguish between the two.”
+made him feel like he was “creating artworks about the past days,”             However, some participants held different opinions. P16 offered a
+a characterization that reflects how slow design reframed remi-                different view: “This is a complex issue. I know this (AI-generated im-
+niscence from passive recall into active, meaningful creation. The             age) is definitely fake, but the emotions it evokes are real.” He argued
+“slowness” gave participants permission to linger with their mem-              that there is no such thing as “100% accurate memory”—memories
+ories, to notice details they had forgotten, and to reflect on the             inevitably distort over time, and AI simply provides one pathway
+emotional significance of past experiences. This stands in contrast            for this “evolution.” This perspective reframes AI image interven-
+to the rapid iteration cycles of most GAI tools, where the focus               tion as a natural extension of memory’s inherent malleability rather
+often remains on technical output quality and efficiency.                      than “memory contamination.” Several participants proposed pos-
+   From a design perspective, in our work slow design principles               sible interventions to mitigate false memory risks. P13 suggested
+proved particularly well-suited to reminiscence activities, where              that photorealistic rendering might exacerbate the problem: “If the
+depth of reflection matters more than speed of output. By delib-               elements in the image were rendered in a 2.5D style, it could preserve
+erately incorporating temporal friction through the scraper and                the atmospheric quality I appreciate while avoiding (the false memory
+cognitive structure through layering, the Memory Printer created               problem).” While photorealistic AI-generated images can provide
+conditions for what might be called “slow remembering”, a mode of              users with more memory cues and trigger associations, their high
+engagement that prioritizes contemplation, emotional connection,               fidelity also increases the risk of “memory contamination.”
+and meaning-making over efficiency.
+                                                                               6.3.2 Discomfort with Unfamiliar Visual Representations. When de-
+6.2.5 Physical Printing as Meaningful Souvenir. The printing func-             picting humans, AI-generated characters often appeared as unfamil-
+tion transformed the digital interaction into a tangible outcome               iar representations, which many participants found unsettling yet
+independent of the digital system. P21 likened this process to wait-           unavoidable. P2 commented: “Although the furniture and equipment
+ing for a Polaroid photograph to develop: “Even though I already               in the image are close to my memory, the people are completely differ-
+know what the final image looks like, the waiting process itself is still      ent...like myself and my family in a parallel universe.” Across partic-
+enjoyable...it gives me more time to talk about what just happened.”           ipants, repeated attempts to refine human appearances frequently
+This deliberate delay, built into the manual printing mechanism, cre-          failed to produce satisfactory results, leading to frustration and a
+ated a final space for reflection, allowing users to revisit the entire        diminished sense of immersion. Some participants chose to aban-
+interaction and contemplate how they gradually reconstructed the               don further refinement of human figures, while others expressed
+memory. Unlike instant digital saving, which often feels perfunc-              disappointment when their efforts did not yield recognizable like-
+tory, the physical act of lifting the device and waiting for the print         nesses. In response, participants commonly avoided incorporating
+to emerge imbued the conclusion of the activity with a sense of cer-           detailed portraits of people unless the generated figures bore at
+emony. The waiting period became an opportunity for participants               least a partial resemblance to themselves or their family members.
+to narrate their memories further to researchers or companions,                By contrast, generating representations of pets or inanimate objects
+extending the reminiscence activity beyond the moment of image                 was generally perceived as more feasible. For example, P13 was
+finalization.                                                                  able to obtain a satisfying image of her dog by describing its breed,
+   Feedback also suggested that this waiting period not only facili-           an experience she described as particularly delightful.
+tated further conversation but also imbued the outcome with added                 While 23 participants accepted this limitation and focused on at-
+value. Participants described the printed result as both a “surprise”          mospheric experiences, one participant (P20) found it unacceptable.
+(P8) and a “gift.” (P11) They perceived that they were receiving               P20 attempted to use AI to recreate a scene of playing with their
+more than just an experiential journey of recalling memories. This             grandfather, but the generated figure bore little resemblance to his
+interpretation resonated particularly strongly with participants               grandfather. He believed, “this is disrespectful to my grandfather.”
+who saw the Memory Printer as a way to compensate for the ab-                  This discomfort stemmed from their intimate relationship with
+sence of photographs from certain past experiences, filling gaps left          their grandfather, making it difficult to accept “a stranger replacing
+in their personal histories. The physical print gave material form             (my) grandfather.”
+Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation       CHI ’26, April 13–17, 2026, Barcelona, Spain
+
+
+
+
+Figure 17: The scene of P14               Figure 18: Participants repeatedly attempted to generate images, but the element “red lantern”
+running with his mother,                  consistently appeared in the images.
+where the female figure in the
+image underwent multiple
+revisions by P14.
+
+
+6.3.3 AI Injustice and Stereotype. Stereotypical content frequently                  inquired whether they could use their own photos to train the
+appeared in AI-generated images, particularly for specific cultural                  AI and correct this problem. This raised another concern shared
+contexts. P13, whose father is a chef at a Chinese restaurant, pro-                  by most participants: Could the AI misuse their data and violate
+vided a representative case. In the first phase of testing, P13 at-                  their privacy? When we presented this idea to participants during
+tempted to recreate his experience of visiting his father’s workplace                interviews, 20 out of 24 participants expressed reluctance to provide
+for the first time. In the second phase, P13 attempted to recreate                   their own or their family members’ photos for AI training. They
+a scene of his father explaining a dish to customers, which took                     feared potential misuse of the photos, and the risks posed by deep-
+place in the same Chinese restaurant. Despite never mentioning                       fake technology made them more inclined to avoid having their
+‘red lanterns’ in his descriptions, both AI models (Krea1 model in                   likeness appear in AI-generated images. Among the remaining
+the first phase and Flux model in the second phase) repeatedly                       4 participants, one considered privacy breaches inevitable, while
+inserted this element into generated images (Figure 18). In the first                the other three, though finding the concept intriguing, advocated
+phase, P13 complained: “I explicitly said kitchen... how could there                 for stricter AI limitations—such as granting only specific access
+be lanterns in a kitchen...” and stated that the red lanterns “made the              permissions.
+whole scene very unrealistic... like catering to some stereotype...” In
+the second phase, the repeated occurrence of similar issues made                     7     Discussion
+P13 feel this problem was “very time-consuming... frustrating...” Al-
+                                                                                     Our research indicates that the memory printer has yielded positive
+though P13 ultimately completed the user test, he described the
+                                                                                     results in enhancing reminiscence. Participants were not only able
+process as “struggling against these stereotypes” rather than, like
+                                                                                     to partially reconstruct memory fragments lacking photographs us-
+other participants, describing it as a pleasant and interesting cre-
+                                                                                     ing GAI, but the memory printer also facilitated deeper recollection
+ative activity.
+                                                                                     and reflection. The tangible interface played a crucial role. Designed
+   Although the layered redrawing function provided P13 with
+                                                                                     specifically for memory characteristics, the Memory Printer sup-
+tools for layered modifications to some extent, these elements still
+                                                                                     ported recollection through its slow-paced interaction, while also
+brought undeniable negative experiences to P13’s experience. This
+                                                                                     providing participants with an easy-to-learn, engaging interactive
+typical case reveals issues that transcend the interface itself. De-
+                                                                                     experience. During interviews, some participants expressed con-
+spite Memory Printer’s deliberate design of mechanisms to help
+                                                                                     cerns about AI intervening in the recollection process, particularly
+users control images and restore a sense of agency, participants still
+                                                                                     regarding the authenticity of AI-generated images and data security
+encountered persistent cultural stereotypes embedded in the under-
+                                                                                     issues. This section further discusses the research findings, summa-
+lying logic of the AI model. Memory Printer could not overcome
+                                                                                     rizes the strengths and limitations of generative AI in facilitating
+these limitations. The AI formed a difficult-to-eliminate association
+                                                                                     recollection, and outlines future research directions.
+between “Chinese restaurant” and “red lanterns,” which became a
+negative factor in P13’s case. When P13 stated that lanterns were
+“frustrating”, this feedback demonstrated how algorithmic bias can                   7.1     Using GAI to Facilitate Self-Expression
+undermine the goal of “supporting memory reconstruction”: the AI                     The modified AI images also served as a medium for conveying
+system no longer scaffolds recollection but instead imposes external                 emotions, helping participants express feelings that were difficult
+narratives, bringing negative experiences.                                           to articulate and providing them with a way for self-expression.
+                                                                                     Some participants felt this interaction closely resembled artistic
+6.3.4 Privacy and Data Security Concerns. Regarding the issue                        creation. GAI assisted participants in transforming abstract inner
+of AI generating human images from photos, some participants                         emotions into concrete images, which were then gradually refined
+CHI ’26, April 13–17, 2026, Barcelona, Spain                                                                                   Fang and Huang
+
+
+through interaction with the images. Ultimately, the images served     7.4    Restoring Sense of Agency in Human-AI
+as emotional carriers shared with the experiment organizers. Par-             Interaction
+ticipants also treated the generated images as mementos of their
+                                                                       Our results demonstrate that Memory Printer’s interaction modal-
+reminiscence. Based on this, they suggested adding supplementary
+                                                                       ities enable stronger engagement and control compared to web-
+recording features to the system—such as documenting the entire
+                                                                       based tools. Sense of Agency (SoA) refers to an individual’s sub-
+recollection process through various media (text, audio recordings)—
+                                                                       jective experience of controlling their own actions and, through
+to make the recollection process itself a keepsake, rather than just
+                                                                       them, events in the external world. Prior research shows that it is
+the generated image. In this process, AI-generated images become
+                                                                       influenced by multiple cues, including motor signals from move-
+just one component of a broader commemorative practice. Users
+                                                                       ment production itself and external contextual cues that can trigger
+retain control over which media to preserve—positioning AI as a
+                                                                       reflection—these two types of cues influence the generation of
+facilitator rather than the sole author of the memento.
+                                                                       agency from internal and external perspectives, respectively [27].
+                                                                       As described in Section 2.4, web-baed GAI tools require users to
+                                                                       express intent through prompt engineering. This highly automated,
+                                                                       unobservable, screen-confined interaction paradigm disrupts both
+7.2     Designing with the Characteristics of AI                       components of the agency experience: control over one’s own ac-
+Our research draws upon two core characteristics of AI: first, its     tions (executing meaningful, active interactions) and control over
+ever-increasing capacity for content generation [15]; and second,      external outcomes (predicting generation results and attributing
+the inherent uncontrollability of such generative processes [17].      them to specific actions). Memory Printer proactively provides
+Although researchers are making advances in improving controlla-       users with these multidimensional agency cues, compensating for
+bility [4], errors and the need for adjustments persist throughout     the sense of agency disrupted by virtual interfaces based human-AI
+this process. Rather than attempting to eliminate this uncontrolla-    interaction paradigms. In this section, we analyze from these two
+bility, we intentionally embrace it as a design element. The unpre-    perspectives how Memory Printer compensates for agency through
+dictability of generated content introduces a sense of surprise into   design.
+the image modification process. When participants compare modi-
+fied images with their own memories, they are naturally prompted
+                                                                       7.4.1 Enhancing Control Over Actions. Memory Printer reintro-
+to comment on the images, which in turn can spark new conver-
+                                                                       duces embodied behavior into the generative AI workflow through
+sations. This phenomenon was evident for one older participant
+                                                                       physically grounded interaction modalities. Rather than confining
+(P17), who expressed anticipation upon receiving the images. Given
+                                                                       users to text input and button clicks, the system requires users to ac-
+our limited age diversity, we do not draw age-related conclusions;
+                                                                       tively move the scraper and describe their drawing areas during the
+future work should examine whether this pattern holds for older
+                                                                       reminiscence process. The introduction of the scraper is crucial for
+populations. The excitement stemmed not only from the desire for
+                                                                       restoring agency. The process of moving the scraper creates tactile
+communication but also from curiosity about the content itself. We
+                                                                       and kinesthetic engagement for users, converging proprioceptive,
+therefore recommend that designers ground their approaches in
+                                                                       haptic, and visual modalities. Participants’ feedback strongly sup-
+the inherent qualities of AI, exploring how to harness what might
+                                                                       ports this point. When using Memory Printer, multiple participants
+appear as “undesirable” traits and transform them into solutions.
+                                                                       felt they were “engaging in artistic creation” and that “the scraper
+                                                                       made them feel like they were really doing printing work,” whereas
+                                                                       in the first phase, participants viewed their activities more as com-
+                                                                       pleting instructions from the experimental organizers rather than
+7.3     Human–AI Interaction Beyond the Screen                         actively engaging in "artistic creation." Memory Printer helped par-
+In our user studies, participants demonstrated limited interest in     ticipants achieve a role transformation from passive recipients to
+conventional web-based AI tools, finding them not only difficult to    active creators, stimulating their Sense of Agency. Beyond the diver-
+learn despite simplification, but also unappealing. Moreover, the      sity of physical actions, Memory Printer also grants users temporal
+homogenization of human–AI interaction has constrained the inte-       autonomy. Most web-based GAI tools impose a binary temporal
+gration of AI tools into diverse contexts. In our research, although   structure: users click “generate,” and results subsequently appear.
+we employed touchscreens and the traditional image generation          By introducing the scraper, users can actively control the rhythm of
+process (i.e., inputting prompts and generating images), we de-        image revelation through the scraper’s movement, deciding when
+liberately minimized participants’ awareness of this underlying        to pause for inspection, when to accelerate through satisfactory
+mechanism. Instead, we provided intuitive and tangible methods         areas, and when to reverse direction for comparison. All partici-
+for image control, thereby enhancing participants’ sense of agency     pants spontaneously moved the scraper repeatedly during testing to
+while creating space for reflection. Participants responded posi-      control image display, attempting to compare modified regions and
+tively to this mode of interaction and expressed interest in seeing    confirm image details. P8’s thought process progressed incremen-
+more such examples in the future. We argue that combining AI tools     tally with scraper movement: “Let me pull back to check... yes, now
+with existing interaction paradigms presents a promising direction     move forward... the mountains look greener... now let’s modify the size
+for research. This approach offers users opportunities for engaging    of the trees...” This temporal control transforms passive reception of
+with AI beyond the confines of the screen, thereby supporting both     images into active investigation. Rather than accepting or rejecting
+learning and trust-building in human–AI relationships.                 a complete, instantaneously presented result, users progressively
+Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation       CHI ’26, April 13–17, 2026, Barcelona, Spain
+
+
+build their understanding through deliberate, self-paced revelation.                    This creates an inherent tension: higher visual fidelity provides
+This enhances users’ Sense of Agency from another dimension.                         richer memory cues but simultaneously blurs the boundary between
+                                                                                     generated and authentic content, potentially facilitating what par-
+7.4.2 Enhancing Control Over External Outcomes. Memory Printer                       ticipants termed “memory contamination.”
+enhances users’ sense of control from the perspective of exter-                         As P16 noted, emotions evoked by AI-generated images can be
+nal outcomes primarily through three interrelated mechanisms.                        genuine even when visual content is not. Rather than attempting
+First, the scraper’s movement transforms instantaneous image ap-                     to preserve some notion of memory purity, future designs might
+pearance into a continuous, real-time process. Second, the layered                   focus on helping users maintain a clear understanding of which
+redrawing function gives image reconstruction a sense of spatial                     elements derive from AI generation versus personal recollection.
+organization and order. Users do not need to reconstruct the entire                  Several design strategies merit exploration: such as visual markers
+scene each time during image generation but only redraw the re-                      that distinguish AI-generated content without disrupting emotional
+gions they feel need modification. As P14 stated: “I can see exactly                 engagement, or interaction patterns that reinforce the constructive
+what each change does... if I don’t like the new element, I know it was              nature of the reminiscence process. Longitudinal research is needed
+caused by layer 3.” Participants spontaneously adopted ‘foreground-                  to understand how repeated exposure to AI-generated memory
+middleground-background’ terminology, indicating conscious or-                       images affects autobiographical memory over time, and whether
+ganization of their redrawing activities. Finally, the reduction in                  design interventions can effectively mitigate this situation.
+cognitive load facilitates deeper image construction. Unlike in the
+first phase, where participants needed to regenerate the entire
+image each time and make substantial modifications to prompts,                       7.5.2 Algorithmic Bias as Narrative Imposition. Our findings reveal
+layered redrawing allows them to focus on only one detail at a time,                 how algorithmic bias transforms from a technical problem into
+reducing the cognitive load of individual image modifications. The                   an experiential one. P13’s encounter with persistent ‘red lantern’
+layered redrawing function also enables participants to fully attend                 stereotypes illustrates this: rather than scaffolding recollection, the
+to single modification elements, making it easier to perceive and re-                AI imposed external narratives on his personal history. For P13,
+member the connection between specific prompts and modification                      each AI-imposed lantern represented not just a technical failure but
+results. This enhanced causal tracking strengthens outcome-level                     a small act of cultural erasure. We trace this issue to the provenance
+agency cues. Memory Printer’s image printing function extends                        and composition of training datasets for contemporary generative
+participants’ control over external outcomes beyond the screen.                      models. When these models encounter culturally-marked keywords
+Prior research suggests that physical artifacts bring special experi-                (such as Chinese restaurant), they retrieve patterns from statis-
+ences that transcend digital files [18]. Participants viewed printed                 tically dominant representations, in the current case, visual and
+generated images as “compensation for memories without photos”                       touristicized representations of Chinese restaurants, rather than the
+and “souvenirs of created memory scenes.” They could ultimately                      mundane, lived realities users seek to reconstruct. For supporting
+decide whether to preserve them and in what medium. This trans-                      reminiscence, this is particularly dangerous: the system does not
+formation of image display medium brought participants a stronger                    merely fail to understand diverse contexts; it actively overwrites di-
+Sense of Agency.                                                                     verse contexts with hegemonic visual symbols. These issues clearly
+   In this work, although the AI model’s operating principles and                    contradict human-centered AI principles and serve as a warning:
+specific training datasets remain black boxes to participants, Mem-                  AI unfairness and flawed decision-making can negatively impact
+ory Printer provides users with compensatory Sense of Agency                         users who trust AI, ultimately eroding their confidence and po-
+from two dimensions and achieved positive user feedback. This                        tentially leading to AI rejection. Interventions such as Memory
+demonstrates that in human-AI interaction, designers can still help                  Printer’s layered redrawing can provide users with tools to resist
+users restore agency through carefully designed interaction meth-                    algorithmic impositions, but they cannot address the root cause.
+ods.                                                                                 More fundamental solutions require attention to training data com-
+                                                                                     position, model fine-tuning for cultural diversity, and potentially
+7.5     Navigating Risks in GAI-Enhanced                                             user-specific adaptation. Designers working in this space should
+                                                                                     also consider how to communicate these limitations transparently,
+        Reminiscence                                                                 helping users understand when and why AI outputs may diverge
+While our findings demonstrate the potential of using generative                     from their intentions due to systemic biases rather than individual
+AI for reminiscence support, they also surface critical concerns that                prompt failures.
+demand careful consideration. The emotionally sensitive nature of
+memory work amplifies risks that might be tolerable in other GAI
+applications. This section synthesizes these concerns and discusses                  7.5.3 Privacy, Trust, and the Boundaries of AI-Mediated Communi-
+their implications for future design and research.                                   cation. Participants’ reluctance to provide personal photographs
+                                                                                     for AI training—even when it might improve character representa-
+7.5.1 The False Memory Dilemma. The potential for AI-generated                       tion—reveals a boundary condition for GAI-enhanced reminiscence.
+images to contaminate authentic memories represents perhaps                          The intimacy of memory creates heightened sensitivity to data
+the most fundamental challenge. Prior work shows that AI-edited                      practices acceptable in other contexts. Participants weighed the
+images can significantly increase false memory incidence [33], and                   potential benefits of more accurate visual representations against
+photorealistic quality simultaneously enables valuable memory                        risks of data misuse, and the majority chose to preserve privacy at
+cues while increasing integration risk.                                              the cost of immersion.
+CHI ’26, April 13–17, 2026, Barcelona, Spain                                                                                   Fang and Huang
+
+
+   This finding suggests that trust in GAI systems for reminiscence    As generative AI capabilities continue to advance, the HCI commu-
+cannot be established through technical capability alone. Partici-     nity bears responsibility for ensuring that these powerful tools are
+pants expressed concerns about deep-fake misuse, unauthorized          deployed in ways that genuinely serve human flourishing rather
+training, and lack of transparency in how their data might be used.    than merely demonstrating technical possibilities.
+These concerns impose what we term “invisible constraints” on
+human-AI interaction: users self-limit their engagement with AI
+systems based on perceived risks, even when more open engage-
+ment might yield better outcomes.
+   Addressing these constraints requires attention to both technical
+and communicative dimensions. Local deployment and on-device           7.6    Limitations and Future Work
+processing might can reduce data exposure risks, while transparent     Our work has several limitations that provide directions for future
+explanation of data practices might can help users make informed       research. First, our participant sample primarily comprised young
+decisions about their level of engagement. However, our findings       and middle-aged adults (23 participants aged 22-31), with only
+suggest that for many users, no level of technical assurance may       one participant aged 57. While our design arguments about slow-
+be sufficient to overcome reluctance to share intimate visual data.    ness, embodiment, and decomposed control are not age-specific,
+Future designs might explore alternative approaches that achieve       we acknowledge that age-related differences in technology famil-
+personalization without requiring personal data, for example, using    iarity, memory practices, and emotional connections to physical
+verbal descriptions, sketches, or authorized reference images to       artifacts may influence how different populations experience Mem-
+guide image generation.                                                ory Printer. Prior research indicates that older adults often have
+                                                                       stronger emotional connections with physical memory artifacts
+7.5.4 Toward Responsible Design of GAI for Emotionally Sensitive       and tangible interaction paradigms, which may generate different
+Contexts. Synthesizing across these concerns, we identify several      responses to our design arguments compared to younger users.
+principles for responsible design of GAI tools in emotionally sensi-   Future research should examine whether our design arguments
+tive contexts such as reminiscence:                                    hold across more diverse age groups, including older adults who
+   First, Designers must be aware of the potential consequences of     are often the focus of reminiscence therapy research.
+interacting with AI. In efficiency-focused GAI applications, inaccu-      Second, our participants were drawn from two countries (China
+rate outputs primarily waste time; in emotionally sensitive appli-     and the Netherlands) and did not include participants from other
+cations, they can cause psychological harm, reinforce stereotypes,     cultural backgrounds, which limits cultural diversity to some extent.
+or contaminate precious memories. Designers need to recognize          Although participants from these two cultural backgrounds pro-
+that Human-AI interactions can have varying degrees of impact in       vided similar feedback in many aspects, they exhibited significant
+different context and respond consciously to these impacts through     differences, particularly in areas such as AI injustice and stereotypes
+design.                                                                in AI-generated content.
+   Second, transparency must extend beyond technical explain-             Finally, our research revealed several critical concerns about
+ability to include honest communication about system limitations.      using generative AI for memory scene reconstruction—the potential
+Users engaging in memory work deserve to understand not only           harm of false memories, the negative impact of algorithmic bias,
+how the AI generates images but also what biases it may carry, what    and personal data privacy—that we identified but not not deeply
+risks repeated exposure might pose for memory accuracy, and what       investigate. Since this work focused on exploring design arguments
+happens to their data. Such transparency may reduce engagement         about tangible, slow interaction with GAI in supporting everyday
+in the short term but builds the foundation for sustainable trust.     reminiscence and understanding the potential role of diversified
+   Third, designers need to consider how to enhance user agency in     human-AI interaction in this process, these ethical and technical
+the Human-AI interaction process through design, particularly in       challenges remain important directions for future research.
+contexts where generated content may carry personal or emotional          To address these limitations, we are planning to advance several
+significance Our findings suggest that in the context of using GAI     initiatives. First, we will establish connections with local elderly
+to support reminiscence, restoring user agency through multiple        care facilities to recruit older adult participants with varying levels
+complementary mechanisms, such as tangible interaction, temporal       of technical experience to support subsequent age-related research.
+control, and layered modification, can amplify the benefits that GAI   We will also expand our recruitment channels to include partici-
+offers. When participants felt they were actively shaping rather       pants from more diverse cultural backgrounds to understand how
+than passively receiving AI outputs, they engaged more deeply with     preferences vary across different regions in multicultural contexts.
+both the tool and their memories. While further research is needed     Finally, through human intervention measures, including local AI
+to examine whether these insights generalize to other domains, the     deployment and training custom AI models, we hope to reduce the
+rapid advancement of AI capabilities and the expanding scope of its    occurrence of biased AI content and provide protection for personal
+deployment suggest that understanding how to design for agency         data privacy, addressing these issues from a technical perspective.
+in human-AI interaction represents a meaningful and increasingly       While the false memory problem is difficult to completely eliminate
+urgent research direction.                                             due to the nature of AI, in subsequent user testing, we will attempt
+   These principles do not resolve the fundamental tensions inher-     to make participants aware of this issue through proactive notifica-
+ent in applying GAI to emotionally sensitive domains, but they         tion and real-time reminders, and understand their perspectives on
+provide some references for navigating these tensions thoughtfully.    this problem.
+Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation                   CHI ’26, April 13–17, 2026, Barcelona, Spain
+
+
+8    Conclusion                                                                           [9] Paul Dourish. 2001. Where the action is: the foundations of embodied interaction.
+                                                                                              MIT press.
+This paper introduces the Memory Printer, a tangible design that                         [10] Alison F. Eardley and Linda Pring. 2006.             Remembering the past and
+combines traditional screen printing with generative AI to support                            imagining the future: A role for nonvisual imagery in the everyday cog-
+                                                                                              nition of blind and sighted people.             Memory 14, 8 (2006), 925–936.
+reminiscing in everyday life. Adopting a Research through Design                              arXiv:https://doi.org/10.1080/09658210600859582 doi:10.1080/09658210600859582
+approach, we use the Memory Printer as a design exemplar to ex-                               PMID: 17077028.
+plore both the potential and pitfalls of GAI in supporting everyday                      [11] Paul S Foster, Candias Wakefield, Scott Pryjmak, Katelyn M Roosa, Kaylei K
+                                                                                              Branch, Valeria Drago, David W Harrison, and Ronald Ruff. 2017. Spreading
+reminiscence. Through an empirical study with 24 participants, we                             activation in nonverbal memory networks. Brain Informatics 4, 3 (2017), 187–199.
+demonstrate that the Memory Printer can facilitate memory recon-                         [12] Christopher D. Frith, Sarah-Jayne Blakemore, and Daniel M. Wolpert.
+struction and emotional expression, while also surfacing important                            2000.     Abnormalities in the awareness and control of action.             Philo-
+                                                                                              sophical Transactions of the Royal Society B: Biological Sciences 355, 1404
+concerns about false memories, algorithmic bias, and data security.                           (12 2000), 1771–1788. arXiv:https://royalsocietypublishing.org/rstb/article-
+   From a sense of agency perspective, we analyze how tangible,                               pdf/355/1404/1771/85858/rstb.2000.0734.pdf doi:10.1098/rstb.2000.0734
+                                                                                         [13] William Gaver. 2012. What should we expect from research through design?.
+slow, and layered interaction design can restore user control in                              In Proceedings of the SIGCHI conference on human factors in computing systems.
+human-AI interaction. Our findings provide empirical evidence that                            937–946.
+these design qualities work synergistically: the physical scraper                        [14] Lars Hallnäs and Johan Redström. 2001. Slow Technology – Designing for
+                                                                                              Reflection. Personal and Ubiquitous Computing 5, 3 (Aug. 2001), 201–212. doi:10.
+enables embodied engagement and temporal autonomy, layered                                    1007/pl00000019
+redrawing supports causal attribution and systematic modification,                       [15] Jochen Hartmann, Yannick Exner, and Samuel Domdey. 2025. The power of
+and the deliberate pace creates a reflective space that rapid web-                            generative marketing: Can generative AI create superhuman visual marketing
+                                                                                              content? International Journal of Research in Marketing 42, 1 (2025), 13–31.
+based tools cannot provide. We then offer actionable insights for                        [16] R. S. Herz. 2004. A Naturalistic Analysis of Autobiographical Memories Triggered
+future design work in emotionally sensitive AI applications. From                             by Olfactory Visual and Auditory Stimuli. Chemical Senses 29, 3 (March 2004),
+                                                                                              217–224. doi:10.1093/chemse/bjh025
+a methodological perspective, the knowledge generated through                            [17] Michael Townsen Hicks, James Humphries, and Joe Slater. 2024. ChatGPT is
+this process is not a universal design guideline but a grounded,                              bullshit. Ethics and Information Technology 26, 2 (2024), 1–10.
+experiential understanding of how slowness, tangibility, and lay-                        [18] Hiroshi Ishii and Brygg Ullmer. 1997. Tangible bits: towards seamless interfaces
+                                                                                              between people, bits and atoms. In Proceedings of the ACM SIGCHI Conference on
+ered control shape user experience. This exemplifies how RtD can                              Human factors in computing systems. 234–241.
+contribute to HCI’s understanding of emerging technologies by                            [19] Jun Li Jeung and Janet Yi-Ching Huang. 2024. Unlocking Memories with AI:
+making abstract concepts tangible and debatable. Furthermore, we                              Exploring the Role of AI-Generated Cues in Personal Reminiscing. In Extended
+                                                                                              Abstracts of the CHI Conference on Human Factors in Computing Systems (Hon-
+position the Memory Printer as a design exemplar that challenges                              olulu, HI, USA) (CHI EA ’24). Association for Computing Machinery, New York,
+mainstream assumptions in the development of generative AI. As                                NY, USA, Article 356, 6 pages. doi:10.1145/3613905.3650979
+                                                                                         [20] Tero Karras, Samuli Laine, and Timo Aila. 2019. A Style-Based Generator Archi-
+these technologies proliferate, we face the risk of converging on                             tecture for Generative Adversarial Networks. In 2019 IEEE/CVF Conference on
+a single interaction model—one that overemphasizes speed and                                  Computer Vision and Pattern Recognition (CVPR). 4396–4405. doi:10.1109/CVPR.
+automation. By grounding human-AI interaction in slow design                                  2019.00453
+                                                                                         [21] Subin Kim, Sangsu Jang, Jin-young Moon, Minjoo Han, and Young-Woo Park.
+and material engagement, the Memory Printer points toward a                                   2022. Slide2Remember: an Interactive Wall Frame Enriching Reminiscence Expe-
+future where generative AI serves not just productivity, but also                             riences by Providing Re-encounters of Taken Photos and Heard Music in a Similar
+contemplation, connection, and personal meaning-making.                                       Period. In Proceedings of the 2022 ACM Designing Interactive Systems Conference
+                                                                                              (Virtual Event, Australia) (DIS ’22). Association for Computing Machinery, New
+                                                                                              York, NY, USA, 288–300. doi:10.1145/3532106.3533456
+                                                                                         [22] Amanda Lazar, Hilaire Thompson, and George Demiris. 2014. A Systematic
+References                                                                                    Review of the Use of Technology for Reminiscence Therapy. Health Education &
+ [1] Bruno Berberian, Jean-Christophe Sarrazin, Patrick Le Blaye, and Patrick Haggard.        Behavior 41, 1_suppl (oct 2014), 51S–61S. doi:10.1177/1090198114537067
+     2012. Automation Technology and Sense of Control: A Window on Human                 [23] Hannah Limerick, David Coyle, and James W Moore. 2014. The experience of
+     Agency. PLOS ONE 7, 3 (03 2012), 1–6. doi:10.1371/journal.pone.0034075                   agency in human-computer interactions: a review. Frontiers in human neuro-
+ [2] Virginia Braun and Victoria Clarke. 2006. Using thematic analysis in psychology.         science 8 (2014), 643.
+     Qualitative research in psychology 3, 2 (2006), 77–101.                             [24] Ryan Louie, Andy Coenen, Cheng Zhi Huang, Michael Terry, and Carrie J Cai.
+ [3] Anneli Cassel and Kate Humphreys. 2015. Psychological therapy for psychogenic            2020. Novice-AI music co-creation via AI-steering tools for deep generative
+     amnesia: Successful treatment in a single case study. Neuropsychological Rehabil-        models. In Proceedings of the 2020 CHI conference on human factors in computing
+     itation 26, 3 (April 2015), 374–391. doi:10.1080/09602011.2015.1033431                   systems. 1–13.
+ [4] Luciano Cavalcante Siebert, Maria Luce Lupetti, Evgeni Aizenberg, Niek Beckers,     [25] Atefeh Mahdavi Goloujeh, Anne Sullivan, and Brian Magerko. 2024. Is it AI or is
+     Arkady Zgonnikov, Herman Veluwenkamp, David Abbink, Elisa Giaccardi, Geert-              it me? Understanding users’ prompt journey with text-to-image generative AI
+     Jan Houben, Catholijn M Jonker, et al. 2023. Meaningful human control: actionable        tools. In Proceedings of the 2024 CHI Conference on Human Factors in Computing
+     properties for AI system development. AI and Ethics 3, 1 (2023), 241–255.                Systems. 1–13.
+ [5] Amy Yo Sue Chen, William Odom, Sol Kang, and Carman Neustaedter. 2023.              [26] Tim Miller. 2019. Explanation in artificial intelligence: Insights from the social
+     PhotoClock: Reliving Memories in Digital Photos as the Clock Ticks in the Present        sciences. Artificial intelligence 267 (2019), 1–38.
+     Moment. In Proceedings of the 2023 ACM Designing Interactive Systems Conference     [27] James W Moore and Paul C Fletcher. 2012. Sense of agency in health and disease:
+     (Pittsburgh, PA, USA) (DIS ’23). Association for Computing Machinery, New York,          a review of cue integration approaches. Consciousness and cognition 21, 1 (2012),
+     NY, USA, 1015–1031. doi:10.1145/3563657.3596020                                          59–68.
+ [6] Martin A. Conway and Christopher W. Pleydell-Pearce. 2000. The construction         [28] Jakob Nielsen. 2023. AI: First new UI paradigm in 60 years. Nielsen Norman
+     of autobiographical memories in the self-memory system. Psychological Review             Group 18, 06 (2023), 2023.
+     107, 2 (2000), 261–288. doi:10.1037/0033-295x.107.2.261                             [29] Karin Niemantsverdriet and Maarten Versteeg. 2016. Interactive Jewellery as
+ [7] Victoria Cosley, Dan amd Schwanda Sosik, Johnathon Schultz, S. Tejaswi                   Memory Cue: Designing a Sound Locket for Individual Reminiscence. In Pro-
+     Peesapati, and Soyoung Lee. 2012. Experiences With Designing Tools for                   ceedings of the TEI ’16: Tenth International Conference on Tangible, Embedded, and
+     Everyday Reminiscing. Human–Computer Interaction 27, 1-2 (2012), 175–                    Embodied Interaction (Eindhoven, Netherlands) (TEI ’16). Association for Com-
+     198. arXiv:https://www.tandfonline.com/doi/pdf/10.1080/07370024.2012.656047              puting Machinery, New York, NY, USA, 532–538. doi:10.1145/2839462.2856524
+     doi:10.1080/07370024.2012.656047                                                    [30] Don Norman. 2007. Emotional design: Why we love (or hate) everyday things.
+ [8] David Coyle, James Moore, Per Ola Kristensson, Paul Fletcher, and Alan Blackwell.        Basic books.
+     2012. I did that! Measuring users’ experience of agency in their own actions.       [31] William Odom, Ron Wakkary, Jeroen Hol, Bram Naus, Pepijn Verburg, Tal Amram,
+     In Proceedings of the SIGCHI conference on human factors in computing systems.           and Amy Yo Sue Chen. 2019. Investigating Slowness as a Frame to Design Longer-
+     2025–2034.                                                                               Term Experiences with Personal Data: A Field Study of Olly. In Proceedings of the
+CHI ’26, April 13–17, 2026, Barcelona, Spain                                                                                                                    Fang and Huang
+
+
+     2019 CHI Conference on Human Factors in Computing Systems (Glasgow, Scotland                arXiv:https://doi.org/10.1177/1750698014530625 doi:10.1177/1750698014530625
+     Uk) (CHI ’19). Association for Computing Machinery, New York, NY, USA, 1–16.           [40] Huaxin Wei, Dianya Hua, Eli Blevis, and Zitao Zhang. 2019. MemoryReel: A
+     doi:10.1145/3290605.3300264                                                                 Purpose-designed Device for Recording Digitally Connected Special Moments
+[32] William T. Odom, Abigail J. Sellen, Richard Banks, David S. Kirk, Tim Regan,                for Later Recall and Reminiscence. In Proceedings of the Thirteenth International
+     Mark Selby, Jodi L. Forlizzi, and John Zimmerman. 2014. Designing for slowness,             Conference on Tangible, Embedded, and Embodied Interaction (Tempe, Arizona,
+     anticipation and re-visitation: a long term field study of the photobox. In Proceed-        USA) (TEI ’19). Association for Computing Machinery, New York, NY, USA,
+     ings of the SIGCHI Conference on Human Factors in Computing Systems (Toronto,               135–144. doi:10.1145/3294109.3295649
+     Ontario, Canada) (CHI ’14). Association for Computing Machinery, New York,             [41] Jordan White, William Odom, Nico Brand, and Ce Zhong. 2023. Memory Tracer &
+     NY, USA, 1961–1970. doi:10.1145/2556288.2557178                                             Memory Compass: Investigating Personal Location Histories as a Design Material
+[33] Pat Pataranutaporn, Chayapatr Archiwaranguprok, Samantha WT Chan, Eliza-                    for Everyday Reminiscence. In Proceedings of the 2023 CHI Conference on Human
+     beth Loftus, and Pattie Maes. 2025. Synthetic human memories: Ai-edited images              Factors in Computing Systems (Hamburg, Germany) (CHI ’23). Association for
+     and videos can implant false memories and distort recollection. In Proceedings of           Computing Machinery, New York, NY, USA, Article 154, 19 pages. doi:10.1145/
+     the 2025 CHI Conference on Human Factors in Computing Systems. 1–20.                        3544548.3581426
+[34] Sally C. Prebble, Donna Rose Addis, and Lynette J. Tippett. 2013. Autobiographical     [42] Barbara Wilson. 1992. Memory therapy in practice. Springer US, Boston, MA,
+     memory and sense of self. Psychological Bulletin 139, 4 (July 2013), 815–840.               120–153. doi:10.1007/978-1-4899-4523-5_5
+     doi:10.1037/a0030146                                                                   [43] Shuchang Xu, Chang Chen, Zichen Liu, Xiaofu Jin, Lin-Ping Yuan, Yukang Yan,
+[35] Daniel L Schacter and Donna Rose Addis. 2007. The cognitive neuroscience of                 and Huamin Qu. 2024. Memory Reviver: Supporting Photo-Collection Reminis-
+     constructive memory: remembering the past and imagining the future. Philo-                  cence for People with Visual Impairment via a Proactive Chatbot. In Proceedings
+     sophical Transactions of the Royal Society B: Biological Sciences 362, 1481 (March          of the 37th Annual ACM Symposium on User Interface Software and Technology
+     2007), 773–786. doi:10.1098/rstb.2007.2087                                                  (Pittsburgh, PA, USA) (UIST ’24). Association for Computing Machinery, New
+[36] Ben Shneiderman. 1983. Direct manipulation: A step beyond programming                       York, NY, USA, Article 88, 17 pages. doi:10.1145/3654777.3676336
+     languages. Computer 16, 08 (1983), 57–69.                                              [44] Takashi Yamauchi, Jinsil Hwaryoung Seo, and Annie Sungkajun. 2018. Interactive
+[37] Ponnusamy Subramaniam, Bob Woods, and Chris Whitaker. 2013. Life review                     Plants: Multisensory Visual-Tactile Interaction Enhances Emotional Experience.
+     and life story books for people with mild to moderate dementia: a randomised                Mathematics 6, 11 (2018). doi:10.3390/math6110225
+     controlled trial. Aging &amp; Mental Health 18, 3 (Sept. 2013), 363–375. doi:10.       [45] John Zimmerman, Jodi Forlizzi, and Shelley Evenson. 2007. Research through
+     1080/13607863.2013.837144                                                                   design as a method for interaction design research in HCI. In Proceedings of the
+[38] Wenn-Chieh Tsai and Elise van den Hoven. 2018. Memory probes: exploring retro-              SIGCHI conference on Human factors in computing systems. 493–502.
+     spective user experience through traces of use on cherished objects. International     [46] Robert Zinko, Paul Stolk, Zhan Furner, and Brad Almond. 2019. A picture is worth
+     Journal of Design 12, 3 (Dec. 2018), 57–72.                                                 a thousand words: how images influence information quality and information
+[39] Elise van den Hoven. 2014.                A future-proof past: Designing for                load in online reviews. Electronic Markets 30, 4 (April 2019), 775–789. doi:10.
+     remembering experiences.             Memory Studies 7, 3 (2014), 370–384.                   1007/s12525-019-00345-y
+

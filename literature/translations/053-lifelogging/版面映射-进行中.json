@@ -1,0 +1,1164 @@
+[
+  {
+    "page": 1,
+    "block": 8,
+    "source_rect": [
+      37.587398529052734,
+      397.5788879394531,
+      291.0174560546875,
+      525.6384887695312
+    ],
+    "text": "视觉生活日志记录是指佩戴自动相机，使其持续、自动地从佩戴者的第一人称视角拍摄照片或视频（Hodges et al., 2006）。大量个案研究和群体研究表明，回看生活日志照片可以改善健康人群与记忆受损人群的情景记忆（Hong et al., 2024; Martin et al., 2022; Chow & Rissman, 2017; Dubourg et al., 2016; Silva et al., 2016；综述见 van Teijlingen et al., 2021）。这些有前景的结果使人期待，生活日志记录能够有效减轻情景记忆丧失带来的负担，例如依赖照护、日常功能下降、社会关系受损以及自我感受损（Hodges et al., 2006; Silva et al., 2016）。",
+    "kind": "body",
+    "source": "Visual lifelogging is the act of wearing an automated camera that \ncontinuously and automatically takes photographs or movies from the \nwearer's first-person point of view (Hodges et al., 2006). A great number \nof case and group studies suggest that the review of lifelogging photo­\ngraphs can improve episodic memory in both healthy and memory- \nimpaired individuals (Hong et al., 2024; Martin et al., 2022; Chow & \nRissman, 2017; Dubourg et al., 2016; Silva et al., 2016; see van Teij­\nlingen et al., 2021 for a review). These promising results raise hope that \nlifelogging can be efficient in easing the burden of episodic memory loss, \nsuch as dependency on care, decreased everyday functioning, impaired \nsocial relationships, and an impaired sense of the self (Hodges et al., \n2006; Silva et al., 2016).\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 1,
+    "block": 9,
+    "source_rect": [
+      37.587398529052734,
+      523.0960083007812,
+      291.0342102050781,
+      651.212158203125
+    ],
+    "text": "生活日志相机通过挂带佩戴于颈部，或固定在上身，并配有鱼眼镜头。因此，其照片能够从使用者的第一人称视角，即自我中心视角，捕捉较大的视野范围。此外，生活日志照片会自动拍摄，无需使用者干预。自动拍摄可以按预设的时间间隔进行，例如每 30 秒一次，也可以由相机上检测声音、光线、温度或运动变化的特殊传感器触发。由于多数生活日志设备没有显示屏，通常需要把图像上传到计算机，才能回看记录（Hodges et al., 2006）。自 2009 年以来，已有多款生活日志相机推出，例如由微软剑桥研究院专为记忆研究开发的 SenseCam（Hodges et al., 2011, 2006）。",
+    "kind": "body",
+    "source": "Lifelogging cameras are worn on a band around the neck or mounted \nto the upper body and possess a fisheye lens. Consequently, their pho­\ntographs capture a wide field of view from the user's first-person \nperspective (i.e., egocentric perspective). Furthermore, lifelogging \nphotographs are taken automatically, without user intervention. This \nhappens either by default after a certain time interval (e.g., 30 s) or \nthrough special sensors on the camera which can detect changes in \nsound, light, temperature, or movement. Because most lifelogging de­\nvices have no display, the images usually need to be uploaded to a \ncomputer to review recordings (Hodges et al., 2006). Since 2009 several \nlifelogging cameras have been launched, such as the Sensecam, which \nwas developed specifically for memory research by Microsoft Research \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 1,
+    "block": 10,
+    "source_rect": [
+      306.5926208496094,
+      376.6597595214844,
+      560.0139770507812,
+      483.8002014160156
+    ],
+    "text": "其他例子包括 Vicon Revue（St. Jacques & Schacter, 2013）、OMG Autographer（Selwood et al., 2020）、Narrative Clip（Dassing et al., 2020），以及市售的 GoPro 系列。虽然上述设备功能相似，但较新的相机通常储存容量更大，图像质量也更好。此外，有些生活日志相机现在允许用户直接在设备上查看照片（Chow & Rissman, 2017）。不过，由于没有获得足够的关注，其中许多设备已被开发商停产。",
+    "kind": "body",
+    "source": "Cambridge (Hodges et al., 2011, 2006). Other examples are the Vicon \nRevue (St. Jacques & Schacter, 2013), OMG Autographer (Selwood \net al., 2020), Narrative Clip (Dassing et al., 2020), and the commercially \navailable GoPro series. While all of the above-mentioned devices are \nsimilar in their functions, the newer cameras usually possess greater \nstorage capacities and deliver better image quality. Furthermore, some \nlifelogging cameras now enable users to view the photographs directly \non the device (Chow & Rissman, 2017). However, many of the devices \nhave been discontinued by the developers due to a lack of substantial \ninterest.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 1,
+    "block": 11,
+    "source_rect": [
+      306.5926208496094,
+      481.2569580078125,
+      560.020263671875,
+      651.212158203125
+    ],
+    "text": "关于生活日志记录是否能够有效支持情景记忆，现有证据以正面结果为主。若干文献综述将生活日志记录评价为一种有潜力的非侵入性记忆辅助方式，可用于支持从日常经历到值得记住的特殊场合等广泛事件的记忆（Chow & Rissman, 2017; Dubourg et al., 2016; Silva et al., 2016; van Teijlingen et al., 2021）。两种相互竞争的理论解释了生活日志记录为何有效：相容性理论与信息理论（Conway, 2005; Hodges et al., 2011）。相容性理论认为，第一人称，即自我中心视角的照片，因为与自然的记忆编码方式相一致而增强回忆。相反，信息理论认为，记忆获益来自可获得的细节数量，而与视角无关（Conway, 2005; Hodges et al., 2011）。近期研究发现，自我中心与非自我中心视角的图像之间没有显著差异，这支持信息理论，提示驱动记忆增强的是信息量，而非视角。",
+    "kind": "body",
+    "source": "The evidence concerning the effectiveness of lifelogging in support­\ning episodic memory is predominantly positive. In several literature \nreviews, lifelogging has been evaluated as a promising, non-invasive \nmemory aid which could be applied to support memory for a wide \nrange of events from everyday experiences to special memorable occa­\nsions (Chow & Rissman, 2017; Dubourg et al., 2016; Silva et al., 2016; \nvan Teijlingen et al., 2021). Two competing theories explain their \neffectiveness of lifelogging: the compatibility theory and the informa­\ntion theory (Conway, 2005; Hodges et al., 2011). The compatibility \ntheory suggests that first-person (egocentric) photos enhance recall by \naligning with natural memory encoding. In contrast, the information \ntheory posits that memory benefits stem from the volume of details \navailable, regardless of perspective (Conway, 2005; Hodges et al., \n2011). Recent findings showing no significant difference between \negocentric and allocentric images support the information theory, sug­\ngesting that the amount of information, rather than perspective, drives \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 2,
+    "block": 0,
+    "source_rect": [
+      37.587398529052734,
+      51.29973220825195,
+      290.9895324707031,
+      106.16908264160156
+    ],
+    "text": "此外，参与者自然地从自我中心视角提取记忆，也可能解释为什么没有出现视角优势（Rice & Rubin, 2009, 2011）。未来研究应检验老年人与记忆受损人群是否也出现类似效应。",
+    "kind": "body",
+    "source": "memory enhancement. Additionally, participants naturally retrieving \nmemories from an egocentric viewpoint may explain the absence of a \nperspective advantage (Rice & Rubin, 2009, 2011). Future research \nshould examine whether similar effects occur in elderly individuals and \nthose with memory impairments.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 2,
+    "block": 1,
+    "source_rect": [
+      37.587398529052734,
+      103.62662506103516,
+      291.0301818847656,
+      242.1748504638672
+    ],
+    "text": "总体而言，生活日志对记忆的支持可以发生在两个阶段。第一，生活日志照片被用于支持事件记忆的巩固，以提高记忆的总体可获得性。具体而言，通过一次或多次回看照片，提高日后成功回忆照片所呈现事件的可能性。本文将这种方法称为“生活日志支持的巩固”。第二，生活日志照片被用于在提取时提供记忆线索。人们在尝试记起照片所呈现的事件时，或在此之前，回看照片，使相应记忆更容易被提取。本文将这种方法称为“生活日志支持的提取”。",
+    "kind": "body",
+    "source": "Broadly, lifelogging-mediated memory support can take place during \ntwo memory stages: First, lifelogging photographs have been used to \nsupport the consolidation of event memories in an attempt to increase \ntheir overall availability. More specifically, lifelogging photographs are \nreviewed one or more times to increase the chance that the depicted \nevents can be successfully recalled at a later point in time. For the \npurpose of this article, this method is termed lifelogging-supported \nconsolidation. Second, lifelogging photographs have been utilized to cue \nmemory at the time of retrieval. Thereby, the images are reviewed \nduring or just before attempting to remember the events they depict, in \norder to render the corresponding memories more accessible. For the \nremainder of this paper, this method of lifelogging is referred to as \nlifelogging-supported retrieval.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 2,
+    "block": 2,
+    "source_rect": [
+      37.587398529052734,
+      239.57501220703125,
+      291.022216796875,
+      461.85711669921875
+    ],
+    "text": "生活日志支持的巩固已用于若干个案研究，包括因边缘叶脑炎（Berry et al., 2007）、内侧颞叶获得性脑损伤（Brindley et al., 2011）、科萨科夫综合征（Svanberg & Evans, 2013）和轻度认知障碍（Browne et al., 2011）而出现记忆受损的患者，也用于一项纳入阿尔茨海默病患者的小规模临床研究（Woodberry et al., 2015）。所有这些研究均表明，随着生活日志照片回看次数增加，患者能够记起的照片所示事件细节也相应增加。此外，两项单组实验研究考察了一次照片回看能否有效改善日后的情景回忆。Seamon 等（2014）组织 144 名大学生参加有导览的步行游览。游览结束后，学生立即用 25 分钟追忆事件，期间分别回看生活日志照片、阅读文字描述，或不查看任何游览记录。然而，一周后的自由回忆测验并未发现不同条件之间存在统计学显著差异。相比之下，Finley 等（2011）发现，与不回看相比，在一天结束时回看生活日志照片，显著改善了一周、三周和八周后的线索回忆。",
+    "kind": "body",
+    "source": "Lifelogging-supported consolidation has been applied in several case \nstudies involving patients with memory impairments due to limbic en­\ncephalitis (Berry et al., 2007), acquired brain injury to the medial \ntemporal lobe (Brindley et al., 2011), Korsakoff's syndrome (Svanberg & \nEvans, 2013), and mild cognitive impairment (Browne et al., 2011), as \nwell as in a small-scale clinical study including patients with Alzheimer's \ndisease (Woodberry et al., 2015). All of these studies indicate that with \nan increased amount of lifelogging photograph reviews, there is a cor­\nresponding increase in the number of details patients can remember \nfrom the events depicted in the images. Furthermore, two single-group \nexperimental studies investigated whether a one-time review of life­\nlogging photographs could also be effective in improving episodic recall \nat a later point in time. Seamon et al. (2014) conducted a guided walking \ntour with 144 university students. Immediately after the tour, the stu­\ndents had 25 min to reminiscence about the event while reviewing either \nlifelogging photographs, verbal descriptions, or no records of the \nwalking tour. However, no statistically significant difference between \nconditions were found in a free recall test one week later. In contrast, \nFinley et al. (2011) found that an end-of-the-day review of lifelogging \nphotographs, as compared to no review, significantly improved cued \nrecall one, three, and eight weeks later.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 2,
+    "block": 3,
+    "source_rect": [
+      37.587398529052734,
+      459.2580871582031,
+      291.03338623046875,
+      723.3792724609375
+    ],
+    "text": "生活日志支持的提取已在两个单个案研究中得到考察，患者分别患有单纯疱疹病毒性脑炎（Loveday & Conway, 2011），以及强直—阵挛性发作后的脑损伤（Mair & Shackleton, 2021）。两个个案均显示，与回看书面日记或没有线索相比，通过回看生活日志图像提供线索时，患者对事件所回忆细节的数量和质量均得到改善。有意思的是，在 Mair 和 Shackleton（2021）的研究中，这种支持甚至能激发对某些事件的回忆：患者在基线时并不记得这些事件，但它们与提示事件在时间或地点上存在联系。健康参与者的单组实验研究提供了进一步证据。例如，Sellen 等（2007）让 19 名本科生用生活日志设备记录日常活动。几天后要求他们回忆所记录事件时，与查看他人图像相比，使用自己的生活日志照片辅助提取，能够使他们回忆出显著更多的细节。类似地，Mair 等（2017）发现，年轻成人（n = 21）和老年成人（n = 21）在回看生活日志照片后不久，其回忆均显著优于无支持条件。2019 年，Mair 及同事在更受控的环境中，招募 17 名年轻成人和 19 名老年成人重复了研究。在参与复杂的实验室编码事件两周后，与没有线索相比，得到生活日志图像提示时，两组在标准化情景回忆问卷上的表现均显著更好。",
+    "kind": "body",
+    "source": "Lifelogging-supported retrieval has been investigated in two single case \nstudies including patients with herpes simplex viral encephalitis \n(Loveday & Conway, 2011) and brain damage after a tonic-clonic \nseizure (Mair & Shackleton, 2021). Both cases showed improved recall \nwith regard to the amount and quality of details they remembered of \nevents that were cued by a lifelogging image review compared to the \nreview of a written diary or no cues. Interestingly, in the study of Mair \nand Shackleton (2021), lifelogging-supported retrieval could even \nstimulate the recall of events for which there had been no memory at \nbaseline but were connected in time or place. Further evidence comes \nfrom single-group experimental studies with healthy participants. For \nexample, Sellen et al. (2007) let 19 undergraduate students use life­\nlogging devices to record their daily activities. When being asked to \nremember the lifelogged events a few days later, participants recalled \nsignificantly more details when their memory retrieval was supported \nby their own lifelogging photographs, as compared to another person's \nimages. In a similar study, Mair et al. (2017) demonstrated that both \nyounger adults (n = 21) and older adults (n = 21) showed significantly \nimproved recall shortly after a lifelogging photograph review compared \nto no support. In 2019, Mair and colleagues repeated the study with 17 \nyounger and 19 older adults in a more controlled setting. Two weeks \nafter taking part in complex laboratory-encoded events, both groups \nperformed significantly better on a standardized episodic recall ques­\ntionnaire if they had been cued with lifelogging images compared to no \ncues.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 2,
+    "block": 4,
+    "source_rect": [
+      37.587398529052734,
+      720.7801513671875,
+      291.02862548828125,
+      744.2991943359375
+    ],
+    "text": "据我们所知，上述研究所收集并用于回看的图像全部采用第一人称视角。目前尚不清楚，",
+    "kind": "body",
+    "source": "As far as we know all of the studies discussed in the foregoing \nemployed a first-person perspective in the images that were collected for \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 2,
+    "block": 5,
+    "source_rect": [
+      306.5926208496094,
+      51.29973220825195,
+      560.0116577148438,
+      189.84716796875
+    ],
+    "text": "第一人称，即自我中心视角的生活日志，是否比第三人称，即非自我中心视角更有助于巩固和提取。相容性理论认为，生活日志对记忆的支持，得益于照片典型的自我中心视角；这种视角被认为与情景记忆自然储存和提取时的视角相匹配（Conway, 2005; Hodges et al., 2011）。此外，它与记忆拥有者最初经历、即编码事件时的视角高度重合（Hodges et al., 2006）。按照编码特异性原则，记忆线索与相关记忆形成时的条件越匹配，成功提取该记忆的可能性就越高（Tulving & Thomson, 1973）。",
+    "kind": "body",
+    "source": "the review. It is currently unknown whether a first-person (egocentric) \nperspective lifelogging is better in assisting consolidation and retrieval \nthan a third-person (allocentric) perspective. According to the compat­\nibility theory, lifelogging-mediated memory support is facilitated by the \ntypical egocentric perspective of the photographs that is supposed to \nmatch the perspective in which episodic memories are naturally stored \nand retrieved (Conway, 2005; Hodges et al., 2011). Moreover, this \nperspective greatly overlaps with the perspective of the memory holder \nat the time of originally experiencing (encoding) the event (Hodges \net al., 2006). In line with the principle of encoding specificity, the \ngreater the match between a memory cue and the conditions during \nwhich the associated memory was formed, the higher are the chances for \nsuccessful retrieval of the memory (Tulving & Thomson, 1973).\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 2,
+    "block": 6,
+    "source_rect": [
+      306.5926208496094,
+      187.30470275878906,
+      560.0162963867188,
+      346.77203369140625
+    ],
+    "text": "Rice 和 Rubin（2009）连续开展三项研究，显示人们在提取记忆时常会体验不止一种视角，支持将视角视为相互独立的框架，而非相互排斥或互补的模型。视角不是固定的，可以在回忆过程中变化；这有助于理解人们如何在心理上重构个人事件。后续研究显示，人们回忆事件时能够灵活地在不同观察点之间切换（Rice & Rubin, 2011）。这种灵活性说明，第三人称视角并不局限于特定空间位置，这对理解我们如何在心理上重构过去经历具有意义。非自我中心视角，即第三人称视角的回忆，可能促进对事件中较抽象、外部方面的记忆，例如动作及物体之间的空间关系（Mcisaac & Eich, 2002; Rice & Rubin, 2009, 2011）。",
+    "kind": "body",
+    "source": "Rice and Rubin (2009) performed three consecutive studies showing \nthat individuals often experience more than one perspective during \nmemory retrieval, supporting the notion of an independent framework \nrather than mutually exclusive or complementary models. Perspectives \nare not fixed and can shift during recall, with implications for under­\nstanding how people mentally reconstruct personal events. A later study \nshowed that people can flexibly shift between different vantage points \nwhen recalling events (Rice & Rubin, 2011). This flexibility suggests \nthat third-person perspectives are not limited to specific spatial loca­\ntions, which has implications for understanding how we mentally \nreconstruct past experiences. Recall from an allocentric perspective (i.e., \nthird-person perspective) might facilitate better memory for the more \nabstract and external aspects of events, such as actions, and spatial re­\nlations among objects (Mcisaac & Eich, 2002; Rice & Rubin, 2009, \n2011).\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 2,
+    "block": 7,
+    "source_rect": [
+      306.5926208496094,
+      344.22882080078125,
+      560.0162963867188,
+      691.9722290039062
+    ],
+    "text": "据我们所知，此前只有一项生活日志研究采用多种视角。St. Jacques 和 Schacter（2013）让 41 名健康参与者佩戴生活日志设备，进行自助式博物馆步行参观。48 小时后，参与者在两种条件下回看参观停留点的图像。在再激活匹配条件下，他们从未改变的自我中心视角查看自己的图像；在再激活不匹配条件下，他们查看相同停留点的图像，但图像的观察角度、高度或两者均发生变化。再过 48 小时进行再认测验时，相比不匹配条件，参与者对于匹配条件下回看过的停留点，显著更有信心辨认自己在参观中是否到访过；对这些停留点的再认记忆也显著更好。这些发现支持前述相容性理论（Conway, 2005; Hodges et al., 2011）。本研究与 St. Jacques 和 Schacter（2013）的一项关键差别，是视角的操纵方式及其对记忆提取的影响。他们在再激活阶段改变生活日志图像的视觉视角，在再认测验前修改图像角度、高度或旋转方向。他们的结果支持相容性假设，即编码与回忆之间保持一致的自我中心视角有益于记忆提取。相比之下，本研究直接比较第一人称与第三人称视角，不在编码后修改图像。不同于他们的被试内操纵，我们采用组间设计，评估提取获益究竟来自与自然记忆过程的一致性，即相容性假设，还是来自可获得的情境信息量，即信息假设（Conway, 2005; Hodges et al., 2011）。把参与者本人包含在场景中的非自我中心视角，可能提供自我中心生活日志所没有的独特提取优势（Rice & Rubin, 2009, 2011）。",
+    "kind": "body",
+    "source": "As far as we know, only one study thus far has adopted multiple \nperspectives in lifelogging. St. Jacques & Schacter, 2013asked 41 \nhealthy participants to go on a self-guided museum walking tour while \nwearing a lifelogging device. 48 h later, participants reviewed life­\nlogging images of stops of the museum tour in two different conditions. \nIn the reactivation-match condition, participants viewed their images \nfrom an unchanged egocentric perspective. In the reactivation-mismatch \ncondition, participants reviewed images of the same stops but the \nperspective of the images was altered in angle, height, or both. In a \nrecognition test another 48 h later, participants were significantly more \nconfident in their ability to recognize which stops they had taken during \nthe museum tour when these stops had been reviewed in the \nreactivation-match condition as compared to the reactivation-mismatch \ncondition. Furthermore, their recognition memory for stops in the \nreactivation-match condition was significantly higher. These findings \nsupport the earlier mentioned compatibility theory (Conway, 2005; \nHodges et al., 2011). A key difference between the present study and St. \nJacques and Schacter (2013) lies in how perspective was manipulated \nand its impact on memory retrieval. St. Jacques & Schacter altered the \nvisual perspective of lifelogging images during a reactivation phase, \nmodifying their angle, height, or rotation before a recognition memory \ntest. Their findings supported the compatibility hypothesis, which sug­\ngests that memory retrieval benefits from a consistent egocentric \nperspective between encoding and recall. In contrast, our study directly \ncompares first-person (egocentric) and third-person (allocentric) per­\nspectives without modifying images post-encoding. Unlike their within- \nsubjects manipulation, we employ a between-groups design to assess \nwhether retrieval benefits stem from alignment with natural memory \nprocesses (compatibility hypothesis) or the amount of contextual in­\nformation available (information hypothesis;Conway, 2005; Hodges \net al., 2011). The allocentric perspective, which includes the participant \nwithin the scene, may provide unique retrieval advantages absent in \negocentric lifelogging (Rice & Rubin, 2009, 2011).\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 2,
+    "block": 8,
+    "source_rect": [
+      306.5926208496094,
+      689.428955078125,
+      560.0020141601562,
+      744.2991943359375
+    ],
+    "text": "上述回顾表明，视觉生活日志已在记忆受损人群和健康参与者中取得积极结果。研究广泛考察了生活日志的益处，重点是第一人称、自我中心视角。然而，比较第一人称与第三人称生活日志的有效性时，仍存在研究缺口。",
+    "kind": "body",
+    "source": "Based on the present overview, it is evident that visual lifelogging \nhas yielded positive outcomes for both memory-impaired individuals \nand healthy subjects. The research has extensively covered the benefits \nof lifelogging with an emphasis on a first-person (egocentric) perspec­\ntive. Nevertheless, a research gap emerges when comparing the \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 0,
+    "source_rect": [
+      37.587398529052734,
+      51.29973220825195,
+      291.0278015136719,
+      168.92803955078125
+    ],
+    "text": "尽管现有文献和相容性理论提示，自我中心视角由于与最初编码时的观察点一致，可能更为有效（Conway, 2005; Hodges et al., 2011），但非自我中心视角也可能具有其他益处（Mcisaac & Eich, 2002; Rice & Rubin, 2009, 2011）。这一问题尚未得到充分研究。进一步考察十分重要，因为它涉及生活日志情境下情景记忆回忆机制的基础。此外，更多证据也可以支持生活日志作为记忆康复工具的有效性。",
+    "kind": "body",
+    "source": "effectiveness of first-person (egocentric) and third-person (allocentric) \nperspectives in lifelogging. Though the current literature and the \ncompatibility theory suggest more effectiveness when using an \negocentric perspective, because of the congruence with the original \nviewpoint at encoding (Conway, 2005; Hodges et al., 2011), the allo­\ncentric perspective could have other benefits (Mcisaac & Eich, 2002; \nRice & Rubin, 2009, 2011). This has not been investigated thoroughly. \nCloser examination is vital because it addresses the foundations of the \nmechanisms for episodic memory recall with respect to lifelogging. \nFurthermore, more evidence can support the effectiveness of lifelogging \nas a successful tool for memory rehabilitations.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 1,
+    "source_rect": [
+      37.587398529052734,
+      166.38478088378906,
+      291.03021240234375,
+      294.4451599121094
+    ],
+    "text": "基于上述情况，本研究旨在进一步验证生活日志介导的情景记忆辅助方式是否有效：分别在生活日志支持的巩固和提取过程中，检验回看视角的影响，并比较自我中心与非自我中心视角。一组健康年轻参与者借助自我中心图像，回看实验室中的受控事件；另一组借助非自我中心视角的生活日志图像回看。随后，我们通过在回看后立即测量回忆，检验生活日志支持的提取效果。此外，通过在回看 24 小时后测量参与者的主观和客观情景回忆，比较两组中生活日志支持的巩固效果。",
+    "kind": "body",
+    "source": "In light of the foregoing the present study aimed to further verify the \neffectiveness of lifelogging-mediated episodic memory aids, by exam­\nining the impact of review perspective in both lifelogging supported \nconsolidation and lifelogging supported retrieval, whilst comparing the \neffects of an egocentric and allocentric perspective. For our study, one \ngroup of healthy young participants reviewed controlled events in the \nlab with help of egocentric images and the other group with help of \nallocentric perspective lifelogging images. We next tested the effects of \nlifelogging supported retrieval by assessing recall immediately after a \nlifelogging review. Moreover, lifelogging-supported consolidation was \ncompared across groups by assessing participants' subjective and \nobjective episodic recall 24 h after the lifelogging reviews.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 4,
+    "source_rect": [
+      37.587398529052734,
+      344.34197998046875,
+      291.0311584472656,
+      660.7371826171875
+    ],
+    "text": "本研究纳入 32 名健康成年人。参与者被随机分配到自我中心、第一人称视角组（n = 16），或非自我中心、第三人称视角组（n = 16）。自我中心组年龄为 20–27 岁（M = 23.25，SD = 2.46），非自我中心组为 21–37 岁（M = 25.81，SD = 4.69），t(30) = 1.93，p > .05。两组均以女性为主：自我中心组 13 名女性、3 名男性；非自我中心组 10 名女性、6 名男性；χ²(2, N = 32) = 1.39，p > .05。教育程度如下：自我中心组 25% 为高中学历、50% 为学士学位、25% 为硕士学位；非自我中心组分别为 12.5%、37.5% 和 50%。所有参与者均年满 18 岁，视力正常或矫正后正常，英语熟练程度良好，并能够联网参与研究。排除标准包括色盲、已诊断的知觉障碍、记忆障碍或注意障碍，以及已诊断的精神健康障碍或脑损伤及其病史。原始样本共 38 人，其中 6 人被排除：3 人在实验结束前退出，1 人符合排除标准，1 人遇到技术问题，另 1 人完成实验第二、第三部分的时间间隔属于离群值。参与为自愿行为，报酬为 16 欧元或两小时研究参与学分（PPU）。乌得勒支大学社会科学学生需要这些学分才能完成本科学业。研究获得乌得勒支大学社会科学学院伦理审查委员会（FETC）批准，档案号为 21–1956。",
+    "kind": "body",
+    "source": "We enrolled 32 healthy adults in our study. Participants were \nrandomly allocated to either the egocentric (first-person) perspective \ngroup (n = 16) or the allocentric (third-person) perspective group (n =\n16). The participants' age ranged between 20 and 27 years in the \negocentric (M = 23.25, SD = 2.46) and 21 to 37 years in the allocentric \nperspective group (M = 25.81, SD = 4.69) (t(30) = 1.93, p > .05). The \nmajority of participants in both groups were female (egocentric \nperspective group: 13 females, 3 males; allocentric perspective group: \n10 females, 6 males) (X2 (2, N = 32) = 1.39, p > .05). Level of education \nwas as follows: 25 % in the egocentric perspective group had a High \nSchool degree, 50 % had a Bachelor's degree, and 25 % had a Master's \ndegree. In the allocentric perspective group, 12.5 % had a High School \ndegree, 37.5 % had a Bachelor's degree, and 50 % had a Master's degree. \nAll participants were 18 years or older, had normal or corrected to \nnormal vision, and good English proficiency. Additionally, participants \nhad internet access to participate in the research project. Exclusion \ncriteria were colour blindness, a diagnosed perceptual, memory, or \nattention disorder, or a (history of a) diagnosed mental health disorders \nor brain injury. Six participants had to be omitted from the original \nsample which consisted of 38 participants. Three of these participants \ndropped out before the end of the experiment. Furthermore, one \nparticipant met an exclusion criterion, another participant had technical \ndifficulties, and a final participant was an outlier concerning the time \nintervals at which she completed the second and third part of the \nexperiment. Participation in the study was voluntary but it was rewar­\nded with either 16 Euro or two research participation hour credits \n(PPU). Those PPU are needed by the social science students of Utrecht \nUniversity to complete their bachelor's. The study was approved by the \nFaculty Ethics Review Committee (FETC) of the Faculty of Social Sci­\nences, Utrecht University (file number: 21–1956).\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 6,
+    "source_rect": [
+      37.588340759277344,
+      690.055908203125,
+      291.0335388183594,
+      744.9261474609375
+    ],
+    "text": "研究采用四个相似的混合因素设计，在生活日志支持的巩固和提取两种操纵下，评估“主观情景记忆强度”与“客观情景记忆强度”两个因变量。",
+    "kind": "body",
+    "source": "Four similar mixed-factorial designs were employed to assess the two \ndependent variables ‘subjective episodic memory strength’ and ‘objec­\ntive episodic memory strength’ in both the lifelogging-supported \nconsolidation and lifelogging-supported retrieval manipulation. In \neach case, the independent variables were ‘Perspective’ (egocentric \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 7,
+    "source_rect": [
+      306.5927734375,
+      51.30342483520508,
+      560.012451171875,
+      137.58056640625
+    ],
+    "text": "每个设计的自变量均为“视角”（自我中心或非自我中心）和“支持类型”（回看或对照/基线）。此外，将“客观情景记忆强度”分为视觉与非视觉信息的回忆得分，构成准自变量“信息类型”（视觉或非视觉）。“视角”为被试间因素，“支持类型”和“信息类型”为被试内因素。不过，“信息类型”只能用于客观情景记忆强度的分析。",
+    "kind": "body",
+    "source": "perspective vs. allocentric perspective) and ‘support type’ (review vs. \ncontrol/baseline). Additionally, the quasi-independent variable ‘type of \ninformation’ (visual vs. non-visual) was created by splitting the variable \n‘objective episodic memory strength’ into scores for visual and non- \nvisual recalled information. ‘Perspective’ was a between-subjects fac­\ntor and ‘support type’ and ‘type of information’ were within-subjects \nfactors. However, ‘type of information’ could only be considered for \n‘objective episodic memory strength’.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 9,
+    "source_rect": [
+      306.5927734375,
+      166.50245666503906,
+      560.0148315429688,
+      231.8604736328125
+    ],
+    "text": "参与者通过乌得勒支大学在线研究参与平台 Sona Systems 招募。此外，研究广告发布在 Facebook 和 WhatsApp 等社交平台，并在大学内分发传单、张贴海报。研究在连续三天内进行，整体流程见图 1。",
+    "kind": "body",
+    "source": "Participants were recruited through the online research participation \nplatform of Utrecht University (Sona Systems). Moreover, an adver­\ntisement for the study was posted on social media platforms (Facebook \nand WhatsApp). Finally, flyers and posters that advertised the study \nwere distributed at Utrecht University. The study took place on three \nconsecutive days (see Fig. 1 for an overview of the study).\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 12,
+    "source_rect": [
+      306.5927734375,
+      271.6097717285156,
+      560.017333984375,
+      357.8876647949219
+    ],
+    "text": "实验第一部分在乌得勒支大学社会科学学院实验室进行。参与者提交书面知情同意及性别、年龄和最高教育程度等人口统计信息。随后，他们在两个不同研究房间中，分别参与一次持续 5 分钟的事件，图 1 将其称为事件 A 和事件 B。每个房间放置六件互不相关的物品，例如毛巾、书和网球，并在背景播放自然声音录音，以营造沉浸式环境。",
+    "kind": "body",
+    "source": "The first part of the experiment took place in the laboratory of the \nFaculty of Social Sciences at Utrecht University. Participants provided \nwritten informed consent and demographic information, including \ngender, age, and highest level of education. They then attended two \nseparate 5-min events in different research rooms (referred to as Event A \nand Event B in Fig. 1). Each room contained six unrelated objects (e.g., a \ntowel, a book, a tennis ball) and had audio recordings of nature sounds \nplaying in the background to create an immersive environment.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 13,
+    "source_rect": [
+      306.5927734375,
+      355.287841796875,
+      559.9989013671875,
+      410.1579895019531
+    ],
+    "text": "参与者在每个房间完成三项任务：一分钟的交谈练习；口头评价自己在房间中的体验，例如“从 1（完全不愉快）到 7（非常愉快），你会如何评价在这个房间中的体验？”；以及完成三个简单的七巧板拼图，示例见图 2，另见图 3 和图 4。",
+    "kind": "body",
+    "source": "In each room, participants performed three tasks: a 1-min conver­\nsational exercise, a verbal rating of their experience in the room (e.g., \n“On a scale from 1 (not pleasant at all) to 7 (very pleasant), how would \nyou rate your experience in this room?”), and had to complete three \nsimple tangram puzzles (see Fig. 2 for an example). (See Figs. 3 and 4.)\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 14,
+    "source_rect": [
+      306.5927734375,
+      407.61474609375,
+      560.0260620117188,
+      525.2430419921875
+    ],
+    "text": "七巧板是传统的中国分割拼图，由七块平面拼板组成，包括五块大小不同的三角形、一块正方形和一块平行四边形。目标是在拼板互不重叠的情况下，重新排列七块拼板，组成动物、物体或几何图形等特定形状。必须使用全部拼板，可以旋转或翻转。这样的设置旨在模拟复杂的真实生活事件，并为后续记忆测验提供内容。测试事件后会清洁拼板。由于 COVID-19 限制，参与者独自参加实验，并通过对讲机与研究者沟通。测试事件后会清洁拼板。",
+    "kind": "body",
+    "source": "A tangram puzzle is a traditional Chinese dissection puzzle consisting \nof seven flat pieces called “tans.” These pieces include five triangles of \nvarious sizes, one square, and one parallelogram. The objective of a \ntangram puzzle is to rearrange the seven pieces to form a specific shape, \nsuch as an animal, object, or geometric figure, without overlapping \nthem. The pieces must be used in their entirety and can be rotated or \nflipped. This setup aimed to simulate complex real-life events and pro­\nvide content for subsequent memory tests. The tangram pieces were \ncleaned after the test event. Due to Covid-19 restrictions, participants \nattended the sessions alone and communicated with the researcher via \nwalkie-talkies. The tangram pieces were cleaned after the test event.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 15,
+    "source_rect": [
+      306.5927734375,
+      522.6997680664062,
+      560.0093383789062,
+      608.9203491210938
+    ],
+    "text": "两个房间的设计既有区别，又在可记忆性上具有可比性。例如，房间内物品、背景声音和任务不同，并分别以“蓝色房间”或“绿色房间”进行颜色标记，帮助参与者区分。两个事件之间，参与者在另一房间休息 5 分钟，以确保他们将每个事件看作独立经历。休息时要求参与者不使用手机，可以改玩一个简单的在线游戏。",
+    "kind": "body",
+    "source": "The two rooms were designed to be distinct yet comparable in terms \nof memorability. For instance, they featured different objects, back­\nground sounds, and tasks, and each room was colour-coded as either \n‘The Blue Room’ or ‘The Green Room’ to help participants differentiate \nbetween them. Between sessions, participants had a 5-min break in a \nseparate room to ensure they viewed each event as a distinct experience. \nDuring the break, participants were asked not to use their phones and \ncould play a simple online game instead.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 16,
+    "source_rect": [
+      306.5927734375,
+      606.3778686523438,
+      559.9957275390625,
+      650.7593994140625
+    ],
+    "text": "为收集生活日志数据，每位参与者通过固定带佩戴一台 GoPro Hero 4 相机，捕捉自我中心、第一人称图像；房间内另设一台 GoPro Hero 9，捕捉非自我中心、第三人称图像。两台相机均每 10 秒拍摄一张照片。",
+    "kind": "body",
+    "source": "To collect lifelogging data, each participant wore a GoPro Hero 4 \ncamera mounted on a harness to capture egocentric (first-person) im­\nages, while another GoPro Hero 9 camera mounted in the room captured \nallocentric (third-person) images. Both cameras took photos every 10 s.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 18,
+    "source_rect": [
+      306.5927734375,
+      669.1360473632812,
+      560.0108642578125,
+      744.9261474609375
+    ],
+    "text": "第二天，参与者在记忆巩固阶段回看生活日志照片。他们通过电子邮件收到链接，在四小时的时间窗口内在线完成回看，过程约需 15 分钟。参与者先观看六张与事件 A、B 均无关的中性图像，即对照条件；休息一分钟后，再观看事件 A 的六张生活日志照片，即回看条件。",
+    "kind": "body",
+    "source": "On the second day, participants reviewed lifelogging photographs as \npart of the memory consolidation phase. They received a link via email \nand had a 4-h window to complete the review online, which took \napproximately 15 min. Participants first viewed six neutral images that \nwere unrelated to either Event A and B(control condition) and, after a 1- \nmin break, six lifelogging photographs for Event A (review condition). \nThey were instructed to study each image for 10 s and try to recall as \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 4,
+    "block": 0,
+    "source_rect": [
+      37.587398529052734,
+      674.5247802734375,
+      291.01983642578125,
+      739.8828125
+    ],
+    "text": "研究要求每张图像观看 10 秒，并尽可能回忆更多细节。生活日志照片按图像质量和区分度精心选择，以确保捕捉事件中最相关的内容，而非按时间均匀选取。使用自我中心还是非自我中心图像，取决于参与者被分配到第一人称还是第三人称回看组。",
+    "kind": "body",
+    "source": "much detail as possible. Lifelogging photographs were carefully selected \nbased on image quality and distinctiveness, to ensure the most relevant \ncontent of the events was captured, rather than adhering to an equal \ntime distribution. Whether egocentric or allocentric images were used \ndepended on to which group the participant had been assigned (first \nperson perspective review versus third person perspective review).\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 4,
+    "block": 2,
+    "source_rect": [
+      306.5926208496094,
+      314.7552795410156,
+      560.0084228515625,
+      390.5445251464844
+    ],
+    "text": "第三天，参与者完成两个事件的记忆测验。本次测试发生在最初事件后的 46–50 小时，持续约 60 分钟。先测事件 A，即回看条件，再测事件 B，即对照条件。为测量生活日志支持的提取效果，参与者随后回看事件 B 的生活日志照片，并立即再次完成该事件的记忆测验。",
+    "kind": "body",
+    "source": "On the third day, participants completed a memory test for both \nevents. This session took place 46–50 h after the initial events and lasted \nabout 60 min. First, participants were tested on their memory of Event A \n(review condition), followed by Event B (control condition). To measure \nthe effects of lifelogging-supported retrieval, participants then reviewed \nlifelogging photographs of Event B and immediately completed a second \nsession of the memory tests for this event.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 4,
+    "block": 3,
+    "source_rect": [
+      306.5926208496094,
+      388.0020751953125,
+      560.0194702148438,
+      474.22259521484375
+    ],
+    "text": "记忆测验包括主观和客观情景回忆两部分。主观回忆通过四个分量表中的 10 个题项测量，分量表为总体记忆、目标记忆、空间情境记忆和时间顺序情境记忆，使用七点李克特量表。客观回忆通过四个分量表中的八个题项测量，包括开放式问题和多项选择题。研究要求参与者重新评估自己的记忆，而非简单重复此前答案。",
+    "kind": "body",
+    "source": "The memory tests included two parts: subjective and objective \nepisodic recall. Subjective recall was assessed through 10 items across \nfour subscales (overall memory, target memory, spatial context mem­\nory, and temporal order context memory) using a 7-point Likert scale. \nObjective recall was measured by eight items across four subscales, \nconsisting of both open-ended and multiple-choice questions. Partici­\npants were instructed to re-evaluate their memories instead of simply \nrepeating previous answers.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 4,
+    "block": 4,
+    "source_rect": [
+      306.5926208496094,
+      471.6801452636719,
+      560.0147705078125,
+      516.1182861328125
+    ],
+    "text": "所有测验题项均依据情景回忆相关文献选择和编制，并用五名参与者进行预试，以确保清晰性和准确性。问卷详情见附录 A、B，即表 3 和表 4。",
+    "kind": "body",
+    "source": "All test items were chosen and constructed on basis of the relevant \nliterature on episodic recall and were piloted with five participants to \nensure clarity and accuracy. For detailed information on the question­\nnaires, please refer to Appendices A and B (Tables 3 and 4).\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 4,
+    "block": 6,
+    "source_rect": [
+      306.5926208496094,
+      549.4619750976562,
+      560.0083618164062,
+      667.1468505859375
+    ],
+    "text": "研究采用复杂的平衡程序。实验条件的变化包括：（1）第一天参与者访问两个房间的先后顺序；（2）每个视角条件——巩固与提取——分别对应哪个房间；（3）第三天回看房间的先后顺序。这三个因素在参与者之间进行了完全平衡，使参与者完成全部实验时共有四种顺序。同一房间内的不同事件任务，例如七巧板拼图，始终按固定顺序完成，未进行平衡。第三天，所有参与者都先回忆巩固事件，再回忆提取事件。",
+    "kind": "body",
+    "source": "A complex counterbalancing procedure was employed. The varia­\ntions in the experimental conditions included: (1) the order in which \nparticipants visited the two rooms on Day 1, (2) which room was \nassigned to each perspective condition (consolidation vs. retrieval), and \n(3) the order in which the rooms were reviewed on Day 3. These three \nfactors were fully counterbalanced across participants, resulting in four \norders in which the participant could do the full experiment. The \ndifferent event assignments within a room (e.g tangram puzzles) were \nalways performed in a fixed order within the rooms were not counter­\nbalanced. On Day 3 all participants first recalled the consolidation event \nfollowed by the retrieval event.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 4,
+    "block": 8,
+    "source_rect": [
+      306.5926208496094,
+      700.48974609375,
+      560.01318359375,
+      744.9278564453125
+    ],
+    "text": "数据使用 IBM SPSS Statistics 第 23 版分析。首先对年龄、性别和教育程度作简单描述分析，概述参与者的人口统计特征。",
+    "kind": "body",
+    "source": "Data were analyzed using the statistical program IBM SPSS Statistics \n[Version 23]. A simple descriptive analysis of the variables age, gender, \nand level of education was conducted to provide a demographic over­\nview of the participants. Independent t- and chisquared tests were \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 5,
+    "block": 0,
+    "source_rect": [
+      37.587398529052734,
+      458.5247497558594,
+      291.03338623046875,
+      534.3140258789062
+    ],
+    "text": "采用独立样本 t 检验和卡方检验，检查自我中心与非自我中心组之间是否存在潜在人口统计显著差异。此外，对参与者在各次测验中报告的事件记忆提取视角进行描述分析。对每个变量采用 Shapiro–Wilk 检验（Shapiro & Wilk, 1965）分析正态性，并绘制箱线图检查潜在离群值。",
+    "kind": "body",
+    "source": "conducted to check for potential significant demographic differences \nbetween the egocentric perspective group and allocentric perspective \ngroup. Besides, a descriptive analysis of participants answers concerning \nthe perspective from which they retrieved the memories of the events at \neach test was carried out. Moreover, for each variable, Shapiro-Wilk \n(Shapiro & Wilk, 1965) tests were conducted to analyze the data for \nnormality and boxplots were created to check for potential outliers.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 5,
+    "block": 1,
+    "source_rect": [
+      37.587398529052734,
+      531.770751953125,
+      290.97998046875,
+      743.50927734375
+    ],
+    "text": "为考察生活日志支持的巩固是否改善参与者的情景记忆表现，检验回看条件中事件的主观与客观记忆得分是否显著高于对照条件。另检验这种潜在效应是否受所用生活日志照片视角的影响。对于客观记忆得分，还评估支持类型与视角的可能作用，在视觉和非视觉信息之间是否存在显著差异。因此，主观记忆得分采用包含“视角”和“支持类型”的 2 × 2 混合因素方差分析；客观记忆得分采用包含“视角”“支持类型”和“信息类型”的 2 × 2 × 2 混合因素方差分析。另用类似的 2 × 2 方差分析，考察生活日志支持的提取是否有益于主观情景记忆，以及照片视角是否发挥作用。同时采用类似的 2 × 2 × 2 方差分析，考察在两种视角组中，生活日志支持的提取对视觉和非视觉信息客观情景记忆表现的影响。",
+    "kind": "body",
+    "source": "To investigate whether lifelogging-supported consolidation could \nimprove participants' episodic memory performance, it was tested \nwhether the participants' subjective and objective memory scores for the \nevent in the review condition were significantly higher than for the event \nin the control condition. Additionally, it was tested whether such a po­\ntential effect was influenced by the perspective of the lifelogging pho­\ntographs used. For objective memory scores, it was also assessed whether \nthe possible effects of support type and perspective were significantly \ndifferent for visual compared to non-visual information. Therefore, a 2 ×\n2 mixed factorial ANOVA with the factors ‘perspective’ and ‘support \ntype’ was conducted with the subjective memory scores, and a 2 × 2 × 2 \nmixed factorial ANOVA with the factors ‘perspective’, ‘support type’, and \n‘type of information’ was conducted with the objective memory scores. A \nsimilar 2 × 2 ANOVA was performed to investigate whether lifelogging- \nsupported retrieval could benefit participants' subjective episodic mem­\nory performance and whether the perspective of the lifelogging images \nplayed a role in that. Furthermore, a similar 2x2x2 ANOVA was con­\nducted to investigate the effect of lifelogging-supported retrieval on \nobjective episodic memory performance for visual and non-visual infor­\nmation across both perspective groups.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 1,
+    "source_rect": [
+      37.587398529052734,
+      215.25486755371094,
+      291.031982421875,
+      364.2919921875
+    ],
+    "text": "首先，我们分析生活日志支持的巩固对两视角组参与者主观情景回忆表现的影响。“回看支持类型”存在效应较强的显著主效应，F(1, 30) = 18.53，p < .001，偏 η² = 0.38。不论所属视角组，回看支持条件下的得分（M = 54.06，SD = 5.75）均显著优于对照条件（M = 48.50，SD = 7.32），提示生活日志有益于主观记忆。“视角”的主效应不显著，F(1, 30) = 2.84，p = .103，偏 η² = 0.09；“视角”与“回看支持类型”的交互作用也不显著，F(1, 30) = 0.06，p = .811，偏 η² < 0.01。作者据此认为，第一人称生活日志与第三人称生活日志在增强记忆方面同样有效。",
+    "kind": "body",
+    "source": "First, we analyzed the effect of lifelogging-supported consolidation \non the participants' subjective perception of their episodic memory \nperformance across both the egocentric and allocentric perspective \ngroup. There was a strong significant main effect of ‘review support \ntype’ (F(1,30) = 18.53, p < .001, partial η2 = 0.38). Independent of the \nperspective groups, participants' scores in the review support type were \nsignificantly better (M = 54.06, SD = 5.75) than in the control condition \n(M = 48.50, SD = 7.32), suggesting beneficial effects of lifelogging on \nsubjective memory. There was no statistically significant main effect of \n‘perspective’ (F(1, 30) = 2.84, p = .103, partial η2 = 0.09), as well as no \nstatistically significant ‘perspective’ by ‘review support type’ interaction \neffect (F(1, 30) = 0.06, p = .811, partial η2 < 0.01), suggesting that first- \nperson lifelogging was as effective as third-person lifelogging in \nenhancing memory.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 2,
+    "source_rect": [
+      37.58807373046875,
+      361.7487487792969,
+      291.0271911621094,
+      521.21875
+    ],
+    "text": "此外，我们检验生活日志支持的提取对两视角组主观记忆表现的影响。为此，进行 2（视角：自我中心或非自我中心）× 2（回看支持类型：回看或基线）混合因素方差分析。结果显示，“回看支持类型”存在效应量较大的显著主效应，F(1, 30) = 5.44，p = .027，偏 η² = 0.15。无论回看的照片采用何种视角，参与者在回看支持条件下的得分（M = 51.00，SD = 7.34）均显著优于基线条件（M = 48.50，SD = 7.32）。“视角”的主效应不显著，F(1, 30) = 1.30，p = .263，偏 η² = 0.04。“视角”与“回看支持类型”的交互作用也不显著，F(1, 30) = 0.03，p = .862，偏 η² < 0.01，提示两种生活日志条件同样有效。",
+    "kind": "body",
+    "source": "Moreover, we tested the effects of lifelogging-supported retrieval on \nparticipants' subjective memory performance across both perspective \ngroups. For that reason, a 2 (perspective: egocentric perspective vs. \nallocentric perspective) x 2 (review support type: review vs. baseline) \nmixed factorial ANOVA was conducted. The analysis yielded a strong \neffect-size significant main effect of ‘review support type’, (F(1, 30) =\n5.44, p = .027), partial η2 = 0.15. Irrespective of the perspective from \nwhich lifelogging photographs had been reviewed, participants scored \nsignificantly better in the review support type (M = 51.00, SD = 7.34) \nthan in the baseline condition (M = 48.50, SD = 7.32). There was no \nstatistically significant main effect of ‘perspective’, (F(1, 30) = 1.30, p =\n.263, partial η2 = 0.04. Furthermore, there was no statistically signifi­\ncant ‘perspective’ by ‘review support type’ interaction effect, (F(1, 30) \n= 0.03, p = .862, partial η2 < 0.01), suggesting that both lifelogging \nconditions were equally effective.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 4,
+    "source_rect": [
+      37.587398529052734,
+      550.0266723632812,
+      291.03076171875,
+      740.9038696289062
+    ],
+    "text": "我们评估：采用一种或两种视角的生活日志图像辅助巩固，是否影响参与者客观回忆出的事件视觉与非视觉细节数量。“回看支持类型”存在中等效应量的显著主效应，F(1, 30) = 7.17，p = .012，偏 η² = 0.19，提示生活日志有益于客观记忆。该主效应受到“回看支持类型”与“信息类型”之间中等效应量显著交互作用的限定，F(1, 30) = 4.41，p = .044，偏 η² = 0.13，提示生活日志有益于视觉信息，而非非视觉信息。“视角”的主效应不显著，F(1, 30) = 0.39，p = .535，偏 η² = 0.01；单独的“信息类型”主效应也不显著，F(1, 30) = 1.05，p = .313，偏 η² = 0.03，提示两种生活日志形式同样有效。此外，下列交互作用均不显著：“回看支持类型”×“视角”，F(1, 30) = 0.42，p = .522，偏 η² = 0.01；“信息类型”×“视角”，F(1, 30) = 0.31，p = .581，偏 η² = 0.01；“回看支持类型”×“视角”×“信息类型”，F(1, 30) = 0.68，",
+    "kind": "body",
+    "source": "We assessed whether lifelogging-supported consolidation with life­\nlogging images from one or both perspectives had an effect on the \nnumber of visual and non-visual details participants objectively recalled \nof the events. A medium effect-size significant main effect of ‘review \nsupport type’ was found (F(1, 30) = 7.17, p = .012, partial η2 = 0.19), \nsuggesting beneficial effects of lifelogging on objective memory. This \nmain effect was qualified by a significant medium effect-size ‘review \nsupport type’ by ‘type of information’ interaction effect, (F(1, 30) =\n4.41, p = .044, partial η2 = 0.13), suggesting a beneficial effect of life­\nlogging for visual but not non-visual information. No statistically sig­\nnificant main effect of ‘perspective’, (F(1, 30) = 0.39, p = .535, partial \nη2 = 0.01), or ‘type of information’ alone, (F(1, 30) = 1.05, p = .313, \npartial η2 = 0.03), was found, suggesting that both forms of lifelogging \nare equally effective. Furthermore, no statistically significant ‘review \nsupport type’ by ‘perspective’, (F(1, 30) = 0.42, p = .522, partial η2 =\n0.01); ‘type of information’ by ‘perspective’, (F(1, 30) = 0.31, p = .581, \npartial η2 = 0.01); or ‘review support type’ by ‘perspective’ by ‘type of \ninformation’, (F(1, 30) = 0.68, p = .418, partial η2 = 0.02), interaction \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 5,
+    "source_rect": [
+      306.5943298339844,
+      194.34068298339844,
+      559.9981079101562,
+      217.86044311523438
+    ],
+    "text": "p = .418，偏 η² = 0.02。这提示生活日志对客观视觉信息的有益作用在各条件间具有可比性。",
+    "kind": "body",
+    "source": "effects were found, suggesting that the beneficial effect for objective \nvisual information of lifelogging was comparable between conditions.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 6,
+    "source_rect": [
+      306.5943298339844,
+      215.26060485839844,
+      559.9734497070312,
+      259.6994934082031
+    ],
+    "text": "最后，我们测量：使用自我中心或非自我中心照片辅助提取，是否影响事件视觉和非视觉细节的客观回忆。分析采用 2（视角：自我中心或非自我中心）× 2（回看支持类型：回看或基线）× 2（信息类型：视觉或非视觉）混合因素方差分析。",
+    "kind": "body",
+    "source": "Finally, we measured whether lifelogging-supported retrieval with \nlifelogging photographs from an egocentric or allocentric perspective \nhad an effect on participants' objective recall of visual and non-visual \ndetails of the events. Therefore, a 2 (perspective:\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 7,
+    "source_rect": [
+      306.5943298339844,
+      257.15625,
+      560.0302124023438,
+      447.97186279296875
+    ],
+    "text": "结果显示，“回看支持类型”具有较强的显著主效应，F(1, 30) = 44.95，p < .001，偏 η² = 0.60。该效应同样受到“回看支持类型”与“信息类型”之间较强显著交互作用的限定，F(1, 30) = 103.57，p < .001，偏 η² = 0.78。只有考察视觉信息的客观情景记忆强度时，回看条件的回忆得分才与基线条件显著不同（2.88，p < .001）。“视角”的主效应不显著，F(1, 30) = 0.03，p = .874，偏 η² < 0.01；单独的“信息类型”主效应不显著，F(1, 30) = 1.11，p = .300，偏 η² = 0.04。各交互作用同样不显著：“回看支持类型”×“视角”，F(1, 30) = 0.25，p = .622，偏 η² < 0.01；“信息类型”×“视角”，F(1, 30) = 0.55，p = .465，偏 η² = 0.02；“回看支持类型”×“视角”×“信息类型”，F(1, 30) = 0.34，p = .566，偏 η² = 0.01。",
+    "kind": "body",
+    "source": "egocentric perspective vs. allocentric perspective) x 2 (review sup­\nport type: review vs. baseline) x 2 (type of information: visual. vs. \nnonvisual) mixed factorial ANOVA was conducted. The results demon­\nstrated a strong significant main effect of ‘review support type’, (F(1, \n30) = 44.95, p < .001, partial η2 = 0.60). Again, this effect was qualified \nby a strong significant ‘review support type’ by type of information’ \ninteraction effect, (F(1, 30) = 103.57, p < .001, partial η2 = 0.78). Recall \nscores in the review support type differed significantly from recall scores \nin the baseline condition (2.88, p < .001) only when objective episodic \nmemory strength for visual information was considered. No statistically \nsignificant main effect of ‘perspective’, (F(1, 30) = 0.03, p = .874, partial \nη2 < 0.01), or ‘type of information’ alone, (F(1, 30) = 1.11, p = .300, \npartial η2 = 0.04), appeared. Similarly, no statistically significant in­\nteractions effects were found: ‘review support type’ by ‘perspective’, (F \n(1, 30) = 0.25, p = .622, partial η2 < 0.01); ‘type of information’ by \n‘perspective’, (F(1, 30) = 0.55, p = .465, partial η2 = 0.02); or ‘review \nsupport type’ by ‘perspective’ by ‘type of information’, (F(1, 30) = 0.34, \np = .566, partial η2 = 0.01).\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 9,
+    "source_rect": [
+      306.5964050292969,
+      476.7790222167969,
+      560.0184936523438,
+      657.222900390625
+    ],
+    "text": "本研究旨在进一步考察生活日志支持的巩固和提取是否有效，并探索照片视角是否影响其记忆增强作用。结果表明，与无支持相比，无论在巩固还是提取阶段回看生活日志，参与者对自身情景回忆的主观评价均显著改善。虽然两种支持均改善记忆，但两者有效性之间未观察到显著差异；它们主要有益于视觉信息回忆，而非非视觉细节。此外，在客观情景回忆指标上，两种方法均对先前呈现的视觉信息回忆产生积极作用，未发现对非视觉细节客观回忆的益处。照片视角对巩固或提取支持的有效性也未显示影响。",
+    "kind": "body",
+    "source": "The current study aimed to further investigate the effectiveness of \nlifelogging-supported consolidation and retrieval, as well as to explore \nwhether the perspective of lifelogging photographs plays a role in their \nmemory-enhancing effects. Our results demonstrated significant im­\nprovements in participants' subjective assessment of their episodic recall \nwhen either memory consolidation or retrieval was supported by life­\nlogging reviews compared to no support. Although both lifelogging- \nsupported consolidation and retrieval were found to improve memory, \nno significant differences were observed between the two in their \neffectiveness, with both primarily benefiting the recall of visual infor­\nmation over non-visual details. Moreover, positive effects of both life­\nlogging methods on objective measures of episodic recall were found for \nthe recall of earlier displayed visual information. No benefit of life­\nlogging for the objective recall of non-visual details was found. \nFurthermore, no influence of the perspective of lifelogging photographs \non the effectiveness of either lifelogging-supported consolidation or \nretrieval could be detected.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 10,
+    "source_rect": [
+      306.5964050292969,
+      654.623046875,
+      560.0208740234375,
+      740.9010009765625
+    ],
+    "text": "视觉生活日志通过增强事件的客观与主观记忆，在帮助记忆丧失人群方面已显示巨大潜力。它可以成为日记、无错误学习等常用记忆康复技术的良好替代，并可用于临床环境（van Teijlingen et al., 2021）。本研究进一步支持生活日志的有益作用，无论支持发生在巩固还是提取阶段；其作用在主观非视觉与视觉记忆，以及客观视觉记忆上最为突出。",
+    "kind": "body",
+    "source": "Visual lifelogging has been shown to have a great potential in helping \npeople who are suffering from memory loss by increasing both objective \nand subjective memory for events. It can offer an excellent alternative to \ncurrently popular memory rehabilitation techniques such as the use of a \ndiary and errorless learning and it can very well be applied in clinical \nsettings (van Teijlingen et al., 2021). The results of the present study \noffer further support for the beneficial effects of lifelogging irrespective \nof the memory stage (consolidation vs retrieval) and are most striking \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 7,
+    "block": 0,
+    "source_rect": [
+      37.58738327026367,
+      51.29973220825195,
+      291.0254211425781,
+      179.4158935546875
+    ],
+    "text": "多项研究表明，这类辅助方式能显著增强参与者自我报告能够记住的自传事件细节数量与质量（Chow & Rissman, 2017; Dubourg et al., 2016; Silva et al., 2016; van Teijlingen et al., 2021）。本研究进一步加入客观、可核验的情景记忆测量，扩展了这些发现。不同于 Mair 等（2019），本研究未发现生活日志支持的提取能够显著改善非视觉信息的情景回忆，也未发现支持巩固对非视觉情景记忆的作用。",
+    "kind": "body",
+    "source": "for subjective non-visual and visual memory and objective visual \nmemory. Several studies have demonstrated that the use of these \nmemory aids can substantially enhance the amount and quality of de­\ntails participants report to remember from autobiographical events \n(Chow & Rissman, 2017; Dubourg et al., 2016;Silva et al., 2016; van \nTeijlingen et al., 2021). By additionally employing an objective and \nverifiable measure of episodic memory, the current study further ex­\ntends these findings. Unlike Mair et al. (2019), the present study did not \ndemonstrate that lifelogging-supported retrieval also significantly im­\nproves participants' episodic recall for non-visual information. Similarly, \nno effect of lifelogging-supported consolidation on non-visual episodic \nmemory was found.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 7,
+    "block": 1,
+    "source_rect": [
+      37.58735275268555,
+      176.81605529785156,
+      291.0302429199219,
+      503.696044921875
+    ],
+    "text": "与此前的推测不同（Silva et al., 2016），生活日志带来的客观记忆增强仅限于视觉信息。根据先前证据（Silva et al., 2016; van Teijlingen et al., 2021），人们可能预期其效果会从视觉迁移到非视觉信息，但本研究未能证实这种可能性。近期证据提示，由于视觉表象能力，即在头脑中呈现先前遇到或想象过的视觉经历的能力，视觉细节一般比听觉或非知觉信息更容易、也更准确地被回忆（Pearson, 2019; Scheurich et al., 2021）。生活日志照片等视觉记忆辅助可能主要激发视觉表象，因此应研究它们是否不仅支持照片中呈现的视觉信息，也支持未在照片中呈现的视觉信息的情景回忆。视觉与非视觉回忆差异的另一种解释，是相应任务的敏感性不同。视觉细节的最高可能得分高于非视觉信息；参与者回忆出约 30% 的可用视觉细节，却回忆出约 80% 的非视觉细节。这提示非视觉记忆可能存在天花板效应，限制了这一领域可观察到的改善。此外，本研究的非视觉探测题项存在局限，尤其是要求回忆事件开始的确切分钟。除非明确要求参与者注意时间，否则如此精确的时间信息不太可能被编码。如果这些信息未被可靠编码，就不能有效衡量生活日志对非视觉记忆的影响。更广泛地说，未来研究应确保探测足够广泛的非视觉细节，并使用与视觉回忆测量更明确可比的指标。",
+    "kind": "body",
+    "source": "In contrast to earlier suggestions (Silva et al., 2016), objective \nmemory enhancement following lifelogging was restricted to visual in­\nformation. Based on the earlier available evidence (Silva et al., 2016; \nvan Teijlingen et al., 2021) one might expect that lifelogging might \nincite a carry-over effect of visual to non-visual information. However, \nwe did not corroborate this possibility. Recent evidence suggests that \nvisual details are generally recalled more easily and accurately than \nauditory or non-perceptual information because of our ability for visual \nimagery (i.e., the ability to perceive previously encountered or imagined \nvisual experiences in the mind) (Pearson, 2019; Scheurich et al., 2021). \nSince visual memory aids, such as lifelogging photographs, may pri­\nmarily stimulate visual imagery, it should be investigated if they can \nsupport episodic recall not only of visual information depicted in life­\nlogging photographs but also for visual information that is not depicted. \nAn alternative explanation for the observed difference between visual \nand non-visual recall could be the relative sensitivity of the respective \ntasks. The maximum possible score for visual details was higher than for \nnon-visual information, and while participants recalled approximately \n30 % of the available visual details, they recalled 80 % of the non-visual \ndetails. This discrepancy suggests a possible ceiling effect for non-visual \nmemory, which may have limited the potential for observable \nimprovement in that domain. Furthermore, a limitation of our study \nconcerns non-visual probes, particularly the question requiring recall of \nthe exact minute an event began. Such a high level of temporal precision \nis unlikely to have been encoded unless participants were explicitly \ninstructed to pay attention to the time. If this information was not \nreliably encoded, it cannot serve as a valid measure of lifelogging's \nimpact on non-visual memory. More broadly, future research should \nensure that a sufficient range of non-visual details is probed, using \nmeasures that are more clearly comparable to those assessing visual \nrecall.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 7,
+    "block": 2,
+    "source_rect": [
+      37.58738327026367,
+      501.09710693359375,
+      291.03021240234375,
+      744.2991943359375
+    ],
+    "text": "与此前发现不同（St. Jacques & Schacter, 2013），本研究未发现照片的自我中心或非自我中心视角影响记忆增强。现有结果提示，两种视角都提供了足够的信息支持记忆，这与先前关于任一视角均可有益于情景回忆的发现一致（McIsaac & Eich, 2002; Rice & Rubin, 2009, 2011）。然而，将视角的零效应解释为支持信息理论的间接证据，是复杂的。考虑参与者在记忆任务中的提取视角，可能更有助于理解这一结果。无论回看的照片视角如何，多数参与者均报告从自我中心或混合视角提取记忆。这提示照片视角未必决定事件的回忆方式。参与者回忆个人事件时，可能自然地回到自我中心视角，从而降低回看自我中心照片的潜在优势。然而，本结果与 St. Jacques 和 Schacter（2013）的发现不同；他们报告，自我中心视角提取带来更好的记忆表现。关键区别在于，",
+    "kind": "body",
+    "source": "In contrast to prior findings (St. Jacques & Schacter, 2013), we found \nno effect of photo perspective (egocentric vs. allocentric) on memory \nenhancement. The current findings suggest that both egocentric and \nallocentric perspectives provide sufficient information to support \nmemory, which is consistent with prior research showing that either \nperspective can benefit episodic recall (McIsaac & Eich, 2002; Rice & \nRubin, 2009, 2011). Nevertheless, interpreting the null effect of \nperspective as indirect evidence for the information theory is complex. \nThe lack of a perspective effect might be better understood by consid­\nering participants' retrieval perspectives during the memory task. Most \nparticipants, regardless of the photo perspective they reviewed, reported \nretrieving memories from an egocentric or mixed perspective. This \nsuggests that the perspective of the reviewed photographs may not \nnecessarily dictate how participants recall the event. It is possible that \nparticipants naturally revert to an egocentric perspective when recalling \npersonal events, thus reducing the potential advantage of reviewing \negocentric photos. However, our findings contrast with those of St. \nJacques and Schacter (2013), who reported superior memory outcomes \nwhen participants retrieved memories from an egocentric perspective. A \nkey difference between the studies is that St. Jacques and Schacter \nmanipulated the visual perspective during retrieval, whereas our study \nmaintained consistent perspectives throughout. The discrepancy be­\ntween our findings and those of St. Jacques and Schacter (2013), who \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 7,
+    "block": 3,
+    "source_rect": [
+      306.59259033203125,
+      51.29973220825195,
+      560.0227661132812,
+      137.57684326171875
+    ],
+    "text": "他们在提取时操纵视觉视角，而本研究始终保持视角一致。两项研究的差异可能来自任务设计与所测记忆类型：他们在提取时改变视角，本研究则始终保持一致。未来研究应考察增加照片数量是否会进一步增强记忆效果，因为接触更多相关事件细节，可能提供更强的提取支持。",
+    "kind": "body",
+    "source": "found superior memory outcomes with egocentric perspectives, may \nstem from differences in task design and the type of memory assessed. St. \nJacques and Schacter altered the visual perspective during retrieval, \nwhereas our study maintained consistent perspectives throughout. \nFuture studies should investigate whether increasing the number of \nlifelogging photographs further enhances memory effects, as greater \nexposure to relevant event details may contribute to stronger retrieval \nsupport.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 7,
+    "block": 4,
+    "source_rect": [
+      306.5926208496094,
+      134.9770050048828,
+      560.0186767578125,
+      399.09893798828125
+    ],
+    "text": "虽然应谨慎看待当前零结果，但它们可能间接支持与相容性理论相对的信息理论（Conway, 2005; Hodges et al., 2011）。相容性理论认为，生活日志辅助特别有效，是因为照片的第一人称视角与我们自然储存和回忆情景记忆的方式高度匹配。信息理论则认为，作用来自图像提供的大量信息，而非视角本身（Conway, 2005; Hodges et al., 2011）。按照信息理论，预期两种视角的生活日志方法之间没有显著差异是合理的，因为非自我中心视角可以提供与自我中心视角同样多的信息。需要进一步研究，包括使用所含信息量不同的图像回看，检验信息理论能否解释生活日志辅助的积极作用。自我中心组未显著优于非自我中心组的另一原因，可能是两组多数参与者都报告从自我中心或混合视角提取事件记忆。已有观点认为，自我中心视角的记忆优势，具体来自从这一视角提取记忆（Rice & Rubin, 2009, 2011）。未来研究应检验老年参与者和记忆障碍患者是否同样不存在视角优势。",
+    "kind": "body",
+    "source": "Although the current null findings should be viewed with caution, \nthey could indirectly support the information theory, which contrasts \nwith the compatibility theory (Conway, 2005; Hodges et al., 2011). The \ncompatibility theory suggests that lifelogging aids are particularly \neffective because the first-person perspective of the photos closely \nmatches how we naturally store and recall episodic memories. In \ncontrast, the information theory argues that the effectiveness of these \naids is due to the sheer volume of information provided by the images, \nrather than the perspective itself (Conway, 2005; Hodges et al., 2011). In \nline with the information theory, it would be reasonable to expect no \nsignificant differences between lifelogging methods using egocentric \nand allocentric perspective photographs since an allocentric perspective \ncan provide as much information as an egocentric one. Further research, \nincluding lifelogging reviews with varying amounts of information \ndepicted in the images, is needed to investigate if the information theory \ncan explain the observed positive effects of lifelogging memory aids. A \nfurther reason why the egocentric perspective group did not perform \nsignificantly better on the memory tests than the allocentric perspective \ngroup may be that the majority of participants in both groups reported \nretrieving the memories of the events from an egocentric or mixed \nperspective. It has been suggested that the memory advantage of the \negocentric perspective stems specifically from retrieving memories from \nthis perspective (Rice & Rubin, 2009, 2011). Future research should test \nwhether there is also no perspective advantage in elderly participants \nand patients with memory disorders.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 7,
+    "block": 6,
+    "source_rect": [
+      306.5925598144531,
+      428.5301513671875,
+      560.0211791992188,
+      744.9225463867188
+    ],
+    "text": "本研究的优势是实验控制程度较高。不同于多数先前研究，被记录的事件是在实验室中专门设计并编码的，从而确保所有参与者经历的内容和可记忆性具有可比性。此外，由于 COVID-19 限制，设计中不得不排除社会互动，整体生态效度因此低于最初预期。第一项局限是，虽然视觉生活日志方法为记忆受损患者而开发，本研究却仅在健康参与者中考察。尽管积极作用很可能如前述文献所示延伸到患者，仍有必要在特定目标患者群体中开展类似测试；这将帮助理解不同视角如何影响这些人。第二项可能局限是，测验为自行编制，因此无法与先前项目中的客观记忆指标比较。自行编制的重要原因，是保持测验情境与生活日志情境直接相关。第三项可能局限是，事件 B 的基线记忆测验可能未完全独立于此前事件。内容重叠可能使回看事件 A 影响事件 B；事件 B 总在 A 之后回忆，因此对 A 的回忆也可能促进 B。此外，事件测验本身可能增强事件回忆。第四项局限是大学生样本相对较小。因此，结果能否推广至存在年龄相关记忆困难的老年人，尚不确定。未来研究应纳入更多样的样本，以确保结果具有更广泛适用性。最后，",
+    "kind": "body",
+    "source": "A strength of the current study was its high level of experimental \ncontrol. Unlike most previous studies, the lifelogged events were spe­\ncifically designed laboratory-encoded events. In this way, it could be \nensured that all participants made experiences that were comparable in \nterms of content and memorability. Furthermore, social interactions had \nto be excluded from the design (based on Covid-19 restrictions). \nTherefore, the overall ecological validity of the present study was lower \nthan originally intended. A limitation of this study was that the \ndescribed method of visual lifelogging, while developed for memory- \nimpaired patients, was only examined in healthy participants for the \npurpose of this study. Although the positive effects are likely to extend to \nthe former group of patients, as also described by the discussed litera­\nture, it is important to also perform similar tests in the specific targeted \npatient group. Conducting a similar experiment in memory-impaired \npatients can provide further insights into how different perspectives of \nlifelogging can impact these individuals. A possible second limitation \nwas that those tests were self-developed and could therefore not be \ncompared to earlier objective memory indices in earlier projects. An \nimportant reason to self-develop these tests was to keep a direct link \nbetween the test setting and the lifelogging setting. A possible third \nlimitation is that the baseline memory test for Event B may not have \nbeen entirely independent from the earlier event. Reviewing Event A \ncould have influenced Event B due to content overlap, and since Event B \nwas always recalled after Event A, the recall of A might have facilitated \nB. Moreover, testing of events could have enhanced memory recall of the \nevent. A fourth limitation is the relatively small sample of university \nstudents involved in this study. As a result, it is uncertain whether the \nfindings would generalize to older adults who may experience age- \nrelated memory challenges. To address this, future research should \ninclude a more diverse sample to ensure broader applicability of the \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 8,
+    "block": 0,
+    "source_rect": [
+      37.587398529052734,
+      51.29973220825195,
+      290.98077392578125,
+      74.81869506835938
+    ],
+    "text": "也可以延长 48 小时的时间跨度，检验更长期保持的潜在效果。",
+    "kind": "body",
+    "source": "results. Finally, the time-span of 48-h could have been enlarged to test \nfor potential effects of longer retention.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 8,
+    "block": 2,
+    "source_rect": [
+      37.58738327026367,
+      103.62662506103516,
+      291.0285949707031,
+      242.1748504638672
+    ],
+    "text": "本研究表明，生活日志方法不仅能够改善人们主观上重新体验过去事件的方式，还能增加其成功回忆出的较客观细节数量。令人意外的是，照片视角没有影响这种有效性。因此，生活日志的应用可能出现若干新的方式。事实上，许多人可能觉得，把设备安装在固定位置，比佩戴在身上更容易，也更不引人注意。不过，未来研究仍应继续考察生活日志辅助记忆的作用因素，确保能够最有效地使用它。尽管如此，本研究再次显示，生活日志能够积极影响人们对自身回忆自传事件能力的评价。考虑到情景记忆受损带来的负面心理后果，",
+    "kind": "body",
+    "source": "The present study was able to show that lifelogging methods can not \nonly improve how people subjectively relive past events but are also \neffective in increasing the number of more objective details people can \nsuccessfully recall. Surprisingly, the lifelogging photograph perspective \ndid not influence this effectiveness. Consequently, several new possi­\nbilities on how to apply lifelogging may open up. Indeed, many people \nmight find it easier and less intriguing to install a lifelogging device at a \nfixed place rather than wearing it on the body. However, further \nresearch should also keep investigating the determinants underlying \nlifelogging memory aids to ensure that they can be used most efficiently. \nNevertheless, the results of the current study have shown once again \nhow positively lifelogging can affect people's appraisal of their ability to \nrecall autobiographical events. In light of the negative psychological \n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 8,
+    "block": 3,
+    "source_rect": [
+      306.5926208496094,
+      51.29973220825195,
+      559.9827880859375,
+      74.81869506835938
+    ],
+    "text": "这可能是这一较新的情景记忆辅助方式最突出的优势之一。",
+    "kind": "body",
+    "source": "consequences of episodic memory impairment, this might be among the \nstrongest assets of this relatively recent episodic memory aid.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 1,
+    "block": 7,
+    "source_rect": [
+      37.587398529052734,
+      376.6597595214844,
+      97.8365707397461,
+      389.69085693359375
+    ],
+    "text": "1. 引言",
+    "kind": "heading",
+    "source": "1. Introduction\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 2,
+    "source_rect": [
+      37.587398529052734,
+      302.5029296875,
+      82.2789306640625,
+      315.5340270996094
+    ],
+    "text": "2. 方法",
+    "kind": "heading",
+    "source": "2. Methods\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 3,
+    "source_rect": [
+      37.587398529052734,
+      323.4228820800781,
+      95.29490661621094,
+      336.4539794921875
+    ],
+    "text": "2.1. 参与者",
+    "kind": "heading",
+    "source": "2.1. Participants\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 5,
+    "source_rect": [
+      37.588340759277344,
+      669.1360473632812,
+      77.50737762451172,
+      682.1671752929688
+    ],
+    "text": "2.2. 设计",
+    "kind": "heading",
+    "source": "2.2. Design\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 8,
+    "source_rect": [
+      306.5927734375,
+      145.5825653076172,
+      412.4699401855469,
+      158.61367797851562
+    ],
+    "text": "3. 材料与流程",
+    "kind": "heading",
+    "source": "3. Materials and procedure\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 10,
+    "source_rect": [
+      306.5927734375,
+      240.25856018066406,
+      358.1880187988281,
+      253.2896728515625
+    ],
+    "text": "3.1. 流程",
+    "kind": "heading",
+    "source": "3.1. Procedure\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 11,
+    "source_rect": [
+      306.5927734375,
+      261.1784973144531,
+      352.1267395019531,
+      274.2095947265625
+    ],
+    "text": "3.1.1. 第一天",
+    "kind": "heading",
+    "source": "3.1.1. Day 1\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 3,
+    "block": 17,
+    "source_rect": [
+      306.5927734375,
+      658.648193359375,
+      352.1267395019531,
+      671.6793212890625
+    ],
+    "text": "3.1.2. 第二天",
+    "kind": "heading",
+    "source": "3.1.2. Day 2\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 4,
+    "block": 1,
+    "source_rect": [
+      306.5926208496094,
+      304.3240051269531,
+      352.1257629394531,
+      317.3551025390625
+    ],
+    "text": "3.1.3. 第三天",
+    "kind": "heading",
+    "source": "3.1.3. Day 3\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 4,
+    "block": 5,
+    "source_rect": [
+      306.5926208496094,
+      528.5420532226562,
+      412.09442138671875,
+      541.5731811523438
+    ],
+    "text": "3.2. 平衡程序",
+    "kind": "heading",
+    "source": "3.2. Counterbalance procedure\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 4,
+    "block": 7,
+    "source_rect": [
+      306.5926208496094,
+      679.56982421875,
+      370.23223876953125,
+      692.6009521484375
+    ],
+    "text": "3.3. 数据分析",
+    "kind": "heading",
+    "source": "3.3. Data analysis\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 5,
+    "block": 2,
+    "source_rect": [
+      306.5926208496094,
+      458.5247497558594,
+      346.2861022949219,
+      471.55584716796875
+    ],
+    "text": "4. 结果",
+    "kind": "heading",
+    "source": "4. Results\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 0,
+    "source_rect": [
+      37.587398529052734,
+      194.3357391357422,
+      156.8966064453125,
+      207.36685180664062
+    ],
+    "text": "5. 主观情景记忆",
+    "kind": "heading",
+    "source": "5. Subjective episodic memory\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 3,
+    "source_rect": [
+      37.588294982910156,
+      529.1067504882812,
+      153.72381591796875,
+      542.1378784179688
+    ],
+    "text": "6. 客观情景记忆",
+    "kind": "heading",
+    "source": "6. Objective episodic memory\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 6,
+    "block": 8,
+    "source_rect": [
+      306.5964050292969,
+      455.8598937988281,
+      359.0819091796875,
+      468.8909912109375
+    ],
+    "text": "7. 讨论",
+    "kind": "heading",
+    "source": "7. Discussion\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 7,
+    "block": 5,
+    "source_rect": [
+      306.5926208496094,
+      407.6110534667969,
+      415.6307678222656,
+      420.64215087890625
+    ],
+    "text": "8. 优势与局限",
+    "kind": "heading",
+    "source": "8. Strengths and limitations\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 8,
+    "block": 1,
+    "source_rect": [
+      37.587398529052734,
+      82.70670318603516,
+      91.97058868408203,
+      95.7378158569336
+    ],
+    "text": "9. 结论",
+    "kind": "heading",
+    "source": "9. Conclusion\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 8,
+    "block": 4,
+    "source_rect": [
+      306.5926208496094,
+      84.69125366210938,
+      468.53070068359375,
+      97.72236633300781
+    ],
+    "text": "CRediT 作者贡献声明",
+    "kind": "heading",
+    "source": "CRediT authorship contribution statement\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 8,
+    "block": 6,
+    "source_rect": [
+      306.5926208496094,
+      208.2238311767578,
+      435.17901611328125,
+      221.25494384765625
+    ],
+    "text": "利益冲突声明",
+    "kind": "heading",
+    "source": "Declaration of competing interest\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 9,
+    "block": 37,
+    "source_rect": [
+      37.587398529052734,
+      663.6397705078125,
+      101.09555053710938,
+      676.6708984375
+    ],
+    "text": "数据可用性",
+    "kind": "heading",
+    "source": "Data availability\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 1,
+    "block": 0,
+    "source_rect": [
+      37.587398529052734,
+      160.96640014648438,
+      446.1200256347656,
+      182.95632934570312
+    ],
+    "text": "第一人称与第三人称生活日志改善情景记忆",
+    "kind": "title",
+    "source": "First-person and third-person lifelogging improves episodic memory\n",
+    "used_font_size": 14.0
+  },
+  {
+    "page": 1,
+    "block": 2,
+    "source_rect": [
+      37.587398529052734,
+      208.03439331054688,
+      323.8878479003906,
+      229.85401916503906
+    ],
+    "text": "a 荷兰乌得勒支大学赫尔姆霍兹研究所实验心理学部门。\nb 荷兰鹿特丹 Slingedael 科萨科夫综合征专业中心，Slinge 901，3086 EZ。",
+    "kind": "small",
+    "source": "a Experimental Psychology, Helmholtz Institute, Utrecht University, the Netherlands\nb Slingedael Center of Expertise for Korsakoff Syndrome, Slinge 901, 3086 EZ Rotterdam, the Netherlands\n",
+    "used_font_size": 7.5
+  },
+  {
+    "page": 1,
+    "block": 3,
+    "source_rect": [
+      37.587398529052734,
+      251.71041870117188,
+      115.68936157226562,
+      263.1124267578125
+    ],
+    "text": "文章信息",
+    "kind": "heading",
+    "source": "A R T I C L E  I N F O\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 1,
+    "block": 4,
+    "source_rect": [
+      37.587398529052734,
+      270.9073791503906,
+      133.77105712890625,
+      341.3119812011719
+    ],
+    "text": "关键词：\n生活日志记录\n遗忘症\n记忆巩固\n记忆提取\n辅助技术\nSenseCam\n神经心理康复",
+    "kind": "small",
+    "source": "Keywords:\nLifelogging\nAmnesia\nMemory consolidation\nMemory retrieval\nAssistive technology\nSensecam\nNeuropsychological rehabilitation\n",
+    "used_font_size": 7.5
+  },
+  {
+    "page": 1,
+    "block": 5,
+    "source_rect": [
+      201.9969940185547,
+      251.71041870117188,
+      258.714111328125,
+      263.1124267578125
+    ],
+    "text": "摘要",
+    "kind": "heading",
+    "source": "A B S T R A C T\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 1,
+    "block": 6,
+    "source_rect": [
+      201.9969940185547,
+      270.97406005859375,
+      559.7876586914062,
+      349.6554260253906
+    ],
+    "text": "生活日志记录是通过照片或视频记录日常活动的做法。它通过辅助记忆巩固和提取过程，增强健康人群和记忆障碍人群的记忆。本研究在受控环境下纳入 32 名成年人，考察第一人称和第三人称视角下的生活日志记录对情景记忆的作用。与预期相反，视角没有影响记忆表现。结果显示，与没有生活日志记录的条件相比，生活日志记录显著改善了主观记忆以及视觉信息的回忆，但未改善非视觉信息的回忆。这些发现提示，无论采用哪种视角，生活日志记录都具有支持情景记忆的潜力，尤其是对视觉内容而言，因此支持扩大其应用。",
+    "kind": "body",
+    "source": "Lifelogging, the practice of recording daily activities through photographs or videos, enhances memory in \nhealthy individuals and those with memory disorders by aiding both memory consolidation and retrieval pro­\ncesses. This study, involving 32 adults in controlled settings, investigated its effectiveness on episodic memory \nfrom first and third-person perspectives. Contrary to expectations, perspective did not influence memory per­\nformance. Results indicated that lifelogging significantly improves subjective memory and the recall of visual, \nbut not non-visual, information compared to non-lifelogging conditions. These findings suggest that lifelogging, \nregardless of perspective, holds promise for supporting episodic memory, especially for visual content, advo­\ncating for its wider application.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 8,
+    "block": 5,
+    "source_rect": [
+      306.5925598144531,
+      105.61038208007812,
+      560.01708984375,
+      191.8883056640625
+    ],
+    "text": "Erik Oudman：写作——审阅与编辑、初稿撰写；验证；研究实施；数据整理。\nIsabelle F. Klukas：初稿撰写；可视化；软件；资源；项目管理；方法设计；研究实施；正式分析；数据整理；概念化。\nTijmen van Teijlingen：写作——审阅与编辑、初稿撰写；可视化。\nAlbert Postma：写作——审阅与编辑、初稿撰写；监督指导；软件；正式分析；数据整理。",
+    "kind": "small",
+    "source": "Erik Oudman: Writing – review & editing, Writing – original draft, \nValidation, Investigation, Data curation. Isabelle F. Klukas: Writing – \noriginal draft, Visualization, Software, Resources, Project administra­\ntion, Methodology, Investigation, Formal analysis, Data curation, \nConceptualization. Tijmen van Teijlingen: Writing – review & editing, \nWriting – original draft, Visualization. Albert Postma: Writing – review \n& editing, Writing – original draft, Supervision, Software, Formal \nanalysis, Data curation.\n",
+    "used_font_size": 7.5
+  },
+  {
+    "page": 8,
+    "block": 7,
+    "source_rect": [
+      318.5541687011719,
+      229.14373779296875,
+      473.54949951171875,
+      242.1748504638672
+    ],
+    "text": "作者无利益冲突需要声明。",
+    "kind": "body",
+    "source": "The authors have no declaration of interest.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 9,
+    "block": 38,
+    "source_rect": [
+      49.54892349243164,
+      684.5588989257812,
+      189.92152404785156,
+      697.5900268554688
+    ],
+    "text": "数据可应请求提供。",
+    "kind": "body",
+    "source": "Data will be made available on request.\n",
+    "used_font_size": 9.0
+  },
+  {
+    "page": 4,
+    "block": 9,
+    "source_rect": [
+      37.587398529052734,
+      235.0310821533203,
+      559.7545166015625,
+      294.55047607421875
+    ],
+    "text": "图1. 实验流程。 注：图1展示实验流程，以及为考察生活日志支持的巩固和提取效果而相互比较的条件。a：在参与者之间平衡由蓝色还是绿色房间提供事件A。b：在参与者之间平衡由蓝色还是绿色房间提供事件B。关于图例中的颜色说明，请参见本文网络版。",
+    "kind": "small",
+    "source": "Fig. 1. Experimental Procedure \nNote. Fig. 1 shows the experimental procedure and conditions which were compared with each other to investigate the effects of both lifelogging-supported \nconsolidation and lifelogging-supported retrieval. a \nWe counterbalanced across participants whether the blue room or the green room provided Event A. b \nWe counterbalanced across participants whether the blue room or the green room provided Event B. (For interpretation of the references to colour in this figure \nlegend, the reader is referred to the web version of this article.)\n",
+    "used_font_size": 7.5
+  },
+  {
+    "page": 4,
+    "block": 10,
+    "source_rect": [
+      88.15740203857422,
+      653.0840454101562,
+      238.15989685058594,
+      664.8118896484375
+    ],
+    "text": "图2. 树形七巧板拼图示例。",
+    "kind": "small",
+    "source": "Fig. 2. Example of a tangram puzzle of a tree.\n",
+    "used_font_size": 7.5
+  },
+  {
+    "page": 5,
+    "block": 21,
+    "source_rect": [
+      37.587398529052734,
+      234.0100860595703,
+      559.7637939453125,
+      264.8432312011719
+    ],
+    "text": "图3. 蓝色房间（左）与绿色房间（右）的自我中心视角生活日志照片示例。 注：桌上的图像是参与者在事件中需要完成的三个七巧板拼图的模板。关于图例中的颜色说明，请参见本文网络版。",
+    "kind": "small",
+    "source": "Fig. 3. Example of an Egocentric Perspective lifelogging photograph from the Blue Room (left) and Green room (right) \nNote. The images on the table are the templates for the three tangram puzzles which the participants had to complete during the event. (For interpretation of the \nreferences to colour in this figure legend, the reader is referred to the web version of this article.)\n",
+    "used_font_size": 7.5
+  },
+  {
+    "page": 5,
+    "block": 22,
+    "source_rect": [
+      37.587398529052734,
+      422.174072265625,
+      559.7637939453125,
+      453.0072326660156
+    ],
+    "text": "图4. 蓝色房间（左）与绿色房间（右）的非自我中心视角生活日志照片示例。 注：桌上的图像是参与者在事件中需要完成的三个七巧板拼图的模板。关于图例中的颜色说明，请参见本文网络版。",
+    "kind": "small",
+    "source": "Fig. 4. Example of an Allocentric Perspective lifelogging photograph from the Blue Room (left) and Green Room (right) \nNote. The images on the table are the templates for the three tangram puzzles which the participants had to complete during the event. (For interpretation of the \nreferences to colour in this figure legend, the reader is referred to the web version of this article.)\n",
+    "used_font_size": 7.5
+  }
+]

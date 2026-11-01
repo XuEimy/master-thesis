@@ -1,0 +1,700 @@
+[
+  [
+    {
+      "id": 0,
+      "bbox": [
+        36.0,
+        754.1275024414062,
+        247.7203369140625,
+        762.9774780273438
+      ],
+      "text": "70    communications of the acm   |  may 2010  |  vol. 53  |  no. 5\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        13.5,
+        14.31298828125,
+        438.81591796875,
+        68.40898895263672
+      ],
+      "text": "contributed articles\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        554.4400024414062,
+        652.072998046875,
+        559.0280151367188,
+        738.4249877929688
+      ],
+      "text": "Illustration by Giacomo Marchesi\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        35.99580383300781,
+        518.2030029296875,
+        372.48590087890625,
+        742.2589721679688
+      ],
+      "text": "What if we could digitally capture everything we do \nand see? What if we could save every bit of information \nwe touch and record every event we experience? \nWhat would such a personal digital archive be like, \nand how might it affect the way we live? This vision \nof a complete “lifelog” is the holy grail for many \ntechnologists and researchers who consider us to be \non the brink of an “e-memory” revolution. \nIn the past few years, capturing “Memories for Life” \nhas become a U.K. Grand Challenge in Computing \n(http://www.nesc.ac.uk/esi/events/Grand_Challenges/\nproposals/), and many research programs today are \ndedicated to developing technologies to support the \narchiving of vast amounts of personal data. A 2009 \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        381.9980163574219,
+        120.63148498535156,
+        544.923095703125,
+        545.6708984375
+      ],
+      "text": "book2 by Gordon Bell and Jim Gem-\nmell outlined an enthusiastic view of \na future in which technology enables \n“total recall” of our lives through “total \ncapture” of personally relevant infor-\nmation. Such information includes the \npaper and digital documents we work \non or look at; email, paper mail, and \ninstant messages sent and received; \ncontent of telephone conversations; \nWeb sites visited; and charge-card \ntransactions. Also included are data \nfrom other everyday activities (such as \nstill images, video, ambient sound and \nlocation data). Finally, these personal \narchives might also be supplemented \nwith environmental measures (such \nas light intensity and temperature \nvariation) and even internal, biosensor \ndata (such as heart rate and galvanic \nskin-response measures) reflecting our \nphysical and emotional state. \nConstructing such a diverse archive \nof personal information requires a \nrange of technologies for its capture, \nmanagement, and storage. Today’s \nadvances in wearable sensors, net-\nworking capabilities, and massive \nincreases in digital-storage capacity \nmean this vision is feasible, fueling \nenthusiasm for the possibilities of-\nfered by the technology itself. \nFurther \nimpetus \ncomes \nfrom \nspeculation about what a compre-\nhensive lifelog might do and how it \nmight change our lives. As outlined \nin 2006 by Czerwinski et al.,9 lifelog-\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        250.26649475097656,
+        113.21390533447266,
+        370.001708984375,
+        121.4738998413086
+      ],
+      "text": "doi:10.1145/1735223.1735243\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        42.0,
+        129.78890991210938,
+        371.3917541503906,
+        178.6769256591797
+      ],
+      "text": "Rather than try to capture everything, system \ndesign should focus on the psychological basis \nof human memory. \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        36.0,
+        189.94760131835938,
+        382.25,
+        455.0166931152344
+      ],
+      "text": "by Abigail Sellen and Steve Whittaker \nBeyond Total \nCapture: \nA Constructive \nCritique of \nLifelogging \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        397.83331298828125,
+        557.0626831054688,
+        476.8863525390625,
+        572.7666625976562
+      ],
+      "text": " key insights\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        385.875,
+        578.0390014648438,
+        542.9351806640625,
+        738.927490234375
+      ],
+      "text": " \u0007 \u0007Focusing on “total capture,” current \napproaches to lifelogging have failed \nto explore what practical purpose such \nexhaustive personal digital records \nmight actually serve. \n \u0007 \u0007Evaluating new approaches, psychology \nhas emerged as an underexploited \nresource in defining the nature of human \nmemory and its key processes and \nweaknesses.\n \u0007 \u0007Psychology as design framework could \nhelp define the types of memory such \nsystems should support, along with \ntheir key interface properties and need \nto work in synergy with human memory, \nrather than as its replacement.\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        339.6720886230469,
+        754.1275024414062,
+        549.0001220703125,
+        762.9774780273438
+      ],
+      "text": "may 2010  |  vol. 53  |  no. 5  |  communications of the acm    71\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        36.0,
+        754.1275024414062,
+        247.51792907714844,
+        762.9774780273438
+      ],
+      "text": "72    communications of the acm   |  may 2010  |  vol. 53  |  no. 5\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        16.649999618530273,
+        12.760810852050781,
+        143.4340057373047,
+        29.224811553955078
+      ],
+      "text": "contributed articles\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        382.0,
+        51.63148880004883,
+        544.9339599609375,
+        246.5812530517578
+      ],
+      "text": "later. Note that we distinguish between \nlifelogging and other more deliberate \nactivities involving the capture of per-\nsonal data (such as digital photography \nand blogging) that involve the effortful \nselective capture and display of digital \nmaterials for a particular audience. In \ncontrast, lifelogging seeks to be effort-\nless and all-encompassing in terms of \ndata capture. \nThere are two main classes of life-\nlogging system: \nTotal capture. For this one, the tar-\nget is a complete record of everyday \nlife, capturing as many kinds of data as \npossible, as continuously as possible. \nData types range from documents to \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        208.99911499023438,
+        51.70772171020508,
+        371.91461181640625,
+        246.5677032470703
+      ],
+      "text": "was created, who it came from, and its \nrelationships with other objects), mak-\ning it easier to re-find information (such \nas Dumais et al.10). \nHowever, today’s lifelogging vision \nextends beyond the mere storage of \ndesktop objects. Just as we can capture \nand collect personal interactions with \ndocuments, we can capture activities \naway from the computer, out of the of-\nfice, in the everyday world. Key to it all \nis that many everyday activities can be \ncaptured automatically and compre-\nhensively through digital tools that \nallow us to not only store important \ncontent, but also contextual details of \nthe activities to help access the content \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        36.0,
+        51.63148880004883,
+        198.925048828125,
+        430.5628356933594
+      ],
+      "text": "ging could permanently change how \nwe use and share personal data, en-\nabling us to look back over our lives \nor search through and organize past \nexperiences. It could help us find lost \nobjects, recall names, retrieve details \nin documents, and review discussions \nin meetings. It might also offer new \nways of sharing data with those we \ncare about or offer up data to inter-\nested parties. While there are knotty \nprivacy and security implications (a \nhuge topic, not addressed here), the \npotential benefits warrant substantial \nprograms of research and develop-\nment. The vision is indeed compel-\nling. Some proponents have even said \nthat new technologies could give each \nof us a comprehensive set of “digital \nmemories” to augment or even re-\nplace their biological counterparts.2 \nBut how sound are these goals? \nWhat benefits would the effort bring \nus? In reflecting on these questions \nwe see we need a more focused and \nhuman-centered research agenda to \nrealize the grand ambition. This, in \nturn, entails moving away from an ob-\nsession with “capturing everything” to \na more precise specification of what \nit means to support human memory, \nleading to specific systems and con-\ncrete design implications. \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        35.99659729003906,
+        441.7349853515625,
+        540.2925415039062,
+        741.0584716796875
+      ],
+      "text": "History \nDespite the recent upsurge of interest, \nlifelogging systems are not new. They \ncan be traced back to Vannevar Bush’s \n1945 “Memex” vision (a sort of desk) \nsupporting the archiving, searching, \nand indexing of personal information \nstores revolving around documents \nwith which we interact.7 Since then, it \nhas inspired many different systems, \nthough mainly in research laboratories. \nEarly forays were close to the original \nvision, confined to capturing digital ob-\njects within an integrated system. Both \npast11 and present12 examples are in fact \ninfrastructures for storing collections of \nheterogeneous digital objects that users \ngenerate or encounter, including docu-\nments, photos, Web pages, and email. \nAnd as infrastructures have developed, \nso too have the tools for searching, \nbrowsing, and retrieving information \nfrom the collections. The tools often \nmake use of metadata about the various \naspects of an object’s past context, or \nprovenance (such as when and where it \nMyLifeBits by Gordon Bell is a lifetime store of everything, aiming to fulfill the Memex vision.\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        209.25,
+        489.62750244140625,
+        348.885009765625,
+        498.47747802734375
+      ],
+      "text": "Vannevar Bush’s 1945 “Memex” vision.\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        441.2181091308594,
+        12.760810852050781,
+        568.0020141601562,
+        29.224811553955078
+      ],
+      "text": "contributed articles\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        339.1321105957031,
+        754.1275024414062,
+        549.0000610351562,
+        762.9774780273438
+      ],
+      "text": "may 2010  |  vol. 53  |  no. 5  |  communications of the acm    73\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        41.997398376464844,
+        51.63148880004883,
+        204.9192352294922,
+        534.0538330078125
+      ],
+      "text": "images to videos to sound to location \nto ambient temperature, along with \nlight levels and biosensor readings. \nIn early systems (such as Lamming \net al.17), capturing people’s locations \nwas a focus, involving users carrying \nor wearing small devices tracked by \nlocalized networked sensors. More \nrecent wearable systems use head-\nmounted still and video cameras,15 \nsensor-triggered still cameras worn \naround the neck14 (see the figure here), \nand audio-capture devices.26 Yet others \nrely on instrumented environments that \ncapture human activity through sensors \nor networks, as in MIT’s “PlaceLab” \n(http://architecture.mit.edu/house_n/\nplacelab.html). \nSituation-specific \ncapture. \nThese \nare more limited in scope, aiming to \ncapture rich data in specific domains \ninvolving complex information. They \ncan be viewed as a specialized form of \nlifelogging, aiming to record multiple \nkinds of data as completely and auto-\nmatically as possible for specific activities \nor in particular places where the activity \noccurs. Most focus on recording activi-\nties during meetings, lectures, or other \nforms of work-related conversation, al-\nlowing “organizational knowledge” to \nbe browsed and searched.28 Early sys-\ntems involved the simple indexing of \nrecorded audio and pen-stroke data. \nMore \nrecent \ntechnology-enhanced \nmeeting rooms capture video from \nmultiple cameras and microphones, \ncombining it with whiteboard content, \nslide capture, and digital pen strokes. \nOften included is software that auto-\nmatically summarizes and extracts key \nevents from the data. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        42.003692626953125,
+        545.225830078125,
+        204.9192352294922,
+        741.12548828125
+      ],
+      "text": "Defining the Benefits: Five Rs \nSurprisingly, many lifelogging systems \nlack an explicit description of poten-\ntial value for users, focusing instead \non technical challenges (such as data \ncapture and retrieval mechanisms). \nWhen claims are made about poten-\ntial benefits, they tend to be ill-defined. \nNevertheless, it is important to clarify \nwhat these claims might be. Here, we \noutline potential benefits for memory \nby describing the ways such systems \nmight support “the five Rs,” or the ac-\ntivities we call recollecting, reminisc-\ning, retrieving, reflecting, and remem-\nbering intentions: \nRecollecting. Technology could help \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        387.9951171875,
+        51.74855422973633,
+        550.920166015625,
+        741.0134887695312
+      ],
+      "text": "us mentally “re-live” specific life ex-\nperiences, thinking back in detail to \npast personal experiences (often called \n“episodic” memories25). Remembering \naspects of a past experience can serve \nmany practical purposes; examples \ninclude locating lost physical objects \nby mentally retracing our steps, recol-\nlecting faces and names by recalling \nwhen and where we met someone, or \nremembering the details of what was \ndiscussed in a meeting. \nReminiscing. As a special case of \nrecollection, lifelogs could also help \nusers re-live past experiences for emo-\ntional or sentimental reasons. This can \nbe done by individuals or socially in \ngroups, as an (often pleasurable) end \nin itself; examples are watching home \nvideos and flipping through photo al-\nbums with friends and family. \nRetrieving. Lifelogs promise to help \nus retrieve specific digital informa-\ntion we’ve encountered over the years \n(such as documents, email, and Web \npages). Retrieval can include elements \nof recollection; for example, retrieving \na document might require remember-\ning the details of when we wrote it, \nwhen we last used it, or where we put \nit. Alternatively, retrieval might de-\npend on inferential reasoning (such \nas trying to deduce keywords in a \ndocument or thinking about the docu-\nment’s other likely properties, like \ntype and size). Pondering information \nproperties need not involve recollec-\ntion of past experiences at all, as long \nas other ways are available for finding \nthe desired information. \nReflecting. Lifelogs might support \na more abstract representation of \npersonal data to facilitate reflection \non, and reviewing of, past experience. \nReflection might include examining \npatterns of past experiences (such \nas about one’s behavior over time). \nSuch patterns might provide useful \ninformation about our general level \nof physical activity or emotional states \nin different situations, allowing us to \nrelate it to other data about, say, our \nhealth. Alternatively, reflection might \ninvolve looking at one’s past experi-\nences from different angles or per-\nspectives. Here, the value is not in re-\nliving past events (as in recollecting) \nbut in seeing things anew and framing \nthe past differently.13 The value is less \nabout memory per se than it is about \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        215.0,
+        95.98600006103516,
+        377.486083984375,
+        243.2259979248047
+      ],
+      "text": "Surprisingly, \nmany lifelogging \nsystems lack an \nexplicit description \nof potential value \nfor users, focusing \ninstead on technical \nchallenges.\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        36.0,
+        754.1275024414062,
+        247.67532348632812,
+        762.9774780273438
+      ],
+      "text": "74    communications of the acm   |  may 2010  |  vol. 53  |  no. 5\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        16.649999618530273,
+        12.760810852050781,
+        143.4340057373047,
+        29.224811553955078
+      ],
+      "text": "contributed articles\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        36.0,
+        51.63148880004883,
+        198.91546630859375,
+        246.5812530517578
+      ],
+      "text": "learning and self-identity. \nRemembering intentions. Another \ntype of activity concerns remembering \nprospective events in one’s life (“pro-\nspective memory”), as opposed to the \nthings that have happened in the past. \nOur everyday activities require that \nwe constantly defer actions and plan \nfuture activities; examples include re-\nmembering to run errands, take medi-\ncation, and show up for appointments. \nA careful analysis of the lifelogging \nliterature for proposed user value sug-\ngests a general focus on the processes \nof recollection and retrieval, but these \nbenefits are usually implied rather \nthan explicit. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        36.0,
+        257.7530212402344,
+        198.9154510498047,
+        419.1388244628906
+      ],
+      "text": "Evaluation \nDo lifelogging systems deliver these \nbenefits? One way to identify evi-\ndence of utility is through system-\natic evaluation (such as focused lab \nstudies and studies of longer-term \nreal-world use). However, such evalu-\nations have yet to provide overwhelm-\ning evidence of effectiveness, and \nextended usage studies show little im-\npact outside research labs. Worse, few \nlifelogging systems are in widespread \nuse, even within the research laborato-\nries that developed them.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        381.99591064453125,
+        51.76430130004883,
+        544.9198608398438,
+        741.06298828125
+      ],
+      "text": "specific capture systems. For example, \nFilochat is an application that allows \nusers to access spoken information \nfrom meetings via personal digital \nnotes. Both lab experiments and a \nfield trial at Hewlett-Packard Labs in \nthe early 1990s demonstrated Filo-\nchat’s superiority in supporting re-\ntrieval of meeting information com-\npared with traditional techniques \n(such as pen-and-paper notes and \nDictaphone recordings). An active \nuser group reported positive reactions \nto the system because it allowed them \nto generate accurate meeting min-\nutes. Similar findings were reported in \nother field studies of related meeting-\ncapture technologies; see Whittaker et \nal.28 for a review. But despite such early \npositive results, more recent research \nshould make us skeptical, suggesting \nthat records may be less useful than \nwe might first think. For example, \nlecture recordings don’t significantly \nimprove student grades,1 and evalua-\ntions of meeting-capture systems have \nshown little uptake of sophisticated \nrecords.20 \nOther research confirms the view \nthat digital archives may be generally \nless valuable than people would hope. \nEven when—contrary to lifelogging \nprinciples—we deliberately choose to \nsave digital memorabilia, we seldom \naccess them. Studies by Petrelli and \nWhittaker19 in 2010 of digital family \nmemorabilia (such as photos, videos, \nscanned images, and email) showed \nthat digital archives are rarely ac-\ncessed. In the same study, when people \nwith large collections of digital memo-\nrabilia were asked to select objects \nof mnemonic significance in their \nhomes, less than 2% of the objects they \nreported were digital.19 Other work has \nfound that users with collections of \nthousands of digital photos never ac-\ncess the majority of them.27 \nWhile this lack of interest in digi-\ntal data doesn’t imply that all such \narchives have little value, it raises \nquestions about their utility in remem-\nbering or reviewing the past. One might \nsurmise that we simply lack effective \ntechniques for accessing the archives. \nHowever, most situation-specific cap-\nture systems for meetings and lectures \ninclude sophisticated access tools \n(such as multimedia search and be-\nspoke browsing interfaces), suggesting \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        208.99908447265625,
+        51.68605422973633,
+        371.9186706542969,
+        419.0448913574219
+      ],
+      "text": "In practice, total-capture systems \nhave been used by only a small number \nof people (often those with direct in-\nvestment in the technology), and life-\nlogging infrastructures11,12 are not in \nwidespread use. While Gordon Bell of \nMicrosoft2 and Steve Mann of the Uni-\nversity of Toronto18 have both “lived \nthe vision” by recording many aspects \nof their everyday lives, they are unusual \nin the extreme extent of their engage-\nment with lifelogging. Otherwise, \nthere are few instances of full-fledged \nuse of total capture. \nMore controlled system evaluations \nare also not encouraging in terms of \ndemonstrable utility. The SenseCam \n(see the figure), which captures a series \nof still images based on movement and \nchanges in the intensity of light and \nheat, has been shown to support the \nrecollection of everyday experience, as \nwell as retrieval of information about \npast events.23 However, the same study \nshowed that the capacity for these im-\nages to help people recollect their past \nexperience rapidly decreased after only \nthree months, casting doubt on wheth-\ner such devices can support longer-\nterm recollection. \nMost evaluations described in the \nliterature have examined situation-\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        36.0,
+        715.2083129882812,
+        364.5825500488281,
+        740.0632934570312
+      ],
+      "text": "Microsoft SenseCam captures a series of still images triggered by changes in activity (such \nas movement) and includes sensors that capture other kinds of data (such as ambient light \nlevels and temperature); courtesy Microsoft Research Cambridge. \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        441.2181091308594,
+        12.760810852050781,
+        568.0020141601562,
+        29.224811553955078
+      ],
+      "text": "contributed articles\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        339.17718505859375,
+        754.1275024414062,
+        549.0001831054688,
+        762.9774780273438
+      ],
+      "text": "may 2010  |  vol. 53  |  no. 5  |  communications of the acm    75\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        41.99860382080078,
+        51.63148880004883,
+        204.92506408691406,
+        269.5451354980469
+      ],
+      "text": "that having poor access is likely not a \ngeneral explanation. Other researchers \nhave argued that new access tools (such \nas desktop search) will facilitate exploi-\ntation of digital archives.21 However, \nresearch at the University of Sheffield \nin 2008 on desktop search suggests it \nis used only infrequently. More impor-\ntant, there is no consistent evidence \nthat improving the quality of search \nleads to increased use of search tools.3 \nThese results indicate that desktop \nsearch is not a “silver bullet” leading to \neffective access to and exploitation of \nour personal digital archives. \nIn general, these findings imply that \narchival data may be less valuable than \nthe considerable effort expended on \nthese systems would justify. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        42.00349426269531,
+        280.7171325683594,
+        204.9285888671875,
+        741.2198486328125
+      ],
+      "text": "Design Principles \nHow can we prevent creating under-\nused infrastructures or only proof-of-\nconcept demonstrators? Needed is \na new conceptual framework that is \nbetter focused on the functions life-\nlogging technologies could serve. De-\nspite the memory terminology used \nin lifelogging work, little attention \nseems to focus on human memory and \nhow it operates. Psychological studies \nof memory are largely ignored, even \nthough they provide relevant concepts \nand results that lead directly to new \ndesign principles: \nStrategically targeting the weaknesses \nof human memory. Total-capture sys-\ntems are indiscriminate, assuming that \nall kinds of data are equally valuable \nand the more data the better. The argu-\nment often goes that we should capture \n“as much as we can” because we never \nknow what we might need to remem-\nber in the future. But this ”just-in-case” \nprinciple has two weaknesses: First, \nwe can never capture absolutely every-\nthing, so choices must indeed be made \nwhen designing and building systems; \nfor example, different kinds of data re-\nquire different kinds of sensors or cap-\nture devices, adding complexity for the \npeople using and building the systems. \nSecond, capturing vast arrays of data \nmight overwhelm end users maintain-\ning and retrieving valuable information \nfrom large archives; it also ignores the \nburden huge amounts of data impose \non system designers and developers. \nPrevious research provides future \nguidance; for example, psychology re-\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        387.9974060058594,
+        51.84291458129883,
+        550.9188232421875,
+        407.5359191894531
+      ],
+      "text": "search provides a deeper understand-\ning of the most frequent and critical \nkinds of memory problems people have, \nallowing system designers to focus on \nareas of true value to users. This means \nthat, rather than the overambitious \ngoal of “logging everything,” creators \nof lifelogging systems would be better \noff directing their efforts at the kinds \nof data people find most valuable and \nthe issues they find most problematic. \nIn addition to the problem of the tran-\nsience of memory (implicitly addressed \nby much lifelogging technology), people \nare subject to myriad other distortions \nand inaccuracies in memory (such as \nabsentmindedness, blocking, misat-\ntribution, suggestibility, bias, and per-\nsistence).22 And while almost all lifelog-\nging applications focus on supporting \npeople’s past (retrospective) memory, \nstrong evidence indicates that people \nhave greater difficulty remembering \nwhat they intend to do in the future \n(prospective memory).24 Other memory \nstudies have identified specific groups \n(such as Alzheimer’s patients and aging \npopulations) with debilitating memory \nconditions and demonstrated how \nvisual-recording technologies (such as \nSenseCam) can be of help.4\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        388.0014953613281,
+        408.1315002441406,
+        550.9076538085938,
+        741.1348876953125
+      ],
+      "text": "Not “capturing experience” but design-\ning effective retrieval cues. The language \nused by lifelog proponents sometimes \nconflates cueing with experiential cap-\nture. This distinction may seem obvi-\nous but is worth restating. Collections \nof digital data (such as sets of digital \nphotos and sounds) can serve as cues \nto trigger autobiographical memory \nabout past events but are not memo-\nries in themselves or in any way facsim-\niles of personal experience. Following \nthis principle, we are thus better able \nto address the precise mechanisms by \nwhich cues help memory. For example, \nmetadata can help cue retrieval of lost \nfiles by, say, providing contextual infor-\nmation about who wrote a document \nand when it was written. Alternatively, \ninformation in the digital archive may \nitself serve to cue a forgotten memory \n(such as when a stored digital photo \nprompts reminiscence about a previ-\nously forgotten incident). \nThere is again highly relevant psy-\nchology research detailing how differ-\nent cues (such as time, place, people, \nand events) trigger autobiographical \nmemories, suggesting (in contrast to \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        215.0,
+        96.4109878540039,
+        379.91607666015625,
+        243.65098571777344
+      ],
+      "text": "Collections of digital \ndata can serve \nas cues to trigger \nautobiographical \nmemory about \npast events but are \nnot memories in \nthemselves. \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        36.0,
+        754.1275024414062,
+        247.62283325195312,
+        762.9774780273438
+      ],
+      "text": "76    communications of the acm   |  may 2010  |  vol. 53  |  no. 5\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        16.649999618530273,
+        12.760810852050781,
+        143.4340057373047,
+        29.224811553955078
+      ],
+      "text": "contributed articles\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        381.9999694824219,
+        51.63148880004883,
+        544.925048828125,
+        741.0180053710938
+      ],
+      "text": "suggests that the interfaces for such \nsystems should focus on images as the \nbackbone of their design. In contrast, \nsystems for retrieval need not be con-\ncerned with recollection, but rather \nwith efficient ways of searching though \nlarge heterogeneous collections of data \nand so provide access to metadata that \nmight support effective search. If sys-\ntem designers decide to support remi-\nniscence, other kinds of factors become \nimportant (such as optimizing the shar-\ning of data with others). Systems for \nreflection might be different still where \nabstraction is important, offering flex-\nible and novel methods for viewing per-\nsonal data in ways that might surprise, \nprovoke, or educate users. Finally, de-\nsigning systems to support remembering \nintentions need to focus on delivering \ntimely cues in appropriate contexts if \nthey are to provide effective reminders. \nApplying such memory taxonomies \nis vital for designing effective systems. \nFirst, they clarify the aspects of mem-\nory the systems are trying to support; \nwithout such clarification it is difficult \nto know whether the systems succeed. \nSecond, understanding the relevant \npsychological processes allows design-\ners to create systems to better support \nthe processes. Third, taxonomies can \nsuggest new directions for exploration; \nfor example, systems supporting remi-\nniscence and reflection have received \nfar less attention than those support-\ning recollection and retrieval. \nOffloading and metamemory. Much \nof the lifelogging approach is moti-\nvated by the observation that human \nmemory is fallible. Lifelog proponents \nargue we need to remove the memory \nburden from humans, offloading it to \nreliable and comprehensive external \ndigital stores. These claims need care-\nful scrutiny, as we calculate the costs \nassociated with digital archives, even \nif they make it possible to store vast \namounts of data. For example, the ef-\nfort required to capture, create, and \nmaintain some kinds of data can be \nprohibitive. Moreover, accessing data \ncan be inefficient compared with ex-\nploiting “organic” human memory. \nHow, when, and why people ex-\nploit external memory tools has been \nstudied extensively in the psychologi-\ncal subfield of metamemory,6 which \naddresses people’s understanding of \nthe strengths and weaknesses of their \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        36.002197265625,
+        51.64107131958008,
+        198.9277801513672,
+        741.188720703125
+      ],
+      "text": "the design of many lifelogging user in-\nterfaces) that place, events, and people \nare stronger cues than time.5 Other re-\nsearch has found that cues can trigger \ninferences about what must have hap-\npened in someone’s life, rather than \ngenuine recollection23; for example, a \nphoto showing us having lunch with \nfriends may cause us to truly remember \nthe event or simply lead us to conclude \nwe must have been there. Finally, while \nrecollecting the past is highly depen-\ndent on the kind of cues presented to \npeople, for prospective memory (mem-\nory for future events and intentions), \nthe important issue is not so much \nthe type of cue but rather when a cue \nis delivered, allowing an intention to \nbe remembered at the right time and \nplace.24 This observation suggests that \nthe capture of data (such as location or \nother contextual cues) might be used to \ntrigger reminders rather than provide \ncontent to be remembered. \nThese observations run counter to \nmuch of the rhetoric surrounding life-\nlogging, where such phrases as “digital \nmemories” and “experience capture” \nare often used. They show instead the \nimportance of understanding the pre-\ncise relationship between the cues we \nare able to capture through lifelogging \ntechnologies and the memory experi-\nences they trigger, with clear impli-\ncations for how we might design im-\nproved systems. \nSupport for the Five Rs. Most lifelog-\nging proponents presume that the sys-\ntems deliver benefits without being \nspecific about what the benefits might \nbe, assuming a one-system-suits-all \napproach. As we outlined earlier in \nthe section on lifelogging benefits, the \npsychological literature distinguishes \nmany different types of memory, each \ninvolving different retrieval processes. \nThus, it is not simply a question of what \nthe system captures but determining \nhow such a system would be used. This \ndetermination depends largely on the \ntype of memory being targeted or, more \ngenerally, the kind of benefit system de-\nsigners hope to deliver to end users. \nMany total-capture systems implic-\nitly seem to address recollection, or re-\nmembering past personal experiences. \nIt is well known in the psychological \nliterature that there are strong connec-\ntions between these autobiographical \nmemories and visual images.8 This \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        209.0,
+        96.4109878540039,
+        372.5841369628906,
+        243.65098571777344
+      ],
+      "text": "Systems supporting \nreminiscence and \nreflection have \nreceived far less \nattention than \nthose supporting \nrecollection and \nretrieval.\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        441.2181091308594,
+        12.760810852050781,
+        568.0020141601562,
+        29.224811553955078
+      ],
+      "text": "contributed articles\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        339.20721435546875,
+        754.1275024414062,
+        549.0001831054688,
+        762.9774780273438
+      ],
+      "text": "may 2010  |  vol. 53  |  no. 5  |  communications of the acm    77\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        41.99949645996094,
+        51.63148880004883,
+        204.92449951171875,
+        384.6261291503906
+      ],
+      "text": "own memories and the strategies they \nemploy to overcome the weaknesses. \nKalnikaite and Whittaker16 looked at \nthe interplay between organic mem-\nory and metamemory in determining \nwhen people choose to access digital \nconversational records, showing that \neven when a digital record is accurate \nand complete, users do not rely on it \nif they feel they can remember the in-\nformation unaided. The decision to \nuse a digital-memory aid also depends \non the efficiency with which a memory \naid can be accessed. Indeed, the study \nfound that efficiency of access some-\ntimes overrides accuracy, with subjects \nbeing willing to settle for less-than-per-\nfect accuracy, as long as the method is \nquick and easy to use. \nLifelogging applications must be \nbetter at analyzing these trade-offs. \nWhen should people use efficient but \nfallible organic memory instead of less \nefficient but potentially more accurate \ndigital records? Rather than seeing \nlifelogs as replacing memory, system \ndesigners would be better off viewing \nthem as working in synergy with organ-\nic memory. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        41.99949645996094,
+        395.7981262207031,
+        204.91502380371094,
+        741.2559814453125
+      ],
+      "text": "Lessons and Research Questions \nFor lifelogging research, prior work of-\nfers four key insights: \nSelectivity, not total capture. Rather \nthan unfocused efforts to “capture ev-\nerything,” system designers should \nchannel their efforts more fruitfully \nby identifying the situations where hu-\nman memory is poor or targeting the \nthings users most want to remember. \nThese situations are where the systems \nwould provide their greatest utility. \nFurthermore, people may sometimes \nwant to forget, a view anathema to the \nlifelogging philosophy. \nCues not capture. System designers \nmust be explicit about the fact that these \nsystems do not “capture experiences” \nbut instead provide cues that might trig-\nger different kinds of memories. This is \nnot a simple matter of infelicity in lan-\nguage, pointing instead to the need to \nbetter understand cueing processes to \nbuild systems that genuinely support \nuser requirements for memory support. \nMemory refers to a complex, multi-fac-\neted set of concepts. There are different \ntypes of memory, and system design-\ners must clarify the aspects of memory \nthey are targeting (such as recollection, \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        388.0,
+        52.01487731933594,
+        550.4869995117188,
+        164.4844207763672
+      ],
+      "text": "10.\t Dumais, S., Cutrell, E., Cadiz, J., Jancke, G., Sarin R., \nand Robbins D. Stuff I’ve seen: A system for personal \ninformation retrieval and re-use. In Proceedings \nof the Conference of the Special Interest Group on \nInformation Retrieval (Toronto, 2003). ACM Press, \nNew York, 2003, 72–79. \n11.\t Freeman, E. and Fertig, S. Lifestreams: Organizing \nyour electronic life. In Proceedings of the AAAI \nFall Symposium on AI Applications in Knowledge \nNavigation and Retrieval (Cambridge, MA, Nov.). AAAI \nPress, Menlo Park, CA, 1995. \n12.\t Gemmell, J., Bell, G., and Lueder, R. MyLifeBits: A \npersonal database for everything. Commun. ACM 49, 1 \n(Jan. 2006), 88–95. \n13.\t Harper, R., Randall, D., Smyth, N., Evans, C., Heledd, \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        388.0,
+        164.52989196777344,
+        547.7635498046875,
+        276.9993896484375
+      ],
+      "text": "L., and Moore, R. The past is a different place: They \ndo things differently there. In Proceedings of the \nConference on Designing Interactive Systems. ACM \nPress, New York, 2008, 271–280. \n14.\t Hodges, S., Williams, L., Berry, E., Izadi, S., Srinivasan, \nJ., Butler, A., Smyth, G., Kapur, N., and Wood, \nK. SenseCam: A retrospective memory aid. In \nProceedings of Ubicomp (Orange County, CA, Sept.). \nSpringer, Berlin, 2006, 177–193. \n15.\t Hori, T. and Aizawa, K. Context-based video retrieval \nsystem for the lifelog applications. In Proceedings \nof the ACM Workshop on Multimedia Information \nRetrieval (Berkeley, CA, Nov.). ACM Press, New York, \n2003, 31–38. \n16.\t Kalnikaite, V. and Whittaker, S. Software or wetware? \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        388.0,
+        277.0448913574219,
+        547.4515380859375,
+        314.50439453125
+      ],
+      "text": "Discovering when and why people use digital \nprosthetic memory. In Proceedings of the Conference \non Human Factors in Computing Systems (San Jose, \nCA, Apr.–May). ACM Press, New York, 2007, 71–80. \n17.\t Lamming, M., Brown, P., Carter, K., Eldridge, M., Flynn, \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        388.0,
+        314.5498962402344,
+        548.1990356445312,
+        427.0193786621094
+      ],
+      "text": "M., Louie, G., Robinson, P., and Sellen, A. The design of \na human memory prosthesis. Computer Journal 37, 3 \n(Jan. 1994), 153–163. \n18.\t Mann, S. Wearable computing: A first step toward \npersonal imaging. Computer 30, 2 (Feb. 1997), 25–32. \n19.\t Petrelli, D. and Whittaker, S. Family memories in the \nhome: Contrasting physical and digital mementos. \nPersonal and Ubiquitous Computing 14, 2, (Feb. 2010), \n153–169. \n20.\tRichter, H., Miller, C., Abowd, G., and Funk, H. Tagging \nknowledge acquisition to facilitate knowledge \ntraceability. International Journal on Software \nEngineering and Knowledge Engineering 14, 1 (Feb. \n2004), 3–19. \n21.\t Russell, D.M. and Lawrence, S. Search everything. \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        388.0,
+        427.0389099121094,
+        549.0697631835938,
+        479.5263977050781
+      ],
+      "text": "In Personal Information Management, W. Jones \nand J. Teevan, Eds. University of Washington Press, \nSeattle, 2007. \n22.\t Schacter, D. The Seven Sins of Memory: How the \nMind Forgets and Remembers. Houghton Mifflin, New \nYork, 2001. \n23.\t Sellen, A., Fogg, A., Hodges, S., Rother, C., and Wood, \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        388.0,
+        479.5718994140625,
+        547.3410034179688,
+        554.5429077148438
+      ],
+      "text": "K. Do lifelogging technologies support memory for \nthe past? An experimental study using SenseCam. In \nProceedings of the Conference on Human Factors in \nComputing Systems (San Jose, CA, Apr.–May). ACM \nPress, New York, 2007, 81–90. \n24.\t Sellen, A., Louie, G., Harris, J., and Wilkins, A. \nWhat brings intentions to mind? An in situ study \nof prospective memory. Memory 5, 4 (July 1997), \n483–507. \n25.\t Tulving, E. Elements of Episodic Memory. Oxford \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        388.0,
+        554.5819091796875,
+        541.9005737304688,
+        569.5383911132812
+      ],
+      "text": "University Press, New York, 1983. \n26.\t Vermuri, S., Schmandt, C., Bender, W., Tellex, S., and \n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        388.0,
+        569.5838623046875,
+        541.2114868164062,
+        629.5464477539062
+      ],
+      "text": "Lassey, B. An audio-based personal memory aid. In \nProceedings of Ubicomp (Nottingham, U.K., Sept.). \nSpringer, Berlin, 2004, 400–417. \n27.\t Whittaker, S., Bergman, O., and Clough, P. Easy on \nthat trigger dad: A study of long-term family photo \nretrieval. Personal and Ubiquitous Computing 14, 1 \n(Jan. 2010), 31–43. \n28.\t Whittaker, S., Tucker, S., Swampillai, K., and Laban, \n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        398.99798583984375,
+        629.5919189453125,
+        536.2974853515625,
+        652.055908203125
+      ],
+      "text": "R. Design and evaluation of systems to support \ninteraction capture and retrieval. Personal and \nUbiquitous Computing 12, 3 (Mar. 2008), 197–221. \n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        388.0,
+        666.0243530273438,
+        544.9619140625,
+        696.054443359375
+      ],
+      "text": "Abigail J. Sellen (asellen@microsoft.com) is a principal \nresearcher at Microsoft Research in Cambridge, U.K., \nand Special Professor of Interaction at the University of \nNottingham, U.K. \n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        388.0,
+        700.5263671875,
+        546.3984985351562,
+        723.0553588867188
+      ],
+      "text": "Steve Whittaker (whittaker@almaden.ibm.com) is a \nresearch scientist at IBM Almaden Research Center, San \nJose, CA. \n",
+      "type": 0
+    },
+    {
+      "id": 15,
+      "bbox": [
+        388.0,
+        732.0968627929688,
+        504.1028747558594,
+        739.5523681640625
+      ],
+      "text": "© 2010 ACM 0001-0782/10/0500 $10.00\n",
+      "type": 0
+    },
+    {
+      "id": 16,
+      "bbox": [
+        215.0,
+        51.63148880004883,
+        377.9154357910156,
+        430.6531066894531
+      ],
+      "text": "reminiscence, retrieval, reflection, and \nremembering intentions). Greater clar-\nity should produce systems that better \nfit their intended purpose and support \nthe user’s relevant cognitive processes. \nUnless system designers know precise-\nly what their systems are intended to \ndo, they can’t determine whether their \ndesigns are successful. \nSynergy not substitution. Much of \nthe rhetoric on behalf of lifelogging as-\nsumes the systems will replace human \nmemories. However, digital records \nare used only when they are efficient to \naccess and when users feel their own \nmemory is unreliable. Rather than try \nto replace human memory with digital \nsystems, system designers should look \nto capitalize on the strengths of human \nmemory and help overcome its weak-\nnesses. Lifelogging design must there-\nfore be engineered to work in synergy \nwith users’ own memories. \nIncorporating the psychology of \nmemory into the design of novel mne-\nmonic technologies opens up exciting \npossibilities for ways to augment and \nsupport human endeavors. In light of \nthe diversity of human memory and \nhow it plays out in everyday life, we’ve \nsought to outline a design space that ex-\nploits the strong body of psychological \nknowledge we already have in hand. \t\n",
+      "type": 0
+    },
+    {
+      "id": 17,
+      "bbox": [
+        214.99998474121094,
+        447.2434997558594,
+        375.0429992675781,
+        514.7785034179688
+      ],
+      "text": "References \n1.\t Abowd, G. Classroom 2000: An experiment with the \ninstrumentation of a living educational environment. \nIBM Systems Journal (Special Issue on Pervasive \nComputing) 38, 4 (Oct. 1999), 508–530. \n2.\t Bell, G. and Gemmell, J. Total Recall: How the \nE-Memory Revolution Will Change Everything. Dutton, \nNew York, 2009. \n3.\t Bergman, O., Beyth-Marom, R., Nachmias R., \n",
+      "type": 0
+    },
+    {
+      "id": 18,
+      "bbox": [
+        214.99996948242188,
+        514.823974609375,
+        377.3243713378906,
+        739.8085327148438
+      ],
+      "text": "Gradovitch, N., and Whittaker S. Improved search \nengines and navigation preference in personal \ninformation management. ACM Transactions on Office \nInformation Systems 26, 4 (Sept. 2008), 1–24. \n4.\t Berry, E., Kapur, N., Williams, L., Hodges, S., Watson, \nP., Smyth, G., Srinivasan, J., Smith, R., Wilson, B., and \nWood, K. The use of a wearable camera: SenseCam as \na pictorial diary to improve autobiographical memory in \na patient with limbic encephalitis. Neuropsychological \nRehabilitation 17, 4/5 (2007), 582–681. \n5.\t Brewer, W. Memory for randomly sampled \nautobiographical events. In Remembering \nReconsidered: Ecological and Traditional Approaches \nto the Study of Memory, U. Neisser and E. Winograd, \nEds. Cambridge University Press, Cambridge, U.K., \n1988, 21–90. \n6.\t Brown, A. Metacognition, executive control, self-\nregulation, and other mysterious mechanisms. In \nMetacognition, Motivation, and Understanding, F.E. \nWeinert and R.H. Kluwe, Eds. Lawrence Erlbaum \nAssociates, Hillsdale, NJ, 1987, 65–116. \n7.\t\nBush, V. As we may think. Atlantic Monthly 176, 1 (July \n1945), 101–108. \n8.\t Conway, M. Autobiographical Memory. Open University \nPress, Milton Keynes, U.K., 1990.\n9.\t Czerwinski, M., Gage, D., Gemmell, J., Marshall, C., \nPerez-Quinonesis, M., Skeels, M., and Catarci, T. Digital \nmemories in an era of ubiquitous computing and \nabundant storage. Commun. ACM 49, 1 (Jan. 2006), \n44–50. \n",
+      "type": 0
+    }
+  ]
+]

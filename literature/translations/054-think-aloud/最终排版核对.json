@@ -1,0 +1,28 @@
+{
+  "pages": 13,
+  "sizes_match": true,
+  "draft_markers": 0,
+  "tables": [
+    {
+      "page": 6,
+      "cells": 40,
+      "equal": true
+    },
+    {
+      "page": 8,
+      "cells": 38,
+      "equal": true
+    },
+    {
+      "page": 8,
+      "cells": 12,
+      "equal": true
+    },
+    {
+      "page": 9,
+      "cells": 56,
+      "equal": true
+    }
+  ],
+  "missing_chinese": {}
+}

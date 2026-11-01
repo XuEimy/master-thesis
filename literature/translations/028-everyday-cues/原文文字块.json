@@ -1,0 +1,1584 @@
+[
+  [
+    {
+      "id": 0,
+      "bbox": [
+        306.0,
+        36.21479415893555,
+        308.73553466796875,
+        47.20607376098633
+      ],
+      "text": " \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        61.41796875,
+        61.709999084472656,
+        555.5726318359375,
+        81.81600189208984
+      ],
+      "text": "Things That Make Us Reminisce: Everyday Memory Cues \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        138.9813995361328,
+        82.11002349853516,
+        478.0225830078125,
+        102.21602630615234
+      ],
+      "text": "as Opportunities for Interaction Design \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        64.558349609375,
+        110.06327819824219,
+        525.8557739257812,
+        138.91200256347656
+      ],
+      "text": "Doménique van Gennip1,2 \nElise van den Hoven1,2 \nPanos Markopoulos2,1 \nFaculty of Design, Architecture and Building \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        90.19312286376953,
+        139.54798889160156,
+        259.206787109375,
+        166.51197814941406
+      ],
+      "text": "University of Technology, Sydney \ndomenique.vangennip@uts.edu.au \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        98.86206817626953,
+        167.1480255126953,
+        250.5377960205078,
+        180.43202209472656
+      ],
+      "text": "elise.vandenhoven@uts.edu.au \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        322.5332946777344,
+        125.62800598144531,
+        525.15087890625,
+        152.8319854736328
+      ],
+      "text": "Department of Industrial Design \nEindhoven University of Technology, the \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        54.0,
+        153.2279815673828,
+        480.1973876953125,
+        411.5654296875
+      ],
+      "text": "Netherlands \np.markopoulos@tue.nl \n \nABSTRACT \nInteractive devices can support personal remembering to \nbenefit well-being. These designs require insight into what \nbrings the past to mind, and how people relate to such cues. \nPrior work focused on mementos in the home; instead, this \npaper presents a diary and interview study of involuntary \nmemory cueing in everyday life. Data was collected from \nfifteen adult individuals, using sentence completion diaries, \ncombined with debriefing interviews. Qualitative analysis \nof the data showed that these participants were relying on \neveryday physical objects like food items for cueing \nmemories during everyday life, locations and (repeated) \nactivities, while digital items and photos were shown to be \nless frequent stimulants. Meaningful relations to memory \ncues can be partially explained from a memory cueing \nperspective. We discuss how design for remembering can \nbenefit from our insights, through careful trade-offs in \ntiming, exposure to cues, and supporting a process of \npersonal attachment with items invoking memories. \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        54.00001907348633,
+        418.2035827636719,
+        247.2389373779297,
+        450.9254150390625
+      ],
+      "text": "Author Keywords \nInteraction Design, Memories, Memory cueing, \nRemembering, Diary study \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        54.00001907348633,
+        457.3235778808594,
+        292.517822265625,
+        490.0454406738281
+      ],
+      "text": "ACM Classification Keywords \nH.5.m. Information interfaces and presentation (e.g., HCI): \nMiscellaneous. \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        54.00001907348633,
+        496.68359375,
+        297.75634765625,
+        610.04541015625
+      ],
+      "text": "INTRODUCTION \nIn everyday life we often remember our past: sometimes by \ndeliberate effort, and sometimes because thoughts, people \nor elements in our environment remind us. Think of using \nsocial media to view and share family stories, or \nreminiscing while taking a walk in the park. Such \nreminiscing and reflecting on autobiographical memories \nhas clear mental benefits, as remembering is vital to our \nself-image, personal identity, how we express ourselves, \nand relate to others [8]. These activities based on memories, \n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        316.79998779296875,
+        194.75257873535156,
+        560.5908813476562,
+        343.6454162597656
+      ],
+      "text": "and by extension the elements in the environment that \ntrigger such memories, help us feel well and balance \nemotional \nneeds \n[6, \n30]. \nStimulating \nbeneficial \nremembering in daily life thus can be a worthwhile goal, as \nunderlined by recent attention within the field of interaction \ndesign [e.g., 17, 30]. People have long used mementos for \nthis purpose, and capture (for example) photographs to use \nas memory cues later on [30]. Interactive devices can \nsupport reminiscing using captured images and other data \nas memory cues, provided design efforts are based on a \nsolid understanding of what makes people remember their \npast, how this colors their experience, and whether such \ninteractivity is appropriate at a given time. \n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        326.1543884277344,
+        532.327880859375,
+        550.8778686523438,
+        542.1580810546875
+      ],
+      "text": "Figure 1. Examples invoking memories: Photo of a trip on \n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        328.1429138183594,
+        542.6478881835938,
+        548.8765869140625,
+        552.4780883789062
+      ],
+      "text": "Facebook; Thunderstorm; Boboti dish; Transistor radio. \n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        316.7998046875,
+        558.83251953125,
+        560.5760498046875,
+        719.2454223632812
+      ],
+      "text": "Digital items stand a lesser chance of evoking memories \nand emotions compared to physical items due to lesser \nsalience, often captured and stored but not reviewed [31]. \nPeople put meaningful items on display, and vice versa tend \nto attach meaning to items available in their environment. \nPersonal mementos are increasingly stored digitally and are \nbecoming more numerous due to lower perceived cost of \ncapture, which also reduces chances of finding it again to \nhelp remembering [30]. When people were asked to \nindicate valuable items during home visits, digital \nmementos were often overlooked [20, 27]. Digitalization of \npersonal media can reduce opportunities to evoke memories \nwithout effort [31], or as Schwarz argues do the opposite as \nwe may frequently come across files when looking for \n",
+      "type": 0
+    },
+    {
+      "id": 15,
+      "bbox": [
+        53.999778747558594,
+        623.1832885742188,
+        196.37979125976562,
+        640.5906982421875
+      ],
+      "text": "Final author version. Imprint omitted. \nhttp://dx.doi.org/10.1145/2702123.2702460 \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        306.0,
+        36.21479415893555,
+        308.73553466796875,
+        47.20607376098633
+      ],
+      "text": " \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        54.0,
+        61.55256652832031,
+        297.7711486816406,
+        107.00544738769531
+      ],
+      "text": "something else [29]. The latter would alter our relation to \nthose memories to become more casual as memory-related \nitems would involuntarily cue us more often (beyond direct \ncontrol over such exposures, which may be undesired). \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        54.0000114440918,
+        113.63258361816406,
+        297.7810363769531,
+        377.48541259765625
+      ],
+      "text": "This raises the challenge of how to assist the revisiting of \npersonal digital items. We believe that if such revisiting \n(involuntary or otherwise) can influence wellbeing (as \nshown for positive memories [6]), this challenges designers \nto do (or refrain from doing) so sensibly. Good design of \nsupportive devices can make a difference, provided that \npeople’s experiential needs are met. Still, empirical \nunderstanding to inform design lacks in two ways [17, 32]. \nFirst, the relation between cueing medium (e.g., digital or \nphysical) and resultant remembering experience is not \nclearly understood. It is not evident whether the \nrepresentation of a memory cue (e.g., photo, audio, writing) \ninfluences cueing of a memory, and how we think about \nthis memory [15]. Some forms may stimulate a more \npositive remembering experience than others, perhaps \nbecause certain ways of cueing allow more freedom to \nimagine the event and emotions as desired. If photographs \nof an event do not support someone to relate to their own \nexperience at the time (e.g., a photo may depict a different \nfeeling), would another representation be more suitable for \na device to adopt for experiential reliving? Second, the way \nthis knowledge can be applied to actual interactive designs \nneeds refinement. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        54.00001907348633,
+        384.1125793457031,
+        297.80572509765625,
+        578.8453979492188
+      ],
+      "text": "In this work, we look into remembering experiences as cued \nby stimuli such as mementos, public images, and particular \nspaces (see Fig.1). We aim to relate memory cues with the \nmemories and meaning within individuals’ lives, and casted \na wider net compared to earlier works focusing on a home \ncontext [20, e.g., 27]. Our focus is on external stimuli (in \ncontrast to internal stimuli such as thoughts, which we \ncannot design or modify), as these external cues provide an \nopportunity for design to appropriate for everyday \nremembering. In addition, we discuss perceived differences \nbetween digital and physical items as cues. We argue this \nfocus on digital, involuntary memory cues is warranted \ngiven the accumulation in people’s archives and potential \nfor appropriation by interactive devices. This work adds \ninsight on involuntary memory cueing and related trade-\noffs to enable future design work to contextualize and \nexplore this challenge. \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        54.00001907348633,
+        585.483642578125,
+        129.9628448486328,
+        595.402587890625
+      ],
+      "text": "RELATED WORK \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        54.00001907348633,
+        601.8035888671875,
+        297.7280578613281,
+        703.6453857421875
+      ],
+      "text": "Memory & cues in cognitive psychology \nRemembered events of our life can differ in specificity: \nlifetime periods (e.g., being a teenager), general events \nlasting days to months, or event-specific knowledge for \nevents lasting up to hours at most [8]. Memories come to \nour awareness based on intentional effort (e.g., seeing a \nvase and then trying to remember how you got it), or \ninvoluntarily (e.g., remembering your neighbor gave you a \nvase upon seeing that vase) [4]. Involuntary memories thus \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        316.79998779296875,
+        61.55256652832031,
+        560.4520874023438,
+        83.96546936035156
+      ],
+      "text": "need some way of invocation, whether taking a cue from \n(for example) thoughts, activities, or external items. \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        316.7998962402344,
+        90.59254455566406,
+        560.6278686523438,
+        285.325439453125
+      ],
+      "text": "Based on diary studies, Berntsen finds involuntary cueing \nhappens between one to five times per day. Cues are most \noften external (e.g., objects), some internal, with only a \nsmall amount of sensorial cues (e.g., sound, smell) or \nhaving \nno \nidentifiable \ncues \n[4]. \nDespite \nlimited \nunderstanding of the cueing process, some correlation \nbetween a memory and a potential cue is assumed [8]. \nDistinctiveness, recency, frequent rehearsal, or relation to a \nhighly emotional event may improve a perceived item’s \nability to cue a memory [4]. However, other mental \nprocesses interact to modulate a cue’s effects: one can see a \nphoto frame many times without becoming aware of related \nmemories. Such selective recall illustrates that motivations \nmatter, as does recent activation of related memories [e.g., \n4]. During mundane activities (e.g., cooking) some people \nare more likely to be involuntarily triggered, perhaps \nbecause they are open to stimulation [e.g., 4, 28]. \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        316.7997131347656,
+        291.9635925292969,
+        560.5404052734375,
+        462.6854248046875
+      ],
+      "text": "Personal collections as memory cues \nItems are able to stimulate vivid re-experience of the past \n[10]. Because interactive devices can stimulate similar \nfunctions via cues (e.g., display of photos, old messages, \naudio recordings), it is relevant what types of cues people \nrelate to. People actively shape their environment to support \nand portray their identity through curation of items \nreminiscent of past memories, with the goal of keeping \nthings around as symbols of the self [e.g., 10, 20]. This \nbehavior, known as autotopography [27], shows the \ncomplex relations between objects and the self. The \npopularity of everyday objects as mementos is “by the \nvirtue of what the owner has invested in them, be it time or \nemotion,” and such meaning develops over time through \ncultivation, selection, and how items relate to others [27]. \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        316.7997131347656,
+        469.31256103515625,
+        560.6104125976562,
+        710.1254272460938
+      ],
+      "text": "Such cultivation practices are harder to support with digital \nmementos not being present in the everyday environment. \nNot surprisingly those are mentioned infrequently in studies \nof personally relevant memory objects [20, 26, 27]. \nHowever, this belies that there is an ever-increasing use and \nreliance on digital capturing of memory cues (i.e., digital \nphotos, social network communication, email). The ease or \neven automaticity of digital capturing has grown the \ncollections people keep, as reflected in the life logging \nmovement [30]. However, this ‘cue hoarding’ has led to too \nmany cues with too little relevance as filtering gets less \nattention [30]. Work on digital legacy, inheritance and \nmemorials highlights people may at times be confronted to \ndeal with vast and often unstructured digital collections \n[e.g., 13, 22]. These issues raise questions on what kind of \nitems would be considered beneficial as memory cues, and \nat which moments this cueing might be done (if at all). \nSuch changed practices fundamentally alter the way we \nremember and support recollection [31], and the changing \nlandscape begets answers on how design can best support \nthis trend. \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        306.0,
+        36.21479415893555,
+        308.73553466796875,
+        47.20607376098633
+      ],
+      "text": " \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        54.0,
+        61.563575744628906,
+        297.80078125,
+        301.1654357910156
+      ],
+      "text": "Memory cues in interaction design \nWe would like to highlights several works that have tapped \ninto the opportunities provided by interaction design for \ninvoluntarily cued reminiscing. Smell is rare but noticeable \nas involuntary cue, and offers a strong ability to bring back \nmemories if a device would be aware of personally \nmeaningful odors [24]. It is noticeable several works \nemploy a tactic of random selection for serendipitous \neffects. Pensieve explored the use of digital mementos by \nusing earlier social media posts as emailed prompts for \nreminiscing [9]. 4Photos, a dinner table photo displaying \ndevice [23], aimed to start dinner conversation by \npresenting random photos from social network streams. A \nsimilar tactic was employed by Cueb to support parent-\nteenager communication through random display of digital \nphotos on tangible objects [12]. Meerkat and Tuba also \nwent for serendipitous presentation of digital media in the \nhome, abdicating user control in favor of surprise [14]. \nKnowing what to present and when requires keen \nunderstanding of what is personally meaningful, questions \nof interest in this work. \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        54.00001907348633,
+        307.7925720214844,
+        297.7779846191406,
+        410.8454284667969
+      ],
+      "text": "Petrelli et al. [27] argue reflective value of a memento \ncomes out of reencountering and re-evaluating our \ndisposition towards an item and its related memories \n(although this evaluative process happens in the mind, and \nis not evident to interactive devices). Echo uses this \nprinciple to encourage reflection on cues captured earlier \n[18]. Data Souvenirs does similarly by placing ambiguous \ndigitally augmented objects in the home environment that \nupon seeing may stimulate reflection [1]. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        54.00001907348633,
+        417.48358154296875,
+        297.83526611328125,
+        611.0054321289062
+      ],
+      "text": "Knowledge gap \nNotwithstanding \nthe \nabove \nillustrations \nof \nhow \nunderstanding memory, cueing, and interaction design can \nsupport remembering our past, questions remain. As some \nof the related work reveals, additional understanding of \nwhat is of value, and when people would (not) appreciate \nbeing cued is needed. Despite an increasing interest in \nmemory cues, and effects on recollection [e.g., 15], the \neffect of cue attributes on remembering remains ambiguous \nand is often not directly addressed. Contradictory to the \nstudies quoted above, van den Hoven et al. [16] found that \na no-cue condition compared to several types of cues gave \nrise to richer recollection of a past event. This appears to \nsuggest interactive devices might also miss out on intended \neffects using such cues (e.g., photos on phones). We argue \nthis ambiguity impedes successful design of interventions \nto support everyday remembering. \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        54.00001907348633,
+        617.632568359375,
+        297.781005859375,
+        697.6453857421875
+      ],
+      "text": "This is why it is valuable to look into memory cues from a \ndesign perspective. What kind of items cue memories in \neveryday life, as opposed to lab studies or just the home \nenvironment? Memory retrieval may largely be an \ninvoluntary process, but cues could be in the surroundings \nfor voluntary reasons (e.g., a photo frame deliberately put \nsomewhere). To which cues do people attach value, and for \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        316.79998779296875,
+        61.55256652832031,
+        560.4345092773438,
+        83.96546936035156
+      ],
+      "text": "what reason? Is there a difference between digital and \nphysical memory cues for the remembering experience? \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        316.7998962402344,
+        90.59254455566406,
+        560.6106567382812,
+        251.0054473876953
+      ],
+      "text": "This work qualitatively explores what elements in daily life \ncue a remembering experience, similar to the more \nquantitative approach in studies using diaries for data \ngathering [4, 28] and qualitative accounts of home visits \n[e.g., 10, 20, 27]. We were interested in items as memory \ncues and the related remembering experiences and meaning \nthese items take on. Besides a general interest in the kind of \nmemory cues encountered, we were especially interested in \ndigital memory cues (if encountered). We believe our \nfindings contribute towards successful designing for \nremembering support systems by further unpacking the \nrelation between items and cued memories, and by \noutlining opportunities for future work through elucidating \ndimensions and trade-offs that designers may consider. \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        316.7997131347656,
+        257.6435852050781,
+        560.5523071289062,
+        486.4454345703125
+      ],
+      "text": "STUDY METHOD \nThis study explored the relation between memory cues and \nreminiscing in everyday life, in which diaries and \ndebriefing interviews were used for data collection. We \nwere interested in the type of cues and related memories, \nand how people relate to these cues. Involuntary memory \ncueing is a fleeting cognitive phenomenon quickly \nforgotten if not captured shortly after being cued. Akin to \nearlier work on involuntary memories [4, 28], participants \nwere asked to record involuntary memories themselves in a \ndiary as soon as they became aware of such a memory \nbeing cued. Self-reports provide a good account when \ninitiated by a participant while the cued memory is still \nfresh, because reporting need not rely on retrospection (as \nmight the case with other methods like experience sampling \nwhere delays between event and report are inevitable), at \nthe cost of some subjectivity as interpretation may differ \nbetween participants [7]. Diary entries also provided input \nfor debriefing interviews, which expanded on and added \nqualitative insight to themes found across diary entries. \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        316.7997131347656,
+        493.0835876464844,
+        560.5857543945312,
+        675.325439453125
+      ],
+      "text": "Participants \nFifteen adults participated (another 5 started but did not \ncomplete). They were recruited via personal networks of \nthe authors and university notices, via social network posts, \nemails, flyers, and in person. Participants were told the \npurpose of the study was to learn about the various ways \npeople may be reminded of their past by encountering \nthings in daily life. All respondents were included to \nmaximize diversity, and no rewards were given for \nparticipation. Participants were aged 24 to 66 (M=39 years), \n11 were female (73%), and most were affiliated to the \nuniversity of the first author as postgraduate student or \nstaff. Living situations varied from single, with flatmates, \ndivorced (with children), to complete families. Half were \nborn in Australia, others had been there for at least one year \nand had comparable to native language skills. \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        316.7997131347656,
+        681.963623046875,
+        560.4952392578125,
+        714.6854248046875
+      ],
+      "text": "Diaries \nParticipants were handed a paper diary to record \ninvoluntary memories and related cues (see Fig. 2). They \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        306.0,
+        36.21479415893555,
+        308.73553466796875,
+        47.20607376098633
+      ],
+      "text": " \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        54.0,
+        61.55256652832031,
+        297.7958679199219,
+        268.04541015625
+      ],
+      "text": "were instructed to ‘write down things you encounter \nthroughout the day that remind you of something about \nyour own past, and perhaps made you go back to that \nmoment for a while.’ This phrase was chosen to satisfy a \nfocus on external memory cues, while trying to be open. It \nwas explained to participants that ‘things’ could refer to all \nmodalities. People logged their responses via sentence \ncompletion, with three questions to be completed per entry: \n‘I remembered..,’ ‘Because I noticed..,’ and ‘This made me \nfeel..’ This format garners free responses with a minimum \nof guidance necessary for the study interests. Participants \nkept the diary for a minimum of ten days, although it was \nallowed to keep the diary longer if the first ten days proved \nunfruitful (e.g., due to forgetting or not (realizing) being \ncued). Diary entries were transcribed prior to interviews, \nwith unclear and interesting entries marked for further \nquestioning. Diaries were contrasted with earlier entries to \nhelp grounding of early findings. \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        73.47731018066406,
+        441.367919921875,
+        277.9424133300781,
+        451.1980895996094
+      ],
+      "text": "Figure 2. Example of a completed and filled in diary. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        54.00001907348633,
+        457.5635986328125,
+        297.72796630859375,
+        582.2054443359375
+      ],
+      "text": "Interviews \nThree to seven days after handing in the diary an interview \nwas held to aid interpretation of the diary, and discussed \nreminiscing practices and perspectives. The semi-structured \ninterview elaborated on diary entries and how significant \nthese listed memory cues were to the participant, how \nimportant reminiscing and reflection is in their life and in \nwhat way items play a role, and how they perceive \ndifferences (if any) between physical and digital mementos. \nThe interviews were held in a quiet space on campus and \nlasted up to one hour. \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        54.00001907348633,
+        588.8436279296875,
+        297.7847595214844,
+        713.7254028320312
+      ],
+      "text": "Analysis \nData from 15 participants have been used (see Fig.3), \nincluding interview data for one participant who withheld \nher diary because she thought that its content was too \npersonal for her to share, and another person handed in a \ndiary but was not available for an interview. In total, 208 \ndiary entries were used. Seven diary entries did not relate to \na past memory and were excluded (e.g., observations about \nin-the-moment events). Entries based on involuntary \ninternal cueing (i.e., thoughts), although infrequent and not \nthe focus here, were left in. Qualitative thematic analysis \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        316.7998962402344,
+        61.55256652832031,
+        560.5562744140625,
+        233.4854278564453
+      ],
+      "text": "aimed for data reduction through quantitative summaries of \ndiary entries and identified recurring themes through \ninductive coding of the data, using a single coder [cf. 5]. \nEntries were coded twice: first in a directive approach on \nsummative measures as in earlier work to enable \ncomparison (i.e., categorizing as objects, or smells, or \npeople, etc.) [4], and second, entries were clustered based \non emergent affinity which allowed finer grained \ncategorization and contrasts (i.e., not just objects as \ncategory, but split into tools, souvenirs, clothing, etc.). \nFurther measures per entry included memory valence \n(positive/ambivalent/negative), \nmemory \nspecificity \n(lifetime periods/general events/event-specific knowledge \n[8]), and whether the participant controlled the exposure to \na memory cue (as interpreted by the coder via entry text). \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        316.7998046875,
+        240.11256408691406,
+        560.5739135742188,
+        365.9654235839844
+      ],
+      "text": "Interviews were transcribed and all relevant statements (i.e., \nexcluding elaborations on tangential matters) were printed \nand cut into separate paper strips. These strips from all \nparticipants were clustered by similarity into a hierarchical \nstructure to support examination. Recurring themes \nemerging across interviews, and diverse views on these \nthemes were used as the basis for organization and analysis. \nTogether with the diary clusters this provides the structure \nfor our insights into what role memory cues play in \npeople’s lives, how people relate to their past, and what \npotential role HCI can play. \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        316.7997131347656,
+        372.6036071777344,
+        560.5208740234375,
+        439.6454162597656
+      ],
+      "text": "FINDINGS \nWe give an overview of the data, and discuss several \nthemes that emerged during analysis, and relate the findings \nto our research questions. When relevant, findings will be \ncontrasted with earlier work. Quotes from diaries are \nmarked (P2-d), interview quotes show (P2-i). \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        316.7998046875,
+        446.2835998535156,
+        414.7967224121094,
+        456.20257568359375
+      ],
+      "text": "What cues memories? \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        316.7997131347656,
+        462.8435974121094,
+        560.6104736328125,
+        633.5654296875
+      ],
+      "text": "Quantitative overview of diary entries \nWe would like to give a brief quantitative impression \n(although our qualitative findings do not depend on these). \nThe median number of reported cued memories was 11 \n(range: 2-37). This study limited itself to externally cued \nmemories, while other studies included internal cues (e.g., \nthoughts) and those reported a slightly higher average of \nrecorded memories [4]. Following a categorization similar \nto Berntsen, most cues relate to physical objects (52%), \nlocations (14%), activities (9%), people (9%), digital items \n(e.g., photos or social media; 10%), and 7% other (e.g., \nsensory, feeling, wording). Objects were mentioned more \noften compared to ~17% in earlier work on involuntary \nmemories using diaries [e.g., 4, 28]. This bias towards \nobjects may result from our request for external cueing.. \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        316.7997131347656,
+        639.9525146484375,
+        560.5269775390625,
+        708.4453735351562
+      ],
+      "text": "Valence showed strong dominance of positive (51%) \ncompared to negative (21%) and ambivalent feelings \n(27%). In prior diary studies a higher percentage of \nnegative memories surfaced (positives were similar), \nperhaps due to inclusion of internal memory cueing [4]. The \ncued memories related to event-specific knowledge in 45% \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        306.0,
+        36.21479415893555,
+        308.73553466796875,
+        47.20607376098633
+      ],
+      "text": " \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        54.0,
+        61.55256652832031,
+        297.7563171386719,
+        198.92543029785156
+      ],
+      "text": "of entries, with 40% cueing general events, and 15% related \nto lifetime periods. Both measures showed variance \nbetween participants, which may either be genuine, due to \nstyle and specificity of writing, or due to a low number of \nentries for some. Our data is inconclusive on this aspect. \nFor half of the cues reported on participants had some \ncontrol over the exposure to a cue by means of ownership \nand/or deliberately seeking out these stimuli. This was \nclearly the case for categories such as tools, souvenirs, \n(digital) photos and websites visited. Other categories \nrelated to locations, music, social events, and social media \ndid not give much control over exposure to cues. \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        54.00001907348633,
+        206.0325469970703,
+        198.63226318359375,
+        274.6632385253906
+      ],
+      "text": "[I remembered] breakfast in my \nchildhood - my father made \nbreakfast every day, and we always \nhad a porridge as part of our \nbreakfast, which he was very \nparticular about cooking \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        208.32000732421875,
+        206.0325469970703,
+        296.5238342285156,
+        251.62318420410156
+      ],
+      "text": "[I remembered] \nsitting with my dad \nwhile he talked about \n‘how’ to do things \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        54.00001907348633,
+        281.152587890625,
+        199.21881103515625,
+        349.543212890625
+      ],
+      "text": "[Because I noticed] I still love to \ncook & eat porridge for breakfast – \nbut my porridge is from the \nsupermarket. My dad bought a \nspecial mix from the health food \nshop \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        208.32000732421875,
+        281.152587890625,
+        294.3491516113281,
+        338.0232238769531
+      ],
+      "text": "[Because I noticed] I \nwas sitting \nexplaining what the \nplumber was doing \nwith my friend’s son \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        54.00001907348633,
+        356.0325622558594,
+        199.47848510742188,
+        413.1432189941406
+      ],
+      "text": "[This made me feel] connected \nback to my childhood, which was \nvery happy and the routines + care \nof my father, which always gave me \nlots of safety + love. \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        208.32000732421875,
+        356.0325622558594,
+        291.6018371582031,
+        378.5832214355469
+      ],
+      "text": "[This made me feel] \nvery happy, teary \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        83.23755645751953,
+        426.2479248046875,
+        268.18218994140625,
+        436.0780944824219
+      ],
+      "text": "Figure 3. Two examples of typical diary entries. \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        54.00001907348633,
+        442.443603515625,
+        297.7375183105469,
+        555.5654296875
+      ],
+      "text": "Objects as cues \nPhysical things proved the most common memory cues. \nWhile incidence of objects was higher compared to other \ndiary studies, this was not the case for all participants. \nSome participants perceived less sensitivity to objects: \n“The nature of the diary led me to believe that physical \nobjects were the cause of my memories, but what I found \nwas that it was actions that made me remember things,” \n(P8-i) according to a participant who noted not keeping a \nlot of things around in his home. \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        54.00001907348633,
+        562.1925659179688,
+        297.8056945800781,
+        711.0853881835938
+      ],
+      "text": "The kind of objects varied widely, with tools, clothing, \nsouvenirs, gifts, books, decorative pieces, images, and food \nbeing the main subcategories. Not every object may bring \nback memories, but for those that do there is usually a story \nin which the object played a (minor) role and has since \nbecome a signifier for this story: “[I noticed] My transistor \nradio! I listen to the ABC through the day - sport, news, and \nclassical music! [I remembered] my father listening to his \ntransistor radio all day as he carried it about with him \naround the house & garden (…) [This made me feel] fond + \nproud of my dad, and happy for everything that he taught \nme” (P3-d). This entry illustrates that an object often cues \nmemories not because of itself, but rather because it, or the \n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        316.79998779296875,
+        61.55256652832031,
+        560.5910034179688,
+        130.04542541503906
+      ],
+      "text": "cued memory, relates to other people. A part of the \nmemories reported relate only to the participant, but the \nmajority involved a social relation. This can range from \nrather mundane (e.g., acquaintances having the same \ncutlery set) to teddy bears that played a role in significant \nperiods of someone’s intimate relationships. \n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        316.7998962402344,
+        136.44357299804688,
+        560.489501953125,
+        238.28541564941406
+      ],
+      "text": "Photos as cues \nWith few exceptions people display photographs around the \nhouse, as told during interviews, but entries were infrequent \nfor photos as cues. Most participants were active users of \nthe camera function on their mobile phones. An interesting \naspect of this use is the occasional glancing at taken photos \npeople engage in whenever they have some time to kill. \nRecent and not so recent photos are flicked through ever so \noften for relaxation purposes. \n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        316.7998046875,
+        244.9125518798828,
+        560.51513671875,
+        416.8454284667969
+      ],
+      "text": "Practices and values on personal photographs differ widely \nbetween people, as some take less and attach less value to \nimages, whereas others appreciate photography as a hobby \nand enjoy having aesthetically pleasing examples around. \nTherefore, photos (and other items) in the home can take on \na position beyond memory cue as a medium of expression \nof (family) identity, a conclusion similar to Kirk et al. [20]. \nPhotographs may be a familiar sight and did not capture \nattention with related memories. When prompted, people \ncould report on related events, but in daily life such items \nappear to be no constant source of involuntary memories: \n“we do have lots of photographs around, but those in the \nliving room weren't the ones stimulating memories. (…) It’s \nnice to have some pictures around the house. I would be \nsorry if I'd lost them” (P11-i). \n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        316.7997131347656,
+        423.48358154296875,
+        560.6103515625,
+        674.6054077148438
+      ],
+      "text": "Digital versus physical cues \nDigital cues account for a small amount of entries, with \nsocial media posts most prevalent (e.g., photos posted by \nothers). These photos were not deliberately sought by \nparticipants but rather appeared in the digital environment \npeople frequent. All participants mentioned digital photos \nalthough only one diary entry listed a digital photo as cue. \nPerhaps people realize memory cueing more with physical \nthan with digital items, including photographs. An example \nof such different perceptions is this quote by a male \nparticipant on family photos: “I don't really pay much \nattention to the computer-stored ones. For me family \npictures in frames around the house are important.” This \nseems in contrast with a later quote on digital photos: \n“When the laptops are on there is a rotation of family \npictures on them. And I do enjoy the process of seeing 'm \ncome up.” (P11-i). Family pictures in frames take on extra \nmeaning given their placement in the home. Digital media, \nwhen merely stored and not put to use as a background \nimage or otherwise, as a result could be valued less. This \nfinding, while not original [19, 25], appears robust across \nparticipants. \n",
+      "type": 0
+    },
+    {
+      "id": 15,
+      "bbox": [
+        316.7997131347656,
+        681.2325439453125,
+        560.496826171875,
+        715.1654052734375
+      ],
+      "text": "A majority expressed preference for physical compared to \ndigital items as mementos. The following quote summarizes \nthe opinions well: “Things... you can feel and touch \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        306.0,
+        36.21479415893555,
+        308.73553466796875,
+        47.20607376098633
+      ],
+      "text": " \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        54.0,
+        61.55256652832031,
+        297.8205261230469,
+        130.04542541503906
+      ],
+      "text": "something. (…) Whereas with the digital (…) there is \nsomething removed about that, in a sense.” (P3-i). One \nparticipant explicitly mentioned his preference for digital \nmedia given that voluntarily bringing back memories feels \nequal to him, but physical things can be a practical burden \n(he kept hardly any himself). \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        54.0000114440918,
+        136.4325714111328,
+        297.7762145996094,
+        342.9254150390625
+      ],
+      "text": "Participants felt that digital media, such as photos taken on \na phone, were lower in perceived value and usefulness, \nalmost ephemeral. Such qualities have merit: digital \nsnapshots are considered well suited to share with others as \na means of keeping in touch. Preservation is not a big topic \nfor some of the interviewees, with one participant \nmentioning she lost digital images by giving away an old \nphone to a friend and not feeling too bothered about the \nfact. A somewhat paradoxical case of preservation is seen \nin another participant’s efforts to complete his life’s \ntimeline on Facebook by scanning and uploading old \npictures. Despite considerable effort to make sure “his story \nis told” (P15-i), he mentioned not feeling much attachment \nto this result. In case of losing it (e.g., due to demise of \nFacebook), he would still have the memories, as well as the \noriginal photos. The tendency to ascribe lower value to \ndigital mementos is generalizable [25, 27]. It appears \npositive values derived from digital media are less evident. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        54.00001907348633,
+        349.5635986328125,
+        297.7908630371094,
+        485.7254333496094
+      ],
+      "text": "Locations as memory cues \nLocations, and actions in specific locations, were reported \non frequently. Most entries related to earlier experiences in \nthe same environment, but just similarity was enough in \nsome cases to invoke memories. For example, a sandy \nbeach and high temperatures were distinct enough to cue \nmemories of another beach far away in time and space. In \nother cases it was not so much the location as the \nopportunities afforded, such as the ability to go somewhere \nat a ferry terminal. The latter example could be described as \nreflective, similar to motivations to go to a park that later \nsparks many related memories. \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        54.00001907348633,
+        492.3525695800781,
+        297.7465515136719,
+        664.2854614257812
+      ],
+      "text": "This study provides no clear perspective on whether a \nlocation as a whole is the cue, or rather something specific \nwithin this environment. For example, in an entry noted at a \nbeach a low moon reflected in the ocean, triggering a \nparticipant’s memory of “going in the ocean at night for the \nfirst time a couple of weeks ago. [This made me feel] \nexcited: keen on going swimming at night soon again” \n(P17-d). Being in the same place may evoke a similar state \nof mind and makes it likely some aspect pulls past events to \nthe surface, making it difficult to retrospectively tell if it \nreally was just that element as cue. Another entry \nunderlines this by pointing to the column portico of a \nuniversity building upon returning there. The act of going \nback, and taking that familiar walk, contributed to the sense \nof nostalgia before seeing the distinctive portico. \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        54.00001907348633,
+        670.9236450195312,
+        297.6993103027344,
+        715.1654052734375
+      ],
+      "text": "Activities as memory cues \nActivity was often named as a cue for events in which a \nsimilar action had been performed. A few participants \nrealized that for them it often wasn’t specific items that \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        316.79998779296875,
+        61.55256652832031,
+        560.6203002929688,
+        152.8454132080078
+      ],
+      "text": "brought back memories but rather it was doing something \nsimilar as in the past. For one person, aware of his \nproclivity to remember by doing, it became part of his \npractice (and tendency not to take many photos): “When \ndoing things, you get a déjà vu: what you were seeing, \nsmelling, and feeling as well. […] An image... I'd think 'oh, \nyeah, that was really, really good,' but doing something \nengages that whole process of remembering.” (P8-i). \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        316.7998046875,
+        159.47254943847656,
+        560.5365600585938,
+        365.9654235839844
+      ],
+      "text": "Why do activities cue memories? When trying to fit \ngroceries in a bicycle bag, a participant was reminded of \nprevious times she faced the challenge. Without an \nimmediate challenge present, it is less straightforward: \n“When I swim in the morning, I always remember my \nboyfriend. [Sporting] became part of something we did \ntogether (...) and then you think about a person and it \nbecomes a habit” (P4-i). We argue it may be repetition, and \nthrough this the accumulation of meaning that aids \nremembering of events in which the activity took place. \nAlthough mundane activities like cleaning and cooking \nwere mentioned as well, it appears sports provide a unique \nopportunity through the repetition and relation to values in \nlife. This diary entry captures it well: “[I noticed] how \ngood I felt after going for a jog, and arguably during the \njog. [I remembered] how good I felt when I was more \nactive. (Used to run frequently). [This made me feel] good, \nproud that I have restarted the regime.” (P1-d). \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        316.7997131347656,
+        372.6036071777344,
+        560.6250610351562,
+        600.6854248046875
+      ],
+      "text": "Food related cues \nEating and food-related materials came up often, and \nincluded ingredients, making food, related tools, and \nsharing a meal (see Fig.2). Although not mentioned often \nwithin HCI [23], food is one category where items, \nactivities, social gatherings and accumulated meaning \ncombine. Food-related cues prompted memories on social \ngatherings, past events, people’s preferences, and the \nrelationship with family members: “[I remembered] \ncooking with my mother – as a child living at home, \n[Because I noticed] her handwriting on a recipe I was \nabout to use that evening. [This made me feel] a little sad – \nthat I can no longer call her & chat about day-to-day \nthings. That she is no longer with us.” (P9-d). Like \nactivities, food and its social practices appear to accumulate \nmeaning over time and as such the repetition makes for a \nstronger memory. The cooking example indicates dishes \ncan be specific to an event or a period and take on a role as \nsignifier for those moments, presumably cementing its \nability to cue memories later. \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        316.7997131347656,
+        607.3236083984375,
+        560.4774169921875,
+        709.1654052734375
+      ],
+      "text": "Which memory cues are valuable? \nWhile our focus was on involuntary cueing, discussions on \nvaluable items as cues centered on practices in the home as \nthe place for storage and display of items for their related \nmemories and/or aesthetics. We found a relationship \nbetween the perceived need of access to related memories \nand item placement. For some, items were deliberately put \non display to serve as signifiers of positive moments and \nself-attributes. These items thus served to display and cue \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        306.0,
+        36.21479415893555,
+        308.73553466796875,
+        47.20607376098633
+      ],
+      "text": " \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        54.0,
+        61.55256652832031,
+        297.6712951660156,
+        130.04542541503906
+      ],
+      "text": "positive attributes of identity: “it's like each of those things \npaint a stroke in your own painting” (P4-i). This desire to \nhave the home reflect identity is found with nearly all \nparticipants, and echoes prior work [e.g., 10, 20, 27]. This \nhighlights that the need for reminiscing ties into \nperspectives on the past, and how it relates to the present. \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        54.0000114440918,
+        136.4325714111328,
+        297.8106689453125,
+        262.52545166015625
+      ],
+      "text": "An item’s relation to the present may morph over time as it \nmay take on new meaning after influential events, and \nremain valuable partly because of this. For example, a \nhand-knitted scarf once received as a gift from a friend \nsince lost has come to signify personal growth: “it's \nultimately a symbol of rejection [in the past]; it's also a \nsymbol of love. (...) And when you keep things of your own \nfailures around, it keeps you humble. (...) It encourages you \nto keep growing” (P4-i). Such tokens of important life \nevents relate to complex emotions. Other work on digital \nremains and heirlooms corroborate these findings [20]. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        54.00001907348633,
+        269.1525573730469,
+        297.74676513671875,
+        440.8454284667969
+      ],
+      "text": "Meaning develops over time for many personal items, as \nthese things get put on display, get used, scarred, or fall out \nof use and are reencountered after a while. A good example \nis a story on a bike that a participant uses to go to work \ndaily, which was bought years ago and has since \naccompanied him around the world: “… I need to replace a \nfew things. So I think 'do I get a new bike? Or do I replace \nthe components?' And I replaced the components, because \nof the memories I think, and probably as a keepsake.” (P8-\ni). Other people illustrated similar stories that showed a \ngradual attachment over time as an item played a small part \nin their life. This complements other work on personal \nbelongings that emphasize the beneficial role of a \nrepeatedly observed (or used) factor for investment of \nmeaning [20, 27]. \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        54.00001907348633,
+        447.48358154296875,
+        297.7740173339844,
+        572.3654174804688
+      ],
+      "text": "DISCUSSION \nIn the reported study, we investigated involuntary memory \ncueing to inform design for remembering. Our findings \nshow that a broad range of external stimuli can trigger \nremembering experiences. We found physical items took \nprecedence as involuntary memory cues; environments such \nas parks and beaches got frequent mention, as did activities. \nThe latter is not often discussed, perhaps because activities \nare not typically thought of as a cue for earlier events. Yet, \npsychology studies on involuntary memory cues back up \nour findings for these kinds of cues [e.g., 4, 28]. \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        54.00001907348633,
+        578.7525634765625,
+        297.74847412109375,
+        704.8453979492188
+      ],
+      "text": "The use of self-reports throughout the day brought in \nreports beyond the personal and curated. However, for \npersonal items people were able to relate stories and \nhistories in which these items played a role. Meaningful \nitems are often put on display (e.g., photos to display family \nbonds) or, like inherited dinner plates, are “honoring \nthrough use” [20]. Indeed, when discussing personal \nmemory-related practices in the home, our findings dovetail \nwith earlier ethnographic accounts [10, 20, 27], although \nthese works oriented towards voluntary memories, and \nemploy a broader sociological perspective [cf. 20]. \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        316.7998962402344,
+        61.55256652832031,
+        560.5526123046875,
+        245.0054473876953
+      ],
+      "text": "In earlier involuntary cueing work there was no attention to \nthe media representation of a cue, so no comments were \npossible on digital cues [e.g., 4, 28]. We did categorize \nthese, and found digital items were not common as \ninvoluntary cues. Most participants who use digital social \nmedia were able to remember instances of reminiscing \ninvoked this way. Browsing photos on a phone gave no \ndiary entries, but was mentioned by several participants as a \npleasant activity. It may be that participants regarded this as \na voluntary act, while the focus here was on involuntary \ncues. Alternatively, if digital media are encountered \ninvoluntarily as on social media, these are able to foster \nreminiscing, but for self-managed material this value may \nbe overlooked due to accessibility (e.g., participants \nmentioned storage and management burden). Photos on \nphones may lower the bar, being within easy reach. \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        316.7998046875,
+        251.63258361816406,
+        560.6007690429688,
+        377.48541259765625
+      ],
+      "text": "Despite intent to focus on digital cues, this study does not \nmake clear whether there is a difference in remembering \nexperience for cues that could be both digitally and \nphysically presented. Our findings suggest ability to cue \nextends to a wide variety of items, but availability to be \nobserved is key (which may explain the prevalence of \nphysical items in the responses). This question of \nrepresentation is in need of future attention, because if \nremembering experiences differ depending on the way a \nmemory cue is presented this has implications for future \ndevices that support remembering using cues. \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        316.7997131347656,
+        384.1125793457031,
+        560.5777587890625,
+        509.9654235839844
+      ],
+      "text": "Some methodological limitations apply. Using diaries \nenabled self-reports directly after being cued. However, \nsome people wrote in the diary a while after because they \nfelt burdened carrying it around. Such practices may \nintroduce retrospection on memories invoked earlier or \nleave \nephemeral \nand \nquickly \nforgotten \nmemories \nunreported. Diaries were then filled out upon coming home, \nperhaps around dinnertime, which may have primed food-\nrelated entries. Future studies could employ a staged \ncapturing of data (e.g., noting keywords, with full \ndescriptions added later) to ease reporting. \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        316.7997131347656,
+        516.592529296875,
+        560.5759887695312,
+        665.4854125976562
+      ],
+      "text": "Observed differences between participants might be \nattributed to different task interpretations. In particular, \nsome felt restricted to physical observations and, for \nexample, excluded music as cue. This may partly explain \nthe higher count of objects in our data compared to other \nwork [4], and could have reduced the number of digital \ncues. However, comparing is difficult, as those did not \nspecify involuntary memory cues as digital. Furthermore, \nwe suspect some filtering took place on what was recorded. \nWhile unexpected when relying on someone’s awareness of \nbeing involuntarily cued, some participants might have \ndiscarded cued memories that did not feel very personally \nrelevant, which may bias our findings. \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        316.7997131347656,
+        672.112548828125,
+        560.5140380859375,
+        717.3253784179688
+      ],
+      "text": "Although we stressed people to not look for things that \nreminded them of personal memories, and rather rely on \ninvoluntarily cueing, we could not control for this other \nthan retrospectively asking about their motivations to note \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        306.0,
+        36.21479415893555,
+        308.73553466796875,
+        47.20607376098633
+      ],
+      "text": " \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        54.0,
+        61.55256652832031,
+        297.70330810546875,
+        118.52546691894531
+      ],
+      "text": "certain entries. While responses suggest entries were indeed \nbased on unintentional invocation of memories, in many \ninstances in the home items were deliberately put on \ndisplay to serve as occasional reminders and evidently did \nso, blurring the line on intentionality. \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        54.0000114440918,
+        125.15254211425781,
+        297.75439453125,
+        227.96546936035156
+      ],
+      "text": "It needs acknowledgement that memory cueing is not a \nstraightforward process and a cue can via cascading \nthoughts lead to a memory that may no longer be \nrecognized as brought about by the original cue. The act of \nwriting in the diary (or remembering to do so later) may \nequally modify one’s perspective on the original cueing \nevent and related memories. This modifying aspect is \nrelevant to consider for interactive devices, but here it can \nbe seen as a potential influence outside our control. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        54.00001907348633,
+        234.59254455566406,
+        297.6630554199219,
+        291.325439453125
+      ],
+      "text": "The remainder of this section relates implications and \nopportunities for interaction design to support reminiscing, \nwhich are described as dimensions of trade-offs to consider. \nThese dimensions are timing, exposure, and the process of \nbecoming a meaningful memory cue. \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        54.00001907348633,
+        297.8147888183594,
+        297.82037353515625,
+        492.9254150390625
+      ],
+      "text": "Timing: moments for presenting cues \nReminiscing and reflection are not activities people set out \nto do for a while, according to participants. A reflective \nmood will certainly increase the odds, but it is rather \nsomething that comes up while doing another task (e.g., \ndoing laundry, cooking, riding a bike). Depending on \ncognitive demands, a task may allow the main activity to \nmove to the periphery of attention [2]. Opportunities for \nreminiscing can be facilitated by augmenting existing \ninteractions that are prone to mind wandering. Making food \nwas indicated as an example of such a low-key activity, and \na device could capitalize on the opportunity to inspire \npositive reminiscing. Facilitation is certainly challenging \nbecause it may be hard to steer the wandering mind, but \nsuch suggestive devices embedded into everyday activities \nhave potential to tap into moments when people say they \nenjoy thinking about their lives. \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        54.00001907348633,
+        499.5525817871094,
+        297.76220703125,
+        648.4454345703125
+      ],
+      "text": "To engage people in reminiscing via designed cueing \nrequires sensitivity to opportune moments. By definition \ninvoluntary cueing is unsolicited, but devices that aim to do \nso would benefit from a way to sense (un) desirability, or \nalternatively, provide the means for people to indicate in \nretrospect whether they appreciated the experience of being \ncued. Over time, a system may be able to learn from such \nfeedback. Other technical means may be available to \nsensing appreciation (e.g., facial expressions, time spent \nlooking at an item). Similarly, user activity could be \nclassified as relaxed and open to interruption, or in a state \nof flow. The opposite end on this spectrum would entail no \ncueing is commenced without prior voluntary action. \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        54.00001907348633,
+        654.9347534179688,
+        297.7309265136719,
+        711.805419921875
+      ],
+      "text": "Exposing a cue: what and how \nA key element for any system is to find out which available \nitems relate to a valued memory for someone, and in which \nway these items are best presented. Finding out about \nperceived value (whether of an item-as-cue or a related \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        316.79998779296875,
+        61.55256652832031,
+        560.609619140625,
+        164.3654327392578
+      ],
+      "text": "memory) could be done in advance through explicit inquiry, \nor retrospectively through feedback. One issue for automated \ngathering of such knowledge is that meaning of an item is \nidiosyncratic and perhaps ambivalent, as our findings \nindicate. While (for example) number of interactions may be \na telling signifier (e.g., how often a song was played), a \nsystem may not know why. Previous work has sidestepped \nthis issue by considering random viewing as a way of \nachieving serendipity [e.g., 9, 14]. \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        316.7998962402344,
+        170.99256896972656,
+        560.58984375,
+        308.36541748046875
+      ],
+      "text": "Next comes the question of which form this exposure should \ntake. While our data suggests a related memory is a stronger \nindicator of appreciation than the cueing itself, our findings \nleave room for exploration of this cueing manifestation. \nRemembering through action is worthwhile for further \ninvestigation. We imagine interactions can be leveraged not \njust as means to access content, but also be conducive to \nreminiscing. If a device is aware of reminiscence-prone \nactivities, there may be opportunities to reminisce on earlier \nevents through stimulation of activities. Relating to positive \nmemories could stimulate similar experiences, as seen with \nthe jogging example. \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        316.7997131347656,
+        314.9925842285156,
+        560.5592041015625,
+        498.4454345703125
+      ],
+      "text": "People expressed no need to consider the past all the time. \nPotential overexposure is important to consider for \ninteractive devices as digital devices enable us to frequently \nencounter many mementos: we can quickly retrieve any old \nitem, whenever we want, which may change how we develop \nrelations with these mementos [29]. It is a contrast with the \nnormally hidden shoeboxes of old, and explorations building \non this theme [e.g., 11]. Frequent interaction with the past \ncan have adverse effects, both for painful memories and the \ninability to move on with one’s life, as pointed out by two \nparticipants familiar with depression. There is equal value in \nforgetting as part of a healthy memory system, and \nindiscriminate invocation of unpleasant memories can \nadversely affect people’s wellbeing [3]. Still, we believe that \nwhen done right, designs can engage with the process of \nreflecting on meaningful events of the past [e.g., 21]. \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        316.7997131347656,
+        505.0835876464844,
+        560.6349487304688,
+        698.8453979492188
+      ],
+      "text": "Process of becoming meaningful as a cue \nCan meaning be designed for or cultivated through design? \nThis is a design challenge we seek to contribute to. The study \npresented in this paper was concerned with existing items \nthat had the ability to bring back memories without being \ndesigned explicitly for that goal. Based on our findings we \nnote that memories and meaning do not form a \nstraightforward relationship with an item. This sometimes \ntangential relationship can be idiosyncratic [27]. For \nexample, the scarf discussed earlier symbolizes a lost \nfriendship, but this symbol could have been another item. We \nspeculate everything might be able to become a memory cue \ndepending on how people relate to it, but some designs may \nbe better suited to bring back memories. The scarf’s \nhandmade materiality may be such a design element that \nsignifies emotional investment, a quality harder to replicate \nin digital media. Therefore, especially for digital devices that \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        306.0,
+        36.21479415893555,
+        308.73553466796875,
+        47.20607376098633
+      ],
+      "text": " \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        54.0,
+        61.55256652832031,
+        297.6011047363281,
+        83.96546936035156
+      ],
+      "text": "could cue memories, we believe a very relevant question is \nhow it can be designed to become meaningful. \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        54.0,
+        90.59254455566406,
+        297.7889404296875,
+        296.8454284667969
+      ],
+      "text": "The notion that meaning develops over time is interesting to \ninvestigate in future designs, and echoes similar findings by \nPetrelli et al. [27]. Repeated exposure and engagement with \npotential memory cues seems important, and such investment \nof time hampers digital cues to pick up meaning. Compared \nto physical cues, digital ones get comparatively less exposure \nin everyday life, if going by our results (although Schwarz \npoints at a different trend [29]). If repetition is key to accrue \nmeaning, designs could explore ways in which meaning \ndevelops and grows over time (e.g., through repeated \nexposure). If indeed how people come to relate to something \nis more relevant than what the thing is, we should consider \nhow we could foster a relationship between a personal \nmemory and a cue. Designing for this process and facilitation \nof reminiscing and reflective thought appears a veritable \ndirection of inquiry. This is different from designing an item \nto be able to cue an autobiographical memory, and rather \nmay use items to facilitate the process. \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        54.00001907348633,
+        303.4725646972656,
+        297.7928161621094,
+        406.5254211425781
+      ],
+      "text": "Whether such accrual of meaning is deliberately sought via \ninteractions with someone (e.g., by repeated exposure) or, as \nper the opposite, that increasing meaning is derived from \nusage data (e.g., how often an item is revisited), is a design \ndecision to be made. It relates to the other dimensions by \nfocusing on what could become valuable if given time. As an \nexample, our findings suggest items that relate to social \nconnections would be likely to become regarded as valuable, \nif this connection is indeed seen as such. \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        54.00001907348633,
+        412.7747802734375,
+        297.8056945800781,
+        539.0054321289062
+      ],
+      "text": "Limits to what technology could accomplish \nThe aforementioned dimensions all require trade-offs to be \nmade considering the desirability of involuntary cueing from \na user’s perspective. For example, obtrusiveness of cueing \nrelates to insensitive timing and/or misjudging exposure to a \ncue for an undesired memory. Whether a system can be \nsuccessful depends on how well it is able to understand the \ncontext of its use and how well it adapts to such knowledge. \nThe challenge is to judge this desirability within the means of \ntechnology, and handle the cases where it cannot adequately \nknow in an appropriate manner. \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        54.00001907348633,
+        545.632568359375,
+        297.77911376953125,
+        717.3253784179688
+      ],
+      "text": "Getting the necessary understanding may depend on machine \nlearning algorithms that may or may not be sufficiently \ncapable to do so given hard to measure data such as personal \nattachment to an item or openness to consider one’s past. The \nlatter issue implies a fully involuntarily experienced system \nmay be imperfect, and a balance with some voluntary \ninteractions could serve people’s needs better (e.g., using \nretrospectively marking of certain cues as desired or not). \nFurthermore, there are aspects that are hard to prepare for \nwith a technological system, as shown in earlier work on \ninheritance of digital data [e.g., 13, 22]. However, the ways \nimperfect moments play out are malleable. We believe \ndesigners should acknowledge the limitations of technology \nby not relying extensively on it and rather opt for a dialogue, \nsimilar to how physical items, their meaning, and visible (dis) \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        316.79998779296875,
+        61.55256652832031,
+        560.5142822265625,
+        83.96546936035156
+      ],
+      "text": "placement form a dialogue with their owner through \nmanipulation of place (e.g., hiding things). \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        316.7998962402344,
+        90.6036148071289,
+        560.5741577148438,
+        272.84539794921875
+      ],
+      "text": "Reflections on HCI research for remembering \nHaving made the argument that meaningful connections \nbetween items, the self and memories are forged over time, \nthis has implications for design research. Careful study of \ndesigned interventions should consider the effects of repeated \nuser engagement, and would therefore benefit from \nlongitudinal evaluation. Most of the design examples \ndiscussed in this text were studied for a limited period of time \n(as are many not discussed here), perhaps falling short of the \ntime necessary to become related to at a deeper level. \nBecause passage of time may alter our perspective on earlier \nevents, remembering experiences after two years can yield \ndifferent insights from doing so after one month, the former \ncloser to a real life use case. An emphasis on longitudinal \nevaluation can thus provide necessary insight on designing \nfor remembering support. \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        316.7998046875,
+        279.48358154296875,
+        560.55810546875,
+        415.6454162597656
+      ],
+      "text": "CONCLUSIONS \nWe believe understanding what makes people remember \ntheir past and how this colors their experience is important to \ninform designs that aim to support everyday remembering. \nOur work contributes to the literature by integrating diary \nself-reports with follow-up interviews to further our \nunderstanding about the relation between involuntary \nmemories and the things that cue such memories, and how \npeople relate to particularly meaningful items. The findings \nillustrate memory cueing happens everywhere: meaningful \ncues are not limited to the home, nor should its study be \nlimited to that environment. \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        316.7997131347656,
+        422.2725830078125,
+        560.6024780273438,
+        571.1654052734375
+      ],
+      "text": "Repeated encounters in daily life, in which the item may be \ntangential to the task at hand, provide opportunities for items \nto take on meaning. Such practices do not easily extend to \ndigital items, although nowadays many potential cues are \ndigital. While physical items can be put on display or used \nfor common tasks (e.g., inherited cutlery), we believe this \nproves a challenge for digital items to be used for everyday \nremembering as these are often not encountered on a regular \nbasis (or serendipitously for that matter). Even though easy \ncapture of media for future recall seems a problem solved – \ntoo well perhaps [29, 30] – our work addressed how these \nitems are currently encountered and can be used as support \nfor reminiscing and wellbeing. \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        316.7997131347656,
+        577.7925415039062,
+        560.58984375,
+        692.1254272460938
+      ],
+      "text": "Considering our insights we can now state what we believe to \nbe effective practices for interaction design to support \neveryday remembering. Integrating with common activities \nthat stimulate the mind to wander provide opportunities for \nreminiscing through design; involuntary cueing can lead to \nsurprise revisiting of memories, including undesired ones. \nDesigns should allow for some control over (non) exposure \nto certain cues. Meaningful connections grow over time: \ndesigns can support this process. Evaluation of HCI designs \nfor remembering can benefit from a longitudinal focus. \n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        306.0,
+        36.21479415893555,
+        308.73553466796875,
+        47.20607376098633
+      ],
+      "text": " \n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        54.0,
+        61.563575744628906,
+        297.7347717285156,
+        140.3654327392578
+      ],
+      "text": "ACKNOWLEDGEMENTS \nWe would like to thank all participants for their time and \ncontributions. This study was approved by the UTS Ethics \nCommittee (#2012000570), and supported by STW VIDI \ngrant number 016.128.303 of The Netherlands Organization \nfor Scientific Research (NWO) and a UTS PhD Scholarship, \nboth awarded to Elise van den Hoven.  \n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        54.00001907348633,
+        147.00357055664062,
+        276.9260559082031,
+        168.20545959472656
+      ],
+      "text": "REFERENCES \n1. Aipperspach, R., Hooker, B., and Woodruff, A. Data \n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        54.00001907348633,
+        168.83253479003906,
+        276.1486511230469,
+        214.04542541503906
+      ],
+      "text": "Souvenirs: Environmental psychology and reflective \ndesign. International Journal of Human-Computer \nStudies 69, 5 (2011), 338–349. \n2. Bakker, S., Hoven, E., van den, and Eggen, J.H. \n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        54.00001907348633,
+        214.6725616455078,
+        293.2254333496094,
+        248.6054229736328
+      ],
+      "text": "Peripheral interaction: characteristics and considerations. \nPersonal and Ubiquitous Comp, (2014). \n3. Bannon, L.J. Forgetting as a feature, not a bug: the \n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        54.00001907348633,
+        249.23255920410156,
+        283.0208435058594,
+        283.1654357910156
+      ],
+      "text": "duality of memory and implications for ubiquitous \ncomputing. CoDesign 2, 1 (2006), 3–15. \n4. Berntsen, D. Involuntary Autobiographical Memories. \n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        54.00001907348633,
+        283.7925720214844,
+        273.7644958496094,
+        306.2054138183594
+      ],
+      "text": "Cambridge University Press, 2009. \n5. Braun, V. and Clarke, V. Using thematic analysis in \n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        54.00001907348633,
+        306.83258056640625,
+        292.1997375488281,
+        329.00543212890625
+      ],
+      "text": "psychology. Qual. Research in Psy 3, 2 (2006), 77–101. \n6. Bryant, F.B., Smart, C.M., and King, S.P. Using the Past \n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        54.00001907348633,
+        329.632568359375,
+        279.5926513671875,
+        375.0854187011719
+      ],
+      "text": "to Enhance the Present: Boosting Happiness Through \nPositive Reminiscence. Happiness Studies 6, (2005), \n227–260. \n7. Carter, S. and Mankoff, J. When participants do the \n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        54.00001907348633,
+        375.71258544921875,
+        278.5643005371094,
+        409.6454162597656
+      ],
+      "text": "capturing. In Proc. CHI '05, ACM Press (2005), 899–\n908. \n8. Conway, M.A. and Pleydell-Pearce, C.W. The \n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        54.00001907348633,
+        410.2725830078125,
+        279.9996337890625,
+        455.7254333496094
+      ],
+      "text": "construction of autobiographical memories in the self-\nmemory system. Psychological review 107, 2 (2000), \n261–287. \n9. Cosley, D., Sosik, V.S., Schultz, J., et al. Experiences \n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        54.00001907348633,
+        456.1125793457031,
+        273.99249267578125,
+        490.0454406738281
+      ],
+      "text": "With Designing Tools for Everyday Reminiscing. \nHuman–Computer Interaction 27, (2012), 175–198. \n10. Csikszentmihalyi, M. and Rochberg-Halton, E. The \n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        54.00001907348633,
+        490.6725769042969,
+        295.1445007324219,
+        513.08544921875
+      ],
+      "text": "Meaning of Things. Cambridge University Press, 1981. \n11. Frohlich, D. and Murphy, R. The Memory Box. Personal \n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        54.00001907348633,
+        513.7125244140625,
+        290.7223205566406,
+        536.1254272460938
+      ],
+      "text": "and Ubiquitous Comp 4, 4 (2000), 238–240. \n12. Golsteijn, C. and Hoven, E., van den. Facilitating parent-\n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        54.00001907348633,
+        536.7525634765625,
+        295.1792297363281,
+        582.2054443359375
+      ],
+      "text": "teenager communication through interactive photo cubes. \nPersonal and Ubiquitous Computing 17, 2 (2013), 273–\n286. \n13. Gulotta, R., Odom, W., Forlizzi, J., and Faste, H. Digital \n",
+      "type": 0
+    },
+    {
+      "id": 15,
+      "bbox": [
+        54.00001907348633,
+        582.592529296875,
+        290.1072998046875,
+        628.04541015625
+      ],
+      "text": "artifacts as legacy: exploring the lifespan and value of \ndigital data. In Proc. CHI '13, ACM Press (2013), 1813–\n1822. \n14. Helmes, J., O'Hara, K., Vilar, N., and Taylor, A.S. \n",
+      "type": 0
+    },
+    {
+      "id": 16,
+      "bbox": [
+        54.00001907348633,
+        628.6725463867188,
+        294.9971618652344,
+        674.1254272460938
+      ],
+      "text": "Meerkat and tuba: design alternatives for randomness, \nsurprise and serendipity in reminiscing. In Proc. \nINTERACT'11, Springer-Verlag (2011), 376–391. \n15. Hoven, E., van den and Eggen, B. The cue is key: Design \n",
+      "type": 0
+    },
+    {
+      "id": 17,
+      "bbox": [
+        54.00001907348633,
+        674.7525634765625,
+        278.697509765625,
+        708.6854248046875
+      ],
+      "text": "for real-life remembering. Zeitschrift für Psychologie \n222, 2 (2014), 110–117. \n16. Hoven, E., van den and Eggen, J.H. The effect of cue \n",
+      "type": 0
+    },
+    {
+      "id": 18,
+      "bbox": [
+        316.79998779296875,
+        61.55256652832031,
+        551.4266967773438,
+        95.48542785644531
+      ],
+      "text": "media on recollections. Human Technology 5, 1 (2009), \n47–67. \n17. Hoven, E., van den, Sas, C., and Whittaker, S. \n",
+      "type": 0
+    },
+    {
+      "id": 19,
+      "bbox": [
+        316.79998779296875,
+        96.11256408691406,
+        547.1773071289062,
+        141.32545471191406
+      ],
+      "text": "Introduction to this Special Issue on Designing for \nPersonal Memories: Past, Present, and Future. Human–\nComputer Interaction 27, 1-2 (2012), 1–12. \n18. Isaacs, E., Konrad, A., Walendowski, A., et al. Echoes \n",
+      "type": 0
+    },
+    {
+      "id": 20,
+      "bbox": [
+        316.79998779296875,
+        141.95252990722656,
+        558.4594116210938,
+        187.4054718017578
+      ],
+      "text": "from the past: how technology mediated reflection \nimproves well-being. In Proc. CHI '13, ACM (2013), \n1071–1080. \n19. Kalnikaite, V. and Whittaker, S. A saunter down memory \n",
+      "type": 0
+    },
+    {
+      "id": 21,
+      "bbox": [
+        316.7998962402344,
+        188.0325469970703,
+        553.9747314453125,
+        233.4854278564453
+      ],
+      "text": "lane: Digital reflection on personal mementos. \nInternational Journal of Human-Computer Studies 69, 5 \n(2011), 298–310. \n20. Kirk, D.S. and Sellen, A.J. On human remains: Values \n",
+      "type": 0
+    },
+    {
+      "id": 22,
+      "bbox": [
+        316.7998962402344,
+        234.11256408691406,
+        551.3215942382812,
+        268.04541015625
+      ],
+      "text": "and practice in the home archiving of cherished objects. \nACM TOCHI 17, 3, Article 10 (2010), 43 pages. \n21. Massimi, M. and Baecker, R.M. A death in the family: \n",
+      "type": 0
+    },
+    {
+      "id": 23,
+      "bbox": [
+        316.7998962402344,
+        268.4325866699219,
+        558.963134765625,
+        302.36541748046875
+      ],
+      "text": "opportunities for designing technologies for the bereaved. \nIn Proc. CHI '10, ACM (2010), 1821–1830. \n22. Moncur, W. and Kirk, D.S. An emergent framework for \n",
+      "type": 0
+    },
+    {
+      "id": 24,
+      "bbox": [
+        316.7998962402344,
+        302.9925842285156,
+        553.9476928710938,
+        336.9254150390625
+      ],
+      "text": "digital memorials. In Proc. DIS '14, ACM Press (2014), \n965–974. \n23. O'Hara, K., Helmes, J., Sellen, A.J., et al. Food for Talk: \n",
+      "type": 0
+    },
+    {
+      "id": 25,
+      "bbox": [
+        316.7998046875,
+        337.5525817871094,
+        552.9390258789062,
+        371.48541259765625
+      ],
+      "text": "Phototalk in the Context of Sharing a Meal. Human–\nComputer Interaction 27, 1 (2012). \n24. Obrist, M., Tuch, A.N., and Hornbaek, K. Opportunities \n",
+      "type": 0
+    },
+    {
+      "id": 26,
+      "bbox": [
+        316.7998046875,
+        372.1125793457031,
+        552.8338012695312,
+        417.325439453125
+      ],
+      "text": "for odor: experiences with smell and implications for \ntechnology. In Proc. CHI '14, ACM Press (2014), 2843–\n2852. \n25. Petrelli, D. and Whittaker, S. Family memories in the \n",
+      "type": 0
+    },
+    {
+      "id": 27,
+      "bbox": [
+        316.7997131347656,
+        417.95257568359375,
+        549.463134765625,
+        451.88543701171875
+      ],
+      "text": "home: contrasting physical and digital mementos. \nPersonal and Ubiquitous Comp 14, 2 (2010), 153–169. \n26. Petrelli, D., Hoven, E., van den, and Whittaker, S. \n",
+      "type": 0
+    },
+    {
+      "id": 28,
+      "bbox": [
+        316.7998046875,
+        452.5125732421875,
+        550.9828491210938,
+        486.4454345703125
+      ],
+      "text": "Making history: intentional capture of future memories. \nIn Proc. CHI '09, ACM Press (2009), 1723–1732. \n27. Petrelli, D., Whittaker, S., and Brockmeier, J. \n",
+      "type": 0
+    },
+    {
+      "id": 29,
+      "bbox": [
+        316.7997131347656,
+        487.07257080078125,
+        559.7403564453125,
+        532.5254516601562
+      ],
+      "text": "AutoTopography: what can physical mementos tell us \nabout digital memories? In Proc. CHI '08, ACM (2008), \n53–62. \n28. Schlagman, S., Kvavilashvili, L., and Schulz, J. Effects of \n",
+      "type": 0
+    },
+    {
+      "id": 30,
+      "bbox": [
+        316.7997131347656,
+        532.9125366210938,
+        559.4805297851562,
+        578.3654174804688
+      ],
+      "text": "age on involuntary autobiographical memories. In J.H. \nMace, ed., Involuntary Memory. Blackwell, Malden, MA, \n2007, 87–112. \n29. Schwarz, O. The past next door: Neighbourly relations \n",
+      "type": 0
+    },
+    {
+      "id": 31,
+      "bbox": [
+        316.7998046875,
+        578.9925537109375,
+        550.5300903320312,
+        612.9254150390625
+      ],
+      "text": "with digital memory-artefacts. Memory Studies 7, 1 \n(2014), 7–21. \n30. Sellen, A.J. and Whittaker, S. Beyond Total Capture: A \n",
+      "type": 0
+    },
+    {
+      "id": 32,
+      "bbox": [
+        316.7997131347656,
+        613.5525512695312,
+        557.8930053710938,
+        647.4854125976562
+      ],
+      "text": "Constructive Critique of Lifelogging. Communications of \nthe ACM 53, (2010), 70–77. \n31. van Dijck, J. Mediated Memories in the Digital Age. \n",
+      "type": 0
+    },
+    {
+      "id": 33,
+      "bbox": [
+        316.7997131347656,
+        648.112548828125,
+        541.3003540039062,
+        670.2854614257812
+      ],
+      "text": "Stanford University Press, 2007. \n32. Whittaker, S., Kalnikaite, V., Petrelli, D., et al. Socio-\n",
+      "type": 0
+    },
+    {
+      "id": 34,
+      "bbox": [
+        330.99969482421875,
+        670.9125366210938,
+        554.7728271484375,
+        704.8453979492188
+      ],
+      "text": "Technical Lifelogging: Deriving Design Principles for a \nFuture Proof Digital Past. Human–Computer Interaction \n27, (2012), 37–62. \n",
+      "type": 0
+    },
+    {
+      "id": 35,
+      "bbox": [
+        53.99977111816406,
+        708.9292602539062,
+        54.47977066040039,
+        711.0546875
+      ],
+      "text": " \n",
+      "type": 0
+    }
+  ]
+]

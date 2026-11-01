@@ -11,7 +11,7 @@ __pycache__/
 /tmp/
 /private-materials/
 
-# Local literature source cache; traceable metadata and original URLs remain tracked.
+# Literature metadata and user-requested full-text archive.
 /literature/sources/*
 !/literature/sources/crossref/
 /literature/data/records.jsonl
@@ -32,3 +32,9 @@ __pycache__/
 
 # Literature-based diagram for section 2.1.
 !/outputs/chapter2-1/
+
+# 2026-11-01: sync local literature and completed / working research artifacts.
+!/literature/sources/fulltext/
+!/literature/sources/fulltext/**
+!/outputs/
+!/outputs/**

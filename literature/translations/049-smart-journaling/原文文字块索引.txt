@@ -1,0 +1,1043 @@
+P0 B0 (45.6, 70.5, 178.8, 79.5): S P E C I A L I S S U E A R T I C L E 
+P0 B1 (45.6, 110.2, 535.6, 151.2): Autobiographical memory in the digital age: Insights based on the subjective reports of users of smart journaling apps 
+P0 B2 (45.6, 177.0, 362.4, 189.0): Fabian Hutmacher | Linus Schläger | Rinat Meerson 
+P0 B3 (45.6, 215.1, 184.5, 232.1): Human-Computer-Media Institute, University of Würzburg, Würzburg, Germany 
+P0 B4 (45.6, 245.1, 182.3, 292.1): Correspondence Fabian Hutmacher, Human-Computer-Media Institute, University of Würzburg, Oswald- Külpe-Weg 82, 97074 Würzburg, Germany. Email: fabian.
+P0 B5 (210.2, 222.2, 247.7, 232.2): Abstract 
+P0 B6 (210.2, 238.0, 542.6, 247.0): Humans have long used external memory aids to support remembering. However, 
+P0 B7 (210.2, 253.0, 542.6, 262.0): modern digital technologies could facilitate recording and remembering personal 
+P0 B8 (210.2, 268.0, 542.6, 277.0): information in an unprecedented manner. The present research sought to understand 
+P0 B9 (210.2, 283.0, 542.6, 292.0): the potential impact of these technologies on autobiographical memory based on 
+P0 B10 (210.2, 298.0, 542.6, 307.0): interviews with users of smart journaling apps. In Study 1 (N = 12), participants who 
+P0 B11 (210.2, 313.0, 542.6, 322.0): had no prior experience with smart journaling apps tested the app Day One for 
+P0 B12 (210.2, 328.0, 542.6, 337.0): 2 weeks and were interviewed about their subjective perceptions afterwards. In 
+P0 B13 (210.2, 343.0, 542.7, 352.0): order to cross-validate the obtained findings, Study 2 (N = 4) was based on in-depth 
+P0 B14 (210.2, 358.0, 542.6, 367.0): interviews with long-time users of different smart journaling apps. Taken together, 
+P0 B15 (210.2, 373.0, 542.6, 382.0): the two studies provide insights into the way autobiographical remembering may 
+P0 B16 (210.2, 388.0, 542.6, 397.0): change in the digital age – but also into the opportunities and risks potentially associ- 
+P0 B17 (210.2, 403.0, 542.6, 412.0): ated with the use of technologies that allow creating a detailed and multimedia-based 
+P0 B18 (210.2, 418.0, 285.0, 427.0): record of one's life. 
+P0 B19 (210.2, 443.6, 478.1, 462.8): K E Y W O R D S autobiographical memory, digital age, new media, smart journaling, total recall 
+P0 B20 (45.6, 492.9, 165.2, 502.9): 1 | INTRODUCTION 
+P0 B21 (45.6, 520.5, 288.5, 528.5): For thousands of years, humans have used external memory aids to 
+P0 B22 (45.6, 533.5, 288.4, 541.5): support remembering, ranging from cave paintings and oral traditions 
+P0 B23 (45.6, 546.5, 288.4, 554.5): to archives, calendars, and printed books (cf. Finley et al., 2018). The 
+P0 B24 (45.6, 559.6, 288.5, 567.6): reason for this is straightforward: While internal memories are pre- 
+P0 B25 (45.6, 572.5, 288.4, 580.5): served in biological neural networks, external memories have far less 
+P0 B26 (45.6, 585.5, 288.4, 593.5): limitations in terms of format and flexibility and greatly surpass the 
+P0 B27 (45.6, 598.6, 288.4, 606.6): storage capacity of internal memories (Donald, 1991; Heersmink & 
+P0 B28 (45.6, 611.5, 288.5, 619.5): Carter, 2020). It has already been speculated more than half a century 
+P0 B29 (45.6, 624.5, 288.5, 632.5): ago that modern (computer) technologies could facilitate recording and 
+P0 B30 (45.6, 637.6, 288.4, 645.6): remembering personal information in an unprecedented manner. In his 
+P0 B31 (45.6, 650.5, 288.5, 658.6): famous “memex” vision, Vannevar Bush (1945) imagined a desk-like 
+P0 B32 (45.6, 663.5, 288.4, 671.5): device that would enable individuals to store and retrieve diverse sorts 
+P0 B33 (45.6, 676.5, 288.4, 684.5): of information ranging from books and newspapers to one's personal 
+P0 B34 (45.6, 689.5, 288.4, 697.5): communication in an associative manner. Since then, the development 
+P0 B35 (306.9, 494.5, 549.7, 502.5): and proliferation of mobile, digital technologies have in fact made docu- 
+P0 B36 (306.9, 507.5, 549.7, 515.5): menting one's lived life extremely easy and convenient. It is not only 
+P0 B37 (306.9, 520.5, 549.7, 528.5): possible to store great amounts of personal information in one place 
+P0 B38 (306.9, 533.5, 549.7, 541.5): (Heersmink & Carter, 2020; Kalnikaite & Whittaker, 2012), but also to 
+P0 B39 (306.9, 546.5, 549.6, 554.5): combine different media sources and to organize the data (Konrad 
+P0 B40 (306.9, 559.6, 549.6, 567.6): et al., 2016). Furthermore, digital technologies enable users to search 
+P0 B41 (306.9, 572.5, 549.7, 580.5): through large databases, to analyze the information, and to share it with 
+P0 B42 (306.9, 585.5, 549.7, 593.5): others (cf. Clowes, 2013; Eliseev & Marsh, 2021). Taken together, this 
+P0 B43 (306.9, 598.6, 549.6, 606.6): has lent the Bushian vision new credibility. In their book Total Recall, 
+P0 B44 (306.9, 611.5, 549.6, 619.5): the two Microsoft researchers Gordon Bell and Jim Gemmell (2009) 
+P0 B45 (306.9, 624.5, 549.7, 632.5): have argued, for instance, that digital technologies will help us to store 
+P0 B46 (306.9, 637.6, 549.7, 645.6): and to remember everything we feel and experience. However, is it 
+P0 B47 (306.9, 650.5, 549.7, 658.6): desirable to remember everything? In other words, is “total recall” rather 
+P0 B48 (306.9, 663.5, 414.1, 671.5): a utopian or a dystopian vision? 
+P0 B49 (321.8, 676.5, 549.7, 684.5): Those who believe that total recall is desirable argue that it would 
+P0 B50 (306.9, 689.5, 549.7, 697.5): enable us to compensate the weaknesses of human memory. While 
+P0 B51 (45.6, 30.9, 320.7, 37.9): Received: 27 June 2022 Revised: 6 October 2022 Accepted: 15 December 2022 
+P0 B52 (45.6, 44.4, 119.6, 51.4): DOI: 10.1002/acp.4033 
+P0 B53 (45.6, 712.6, 546.5, 739.6): This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduc
+P0 B54 (45.6, 752.7, 549.6, 759.8): 686 Appl Cognit Psychol. 2023;37:686–698. wileyonlinelibrary.com/journal/acp 
+P1 B0 (45.6, 52.5, 288.5, 60.5): human memory can change, fade, and even vanish over time and is 
+P1 B1 (45.6, 65.5, 288.5, 73.5): therefore susceptible to biases and distortions, digital memory 
+P1 B2 (45.6, 78.5, 288.5, 86.5): remains constant and is supposedly characterized by accuracy, com- 
+P1 B3 (45.6, 91.6, 288.4, 99.6): pleteness, and objectivity (Bell & Gemmell, 2009; Burkell, 2016; 
+P1 B4 (45.6, 104.5, 288.4, 112.5): Harvey et al., 2016; see also Schacter, 2001). In addition, the recent 
+P1 B5 (45.6, 117.5, 288.5, 125.5): technological advancements allow the automatic recording of vast 
+P1 B6 (45.6, 130.6, 288.5, 138.6): amounts of data and the integration of a wide range of different 
+P1 B7 (45.6, 143.5, 288.5, 151.5): media, resulting in easily available and searchable digital records 
+P1 B8 (45.6, 156.5, 288.4, 164.5): (Elsden, Durrant, & Kirk, 2016; Heersmink, 2020). Thus, digital technol- 
+P1 B9 (45.6, 169.6, 288.5, 177.6): ogies can augment human memory and help us to reconstruct past 
+P1 B10 (45.6, 182.5, 288.4, 190.5): events with far greater comprehensiveness and detail (Harvey 
+P1 B11 (45.6, 195.5, 288.5, 203.5): et al., 2016; Heersmink, 2020; Loveday & Conway, 2011). As a result, 
+P1 B12 (45.6, 208.5, 288.4, 216.5): narrating one's own experience could become much easier 
+P1 B13 (45.6, 221.5, 288.5, 229.5): (Heersmink & Carter, 2020; see also Crete-Nishihata et al., 2012): 
+P1 B14 (45.6, 234.5, 288.4, 242.5): Whenever we have forgotten something, we could turn to our digital 
+P1 B15 (45.6, 247.5, 288.4, 255.5): memories to fill in the blank spaces. Another important benefit of the 
+P1 B16 (45.6, 260.6, 288.5, 268.6): increased use of external memory aids is the reduction of cognitive load 
+P1 B17 (45.6, 273.5, 288.4, 281.5): (Clark, 2015; Eliseev & Marsh, 2021; Heersmink & Carter, 2020; 
+P1 B18 (45.6, 286.5, 288.5, 294.5): Lynch, 2016; van den Hoven, 2014): When personal data are stored in 
+P1 B19 (45.6, 299.6, 288.6, 307.6): external memory devices, we need to worry less about forgetting 
+P1 B20 (45.6, 312.5, 288.4, 320.5): important information. Ultimately, however, total recall may not only 
+P1 B21 (45.6, 325.5, 288.4, 333.5): counterbalance the weaknesses of human memory but also enhance 
+P1 B22 (45.6, 338.6, 288.5, 346.6): the quality of life in different areas – ranging from working life to physi- 
+P1 B23 (45.6, 351.5, 288.6, 359.5): cal and mental health as well as learning, knowledge acquisition, and 
+P1 B24 (45.6, 364.5, 288.5, 372.5): education (Bell & Gemmell, 2009): The more we know about ourselves, 
+P1 B25 (45.6, 377.5, 286.4, 385.5): the better we are able to understand, adapt, and optimize our behavior. 
+P1 B26 (60.7, 390.5, 288.5, 398.5): Critics of this optimist and utopian perspective counter that total 
+P1 B27 (45.6, 403.5, 288.4, 411.5): recall raises major privacy issues (e.g., data breaches, accidental data 
+P1 B28 (45.6, 416.5, 288.4, 424.5): publications) and leads to a fear of surveillance (Harvey et al., 2016; 
+P1 B29 (45.6, 429.6, 288.5, 437.6): Jacquemard et al., 2014). Moreover, as storage and file formats 
+P1 B30 (45.6, 442.5, 288.5, 450.5): undergo constant changes and may become inaccessible over time, 
+P1 B31 (45.6, 455.5, 288.4, 463.5): the longevity of digital content is not guaranteed (Bell & 
+P1 B32 (45.6, 468.6, 288.5, 476.6): Gemmell, 2009; Petrelli & Whittaker, 2010; van den Hoven 
+P1 B33 (45.6, 481.5, 288.5, 489.5): et al., 2012; van House & Churchill, 2008). In other words, it is ques- 
+P1 B34 (45.6, 494.5, 288.5, 502.5): tioned whether digital memories are as unchangeable and easily avail- 
+P1 B35 (45.6, 507.5, 288.4, 515.5): able as claimed by the proponents of a total recall. Another point of 
+P1 B36 (45.6, 520.5, 288.4, 528.5): criticism that goes beyond mere technological problems is that 
+P1 B37 (45.6, 533.5, 288.5, 541.5): increasing the dependence on external memory records could under- 
+P1 B38 (45.6, 546.5, 288.4, 554.5): mine an individual's autonomy and the formation of a coherent life 
+P1 B39 (45.6, 559.5, 288.4, 567.6): narrative (Burkell, 2016; Heersmink, 2017; Heersmink & 
+P1 B40 (45.6, 572.5, 288.5, 580.5): Carter, 2020). The basic idea behind this argument is that human 
+P1 B41 (45.6, 585.5, 288.4, 593.5): beings develop a narrative identity by telling stories about their lives 
+P1 B42 (45.6, 598.6, 288.4, 606.6): and that these stories may change over time when the circumstances 
+P1 B43 (45.6, 611.5, 288.4, 619.5): of their lives change (e.g., McAdams, 2008). If all experiences are 
+P1 B44 (45.6, 624.5, 288.5, 632.5): stored in an external digital memory system, it could potentially 
+P1 B45 (45.6, 637.6, 288.5, 645.6): become harder to make these kinds of adjustments to one's life story 
+P1 B46 (45.6, 650.5, 288.4, 658.5): as this could lead to inconsistencies between the internally con- 
+P1 B47 (45.6, 663.5, 288.4, 671.5): structed narrative and the recorded data. In this context, it is also 
+P1 B48 (45.6, 676.5, 288.5, 684.5): important to mention the adaptive function of forgetting, which is 
+P1 B49 (45.6, 689.5, 288.4, 697.5): arguably prevented by total recall (Heersmink, 2017; Jacquemard 
+P1 B50 (45.6, 702.5, 288.5, 710.5): et al., 2014; Mayer-Schönberger, 2011). In certain situations, forget- 
+P1 B51 (45.6, 715.5, 288.5, 723.5): ting can be just as important as remembering – especially when peo- 
+P1 B52 (45.6, 728.6, 288.4, 736.6): ple want to leave their pasts behind or when they want to avoid being 
+P1 B53 (306.9, 52.5, 549.6, 60.5): reminded of specific negative experiences (Heersmink & Carter, 2020; 
+P1 B54 (306.9, 65.5, 549.6, 73.5): Koops, 2011; Storm & Soares, in press; van House & Churchill, 2008). 
+P1 B55 (306.9, 78.5, 549.7, 86.5): In sum, these considerations make the vision of a total recall appear 
+P1 B56 (306.9, 91.6, 408.6, 99.6): more dystopian than utopian. 
+P1 B57 (321.8, 104.5, 549.7, 112.5): Crucially, however, it has been argued that the question as to 
+P1 B58 (306.9, 117.5, 549.7, 125.5): whether total recall would be good or bad, utopian or dystopian, mis- 
+P1 B59 (306.9, 130.6, 549.7, 138.6): ses the actual point of the recent technological developments. First, 
+P1 B60 (306.9, 143.5, 549.6, 151.5): because of practical limitations: Capturing virtually everything, that is, 
+P1 B61 (306.9, 156.5, 549.7, 164.5): a complete and exhaustive record of all aspects of one's life including 
+P1 B62 (306.9, 169.6, 549.6, 177.6): one's thoughts and emotions, is not possible (Sellen & 
+P1 B63 (306.9, 182.5, 549.7, 190.5): Whittaker, 2010). Second, the recorded information needs to be 
+P1 B64 (306.9, 195.5, 549.6, 203.5): curated, arranged, and interpreted in order to become meaningful – 
+P1 B65 (306.9, 208.5, 549.6, 216.5): and meaning-making is a specifically human ability that cannot, at 
+P1 B66 (306.9, 221.5, 549.6, 229.5): least not completely, be delegated to an algorithm (Banks, 2011; 
+P1 B67 (306.9, 234.5, 549.7, 242.5): Sellen & Whittaker, 2010; van den Hoven et al., 2012; see also Elsden, 
+P1 B68 (306.9, 247.5, 549.7, 255.5): Durrant, & Kirk, 2016; Elsden, Kirk, & Durrant, 2016). That is, just as 
+P1 B69 (306.9, 260.6, 549.7, 268.6): other external memory aids, digital technologies should not be 
+P1 B70 (306.9, 273.5, 549.6, 281.5): regarded a substitute for biological remembering but as tools that can 
+P1 B71 (306.9, 286.5, 549.6, 294.5): support people's memory and efficient information management 
+P1 B72 (306.9, 299.6, 549.6, 307.6): (Harvey et al., 2016; Kalnikaite & Whittaker, 2012; Sellen & 
+P1 B73 (306.9, 312.5, 549.7, 320.5): Whittaker, 2010). Against this background, it has been argued that 
+P1 B74 (306.9, 325.5, 549.6, 333.5): the developers of digital technologies should not pursue the vision of 
+P1 B75 (306.9, 338.6, 549.7, 346.6): total recall but select more carefully which memory activities require 
+P1 B76 (306.9, 351.5, 549.7, 359.5): assistance (Heersmink, 2018; van den Hoven & Eggen, 2008) and 
+P1 B77 (306.9, 364.5, 549.7, 372.5): focus on so called “situation-specific capture”, that is, a more inten- 
+P1 B78 (306.9, 377.5, 549.6, 385.5): tional logging of rich data in very specific situations (Sellen & 
+P1 B79 (306.9, 390.5, 549.6, 398.6): Whittaker, 2010). In their concept of “situation-specific capture”, 
+P1 B80 (306.9, 403.5, 549.7, 411.5): Sellen and Whittaker (2010) propose to distinguish five memory activ- 
+P1 B81 (306.9, 416.5, 549.6, 424.5): ities that could benefit from digital technologies: recollecting, remi- 
+P1 B82 (306.9, 429.6, 549.6, 437.6): niscing, retrieving, reflecting, and remembering intentions. Recollecting 
+P1 B83 (306.9, 442.5, 549.7, 450.5): refers to remembering past events in the sense that one tries to relive 
+P1 B84 (306.9, 455.5, 549.7, 463.5): these experiences in detail (e.g., thinking about an evening that one 
+P1 B85 (306.9, 468.6, 549.7, 476.6): has spent with friends). Reminiscing means to think back to past expe- 
+P1 B86 (306.9, 481.5, 549.7, 489.5): riences for emotional and sentimental reasons (e.g., looking at a photo 
+P1 B87 (306.9, 494.5, 549.7, 502.5): album to indulge in memories). Retrieving refers to recalling a specific 
+P1 B88 (306.9, 507.5, 549.7, 515.5): piece of information (e.g., looking up the name of a restaurant where 
+P1 B89 (306.9, 520.5, 549.7, 528.5): one has recently had dinner). Reflecting is reviewing past experiences 
+P1 B90 (306.9, 533.5, 549.7, 541.5): from a more abstract perspective (e.g., thinking about the meaning 
+P1 B91 (306.9, 546.5, 549.7, 554.5): and purpose of a past event). Remembering intentions is future- 
+P1 B92 (306.9, 559.5, 549.7, 567.5): oriented and involves remembering intentions and plans for future 
+P1 B93 (306.9, 572.5, 549.6, 580.5): actions (e.g., remembering to show up for a doctor's appointment). 
+P1 B94 (306.9, 585.5, 549.7, 593.5): While recollecting, reminiscing, and reflecting seem to be memory 
+P1 B95 (306.9, 598.6, 549.7, 606.6): activities that are directly concerned with episodic and autobiographi- 
+P1 B96 (306.9, 611.5, 549.7, 619.5): cal memories, retrieving a specific piece of information clearly refers to 
+P1 B97 (306.9, 624.5, 549.6, 632.5): a memory activity that is connected to semantic memory (for the dis- 
+P1 B98 (306.9, 637.6, 549.6, 645.6): tinction between these types of memory, see, e.g., Fivush, 2011; 
+P1 B99 (306.9, 650.5, 549.6, 658.5): Squire, 2004; Tulving, 1972). Moreover, remembering intentions is a 
+P1 B100 (306.9, 663.5, 549.6, 671.5): paradigmatic instantiation of prospective memory (cf. McDaniel & 
+P1 B101 (306.9, 676.5, 549.6, 684.5): Einstein, 2007). In other words, the memory activities proposed by 
+P1 B102 (306.9, 689.5, 549.7, 697.5): Sellen and Whittaker (2010) seem to be in line with established psy- 
+P1 B103 (306.9, 702.5, 544.8, 710.5): chological theories of human memory (see also Finley & Naaz, 2022). 
+P1 B104 (321.8, 715.5, 549.7, 723.5): One way of investigating how these and related activities that 
+P1 B105 (306.9, 728.6, 549.7, 736.6): play a role in (autobiographical) remembering change in the digital age 
+P1 B106 (45.6, 23.6, 549.6, 30.6): HUTMACHER ET AL. 687 
+P1 B107 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P2 B0 (45.6, 52.5, 288.4, 60.5): is to analyze smart journaling practices. Smart journaling apps are as 
+P2 B1 (45.6, 65.5, 288.5, 73.5): close to the “Bushian” future of autobiographical remembering as 
+P2 B2 (45.6, 78.5, 288.5, 86.5): possible for several reasons (cf. Elsden, Durrant, & Kirk, 2016; Harvey 
+P2 B3 (45.6, 91.6, 288.5, 99.6): et al., 2016). First, they allow storing and integrating information from 
+P2 B4 (45.6, 104.5, 288.4, 112.5): multiple sources—ranging from written text, photos, videos, and 
+P2 B5 (45.6, 117.5, 288.4, 125.5): audios to social media posts and weather and location information. 
+P2 B6 (45.6, 130.6, 288.4, 138.6): Second, the information can typically be organized, searched, and fil- 
+P2 B7 (45.6, 143.5, 288.4, 151.5): tered, allowing creative ways of interacting with the content that tra- 
+P2 B8 (45.6, 156.5, 288.5, 164.5): ditional journals do not offer. Finally, many smart journaling apps 
+P2 B9 (45.6, 169.6, 288.4, 177.6): encourage their users to engage with past entries, for example by 
+P2 B10 (45.6, 182.5, 288.5, 190.5): reminding them what happened on the same day a year ago. Although 
+P2 B11 (45.6, 195.5, 288.5, 203.5): smart journaling apps have become more widely used in recent years, 
+P2 B12 (45.6, 208.5, 288.5, 216.5): only very few studies have addressed their impact from a scientific 
+P2 B13 (45.6, 221.5, 288.4, 229.5): point of view (e.g., Elsden, Durrant, & Kirk, 2016; Harvey et al., 2016; 
+P2 B14 (45.6, 231.0, 288.4, 242.5): see also Schueller et al., 2021).1 Even more importantly, to the best of 
+P2 B15 (45.6, 247.5, 288.4, 255.5): our knowledge, there is no previous study explicitly dedicated to 
+P2 B16 (45.6, 260.6, 288.4, 268.6): investigating the effects of smart journaling apps on the above- 
+P2 B17 (45.6, 273.5, 288.4, 281.5): mentioned memory activities. Hence, the present research had two 
+P2 B18 (45.6, 286.5, 288.4, 294.5): main goals: First, we wanted to understand the ways in which the use 
+P2 B19 (45.6, 299.6, 288.5, 307.6): of a smart journaling app affects memory and processes of remember- 
+P2 B20 (45.6, 312.5, 288.4, 320.5): ing from the users' subjective point of view. That is, our focus was on 
+P2 B21 (45.6, 325.5, 288.5, 333.5): understanding how smart journaling apps influence the users' percep- 
+P2 B22 (45.6, 338.6, 288.5, 346.6): tions of their own experiences and the self-assessments of their own 
+P2 B23 (45.6, 351.5, 288.4, 359.5): memories, rather than measuring or quantifying potential effects on 
+P2 B24 (45.6, 364.5, 288.5, 372.5): the amount of retained information. Second, we wanted to provide a 
+P2 B25 (45.6, 377.5, 288.4, 385.5): comprehensive overview of the opportunities and risks potentially 
+P2 B26 (45.6, 390.5, 288.5, 398.5): associated with the continued use of a technology that allows creating 
+P2 B27 (45.6, 403.5, 288.5, 411.5): a multimedia-based, rich, and detailed record of one's life. To this end, 
+P2 B28 (45.6, 416.5, 288.4, 424.5): we conducted two studies. In Study 1, participants who had no prior 
+P2 B29 (45.6, 429.5, 288.4, 437.5): experience with smart journaling apps tested the app Day One for 
+P2 B30 (45.6, 442.5, 288.5, 450.5): 2 weeks and were interviewed afterwards. We chose the app Day 
+P2 B31 (45.6, 455.5, 288.5, 463.5): One because of its widespread use and great range of functions 
+P2 B32 (45.6, 468.6, 288.5, 476.6): (cf. Manjoo, 2019). As the participants in Study 1 had no prior experi- 
+P2 B33 (45.6, 481.5, 288.5, 489.5): ence with smart journaling apps, they shared the same starting condi- 
+P2 B34 (45.6, 494.5, 288.4, 502.5): tions, allowing standardization and ensuring that results can easily be 
+P2 B35 (45.6, 507.5, 288.4, 515.5): compared across participants. However, a two-week test phase can 
+P2 B36 (45.6, 520.5, 288.4, 528.5): be considered too short to draw definitive conclusions about the per- 
+P2 B37 (45.6, 533.5, 288.4, 541.5): ceived long-term effects of using smart journaling apps. In order to 
+P2 B38 (45.6, 546.5, 288.5, 554.5): cross-validate the obtained findings, Study 2 was therefore based on 
+P2 B39 (45.6, 559.5, 288.5, 567.5): in-depth interviews with long-time users of different smart journaling 
+P2 B40 (45.6, 572.5, 288.5, 580.5): apps. Taken together, these two studies provide several important 
+P2 B41 (45.6, 585.5, 257.5, 593.5): insights regarding autobiographical memory in the digital age. 
+P2 B42 (45.6, 622.9, 123.4, 632.9): 2 | STUDY 1 
+P2 B43 (45.6, 648.9, 125.2, 658.9): 2.1 | Methods 
+P2 B44 (45.6, 674.9, 145.0, 684.9): 2.1.1 | Participants 
+P2 B45 (45.6, 702.5, 288.4, 710.5): In total, 12 participants were interviewed (19–27 years, M = 21.50, 
+P2 B46 (45.6, 715.5, 288.5, 723.5): SD = 2.32, 8 female, 4 male). The sample size was based on the idea 
+P2 B47 (45.6, 728.6, 288.4, 736.6): of data saturation, that is, on the idea that data collection in 
+P2 B48 (306.9, 52.5, 549.7, 60.5): qualitative research should be continued until adding further cases 
+P2 B49 (306.9, 65.5, 549.6, 73.5): does not lead to new insights (Boddy, 2016). As previous research has 
+P2 B50 (306.9, 78.5, 549.7, 86.5): indicated that data saturation typically becomes evident somewhere 
+P2 B51 (306.9, 91.6, 549.7, 99.6): between 6 and 12 cases (Guest et al., 2006), although smaller or larger 
+P2 B52 (306.9, 104.5, 549.7, 112.5): samples may be appropriate under certain circumstances, we decided 
+P2 B53 (306.9, 117.5, 549.7, 125.5): to recruit eight participants. As all of these participants were female, 
+P2 B54 (306.9, 130.6, 549.6, 138.6): we decided to collect additional data from four male participants. Par- 
+P2 B55 (306.9, 143.5, 549.7, 151.5): ticipants were recruited through the participant recruitment system 
+P2 B56 (306.9, 156.5, 549.7, 164.5): used by the University of Würzburg (Germany). Based on the regula- 
+P2 B57 (306.9, 169.6, 549.7, 177.6): tions for conducting psychological research in Germany, no formal 
+P2 B58 (306.9, 182.5, 549.6, 190.5): IRB approval was required. The study was conducted in accordance 
+P2 B59 (306.9, 195.5, 549.6, 203.5): with the Helsinki Declaration and the ethical guidelines of the German 
+P2 B60 (306.9, 208.5, 549.7, 216.5): Psychological Society (DGPs). All participants provided written 
+P2 B61 (306.9, 221.5, 549.6, 229.5): informed consent and received course credit. The interviews were 
+P2 B62 (306.9, 234.5, 535.0, 242.5): conducted between the end of July and the end of October 2021. 
+P2 B63 (306.9, 271.9, 394.0, 281.9): 2.1.2 | Day One 
+P2 B64 (306.9, 299.6, 549.7, 307.6): The smart journaling app Day One is offered in a basic and in a pre- 
+P2 B65 (306.9, 312.5, 549.7, 320.5): mium version (for screenshots of the app's design and more detailed 
+P2 B66 (306.9, 325.5, 549.7, 333.5): information, see https://dayoneapp.com/). The premium version that 
+P2 B67 (306.9, 338.6, 549.6, 346.6): was used in Study 1 offers a wide range of different functions, includ- 
+P2 B68 (306.9, 351.5, 549.7, 359.5): ing writing text entries, creating drawings, importing photos, videos, 
+P2 B69 (306.9, 364.5, 549.7, 372.5): and audio recordings, an automatic import of all existing and future 
+P2 B70 (306.9, 377.5, 549.7, 385.5): Instagram posts, as well as data from Spotify, YouTube, Facebook, 
+P2 B71 (306.9, 390.5, 549.6, 398.5): and Twitter, the possibility to save the content of websites, to tag and 
+P2 B72 (306.9, 403.5, 549.7, 411.5): favorite entries, to search and filter the recorded content, and to scan 
+P2 B73 (306.9, 416.5, 549.7, 424.5): documents to PDF using the in-app scan camera. In addition, users 
+P2 B74 (306.9, 429.6, 549.6, 437.6): can allow the app to auto-tag text entries and media with information 
+P2 B75 (306.9, 442.5, 549.6, 450.5): regarding date, time, weather, and location. The app also offers daily 
+P2 B76 (306.9, 455.5, 549.7, 463.5): reminders as well as various templates that can serve as a potential 
+P2 B77 (306.9, 468.6, 549.7, 476.6): starting point for beginning a new entry. Users are able to edit and 
+P2 B78 (306.9, 481.5, 549.7, 489.5): delete previous entries. That is, users decide which aspects to include 
+P2 B79 (306.9, 494.5, 549.6, 502.5): in their record, and what to emphasize and elaborate on. Entries that 
+P2 B80 (306.9, 507.5, 549.7, 515.5): the users want to share with others can be posted on social media. 
+P2 B81 (306.9, 520.5, 549.6, 528.5): Moreover, content can be exported as a digital file or printed as a 
+P2 B82 (306.9, 533.5, 549.7, 541.5): book. Users can opt to receive a notification when a day has entries 
+P2 B83 (306.9, 546.5, 549.6, 554.5): from a previous year. In an attempt to deal with privacy concerns, the 
+P2 B84 (306.9, 559.5, 549.6, 567.5): app offers biometric security measures (Touch ID or Face ID) and 
+P2 B85 (306.9, 572.5, 549.7, 580.5): end-to-end encryption. Day One can be used on mobile phones and 
+P2 B86 (306.9, 585.5, 345.4, 593.5): computers. 
+P2 B87 (306.9, 622.9, 400.0, 632.9): 2.1.3 | Procedure 
+P2 B88 (306.9, 650.5, 549.7, 658.5): Before beginning with the 14-day test phase, participants were 
+P2 B89 (306.9, 663.5, 549.7, 671.5): informed about the purpose of the study in an online meeting. Partici- 
+P2 B90 (306.9, 676.5, 549.6, 684.5): pants were told that the study sought to investigate whether and, if 
+P2 B91 (306.9, 689.5, 549.6, 697.5): so, how digital technologies affect autobiographical remembering. It 
+P2 B92 (306.9, 702.5, 549.7, 710.5): was emphasized that the study was concerned with their subjective 
+P2 B93 (306.9, 715.5, 549.7, 723.5): perceptions so that all kinds of observations are welcome and that 
+P2 B94 (306.9, 728.6, 549.7, 736.6): there are no right or wrong answers. Participants were told to use the 
+P2 B95 (45.6, 23.6, 549.7, 30.6): 688 HUTMACHER ET AL. 
+P2 B96 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P3 B0 (45.6, 52.5, 288.4, 60.5): smart journaling app Day One for 15 min per day during the two- 
+P3 B1 (45.6, 65.5, 288.5, 73.5): week test phase. We assumed that 15 min per day would be enough 
+P3 B2 (45.6, 78.5, 288.4, 86.5): time for participants to record the most important events of their daily 
+P3 B3 (45.6, 91.6, 288.5, 99.6): lives and to have a meaningful interaction with the app that they 
+P3 B4 (45.6, 104.5, 288.4, 112.5): could reflect upon after using the app for 2 weeks. Participants were 
+P3 B5 (45.6, 117.5, 288.4, 125.5): encouraged to try out different functions in the beginning but also 
+P3 B6 (45.6, 130.6, 288.5, 138.6): told to use only those functions that they felt comfortable with. Par- 
+P3 B7 (45.6, 143.5, 288.5, 151.5): ticipants were reassured that the researchers would not have access 
+P3 B8 (45.6, 156.5, 288.5, 164.5): to the content stored in their smart journal at any point of the study. 
+P3 B9 (45.6, 169.6, 288.4, 177.6): Finally, participants were asked to sign up for a premium membership 
+P3 B10 (45.6, 182.5, 288.5, 190.5): with Day One in order to have unlimited access to all functions. Par- 
+P3 B11 (45.6, 195.5, 240.0, 203.5): ticipants were compensated for their financial expenses. 
+P3 B12 (60.7, 208.5, 288.4, 216.5): After completing the two-week test phase, another online meet- 
+P3 B13 (45.6, 221.5, 288.4, 229.5): ing was scheduled in order to conduct the interview. The inter- 
+P3 B14 (45.6, 234.5, 288.5, 242.5): views were semi-structured. That is, they were based on an 
+P3 B15 (45.6, 247.5, 288.4, 255.5): interview guide in order to ensure that all relevant aspects were 
+P3 B16 (45.6, 260.5, 288.4, 268.5): discussed in the same manner across participants (see the Supple- 
+P3 B17 (45.6, 273.5, 288.4, 281.5): mental Material for the complete interview guides of both studies). 
+P3 B18 (45.6, 286.5, 288.4, 294.5): However, the interviewer was allowed to ask ad-hoc questions 
+P3 B19 (45.6, 299.6, 288.5, 307.6): when it seemed necessary. Each interview consisted of three parts. 
+P3 B20 (45.6, 312.5, 288.4, 320.5): First, participants were asked about their usage behavior. This 
+P3 B21 (45.6, 325.5, 288.4, 333.5): included questions regarding the used functions (“Which functions 
+P3 B22 (45.6, 338.6, 288.4, 346.6): did you use and why?”, “Which functions did you not use and 
+P3 B23 (45.6, 351.5, 288.4, 359.5): why?”), the recorded content (“What kind of events did you record 
+P3 B24 (45.6, 364.5, 288.4, 372.5): and why?”, “What kind of events did you not record and why?”) 
+P3 B25 (45.6, 377.5, 288.4, 385.5): and the participants' overall evaluation of the app (“Which aspects 
+P3 B26 (45.6, 390.5, 288.4, 398.6): did you experience as positive during the use?”, “Which aspects 
+P3 B27 (45.6, 403.5, 288.4, 411.5): did you experience as negative during the use?”). Second, partici- 
+P3 B28 (45.6, 416.5, 288.4, 424.5): pants were asked about the perceived effects of the use of the smart 
+P3 B29 (45.6, 429.5, 288.4, 437.5): journaling app on memory. Following an open question that asked 
+P3 B30 (45.6, 442.5, 288.4, 450.5): participants to state anything that came to their mind, participants 
+P3 B31 (45.6, 455.5, 288.4, 463.5): were asked more specifically whether they had perceived any 
+P3 B32 (45.6, 468.5, 288.4, 476.5): changes with respect to the five memory activities 
+P3 B33 (45.6, 481.5, 288.5, 489.5): (i.e., recollecting, reminiscing, retrieving, reflecting, remembering 
+P3 B34 (45.6, 494.5, 288.4, 502.5): intentions) identified by Sellen and Whittaker (2010). It was 
+P3 B35 (45.6, 507.5, 288.4, 515.5): emphasized that perceiving a specific effect is just as informative 
+P3 B36 (45.6, 520.5, 288.4, 528.5): as not perceiving it. Third, participants were asked about the 
+P3 B37 (45.6, 533.5, 288.4, 541.5): potential opportunities and risks with respect to the continued use 
+P3 B38 (45.6, 546.5, 288.4, 554.5): of a smart journaling app. More specifically, participants were 
+P3 B39 (45.6, 559.5, 288.4, 567.5): asked to imagine that they would continue to use the app in the 
+P3 B40 (45.6, 572.5, 288.4, 580.5): way they had done over the past 2 weeks and to think about the 
+P3 B41 (45.6, 585.5, 288.4, 593.5): advantages and disadvantages of possessing a rich and detailed, 
+P3 B42 (45.6, 598.6, 288.3, 606.6): digital record of their own lives potentially encompassing years or 
+P3 B43 (45.6, 611.5, 96.7, 619.5): even decades. 
+P3 B44 (60.7, 624.5, 288.5, 632.5): After completing the interview, participants filled in an online 
+P3 B45 (45.6, 637.6, 288.4, 645.6): questionnaire. They were asked about their age and gender as well as 
+P3 B46 (45.6, 650.5, 288.5, 658.5): the time that they had actually used the app per day over the past 
+P3 B47 (45.6, 663.5, 288.5, 671.5): 2 weeks and their intention to continue using the app (7-point Likert 
+P3 B48 (45.6, 676.5, 288.4, 684.5): scale, 1 = “I will certainly not continue using the app”, 7 = “I will cer- 
+P3 B49 (45.6, 689.5, 288.4, 697.6): tainly continue using the app”). The interviews lasted between 25 and 
+P3 B50 (45.6, 702.5, 288.4, 710.5): 42 min (M = 34.94 min, SD = 5.75). All interviews were conducted by 
+P3 B51 (45.6, 715.5, 120.4, 723.5): the same interviewer. 
+P3 B52 (306.9, 50.9, 460.7, 60.9): 2.1.4 | Qualitative data analysis 
+P3 B53 (306.9, 78.5, 549.7, 86.5): The interviews were recorded and transcribed verbatim. The data 
+P3 B54 (306.9, 91.6, 549.6, 99.6): were analyzed with MAXQDA 2020 (VERBI Software) using qualita- 
+P3 B55 (306.9, 104.5, 549.6, 112.5): tive content analysis (Mayring, 2014, 2021). To ensure the objectivity 
+P3 B56 (306.9, 117.5, 549.7, 125.5): of the coding process, two coders analyzed the data. First, a codebook 
+P3 B57 (306.9, 130.6, 549.7, 138.6): was created based on initiating text work (Kuckartz, 2019). In order to 
+P3 B58 (306.9, 143.5, 549.6, 151.5): do so, the two coders familiarized themselves with the data indepen- 
+P3 B59 (306.9, 156.5, 549.7, 164.5): dently from one another and created an initial draft for a codebook. 
+P3 B60 (306.9, 169.6, 549.7, 177.6): These two drafts were discussed between the two coders and inte- 
+P3 B61 (306.9, 182.5, 549.7, 190.5): grated into a final codebook. The final codebook included categories 
+P3 B62 (306.9, 195.5, 549.7, 203.5): to capture the used functions, the recorded content, and the overall 
+P3 B63 (306.9, 208.5, 549.6, 216.5): evaluation by the participants as well as the perceived effects on 
+P3 B64 (306.9, 221.5, 549.7, 229.5): memory and future expectations regarding opportunities and risks. 
+P3 B65 (306.9, 234.5, 549.7, 242.5): Although participants had been asked about their reasons for using 
+P3 B66 (306.9, 247.5, 549.6, 255.5): specific functions, their answers to this question were not analyzed 
+P3 B67 (306.9, 260.5, 549.6, 268.5): systematically as they were deemed too superficial to be informative. 
+P3 B68 (306.9, 273.5, 549.7, 281.5): The same applies to the question about the functions that the partici- 
+P3 B69 (306.9, 286.5, 516.2, 294.5): pants did not use as well as their reasons for not using them. 
+P3 B70 (321.8, 299.6, 549.7, 307.6): Next, the two coders coded the first two interviews indepen- 
+P3 B71 (306.9, 312.5, 549.7, 320.5): dently from one another. Then, the interrater reliability was calculated 
+P3 B72 (306.9, 325.5, 549.7, 333.5): (Brennan & Prediger, 1981). Two coded segments of the material 
+P3 B73 (306.9, 338.6, 549.7, 346.6): were considered to match when the overlapping rate of the two 
+P3 B74 (306.9, 351.5, 549.7, 359.5): codes was 90% or higher. The interrater reliability indicated a substan- 
+P3 B75 (306.9, 364.5, 549.7, 372.5): tial strength of agreement (Landis & Koch, 1977), κ = 0.73. The coders 
+P3 B76 (306.9, 377.5, 549.7, 385.5): discussed the differences with respect to the first two interviews that 
+P3 B77 (306.9, 390.5, 549.7, 398.5): they had coded independently and agreed upon a final solution. Given 
+P3 B78 (306.9, 403.5, 549.7, 411.5): the substantial agreement between the two coders, one coder coded 
+P3 B79 (306.9, 416.5, 549.6, 424.5): the remaining material. However, open questions and potentially 
+P3 B80 (306.9, 429.6, 517.8, 437.6): ambiguous sections were discussed between the two coders. 
+P3 B81 (306.9, 466.9, 378.8, 477.0): 2.2 | Results 
+P3 B82 (306.9, 492.9, 422.3, 502.9): 2.2.1 | Usage behavior 
+P3 B83 (306.9, 520.5, 549.6, 528.5): Participants were asked to use the app for 15 min per day during the 
+P3 B84 (306.9, 533.5, 549.6, 541.5): two-week test phase (see above). As indicated by their answers in the 
+P3 B85 (306.9, 546.5, 549.6, 554.5): online questionnaire, participants followed this instruction 
+P3 B86 (306.9, 559.6, 549.7, 567.6): (M = 15.33 min, SD = 4.92, range: 10–25 min). Overall, participants 
+P3 B87 (306.9, 572.5, 549.7, 580.5): seemed to enjoy using the app: When asked about their future inten- 
+P3 B88 (306.9, 585.5, 549.7, 593.5): tions, only two participants stated that they tended not to continue 
+P3 B89 (306.9, 598.6, 549.7, 606.6): using the app (ticking 3 on the 7-point Likert scale), while the remain- 
+P3 B90 (306.9, 611.5, 549.7, 619.5): ing 10 participants stated that they would probably continue using 
+P3 B91 (306.9, 624.5, 549.7, 632.5): the app (ticking the options 5–7 on the 7-point Likert scale). Details 
+P3 B92 (306.9, 637.6, 549.6, 645.6): with respect to the used functions, the recorded content, and the 
+P3 B93 (306.9, 650.5, 470.8, 658.5): overall evaluation are reported in the following. 
+P3 B94 (306.9, 676.1, 359.0, 684.6): Used functions 
+P3 B95 (306.9, 689.5, 549.7, 697.5): The participants did not use all functions offered by the app with 
+P3 B96 (306.9, 702.5, 549.7, 710.5): equal frequency (see Table 1). All participants stored photos and wrote 
+P3 B97 (306.9, 715.5, 549.7, 723.5): text, and the majority of participants automatically tracked their 
+P3 B98 (45.6, 23.6, 549.6, 30.6): HUTMACHER ET AL. 689 
+P3 B99 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P4 B0 (45.6, 468.6, 288.4, 476.6): location and used audio recordings. All other functions were used by a 
+P4 B1 (45.6, 481.5, 288.4, 489.5): minority of the participants only. With respect to the audio record- 
+P4 B2 (45.6, 494.5, 288.5, 502.5): ings, it should be noted that most participants who had tried out the 
+P4 B3 (45.6, 507.5, 288.5, 515.5): function did not use it on a regular basis, mostly because they found 
+P4 B4 (45.6, 517.0, 288.5, 528.6): recording themselves “somewhat weird”2 or because they found writ- 
+P4 B5 (45.6, 533.5, 288.5, 541.5): ing text “more enjoyable”. However, two participants stated that they 
+P4 B6 (45.6, 546.5, 288.5, 554.5): particularly liked this function. As one participant put it, recording her- 
+P4 B7 (45.6, 559.6, 288.5, 567.6): self felt “like talking to a friend” whom one is sharing one's day with. 
+P4 B8 (45.6, 572.5, 288.4, 580.5): The templates included in the app, which offer cues to the users 
+P4 B9 (45.6, 585.5, 288.5, 593.5): (e.g., a question to answer or to think about), were perceived as useful 
+P4 B10 (45.6, 598.6, 288.5, 606.6): as they helped the participants in moments in which they did not 
+P4 B11 (45.6, 611.5, 215.7, 619.5): know what to write or how to begin a new entry. 
+P4 B12 (45.6, 637.2, 171.9, 645.7): Recorded and non-recorded content 
+P4 B13 (45.6, 650.5, 288.5, 658.5): The content that participants recorded and stored within their smart 
+P4 B14 (45.6, 663.5, 288.4, 671.5): journal can be sorted into three groups (see Table 2). First, partici- 
+P4 B15 (45.6, 676.5, 288.4, 684.5): pants recorded everyday events (e.g., cleaning one's apartment, doing 
+P4 B16 (45.6, 689.5, 288.5, 697.5): the laundry, having breakfast). Second, participants recorded the 
+P4 B17 (45.6, 702.5, 288.5, 710.5): important and outstanding aspects of their lives, including important 
+P4 B18 (45.6, 715.5, 288.4, 723.5): events (e.g., attending a bachelorette party), being at specific places 
+P4 B19 (45.6, 728.6, 288.4, 736.6): (e.g., being on vacation), and engaging in social interactions 
+P4 B20 (306.9, 52.5, 549.6, 60.5): (e.g., conversations with family and friends). Third, participants took 
+P4 B21 (306.9, 65.5, 549.7, 73.5): notes on ideas and thoughts that they had (e.g., reflections on a news 
+P4 B22 (306.9, 78.5, 398.5, 86.5): article, interesting quotes). 
+P4 B23 (321.8, 91.6, 549.7, 99.6): Concerning the aspects of their lives that they decided not to 
+P4 B24 (306.9, 104.5, 549.6, 112.5): record, participants mentioned everyday events, events that they 
+P4 B25 (306.9, 117.5, 549.7, 125.5): deemed too personal as well as negative events and conflicts (see 
+P4 B26 (306.9, 130.6, 549.7, 138.6): Table 2). Note that the participants who recorded everyday events 
+P4 B27 (306.9, 143.5, 549.7, 151.5): and those who did not record everyday events were not mutually 
+P4 B28 (306.9, 156.5, 549.7, 164.5): exclusive groups. In other words, most participants decided to docu- 
+P4 B29 (306.9, 169.6, 549.7, 177.6): ment some everyday events, while not documenting others. Those 
+P4 B30 (306.9, 182.5, 549.7, 190.5): participants who were reluctant to record personal events mostly 
+P4 B31 (306.9, 195.5, 549.7, 203.5): explained this with privacy concerns and the “feeling that someone 
+P4 B32 (306.9, 208.5, 549.7, 216.5): could somehow read these things”. However, not documenting nega- 
+P4 B33 (306.9, 221.5, 549.7, 229.5): tive events and conflicts was explained in a different way. One partici- 
+P4 B34 (306.9, 234.5, 549.7, 242.5): pant stated, for instance, that she had decided to use the app “to 
+P4 B35 (306.9, 247.5, 549.7, 255.5): recall the positive aspects” of her life only, while another participant 
+P4 B36 (306.9, 260.5, 549.7, 268.6): added that writing down negative events “is simply not the way I deal 
+P4 B37 (306.9, 273.5, 549.6, 281.5): with these things”. Yet another participant stated that she did not 
+P4 B38 (306.9, 286.5, 549.6, 294.5): document a conflict she had with another person because she felt 
+P4 B39 (306.9, 299.6, 549.7, 307.6): ashamed when she realized in hindsight that the conflict “was really 
+P4 B40 (306.9, 312.5, 333.5, 320.5): stupid”. 
+P4 B41 (306.9, 338.2, 370.8, 346.7): Overall evaluation 
+P4 B42 (306.9, 351.5, 549.6, 359.5): With respect to aspects that they experienced as positive during the 
+P4 B43 (306.9, 364.5, 549.6, 372.5): use, 10 participants named the app's clear structure and overall usabil- 
+P4 B44 (306.9, 377.5, 549.7, 385.5): ity and half of the participants mentioned the app's wide range of func- 
+P4 B45 (306.9, 390.5, 549.6, 398.5): tions. Apart from that, all participants referred to particular functions 
+P4 B46 (306.9, 403.5, 549.7, 411.5): that they found useful (e.g., templates, calendar overview). Beyond 
+P4 B47 (306.9, 416.5, 549.7, 424.5): these technical aspects, one participant explicitly mentioned that she 
+P4 B48 (306.9, 429.6, 549.7, 437.6): liked the way the app influenced her memory for the events that she 
+P4 B49 (306.9, 442.5, 549.6, 450.5): experienced during the two-week test phase. Although the overall 
+P4 B50 (306.9, 455.5, 549.6, 463.5): evaluation of the app was quite positive (see also the intention of 
+P4 B51 (306.9, 468.6, 549.6, 476.6): most participants to continue using the app), participants also men- 
+P4 B52 (306.9, 481.5, 549.7, 489.5): tioned aspects that they experienced as negative. Seven participants 
+P4 B53 (306.9, 494.5, 549.7, 502.5): mentioned minor problems related to the app's design and usability 
+P4 B54 (306.9, 507.5, 549.7, 515.5): (e.g., a function that was not working as expected). Two participants 
+P4 B55 (306.9, 520.5, 549.6, 528.5): mentioned that they occasionally experienced moments in which they 
+P4 B56 (306.9, 533.5, 549.6, 541.5): felt obliged to use the app because they had signed up for the study. In 
+P4 B57 (306.9, 546.5, 549.6, 554.5): addition, one participant stated that her privacy concerns kept her 
+P4 B58 (306.9, 559.5, 516.6, 567.5): from using the app in the way she would have liked to use it. 
+P4 B59 (306.9, 597.0, 482.5, 607.0): 2.2.2 | Perceived effects on memory 
+P4 B60 (306.9, 624.1, 441.4, 632.6): Perceived effects on memory activities 
+P4 B61 (306.9, 637.6, 549.7, 645.6): Participants were explicitly asked whether the use of the smart jour- 
+P4 B62 (306.9, 650.5, 549.7, 658.6): naling app had – from their personal point of view – affected the five 
+P4 B63 (306.9, 663.5, 549.6, 671.5): memory activities originally identified by Sellen and Whittaker (2010): 
+P4 B64 (306.9, 676.5, 549.6, 684.5): recollection, reminiscing, retrieving, reflecting, and remembering 
+P4 B65 (306.9, 689.5, 549.7, 697.5): intentions (see Table 3). With respect to recollection, participants 
+P4 B66 (306.9, 702.5, 549.7, 710.5): stated that they indeed used the recorded content “to remember 
+P4 B67 (306.9, 715.5, 549.7, 723.5): what one has done overall” or “to go back through the days”. More 
+P4 B68 (306.9, 728.6, 549.6, 736.6): specifically, several participants stated that they saw the information 
+P4 B69 (45.6, 51.4, 146.0, 59.4): TABLE 1 Used functions 
+P4 B70 (52.6, 69.2, 281.4, 76.7): Function Number of participants 
+P4 B71 (52.6, 84.0, 67.3, 91.5): Text 
+P4 B72 (60.2, 98.0, 213.0, 105.5): Open text 12 
+P4 B73 (60.2, 112.0, 213.0, 119.5): Template 4 
+P4 B74 (60.2, 126.0, 213.0, 133.5): Tags 1 
+P4 B75 (52.6, 140.0, 213.0, 147.5): Photos 12 
+P4 B76 (52.6, 154.0, 213.0, 161.5): Location 10 
+P4 B77 (52.6, 168.0, 213.0, 175.5): Audio 9 
+P4 B78 (52.6, 182.0, 213.0, 189.5): Video 5 
+P4 B79 (52.6, 196.0, 213.0, 203.5): Weather 3 
+P4 B80 (52.6, 210.0, 213.0, 217.5): Import from other apps 2 
+P4 B81 (52.6, 224.0, 213.0, 231.5): Scanning 1 
+P4 B82 (52.6, 238.0, 213.0, 245.5): Other 3 
+P4 B83 (45.6, 255.2, 164.1, 262.7): Note: Results from Study 1 (N = 12). 
+P4 B84 (45.6, 285.3, 219.9, 293.3): TABLE 2 Recorded and non-recorded content 
+P4 B85 (52.6, 303.2, 281.4, 310.7): Content Number of participants 
+P4 B86 (52.6, 318.0, 111.0, 325.5): Recorded content 
+P4 B87 (60.2, 332.0, 213.0, 339.5): Everyday events 8 
+P4 B88 (60.2, 346.0, 213.0, 353.5): Important aspects 12 
+P4 B89 (60.2, 360.0, 213.0, 367.5): Ideas and thoughts 6 
+P4 B90 (52.6, 374.0, 125.8, 381.5): Non-recorded content 
+P4 B91 (60.2, 388.0, 213.0, 395.5): Everyday events 8 
+P4 B92 (60.2, 402.0, 213.0, 409.5): Personal events 6 
+P4 B93 (60.2, 416.0, 213.0, 423.5): Negative events and conflicts 5 
+P4 B94 (45.6, 433.2, 164.1, 440.8): Note: Results from Study 1 (N = 12). 
+P4 B95 (45.6, 23.6, 549.7, 30.6): 690 HUTMACHER ET AL. 
+P4 B96 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P5 B0 (45.6, 260.6, 288.5, 268.6): they had stored the day before when opening the app and that they 
+P5 B1 (45.6, 273.5, 288.4, 281.5): used this as a cue to recollect what they had done and experienced. 
+P5 B2 (45.6, 286.5, 288.4, 294.5): Reminiscing, that is, reliving past experiences for emotional or senti- 
+P5 B3 (45.6, 299.6, 288.5, 307.6): mental reasons was also described by several participants. They 
+P5 B4 (45.6, 312.5, 288.5, 320.6): stated, for instance, that they used the recorded information “to senti- 
+P5 B5 (45.6, 325.5, 288.4, 333.5): mentally dive into the experiences” or that they explicitly looked up 
+P5 B6 (45.6, 338.6, 288.4, 346.6): moments that they had found beautiful. In contrast, participants did 
+P5 B7 (45.6, 351.5, 288.5, 359.5): not use the app that frequently for retrieving specific bits of informa- 
+P5 B8 (45.6, 364.5, 288.5, 372.5): tion. However, one participant stated that she had used the app to 
+P5 B9 (45.6, 377.5, 288.5, 385.5): find the name of a cocktail that she had in a bar one evening, while 
+P5 B10 (45.6, 390.5, 288.5, 398.5): another participant mentioned that she had looked up the name of a 
+P5 B11 (45.6, 403.5, 288.4, 411.5): new colleague at work. Next to recollection, reflecting was the mem- 
+P5 B12 (45.6, 416.5, 288.4, 424.5): ory activity that was mentioned most frequently. Several participants 
+P5 B13 (45.6, 429.6, 288.4, 437.6): noted that the very act of creating an entry for the past day made 
+P5 B14 (45.6, 442.5, 288.5, 450.5): them think and reflect about their experiences: “How did I feel when 
+P5 B15 (45.6, 455.5, 288.4, 463.5): it happened? What was the mood like, how do I see things now in 
+P5 B16 (45.6, 468.6, 288.4, 476.6): hindsight?” In a similar vein, another participant added: “I believe that 
+P5 B17 (45.6, 481.5, 288.4, 489.5): writing down your experiences automatically leads to reflecting them 
+P5 B18 (45.6, 494.5, 288.5, 502.5): and to see them from another perspective”. As this quote already 
+P5 B19 (45.6, 507.5, 288.4, 515.5): illustrates, reflecting was closely related to writing for those partici- 
+P5 B20 (45.6, 520.5, 288.4, 528.5): pants who mentioned this memory activity. As far as remembering 
+P5 B21 (45.6, 533.5, 288.4, 541.5): intentions is concerned, participants stated that they used the app to 
+P5 B22 (45.6, 546.5, 288.5, 554.5): create to-do-lists and to be reminded about their friends' birthdays, 
+P5 B23 (45.6, 559.5, 288.5, 567.5): for instance. Participants also noted that going through old entries 
+P5 B24 (45.6, 572.5, 248.5, 580.5): made them remember things that they had intended to do. 
+P5 B25 (60.7, 585.5, 288.4, 593.5): As these results demonstrate, the use of a smart journaling app 
+P5 B26 (45.6, 598.5, 288.5, 606.5): can influence the way individuals assess their own memories and the 
+P5 B27 (45.6, 611.5, 288.4, 619.5): process of remembering autobiographical information. Although these 
+P5 B28 (45.6, 624.5, 288.5, 632.5): subjectively perceived effects became already apparent during the rel- 
+P5 B29 (45.6, 637.6, 288.4, 645.6): atively short two-week test phase, nine participants stated with 
+P5 B30 (45.6, 650.5, 288.5, 658.5): respect to at least one of these five memory activities that they 
+P5 B31 (45.6, 663.5, 288.4, 671.5): expected it to become (even) more important in the case of continued 
+P5 B32 (45.6, 676.5, 288.4, 684.5): use. Note that participants were not explicitly asked about the antici- 
+P5 B33 (45.6, 689.5, 288.4, 697.5): pated future importance but made these statements on their own ini- 
+P5 B34 (45.6, 702.5, 288.4, 710.5): tiative. On the one hand, this hints at the potential transformative 
+P5 B35 (45.6, 715.5, 288.5, 723.5): power of digital technologies regarding autobiographical remember- 
+P5 B36 (45.6, 728.5, 288.4, 736.5): ing. On the other hand, it points to the importance of cross-validating 
+P5 B37 (306.9, 52.5, 549.6, 60.5): the findings of the present study with the observations of long-time 
+P5 B38 (306.9, 65.5, 549.7, 73.5): users in order to verify whether these expectations are actually 
+P5 B39 (306.9, 78.5, 336.3, 86.5): justified. 
+P5 B40 (306.9, 104.1, 445.8, 112.6): Additional perceived effects on memory 
+P5 B41 (306.9, 117.5, 549.6, 125.5): Participants mentioned further subjectively perceived effects on 
+P5 B42 (306.9, 130.6, 549.7, 138.6): memory that were not captured by the five categories described so 
+P5 B43 (306.9, 143.5, 549.7, 151.5): far. Most importantly, about half of the participants reported that they 
+P5 B44 (306.9, 156.5, 549.6, 164.5): had the impression that externally recording and storing information 
+P5 B45 (306.9, 169.6, 549.7, 177.6): about their lives improved their internal memory for past events. For 
+P5 B46 (306.9, 182.5, 549.7, 190.6): instance, one participant stated that “through uploading so many 
+P5 B47 (306.9, 195.5, 549.7, 203.5): things, it was easier to keep them in my memory”. Similarly, another 
+P5 B48 (306.9, 208.5, 549.7, 216.5): participant explained that going through the events of the day when 
+P5 B49 (306.9, 221.5, 549.7, 229.5): creating the entry helped to retain these events in memory compared 
+P5 B50 (306.9, 234.5, 549.7, 242.5): to a setting “when something happens and then you go to bed in the 
+P5 B51 (306.9, 247.5, 549.7, 255.5): evening and the next day things are happening again”. In short and 
+P5 B52 (306.9, 260.5, 549.7, 268.5): following the participants' line of reasoning, active engagement with 
+P5 B53 (306.9, 273.5, 549.6, 281.5): the app leads to active engagement with one's experiences, which in 
+P5 B54 (306.9, 286.5, 549.7, 294.5): turn leads to better memory for these experiences. Apart from that, 
+P5 B55 (306.9, 299.6, 549.7, 307.6): participants also reported that they sometimes thought that an event 
+P5 B56 (306.9, 312.5, 549.6, 320.5): was noteworthy while experiencing it (anticipated noteworthiness): 
+P5 B57 (306.9, 325.5, 549.7, 333.5): “Sometimes I thought, well: This is something that you can write 
+P5 B58 (306.9, 338.6, 349.3, 346.6): down later.” 
+P5 B59 (306.9, 375.9, 442.1, 385.9): 2.2.3 | Future expectations 
+P5 B60 (306.9, 403.5, 549.6, 411.5): In the last part of the interview, participants were asked about the 
+P5 B61 (306.9, 416.5, 549.6, 424.5): potential opportunities and risks with respect to the continued use of a 
+P5 B62 (306.9, 429.6, 549.7, 437.6): smart journaling app. These opportunities and risks are described in 
+P5 B63 (306.9, 442.5, 454.7, 450.5): detail below (for an overview, see Table 4). 
+P5 B64 (306.9, 468.2, 387.1, 476.7): Potential opportunities 
+P5 B65 (306.9, 481.5, 549.7, 489.5): Participants argued that possessing a detailed digital record of their 
+P5 B66 (306.9, 494.5, 549.7, 502.5): past would enable them to make comparisons and to trace their per- 
+P5 B67 (306.9, 507.5, 549.7, 515.5): sonal development over time. That is, they expected that they would 
+P5 B68 (306.9, 520.5, 549.6, 528.5): be able to see how they have evolved as a person and how their life 
+P5 B69 (306.9, 533.5, 549.7, 541.5): has changed. This advantage is closely connected to the idea that 
+P5 B70 (306.9, 546.5, 549.6, 554.5): smart journals allow the creation of an extensive archive that includes 
+P5 B71 (306.9, 559.5, 549.6, 567.5): various sorts of data and information. Especially in comparison to a 
+P5 B72 (306.9, 572.5, 549.6, 580.5): traditional paper diary, participants emphasized several practical bene- 
+P5 B73 (306.9, 585.5, 549.6, 593.5): fits of digital diaries, such as their searchability or the fact that they 
+P5 B74 (306.9, 598.6, 549.6, 606.6): can easily be carried around. This potential advantage coincides well 
+P5 B75 (306.9, 611.5, 549.6, 619.5): with the idea that digital diaries could also have a social function in the 
+P5 B76 (306.9, 624.5, 549.7, 632.5): sense that they could be shared with others in order to tell them 
+P5 B77 (306.9, 637.6, 549.6, 645.6): something about one's life. Moreover, participants explicitly men- 
+P5 B78 (306.9, 650.5, 549.7, 658.5): tioned that a multimedia-based diary would not only help them to 
+P5 B79 (306.9, 663.5, 549.7, 671.5): recall events from their past, but also to re-experience them intensively. 
+P5 B80 (306.9, 676.5, 549.7, 684.5): One participant also noted that the overview that the app offers 
+P5 B81 (306.9, 689.5, 549.6, 697.5): would provide her with a brief and condensed summary of her life. 
+P5 B82 (306.9, 702.5, 549.6, 710.5): Another participant stated that taking a look at the content stored in 
+P5 B83 (306.9, 715.5, 549.6, 723.5): the diary could help to avoid repeating the same mistakes and to learn 
+P5 B84 (306.9, 728.5, 380.7, 736.5): from past experiences. 
+P5 B85 (45.6, 51.4, 195.4, 59.4): TABLE 3 Perceived effects on memory 
+P5 B86 (52.6, 69.2, 281.4, 76.7): Memory activity Number of participants 
+P5 B87 (52.6, 84.0, 213.0, 91.5): Recollecting 10 
+P5 B88 (52.6, 98.0, 213.0, 105.5): Reminiscing 6 
+P5 B89 (52.6, 112.0, 213.0, 119.5): Retrieving 3 
+P5 B90 (52.6, 126.0, 213.0, 133.5): Reflecting 10 
+P5 B91 (52.6, 140.0, 213.0, 147.5): Remembering intentions 6 
+P5 B92 (52.6, 154.0, 213.0, 161.5): Improved internal memory* 7 
+P5 B93 (52.6, 168.0, 213.0, 175.5): Anticipated noteworthiness* 2 
+P5 B94 (45.6, 185.2, 286.5, 234.7): Note: Results from Study 1. Participants (N = 12) were explicitly asked about the first five memory activities—recollection, reminiscing, retrieving, 
+P5 B95 (45.6, 23.6, 549.6, 30.6): HUTMACHER ET AL. 691 
+P5 B96 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P6 B0 (45.6, 559.2, 94.9, 567.7): Potential risks 
+P6 B1 (45.6, 572.5, 288.5, 580.5): Almost all participants mentioned concerns regarding privacy and data 
+P6 B2 (45.6, 585.5, 288.5, 593.5): protection. The hesitance to record personal and intimate information 
+P6 B3 (45.6, 598.6, 288.5, 606.6): already described in the section on usage behavior (see above) 
+P6 B4 (45.6, 611.5, 288.5, 619.5): became even more prominent when thinking about a point in the 
+P6 B5 (45.6, 624.5, 288.4, 632.5): future at which participants would have a much larger collection of 
+P6 B6 (45.6, 637.6, 288.5, 645.6): data about their lives. Although participants had identified the possi- 
+P6 B7 (45.6, 650.5, 288.5, 658.5): bility to make comparisons between past and present as one of the 
+P6 B8 (45.6, 663.5, 288.4, 671.5): major advantages of a detailed record of one's life, some participants 
+P6 B9 (45.6, 676.5, 288.5, 684.5): also noted that one could make negative experiences through compari- 
+P6 B10 (45.6, 689.5, 288.5, 697.6): son with one's former self – especially when this former self was hap- 
+P6 B11 (45.6, 702.5, 288.4, 710.5): pier or more successful than one's present self. In line with that, it was 
+P6 B12 (45.6, 715.5, 288.5, 723.5): also emphasized that possessing a detailed record of one's past would 
+P6 B13 (45.6, 728.5, 288.4, 736.5): mean that no forgetting takes place and that one runs at risk of being 
+P6 B14 (306.9, 559.5, 549.7, 567.5): reminded of negative events and experiences. In addition, two partici- 
+P6 B15 (306.9, 572.5, 549.6, 580.5): pants noted that using a smart journal would result in spending (even) 
+P6 B16 (306.9, 585.5, 549.7, 593.5): more time with digital media, which these participants did not consider 
+P6 B17 (306.9, 598.6, 549.6, 606.6): advisable. One participant noted being afraid of a potential data loss 
+P6 B18 (306.9, 611.5, 549.6, 619.5): because losing the stored data would – at least in a certain sense – 
+P6 B19 (306.9, 624.5, 549.7, 632.5): mean losing one's past. Another participant stated that the possibility 
+P6 B20 (306.9, 637.6, 549.7, 645.6): to access past experiences at any time could devalue the present 
+P6 B21 (306.9, 650.5, 335.9, 658.5): moment. 
+P6 B22 (306.9, 687.9, 394.2, 697.9): 2.3 | Discussion 
+P6 B23 (306.9, 715.5, 549.7, 723.5): In Study 1, participants who had no prior experience with smart jour- 
+P6 B24 (306.9, 728.6, 549.7, 736.6): naling apps tested the app Day One for 2 weeks and were 
+P6 B25 (45.6, 51.4, 298.7, 59.4): TABLE 4 Potential opportunities and potential risks of continued use 
+P6 B26 (52.6, 69.2, 531.7, 87.2): Category Examples Number of participants 
+P6 B27 (52.6, 94.5, 98.0, 102.0): Opportunities 
+P6 B28 (60.2, 108.5, 479.2, 137.0): Comparison and development “I would find it very interesting to see where my focus is, what I focus on in life [and] whether that would change”, “One 
+P6 B29 (492.8, 108.5, 501.4, 116.0): 10 
+P6 B30 (60.2, 143.5, 501.4, 161.5): Extensive archive “It is a really nice thought that one could remember every event [from one's life], as one has it ready for recall”, “One would not 
+P6 B31 (60.1, 168.0, 479.6, 196.5): Practical benefits “It's very practical, you always have it with you—in the app”, “One could quickly look up things, find them again”, “I could imagin
+P6 B32 (497.1, 168.0, 501.4, 175.5): 6 
+P6 B33 (60.1, 203.0, 476.2, 231.5): Social function “If you have children or grandchildren, for example. [You could say]: Here, read this, this was me in my younger years”, “Maybe people
+P6 B34 (497.1, 203.0, 501.4, 210.5): 3 
+P6 B35 (60.1, 238.0, 501.4, 256.0): Intense re-experience “You get the opportunity to intensively re-experience the thoughts and feelings from back then”, “One could sort of go back into
+P6 B36 (60.1, 262.5, 501.4, 280.5): Summary “Also, [to have] a summary of the years. To see what the aspects of my life were that I considered important enough to be uploaded” 1 
+P6 B37 (60.1, 287.0, 501.4, 305.0): Learning from past experiences “Maybe you will not make certain mistakes anymore, because you realize ‘Ok, I have made this mistake and this will not 
+P6 B38 (60.1, 311.5, 501.4, 319.0): Other 2 
+P6 B39 (52.6, 325.5, 69.3, 333.0): Risks 
+P6 B40 (60.1, 339.5, 480.6, 368.0): Privacy and data protection “I think I would be a little scared with regards to data protection”, “The risk that others could access it. If one had re
+P6 B41 (492.8, 339.5, 501.3, 347.0): 10 
+P6 B42 (60.1, 374.5, 474.7, 403.0): Negative experiences through comparison “If I had done it for one year and then another year and that year was just totally fucked up, it would be rea
+P6 B43 (497.1, 374.5, 501.4, 382.0): 4 
+P6 B44 (60.2, 409.5, 501.4, 427.5): No forgetting “There are certainly also experiences that one does maybe not want to see again and again”, “Often you do not want to look back in certa
+P6 B45 (60.1, 434.0, 480.7, 462.5): More time with digital media “It's again another reason to spend more time with your smartphone”, “One is spending so much time with one's phone anywa
+P6 B46 (497.1, 434.0, 501.4, 441.5): 2 
+P6 B47 (60.1, 469.0, 501.4, 476.5): Data loss “When it's gone, everything is gone” 1 
+P6 B48 (60.1, 483.0, 475.6, 511.5): Devaluation of the present moment “Maybe it could make living in the moment a bit more difficult. Because, I do not know, if one would really capture 
+P6 B49 (497.1, 483.0, 501.4, 490.5): 1 
+P6 B50 (60.1, 518.0, 501.4, 525.5): Other 3 
+P6 B51 (45.6, 535.2, 164.1, 542.7): Note: Results from Study 1 (N = 12). 
+P6 B52 (45.6, 23.6, 549.7, 30.6): 692 HUTMACHER ET AL. 
+P6 B53 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P7 B0 (45.6, 403.5, 288.5, 411.5): interviewed about their subjective perceptions afterwards. These 
+P7 B1 (45.6, 416.5, 288.4, 424.5): interviews provide insights into the possible changes to autobiograph- 
+P7 B2 (45.6, 429.6, 288.4, 437.6): ical remembering in the digital age as seen from the users' perspective 
+P7 B3 (45.6, 442.5, 288.4, 450.5): as well as into the opportunities and risks potentially associated with 
+P7 B4 (45.6, 455.5, 288.4, 463.5): the continued use of a technology that allows creating a multimedia- 
+P7 B5 (45.6, 468.6, 288.4, 476.6): based, rich, and detailed record of one's life. As the participants in 
+P7 B6 (45.6, 481.5, 288.5, 489.5): Study 1 had no prior experience with smart journaling apps, they 
+P7 B7 (45.6, 494.5, 288.4, 502.5): shared the same starting conditions, allowing standardization and 
+P7 B8 (45.6, 507.5, 288.5, 515.5): ensuring that results can easily be compared across participants. How- 
+P7 B9 (45.6, 520.5, 288.5, 528.5): ever, a two-week test phase can be considered too short to draw 
+P7 B10 (45.6, 533.5, 288.4, 541.5): definitive conclusions about the perceived long-term effects of using 
+P7 B11 (45.6, 546.5, 288.5, 554.5): smart journaling apps. In order to cross-validate the obtained findings, 
+P7 B12 (45.6, 559.5, 288.5, 567.5): Study 2 was therefore based on in-depth interviews with long-time 
+P7 B13 (45.6, 572.5, 183.2, 580.5): users of different smart journaling apps. 
+P7 B14 (45.6, 609.9, 123.4, 619.9): 3 | STUDY 2 
+P7 B15 (45.6, 635.9, 125.2, 646.0): 3.1 | Methods 
+P7 B16 (45.6, 661.9, 145.0, 671.9): 3.1.1 | Participants 
+P7 B17 (45.6, 689.5, 288.4, 697.6): In total, four participants were interviewed (20–25 years, M = 22.50, 
+P7 B18 (45.6, 702.5, 288.5, 710.5): SD = 2.08, 3 female, 1 male). As the interviews were based on the 
+P7 B19 (45.6, 715.5, 288.4, 723.5): questions and categories already tested and established in Study 1, a 
+P7 B20 (45.6, 728.6, 288.5, 736.6): smaller sample size was deemed sufficient. Individuals were invited to 
+P7 B21 (306.9, 52.5, 549.7, 60.5): sign up for the study in case they were long-time users of a smart 
+P7 B22 (306.9, 65.5, 549.7, 73.5): journaling app. Long-time use was defined as continuous use lasting 
+P7 B23 (306.9, 78.5, 549.7, 86.5): 1 year or longer (M = 1.48 years, SD = 0.53, 1.08–2.25 years). Each 
+P7 B24 (306.9, 91.6, 549.7, 99.6): participant used a different smart journaling app (Day One, Daylio, 
+P7 B25 (306.9, 104.5, 549.7, 112.5): Diaro, iMoodJournal; see Table 5 for further information). Participants 
+P7 B26 (306.9, 117.5, 549.7, 125.5): were recruited through the participant recruitment system used by 
+P7 B27 (306.9, 130.6, 549.7, 138.6): the University of Würzburg (Germany). Based on the regulations for 
+P7 B28 (306.9, 143.5, 549.7, 151.5): conducting psychological research in Germany, no formal IRB 
+P7 B29 (306.9, 156.5, 549.7, 164.5): approval was required. The study was conducted in accordance with 
+P7 B30 (306.9, 169.6, 549.7, 177.6): the Helsinki Declaration and the ethical guidelines of the German Psy- 
+P7 B31 (306.9, 182.5, 549.7, 190.5): chological Society (DGPs). All participants provided written informed 
+P7 B32 (306.9, 195.5, 549.6, 203.5): consent and received course credit. The interviews were conducted in 
+P7 B33 (306.9, 208.5, 355.9, 216.5): January 2022. 
+P7 B34 (306.9, 245.9, 400.0, 255.9): 3.1.2 | Procedure 
+P7 B35 (306.9, 273.5, 549.7, 281.5): Before completing the interview, participants filled in an online ques- 
+P7 B36 (306.9, 286.5, 549.7, 294.5): tionnaire. They were asked about their age and gender as well as the 
+P7 B37 (306.9, 299.6, 549.7, 307.6): name of the app that they are using and the time that they spend with 
+P7 B38 (306.9, 312.5, 549.6, 320.5): the app per day. In addition, participants indicated since when they 
+P7 B39 (306.9, 325.5, 549.7, 333.5): are using the app. The interview procedure in Study 2 was largely sim- 
+P7 B40 (306.9, 338.6, 549.6, 346.6): ilar to the interview procedure in Study 1 (see the Supplemental 
+P7 B41 (306.9, 351.5, 549.7, 359.5): Material for the complete interview guides of both studies). Again, the 
+P7 B42 (306.9, 364.5, 549.6, 372.5): semi-structured interviews were conducted online and consisted of 
+P7 B43 (306.9, 377.5, 549.7, 385.5): three parts. First, participants were asked about their usage behavior. 
+P7 B44 (306.9, 390.5, 549.7, 398.5): As in Study 1, this included questions regarding the used functions, 
+P7 B45 (306.9, 403.5, 549.7, 411.5): the recorded content and the participants' overall evaluation of the 
+P7 B46 (306.9, 416.5, 549.7, 424.5): app. In addition, participants were asked when and why they began 
+P7 B47 (306.9, 429.5, 549.7, 437.5): using the app, whether their usage behavior has changed over time, 
+P7 B48 (306.9, 442.5, 549.6, 450.5): and how they currently use the app. Second, participants were asked 
+P7 B49 (306.9, 455.5, 549.7, 463.5): about the perceived effects of the use of the smart journaling app on 
+P7 B50 (306.9, 468.6, 549.7, 476.6): memory. Following an open question that asked participants to state 
+P7 B51 (306.9, 481.5, 549.6, 489.5): anything that came to their mind, participants were asked more spe- 
+P7 B52 (306.9, 494.5, 549.7, 502.5): cifically whether they had perceived any changes regarding the five 
+P7 B53 (306.9, 507.5, 549.7, 515.5): memory activities identified by Sellen and Whittaker (2010) as well as 
+P7 B54 (306.9, 520.5, 549.6, 528.5): the two additional memory activities identified in Study 1. Third, par- 
+P7 B55 (306.9, 533.5, 549.7, 541.5): ticipants were asked about the potential opportunities and risks with 
+P7 B56 (306.9, 546.5, 549.6, 554.5): respect to the continued use of a smart journaling app. Following an 
+P7 B57 (306.9, 559.5, 549.7, 567.5): open question, participants were asked more specifically whether 
+P7 B58 (306.9, 572.5, 549.7, 580.5): they saw the potential opportunities and risks identified in Study 
+P7 B59 (306.9, 585.5, 549.7, 593.5): 1. Similar to Study 1, it was emphasized that perceiving a specific 
+P7 B60 (306.9, 598.6, 549.7, 606.6): effect on memory, a certain opportunity or a certain risk, is just as 
+P7 B61 (306.9, 611.5, 549.7, 619.5): informative as not perceiving it. The interviews lasted between 
+P7 B62 (306.9, 624.5, 549.7, 632.5): 39 and 51 min (M = 44.48 min, SD = 5.51). All interviews were con- 
+P7 B63 (306.9, 637.6, 464.7, 645.6): ducted by the same interviewer as in Study 1. 
+P7 B64 (306.9, 674.9, 460.7, 684.9): 3.1.3 | Qualitative data analysis 
+P7 B65 (306.9, 702.5, 549.7, 710.5): The interviews were recorded and transcribed verbatim. The data 
+P7 B66 (306.9, 715.5, 549.6, 723.5): were analyzed with MAXQDA 2022 (VERBI Software) using qualita- 
+P7 B67 (306.9, 728.6, 549.6, 736.6): tive content analysis (Mayring, 2014, 2021). The codebook used for 
+P7 B68 (45.6, 51.4, 277.2, 59.4): TABLE 5 Smart journaling apps used by participants in Study 2 
+P7 B69 (52.6, 69.2, 164.8, 76.7): App Brief description 
+P7 B70 (52.6, 84.0, 281.4, 165.0): Daylio Daylio (https://daylio.net/) is a bullet journal that promises its users to keep track of their mood and their activities. Users can set themse
+P7 B71 (52.6, 171.5, 276.2, 242.0): Diaro Diaro (https://diaroapp.com/) enables users to combine text entries with photos. Mood tracking is possible. Entries can be tagged and location i
+P7 B72 (52.6, 248.5, 279.6, 319.0): iMoodJournal iMoodJournal (https://www.imoodjournal.com/) is a mood tracking app that allows users to record their mood in combination with tags, loca
+P7 B73 (45.6, 328.8, 285.0, 367.7): Note: Each participant in Study 2 (N = 4) used a different smart journaling app. One participant used Day One. As the characteristics of Day One were 
+P7 B74 (45.6, 23.6, 549.6, 30.6): HUTMACHER ET AL. 693 
+P7 B75 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P8 B0 (45.6, 52.5, 288.5, 60.5): analyzing the data was largely similar to the codebook used for Study 
+P8 B1 (45.6, 65.5, 288.5, 73.5): 1. More specifically, the only changes that were made to the code- 
+P8 B2 (45.6, 78.5, 288.5, 86.5): book were a direct result of the changes that were made to the inter- 
+P8 B3 (45.6, 91.6, 288.5, 99.6): view procedure. That is, the codebook included categories to capture 
+P8 B4 (45.6, 104.5, 288.4, 112.5): the participants' usage behavior, the perceived effects on memory, 
+P8 B5 (45.6, 117.5, 288.4, 125.5): and the potential opportunities and risks. As the reliability of the cod- 
+P8 B6 (45.6, 130.6, 288.5, 138.6): ing process had already been established in Study 1, the same coder 
+P8 B7 (45.6, 143.5, 288.5, 151.5): who had already served as the main coder in Study 1 coded the four 
+P8 B8 (45.6, 156.5, 288.5, 164.5): interviews. However, open questions and potentially ambiguous sec- 
+P8 B9 (45.6, 169.6, 288.5, 177.6): tions were discussed with the second coder who had already been 
+P8 B10 (45.6, 182.5, 139.0, 190.5): involved in coding Study 1. 
+P8 B11 (45.6, 219.9, 117.5, 229.9): 3.2 | Results 
+P8 B12 (45.6, 245.9, 161.2, 255.9): 3.2.1 | Usage behavior 
+P8 B13 (45.6, 273.5, 288.4, 281.5): All interviewed long-time users stated that they began using their 
+P8 B14 (45.6, 286.5, 288.5, 294.5): apps upon the recommendation of another person: in three cases a 
+P8 B15 (45.6, 299.6, 288.4, 307.6): friend, in one case a personal mentor. However, the motivation for 
+P8 B16 (45.6, 312.5, 288.5, 320.5): keeping a smart journal differed between participants. While one par- 
+P8 B17 (45.6, 325.5, 288.4, 333.5): ticipant stated that he wanted to identify patterns in his behavior in 
+P8 B18 (45.6, 338.6, 288.5, 346.6): order to change dysfunctional aspects of his life, another participant 
+P8 B19 (45.6, 351.5, 288.5, 359.5): initially intended to keep a dream diary and later decided to extend 
+P8 B20 (45.6, 364.5, 288.4, 372.5): the use. Another participant took the Corona pandemic and the time 
+P8 B21 (45.6, 377.5, 288.4, 385.5): that she had to spend in quarantine as a starting point and the last 
+P8 B22 (45.6, 390.5, 288.4, 398.5): participant explained that she had always wanted to keep a diary and 
+P8 B23 (45.6, 403.5, 288.4, 411.5): thought that using a smart journal could be a convenient way to do 
+P8 B24 (45.6, 416.5, 288.5, 424.5): so. While two participants recorded content in their smart journal 
+P8 B25 (45.6, 429.5, 288.4, 437.5): whenever they felt like doing so, the other two participants had set 
+P8 B26 (45.6, 442.5, 166.6, 450.5): themselves an automatic reminder. 
+P8 B27 (45.6, 468.2, 97.7, 476.7): Used functions 
+P8 B28 (45.6, 481.5, 288.5, 489.5): As in Study 1, all participants stored photos and wrote text. Interest- 
+P8 B29 (45.6, 494.5, 288.4, 502.5): ingly, other functions were only used to a very limited degree: One 
+P8 B30 (45.6, 507.5, 288.4, 515.5): participant used emojis to tag the recorded content, one participant 
+P8 B31 (45.6, 520.5, 288.5, 528.5): used the rating scales and analytics offered by the app, and one partici- 
+P8 B32 (45.6, 533.5, 288.4, 541.5): pant changed the app's layout. That is, the long-time users seemed to 
+P8 B33 (45.6, 546.5, 288.4, 554.5): use fewer functions than those participants who had used a smart 
+P8 B34 (45.6, 559.5, 288.4, 567.5): journaling app during a two-week test phase. Note, however, that this 
+P8 B35 (45.6, 572.5, 288.5, 580.5): difference is hard to interpret for at least two reasons. First, partici- 
+P8 B36 (45.6, 585.5, 288.4, 593.5): pants in Study 1 had been encouraged to try out different functions 
+P8 B37 (45.6, 598.6, 288.5, 606.6): while the long-term users might already have identified the (limited 
+P8 B38 (45.6, 611.5, 288.4, 619.5): number of) functions that work best for them. Second, three out of 
+P8 B39 (45.6, 624.5, 288.5, 632.5): four long-term users used different apps than Day One. Hence, the 
+P8 B40 (45.6, 637.6, 288.5, 645.6): participants of Study 2 might also have used fewer functions com- 
+P8 B41 (45.6, 650.5, 288.5, 658.5): pared to the participants of Study 1 because their app did simply not 
+P8 B42 (45.6, 663.5, 288.5, 671.5): offer as many functions or was not as user-friendly and easy to 
+P8 B43 (45.6, 676.5, 115.7, 684.5): explore as Day One. 
+P8 B44 (45.6, 702.1, 171.9, 710.6): Recorded and non-recorded content 
+P8 B45 (45.6, 715.5, 288.5, 723.5): As in Study 1, the content that participants recorded and stored 
+P8 B46 (45.6, 728.6, 288.4, 736.6): within their smart journal fell into three categories: All long-time users 
+P8 B47 (306.9, 52.5, 549.6, 60.5): recorded important and outstanding aspects of their lives as well as 
+P8 B48 (306.9, 65.5, 549.7, 73.5): ideas and thoughts that they had. Two participants also reported 
+P8 B49 (306.9, 78.5, 549.7, 86.5): recording everyday events. Concerning the aspects of their lives that 
+P8 B50 (306.9, 91.6, 549.7, 99.6): they decided not to record, three participants mentioned everyday 
+P8 B51 (306.9, 104.5, 549.7, 112.5): events. As in Study 1, the participants who recorded everyday events 
+P8 B52 (306.9, 117.5, 549.7, 125.5): and those who did not record everyday events were not mutually 
+P8 B53 (306.9, 130.6, 549.7, 138.6): exclusive groups. In other words, most participants decided to docu- 
+P8 B54 (306.9, 143.5, 549.6, 151.5): ment some everyday events, while not documenting others. Interest- 
+P8 B55 (306.9, 156.5, 549.6, 164.5): ingly, the long-time users did not mention the other two categories of 
+P8 B56 (306.9, 169.6, 549.7, 177.6): non-recorded content identified in Study 1 (i.e., events that were 
+P8 B57 (306.9, 182.5, 549.6, 190.5): deemed too personal as well as negative events and conflicts). One par- 
+P8 B58 (306.9, 195.5, 549.7, 203.5): ticipant additionally noted that she does not store content regarding 
+P8 B59 (306.9, 208.5, 549.7, 216.5): societal or political events, as they do not have the same intimate and 
+P8 B60 (306.9, 221.5, 487.8, 229.5): emotional value as the events from her personal life. 
+P8 B61 (306.9, 247.1, 370.8, 255.6): Overall evaluation 
+P8 B62 (306.9, 260.6, 549.6, 268.6): With respect to aspects that they experienced as positive during the 
+P8 B63 (306.9, 273.5, 549.7, 281.5): use, all participants referred to the clear structure and overall usability 
+P8 B64 (306.9, 286.5, 549.6, 294.5): of the apps that they used and three participants mentioned the wide 
+P8 B65 (306.9, 299.6, 549.7, 307.6): range of functions that the apps offer, confirming the impressions from 
+P8 B66 (306.9, 312.5, 549.7, 320.5): Study 1. Apart from that, one participant named several particular 
+P8 B67 (306.9, 325.5, 549.7, 333.5): functions such as the possibility to be reminded to create a new entry 
+P8 B68 (306.9, 338.6, 549.7, 346.6): on a daily basis. One participant mentioned that the app helped her to 
+P8 B69 (306.9, 351.5, 549.7, 359.5): reflect past experiences and to take time for herself, and one partici- 
+P8 B70 (306.9, 364.5, 549.7, 372.5): pant stated half-jokingly finding the app's logo attracting and energiz- 
+P8 B71 (306.9, 377.5, 549.6, 385.5): ing. Although the overall evaluation of the apps was quite positive, all 
+P8 B72 (306.9, 390.5, 549.7, 398.5): participants also mentioned aspects that they experienced as negative. 
+P8 B73 (306.9, 403.5, 549.7, 411.5): One participant mentioned occasional technical problems and another 
+P8 B74 (306.9, 416.5, 549.7, 424.5): participant stated that her free version of the app showed too many 
+P8 B75 (306.9, 429.5, 549.7, 437.5): advertisements. In addition, two participants mentioned minor prob- 
+P8 B76 (306.9, 442.5, 460.4, 450.5): lems related to the app's design and usability. 
+P8 B77 (306.9, 479.9, 482.5, 489.9): 3.2.2 | Perceived effects on memory 
+P8 B78 (306.9, 507.5, 549.6, 515.5): Regarding the question as to whether and, if so, how the use of a 
+P8 B79 (306.9, 520.5, 549.7, 528.5): smart journaling app affects different memory activities from the par- 
+P8 B80 (306.9, 533.5, 549.7, 541.5): ticipants' personal point of view, the results confirmed the findings 
+P8 B81 (306.9, 546.5, 549.7, 554.5): from Study 1. More specifically, all seven memory activities identified 
+P8 B82 (306.9, 559.5, 549.7, 567.5): by the short-term users in Study 1 were also experienced by at least 
+P8 B83 (306.9, 572.5, 549.7, 580.5): one long-time user. Furthermore, the long-time users did not report 
+P8 B84 (306.9, 585.5, 549.7, 593.5): any additional memory activities that had not already been detected 
+P8 B85 (306.9, 598.6, 549.7, 606.6): in Study 1. As far as the five memory activities proposed by Sellen 
+P8 B86 (306.9, 611.5, 549.7, 619.5): and Whittaker (2010) are concerned, the two activities that were 
+P8 B87 (306.9, 624.5, 549.6, 632.5): mentioned by most participants in Study 1, namely reflecting and recol- 
+P8 B88 (306.9, 637.6, 549.6, 645.6): lecting (see Table 3), were also the activities that were mentioned by 
+P8 B89 (306.9, 650.5, 549.7, 658.5): most long-time users (all long-time users in the case of reflecting and 
+P8 B90 (306.9, 663.5, 549.7, 671.5): three in the case of recollecting). Half of the long-time users reported 
+P8 B91 (306.9, 676.5, 549.6, 684.5): that using the smart journaling app has helped them with reminiscing 
+P8 B92 (306.9, 689.5, 549.7, 697.5): and retrieving and one participant mentioned using the smart journal- 
+P8 B93 (306.9, 702.5, 549.7, 710.5): ing app for remembering intentions. The interviews with the long-time 
+P8 B94 (306.9, 715.5, 549.6, 723.5): users also confirmed the validity of the two additional subjectively 
+P8 B95 (306.9, 728.5, 549.7, 736.5): perceived effects on memory identified in Study 1. All long-time users 
+P8 B96 (45.6, 23.6, 549.7, 30.6): 694 HUTMACHER ET AL. 
+P8 B97 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P9 B0 (45.6, 52.5, 288.4, 60.5): reported experiencing moments of anticipated noteworthiness, that is, 
+P9 B1 (45.6, 65.5, 288.4, 73.5): moments during an actual experience in which they were aware that 
+P9 B2 (45.6, 78.5, 288.4, 86.5): they would later store them in their smart journal. In addition, three 
+P9 B3 (45.6, 91.6, 288.4, 99.6): long-time users had the impression that externally recording and stor- 
+P9 B4 (45.6, 104.5, 288.4, 112.5): ing information about their lives improved their internal memory for 
+P9 B5 (45.6, 117.5, 288.4, 125.5): past events. The one participant who had not experienced this effect 
+P9 B6 (45.6, 130.6, 288.5, 138.6): stated that she does not believe that her “complete memory has 
+P9 B7 (45.6, 143.5, 288.5, 151.5): improved. Only if I want to go back to specific moments: Then it is 
+P9 B8 (45.6, 156.5, 183.0, 164.5): very helpful to read these things again.” 
+P9 B9 (45.6, 193.9, 180.9, 203.9): 3.2.3 | Future expectations 
+P9 B10 (45.6, 221.5, 288.5, 229.5): As in Study 1, participants were asked about the potential opportuni- 
+P9 B11 (45.6, 234.5, 288.5, 242.5): ties and risks with respect to the continued use of their smart journal- 
+P9 B12 (45.6, 247.5, 185.4, 255.5): ing apps in the last part of the interview. 
+P9 B13 (45.6, 273.1, 125.9, 281.6): Potential opportunities 
+P9 B14 (45.6, 286.5, 288.5, 294.5): With respect to the potential opportunities associated with a contin- 
+P9 B15 (45.6, 299.6, 288.4, 307.6): ued use, the results confirmed the findings from Study 1. Five out of 
+P9 B16 (45.6, 312.5, 288.4, 320.5): the seven opportunities identified in Study 1 were seen as such by all 
+P9 B17 (45.6, 325.5, 288.5, 333.5): long-time users. This applied to the idea that possessing a detailed 
+P9 B18 (45.6, 338.6, 288.4, 346.6): digital record of their past enables users to make comparisons and to 
+P9 B19 (45.6, 351.5, 288.5, 359.5): trace their personal development over time, that smart journals allow 
+P9 B20 (45.6, 364.5, 288.4, 372.5): the creation of an extensive archive while also providing a brief and 
+P9 B21 (45.6, 377.5, 288.4, 385.5): condensed summary of one's life, that one can use the content stored 
+P9 B22 (45.6, 390.5, 288.5, 398.5): in the diary to learn from past experiences, and that digital diaries have 
+P9 B23 (45.6, 403.5, 288.5, 411.5): several practical benefits. The remaining two opportunities identified 
+P9 B24 (45.6, 416.5, 288.5, 424.5): in Study 1, namely the possibility to intensively re-experience past 
+P9 B25 (45.6, 429.6, 288.4, 437.6): events and the possible social functions of digital diaries, were seen as 
+P9 B26 (45.6, 442.5, 288.4, 450.5): such by three long-time users. With respect to the possible social 
+P9 B27 (45.6, 455.5, 288.5, 463.5): functions of digital diaries, the user who did not see them as a poten- 
+P9 B28 (45.6, 468.6, 288.4, 476.6): tial opportunity stated that he keeps his diary for himself and not to 
+P9 B29 (45.6, 481.5, 288.4, 489.5): be shared with others, especially because he has recorded very per- 
+P9 B30 (45.6, 494.5, 288.4, 502.5): sonal thoughts and emotions. The long-time users did not report any 
+P9 B31 (45.6, 507.5, 288.5, 515.5): additional potential opportunities that had not already been detected 
+P9 B32 (45.6, 520.5, 82.5, 528.5): in Study 1. 
+P9 B33 (45.6, 546.1, 94.9, 554.6): Potential risks 
+P9 B34 (45.6, 559.6, 288.4, 567.6): The evaluation of the potential risks associated with a continued use 
+P9 B35 (45.6, 572.5, 288.4, 580.5): of smart journaling apps was a bit more controversial among the long- 
+P9 B36 (45.6, 585.5, 288.4, 593.5): time users than the evaluation of the potential opportunities. While 
+P9 B37 (45.6, 598.6, 288.5, 606.6): all long-time users reported being afraid of data loss and three of them 
+P9 B38 (45.6, 611.5, 288.4, 619.5): saw risks regarding privacy and data protection (the fourth participant 
+P9 B39 (45.6, 624.5, 288.4, 632.5): stated that “this is something that one could think about but it does 
+P9 B40 (45.6, 637.6, 288.4, 645.6): not really bother me”), the other risks were only confirmed by some 
+P9 B41 (45.6, 650.5, 288.5, 658.5): long-time users whereas others provided arguments why they do not 
+P9 B42 (45.6, 663.5, 288.5, 671.5): see these risks. Concerning the idea that using a smart journal could 
+P9 B43 (45.6, 676.5, 288.4, 684.5): devalue the present moment, one participant stated that “if you are 
+P9 B44 (45.6, 689.5, 288.5, 697.5): completely in the moment and enjoying the moment and then you 
+P9 B45 (45.6, 702.5, 288.5, 710.5): take out your phone and start typing […] this could definitely snap 
+P9 B46 (45.6, 715.5, 288.4, 723.5): you out of the moment” and another participant added that “this 
+P9 B47 (45.6, 728.5, 288.5, 736.6): could be a risk for some people”. As these statements already make 
+P9 B48 (306.9, 52.5, 549.7, 60.5): clear, these two participants acknowledged that such a problem could 
+P9 B49 (306.9, 65.5, 549.7, 73.5): exist but had not directly experienced it themselves. A similar pattern 
+P9 B50 (306.9, 78.5, 549.7, 86.5): could be observed regarding the idea that using a smart journal would 
+P9 B51 (306.9, 91.5, 549.6, 99.5): result in spending (even) more time with digital media. While two par- 
+P9 B52 (306.9, 104.5, 549.7, 112.5): ticipants generally acknowledged that this could be a problem without 
+P9 B53 (306.9, 117.5, 549.6, 125.5): seeing a problem for themselves, the other two participants did not 
+P9 B54 (306.9, 130.6, 549.7, 138.6): perceive the risk for different reasons. One participant stated that she 
+P9 B55 (306.9, 143.5, 549.7, 151.5): only uses the smart journal for a couple of minutes per day and 
+P9 B56 (306.9, 156.5, 549.7, 164.5): another participant remarked that keeping a smart journal is a better 
+P9 B57 (306.9, 169.6, 549.7, 177.6): way of spending one's time with digital media than “watching some- 
+P9 B58 (306.9, 182.5, 549.6, 190.6): thing on Instagram for the tenth time during the day”. The idea that 
+P9 B59 (306.9, 195.5, 549.7, 203.5): possessing a detailed record of one's past would mean that no forget- 
+P9 B60 (306.9, 208.5, 549.7, 216.5): ting takes place and that one runs at risk of being reminded of nega- 
+P9 B61 (306.9, 221.5, 549.6, 229.6): tive events and experiences was considered “a great risk, if not the 
+P9 B62 (306.9, 234.5, 549.6, 242.5): greatest” by one participant—and another participant added that it 
+P9 B63 (306.9, 247.5, 549.7, 255.5): could keep individuals from suppressing memories that they may want 
+P9 B64 (306.9, 260.5, 549.7, 268.5): to suppress. In contrast, the other two participants noted that being 
+P9 B65 (306.9, 273.5, 549.6, 281.5): reminded of negative experiences is not necessarily negative in itself 
+P9 B66 (306.9, 286.5, 549.7, 294.5): but could also help to “work through these negative things again in 
+P9 B67 (306.9, 299.5, 549.7, 307.6): your mind”. The closely related risk that one could make negative 
+P9 B68 (306.9, 312.5, 549.7, 320.5): experiences through comparison with one's former self was also per- 
+P9 B69 (306.9, 325.5, 549.7, 333.5): ceived by two participants. In contrast, one participant stated that 
+P9 B70 (306.9, 338.6, 549.6, 346.6): making such a negative experience could also be a starting point for 
+P9 B71 (306.9, 351.5, 549.6, 359.5): future positive developments and should therefore not be considered 
+P9 B72 (306.9, 364.5, 549.7, 372.5): a risk. Another participant stated that she does not consider her past 
+P9 B73 (306.9, 377.5, 549.7, 385.5): self identical to her present self so that comparing her past to her pre- 
+P9 B74 (306.9, 390.5, 549.7, 398.6): sent self does not lead to negative experiences: “I mean, I am a stu- 
+P9 B75 (306.9, 403.5, 549.7, 411.5): dent now and in ten years not anymore, hopefully. And then, some 
+P9 B76 (306.9, 416.5, 549.7, 424.5): things will have changed in my life and I don't think that I would com- 
+P9 B77 (306.9, 429.5, 549.7, 437.6): pare it like this.” In addition to these risks identified in Study 1, one 
+P9 B78 (306.9, 442.5, 549.6, 450.5): participant mentioned two more potential problems with the contin- 
+P9 B79 (306.9, 455.5, 549.7, 463.5): ued use of a smart journaling app. On the one hand, the participant— 
+P9 B80 (306.9, 468.5, 549.6, 476.5): who was the only long-time user who had not observed an improved 
+P9 B81 (306.9, 481.5, 549.7, 489.5): internal memory—remarked that keeping a detailed record of one's life 
+P9 B82 (306.9, 494.5, 549.7, 502.5): could lead to an inner impoverishment. In other words, the participant 
+P9 B83 (306.9, 507.5, 549.7, 515.5): hypothesized that it would be problematic if smart journals were 
+P9 B84 (306.9, 520.5, 549.7, 528.5): indeed used for cognitive offloading. On the other hand, the partici- 
+P9 B85 (306.9, 533.5, 549.7, 541.5): pant stated that spending too much time with one's diary on the 
+P9 B86 (306.9, 546.5, 549.6, 554.5): expense of sharing experiences with others could be considered a 
+P9 B87 (306.9, 559.5, 372.4, 567.5): solipsistic endeavor. 
+P9 B88 (306.9, 596.9, 461.0, 607.0): 4 | GENERAL DISCUSSION 
+P9 B89 (306.9, 624.5, 549.7, 632.5): The present research sought to identify possible changes to autobio- 
+P9 B90 (306.9, 637.6, 549.7, 645.6): graphical remembering in the digital age by analyzing interviews with 
+P9 B91 (306.9, 650.5, 549.6, 658.5): users of smart journaling apps. In particular, we had two main goals. 
+P9 B92 (306.9, 663.5, 549.6, 671.5): First, to understand the ways in which the use of a smart journaling 
+P9 B93 (306.9, 676.5, 549.7, 684.5): app affects memory and processes of remembering from the users' 
+P9 B94 (306.9, 689.5, 549.7, 697.5): subjective point of view. Second, to provide a comprehensive over- 
+P9 B95 (306.9, 702.5, 549.6, 710.5): view of the opportunities and risks potentially associated with the 
+P9 B96 (306.9, 715.5, 549.7, 723.5): continued use of a technology that allows creating a multimedia- 
+P9 B97 (306.9, 728.5, 549.7, 736.5): based, rich, and detailed record of one's life. In Study 1, participants 
+P9 B98 (45.6, 23.6, 549.6, 30.6): HUTMACHER ET AL. 695 
+P9 B99 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P10 B0 (45.6, 52.5, 288.5, 60.5): who had no prior experience with smart journaling apps tested the 
+P10 B1 (45.6, 65.5, 288.4, 73.5): app Day One for 2 weeks and were interviewed about their subjective 
+P10 B2 (45.6, 78.5, 288.5, 86.5): perceptions afterwards. In order to cross-validate the obtained find- 
+P10 B3 (45.6, 91.6, 288.4, 99.6): ings, Study 2 was based on in-depth interviews with long-time users 
+P10 B4 (45.6, 104.5, 288.5, 112.5): of smart journaling apps. Taken together, these two studies provide 
+P10 B5 (45.6, 117.5, 136.4, 125.5): several important insights. 
+P10 B6 (60.7, 130.6, 288.4, 138.6): As demonstrated in Study 1, participants believe that the use of 
+P10 B7 (45.6, 143.5, 288.4, 151.5): smart journaling apps can positively influence the memory activities 
+P10 B8 (45.6, 156.5, 288.4, 164.5): of recollecting, reminiscing, retrieving, reflecting, and remembering 
+P10 B9 (45.6, 169.6, 288.4, 177.6): intentions (Sellen & Whittaker, 2010). In addition to these activities 
+P10 B10 (45.6, 182.5, 288.4, 190.5): identified in previous research, participants described further per- 
+P10 B11 (45.6, 195.5, 288.4, 203.5): ceived effects on processes of remembering. In particular, participants 
+P10 B12 (45.6, 208.5, 288.4, 216.5): had the impression that externally recording and storing information 
+P10 B13 (45.6, 221.5, 288.5, 229.5): about their lives improved their internal memory for past events. That 
+P10 B14 (45.6, 234.5, 288.4, 242.5): is, participants do not seem to use smart journals for cognitive off- 
+P10 B15 (45.6, 247.5, 288.4, 255.5): loading, but rather for cognitive augmentation (Eliseev & 
+P10 B16 (45.6, 260.6, 288.4, 268.6): Marsh, 2021). Given that one could assume that participants are able 
+P10 B17 (45.6, 273.5, 288.4, 281.5): to remember events from their recent past without the help of an 
+P10 B18 (45.6, 286.5, 288.4, 294.5): external memory aid and given that the participants used the app for 
+P10 B19 (45.6, 299.6, 288.5, 307.6): only 2 weeks, the finding that even a short-term use of a smart jour- 
+P10 B20 (45.6, 312.5, 288.4, 320.5): naling app significantly affects the way participants assess their mem- 
+P10 B21 (45.6, 325.5, 288.4, 333.5): ories may seem surprising—and hints at the transformative power that 
+P10 B22 (45.6, 338.6, 288.4, 346.6): digital technologies could potentially have (see also Finley & 
+P10 B23 (45.6, 351.5, 288.4, 359.5): Naaz, 2022, for a nuanced analysis). Support for this conclusion is also 
+P10 B24 (45.6, 364.5, 288.5, 372.5): provided by participants' expectation that the perceived effects would 
+P10 B25 (45.6, 377.5, 207.0, 385.5): become more pronounced with continued use. 
+P10 B26 (60.7, 390.6, 288.4, 398.6): This coincides well with the general observation that participants 
+P10 B27 (45.6, 403.5, 288.4, 411.5): saw many opportunities in using smart journaling apps. Interestingly, 
+P10 B28 (45.6, 416.5, 288.4, 424.5): the opportunities described by the participants seemed to be line with 
+P10 B29 (45.6, 429.6, 288.5, 437.6): the key functions of autobiographical memory identified in previous 
+P10 B30 (45.6, 442.5, 288.4, 450.5): research (cf. Bluck et al., 2005). That is, participants seemed to per- 
+P10 B31 (45.6, 455.5, 288.4, 463.5): ceive opportunities in creating a detailed and digital record of their 
+P10 B32 (45.6, 468.6, 288.4, 476.6): lives if and insofar as this record serves the directive function (e.g., by 
+P10 B33 (45.6, 481.5, 288.4, 489.5): giving them the opportunity to learn from past experiences), the self 
+P10 B34 (45.6, 494.5, 288.4, 502.5): function (e.g., by equipping them with an extensive archive of their 
+P10 B35 (45.6, 507.5, 288.5, 515.5): lives), or the social function (e.g., by enabling them to share their 
+P10 B36 (45.6, 520.5, 288.4, 528.5): memories with others) of autobiographical memory. Apart from that, 
+P10 B37 (45.6, 533.5, 288.5, 541.5): the positive evaluation of the smart journaling app was also mirrored 
+P10 B38 (45.6, 546.5, 288.4, 554.5): in the participants' concrete intention to continue using the app after 
+P10 B39 (45.6, 559.5, 288.5, 567.5): the end of the study. Despite the apparent potential of smart journal- 
+P10 B40 (45.6, 572.5, 288.4, 580.5): ing apps to become an enriching external memory aid, however, exist- 
+P10 B41 (45.6, 585.5, 288.4, 593.5): ing concerns regarding privacy and data protection could turn out to 
+P10 B42 (45.6, 598.6, 288.4, 606.6): be a major problem—especially as these concerns led several partici- 
+P10 B43 (45.6, 611.5, 288.5, 619.5): pants not to record personal and intimate information. This is particu- 
+P10 B44 (45.6, 624.5, 288.4, 632.5): larly interesting as the participants who signed up for the study were 
+P10 B45 (45.6, 637.6, 288.5, 645.6): fully aware of the purpose of the research. In other words, although 
+P10 B46 (45.6, 650.5, 288.5, 658.5): these participants were generally willing and curious to try out a new 
+P10 B47 (45.6, 663.5, 233.3, 671.5): technology, they were still hesitant to fully embrace it. 
+P10 B48 (60.7, 676.5, 288.4, 684.5): These results regarding the perceived effects on memory and 
+P10 B49 (45.6, 689.5, 288.5, 697.5): processes of remembering as well as regarding the potential opportu- 
+P10 B50 (45.6, 702.5, 288.5, 710.5): nities and risks were largely corroborated by Study 2. To begin with, 
+P10 B51 (45.6, 715.5, 288.5, 723.5): the long-time users perceived the same effects on memory and pro- 
+P10 B52 (45.6, 728.5, 288.5, 736.5): cesses of remembering as the short-time users. In this context, two 
+P10 B53 (306.9, 52.5, 549.7, 60.5): limitations should be noted that apply to both studies. First, the inter- 
+P10 B54 (306.9, 65.5, 549.7, 73.5): views reported in this paper were concerned with the users' subjec- 
+P10 B55 (306.9, 78.5, 549.7, 86.5): tive perceptions and evaluations. Hence, it remains to be determined 
+P10 B56 (306.9, 91.5, 549.7, 99.5): whether these subjective perceptions translate into actual changes to 
+P10 B57 (306.9, 104.5, 549.7, 112.5): autobiographical memory that can be measured. Interestingly, there 
+P10 B58 (306.9, 117.5, 549.6, 125.5): are studies demonstrating that taking pictures can—at least under cer- 
+P10 B59 (306.9, 130.5, 549.6, 138.6): tain conditions—improve one's internal memory (for reviews, see 
+P10 B60 (306.9, 143.5, 549.7, 151.5): Foley, 2020; Silva et al., 2018; see also Mair et al., 2017). Against this 
+P10 B61 (306.9, 156.5, 549.6, 164.5): background, similar studies on the other potential effects identified in 
+P10 B62 (306.9, 169.6, 549.7, 177.6): the interviews seem highly promising. In addition, exploring in more 
+P10 B63 (306.9, 182.5, 549.6, 190.5): detail how specific features of smart journaling apps can support spe- 
+P10 B64 (306.9, 195.5, 549.7, 203.5): cific memory activities and the related memory systems is highly rele- 
+P10 B65 (306.9, 208.5, 549.6, 216.5): vant from both a theoretical and a practical perspective. Second, it 
+P10 B66 (306.9, 221.5, 549.7, 229.5): remains to be determined whether the perceived effects on memory 
+P10 B67 (306.9, 234.5, 549.7, 242.5): and processes of remembering observed in the context of smart jour- 
+P10 B68 (306.9, 247.5, 549.7, 255.5): nals differ substantially from the effects of traditional paper-based 
+P10 B69 (306.9, 260.5, 549.7, 268.6): diaries (cf. Elsden, Durrant, & Kirk, 2016). As the users repeatedly 
+P10 B70 (306.9, 273.5, 549.6, 281.5): referred to the overall usability and the wide range of functions of 
+P10 B71 (306.9, 286.5, 549.6, 294.5): smart journaling apps when being asked about the positive features of 
+P10 B72 (306.9, 299.6, 549.7, 307.6): these new technologies, it seems plausible to speculate that smart 
+P10 B73 (306.9, 312.5, 549.7, 320.5): journals could indeed have new transformative effects. However, 
+P10 B74 (306.9, 325.5, 549.6, 333.5): more research is needed to further validate this speculation— 
+P10 B75 (306.9, 338.6, 549.7, 346.6): especially as the range of functions that the participants effectively 
+P10 B76 (306.9, 351.5, 549.7, 359.5): used was quite limited and did not exhaust all options that the smart 
+P10 B77 (306.9, 364.5, 403.5, 372.5): journaling apps would offer. 
+P10 B78 (321.8, 377.5, 549.7, 385.5): As already mentioned above, the interviews with the long-time 
+P10 B79 (306.9, 390.5, 549.7, 398.6): users in Study 2—by and large—also confirmed the results from Study 
+P10 B80 (306.9, 403.5, 549.7, 411.5): 1 regarding the potential opportunities and risks associated with the 
+P10 B81 (306.9, 416.5, 549.6, 424.5): continued use of smart journaling apps. More specifically, short-time 
+P10 B82 (306.9, 429.5, 549.7, 437.5): and long-time users particularly agreed with respect to the potential 
+P10 B83 (306.9, 442.5, 549.7, 450.5): opportunities, while the potential risks identified in the interviews 
+P10 B84 (306.9, 455.5, 549.7, 463.5): with the short-time users were a bit more controversial among the 
+P10 B85 (306.9, 468.6, 549.7, 476.6): long-time users. Note, however, that concerns regarding privacy and 
+P10 B86 (306.9, 481.5, 549.7, 489.5): data protection also played a major role among long-time users. The 
+P10 B87 (306.9, 494.5, 549.7, 502.5): differences between the two studies regarding the potential risks 
+P10 B88 (306.9, 507.5, 549.7, 515.5): could, of course, be attributable to the fact that long-term and short- 
+P10 B89 (306.9, 520.5, 549.7, 528.5): time users have made different experiences or used the apps with dif- 
+P10 B90 (306.9, 533.5, 549.7, 541.5): ferent motivations. While participants in Study 1 began using the app 
+P10 B91 (306.9, 546.5, 549.7, 554.5): because they had signed up for participation in the study, participants 
+P10 B92 (306.9, 559.5, 549.7, 567.5): in Study 2 were voluntary users who had decided to use their smart 
+P10 B93 (306.9, 572.5, 429.9, 580.5): journaling app for personal reasons. 
+P10 B94 (321.8, 585.5, 549.7, 593.5): However, the observed differences between the two studies 
+P10 B95 (306.9, 598.5, 549.7, 606.5): regarding the potential risks also point to two further issues. On the 
+P10 B96 (306.9, 611.5, 549.7, 619.5): one hand and despite Bush's (1945) early vision, the technology 
+P10 B97 (306.9, 624.5, 549.7, 632.5): underlying smart journaling apps is still relatively new. Hence, thinking 
+P10 B98 (306.9, 637.5, 549.7, 645.5): about potential long-term risks and benefits necessarily remains spec- 
+P10 B99 (306.9, 650.5, 549.6, 658.5): ulative to a certain extent. On the other hand, the disagreement 
+P10 B100 (306.9, 663.5, 549.7, 671.5): among participants mirrors the disagreement in the academic debate 
+P10 B101 (306.9, 676.5, 549.7, 684.5): with respect to the future of autobiographical memory in the digital 
+P10 B102 (306.9, 689.5, 549.6, 697.5): age (cf. Eliseev & Marsh, 2021; Heersmink & Carter, 2020; Storm & 
+P10 B103 (306.9, 702.5, 549.7, 710.5): Soares, in press). As in the case of other digital technologies devel- 
+P10 B104 (306.9, 715.5, 549.7, 723.5): oped in recent years, it seems plausible to assume that smart journals 
+P10 B105 (306.9, 728.6, 549.7, 736.6): can have both positive and negative effects on individuals and that 
+P10 B106 (45.6, 23.6, 549.7, 30.6): 696 HUTMACHER ET AL. 
+P10 B107 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P11 B0 (45.6, 52.5, 288.4, 60.5): the strength of these effects depends on various boundary conditions 
+P11 B1 (45.6, 65.5, 288.5, 73.5): (cf. Appel et al., 2020; Orben & Przybylski, 2019). Hence, the potential 
+P11 B2 (45.6, 78.5, 288.5, 86.5): opportunities and risks identified by the participants can serve as a 
+P11 B3 (45.6, 91.6, 288.5, 99.6): valuable starting point for further in-depth investigations but should 
+P11 B4 (45.6, 104.5, 199.5, 112.5): not be taken as the last word on the subject. 
+P11 B5 (60.7, 117.5, 288.4, 125.5): In sum, the present research provides evidence for the idea that 
+P11 B6 (45.6, 130.6, 288.5, 138.6): autobiographical remembering could change profoundly in the digital 
+P11 B7 (45.6, 143.5, 288.5, 151.5): age. Smart journals offer a convenient possibility to collect and com- 
+P11 B8 (45.6, 156.5, 288.4, 164.5): bine data from different sources in order to create a multifaceted 
+P11 B9 (45.6, 169.6, 288.4, 177.6): record of one's life. As digital technologies have already transformed 
+P11 B10 (45.6, 182.5, 288.5, 190.5): other aspects of our daily lives, there is no reason to believe that they 
+P11 B11 (45.6, 195.5, 288.5, 203.5): could not also transform autobiographical remembering. At the same 
+P11 B12 (45.6, 208.5, 288.5, 216.5): time, existing concerns regarding privacy and data protection could 
+P11 B13 (45.6, 221.5, 288.4, 229.5): potentially undermine such transformative effects as they may pre- 
+P11 B14 (45.6, 234.5, 288.4, 242.5): vent individuals from using these technologies. Importantly, the pre- 
+P11 B15 (45.6, 247.5, 288.5, 255.5): sent research also demonstrates that both utopian and dystopian 
+P11 B16 (45.6, 260.5, 288.4, 268.5): visions of the future of autobiographical memory are too simplistic to 
+P11 B17 (45.6, 273.5, 288.4, 281.5): account for the complexity of reality. Instead of discussing the 
+P11 B18 (45.6, 286.5, 288.4, 294.5): science-fictionesque vision of a total recall (Bell & Gemmell, 2009), it 
+P11 B19 (45.6, 299.6, 288.5, 307.6): seems more important to investigate the specific effects that digital 
+P11 B20 (45.6, 312.5, 288.4, 320.5): technologies can have on autobiographical remembering and on the 
+P11 B21 (45.6, 325.5, 288.5, 333.5): users' perceptions of their memories in order to enable an informed 
+P11 B22 (45.6, 338.6, 200.3, 346.6): discussion about potential risks and benefits. 
+P11 B23 (45.6, 364.5, 141.3, 372.5): ACKNOWLEDGMENTS 
+P11 B24 (45.6, 377.5, 288.4, 385.5): The authors would like to thank the two anonymous reviewers for 
+P11 B25 (45.6, 390.5, 288.5, 398.5): their extremely helpful comments and suggestions. Open Access 
+P11 B26 (45.6, 403.5, 213.4, 411.5): funding enabled and organized by Projekt DEAL. 
+P11 B27 (45.6, 429.5, 149.2, 437.5): CONFLICT OF INTEREST 
+P11 B28 (45.6, 442.5, 224.2, 450.5): The authors have no conflicts of interest to declare. 
+P11 B29 (45.6, 468.5, 189.6, 476.5): DATA AVAILABILITY STATEMENT 
+P11 B30 (45.6, 481.5, 257.1, 489.5): Data are available upon reasonable request from the authors. 
+P11 B31 (45.6, 507.5, 73.9, 515.5): ORCID 
+P11 B32 (45.6, 520.5, 262.3, 528.5): Fabian Hutmacher https://orcid.org/0000-0002-0018-2559 
+P11 B33 (45.6, 546.5, 94.0, 554.5): ENDNOTES 
+P11 B34 (45.6, 557.6, 288.4, 620.9): 1 Note that we are fully aware that there is a vast amount of literature on lifelogging (for an overview, see Selke, 2016). However, lifelogging prac-
+P11 B35 (45.6, 623.6, 288.4, 655.4): 2 As all interviews in both Study 1 and Study 2 were conducted in German, the direct quotes taken from the material were translated into English by th
+P11 B36 (45.6, 678.5, 101.4, 686.5): REFERENCES 
+P11 B37 (45.6, 691.9, 288.4, 731.0): Appel, M., Marker, C., & Gnambs, T. (2020). Are social media ruining our lives? A review of meta-analytic evidence. Review of General Psychol- ogy, 24
+P11 B38 (306.9, 52.5, 549.7, 732.0): Bell, G., & Gemmell, J. (2009). Total recall: How the e-memory revolution will change everything. Dutton. Bluck, S., Alea, N., Habermas, T., & Rubin, 
+P11 B39 (45.6, 23.6, 549.6, 30.6): HUTMACHER ET AL. 697 
+P11 B40 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond
+P12 B0 (45.6, 52.5, 288.4, 648.0): Heersmink, R. (2018). The narrative self, distributed memory, and evoca- tive objects. Philosophical Studies, 175, 1829–1849. https://doi.org/ 10.1007
+P12 B1 (306.9, 52.5, 549.6, 490.5): Petrelli, D., & Whittaker, S. (2010). Family memories in the home: Con- trasting physical and digital mementos. Personal and Ubiquitous Computing, 14(
+P12 B2 (306.9, 515.1, 432.1, 523.1): SUPPORTING INFORMATION 
+P12 B3 (306.9, 528.1, 549.7, 536.1): Additional supporting information can be found online in the Support- 
+P12 B4 (306.9, 541.1, 473.3, 549.1): ing Information section at the end of this article. 
+P12 B5 (319.9, 574.3, 505.6, 582.3): How to cite this article: Hutmacher, F., Schläger, L., & 
+P12 B6 (319.9, 587.3, 523.9, 595.3): Meerson, R. (2023). Autobiographical memory in the digital 
+P12 B7 (319.9, 600.3, 533.9, 608.3): age: Insights based on the subjective reports of users of smart 
+P12 B8 (319.9, 613.3, 531.9, 621.3): journaling apps. Applied Cognitive Psychology, 37(4), 686–698. 
+P12 B9 (319.9, 626.3, 439.4, 634.3): https://doi.org/10.1002/acp.4033 
+P12 B10 (45.6, 23.6, 549.7, 30.6): 698 HUTMACHER ET AL. 
+P12 B11 (578.1, 15.7, 585.6, 766.6):  10990720, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/acp.4033, Wiley Online Library on [31/10/2026]. See the Terms and Cond

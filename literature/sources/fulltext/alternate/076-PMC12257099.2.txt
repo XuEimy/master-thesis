@@ -1,0 +1,262 @@
+
+JOURNAL INFORMATION
+==============================
+NLM Title Abbreviation: J Gerontol B Psychol Sci Soc Sci
+Journal ID: J Gerontol B Psychol Sci Soc Sci
+NLM Journal ID: 9508483
+
+The journals of gerontology. Series B, Psychological sciences and social sciences
+
+ISSN: 1079-5014
+EISSN: 1758-5368
+
+ARTICLE INFORMATION
+==============================
+PMCID: PMC12257099
+Article ID: NIHMS2098656
+PMID: 40394857
+DOI: 10.1093/geronb/gbaf093
+Article ID: NIHMS2098656
+Article ID: NIHPA2098656
+Article version: 2
+Subjects: Article
+
+Training Autobiographical Memory in Older Adults using Photos from Wearable Cameras
+
+Felinto Tuíla Maciel PhD 1
+Worth Tory BS 2
+Welch Erin BS 3
+Cabeza Roberto PhD 2
+1 Psychology Institute, Federal University of Rio Grande do Sul, Porto Alegre, RS, Brazil.
+2 Center for Cognitive Neuroscience, Duke University, Durham, NC, USA.
+3 Department of Psychology, Columbia University, New York, NY, USA.
+* Address correspondence to: Roberto Cabeza, PhD. cabeza@duke.edu
+Print publication date: 2025 Jun 10
+Volume: 80
+Issue: 7
+Electronic Location ID: gbaf093
+Author manuscript; available in PMC: 2025 Aug 8
+
+Keywords: Episodic memory, Lifelogging cameras, Memory rehabilitation, Cognitive aging
+
+License: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+==============================
+Objectives:
+
+Older adults are substantially impaired in memory for specific past events, particularly for memory of contextual information, such as when an event happened (temporal-order memory). In the current study, we investigated a novel approach for training temporal-order memory in older adults using wearable cameras that automatically take first-person photos of participants’ lives.
+
+Methods:
+
+As opposed to the traditional method of training memory using simple laboratory stimuli (laboratory memory—LM), our method trained memory using participants’ life events (autobiographical memory—AM). We randomly assigned participants to three groups, the AM group trained using photos from wearable cameras, the LM group trained using conventional laboratory stimuli (scene photos), and the control VK (vocabulary knowledge) group trained on word definitions. We assessed temporal-order memory for AM events (AM task) and LM stimuli (LM task) in the lab before and after training, which occurred at home 5 days per week for 4–5 weeks.
+
+Results:
+
+A significant interaction showed that AM training was more effective for enhancing autobiographical memory whereas LM training was more effective in improving laboratory memory. The control training condition did not enhance either form of memory.
+
+Discussion:
+
+The results suggest that using photos from wearable cameras is a promising approach for improving autobiographical memory in older adults.
+
+Introduction
+
+Healthy older adults are impaired in memory for specific past events, particularly for contextual features of these events, such as where and when they happened (Levine et al., 2002). To address these deficits, different memory training approaches have been developed. Even though the goal of memory training programs is to improve memory for everyday life events (autobiographical memory—AM), the vast majority of them train memory for simple laboratory stimuli (laboratory memory—LM) (Rebok et al., 2007). This is problematic because the transfer of training from laboratory tasks to real life is very limited (Bahar-Fuchs et al., 2019; Bahk & Choi, 2018). In a consensus opinion (Max Planck Institute for Human Development & Stanford Center on Longevity, 2014), sixty-nine scientists concluded that, although cognitive training in older adults can improve performance on trained tasks, “very few training programs have shown evidence that such gains translate into improved performance in the complex realm of everyday life. A program might train you to memorize lists of words, for example, but this particular skill is not likely to help you remember where you left your car keys or the time of an upcoming appointment.” In other words, LM training may improve LM, but it often fails to improve memory in real life, that is, AM.
+
+If transfer from LM training to AM function is limited, why do researchers persist in training LM? This is likely due to two reasons. First, training memory requires retrieval cues, which are harder to collect for AMs than LMs. For LM, retrieval cues are typically constant across participants (e.g., a list of words), whereas for AM, they must be individual to each participant (e.g., diary entries). Second, training is more effective when accurate feedback is provided (Adam & Vogel, 2018; da Silva & Sunderland, 2010), and the accuracy of AMs is usually difficult or impossible to assess. Fortunately, both issues can be addressed using wearable recording technologies, such as wearable cameras. Wearable cameras can automatically log personal events from a first-person perspective, providing (1) stimuli for training AM and (2) objective records for assessing accuracy. Also, there is evidence that wearable camera photos serve as powerful memory cues that can enhance AM in both healthy and memory-impaired individuals (Allé et al., 2017; Hodges et al., 2011; Silva, Pinho, Macedo et al., 2016). Moreover, these photos are ideal stimuli for memory training because they are highly relevant to participants and change frequently, enhancing motivation and preventing boredom with the training. Thus, to enhance everyday memory in older adults, we investigated the use of wearable cameras to train temporal-order memory.
+
+A growing body of evidence shows that wearable camera photos are an efficient retrieval cue to AMs (Allé et al., 2017; Silva, Pinho, Macedo, et al., 2016), including triggering memories for details not present in the photos (Berry et al., 2007; Silva, Pinho, Macedo, et al., 2017). People often capture photos documenting various aspects of their daily lives and use them later as a means to reminisce about their past. However, there is evidence that compared to photos taken intentionally, photos captured automatically by a wearable camera are more effective as AM cues (Sellen et al., 2007). For example, Selwood et al. (2020) found that participants who reviewed photos automatically collected by a wearable camera recalled more event details than those who reviewed photos from a regular digital camera.
+
+Most previous studies exploring the use of wearable cameras as tools for improving memory for life events focused on the effects of reviewing the photos on subsequent memory, without necessarily developing a memory training protocol. Mair et al. (2017) found that reviewing these photos in chronological or random order enhanced recall of the reviewed events, with a small but significant effect favoring chronological order presentation. The same group (Mair et al., 2018) also found that reviewing photos from wearable cameras enhanced recall for non-visual details in the reviewed events. Whereas these studies only assessed AM for the reviewed events, another study investigated far transfer to emotional measures (Silva, Pinho, Moulin, et al., 2017; Silva, Pinho, Macedo, et al., 2017). This study found that reviewing photos and training in cognitive strategies improved depressive symptoms and perceived functional capacity compared to a control group. A fourth study compared three types of event review interventions in schizophrenic patients and controls: reading verbal descriptions of the events, viewing photos, and photo presentation plus talking about the events. They found that intervention patients were able to recall as much detail about the events as controls (Dassing et al., 2020). Finally, Gelonch et al. (2020) investigated individuals with Mild Cognitive Impairment (MCI) who wore a wearable camera for fifteen days while also keeping a daily activity logbook. The results showed that regular, repeated reviewing of photos and the logbook improved memory for reviewed events.
+
+These studies are important because they pioneered the use of wearable camera photos in AM investigation, but they were not designed as memory training studies. (1) They focused on the effects of simply reviewing photos on memory, which is a passive form of learning. There is abundant evidence that, compared to passive reviewing, testing memories is a more effective learning method (for a review, see Rowland, 2014). This “testing effect” is larger for more effortful tests (Rowland, 2014), which supports the idea that training tasks should be demanding. (2) Previous studies did not assess the accuracy of retrieved AMs, and hence, participants did not receive feedback regarding their AM retrieval. This is problematic because feedback allows participants to assess the effectiveness of the strategies they use, and it reinforces the use of successful strategies (Zhang et al., 2016). (3) Given that previous studies did not assess AM accuracy, they could only assess AM improvement using rather qualitative measures, such as memory richness. (4) Finally, and most importantly, prior studies investigated the effect of using wearable cameras on improving AM for specific events (e.g. viewing photos of a birthday party enhances memory for the birthday party), rather than training AM ability (e.g. training memory for a birthday party enhances memory for other events), which requires assessing AMs for new events after training. This is critical because the ultimate goal of cognitive training is to enhance cognitive function, rather than performance on a particular set of stimuli. The current wearable camera-based AM training study addressed the foregoing four issues: (1) training consisted of testing memories elicited by wearable camera photos; (2) feedback was provided for AM retrieval decisions; (3) feedback was based on objective AM accuracy measures; and (4) training effects were assessed for non-trained AM events that occurred after the training period.
+
+We focused on training temporal-order memory for AM events for several reasons. In addition to allowing the assessment of AM accuracy, as wearable cameras time-stamp each photo, temporal-order memory is an ideal form of memory to train. First, temporal-order memory is a form of context memory, which is the type of memory most impaired in healthy older adults (Folville et al., 2020; Piolino et al., 2002; Spencer & Raz, 1995) and the first one to decline in Alzheimer’s Disease (Dubois et al., 2007). Second, temporal-order memory is critical in everyday life, and when it fails, consequences can be serious (Did I take the pill this morning or was that yesterday?). Third, temporal-order memory is highly dependent on control processes (D’Argembeau et al., 2015), which are required for relating and ordering life events, and hence, training temporal-order memory could have beneficial effects for executive functions. Consistent with this idea, patient and functional neuroimaging studies show that temporal-order memory depends on both frontal and hippocampal regions (for reviews, see Clewett et al., 2019; Ranganath & Hsieh, 2016; Shimamura et al., 1991), and the anatomical and functional decline of these regions have been identified as major causes of age-related memory decline (for a review, see Cabeza et al., 2017). Thus, there are several excellent reasons why temporal-order memory is an ideal memory function to train in older adults.
+
+As illustrated by Figure 1, the current study consisted of six phases: (1) participants visit the lab where they are instructed on how to use the wearable camera; (2) they wear the camera for a week without training memory, which yields the photos used in the pre-training AM task; (3) they visit the lab for a second time, where they provide pre-training measures in an Autobiographical Memory (AM) task (using previous week’s events) and in a Laboratory Memory (LM) task (using generic images); (4) participants train at home for 4–5 weeks in the AM task, LM task, or the Vocabulary Knowledge (VK) task (only the AM group wears the camera); (5) they stop training but wear the camera for another week (all three groups), which yields the photos for the post-training AM task; and (6) they visit the lab for the third time, where they provide post-training measures of AM (previous week’s events) and LM.
+
+The analyses focused on changes between pre- and post-training memory measures in the three groups. Given that events (AM) and stimuli (LM) assessed by these measures were never trained, the post-pre difference reflects changes in memory ability rather than the learning of specific information. Based on our assumptions that memory training transfers better within than across types of memory, we predicted an interaction between types of training and memory tasks: AM training would enhance AM better than LM training, whereas LM training would enhance LM better than AM training. We did not expect the control VK training task, which targets crystallized language ability, would enhance either memory task. Additionally, we investigated the potential transfer of memory training to neuropsychological measures (NIH Toolbox).
+
+Methods
+
+Participants
+
+Data from 75 participants were collected: six did not complete the study due to personal reasons that did not allow for commitment to a long study; five were unable to follow the instructions by themselves at home; four could not complete the study due to equipment problems; and three had the study interrupted due to the COVID-19 outbreak. The final sample included 57 participants (43 women), from 55 to 80 years old (M = 64.35, SD = 6.78), divided into three groups: Autobiographical Memory training group (AM = 19), Laboratory Memory training group (LM = 21) and Vocabulary Knowledge training group (VK = 17). Potential participants were screened for self-reported history of neurological or psychiatric issues, dementia or Mild Cognitive Impairment, and inability to read or understand English. Participants gave written informed consent for a protocol approved by the Duke University Institutional Review Board. Additional information regarding procedures, details about the use of the wearable camera, and data analysis are included in the Supplementary Material.
+
+Materials
+
+Participants received a wearable camera (Narrative Clip 2; www.getnarrative.com), which was programmed to take one photo per minute. They also received a laptop, which included custom-made software for downloading the photos from the wearable camera, processing the photos, and presenting the training task.
+
+Tasks
+
+NIH Toolbox.
+
+Before and after training, participants completed the NIH Toolbox Cognitive Battery (Heaton et al., 2014), which includes seven individual instruments to assess five cognitive sub-domains: language, executive function, episodic memory, processing speed, and working memory. From these individual measures, two composite scores are derived, Fluid and Crystallized Cognition, which allow for an evaluation of overall cognitive functioning and are more reliable than individual measures. For each individual and composite measure, the NIH Toolbox provides four different normative scores. Since we are interested in monitoring changes in performance over time, we used the Age Corrected Standard Score in our analysis (National Institutes of Health & Northwestern University, 2016).
+
+Autobiographical Memory (AM) Task.
+
+This task measured temporal-order memory for AM events, assessing the participant’s ability to determine which of two past AM events happened more recently. The two events happened during the week before pre- and post-training sessions, but they could have happened up to two weeks apart during training. Figure 2A displays the structure of each trial, which started with a fixation cross (0.8 second) and was followed by two 5-second clips (0.25 second between them), one on the left and one on the right of the screen. Each clip consisted of 5 photos of one event (1 second each). The clip being presented was highlighted by a white frame to ensure that participants looked at the correct side of the screen. After the two clips, the question “Which one of the events below is the most recent?” appeared at the top of the screen, and participants answered by touching the corresponding side of the screen. During the training phase, feedback was provided in the form of a green check mark (correct) or a red “x” (incorrect). Participants performed a maximum of 60 trials in each training session.
+
+Laboratory Memory (LM) Task.
+
+The LM is a typical temporal-order experimental task with an encoding phase and a retrieval phase (Figure 2B). During the encoding phase, the participants viewed two lists of 30 scenes, separated by 10 trials of an unrelated task (VK task) to facilitate temporal-order decisions. Each list started with a screen indicating the list number, which was followed by scenes presented for 3 seconds each and separated by a 0.8-second fixation cross. The scenes (photos of landscapes, street views, parks, etc.) were selected from an image database, and participants were instructed to memorize them. In the test phase, which occurred immediately after, participants viewed the 60 encoded scenes in random order, and for each one, they indicated their corresponding list by touching the list number on the screen. During the training phase, participants were provided feedback, which was identical to that in the AM task. A different set of 60 scenes was presented every time the participant performed the LM task. The scenes were not repeated across lists in the LM condition. Each scene was presented only once.
+
+Vocabulary Knowledge (VK) Task.
+
+In each trial of the VK task (Figure 2C), a word definition was presented on the top half of the screen (e.g., “quick judging and understanding”) and three word options on the bottom half of the screen (“perspicacity”, “acumen”, “shrewdness”). Participants selected the option they believed matched the definition by touching the word on the screen. During the training phase, feedback was identical to the AM and LM tasks. A different set of 60 definitions and words was used every time the participant performed the task. The VK task was selected as the control task for three reasons: (1) we did not expect that training on the VK task would enhance either the AM or LM tasks; (2) the VK was approximately matched to the AM and LM task in terms of time and demands during the training sessions at home; and (3) it is perceived by subjects as a good memory training task. Not being aware of the distinction between episodic and semantic memory, many older adults believe that tasks tapping semantic memory, such as crossword puzzles, help them prevent age-related memory decline (Hertzog et al., 2010; Horhota et al., 2012). Thus, we assumed that the VK task would be a good control for placebo effects.
+
+Results
+
+Participant, stimuli, and reaction time data
+
+As shown in Table 1, there were no significant differences between the three groups in age (p = 0.127) or education (p = 0.729). Before training, there were also no significant differences in number of photos taken (p = 0.158), number of useful photos (p = 0.723), number of events recorded by the wearable camera (p = 0.431), or reaction times in AM (p = 0.895) and LM (p = 0.815) tasks. There was, however, a difference in gender distribution between the control group (VK) and the experimental groups (AM and LM), with the control group including more women.
+
+Effects of training on memory performance
+
+Before turning to the critical AM and LM training conditions, we focused first on the control VK training condition. We did not predict that this training condition, in which participants practiced a semantic memory task, would enhance episodic memory performance in either AM or LM tasks. As expected, the VK group did not show improvement in either the AM task (t(16) = 0.354, p = 0.728) or the LM task (t(16) = 0.19, p = 0.852) (Figure 3C). This result is important because it demonstrates that the mere act of practicing a task perceived as potentially beneficial to memory does not produce a placebo effect on the two experimental tasks investigated (AM and LM). Thus, it is unlikely that the effects of AM and LM training on these tasks can be attributed to a placebo effect.
+
+Turning to the critical AM and LM training groups, we investigated our main prediction that memory training effects would be stronger within than across memory types. In other words, we predicted that AM performance would be improved (pre- vs. post-training) more by AM than LM training, whereas LM performance would be enhanced to a greater extent by LM than AM training. To investigate this predicted interaction, we performed a 3-way mixed ANOVA with Training Effect (pre vs. post) and Memory Type (AM task vs. LM task) as within-subject factors and Training Type (AM training vs. LM training) as a between-subject factor. Confirming our prediction, we found a significant 3-way interaction (F(1,92) = 4.122, p = 0.045). There were also significant main effects of Training Effect (F(1,92) = 4.895, p = 0.029) and Memory Type (F(1,92 = 28.287, p < 0.001). The main effect of Training Type was not significant (F(1,92) = 0.757, p = 0.386) (Figures 3A and 3B).
+
+Effect of memory training on global cognitive measures
+
+Although we did not expect a substantial transfer of temporal-order memory training on global cognitive measures, we explored this possibility using a neuropsychological test battery (NIH Toolbox) that yields Fluid and Crystallized Cognition composites. For the Fluid Cognition composite measure, there was a significant main effect of Training Effect, F(2, 48) = 26.007, p < 0.001, n2p = 0.351, with both AM (p = 0.04) and VK (p = 0.014) training groups showing significant improvement from pre- to post-training measures (Figure 4A). For the Crystallized Cognition composite measure, there was a significant main effect of Training Effect, F(2, 48) = 6.804, p = 0.012, n2p = 0.124 (Figure 4B). Given that the neuropsychological tasks used before and after training were identical and they were separated by only 6 weeks, these improvements in performance most likely reflect practice effects.
+
+Exploratory analyses on factors modulating AM and LM performance
+
+As noted in the Methods section, in addition to the main analyses focused on memory training, we also explored three factors potentially modulating memory performance: (1) the delay between the encoding of the AM event or LM stimulus and the AM or LM task, respectively, (2) the duration of the original AM event in “real life”, and (3) the lag between the two AM events in each temporal-order AM trial. These results are displayed in Figure 4.
+
+The effect of encoding-retrieval Delay was significant in AM performance t(31053.985) = 22.835, p < 0.001, with better accuracy for shorter (M = 0.846, SD = 0.361) than longer (M = 0.744, SD = 437) delays (Figure 5A). Likewise, Delay had a reliable effect on LM accuracy, t(15434.294) = 10.401, p < 0.001, with better accuracy for shorter (M = 0.931, SD = 0.253) than longer (M = 0.884, SD = 0.32) delays (Figure 5B). Turning to the original AM event Duration (time between the first and last photo of an AM event), the trials were sorted into LL (both events longer than the median), SS (both events shorter than the median), and LS (one event longer and the other shorter than the median). Comparing these types of trials, there was a significant difference in accuracy in the AM task, F(2, 21461) = 3.322, p = 0.036 (Figure 5C). Trials in which both events were longer (M = 0.807, SD = 0.394) were more accurate (p < 0.031) than trials in which one of the events was shorter (M = 0.79, SD = 0.407). There was no significant difference between the other combinations of trial types. Finally, the Time Lag between the two events in AM task trials significantly enhanced performance, t(28990.386) = 39.364, p < 0.001, with better accuracy for longer (M = 0.881, SD = 0.324) than shorter (M = 0.708, SD = 0.455) lags (Figure 5D).
+
+Discussion
+
+Given older adults’ significant deficits with event memory in everyday life, a variety of memory training programs have been developed to rehabilitate memory in this group. Most of these programs have focused on training memory for lab stimuli (laboratory memory—LM) rather than memory for everyday life events (autobiographical memory—AM). Unfortunately, transfer of training across types of memory is limited (Greenwood & Parasuraman, 2016; McDaniel & Bugg, 2012; Schwaighofer et al., 2015). Thus, instead of using a traditional LM training method and seeking transfer from LM to AM, we focused on directly training AM. Training AM is difficult, but it has been facilitated by new wearable technology, such as wearable cameras. As mentioned before, some studies investigated using wearable camera photos to improve AM, but these were limited in that they only tested improvement in memory for reviewed AM events, rather than improvement of AM ability. In contrast, we developed an AM training protocol that aimed to improve AM ability, and we tested whether AM was enhanced for events that occurred after the training period. We focused on temporal-order memory and compared training temporal-order memory for AM events using wearable camera photos versus training temporal-order memory for LM stimuli (generic scenes from an image database).
+
+As predicted, we found a significant interaction indicating that AM performance was enhanced to a greater extent by AM than LM training, whereas LM performance was improved more by LM than AM training. This result suggests that if the goal is to enhance older adults’ memory in the real world, it is better to directly train their memory for their personal life events (AM training) than to train their memory for simple laboratory stimuli (LM training). In addition to the interaction between types of training and types of tasks, we also found an effect of time lag on the accuracy of AM and LM temporal-order memory decisions. The two findings are discussed in separate sections below.
+
+Effects of training on memory performance
+
+The main finding of this study was the interaction between types of training and types of memory tasks: AM training transferred better to AM performance whereas LM training transferred better to LM performance. This result is consistent with the transfer-appropriate processing principle (Morris et al., 1977), which states that memory is a function of the similarity between encoding and retrieval operations. Although this principle has been supported by plenty of experimental memory studies (McDaniel et al., 2013; Rohrer et al., 2010; Veltre et al., 2014; see Pan & Rickard (2018) for a review), it has not been followed by most memory training studies. These studies typically train cognition using laboratory paradigms and stimuli and seek to improve cognition in very different conditions from those in the real world. The results show that, unfortunately, the transfer from laboratory training to cognition in the real world is small. Our approach was to bypass this issue and train the specific ability we aimed to improve: temporal-order memory for AM events. The interaction we found supports this approach.
+
+Which differences between AM and LM explain the transfer-appropriate processing effect observed in the current study? Although participants were not explicitly instructed by the task to recall the presented events in detail, the study is based on the premise that, depending on the temporal distance between the presented events, they must engage in reconstructive processes to respond to the task (Friedman, 2004). In a temporal-order decision task, participants are expected to use contextual detail reconstruction processes for events that occurred very close to each other to identify elements that help them remember when each event took place and which one was more recent. While this study does not provide direct evidence regarding this question, the differences between AM and LM processes have been previously discussed in the literature (Cabeza et al., 2004; McDermott et al., 2009). In an fMRI study (Cabeza et al., 2004), we noted that emotional content, visuo-spatial content, recollection, and self-referential processing tend to be higher for AM than LM. Consistent with the latter, differences in neural activity in regions associated with visual processing (visual cortex), recollection (hippocampus), and self-referential processing (medial prefrontal cortex) were greater for AM than for LM. A meta-analysis by McDermott et al. (2009) confirmed these differences and found additional ones. Given these various dissimilarities in cognitive operations and neural mechanisms between AM and LM, it is not surprising that transfer of training is better within than across these types of memory.
+
+Effect of time lag on AM and LM
+
+In addition to testing our hypothesis of differential transfer between AM and LM, we also explored the effects of variables that could potentially affect temporal-order memory performance. We found that (1) AM and LM performance was better for recent events than older events, (2) AM performance was superior for longer than shorter events, and (3) temporal-order judgments were more accurate for longer than shorter lags between AM events. The first two findings are rather expected: the first finding is explained by greater forgetting of older events (Radvansky et al., 2022), and the second most likely reflects better memory for events with a richer memory trace. In contrast, the third finding deserves some discussion.
+
+As noted above, the time lag between the events being compared in temporal-order decisions is typically longer for AM (days, months, years) than for LM (seconds, minutes). This time lag effect can be explained by the two main types of processes mediating temporal-order memory decisions: reconstruction and distance processes (Friedman, 1993, 2004; Curran & Friedman, 2003; St Jacques et al., 2008; Deker & Pathman, 2021). Reconstruction processes involve retrieving contextual details and using them to infer the order of past events, whereas distance processes rely on the relative strength of the memory traces. In an fMRI study, we asked participants to take photos of different campus locations (St Jacques et al., 2008), and then we scanned them while making temporal-order decisions. We hypothesized that temporal-order decisions for shorter lags would be more dependent on recollection-based reconstruction processes, whereas temporal-order decisions for longer lags could be partly mediated by familiarity-based distance processes. A time lag effect was found, and consistent with our hypothesis, shorter-lag decisions elicited greater hippocampal activation and left prefrontal cortex (PFC), while longer-lag decisions differentially engaged the right PFC. Given that aging impairs recollection more than familiarity (Levine et al., 2002), these results suggest it is better to use shorter time lags when training temporal order memory in older adults. In the current study, AM time lags between events compared were separated by less than two weeks, which is relatively short for AM.
+
+Caveats
+
+It is important to mention a few caveats regarding the study. First, the VK control group had a greater proportion of women than the AM and LM control groups. This gender imbalance does not affect the main finding of the study that AM training was better for autobiographical memory and LM training for laboratory memory because these two groups were matched in gender. Second, our sample size was rather small, with each group containing fewer than 20 participants. Clearly, the results of the current study should be replicated by wearable camera studies with larger samples. Finally, the temporal-order tasks in the AM and LM conditions were not perfectly matched. In the AM condition, participants made recency judgments, whereas in the LM condition, they made List 1/List 2 judgments. We chose the latter task as representative of the temporal-order LM experiments, and we do not believe the small methodological difference between recency vs. list judgments can explain the differential effects of AM and LM training. At any rate, this is an issue worth investigating in future studies.
+
+Conclusion
+
+In summary, the results of this study demonstrate that it is feasible to train memory using wearable technology and realistic stimuli. This approach may offer advantages over traditional memory training methods that use laboratory paradigms and stimuli (LM). Since the primary goal of memory training is to enhance memory in everyday life, or autobiographical memory (AM), our finding that training AM using wearable camera photos led to better transfer to AM performance than training LM suggests that the novel approach described in this study could be preferable in certain cases. Additionally, this study stands out for its innovative approach of allowing participants to perform the training at home, using stimuli that are more relevant and personally meaningful to each individual.
+
+The current study provides the first evidence that training AM is better at enhancing memory for everyday life events than the dominant method of training using laboratory stimuli. The use of wearable technology allowed us to train AM directly, bypassing the difficulty of obtaining significant transfer from LM training to AM tasks. We focused on temporal-order memory, which simplified the assessment of accuracy and the provision of feedback. Future investigations could expand trained AM domains, from temporal-order memory (when) to other forms of context memory (where, how, who, etc.).
+
+Supplementary Material
+
+1
+
+Acknowledgements
+
+The authors acknowledge the contributions of Cathal Gurrin, Alan Smeaton, and collaborators in developing the image processing and segmenting software used in this study. We also thank Gustavo Gauer for his consulting in matters regarding data collection and data analysis.
+
+Funding
+
+This work was supported by the National Institute on Aging of the National Institutes of Health (R21-AG059006).
+
+Data Availability
+
+This study was not preregistered. Data are available by request.
+
+Figure 1 Timeline of the memory training protocol.
+
+Figure 2 Trial structure of the Autobiographical Memory task (A), Laboratory Memory task (B) and Vocabulary Knowledge task (C).
+
+Figure 3. Performance before and after training in the AM task and the LM task for the Autobiographical Memory training group (A), Laboratory Memory training group (B), and Vocabulary Knowledge training group (C). Error bars indicate standard error of the mean.
+
+Figure 4 Performance before and after training in the Fluid (A) and Crystallized (B) Intelligence composite measures of the NIH Toolbox.
+
+Figure 5. Effect of encoding-retrieval delay on the AM task (A); effect of encoding-retrieval delay on the LM task (B); effect of original event duration on the AM task (C); and effect of time lag between events on the AM task (D). In graphs A and B, events were coded as longer or shorter in relation to sample mean. In all graphs, error bars indicate standard error of the mean.
+
+Table 1 Summary of demographic, camera, and reaction time data for each group.
+
+	AM	LM	VK	
+Participant information	(n = 19)	(n = 21)	(n = 17)	
+Age (years), M (SD)	63.5 (7.5)	62.8 (5.6)	67.1 (6.7)	
+Gender (%)				
+ Female	68.4	66.7	94.1	
+ Male	31.6	33.3	5.8	
+Education, n				
+ 1 year of college/technical training	0	1	0	
+ 2 years of college/technical training	4	3	2	
+ 3 years of college/technical training	0	2	0	
+ 4 years of college/technical training/Bachelor’s degree	7	6	7	
+ Postgrad work	1	2	1	
+ Master’s degree	5	6	6	
+ Doctoral degree	2	1	1	
+Photos taken, M (SD)	309.6 (72.6)	346.6 (81.5)	370.6 (124.5)	
+Useful photos, M (SD)	209.6 (58.7)	225.5 (61.7)	223.6 (77.9)	
+Events, M (SD)	10.4 (2.4)	11.3 (3.2)	11.9 (4.4)	
+RT AM task (sec), M (SD)	6.4 (3.1)	7.02 (4.3)	6.9 (3.3)	
+RT LM task (sec), M (SD)	1.1 (0.3)	1.1 (0.5)	1.2 (0.3)	
+Note. AM = autobiographical memory; LM = laboratory memory; VK = vocabulary knowledge; RT = reaction time.
+
+Conflict of Interest
+
+The authors declare that they have no conflict of interest.
+
+
+References
+
+Adam KCS & Vogel EK (2018). Improvements to visual working memory performance with practice and feedback. PLoS ONE, 13(8), e0203279. 10.1371/journal.pone.0203279 30161210 PMC6117037
+Allé MC , Manning L , Potheegadoo J , Coutelle R , Danion JM , & Berna F (2017). Wearable cameras are useful tools to investigate and remediate autobiographical memory impairment: A systematic PRISMA review. Neuropsychology Review, 27(1), 81–99. 10.1007/s11065-016-9337-x 28070792
+Bahar-Fuchs A , Martyr A , Goh AMY , Sabates J , & Clare L (2019). Cognitive training for people with mild to moderate dementia. Cochrane Database of Systematic Reviews, 3, CD013069. 10.1002/14651858.cd013069.pub2 30909318 PMC6433473
+Bahk YC , & Choi KH (2018). The relationship between autobiographical memory, cognition, and emotion in older adults: A review. Aging, Neuropsychology, and Cognition, 25(6), 874–892. 10.1080/13825585.2017.1377681 28895783
+Berry E , Kapur N , Williams L , Hodges S , Watson P , Smyth G , Srinivasan J , Smith R , Wilson B , & Wood K (2007). The use of a wearable camera, SenseCam, as a pictorial diary to improve autobiographical memory in a patient with limbic encephalitis: a preliminary report. Neuropsychological Rehabilitation, 17(4–5), 582–601. 10.1080/09602010601029780 17676536
+Cabeza R , Prince SE , Daselaar SM , Greenberg DL , Budde M , Dolcos F , LaBar KS , & Rubin DC (2004). Brain activity during episodic retrieval of autobiographical and laboratory events: an fMRI study using a novel photo paradigm. Journal of Cognitive Neuroscience, 16(9), 1583–1594. 10.1162/0898929042568578 15622612
+Cabeza R , Nyberg L , & Park DC (2017). Cognitive Neuroscience of Aging: Linking Cognitive and Cerebral Aging. Second Edition. New York: Oxford University Press.
+Clewett D , DuBrow S , Davachi L (2019). Transcending time in the brain: How event memories are constructed from experience. Hippocampus, 29(3), 162–183. 10.1002/hipo.23074 30734391 PMC6629464
+Curran T & Friedman WJ (2003). Differentiating location- and distance-based processes in memory for time: An ERP study. Psychonomic Bulletin & Review, 10(3), 711–717. 10.3758/BF03196536 14620368 PMC1350916
+D’Argembeau A , Jeunehomme O , Majerus S , Bastin C , & Salmon E (2015). The neural basis of temporal order processing in past and future thought. Journal of Cognitive Neuroscience, 27(1), 185–197. 10.1162/jocn_a_00680 24960045
+da Silva L & Sunderland A (2010). Effects of immediate feedback and errorless learning on recognition memory processing in young and older adults. Neuropsychological Rehabilitation, 20(1), 42–58. 10.1080/09602010903036731 19626558
+Dassing R , Allé MC , Cerbai M , Obrecht A , Meyer N , Vidailhet P , Danion J , Mengin AC , & Berna F (2020). Cognitive intervention targeting autobiographical memory impairment in patients with schizophrenia using a wearable camera: A proof-of-concept study. Frontiers in Psychiatry, 11, 1–14. 10.3389/fpsyt.2020.00397 32528320 PMC7247825
+Deker L & Pathman T (2021). Did I visit the polar bear before the giraffe? Examining memory for temporal order and the temporal distance effect in early to middle childhood. Applied Cognitive Psychology, 35(3), 785–794. 10.1002/acp.3804
+Dubois B , Feldman HH , Jacova C , DeKosky ST , Barberger-Gateau P , Cummings J , Delacourte A , Galasko D , Gauthier S , Jicha G , Meguro K , O’Brien J , Pasquier F , Robert P , Rossor MN , Salloway S , Stern Y , Visser PJ , & Scheltens P (2007). Research criteria for the diagnosis of Alzheimer’s disease: Revising the NINCDS-ADRDA criteria. The Lancet Neurology, 6(8), 734–746. 10.1016/s1474-4422(07)70178-3 17616482
+Folville A , Jeunehomme O , Bastin C , & D’Argembeau A (2020). The impact of age on the temporal compression of daily life events in episodic memory. Psychology and Aging, 35(4), 484–496. 10.1037/pag0000456 32162944
+Friedman WJ (1993). Memory for the time of past events. Psychological Bulletin, 113(1), 44–66. 10.1521/soco.22.5.591.50766
+Friedman WJ (2004). Time in autobiographical memory. Social Cognition, 22(5), 591–605. 10.1521/soco.22.5.591.50766
+Gelonch O , Cano N , Vancells M , Bolaños M , Farràs-Permanyer L , & Garolera M (2020). The effects of exposure to recent autobiographical events on declarative memory in amnestic mild cognitive impairment: A preliminary pilot study. Current Alzheimer Research, 17(2), 158–167. 10.2174/1567205017666200317093341 32183672
+Greenwood PM & Parasuraman R (2016). The mechanisms of far transfer from cognitive training: Review and hypothesis. Neuropsychology, 30(6), 742–755. 10.1037/neu0000235 26569030
+Heaton RK , Akshoomoff N , Tulsky D , Mungas D , Weintraub S , Dikmen S , Beaumont J , Casaletto KB , Conway K , Slotkin J , & Gershon R (2014). Reliability and validity of composite scores from the NIH Toolbox Cognition Battery in adults. Journal of the International Neuropsychological Society, 20, 588–598. 10.1017/s1355617714000241 24960398 PMC4103963
+Hertzog C , McGuire CL , Horhota M , & Jopp D (2010). Does believing in “use it or lose it” relate to self-rated memory control, strategy use, and recall? The International Journal of Aging and Human Development, 70(1), 61–87. 10.2190/AG.70.1.c 20377166 PMC2852899
+Hodges S , Berry E , & Wood K (2011). SenseCam: A wearable camera that stimulates and rehabilitates autobiographical memory. Memory, 19(7), 685–696. 10.1080/09658211.2011.605591 21995708
+Horhota M , Lineweaver T , Ositelu M , Summers K , & Hertzog C (2012). Young and older adults’ beliefs about effective ways to mitigate age-related memory decline. Psychology and Aging, 27(2), 293–304. 10.1037/a0026088 22082012 PMC3865785
+Levine B , Svoboda E , Hay JF , Winocur G , & Moscovitch M (2002). Aging and autobiographical memory: Dissociating episodic from semantic retrieval. Psychology and Aging, 17(4), 677–689. 10.1037/0882-7974.17.4.677 12507363
+Mair A , Poirier M , & Conway MA (2017). Supporting older and younger adults’ memory for recent everyday events: A prospective sampling study using SenseCam. Consciousness and Cognition, 49, 190–202. 10.1016/j.concog.2017.02.008 28214769
+Mair A , Poirier M , & Conway MA (2018). Memory for staged events: Supporting older and younger adults’ memory with SenseCam. Quarterly Journal of Experimental Psychology, 72(4), 717–728. 10.1177/1747021818765038 29504463
+Max Planck Institute for Human Development & Stanford Center on Longevity (2014). A Consensus on the Brain Training Industry from the Scientific Community. https://longevity.stanford.edu/a-consensus-on-the-brain-training-industry-from-the-scientific-community-2/
+McDaniel MA & Bugg JM (2012). Memory training interventions: What has been forgotten? Journal of Applied Research in Memory and Cognition, 1(1), 45–50. 10.1016/j.jarmac.2011.11.002 PMC3308351 22448346
+McDaniel MA , Thomas RC , Agarwal PK , McDermott KB , & Roediger HL (2013). Quizzing in middle-school science: Successful transfer performance on classroom exams. Applied Cognitive Psychology, 27(3), 360–372. 10.1002/acp.2914
+McDermott KB , Szpunar KK , & Christ SE (2009). Laboratory-based and autobiographical retrieval tasks differ substantially in their neural substrates. Neuropsychologia, 47, 2290–2298. 10.1016/j.neuropsychologia.2008.12.025 19159634
+Morris CD , Bransford JD , & Franks JJ (1977). Levels of processing versus transfer appropriate processing. Journal of Verbal Learning and Verbal Behavior, 16(5), 519–533. 10.1016/S0022-5371(77)80016-9
+National Institutes of Health & Northwestern University (2016). NIH Toolbox Scoring and Interpretation Guide for the iPad. https://www.nihtoolbox.org/app/uploads/2022/05/Toolbox_Scoring_and_Interpretation_Guide_for_iPad_v1.7-5.25.21.pdf
+Pan SC , & Rickard TC (2018). Transfer of test-enhanced learning: Meta-analytic review and synthesis. Psychological Bulletin, 144(7), 710–756. 10.1037/bul0000151 29733621
+Piolino P , Desgranges B , Benali K , & Eustache F (2002). Episodic and semantic remote autobiographical memory in ageing. Memory, 10(4), 239–257. 10.1080/0965821143000353 12097209
+Radvansky GA , Doolen AC , Pettijohn KA , & Ritchey M (2022). A new look at memory retention and forgetting. Journal of Experimental Psychology: Learning, Memory, and Cognition, 48(11), 1698–1723. 10.1037/xlm0001110 35084927
+Ranganath C , & Hsieh LT (2016). The hippocampus: A special place for time. Annals of the New York Academy of Sciences, 1369(1), 93–110. 10.1111/nyas.13043 27082833
+Rebok GW , Carlson MC , & Langbaum JB (2007). Training and maintaining memory abilities in healthy older adults: Traditional and novel approaches. The Journals of Gerontology Series B: Psychological Sciences and Social Sciences, 62(Special Issue 1). 10.1093/geronb/62.special_issue_1.53 17565165
+Rohrer D , Taylor K , & Sholar B (2010). Tests enhance the transfer of learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 36(1), 233–239. 10.1037/a0017678 20053059
+Rowland CA (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. Psychological Bulletin, 140(6), 1432–1463. 10.1037/a0037559 25150680
+Schwaighofer M , Fischer F , & Bühner M (2015). Does working memory training transfer? A meta-analysis including training conditions as moderators. Educational Psychologist, 50(2), 138–166. 10.1080/00461520.2015.1036274
+Sellen A , Fogg A , Aitken M , Hodges S , Rother C , & Wood K (2007). Do life-logging technologies support memory for the past? An experimental study using sensecam. Conference on Human Factors in Computing Systems - Proceedings, 81–90. 10.1145/1240624.1240636
+Selwood A , Bennett J , Conway MA , Loveday C , & Kuchelmeister V (2020). Mnemoscape: Supporting older adults’ event memory using wearable camera photographs on an immersive interface. Gerontology, 66(4), 371–381. 10.1159/000505848 32222715
+Shimamura AP , Janowsky JS , & Squire LR (1991). What is the role of frontal lobe damage in memory disorders? In Levin HS , Eisenberg HM , & Benton AL (Eds.), Frontal lobe function and dysfunction. (pp. 173–195). New York: Oxford University Press.
+Silva AR , Pinho MS , Macedo L , & Moulin CJA (2016). A critical review of the effects of wearable cameras on memory. Neuropsychological Rehabilitation, 28(1), 117–141. 10.1080/09602011.2015.1128450 26732623
+Silva AR , Pinho MS , Macedo L , & Moulin CJA (2017). The cognitive effects of wearable cameras in mild Alzheimer Disease – An experimental study. Current Alzheimer Research, 14(12), 1–13. 10.2174/1567205014666170531083015 28558637
+Silva AR , Pinho MS , Moulin CJA , Caldeira S , & Firmino H (2017). It is not only memory: effects of sensecam on improving well-being in patients with mild Alzheimer disease. International Psychogeriatric Association, 29(5), 741–754. 10.1017/s104161021600243x 28124633
+Spencer WD & Raz N (1995). Differential effects of aging on memory for content and context: a meta-analysis. Psychology and Aging, 10(4), 527–539. 10.1037//0882-7974.10.4.527 8749580
+St Jacques P , Rubin DC , LaBar KS , & Cabeza R (2008). The short and the long of it: neural correlates of temporal-order memory for autobiographical events. Journal of Cognitive Neuroscience, 20(7), 1327–1341. 10.1162/jocn.2008.20091 18284345 PMC2677213
+Veltre MT , Cho KW , & Neely JH (2014). Transfer-appropriate processing in the testing effect. Memory, 23(8), 1229–1237. 10.1080/09658211.2014.970196 25345914
+Zhang F , Zhang X , Luo M , & Geng H (2016). The effects of feedback on memory strategies of younger and older adults. PLoS ONE, 11(12), 0168896. 10.1371/journal.pone.0168896 PMC5199106 28033327

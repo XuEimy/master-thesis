@@ -1,0 +1,1325 @@
+[
+  {
+    "page": 0,
+    "block": 6,
+    "source_rect": [
+      56.62200164794922,
+      447.5359191894531,
+      292.8587951660156,
+      582.90283203125
+    ],
+    "source_text": "Significance statement\nNever before have humans preserved more information \nabout their lives than today. In other words, the constant \naccumulation of data from different media sources has \nled to an increased density of recorded life episodes. It \nseems intuitively plausible to assume that this profoundly \nshapes the way we remember and reconstruct our lives. \nHow this impact may look like is largely unchartered \nterritory so far. To integrate the available evidence \nand to provide a framework for future research, we \nhave recently proposed a model for autobiographical \n",
+    "translation": "## 研究意义说明\n\n人类从未像今天这样保留如此多的个人生活信息。换言之，来自不同媒介来源的数据不断积累，提高了被记录的人生片段密度。直觉上，这似乎会深刻影响我们回忆和重构人生的方式。然而，具体会产生怎样的影响，目前在很大程度上仍是未知领域。为整合现有证据并为未来研究提供框架，我们近期提出了数字时代的自传体回忆模型。",
+    "kind": "body",
+    "target_rect": [
+      56.62200164794922,
+      447.5359191894531,
+      292.8587951660156,
+      583.90283203125
+    ],
+    "font_size": 10.5,
+    "spare_height": 7.6396026611328125
+  },
+  {
+    "page": 0,
+    "block": 7,
+    "source_rect": [
+      304.7286071777344,
+      412.0692443847656,
+      540.9185180664062,
+      654.511474609375
+    ],
+    "source_text": "remembering in the digital age. In this model, we assume \nthat autobiographical remembering is an iterative \nprocess that is based on the combination of information \nstored in one’s mind and information stored in external \nresources. In addition, we also assume that digital \nexternal resources play a key role for autobiographical \nremembering in our modern-day societies. The present \nstudy tested and confirmed these assumptions. Apart \nfrom that, we also varied whether participants had to \nremember and reconstruct an important day or a random \nday. Participants used more external resources and \nchanged more frequently between information stored in \ntheir minds and information stored in external resources \nwhen remembering the random day. In sum, the present \nstudy provides compelling evidence for the importance of \nconsidering the interplay between information stored in \nour minds and information stored in external resources \nas well as the role of digital resources when it comes \nto autobiographical remembering in the twenty-first \ncentury.\n",
+    "translation": "该模型假定，自传体回忆是一个反复迭代的过程，建立在头脑信息与外部资源信息相结合的基础上。我们还假定，数字外部资源在现代社会的自传体回忆中发挥关键作用。本研究检验并确认了这些假设。此外，我们还改变了参与者需要回忆和重构的日期类型，即重要日期或随机日期。回忆随机日期时，参与者使用了更多外部资源，也更频繁地在头脑中与外部资源中储存的信息之间切换。总体而言，本研究提供了有说服力的证据，说明理解21世纪的自传体回忆时，必须考虑内部信息与外部信息的相互作用，以及数字资源的作用。",
+    "kind": "body",
+    "target_rect": [
+      304.7286071777344,
+      412.0692443847656,
+      540.9185180664062,
+      655.511474609375
+    ],
+    "font_size": 10.5,
+    "spare_height": 74.43220520019531
+  },
+  {
+    "page": 0,
+    "block": 1,
+    "source_rect": [
+      61.822898864746094,
+      89.10063934326172,
+      183.67190551757812,
+      105.2076416015625
+    ],
+    "source_text": "ORIGINAL ARTICLE\n",
+    "translation": "原创研究论文",
+    "kind": "heading",
+    "target_rect": [
+      61.822898864746094,
+      89.10063934326172,
+      183.67190551757812,
+      106.2076416015625
+    ],
+    "font_size": 10.0,
+    "spare_height": 0.0
+  },
+  {
+    "page": 0,
+    "block": 2,
+    "source_rect": [
+      56.62200164794922,
+      115.64900970458984,
+      538.31884765625,
+      196.48101806640625
+    ],
+    "source_text": "Mediated autobiographical remembering \nin the digital age: insights from an experimental \nthink‑aloud study\n",
+    "translation": "# 数字时代的媒介化自传体回忆：一项出声思考实验研究的启示",
+    "kind": "title",
+    "target_rect": [
+      56.62200164794922,
+      115.64900970458984,
+      538.31884765625,
+      197.48101806640625
+    ],
+    "font_size": 19.0,
+    "spare_height": 22.253211975097656
+  },
+  {
+    "page": 0,
+    "block": 4,
+    "source_rect": [
+      63.122100830078125,
+      252.53594970703125,
+      517.76416015625,
+      388.22265625
+    ],
+    "source_text": "Abstract \nAutobiographical remembering may undergo significant transformations in the digital age, in which \nthe omnipresence of digital tools has led to an increased density of recorded life episodes. To gain deeper \ninsights into these processes, we conducted an experimental think-aloud study in which participants (N = 41) had \nto remember an important day and a random day that happened about one year ago. As the results demonstrate, \nparticipants repeatedly switched between information stored in their minds and information stored in external \nresources when remembering these events, with digital resources playing a particularly prominent role. The \nnumber of changes between internal memories and external resources as well as the number of digital resources \nthat individuals used were higher when remembering the random day. In sum, this suggests that the iterative \ncombination of information stored in one’s mind and information stored in external resources can be considered \na potentially symbiotic process.\n",
+    "translation": "## 摘要\n\n在数字时代，数字工具无处不在，使被记录的人生片段密度提高，自传体回忆因而可能经历显著变化。为深入理解这些过程，我们开展了一项出声思考实验研究，要求参与者（N = 41）回忆大约一年前的一个重要日期和一个随机日期。结果显示，回忆这些事件时，参与者反复在头脑中储存的信息与外部资源中储存的信息之间切换，其中数字资源发挥了尤为突出的作用。回忆随机日期时，内部记忆与外部资源之间的切换次数，以及个人使用的数字资源数量，均更多。总体而言，这提示，反复结合头脑中与外部资源中储存的信息，可以被看作一个可能具有共生性质的过程。",
+    "kind": "abstract",
+    "target_rect": [
+      63.122100830078125,
+      252.53594970703125,
+      517.76416015625,
+      389.22265625
+    ],
+    "font_size": 10.0,
+    "spare_height": 27.86071014404297
+  },
+  {
+    "page": 0,
+    "block": 5,
+    "source_rect": [
+      56.62200164794922,
+      412.00262451171875,
+      259.9599609375,
+      436.2226257324219
+    ],
+    "source_text": "Keywords  Autobiographical memory, Digital age, \nAMEDIA-model, Think-aloud method\n",
+    "translation": "关键词：自传体记忆；数字时代；AMEDIA模型；出声思考法。",
+    "kind": "small",
+    "target_rect": [
+      56.62200164794922,
+      412.00262451171875,
+      292.9,
+      437.2226257324219
+    ],
+    "font_size": 7.5,
+    "spare_height": 9.570001602172852
+  },
+  {
+    "page": 0,
+    "block": 8,
+    "source_rect": [
+      463.2865905761719,
+      87.50890350341797,
+      535.5147094726562,
+      103.61590576171875
+    ],
+    "source_text": "Open Access\n",
+    "translation": "开放获取",
+    "kind": "heading",
+    "target_rect": [
+      463.2865905761719,
+      87.50890350341797,
+      535.5147094726562,
+      104.61590576171875
+    ],
+    "font_size": 10.0,
+    "spare_height": 0.0
+  },
+  {
+    "page": 0,
+    "block": 9,
+    "source_rect": [
+      180.5449981689453,
+      685.4058837890625,
+      534.056884765625,
+      742.0848388671875
+    ],
+    "source_text": "© The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which \npermits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the \noriginal author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or \nother third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line \nto the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory \nregulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this \nlicence, visit http://creativecommons.org/licenses/by/4.0/.\n",
+    "translation": "© 作者，2025。开放获取：本文采用知识共享署名4.0国际许可协议，允许以任何媒介或格式使用、共享、改编、传播和复制，前提是恰当注明原作者及来源，提供知识共享许可协议链接，并说明是否作出修改。除非材料署名说明另有规定，本文中的图像或其他第三方材料均纳入本文的知识共享许可。若某项材料未纳入这一许可，且您的预期使用不为法律规定所允许或超出允许范围，则须直接向著作权人获取许可。许可协议全文见：http://creativecommons.org/licenses/by/4.0/。",
+    "kind": "license",
+    "target_rect": [
+      180.5449981689453,
+      685.4058837890625,
+      534.1,
+      743.0848388671875
+    ],
+    "font_size": 6.5,
+    "spare_height": 15.758956909179688
+  },
+  {
+    "page": 0,
+    "block": 11,
+    "source_rect": [
+      56.692901611328125,
+      605.9751586914062,
+      255.67996215820312,
+      659.47265625
+    ],
+    "source_text": "*Correspondence:\nFabian Hutmacher\nfabian.hutmacher@uni-wuerzburg.de\n1 Human‑Computer‑Media Institute, Julius-Maximilians-Universität \nWürzburg, Oswald‑Külpe‑Weg 82, 97074 Würzburg, Germany\n2 Leibniz-Institut Für Wissensmedien, Tübingen, Germany\n",
+    "translation": "通信作者：Fabian Hutmacher，fabian.hutmacher@uni-wuerzburg.de。\n\n1 德国维尔茨堡大学人—计算机—媒介研究所，Oswald-Külpe-Weg 82，97074 Würzburg，德国。\n\n2 莱布尼茨知识媒体研究所，图宾根，德国。",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      605.9751586914062,
+      292.9,
+      660.47265625
+    ],
+    "font_size": 7.5,
+    "spare_height": 0.0
+  },
+  {
+    "page": 1,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      86.12085723876953,
+      292.8915710449219,
+      713.290771484375
+    ],
+    "source_text": "Introduction\nNever before have humans preserved more information \nabout their lives than today in our digital societies—\njust think about the pictures that we take using our \nsmartphones, the e-mails and WhatsApp-messages that \nwe write, the information that we post on social media \n(e.g., BeReal, Instagram, Snapchat), or the data that we \nrecord using health trackers and wearables (see, e.g., Cho \net al., 2023). In other words, the constant accumulation of \ndata from different media sources has led to an increased \ndensity of recorded life episodes (Heersmink & Carter, \n2020; Kalnikaitė & Whittaker, 2012). It seems intuitively \nplausible to assume that this profoundly shapes the \nway we remember and reconstruct our lives. To date, \nhowever, research on autobiographical remembering in \nthe digital age is still nascent.\nBuilding on previous discussions about the extended \nmind and technology-mediated memory (e.g., Clark & \nChalmers, 1998; Eliseev & Marsh, 2021; Finley & Naaz, \n2023; Finley et  al., 2018; Heersmink, 2022; Marsh & \nRajaram, 2019; Schönpflug & Esser, 1995; Sutton, 2010), \ntransactive memory (Wegner et  al., 1985; for a review, \nsee, e.g., Huebner, 2016; Peltokorpi, 2008), and electronic \nmemory (Clowes, 2013; see also Bell & Gemmell, 2009), \nwe recently suggested a model for Autobiographical \nMemory in the Digital Age (AMEDIA-Model; Hutmacher \net al., 2024a, 2024b) that tries to integrate the available \nevidence and to provide a framework for future research. \nIn short, the AMEDIA-Model views autobiographical \nremembering as the process of combining information \nstored in one’s mind (e.g., what one remembers about \none’s last birthday) and information stored in external \nresources (e.g., photos, videos, instant messages, and \ndiary entries about one’s last birthday). Crucially, the \ninterplay between information stored in one’s mind \nand external resources is dynamic and iterative rather \nthan static and unidirectional: For instance, you could \npick up your phone to scroll through the photo gallery \nbecause you are not sure anymore whether a certain \nfriend attended the birthday party. Assume that the \nphotographs confirm that the friend had indeed shown \nup. While scrolling through the photographs, however, \nyou also stumble upon a picture depicting the different \nfoods and snacks that you had prepared. Seeing this, you \nremember that another friend loved the salad dressing \nand asked for the recipe—and you also remember that \nthis friend has been going through difficult times lately, \nand so on. Put in one sentence, the AMEDIA-Model \nhypothesizes that autobiographical remembering (in \nthe digital age) is an iterative process that is based on \nthe combination of information stored in one’s mind \nand information stored in external resources. However, \n",
+    "translation": "## 引言\n\n在当今数字社会，人类保留的个人生活信息比以往任何时候都多。只需想想用智能手机拍摄的照片、写下的电子邮件与WhatsApp消息、在BeReal、Instagram、Snapchat等社交媒体发布的信息，以及用健康追踪器和可穿戴设备记录的数据即可（例如Cho et al., 2023）。换言之，来自不同媒介来源的数据不断积累，提高了被记录的人生片段密度（Heersmink & Carter, 2020; Kalnikaitė & Whittaker, 2012）。直觉上，这似乎会深刻塑造我们回忆与重构人生的方式。不过，迄今关于数字时代自传体回忆的研究仍处于起步阶段。\n\n在关于延展心智与技术中介记忆（例如Clark & Chalmers, 1998; Eliseev & Marsh, 2021; Finley & Naaz, 2023; Finley et al., 2018; Heersmink, 2022; Marsh & Rajaram, 2019; Schönpflug & Esser, 1995; Sutton, 2010）、交互记忆（Wegner et al., 1985；综述例如Huebner, 2016; Peltokorpi, 2008），以及电子记忆（Clowes, 2013；另见Bell & Gemmell, 2009）的既有讨论基础上，我们近期提出数字时代的自传体记忆模型，即AMEDIA模型（Hutmacher et al., 2024a, 2024b），尝试整合现有证据，并为未来研究提供框架。简言之，该模型将自传体回忆视为结合头脑中储存的信息与外部资源信息的过程：前者例如一个人对上次生日所记得的内容，后者例如关于生日的照片、视频、即时消息和日记条目。关键是，两者的相互作用具有动态和迭代性质，而非静态、单向的过程。例如，你不确定某位朋友是否参加过生日聚会，于是拿起手机翻看相册。假设照片确认朋友确实到场了。但翻阅时，你还看见一张呈现所准备食物与零食的照片，由此想起另一位朋友很喜欢沙拉酱，还问你要了配方；你又想起这位朋友最近经历困难时期，等等。一言以蔽之，AMEDIA模型假设，数字时代的自传体回忆是一个迭代过程，建立在头脑信息与外部资源信息结合的基础上。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      86.12085723876953,
+      292.8915710449219,
+      714.290771484375
+    ],
+    "font_size": 10.5,
+    "spare_height": 91.87255096435547
+  },
+  {
+    "page": 1,
+    "block": 2,
+    "source_rect": [
+      304.7243957519531,
+      86.23779296875,
+      540.9190673828125,
+      724.8744506835938
+    ],
+    "source_text": "this fundamental assumption underlying the AMEDIA-\nModel has not been tested empirically so far.\nThe same applies to a second assumption, namely the \nimportance of digital external resources for autobio-\ngraphical remembering in our modern-day societies: That \nindividuals use external resources for (autobiographical) \nremembering is not a peculiarity of the digital age but \nsomething that humans have been doing for thousands \nof years, relying on various techniques from cave paint-\nings and oral traditions to archives, monuments, and \nprinted books to paper diaries and photo albums (e.g., \nDonald, 1991, 2001; Heersmink, in press). In addition \nto such non-digital resources, people routinely also refer \nto other individuals as social resources for remembering \n(e.g., “You were at my birthday party. Do you remem-\nber whether …?”). However, the new digital resources \nthat have become available over the last years and dec-\nades differ significantly from these other resources—not \nonly because they have overcome previous storage limits \nbut also because they provide a combination of different \nkinds of media sources (e.g., photos, videos, audio record-\nings, text, quantitative parameters) and because they lead \nto a searchable database that can often be accessed any-\nwhere at any time (Hutmacher et al., 2024a; for the dis-\ntinction between the different kinds of resources, see also \nFinley et al., 2018). Against this background and given the \nworldwide proliferation of digital technologies, it seems \nplausible to hypothesize that digital external resources \nplay an important role when it comes to remembering \nautobiographical events in the digital age.\nApart from these general questions about the interplay \nof internal memories and information stored in external \nresources as well as the importance of digital resources, it \nseems plausible to assume that these processes are shaped \nby the kinds of events that individuals try to remember. \nGiven that individuals usually have more detailed \nand more vivid internal memories about important \nautobiographical events (e.g., their last birthday) \ncompared to less important autobiographical events (e.g., \nautobiographical memories regarding a random day one \nyear ago), one could speculate, for instance, that this \nalso impacts the way individuals interact with external \nresources when it comes to remembering these events. \nOn the one hand, one might think that individuals will \nhave more external information available for important \nevents compared to less important events; on the other \nhand, one could also think that individuals will rely more \non external resources for relatively unimportant events \ncompared to important events due to a lack of retrievable \ninternal memories.\nIn order to test the predictions derived from the \nAMEDIA-Model and to investigate that the kind \nof event plays in this context, we conducted an \n",
+    "translation": "不过，迄今这一基础假设尚未得到实证检验。\n\n第二个假设也同样如此，即数字外部资源对现代社会自传体回忆的重要性。人们使用外部资源进行自传体或其他回忆，并非数字时代的独有现象，而是持续了数千年的做法，所用技术涵盖洞穴绘画、口述传统、档案、纪念碑、印刷书籍、纸质日记与相册（例如Donald, 1991, 2001; Heersmink, 待刊）。除这些非数字资源外，人们也经常借助其他人作为回忆的社会资源，例如：“你参加过我的生日聚会，你还记得是否……？”但过去数年乃至数十年出现的新数字资源，与这些资源显著不同。它们不仅突破了此前的储存限制，还结合多种媒介来源，例如照片、视频、录音、文字和量化参数，并形成通常可以随时随地访问、能够搜索的数据库（Hutmacher et al., 2024a；不同资源类型的区分另见Finley et al., 2018）。在此背景下，考虑到数字技术在全球普及，假设数字外部资源在数字时代的自传事件回忆中发挥重要作用，似乎是合理的。\n\n除了内部记忆与外部信息相互作用、数字资源重要性等一般问题，我们也有理由认为，这些过程受到个人试图回忆的事件类型影响。相比不那么重要的自传事件，例如一年前某个随机日期的经历，人们对上次生日等重要自传事件，通常具有更详细、更生动的内部记忆。因此可以推测，这也影响回忆这些事件时与外部资源互动的方式。一方面，人们可能对重要事件保有更多外部信息；另一方面，由于缺少可提取的内部记忆，人们回忆相对不重要的事件时，也可能更依赖外部资源。\n\n为检验AMEDIA模型导出的预测，并考察事件类型在其中的作用，我们开展了一项出声思考实验研究。",
+    "kind": "body",
+    "target_rect": [
+      304.7243957519531,
+      86.23779296875,
+      540.9190673828125,
+      725.8744506835938
+    ],
+    "font_size": 10.5,
+    "spare_height": 157.42657470703125
+  },
+  {
+    "page": 2,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      86.47540283203125,
+      292.8836669921875,
+      460.8645935058594
+    ],
+    "source_text": "experimental think-aloud study in which participants \nwere asked to remember and reconstruct an important \nday and a random day while being in their usual home \nenvironment in which they had access to all external \nresources they would usually have access to. That is, \nfollowing calls to embrace methodological pluralism \nin general (Araujo & Osbeck, 2023; Hutmacher, 2023; \nHutmacher & Franz, 2025; Mayrhofer & Hutmacher, \n2020; Zitzmann & Loreth, 2021) and to move beyond \npurely laboratory-based paradigms in research on \nautobiographical memory in particular (Brockmeier, \n2015; Fivush, 2013; Hutmacher et al., 2024a; Yamashiro \n& Roediger, 2019; see also Grysman, 2024) as well as \nfollowing exemplary studies in this direction that have \nbeen published in recent years (e.g., Armstrong et al., \n2023; Barnwell et  al., 2023; Hutmacher et  al., 2023; \nJohnson & Morley, 2021; Jungselius & Weilenmann, \n2023; Martin et  al., 2022; Talaifar, 2024), we decided \nto create a setting that closely resembles real-life \nsituations that individuals may encounter when \nthinking about events from their past (e.g., “How \nexactly did I celebrate my last birthday?”, “What did I do \nFriday afternoon two weeks ago?”). In addition, relying \non the think-aloud method allowed us to obtain verbal \nreports that closely mirror individuals’ actual thought \nprocesses and behaviors and that go far beyond the \ninformation that can be collected through self-reports \nalone (cf. Baumeister et al., 2007). Taken together, the \npresent study allowed us to gain important insights \ninto the way external resources shape autobiographical \nremembering in the twenty-first century.\n",
+    "translation": "参与者在自己平常的居家环境中，回忆并重构一个重要日期和一个随机日期，能够使用其通常可以访问的所有外部资源。我们响应了普遍倡导方法多元化的呼吁（Araujo & Osbeck, 2023; Hutmacher, 2023; Hutmacher & Franz, 2025; Mayrhofer & Hutmacher, 2020; Zitzmann & Loreth, 2021），以及在自传体记忆研究中超越纯实验室范式的具体呼吁（Brockmeier, 2015; Fivush, 2013; Hutmacher et al., 2024a; Yamashiro & Roediger, 2019；另见Grysman, 2024），并参考近年这一方向的示范性研究（例如Armstrong et al., 2023; Barnwell et al., 2023; Hutmacher et al., 2023; Johnson & Morley, 2021; Jungselius & Weilenmann, 2023; Martin et al., 2022; Talaifar, 2024）。因此，我们决定营造接近人们思考往事时真实情境的研究设置，例如“上次生日到底怎样庆祝的？”“两周前周五下午做过什么？”此外，出声思考法使我们能够获得接近个人实际思维过程与行为的口头报告，其内容远超仅通过自我报告能够收集的信息（参见Baumeister et al., 2007）。总体而言，本研究使我们深入了解外部资源如何塑造21世纪的自传体回忆。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      86.47540283203125,
+      292.8836669921875,
+      461.8645935058594
+    ],
+    "font_size": 10.5,
+    "spare_height": 57.279144287109375
+  },
+  {
+    "page": 2,
+    "block": 2,
+    "source_rect": [
+      56.68309020996094,
+      482.0987243652344,
+      292.87103271484375,
+      725.4944458007812
+    ],
+    "source_text": "Method\nParticipants\nAs this was the first study investigating autobiographi-\ncal remembering in the digital age using a think-aloud \nprotocol, there were no effect sizes available from pre-\nvious studies on which we could have based our power \nanalysis. As we were particularly interested in compar-\ning our results for two kinds of events (important day vs. \nrandom day), we decided that we wanted to have enough \npower (0.80) to detect a medium-sized effect (d = 0.50) \nin a t-test with dependent samples (α = 0.05, two-tailed). \nUsing G*Power 3.1.9.7 (Faul et al., 2007), we calculated a \nminimum sample size of 34 participants. To account for \npotential exclusions, we decided to collect data from at \nleast 40 participants. Participants were recruited through \nthe participant recruitment system used by the Univer-\nsity of Würzburg (Germany). All participants received \ncourse credit. In total, 41 participants completed the \nstudy (18–33  years, M = 22.73, SD = 3.26, 10 male, 30 \nfemale, 1 diverse). In terms of educational attainment, \n",
+    "translation": "## 方法\n\n### 参与者\n\n这是首项以出声思考程序研究数字时代自传体回忆的研究，因此没有可用于统计功效分析的既有研究效应量。由于我们特别关注两种事件类型——重要日期与随机日期——之间的比较，因此决定采用足够的功效（0.80），在配对样本t检验中检出中等效应（d = 0.50；α = 0.05，双侧）。使用G*Power 3.1.9.7（Faul et al., 2007）计算得到，最低样本量为34人。考虑潜在排除，我们决定至少收集40名参与者的数据。参与者通过德国维尔茨堡大学的招募系统招募，所有人获得课程学分。最终41人完成研究，年龄18–33岁，M = 22.73，SD = 3.26；男性10人、女性30人、其他性别1人。",
+    "kind": "body",
+    "target_rect": [
+      56.68309020996094,
+      482.0987243652344,
+      292.87103271484375,
+      726.4944458007812
+    ],
+    "font_size": 10.5,
+    "spare_height": 21.761093139648438
+  },
+  {
+    "page": 2,
+    "block": 3,
+    "source_rect": [
+      304.7113037109375,
+      86.46588134765625,
+      540.897216796875,
+      149.0039825439453
+    ],
+    "source_text": "one participant had completed secondary education, 37 \nparticipants had completed high-school, and three par-\nticipants had a bachelor’s degree. The study was con-\nducted between March 22 and May 23, 2024. This study \nwas not preregistered.\n",
+    "translation": "教育程度方面，1人完成中等教育，37人完成高中教育，3人具有学士学位。研究于2024年3月22日至5月23日开展，未进行预注册。",
+    "kind": "body",
+    "target_rect": [
+      304.7113037109375,
+      86.46588134765625,
+      540.897216796875,
+      150.0039825439453
+    ],
+    "font_size": 10.5,
+    "spare_height": 13.808101654052734
+  },
+  {
+    "page": 2,
+    "block": 4,
+    "source_rect": [
+      304.7243957519531,
+      158.84300231933594,
+      540.9132690429688,
+      724.9944458007812
+    ],
+    "source_text": "Design and procedure\nThe experiment was conducted in two sessions per par-\nticipant that were scheduled one week apart. In both ses-\nsions, a videoconferencing tool was used. Participants \nwere told beforehand that they should be in their usual \nhome environment for both sessions. During one of \nthe sessions, participants were asked to remember and \nreconstruct an important day in as much detail as pos-\nsible; during the other session, participants were asked \nto remember and reconstruct a random day in as much \ndetail as possible. During which session participants had \nto remember the important day and the random day, \nrespectively, was counterbalanced across participants. As \nfar as the important day is concerned, participants were \nasked to remember their last birthday (if their last birth-\nday occurred more than six months before the session) or \ntheir second last birthday (if their last birthday occurred \nless than six months before the session). This way, par-\nticipants on average remembered an important day from \nabout one year ago. We chose the birthday as an impor-\ntant day as we assumed that most participants would find \ntheir birthday important and consider it a day that stands \nout from the rest of the year. As far as the random day is \nconcerned, participants were asked to remember the day \nexactly one year before the session. That is, if the session \nwith the random day took place on May 14, 2024, the \nparticipant would be asked to remember May 14, 2023.\nIn the beginning of the first session, participants pro-\nvided informed consent and answered demographic \nquestions using an online questionnaire. Both sessions \nwere conducted using the think-aloud method. In set-\nting up the instructions, we followed extant recom-\nmendations (Ericsson & Simon, 1993; see also Eccles & \nArsal, 2017; Noushad et  al., 2024). That is, participants \nwere instructed to verbalize everything they think from \nthe point when they receive the instructions to the point \nwhen they complete the task. Participants were told \nthat they should not think about how to express their \nthoughts and that there was no need to explain their \nthoughts to the interviewer. Instead, participants were \ntold to behave as if they were alone in a room, talking \nto themselves. Participants were also told that the inter-\nviewer would remain passive while the participants per-\nform the think-aloud task, with the only exception that \nthe interviewer would remind them to think aloud in \ncase they should forget the instruction. To familiarize \nparticipants with the think-aloud method, two practice \n",
+    "translation": "### 设计与流程\n\n每位参与者参加两次实验，两次间隔一周，均使用视频会议工具。研究提前告知，两次均应在平常的居家环境中进行。其中一次要求尽可能详细地回忆、重构一个重要日期，另一次则回忆、重构一个随机日期。哪一次回忆重要日期、哪一次回忆随机日期，在参与者间进行平衡。重要日期方面，如果最近一次生日距实验超过六个月，要求回忆最近一次生日；如果不足六个月，则要求回忆再前一次生日。这样，参与者平均回忆的是约一年前的重要日期。选择生日，是因为我们假定多数参与者会认为生日重要，是一年中有别于其他日子的日期。随机日期则为实验日期恰好一年前的同一天。例如，如果随机日期实验于2024年5月14日开展，就要求回忆2023年5月14日。\n\n首次实验开始时，参与者通过在线问卷提供知情同意并回答人口统计问题。两次实验均采用出声思考法，指导语依据现有建议制定（Ericsson & Simon, 1993；另见Eccles & Arsal, 2017; Noushad et al., 2024）。研究要求参与者从收到指示到完成任务期间，将所有想法说出来。他们不必思考如何表达，也无需向访谈者解释想法，而应表现得如同独自在房间里自言自语。研究还告知，进行任务时访谈者保持被动，仅在参与者忘记要求时提醒其继续出声思考。为了使参与者熟悉这种方法，研究安排了两项练习任务。",
+    "kind": "body",
+    "target_rect": [
+      304.7243957519531,
+      158.84300231933594,
+      540.9132690429688,
+      725.9944458007812
+    ],
+    "font_size": 10.5,
+    "spare_height": 165.04408264160156
+  },
+  {
+    "page": 3,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.890625,
+      664.2545166015625
+    ],
+    "source_text": "tasks were performed: While the first practice task was \ncompletely unrelated to autobiographical remembering \n(“Please calculate: What is 24 × 36?”), the second prac-\ntice task was related to autobiographical remembering \nbut unrelated to remembering the important day and the \nrandom day (“When and with whom did you eat pizza for \nthe last time?”). These practice tasks were only performed \nduring the first session as we assumed that participants \nwould be sufficiently familiar with the procedure during \nthe second session. In the second session, the interviewer \nrepeated the basic instructions regarding the think-aloud \nprocedure.\nNext, participants were informed that they will be \nasked to remember and reconstruct a specific day in as \nmuch detail as possible without already revealing which \nday it will be. Participants were told that they would have \nup to 15  min to perform this task. It was emphasized \nthat this time frame was not meant to create time pres-\nsure but to restrict the session to a reasonable length. \nParticipants were told that they can finish the task earlier \nif they have the impression that there is nothing more to \nbe remembered. In addition, participants were told that \nthe interviewer would inform them when the time is up \nso that they do not have to pay attention to the 15-min \ntime frame. Participants were told that they are allowed \nto use all kinds of digital and non-digital resources that \nthey may want to use to complete the task. It was empha-\nsized that participants are allowed to stand up and even \nto leave the room in case this should be necessary to get \naccess to a certain resource or to talk to another per-\nson. With respect to the day to be remembered, it was \nemphasized that a reconstruction of this day could—\namong others—give answers to the following questions: \nWhere were you? What happened? With whom did you \nspend the day? How did you feel during the day? Which \nthoughts and feelings did you experience during the day? \nIn case participants encountered information that they \nfound too personal to share, they were asked to give a \nfactually correct but more abstract description that left \nout the details that they did not want to be recorded. \nBefore being informed which specific day to remember, \nparticipants were given the opportunity to ask questions \nabout the procedure. After completing the think-aloud \ntask, the interviewer was allowed to ask ad-hoc ques-\ntions to ensure that all changes between different exter-\nnal resources and the source from which participants \nretrieved a certain piece of information can be identified \ncorrectly when looking at the interview transcripts later.\n",
+    "translation": "第一项练习任务与自传体回忆完全无关（“请计算：24 × 36等于多少？”）；第二项练习任务与自传体回忆有关，但与回忆重要日期和随机日期无关（“你上次吃披萨是在什么时候，和谁一起吃的？”）。这些练习只在首次实验中进行，因为我们假定参与者到第二次实验时已足够熟悉程序。第二次实验中，访谈者再次说明出声思考程序的基本要求。\n\n随后，参与者被告知，他们需要尽可能详细地回忆、重构某个具体日期，但此时尚未告知是哪一天。参与者最多有15分钟完成任务。研究强调，这一时间范围旨在将实验控制在合理时长内，而不是制造时间压力。如果参与者认为没有更多内容可以回忆，可以提前结束。访谈者会在时间结束时告知他们，因此他们不必自行关注15分钟的时限。参与者可以使用任何其希望用于完成任务的数字或非数字资源。研究特别说明，若为了获取某种资源或与他人交谈而有必要，参与者可以站起来，甚至离开房间。对于需要回忆的日期，研究强调，重构这一天可以回答的问题包括：你在哪里？发生了什么？你与谁一起度过这一天？你这一天感觉如何？当天经历了哪些想法和感受？如果遇到他们认为过于私密、不愿分享的信息，则请其提供符合事实但更加概括的描述，省略不希望被记录的细节。在获知具体需要回忆哪一天之前，参与者有机会询问有关流程的问题。完成出声思考任务后，访谈者可以根据情况追问，以确保之后阅读访谈转录文本时，能够正确识别不同外部资源之间的全部切换，以及参与者提取某条信息的来源。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.890625,
+      665.2545166015625
+    ],
+    "font_size": 10.5,
+    "spare_height": 152.04373168945312
+  },
+  {
+    "page": 3,
+    "block": 2,
+    "source_rect": [
+      56.692901611328125,
+      674.0983276367188,
+      292.8592529296875,
+      724.2545166015625
+    ],
+    "source_text": "Data analysis\nThe interviews were recorded and transcribed verbatim. \nWe processed and analyzed the transcripts with \nMAXQDA 2022 (VERBI software). First, a codebook \n",
+    "translation": "### 数据分析\n\n访谈被录音并逐字转录。我们使用MAXQDA 2022（VERBI software）处理和分析转录文本。首先建立编码手册：",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      674.0983276367188,
+      292.8592529296875,
+      725.2545166015625
+    ],
+    "font_size": 9.253012048192769,
+    "spare_height": 3.4130265831742266
+  },
+  {
+    "page": 3,
+    "block": 3,
+    "source_rect": [
+      304.7210998535156,
+      85.7257080078125,
+      540.9132080078125,
+      556.2545166015625
+    ],
+    "source_text": "was created: The overarching categories for analysis \n(i.e., changes between internal memory and external \nresources, \nkinds \nof \nexternal \nresources, \nretrieved \ninformation; for details, see below) were already \ndetermined prior to data collection. The sub-categories \nwithin these overarching categories (e.g., which digital \nresources participants used) were created based on \ninitiating text work (e.g., Kuckartz, 2019); that is, an \ninitial read-through of the material was used as an \ninductive coding strategy to deduce the different sub-\ncategories. More specifically, two coders first familiarized \nthemselves with the data independently from one \nanother. Then, each coder created an initial draft for a \ncodebook. These two drafts were discussed between the \ntwo coders and integrated into a final codebook. The final \ncodebook included definitions of each category as well as \nexamples and explicit coding rules.\nNext, the data were coded based on the codebook. To \nensure the objectivity of the coding process, about 20% \nof the data (i.e., both sessions from eight participants) \nwere coded by the two coders independently from one \nanother. After completing the independent coding, an \ninterrater reliability was calculated (Brennan & Prediger, \n1981). Two coded segments of the material were consid-\nered to match when the overlapping rate of the two codes \nwas 90% or higher. The interrater reliability (including \nthe additional analyses reported below) indicated an \nalmost perfect agreement, κ = 0.86 (cf. Landis & Koch, \n1977). The coders discussed the differences with respect \nto independently coded interviews and agreed upon a \nfinal solution. Given the substantial agreement between \nthe two coders, one coder coded the remaining mate-\nrial. However, open questions and potentially ambiguous \nsections were discussed between the two coders. After \ncompleting the coding procedure, code frequencies were \ncalculated to enable quantitative analysis. In the follow-\ning, we describe the different variables that resulted from \nthe qualitative data analysis and that were then used for \nthe statistical analyses.\n",
+    "translation": "分析的上位类别（即内部记忆与外部资源之间的切换、外部资源的种类、提取的信息；详见下文）在数据收集之前已经确定。这些上位类别中的子类别（例如参与者使用了哪些数字资源），则依据初始文本工作建立（例如Kuckartz, 2019），即通过初步通读材料，采用归纳编码策略提炼不同的子类别。具体而言，两名编码者首先各自独立熟悉数据，然后分别起草编码手册。两人讨论这两份草稿，并整合为最终编码手册。最终手册包含每个类别的定义、示例和明确的编码规则。\n\n接下来，依据编码手册对数据进行编码。为保证编码过程的客观性，两名编码者独立编码约20%的数据，即8名参与者的两次实验。独立编码完成后，计算评分者间信度（Brennan & Prediger, 1981）。当两个编码的重叠率达到或超过90%时，相应的两个材料片段被视为匹配。评分者间信度（包含下文报告的附加分析）显示出近乎完全的一致性，κ = 0.86（参见Landis & Koch, 1977）。两名编码者讨论了独立编码访谈中的差异，并就最终处理达成一致。鉴于两名编码者具有较高一致性，余下材料由一名编码者编码；不过，尚未解决的问题及可能存在歧义的片段仍由两人讨论。编码完成后，计算各编码的频次，以开展定量分析。下文描述从定性数据分析中形成、并随后用于统计分析的不同变量。",
+    "kind": "body",
+    "target_rect": [
+      304.7210998535156,
+      85.7257080078125,
+      540.9132080078125,
+      557.2545166015625
+    ],
+    "font_size": 10.5,
+    "spare_height": 103.68875122070312
+  },
+  {
+    "page": 3,
+    "block": 4,
+    "source_rect": [
+      304.724365234375,
+      566.0983276367188,
+      540.9114379882812,
+      724.2113037109375
+    ],
+    "source_text": "Changes between internal processes and external resources\nNumber of  changes and  time to  first change  It was \ncoded how often participants changed between internal \nprocesses and external resources. Three kinds of changes \nwere distinguished: changes from internal processes to an \nexternal resource, that is, situations in which an internal \nthought process or memory leads to the use of an external \nresources (e.g., “I guess I had a doctor’s appointment \nin the afternoon, but I will check that in my calendar”); \nchanges from an external resource to internal processes, \nthat is, situations in which information encountered in \nan external resource leads to an internal thought process \nor memory (e.g., “Now that I see this picture from \n",
+    "translation": "#### 内部过程与外部资源之间的切换\n\n**切换次数与首次切换用时。** 我们编码参与者在内部过程与外部资源之间切换的频次，并区分三类切换：从内部过程转向外部资源，即内部思维过程或记忆引发外部资源使用的情形（例如：“我想我下午预约了医生，不过我要查一下日历”）；从外部资源转向内部过程，即在外部资源中遇到的信息引发内部思维过程或记忆的情形",
+    "kind": "body",
+    "target_rect": [
+      304.724365234375,
+      566.0983276367188,
+      540.9114379882812,
+      725.2113037109375
+    ],
+    "font_size": 10.5,
+    "spare_height": 30.385665893554688
+  },
+  {
+    "page": 4,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.8856201171875,
+      460.1199035644531
+    ],
+    "source_text": "the restaurant, I also remember that we went to a bar \naround the corner later”); and changes from one external \nresource to another external resource, that is, situations in \nwhich two external resources are used one after another \nwithout detailed thought processes or memories being \ndescribed in-between (e.g., “Ok, there is nothing about \nthis afternoon in my calendar, so I will check my mails \nnext”). The frequencies for these three kinds of changes \nwere summed up to get an estimate for the overall \nnumber of changes between internal processes and \nexternal resources. During our analysis, we assumed—for \nlogical reasons—that the different kinds of changes form \nan unbroken chain in which a change from an internal \nprocess to an external resource is always followed by a \nchange from an external resource to an internal process \n(or a change to another external resource) and vice versa. \nIn addition, we also assumed that the first change during \nthe think-aloud procedure is always a change from internal \nprocesses to external resources (i.e., the moment in which \nparticipants decided to use an external resource for the \nfirst time) and that the last change during the think-aloud \nprocedure is always a change from external resources to \ninternal processes (i.e., the moment in which participant \ndecided to end the task). Ultimately, this implies that \nthe total number of changes from an internal process to \nan external resource is the same as the total number of \nchanges from an external resource to an internal process. \nApart from documenting the different kinds of changes, \nwe also determined how long it took participants from \nreceiving the instructions to consulting an external \nresource for the first time.\n",
+    "translation": "（例如：“现在看到这张餐厅照片，我还想起来后来我们去了拐角的一家酒吧”）；从一种外部资源转向另一种外部资源，即连续使用两种外部资源，而两者之间没有描述详细思维过程或记忆的情形（例如：“好吧，日历里没有关于那天下午的内容，那我接着查一下邮件”）。将这三类切换的频次相加，得到内部过程与外部资源之间切换总次数的估计。在分析中，基于逻辑上的考虑，我们假定不同类型的切换构成一条连续链：从内部过程转向外部资源后，总会接着从外部资源转回内部过程（或转向另一种外部资源），反之亦然。此外，我们假定出声思考程序中的首次切换总是从内部过程转向外部资源（即参与者首次决定使用外部资源的时刻），最后一次切换总是从外部资源转向内部过程（即参与者决定结束任务的时刻）。这最终意味着，从内部过程转向外部资源的总次数，与从外部资源转向内部过程的总次数相同。除了记录不同类型的切换，我们还测定了参与者从收到指导语，到首次查阅外部资源所用的时间。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.8856201171875,
+      461.1199035644531
+    ],
+    "font_size": 10.5,
+    "spare_height": 87.09915161132812
+  },
+  {
+    "page": 4,
+    "block": 2,
+    "source_rect": [
+      56.692893981933594,
+      469.58673095703125,
+      292.8965148925781,
+      676.1968994140625
+    ],
+    "source_text": "Additional analyses  To gain deeper insights into the \nprocesses underlying the different kinds of changes, we \nconducted additional analyses.1 As far as the changes \nfrom internal processes to an external resource are \nconcerned, we distinguished three cases (based on our \ndata): (a) the change to an external resource is initiated \nbecause participants have no internal memory and hope \nto find information in an external resource (e.g., “I really \ndo not remember, what I did on this day; let me check \nmy phone”); (b) the change to an external resource is \ninitiated because participants have a vague internal \nmemory, but are lacking details, which they hope to find \nin an external resource (e.g., “I think I spent the day with \nmy usual group of friends, but I am not exactly sure what \nwe did”); (c) the change to an external resource is initiated \nbecause participants have a detailed internal memory but \nwant to confirm this internal memory (e.g., “I am pretty \n",
+    "translation": "**附加分析。** 为进一步理解不同切换类型背后的过程，我们进行了附加分析。¹ 对于从内部过程转向外部资源的切换，依据数据区分了三种情形：（a）参与者没有内部记忆，希望在外部资源中找到信息，因此转向外部资源（例如：“我真的不记得那天做了什么，让我看看手机”）；（b）参与者具有模糊的内部记忆，但缺乏细节，希望在外部资源中找到细节，因此转向外部资源（例如：“我想那天是和常一起玩的朋友们一起过的，但不太确定我们做了什么”）；",
+    "kind": "body",
+    "target_rect": [
+      56.692893981933594,
+      469.58673095703125,
+      292.8965148925781,
+      677.1968994140625
+    ],
+    "font_size": 10.5,
+    "spare_height": 53.51014709472656
+  },
+  {
+    "page": 4,
+    "block": 3,
+    "source_rect": [
+      304.72216796875,
+      85.65869140625,
+      540.9060668945312,
+      268.12457275390625
+    ],
+    "source_text": "sure that I went to a restaurant with my usual group of \nfriends that day, but let me check whether this is actually \ntrue”). As far as the changes from an external resource to \ninternal memory are concerned, we first distinguished \nwhether consulting an external resource was successful \n(i.e., participants found useful information in the external \nresource) or unsuccessful (i.e., participants did not find \nuseful information in the external resource). In case \nconsulting an external resource was successful, we further \ndistinguished whether the external resource (a) merely \nconfirmed previous knowledge (e.g., “Yes, we went to a \nrestaurant that day, exactly as I had thought”) or whether \nit (b) led to new insights and/or triggered new internal \nmemories (e.g., “Oh, and I had this fancy cocktail, I had \ncompletely forgotten that – now I remember!”).\n",
+    "translation": "（c）参与者具有详细的内部记忆，但希望确认，因此转向外部资源（例如：“我很确定那天和常一起玩的朋友们去了餐厅，不过让我查一下是否确实如此”）。对于从外部资源转向内部记忆的切换，我们首先区分查阅外部资源是否成功：成功指在外部资源中找到有用信息，失败指没有找到有用信息。对于成功的查阅，我们进一步区分该外部资源是（a）仅确认已有知识（例如：“没错，那天我们去了餐厅，和我想的一样”），还是（b）带来新的认识和／或触发新的内部记忆（例如：“噢，我还喝了那杯特别的鸡尾酒，我完全忘了——现在想起来了！”）。",
+    "kind": "body",
+    "target_rect": [
+      304.72216796875,
+      85.65869140625,
+      540.9060668945312,
+      269.12457275390625
+    ],
+    "font_size": 10.5,
+    "spare_height": 0.0
+  },
+  {
+    "page": 4,
+    "block": 4,
+    "source_rect": [
+      304.7243957519531,
+      278.09832763671875,
+      540.8934936523438,
+      388.2641296386719
+    ],
+    "source_text": "Kinds of external resources\nIt was coded, which social resources (e.g., family, partner), \nnon-digital resources (e.g., paper diary, paper calendar), \nand digital resources (e.g., smartphone photo gallery, \ndigital calendar, instant messaging apps, social media) \nindividuals used. Based on this, we calculated the num-\nber of social, non-digital, and digital resources as well as \nthe total number of different external resources that indi-\nviduals used.\n",
+    "translation": "#### 外部资源的种类\n\n我们编码个人使用了哪些社会资源（如家人、伴侣）、非数字资源（如纸质日记、纸质日历）和数字资源（如智能手机相册、数字日历、即时通讯应用、社交媒体）。在此基础上，计算个人使用的社会资源、非数字资源和数字资源的数量，以及不同外部资源的总数。",
+    "kind": "body",
+    "target_rect": [
+      304.7243957519531,
+      278.09832763671875,
+      540.8934936523438,
+      389.2641296386719
+    ],
+    "font_size": 10.5,
+    "spare_height": 0.0
+  },
+  {
+    "page": 4,
+    "block": 5,
+    "source_rect": [
+      304.7,
+      398.1,
+      540.9,
+      724.3
+    ],
+    "source_text": "Retrieved information\nIt was coded whether the information that individuals \nretrieved was based on a mental representation (internal \nretrieval) or whether it was solely based on information \nstored in an external resource (external retrieval). Note \nthat internal retrieval comprises cases of unaided inter-\nnal retrieval (i.e., internal retrieval of information with-\nout the use of an external resource; e.g., “I remember \nspending that evening in a restaurant”) and aided internal \nretrieval (i.e., internal retrieval of information through \nthe use of an external resource; e.g., “Now that I see it on \nthe picture, I also remember spending that evening in a \nrestaurant”). As it was not always clear from the think-\naloud protocols whether participants remembered a cer-\ntain piece of information on their own or whether their \nrecorded data helped them to remember, we decided to \nuse internal retrieval as an umbrella category.\nTo capture the full range of different kinds of informa-\ntion that individuals remember, additional sub-categories \nwere used to code whether the retrieved information con-\ncerned external characteristics (i.e., information about \nthe place where an event happened, information about \nthe details of an event, information about the persons \nwho were present, and information about the conversa-\ntional content) or internal states (i.e., information about \nthoughts and feelings). For instance, the sentence “On this \npicture, I can see that I spent a nice evening with friends \n1  We are indebted to the editor and the reviewers for suggesting these more \nfine-grained analyses during the revision process.\n",
+    "translation": "#### 提取的信息\n\n我们编码个人提取的信息是基于心理表征（内部提取），还是仅基于外部资源中存储的信息（外部提取）。内部提取既包含无辅助的内部提取（即不使用外部资源而从内部提取信息，例如：“我记得那天晚上是在餐厅度过的”），也包含有辅助的内部提取（即通过使用外部资源而从内部提取信息，例如：“现在在照片上看到这个，我也想起那天晚上是在餐厅度过的”）。由于出声思考记录并非总能明确显示，参与者是自行想起某条信息，还是记录的数据帮助其想起，我们决定以“内部提取”作为统括类别。\n\n为了涵盖个人回忆的各种信息，我们进一步使用子类别，编码提取的信息涉及外部特征（即事件发生地点、事件细节、在场人物及交谈内容），还是内部状态（即想法和感受）。",
+    "kind": "body",
+    "target_rect": [
+      304.7,
+      398.1,
+      540.9,
+      725.3
+    ],
+    "font_size": 10.5,
+    "spare_height": 74.19266052246087
+  },
+  {
+    "page": 4,
+    "block": 5,
+    "source_rect": [
+      56.7,
+      705,
+      292.9,
+      729
+    ],
+    "source_text": "Retrieved information\nIt was coded whether the information that individuals \nretrieved was based on a mental representation (internal \nretrieval) or whether it was solely based on information \nstored in an external resource (external retrieval). Note \nthat internal retrieval comprises cases of unaided inter-\nnal retrieval (i.e., internal retrieval of information with-\nout the use of an external resource; e.g., “I remember \nspending that evening in a restaurant”) and aided internal \nretrieval (i.e., internal retrieval of information through \nthe use of an external resource; e.g., “Now that I see it on \nthe picture, I also remember spending that evening in a \nrestaurant”). As it was not always clear from the think-\naloud protocols whether participants remembered a cer-\ntain piece of information on their own or whether their \nrecorded data helped them to remember, we decided to \nuse internal retrieval as an umbrella category.\nTo capture the full range of different kinds of informa-\ntion that individuals remember, additional sub-categories \nwere used to code whether the retrieved information con-\ncerned external characteristics (i.e., information about \nthe place where an event happened, information about \nthe details of an event, information about the persons \nwho were present, and information about the conversa-\ntional content) or internal states (i.e., information about \nthoughts and feelings). For instance, the sentence “On this \npicture, I can see that I spent a nice evening with friends \n1  We are indebted to the editor and the reviewers for suggesting these more \nfine-grained analyses during the revision process.\n",
+    "translation": "¹ 感谢编辑和审稿人在修订过程中建议进行这些更细致的分析。",
+    "kind": "footnote",
+    "target_rect": [
+      56.7,
+      705.0,
+      292.9,
+      730.0
+    ],
+    "font_size": 7.0,
+    "spare_height": 10.0600004196167
+  },
+  {
+    "page": 5,
+    "block": 1,
+    "source_rect": [
+      56.692893981933594,
+      85.730712890625,
+      292.89263916015625,
+      520.2545166015625
+    ],
+    "source_text": "in restaurant X in city Y” would be coded in the category \nexternal retrieval (“on this picture”) and, more specifi-\ncally, in the sub-categories place (“in restaurant X in city \nY”), event (“a nice evening with friends in restaurant X”), \nand persons (“with friends”). If the sentence had begun \nwith “I remember that” instead of “On this picture”, the \nsame sub-categories would have been assigned, but under \nthe higher-order category internal retrieval. Note that \ncomparing the number of external characteristics and the \nnumber of internal states that participants remembered \nis difficult because the number of sub-categories was dif-\nferent (four for external characteristics and two for inter-\nnal states) and because these sub-categories represent \nphenomenologically diverse kinds of information (e.g., \nremembering a certain feeling vs. remembering the name \nof a restaurant). Against this background, we decided \nto sum up the number of external characteristics and \nthe number of internal states that participants remem-\nbered to get a joint estimate for information remembered \nthrough internal retrieval and external retrieval, respec-\ntively. However, we report the frequencies of the different \ntypes of information (i.e., the different kinds of internal \nstates and external characteristics) for the different types \nof retrieval (i.e., internal versus external retrieval) and the \ndifferent types of events (i.e., random day vs. important \nday) in Table 4. Note also that each piece of information \nwas only counted once, even if it was mentioned sev-\neral times during the think-aloud procedure (e.g., when \nthe same restaurant was mentioned three times, this \nwas only counted as one piece of information) so that \nthe retrieved amount of information equals the num-\nber of different pieces of information that participants \nretrieved. In addition to counting the amount of informa-\ntion that participants retrieved, we determined the total \namount of time that participants spent performing the \nthink-aloud procedure.\n",
+    "translation": "例如，“从这张照片上，我能看到自己与朋友在Y市的X餐厅度过了一个愉快的晚上”，会被编码为外部提取（“从这张照片上”），更具体地分入地点（“在Y市的X餐厅”）、事件（“与朋友在X餐厅度过一个愉快的晚上”）和人物（“与朋友”）这些子类别。如果这句话以“我记得”而非“从这张照片上”开头，则仍归入相同子类别，但上位类别为内部提取。需要注意，难以直接比较参与者回忆的外部特征数量与内部状态数量，因为两者的子类别数量不同（外部特征4类，内部状态2类），而且这些子类别在现象学层面代表性质不同的信息（例如，记得某种感受与记得一家餐厅的名字）。因此，我们决定将参与者回忆的外部特征数量和内部状态数量相加，分别获得通过内部提取和外部提取所回忆信息的综合估计。不过，表4仍按提取类型（内部提取与外部提取）和事件类型（随机日期与重要日期），报告各类信息（即不同内部状态和外部特征）的频次。另需注意，即使某条信息在出声思考过程中多次提及，也只计数一次（例如，同一家餐厅被提到三次，仍只算一条信息），因此提取的信息量等于参与者提取的不同信息条目数。除了计数信息量，我们还测定参与者完成出声思考程序的总用时。",
+    "kind": "body",
+    "target_rect": [
+      56.692893981933594,
+      85.730712890625,
+      292.89263916015625,
+      521.2545166015625
+    ],
+    "font_size": 10.5,
+    "spare_height": 102.50375366210938
+  },
+  {
+    "page": 5,
+    "block": 2,
+    "source_rect": [
+      56.692901611328125,
+      528.85400390625,
+      292.8316955566406,
+      568.25927734375
+    ],
+    "source_text": "Results\nAll statistical analyses were performed using JASP (2024) \n(Version 0.19.3).\n",
+    "translation": "## 结果\n\n全部统计分析使用JASP（2024）0.19.3版完成。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      528.85400390625,
+      292.8316955566406,
+      569.25927734375
+    ],
+    "font_size": 10.5,
+    "spare_height": 1.1379737854003906
+  },
+  {
+    "page": 5,
+    "block": 3,
+    "source_rect": [
+      56.692901611328125,
+      578.0983276367188,
+      292.8895568847656,
+      724.2545166015625
+    ],
+    "source_text": "Time spent on the think‑aloud procedure\nThe time that participants spent on performing the \nthink-aloud procedure did not differ significantly \nbetween remembering the important day (M = 6.87 min, \nSD = 3.11) \nand \nremembering \nthe \nrandom \nday \n(M = 7.47 min, SD = 3.45), t(40) = 1.31, p = 0.098, d = 0.21, \n95% CI [t0.11, 0.51]. As there was a descriptive tendency \nthat participants spent more time on remembering the \nrandom day, we nevertheless checked whether correct-\ning the parameters analyzed in the following for the time \nspent on the task changes the results in any meaningful \nway. This was not the case: All significances remained the \n",
+    "translation": "### 出声思考程序的用时\n\n参与者回忆重要日期（M = 6.87分钟，SD = 3.11）和随机日期（M = 7.47分钟，SD = 3.45）时，完成出声思考程序的用时没有显著差异，t(40) = 1.31，p = 0.098，d = 0.21，95% CI [t0.11, 0.51]。由于描述性结果显示，参与者在回忆随机日期时有用时更长的趋势，我们仍检验了：根据任务用时校正下文分析的参数，是否会实质性改变结果。结果并非如此，所有显著性结论保持不变。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      578.0983276367188,
+      292.8895568847656,
+      725.2545166015625
+    ],
+    "font_size": 10.5,
+    "spare_height": 3.5188751220703125
+  },
+  {
+    "page": 5,
+    "block": 4,
+    "source_rect": [
+      304.7210998535156,
+      298.13092041015625,
+      538.5828247070312,
+      324.67120361328125
+    ],
+    "source_text": "same. Hence, these analyses are reported in the Supple-\nmental Material.\n",
+    "translation": "因此，这些分析在补充材料中报告。",
+    "kind": "body",
+    "target_rect": [
+      304.7210998535156,
+      298.13092041015625,
+      538.5828247070312,
+      325.67120361328125
+    ],
+    "font_size": 10.5,
+    "spare_height": 7.630283355712891
+  },
+  {
+    "page": 5,
+    "block": 5,
+    "source_rect": [
+      304.7048034667969,
+      334.5054016113281,
+      540.8945922851562,
+      588.6663818359375
+    ],
+    "source_text": "Changes between internal processes and external \nresources\nNumber of changes and time to first change\nParticipants repeatedly changed between internal pro-\ncesses and external resources, both when remember-\ning the important day (M = 5.90, SD = 4.80) and when \nremembering the random day (M = 8.05, SD = 5.27). \nOverall, and as indicated by a t-test for dependent sam-\nples, participants changed more frequently between \ninternal processes and external resources when remem-\nbering the random day compared to remember-\ning the important day, t(40) = 3.82, p < 0.001, d = 0.60, \n95% CI [0.26, 0.93]. As indicated by another t-test for \ndependent samples, it took participants less time until \nthey consulted an external resource for the first time \nwhen remembering the random day (M = 0.23  min, \nSD = 0.25) compared to remembering the important day \n(M = 1.21 min, SD = 1.54), t(36) = 3.86, p < 0.001, d = 0.64, \n95% CI [0.28, 0.99].2 In sum, this suggests that par-\nticipants were more reliant on external resources when \nremembering the random day.\n",
+    "translation": "### 内部过程与外部资源之间的切换\n\n#### 切换次数与首次切换用时\n\n参与者在回忆重要日期（M = 5.90，SD = 4.80）和随机日期（M = 8.05，SD = 5.27）时，都反复在内部过程与外部资源之间切换。配对样本t检验表明，总体而言，回忆随机日期时的切换比回忆重要日期更频繁，t(40) = 3.82，p < 0.001，d = 0.60，95% CI [0.26, 0.93]。另一项配对样本t检验表明，回忆随机日期时，参与者首次查阅外部资源所需时间（M = 0.23分钟，SD = 0.25）短于回忆重要日期时（M = 1.21分钟，SD = 1.54），t(36) = 3.86，p < 0.001，d = 0.64，95% CI [0.28, 0.99]。² 总体而言，这提示参与者在回忆随机日期时更加依赖外部资源。",
+    "kind": "body",
+    "target_rect": [
+      304.7048034667969,
+      334.5054016113281,
+      540.8945922851562,
+      589.6663818359375
+    ],
+    "font_size": 10.5,
+    "spare_height": 47.43635559082031
+  },
+  {
+    "page": 5,
+    "block": 20,
+    "source_rect": [
+      304.7243957519531,
+      705.5905151367188,
+      540.3757934570312,
+      728.4205322265625
+    ],
+    "source_text": "2  Naturally, this t-test only involved participants who used at least one \nexternal resource per session. This applied to 37 of the 41 participants.\n",
+    "translation": "² 这一t检验自然只纳入每次实验都至少使用一种外部资源的参与者。41名参与者中有37人符合这一条件。",
+    "kind": "footnote",
+    "target_rect": [
+      304.7243957519531,
+      705.5905151367188,
+      540.9,
+      729.4205322265625
+    ],
+    "font_size": 7.0,
+    "spare_height": 0.0
+  },
+  {
+    "page": 5,
+    "block": 6,
+    "source_rect": [
+      304.714599609375,
+      598.50537109375,
+      540.9004516601562,
+      684.671142578125
+    ],
+    "source_text": "Additional analyses\nAn overview of the number and kind of changes between \ninternal processes and external resources is provided in \nTable 1. First, we ran a 2 × 3  repeated-measures ANOVA \nto determine whether the number of changes from an \ninternal process to an external resource changed depend-\ning on the kind of event (important day vs. random day) \n",
+    "translation": "#### 附加分析\n\n表1概述内部过程与外部资源之间切换的次数和类型。首先，我们进行2 × 3重复测量方差分析，以检验从内部过程转向外部资源的次数是否随事件类型（重要日期与随机日期）",
+    "kind": "body",
+    "target_rect": [
+      304.714599609375,
+      598.50537109375,
+      540.9004516601562,
+      685.671142578125
+    ],
+    "font_size": 10.5,
+    "spare_height": 3.1684722900390625
+  },
+  {
+    "page": 6,
+    "block": 1,
+    "source_rect": [
+      56.458900451660156,
+      85.730712890625,
+      292.89251708984375,
+      172.2641143798828
+    ],
+    "source_text": "and the reason for the change (no internal memory vs. \nvague internal memory vs. detailed internal memory). We \nfound a significant main effect for the kind of event, F(1, \n40) = 7.84, p = 0.008, ω2\np = 0.025 , a significant main effect \nfor the reason of the change, F(2, 80) = 38.49, p < 0.001, \nω2\np = 0.326 , and a significant interaction between the two \nfactors, F(2, 80) = 17.80, p < 0.001, ω2\np = 0.159.3\n",
+    "translation": "和切换原因（无内部记忆、模糊的内部记忆、详细的内部记忆）而变化。结果显示，事件类型的主效应显著，F(1, 40) = 7.84，p = 0.008，ω²ₚ = 0.025；切换原因的主效应显著，F(2, 80) = 38.49，p < 0.001，ω²ₚ = 0.326；两因素的交互作用也显著，F(2, 80) = 17.80，p < 0.001，ω²ₚ = 0.159。³",
+    "kind": "body",
+    "target_rect": [
+      56.458900451660156,
+      85.730712890625,
+      292.89251708984375,
+      173.2641143798828
+    ],
+    "font_size": 10.26793997271487,
+    "spare_height": 0
+  },
+  {
+    "page": 6,
+    "block": 2,
+    "source_rect": [
+      56.68312072753906,
+      169.730712890625,
+      292.8924865722656,
+      676.23046875
+    ],
+    "source_text": "To better understand this interaction, we additionally \ncalculated post-hoc t-tests using a Bonferroni correction. \nAs far as the important day is concerned, more changes \nfrom an internal process to an external resource were ini-\ntiated based on a vague internal memory than based on \nno internal memory, t(40) = 6.22, p < 0.001, d = 1.32, 95% \nCI [0.51, 2.13], or a detailed internal memory, t(40) = 6.56, \np < 0.001, d = 1.51, 95% CI [0.62, 2.40]. There was no sig-\nnificant difference between the amount of changes from \nan internal process to an external resource initiated \nbased on no internal memory and a detailed internal \nmemory, t(40) = 1.50, p = 0.423, d = 0.19, 95% CI [t0.21, \n0.59]. That is, for the important day, the dominant reason \nfor consulting an external resource was having a vague \ninternal memory. As far as the random day is concerned, \nmore changes from an internal process to an external \nresource were initiated based on no internal memory \nthan based on a detailed internal memory, t(40) = 7.25, \np < 0.001, d = 1.53, 95% CI [0.68, 2.38], as well as based on \na vague internal memory than based on a detailed inter-\nnal memory, t(40) = 6.67, p < 0.001, d = 1.30, 95% CI [0.54, \n2.06]. There was no significant difference between the \namount of changes from an internal process to an exter-\nnal resource initiated based on no internal memory and \na vague internal memory, t(40) = 0.82, p = 1.00, d = 0.23, \n95% CI [−  0.65, 1.11]. That is, for the random day, the \ndominant reasons for consulting an external resource \nwere having either no internal memory or a vague inter-\nnal memory. In addition, there were more changes from \nan internal process to an external resource based on no \ninternal memory for the random day compared to the \nimportant day, t(40) = 6.63, p < 0.001, d = 1.17, 95% CI \n[0.49, 1.86], more changes based on a detailed internal \nmemory for the important day compared to the ran-\ndom day, t(40) = 2.24, p = 0.031, d = 0.17, 95% CI [− 0.07, \n0.41], and no significant difference between the number \nof changes based on a vague internal memory for the \nimportant day compared to the random day, t(40) = 1.55, \np = 0.130, d = 0.38, 95% CI [− 0.40, 1.15].\nNext, we ran another 2 × 3       repeated-measures \nANOVA to determine whether the number of changes \nfrom an external resource to an internal resource varied as \n",
+    "translation": "为了更好地理解这一交互作用，我们进一步进行采用Bonferroni校正的事后t检验。对于重要日期，基于模糊内部记忆而从内部过程转向外部资源的次数，多于基于无内部记忆的切换次数，t(40) = 6.22，p < 0.001，d = 1.32，95% CI [0.51, 2.13]；也多于基于详细内部记忆的切换次数，t(40) = 6.56，p < 0.001，d = 1.51，95% CI [0.62, 2.40]。基于无内部记忆与基于详细内部记忆而从内部过程转向外部资源的次数，没有显著差异，t(40) = 1.50，p = 0.423，d = 0.19，95% CI [t0.21, 0.59]。也就是说，对于重要日期，查阅外部资源的主要原因是具有模糊的内部记忆。对于随机日期，基于无内部记忆而从内部过程转向外部资源的次数，多于基于详细内部记忆的次数，t(40) = 7.25，p < 0.001，d = 1.53，95% CI [0.68, 2.38]；基于模糊内部记忆的次数也多于基于详细内部记忆的次数，t(40) = 6.67，p < 0.001，d = 1.30，95% CI [0.54, 2.06]。基于无内部记忆与基于模糊内部记忆的切换次数，没有显著差异，t(40) = 0.82，p = 1.00，d = 0.23，95% CI [−0.65, 1.11]。也就是说，对于随机日期，查阅外部资源的主要原因是没有内部记忆或只有模糊的内部记忆。此外，随机日期中基于无内部记忆而从内部过程转向外部资源的次数，多于重要日期，t(40) = 6.63，p < 0.001，d = 1.17，95% CI [0.49, 1.86]；重要日期中基于详细内部记忆的切换次数，多于随机日期，t(40) = 2.24，p = 0.031，d = 0.17，95% CI [−0.07, 0.41]；两种日期中基于模糊内部记忆的切换次数则没有显著差异，t(40) = 1.55，p = 0.130，d = 0.38，95% CI [−0.40, 1.15]。\n\n接下来，我们进行另一项2 × 3重复测量方差分析，以检验从外部资源转向内部资源的次数，",
+    "kind": "body",
+    "target_rect": [
+      56.68312072753906,
+      169.730712890625,
+      292.8924865722656,
+      677.23046875
+    ],
+    "font_size": 10.5,
+    "spare_height": 35.2896728515625
+  },
+  {
+    "page": 6,
+    "block": 3,
+    "source_rect": [
+      304.49029541015625,
+      85.6922607421875,
+      540.9112548828125,
+      700.2064819335938
+    ],
+    "source_text": "a function of the kind of event (important day vs. random \nday) and the reason for the end of the consultation of the \nexternal resource (confirming previous knowledge vs. \nnew insights vs. unsuccessful consultation). We found \na significant main effect for the kind of event, F(1, \n40) = 7.84, p = 0.008, ω2\np = 0.025 , a significant main effect \nfor the reason of the change, F(2, 80) = 35.52, p < 0.001, \nω2\np = 0.305 , and a significant interaction between the two \nfactors, F(2, 80) = 5.00, p < 0.009, ω2\np = 0.042.\nTo better understand this interaction, we addition-\nally calculated post-hoc t-tests using a Bonferroni cor-\nrection. As far as the important day is concerned, the \nchanges back to internal processes happened more fre-\nquently after gaining new insights than after confirming \nprevious knowledge t(40) = 4.57, p < 0.001, d = 1.08, 95% \nCI [0.25, 1.91], or after an unsuccessful consultation of \nan external resource, t(40) = 3.76, p = 0.002, d = 0.96, 95% \nCI [0.10, 1.82]. There was no significant difference for \nthe number of changes after confirming previous knowl-\nedge and after an unsuccessful consultation, t(40) = 0.90, \np = 1.00, d = 0.13, 95% CI [− 0.32, 0.57]. That is, for the \nimportant day, most changes back to internal processes \nhappened after gaining new insights from an external \nresource, indicating that consulting an external resource \nwas an overall successful strategy. As far as the random \nday is concerned, the changes back to internal processes \nhappened more frequently after gaining new insights \nthan after confirming previous knowledge, t(40) = 9.60, \np < 0.001, d = 1.61, 95% CI [0.84, 2.38], or after an unsuc-\ncessful consultation of an external resource, t(40) = 2.57, \np = 0.042, d = 0.62, 95% CI [−  0.16, 1.40]. Interestingly, \nthe changes back to internal processes also happened \nmore frequently after an unsuccessful consultation of an \nexternal resource than after confirming previous knowl-\nedge, t(40) = 4.76, p < 0.001, d = 1.00, 95% CI [0.26, 1.74]. \nThat is, while consulting an external resource was also an \neffective strategy in the case of the random day, there was \nalso a relatively high number of cases in which consult-\ning an external resource was unsuccessful. In addition, \nthe number of changes from an external resource to an \ninternal process after gaining new insights did not differ \nsignificantly between the important day and the random \nday, t(40) = 1.31, p = 0.199, d = 0.28, 95% CI [− 0.39, 0.94]. \nHowever, there were more changes back to an internal \nprocess after an unsuccessful consultation of an external \nresource for the random day compared to the important \nday, t(40) = 3.12, p = 0.003, d = 0.62, 95% CI [0.04, 1.27]. \nThere were also more changes back to an internal process \nafter confirming previous knowledge for the important \nday compared to the random day, t(40) = 2.50, p = 0.017, \nd = 0.26, 95% CI [− 0.08, 0.59].\n",
+    "translation": "是否随事件类型（重要日期与随机日期）和结束查阅外部资源的原因（确认已有知识、获得新认识、查阅失败）而变化。结果显示，事件类型的主效应显著，F(1, 40) = 7.84，p = 0.008，ω²ₚ = 0.025；切换原因的主效应显著，F(2, 80) = 35.52，p < 0.001，ω²ₚ = 0.305；两因素的交互作用也显著，F(2, 80) = 5.00，p < 0.009，ω²ₚ = 0.042。\n\n为了更好地理解这一交互作用，我们进一步进行采用Bonferroni校正的事后t检验。对于重要日期，获得新认识后转回内部过程的次数，多于确认已有知识之后，t(40) = 4.57，p < 0.001，d = 1.08，95% CI [0.25, 1.91]；也多于查阅外部资源失败之后，t(40) = 3.76，p = 0.002，d = 0.96，95% CI [0.10, 1.82]。确认已有知识后与查阅失败后的切换次数，没有显著差异，t(40) = 0.90，p = 1.00，d = 0.13，95% CI [−0.32, 0.57]。也就是说，对于重要日期，大多数转回内部过程的切换发生在从外部资源获得新认识之后，表明查阅外部资源总体上是一种成功的策略。对于随机日期，获得新认识后转回内部过程的次数，多于确认已有知识之后，t(40) = 9.60，p < 0.001，d = 1.61，95% CI [0.84, 2.38]；也多于查阅外部资源失败之后，t(40) = 2.57，p = 0.042，d = 0.62，95% CI [−0.16, 1.40]。值得注意的是，查阅外部资源失败后转回内部过程的次数，也多于确认已有知识之后，t(40) = 4.76，p < 0.001，d = 1.00，95% CI [0.26, 1.74]。也就是说，虽然对于随机日期，查阅外部资源同样是有效策略，但失败的情况也相对较多。此外，获得新认识后从外部资源转回内部过程的次数，在重要日期与随机日期之间没有显著差异，t(40) = 1.31，p = 0.199，d = 0.28，95% CI [−0.39, 0.94]。不过，查阅外部资源失败后转回内部过程的次数，随机日期多于重要日期，t(40) = 3.12，p = 0.003，d = 0.62，95% CI [0.04, 1.27]。确认已有知识后转回内部过程的次数，则重要日期多于随机日期，t(40) = 2.50，p = 0.017，d = 0.26，95% CI [−0.08, 0.59]。",
+    "kind": "body",
+    "target_rect": [
+      304.49029541015625,
+      85.6922607421875,
+      540.9112548828125,
+      701.2064819335938
+    ],
+    "font_size": 10.5,
+    "spare_height": 68.754150390625
+  },
+  {
+    "page": 6,
+    "block": 4,
+    "source_rect": [
+      56.692901611328125,
+      696.5905151367188,
+      292.3479919433594,
+      728.4205322265625
+    ],
+    "source_text": "3  We decided to report omega squared instead of the more common eta \nsquared because omega squared can be considered to be less biased (for \ndetails, see Kroes & Finley, 2023).\n",
+    "translation": "³ 我们选择报告ω平方，而不是更常见的η平方，是因为ω平方被认为偏差较小（详见Kroes & Finley, 2023）。",
+    "kind": "footnote",
+    "target_rect": [
+      56.692901611328125,
+      696.5905151367188,
+      292.9,
+      729.4205322265625
+    ],
+    "font_size": 7.0,
+    "spare_height": 7.950017929077148
+  },
+  {
+    "page": 7,
+    "block": 1,
+    "source_rect": [
+      56.69288635253906,
+      573.4549560546875,
+      292.8837585449219,
+      719.5726928710938
+    ],
+    "source_text": "Kinds of external resources\nThe descriptive results for the kinds of external \nresources that participants used are displayed in \nTables 2 and 3. While Table 2 gives a detailed overview \nof the different kinds of external resources and the \nnumber of participants who used them, Table  3 shows \nthe average number of digital, non-digital, and social \nresources that participants used in the two conditions. \nAs the descriptive numbers clearly indicate, digital \nresources were used much more frequently than non-\ndigital and social resources. Whereas the vast majority \nof participants used digital resources (38 of our 41 \n",
+    "translation": "### 外部资源的种类\n\n表2和表3呈现参与者使用的外部资源种类的描述性结果。表2详细列出各种外部资源及使用人数，表3则显示参与者在两种条件下使用数字、非数字和社会资源的平均数量。描述性数据清楚表明，数字资源的使用远比非数字资源和社会资源频繁。",
+    "kind": "body",
+    "target_rect": [
+      56.69288635253906,
+      573.4549560546875,
+      292.8837585449219,
+      720.5726928710938
+    ],
+    "font_size": 10.5,
+    "spare_height": 48.21043395996094
+  },
+  {
+    "page": 7,
+    "block": 2,
+    "source_rect": [
+      304.7112731933594,
+      85.67926025390625,
+      540.900146484375,
+      340.1163635253906
+    ],
+    "source_text": "participants when remembering the important day and \n40 participants when remembering the random day), \nnon-digital (important day: 1 participant; random day: \n2 participants) and social resources (important day: 1 \nparticipant; random day: 5 participants) were hardly \nused at all. Against this background, we decided to focus \non the digital resources for this part of our statistical \nanalysis. In this context, a t-test for dependent samples \nshows that participants used more digital resources when \nremembering the random day compared to remembering \nthe important day, t(40) = 5.33, p < 0.001, d = 0.83, 95% \nCI [0.47, 1.19]. Interestingly, the digital resources that \nwere used most frequently when remembering the \nimportant day (i.e., smartphone photo gallery, digital \ncalendar, instant messaging, snapchat) were the same \ndigital resources that were also used most frequently \nwhen remembering the random day, indicating that \nremembering a random day versus remembering an \nimportant day does not so much change the kind of \nresources that individuals use but rather the frequency \nwith which these resources are consulted.\n",
+    "translation": "绝大多数参与者使用数字资源（41人中，回忆重要日期时有38人，回忆随机日期时有40人），而非数字资源（重要日期：1人；随机日期：2人）和社会资源（重要日期：1人；随机日期：5人）几乎没有被使用。因此，在这一部分统计分析中，我们决定重点分析数字资源。配对样本t检验显示，参与者回忆随机日期时使用的数字资源多于回忆重要日期时，t(40) = 5.33，p < 0.001，d = 0.83，95% CI [0.47, 1.19]。值得注意的是，回忆重要日期时最常使用的数字资源（智能手机相册、数字日历、即时通讯、Snapchat），也是回忆随机日期时最常使用的数字资源。这表明，回忆随机日期与回忆重要日期相比，变化主要体现在查阅资源的频次，而不是使用的资源种类。",
+    "kind": "body",
+    "target_rect": [
+      304.7112731933594,
+      85.67926025390625,
+      540.900146484375,
+      341.1163635253906
+    ],
+    "font_size": 10.5,
+    "spare_height": 41.69706726074219
+  },
+  {
+    "page": 7,
+    "block": 3,
+    "source_rect": [
+      304.72369384765625,
+      354.81561279296875,
+      540.9032592773438,
+      728.938232421875
+    ],
+    "source_text": "Retrieved information\nAs already stated above, the amount of retrieved infor-\nmation was operationalized as the number of different \npieces of information that participants retrieved for the \nimportant day and the random day based on internal \nmemory and external resources, respectively. A detailed \noverview of the different types of information (i.e., the \ndifferent kinds of internal states and external charac-\nteristics) for the different types of retrieval (i.e., inter-\nnal versus external retrieval) and the different types of \nevents (i.e., random day vs. important day) is reported in \nTable 4.\nWe ran a 2 × 2   repeated-measures ANOVA to \ndetermine whether the kind of event (important day vs. \nrandom day) and the kind of retrieval (internal retrieval \nvs. external retrieval) influenced the amount of retrieved \ninformation. We found a significant main effect for the \nkind of event, F(1, 40) = 20.18, p < 0.001, ω2\np = 0.152 , \na significant main effect for the kind of retrieval, F(1, \n40) = 29.68, p < 0.001, ω2\np = 0.295 , and a significant \ninteraction between the two factors, F(1, 40) = 22.64, \np < 0.001, ω2\np = 0.191 . As indicated by post-hoc t-tests \nusing a Bonferroni adjustment, participants retrieved \nmore information through internal retrieval for the \nimportant day compared to the random day, t(40) = 5.00, \np < 0.001, d = 1.24, 95% CI [0.45, 2.02]; for external \nretrieval, however, there was no difference between the \namount of information retrieved for the important day \ncompared to the random day, t(40) = 1.15, p = 0.259, \nd = −0.12, 95% CI [− 0.40, 0.17]. In addition, participants \nretrieved more information through internal retrieval \n",
+    "translation": "### 提取的信息\n\n如前所述，提取的信息量被操作化为：参与者针对重要日期和随机日期，分别依据内部记忆与外部资源提取的不同信息条目数。表4按提取类型（内部与外部提取）和事件类型（随机日期与重要日期），详细列出不同信息类型（不同内部状态及外部特征）。\n\n我们进行2 × 2重复测量方差分析，以检验事件类型（重要日期与随机日期）和提取类型（内部与外部提取）是否影响提取的信息量。结果显示，事件类型的主效应显著，F(1, 40) = 20.18，p < 0.001，ω²ₚ = 0.152；提取类型的主效应显著，F(1, 40) = 29.68，p < 0.001，ω²ₚ = 0.295；两因素的交互作用也显著，F(1, 40) = 22.64，p < 0.001，ω²ₚ = 0.191。采用Bonferroni校正的事后t检验表明，重要日期通过内部提取获得的信息量多于随机日期，t(40) = 5.00，p < 0.001，d = 1.24，95% CI [0.45, 2.02]；但通过外部提取获得的信息量在两种日期之间没有差异，t(40) = 1.15，p = 0.259，d = −0.12，95% CI [−0.40, 0.17]。",
+    "kind": "body",
+    "target_rect": [
+      304.72369384765625,
+      354.81561279296875,
+      540.9032592773438,
+      729.938232421875
+    ],
+    "font_size": 10.5,
+    "spare_height": 77.38528442382812
+  },
+  {
+    "page": 8,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      298.1378173828125,
+      292.8916015625,
+      384.6424560546875
+    ],
+    "source_text": "than through external retrieval when remembering an \nimportant day, t(40) = 6.60, p < 0.001, d = 1.72, 95% CI \n[0.82, 2.62]; when remembering a random day, however, \nthere was no significant difference between the amount \nof information retrieved through internal retrieval and \nexternal retrieval, t(40) = 1.72, p = 0.092, d = 0.37, 95% CI \n[−0.24, 0.98].\n",
+    "translation": "此外，回忆重要日期时，通过内部提取获得的信息量多于外部提取，t(40) = 6.60，p < 0.001，d = 1.72，95% CI [0.82, 2.62]；但回忆随机日期时，内部与外部提取的信息量没有显著差异，t(40) = 1.72，p = 0.092，d = 0.37，95% CI [−0.24, 0.98]。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      298.1378173828125,
+      292.8916015625,
+      385.6424560546875
+    ],
+    "font_size": 10.5,
+    "spare_height": 7.9546356201171875
+  },
+  {
+    "page": 8,
+    "block": 2,
+    "source_rect": [
+      56.683128356933594,
+      394.5054016113281,
+      292.8818054199219,
+      696.6614990234375
+    ],
+    "source_text": "External resources and retrieved information\nThe higher the total number of different external \nresources (i.e., the higher the total number of social, non-\ndigital, and digital resources combined), the more infor-\nmation they remembered through external retrieval, both \nwhen remembering the important day, r = 0.71, p < 0.001, \n95% CI [0.51, 0.83], and when remembering the random \nday, r = 0.37, p = 0.018, 95% CI [0.07, 0.61]. The correla-\ntion for the important day is significantly stronger than \nthe correlation for the random day, z = 2.17, p = 0.030. \nThese results remain virtually unchanged when using the \nnumber of different digital resources (instead of the total \nnumber of different external resources): In other words, \nthe more different digital resources participants used, \nthe more information they remembered through exter-\nnal retrieval, both when remembering the important day, \nr = 0.72, p < 0.001, 95% CI [0.53, 0.84], and when remem-\nbering the random day, r = 0.39, p = 0.011, 95% CI [0.10, \n0.63]. Again, the correlation for the important day was \nsignificantly stronger than the correlation for the random \nday, z = 2.13, p = 0.033. Similar to the analysis regarding \nthe frequency of successful and unsuccessful consulta-\ntions of an external resource, this analysis demonstrates \nthat using external resources is effective, albeit less so for \nthe random day.\n",
+    "translation": "### 外部资源与提取的信息\n\n不同外部资源的总数越多（即社会、非数字和数字资源合计的数量越多），通过外部提取回忆的信息就越多；重要日期如此，r = 0.71，p < 0.001，95% CI [0.51, 0.83]，随机日期也是如此，r = 0.37，p = 0.018，95% CI [0.07, 0.61]。重要日期的相关显著强于随机日期，z = 2.17，p = 0.030。当使用不同数字资源的数量，而非全部不同外部资源的总数时，结果基本不变。换言之，参与者使用的不同数字资源越多，通过外部提取回忆的信息就越多；重要日期如此，r = 0.72，p < 0.001，95% CI [0.53, 0.84]，随机日期也是如此，r = 0.39，p = 0.011，95% CI [0.10, 0.63]。同样，重要日期的相关显著强于随机日期，z = 2.13，p = 0.033。与关于外部资源查阅成功和失败频次的分析相似，这一分析表明，使用外部资源是有效的，但对于随机日期，其效果较弱。",
+    "kind": "body",
+    "target_rect": [
+      56.683128356933594,
+      394.5054016113281,
+      292.8818054199219,
+      697.6614990234375
+    ],
+    "font_size": 10.5,
+    "spare_height": 55.14875793457031
+  },
+  {
+    "page": 8,
+    "block": 3,
+    "source_rect": [
+      304.714599609375,
+      297.7450256347656,
+      540.904296875,
+      445.1072082519531
+    ],
+    "source_text": "Discussion\nThe present study was designed to gain new insights \ninto autobiographical remembering in the twenty-first \ncentury. In addition, it was also designed to test some \nof the key assumptions underlying our AMEDIA-Model \n(Hutmacher et al., 2024a, 2024b), namely the assumption \nthat autobiographical remembering is an iterative process \nbased on the combination of information stored in one’s \nmind and information stored in external resources \nand the assumption that digital external resources \nplay an important role when it comes to remembering \nautobiographical events in the digital age.\n",
+    "translation": "## 讨论\n\n本研究旨在增进对21世纪自传体回忆的理解，同时检验AMEDIA模型（Hutmacher et al., 2024a, 2024b）的若干核心假设：自传体回忆是一种迭代过程，将头脑中存储的信息与外部资源中存储的信息相结合；在数字时代回忆自传事件时，数字外部资源发挥重要作用。",
+    "kind": "body",
+    "target_rect": [
+      304.714599609375,
+      297.7450256347656,
+      540.904296875,
+      446.1072082519531
+    ],
+    "font_size": 10.5,
+    "spare_height": 34.54487609863281
+  },
+  {
+    "page": 8,
+    "block": 4,
+    "source_rect": [
+      304.7243957519531,
+      454.9894104003906,
+      540.913330078125,
+      721.1503295898438
+    ],
+    "source_text": "Summary of findings and theoretical implications\nAs far as the first assumption is concerned, our data \nconvincingly demonstrate that individuals repeatedly \nchange between internal memories and information \nstored in external resources, no matter whether they try \nto remember an important day or a random day. Three \nmore observations are important in this context. First, \nour data do not only show that individuals rely on exter-\nnal resources for autobiographical remembering but also \nthat this is an effective strategy: For both the important \nday and the random day, consulting an external resource \nmore frequently led to new insights than it remained \nunsuccessful. In addition, the more external resources \nindividuals used, the more information they retrieved \nfrom these external resources. Interestingly, this pattern \nwas less pronounced for the random day compared to \nthe important day as indicated by a higher frequency of \nunsuccessful consultations of an external resource as well \nas a weaker correlation between the number of external \nresources that participants used and the amount of infor-\nmation that they were able to retrieve. As we see it, there \nare at least two explanations for these findings. On the \n",
+    "translation": "### 研究发现概述与理论启示\n\n关于第一个假设，我们的数据有力地表明，无论试图回忆重要日期还是随机日期，个人都会反复在内部记忆与外部资源存储的信息之间切换。在这一背景下，还有三项值得关注的观察。首先，我们的数据不仅表明个人依靠外部资源进行自传体回忆，也表明这是一种有效的策略：无论重要日期还是随机日期，查阅外部资源带来新认识的情况都比查阅失败更常见。此外，使用的外部资源越多，从这些资源提取的信息也越多。值得注意的是，相较于重要日期，这一模式在随机日期中较弱，体现为查阅外部资源失败的频次更高，以及资源使用数量与可提取信息量之间的相关更弱。我们认为，至少有两种解释。",
+    "kind": "body",
+    "target_rect": [
+      304.7243957519531,
+      454.9894104003906,
+      540.913330078125,
+      722.1503295898438
+    ],
+    "font_size": 10.5,
+    "spare_height": 48.97358703613281
+  },
+  {
+    "page": 9,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.8896179199219,
+      724.2640991210938
+    ],
+    "source_text": "one hand, it could be that looking at different resources \nis less effective for the random day because the partici-\npants search strategy is less targeted. Assuming that par-\nticipants have fewer internal memories about the random \nday compared to the important day, they may be less \nsure where to look for the respective information. On the \nother hand, it could be that the external resources sim-\nply contain fewer information for the random day com-\npared to the important day so that consulting an external \nresource has a higher chance of remaining without a \nresult.\nSecond, the amount of information that individuals \nwere able to retrieve based on internal memories was \nhigher when remembering an important day compared \nto remembering a random day. Note, however, that this \npattern is difficult to interpret: It might be that individu-\nals are able to retrieve more information for the impor-\ntant day because it was an important day, that is, because \nthey ascribe a higher value to the things that happened \nduring this day. At the same time, it is also possible that \nsimply more happened during the important day so \nthat the maximum amount of information than can be \nretrieved for the important day is higher than the maxi-\nmum amount of information that can be retrieved for the \nrandom day. Interestingly, there was no significant dif-\nference between the important day and the random day \nregarding the amount of information that individuals \nwere able to retrieve solely based on external resources. \nIf anything, there was a descriptive tendency that more \ninformation was retrieved from external resources when \nremembering the random day. This suggests that external \nresources provide a valuable basis for remembering and \nreconstructing both important and comparably unim-\nportant autobiographical events.\nThird, we observed more changes between internal \nprocesses and external resources for the random day \ncompared to the important day. In line with this, we also \nobserved that individuals used more (digital) external \nresources and that they used these resources earlier when \nremembering the random day compared to remembering \nthe important day. As remembering a random day based \non internal memory alone is harder than remembering \nan important day, this seems to suggest that individuals \ntend to access external resources whenever the informa-\ntion stored in internal memory seems insufficient. This \nconclusion is also supported by our additional analyses \ndemonstrating that individuals only rarely switch to an \nexternal resource when they already have a detailed inter-\nnal memory, but rather when they have either no internal \nmemory or merely a vague internal memory. Moreover, \ninitiating a switch to an external resource because one \nhad no internal memory was more frequent for the ran-\ndom day compared to the important day.\n",
+    "translation": "一方面，查看不同资源对于随机日期可能效果较弱，因为参与者的搜索策略针对性较低。如果参与者对随机日期的内部记忆少于重要日期，他们可能更不确定应到哪里寻找相应信息。另一方面，外部资源中有关随机日期的信息可能本来就少于重要日期，因此查阅外部资源更有可能无果而终。\n\n其次，回忆重要日期时，个人依据内部记忆能够提取的信息量高于回忆随机日期时。不过，这一模式难以解释：个人能够提取关于重要日期的更多信息，可能是因为这一天重要，即他们对当天发生的事情赋予了更高价值；同时，也可能只是因为重要日期发生的事情更多，因此其可提取信息量的上限高于随机日期。值得注意的是，个人仅依据外部资源能够提取的信息量，在两种日期之间没有显著差异。如果说存在某种趋势，也只是描述性结果显示，回忆随机日期时从外部资源提取的信息更多。这提示，外部资源对于回忆和重构重要及相对不重要的自传事件，都提供了有价值的基础。\n\n第三，相较于重要日期，我们在随机日期观察到更多内部过程与外部资源之间的切换。与此一致，个人在回忆随机日期时使用更多（数字）外部资源，也更早使用这些资源。由于仅凭内部记忆回忆随机日期比回忆重要日期更困难，这似乎提示：当内部记忆存储的信息显得不足时，个人倾向于访问外部资源。附加分析也支持这一解释：个人已有详细内部记忆时，很少转向外部资源；切换更多发生在没有内部记忆或仅有模糊内部记忆时。此外，因为没有内部记忆而转向外部资源，在随机日期中比重要日期更常见。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.8896179199219,
+      725.2640991210938
+    ],
+    "font_size": 10.5,
+    "spare_height": 192.143310546875
+  },
+  {
+    "page": 9,
+    "block": 2,
+    "source_rect": [
+      304.72430419921875,
+      85.730712890625,
+      540.9181518554688,
+      724.2305297851562
+    ],
+    "source_text": "Taken together, these results indicate that the itera-\ntive combination of information stored in one’s mind \nand information stored in the environment is—at least \npotentially—complementary and symbiotic in the sense \nthat it improves remembering compared to unaided \nand unmediated recall. This does not only support the \nfoundations of the AMEDIA-Model (Hutmacher et al., \n2024a, 2024b) but also of related frameworks (Eliseev & \nMarsh, 2021; Finley & Naaz, 2023; Finley et al., 2018), \nwhich all emphasize that external resources are not \nso much used for offloading and externalization but \nrather to create an extended memory system. In this \ncontext, it should be noted that retrieving informa-\ntion from external resources and retrieving informa-\ntion from internal memory are in fact not independent \nbut constantly interact: On the one hand, the available \ninternal memories may guide one’s search strategies \nwhen browsing external resources; on the other hand, \nthe information found in external resources may make \ninternal memories available that one would not have \nbeen able to retrieve without using external resources. \nIn fact, and as described in the method section, internal \nretrieval—as understood in the present manuscript—\ncomprised cases of unaided internal retrieval (e.g., “I \nremember being in a restaurant that day”) and aided \ninternal retrieval (e.g., “Now that I see it on the pic-\nture, I also remember being in a restaurant that day”). \nAlthough we were not able to distinguish between \nthese cases based on our think-aloud protocols, we \nencourage future research that is able to make these \nmore fine-grained distinctions.\nApart from that, the data also confirm the assumption \nthat digital resources play a key role for autobiographi-\ncal remembering in the digital age. More specifically, \nthe number of digital resources that individuals used \nwas much higher than the number of non-digital and \nsocial resources. To a certain degree, this could of course \nbe a result of the study setting (i.e., a videoconferenc-\ning tool being used for recording both sessions). At the \nsame time, participants were explicitly told that they \nare allowed to stand up, leave the room, and talk to oth-\ners to minimize such effects. That is, although we cau-\ntion against overinterpreting the relative frequency with \nwhich participants made use of social, non-digital, and \ndigital tools, the importance of digital tools for autobio-\ngraphical remembering in the twenty-first century seems \nundeniable. As it has been shown that remembering and \nnarrating autobiographical events often takes place in \nconversation with others (Grysman et  al., 2024; Nelson \n& Fivush, 2004; Pasupathi & Wainryb, 2010), however, it \ncould nevertheless be enlightening to repeat the study in \ndifferent settings. With respect to digital resources, one \nmore interesting finding emerged: The most frequently \n",
+    "translation": "综合而言，这些结果表明，头脑中存储的信息与环境中存储的信息经过反复结合，至少有可能形成互补和共生关系；其含义是，相较于无辅助、无媒介的回忆，这种结合可改善回忆。这不仅支持AMEDIA模型的基础（Hutmacher et al., 2024a, 2024b），也支持相关框架（Eliseev & Marsh, 2021; Finley & Naaz, 2023; Finley et al., 2018）。这些框架都强调，使用外部资源，与其说是为了卸载和外化，不如说是为了形成一个扩展的记忆系统。在这一背景下需注意，从外部资源提取信息与从内部记忆提取信息并不独立，而是持续相互作用：一方面，现有内部记忆可能引导个人浏览外部资源时的搜索策略；另一方面，在外部资源中发现的信息，可能使那些不借助外部资源就无法提取的内部记忆变得可获取。实际上，正如方法部分所述，本文所指的内部提取既包括无辅助的内部提取（例如：“我记得那天在餐厅”），也包括有辅助的内部提取（例如：“现在在照片上看到，我也想起那天在餐厅”）。尽管我们的出声思考记录无法区分这些情况，我们鼓励未来研究作出更细致的区分。\n\n除此之外，数据也证实了数字资源在数字时代自传体回忆中发挥关键作用的假设。具体而言，个人使用的数字资源数量远高于非数字资源和社会资源。一定程度上，这当然可能源于研究设置，即两次实验均采用视频会议工具记录。同时，为尽量减小此类影响，我们明确告知参与者可以起身、离开房间并与他人交谈。因此，虽然我们提醒不宜过度解读社会、非数字和数字工具的相对使用频次，但数字工具对于21世纪自传体回忆的重要性似乎不可否认。不过，已有研究表明，自传事件的回忆和叙述常发生于与他人的交谈中（Grysman et al., 2024; Nelson & Fivush, 2004; Pasupathi & Wainryb, 2010），因此在不同设置中重复本研究仍可能带来启发。关于数字资源，还有一项有意思的发现：",
+    "kind": "body",
+    "target_rect": [
+      304.72430419921875,
+      85.730712890625,
+      540.9181518554688,
+      725.2305297851562
+    ],
+    "font_size": 10.5,
+    "spare_height": 122.55975341796875
+  },
+  {
+    "page": 10,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.88177490234375,
+      148.2641143798828
+    ],
+    "source_text": "used digital resources were the same for remembering \nthe important day and the random day. This implies that \nindividuals have their preferred sources for storing and \nretrieving information about their lives that they consist-\nently use under varying circumstances.\n",
+    "translation": "回忆重要日期和随机日期时，最常使用的数字资源相同。这意味着，个人对于存储和提取生活信息有偏好的来源，而且会在不同情境下持续使用这些来源。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.88177490234375,
+      149.2641143798828
+    ],
+    "font_size": 10.5,
+    "spare_height": 0.0
+  },
+  {
+    "page": 10,
+    "block": 2,
+    "source_rect": [
+      56.692901611328125,
+      158.0983123779297,
+      292.8885498046875,
+      712.2401123046875
+    ],
+    "source_text": "Limitations and constraints on generality\nWe note three limitations. First, our results could be \ninfluenced by the choice of the days that we compared. \nWe picked the participants’ (second) last birthday as the \nimportant day to be remembered as we assumed that \nmost participants would find their birthday important \nand consider it a day that stands out from the rest of the \nyear. Nevertheless, future research could explore differ-\nent kinds of important events to test the generalizabil-\nity of our results. Also note that the important day was \nthe same for all participants (namely their last birthday), \nwhile the random day could be anything so that the com-\nparison between the important day and the random day \nultimately is a comparison of one specific important day \nwith many different random days.\nSecond, the results could also be influenced by the spe-\ncifics of our instructions. Our main goal was to create a \nstudy setting that is much closer to real-world scenarios \nthan many other studies on autobiographical remem-\nbering in that it did not isolate individuals from their \nenvironment and but invited them to use the available \nexternal resources. In line with this, we gave our par-\nticipants a maximum of 15 min to reconstruct each day \nto restrict the session to a reasonable length, but also \nemphasized that participants can finish the task earlier \nif they have the impression that there is nothing more to \nbe remembered. In addition, participants were told that \nthey are allowed to use external resources; whether and \nto what degree they decided to do so, however, remained \ncompletely up to them. That being said, the participants’ \ntask was to reconstruct the two days in as much detail \nas possible. Although this is something that partici-\npants may decide to do in real-world situations, both for \nan important day (e.g., “How exactly did I celebrate my \nlast birthday?”) and for a random day (e.g., “What did I \ndo Friday afternoon two weeks ago?”), one can easily \nimagine different instructions. For instance, participants \ncould be instructed to reflect upon or reminisce about \npast events (cf. Sellen & Whittaker, 2010) rather than to \nreconstruct them in as much detail as possible. Alter-\nnatively, one could also ask participants to remember \nevents that are not related to a specific pre-defined date \nas in the present study (e.g., the day one’s first child was \nborn, the last time one had pizza with friends) and that \nmight therefore require a different way of accessing and \nusing external resources.\n",
+    "translation": "### 局限与推广范围的限制\n\n我们指出三项局限。首先，结果可能受到所比较日期的选择影响。我们选择参与者最近一次或再前一次生日作为需要回忆的重要日期，因为我们假定多数参与者认为生日重要，是一年中有别于其他日子的一天。不过，未来研究可以探索其他类型的重要事件，以检验结果的可推广性。还需注意，所有参与者的重要日期是同一类型的日期，即其最近一次生日，而随机日期可能是任何一天，因此两者的比较，实质上是一种特定的重要日期与许多不同随机日期之间的比较。\n\n其次，结果也可能受到具体指导语的影响。我们的主要目标是创造一种比许多其他自传体回忆研究更接近真实情境的研究设置：不将个人与其环境隔离，而是邀请其使用可获得的外部资源。与此一致，我们给予参与者最多15分钟重构每一天，以将实验控制在合理时长内；同时强调，如果觉得没有更多内容可回忆，可以提前结束。另外，参与者被告知可以使用外部资源，但是否使用以及使用到何种程度，完全由其决定。尽管如此，参与者的任务仍是尽可能详细地重构这两天。虽然他们在真实情境中也可能选择这样做，无论针对重要日期（例如：“我上次生日究竟是怎样庆祝的？”）还是随机日期（例如：“两周前周五下午我做了什么？”），我们仍很容易设想其他指导语。例如，可以要求参与者反思或追忆过去的事件（参见Sellen & Whittaker, 2010），而不是尽可能详细地重构。也可以要求参与者回忆不像本研究那样关联预先指定日期的事件，例如第一个孩子出生的那天、上次与朋友吃披萨的经历；这可能需要不同的外部资源访问和使用方式。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      158.0983123779297,
+      292.8885498046875,
+      713.2401123046875
+    ],
+    "font_size": 10.5,
+    "spare_height": 78.48442077636719
+  },
+  {
+    "page": 10,
+    "block": 3,
+    "source_rect": [
+      304.73089599609375,
+      85.70648193359375,
+      540.9188232421875,
+      256.17718505859375
+    ],
+    "source_text": "Third, our study addressed the interplay between \ninternal \nautobiographical \nmemory \nand \nexternal \nresources. As outlined in previous research, however, \nindividuals do not only make use of external resources \nfor autobiographical memory purposes, but also for \nsemantic, procedural, and prospective purposes (Finley \n& Naaz, 2023). Importantly, the frequency and ease \nof use varies across these different memory purposes, \nsuggesting that the degree to which individuals are \nwilling and able to use external resources may depend \non the goal that they have in mind. Hence, we caution \nagainst overinterpreting our results: More research is \nneeded to determine whether the same patterns can also \nbe observed for non-autobiographical memory purposes.\n",
+    "translation": "第三，本研究考察了内部自传体记忆与外部资源之间的相互作用。不过，既有研究指出，个人不仅为自传体记忆使用外部资源，也出于语义、程序性和前瞻性记忆目的使用它们（Finley & Naaz, 2023）。不同记忆目的下，使用频率和使用难易程度有所不同，这提示个人愿意且能够使用外部资源的程度，可能取决于其目标。因此，我们提醒不宜过度解读本研究结果：是否能在非自传体记忆目的下观察到相同模式，仍需更多研究确定。",
+    "kind": "body",
+    "target_rect": [
+      304.73089599609375,
+      85.70648193359375,
+      540.9188232421875,
+      257.17718505859375
+    ],
+    "font_size": 10.5,
+    "spare_height": 32.28068542480469
+  },
+  {
+    "page": 10,
+    "block": 4,
+    "source_rect": [
+      304.724365234375,
+      266.0982971191406,
+      540.9229125976562,
+      724.2640991210938
+    ],
+    "source_text": "Directions for future research\nAlthough the present study provided empirical evidence \nfor some of the key claims underlying the AMEDIA-\nModel (Hutmacher et  al., 2024a, 2024b), many open \nresearch questions remain. In addition to the limita-\ntions already discussed above, we want to mention two \npoints: First, the AMEDIA-Model hypothesizes that \nthe way data have been encoded and curated influences \nhow the respective autobiographical events are remem-\nbered later (see also Henkel & St. Jacques, 2024). In the \npresent study, participants combined all available exter-\nnal resources to reconstruct the two days in as much \ndetail as possible. Nevertheless, it would be interest-\ning to know which separable effects different resources \nhave on remembering past events. In addition, it could \nbe insightful to compare conditions in which individuals \nhave access to (different) external resources to a control \ncondition, in which they do not, in order to capture the \nfull potential of having a digital database of our lives. This \nmight also include checking the reliability of different \nsources and the probability with which they might lead \nto false recognitions and distorted reconstructions (cf. St. \nJacques & Schacter, 2013). Second, we asked participants \nto remember events that they experienced about one year \nago. One potential avenue for future research could be to \nextend this time interval. This could be particularly inter-\nesting as file formats and the applications that individuals \nuse have undergone constant changes over the last years \nand decades (e.g., Blum & Beyer, 2019; see also Petrelli & \nWhittaker, 2010; van den Hoven et al., 2012; van House & \nChurchill, 2008), suggesting that it could be more difficult \nto reconstruct autobiographical events using external \nresources from the more distant past. In a similar vein, \nit could also be interesting to shorten the time interval. \nUltimately, using different time intervals would enable \ncomparisons between the ways internal memories and \nexternal resources are used to reconstruct autobiographi-\ncal events from one month, one year, or one decade ago.\n",
+    "translation": "### 未来研究方向\n\n尽管本研究为AMEDIA模型的若干核心主张提供了实证依据（Hutmacher et al., 2024a, 2024b），仍有许多研究问题尚待解答。除前述局限外，我们还希望指出两点。第一，AMEDIA模型假设，数据的编码和整理方式，会影响日后对相应自传事件的回忆方式（另见Henkel & St. Jacques, 2024）。本研究中，参与者结合所有可获得的外部资源，尽可能详细地重构这两天。但不同资源对往事回忆分别有何影响，仍值得探究。此外，将能够访问不同外部资源的条件，与无法访问外部资源的对照条件进行比较，可能有助于理解保存个人生活数字数据库的全部潜力。这也可以包括检验不同来源的可靠性，以及它们引发错误再认和扭曲重构的概率（参见St. Jacques & Schacter, 2013）。第二，我们要求参与者回忆约一年前的经历，未来研究可以延长这一时间间隔。这可能尤其值得关注，因为过去数年和数十年间，文件格式及个人使用的应用不断变化（例如Blum & Beyer, 2019；另见Petrelli & Whittaker, 2010; van den Hoven et al., 2012; van House & Churchill, 2008），这提示借助更久远的外部资源重构自传事件可能更加困难。类似地，缩短时间间隔也可能值得研究。最终，采用不同时间间隔，可以比较人们如何使用内部记忆与外部资源，重构一个月、一年或十年前的自传事件。",
+    "kind": "body",
+    "target_rect": [
+      304.724365234375,
+      266.0982971191406,
+      540.9229125976562,
+      725.2640991210938
+    ],
+    "font_size": 10.5,
+    "spare_height": 76.96844482421875
+  },
+  {
+    "page": 11,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      85.84104919433594,
+      292.8807373046875,
+      243.9538116455078
+    ],
+    "source_text": "Conclusion\nIn sum, the present study provides compelling evidence \nfor the importance of considering the interplay between \ninformation stored in our minds and information \nstored in external resources as well as the role of \ndigital resources when it comes to autobiographical \nremembering in the twenty-first century. Although \nhumans have used external resources for remembering \nfor thousands of years already, the proliferation of digital \ntechnologies has significantly transformed the memory \necologies in which humans are embedded. Further \nexploring how this shapes the way we remember our lives \nwill be an important task in the coming years.\n",
+    "translation": "## 结论\n\n综上，本研究提供了有力证据，表明理解21世纪的自传体回忆时，需要考虑头脑中存储的信息与外部资源中存储的信息之间的相互作用，以及数字资源的作用。虽然人类利用外部资源帮助记忆已有数千年历史，但数字技术的普及显著改变了人类所处的记忆生态。进一步探索这些变化如何塑造我们回忆自身生活的方式，将是未来数年的重要任务。",
+    "kind": "body",
+    "target_rect": [
+      56.692901611328125,
+      85.84104919433594,
+      292.8807373046875,
+      244.9538116455078
+    ],
+    "font_size": 10.5,
+    "spare_height": 30.385452270507812
+  },
+  {
+    "page": 11,
+    "block": 2,
+    "source_rect": [
+      56.692901611328125,
+      252.59674072265625,
+      184.9680938720703,
+      265.35845947265625
+    ],
+    "source_text": "Supplementary Information\n",
+    "translation": "## 补充信息",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      252.59674072265625,
+      292.9,
+      269.35845947265625
+    ],
+    "font_size": 7.5,
+    "spare_height": 1.7922191619873047
+  },
+  {
+    "page": 11,
+    "block": 3,
+    "source_rect": [
+      56.692901611328125,
+      268.16094970703125,
+      283.1838684082031,
+      285.658447265625
+    ],
+    "source_text": "The online version contains supplementary material available at https://​doi.​\norg/​10.​1186/​s41235-​025-​00627-4.\n",
+    "translation": "在线版本提供补充材料：https://doi.org/10.1186/s41235-025-00627-4。",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      268.16094970703125,
+      292.9,
+      286.658447265625
+    ],
+    "font_size": 7.5,
+    "spare_height": 2.8474979400634766
+  },
+  {
+    "page": 11,
+    "block": 4,
+    "source_rect": [
+      62.692901611328125,
+      298.16094970703125,
+      139.90464782714844,
+      306.658447265625
+    ],
+    "source_text": "Supplementary Material 1\n",
+    "translation": "补充材料1。",
+    "kind": "small",
+    "target_rect": [
+      62.692901611328125,
+      298.16094970703125,
+      292.9,
+      310.658447265625
+    ],
+    "font_size": 7.5,
+    "spare_height": 0.0
+  },
+  {
+    "page": 11,
+    "block": 5,
+    "source_rect": [
+      56.692901611328125,
+      323.4959411621094,
+      121.28966522216797,
+      341.66094970703125
+    ],
+    "source_text": "Acknowledgements\nNot applicable.\n",
+    "translation": "## 致谢\n\n不适用。",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      323.4959411621094,
+      292.9,
+      342.66094970703125
+    ],
+    "font_size": 5.608178593782599,
+    "spare_height": 6.558127582960522e-07
+  },
+  {
+    "page": 11,
+    "block": 6,
+    "source_rect": [
+      56.692901611328125,
+      350.4959411621094,
+      288.225341796875,
+      422.66094970703125
+    ],
+    "source_text": "Author contributions\nFH, MA, and SS contributed to the conceptualization of the study. FH and BC \nwere involved in data curation. FH was responsible for project administration. \nFH and BC analyzed the data. All authors interpreted the results. FH drafted a \nfirst version of the manuscript. BC, MA, and SS provided comments and sug-\ngestions and edited the manuscript. FH revised the manuscript. BC, MA, and \nSS provided comments and suggestions. All authors read and approved the \nfinal manuscript.\n",
+    "translation": "## 作者贡献\n\nFH、MA和SS参与研究构思。FH和BC参与数据整理。FH负责项目管理。FH和BC分析数据。全体作者解释研究结果。FH撰写论文初稿。BC、MA和SS提出意见与建议并编辑论文。FH修订论文。BC、MA和SS提出意见与建议。全体作者阅读并批准最终稿。",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      350.4959411621094,
+      292.9,
+      423.66094970703125
+    ],
+    "font_size": 7.5,
+    "spare_height": 10.595504760742188
+  },
+  {
+    "page": 11,
+    "block": 7,
+    "source_rect": [
+      56.692901611328125,
+      431.4959411621094,
+      241.77711486816406,
+      449.66094970703125
+    ],
+    "source_text": "Funding\nOpen Access funding enabled and organized by Projekt DEAL.\n",
+    "translation": "## 资助\n\n开放获取资助由Projekt DEAL促成并组织。",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      431.4959411621094,
+      292.9,
+      450.66094970703125
+    ],
+    "font_size": 5.608178593782599,
+    "spare_height": 6.558127582960522e-07
+  },
+  {
+    "page": 11,
+    "block": 8,
+    "source_rect": [
+      56.692901611328125,
+      458.4959411621094,
+      289.9938049316406,
+      485.66094970703125
+    ],
+    "source_text": "Availability of data and materials\nQuantitative data, study materials, and the codebook that was used for analyz-\ning the qualitative data are available at https://​osf.​io/​n2t7u/.\n",
+    "translation": "## 数据与材料可用性\n\n定量数据、研究材料及用于定性数据分析的编码手册可在https://osf.io/n2t7u/获取。",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      458.4959411621094,
+      292.9,
+      486.66094970703125
+    ],
+    "font_size": 6.419871029376641,
+    "spare_height": 1.9552437595743724
+  },
+  {
+    "page": 11,
+    "block": 9,
+    "source_rect": [
+      56.692901611328125,
+      498.84100341796875,
+      106.57530212402344,
+      510.0834045410156
+    ],
+    "source_text": "Declarations\n",
+    "translation": "## 声明",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      498.84100341796875,
+      292.9,
+      514.0834045410156
+    ],
+    "font_size": 7.5,
+    "spare_height": 0.2729015350341797
+  },
+  {
+    "page": 11,
+    "block": 10,
+    "source_rect": [
+      56.692901611328125,
+      518.4934692382812,
+      289.3121032714844,
+      563.658447265625
+    ],
+    "source_text": "Ethics approval and consent to participate\nThe study was conducted in accordance with the Declaration of Helsinki and \nthe ethical guidelines of the German Psychological Society (DGPs). Based on \nthe regulations for conducting psychological research in Germany, no formal \nIRB approval was required. All participants provided written informed consent.\n",
+    "translation": "### 伦理审批与参与同意\n\n本研究遵循《赫尔辛基宣言》和德国心理学会（DGPs）的伦理指南。根据德国开展心理学研究的相关规定，本研究不需要正式的机构审查委员会（IRB）审批。所有参与者均提供了书面知情同意。",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      518.4934692382812,
+      292.9,
+      564.658447265625
+    ],
+    "font_size": 7.3765093304061455,
+    "spare_height": 1.138965603112461e-06
+  },
+  {
+    "page": 11,
+    "block": 11,
+    "source_rect": [
+      56.692901611328125,
+      572.4934692382812,
+      132.79539489746094,
+      590.658447265625
+    ],
+    "source_text": "Consent for publication\nNot applicable.\n",
+    "translation": "### 发表同意\n\n不适用。",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      572.4934692382812,
+      292.9,
+      591.658447265625
+    ],
+    "font_size": 5.608178593782599,
+    "spare_height": 8.913960076839677e-08
+  },
+  {
+    "page": 11,
+    "block": 12,
+    "source_rect": [
+      56.692901611328125,
+      599.4934692382812,
+      232.86793518066406,
+      617.658447265625
+    ],
+    "source_text": "Competing interests\nThe authors declare that they have no competing interests.\n",
+    "translation": "### 利益冲突\n\n作者声明不存在利益冲突。",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      599.4934692382812,
+      292.9,
+      618.658447265625
+    ],
+    "font_size": 5.608178593782599,
+    "spare_height": 8.913960076839677e-08
+  },
+  {
+    "page": 11,
+    "block": 13,
+    "source_rect": [
+      56.692901611328125,
+      635.6434326171875,
+      232.31295776367188,
+      644.658447265625
+    ],
+    "source_text": "Received: 17 September 2024   Accepted: 31 March 2025\n",
+    "translation": "收稿：2024年9月17日；接受：2025年3月31日。",
+    "kind": "small",
+    "target_rect": [
+      56.692901611328125,
+      635.6434326171875,
+      292.9,
+      648.658447265625
+    ],
+    "font_size": 7.5,
+    "spare_height": 0.0
+  },
+  {
+    "page": 12,
+    "block": 3,
+    "source_rect": [
+      304.7243957519531,
+      476.4508361816406,
+      527.931884765625,
+      506.5125427246094
+    ],
+    "source_text": "Publisher’s Note\nSpringer Nature remains neutral with regard to jurisdictional claims in pub-\nlished maps and institutional affiliations.\n",
+    "translation": "## 出版者声明\n\nSpringer Nature对已发表地图及机构隶属关系中的管辖权主张保持中立。",
+    "kind": "small",
+    "target_rect": [
+      304.7243957519531,
+      476.4508361816406,
+      540.9,
+      507.5125427246094
+    ],
+    "font_size": 7.474972191323692,
+    "spare_height": 0.544385865479879
+  }
+]

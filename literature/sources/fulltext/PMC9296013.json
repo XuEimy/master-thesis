@@ -1,0 +1,304 @@
+{
+  "title": "Does taking multiple photos lead to a photo-taking-impairment effect?",
+  "abstract": "The photo-taking-impairment effect is observed when photographed information is less likely to be remembered than nonphotographed information. Three experiments examined whether this effect persists when multiple photos are taken. Experiment 1 used a within-subjects laboratory-based design in which participants viewed images of paintings and were instructed to photograph them once, five times, or not at all. Participants’ memory was measured using a visual detail test, and the photo-taking-impairment effect was observed when participants took multiple photos. Experiment 2 examined the photo-taking-impairment effect using a between-subjects design. Participants either photographed all of the paintings they saw once, five times, or not at all, before being tested on their memory for the paintings. The photo-taking-impairment effect was observed in both photo-taking conditions relative to the no photo baseline. Experiment 3 replicated this pattern of results even when participants who took multiple photos were instructed to take five unique photos. These findings indicate that the photo-taking-impairment effect is robust, occurring even when multiple photos are taken, and after nonselective photo-taking.",
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "section": [],
+      "text": "In the era of digital photos, many people’s photo albums have become so large and disorganized that they struggle to find the photos they need (Whittaker et al., 2010). The memory effects of taking photos, even without photographic review, have therefore gained interest among both researchers and photo-takers. Henkel (2014) examined the memory effects of photo-taking without review by assigning participants to photograph some objects but not others while they toured a museum and then testing their memory for the objects. Henkel found evidence of a photo-taking-impairment effect such that participants recalled, recognized, and correctly answered fewer questions about the objects they photographed (photo condition) relative to the objects they did not photograph (observe condition). The photo-taking-impairment effect has since been observed under various circumstances, including in participants using smartphones to take photos in a laboratory-controlled digital version of a gallery (Soares & Storm, 2018) and in participants tested using different styles of perceptual and conceptual recognition tests after both short (20-min) and long (48-hr) delays (Lurie & Westerman, 2021)."
+    },
+    {
+      "paragraph": 2,
+      "section": [],
+      "text": "Interestingly, the photo-taking-impairment effect has only been observed within subjects. Some have observed overall memory impairments in participants using cameras and social media relative to participants with no digital devices, with device use manipulated between subjects (Niforatos et al., 2017; Tamir et al., 2018), while others have found benefits to using a camera, at least to memory for visual information (Barasch et al., 2017). None of these studies experimentally manipulated which objects participants photographed, however, so these mixed findings cannot directly inform our understanding of the photo-taking-impairment effect."
+    },
+    {
+      "paragraph": 3,
+      "section": [],
+      "text": "As such, we cannot rule out the possibility that the photo-taking-impairment effect emerges only using a within-subjects design. Selective photo-taking could influence memory for nonphotographed as well as photographed information, making a within-subjects observe condition an ambiguous baseline of comparison. For example, selective photo-taking could cause participants to focus more attention or engage in different encoding strategies for nonphotographed items than they might otherwise. Indeed, Storm and Stone (2015) found that saving some information on a computer enhanced memory for subsequently learned information. Selectively taking photos could similarly unburden cognitive resources such that participants remember nonphotographed information better than they would otherwise. Indeed, when using a within-subjects design, the photo-taking-impairment effect could be observed not because photo-taking impairs memory for photographed objects, but because photo-taking enhances memory for nonphotographed objects. Thus, whether the photo-taking-impairment effect is observed between subjects has important implications for specifying the theoretical mechanisms underlying the effect. If limited to a within-subject design, such a finding would suggest that the photo-taking-impairment effect is either due more to the effect of photo-taking on memory for nonphotographed objects than photographed objects, or that for some reason the two conditions need to be experienced within the same participant for the effect to be observed."
+    },
+    {
+      "paragraph": 4,
+      "section": [],
+      "text": "Another question of applied and theoretical importance concerns the robustness of the photo-taking-impairment effect. Though the photo-taking-impairment effect has been conceptually replicated across multiple labs and using different designs, common photo-taking behaviors could influence the size or even direction of the effect. For example, Henkel (2014, Experiment 2) showed that instructing participants to zoom in to parts of photographed objects attenuated the photo-taking-impairment effect, not only for the zoomed-in features but for all features of objects photographed with zoom. This finding presumably occurred because zooming led participants to allocate additional attention and/or cognitive processes toward encoding the objects being photographed. Zooming may have protected against the photo-taking impairment for objects as a whole due to boundary extension (Hubbard et al., 2010), focusing attention on the whole object, not just zoomed-in features."
+    },
+    {
+      "paragraph": 5,
+      "section": [],
+      "text": "Another behavior prevalent in digital photo-taking is taking many photos. Analog photos come with development and film costs, but thousands of digital photos can be taken and stored cheaply, with little cost difference between taking few and many photos. Little is known about how taking multiple photos affects memory for photographed information. Indeed, the robustness of the photo-taking-impairment effect has yet to be investigated under a variety of common photo-taking behaviors. Understanding the conditions under which the photo-taking-impairment effect occurs, is attenuated, and is exacerbated will inform our understanding of the cognitive mechanisms by which photo-taking, and using digital devices more broadly, affects memory. From an applied perspective, people photograph important life events, typically with the goal of supporting memory (Finley et al., 2018; Soares & Storm, 2021). Slight changes in approach when taking photos could protect against potential memory impairments."
+    },
+    {
+      "paragraph": 6,
+      "section": [],
+      "text": "Indeed, taking multiple photos could focus participants’ attention on a photographed object and attenuate the photo-taking-impairment effect in a similar way that zooming may have done for Henkel’s (2014) participants. Rather than zooming into a feature of an object, participants might engage with different features as they take different photos. Consistent with this idea, Barasch et al. (2017) found an effect analogous to a reversal of the photo-taking-impairment effect when participants took photos volitionally, arguing that choosing items to photograph increases visual attention compared with observation. This is consistent with findings that chosen words are more likely to be remembered than unchosen words in word-list learning tasks (Coverdale & Nairne, 2019). Indeed, even small aspects of control (e.g., pressing a button to advance when ready) can enhance memory (Markant et al., 2014). Any kind of decision-making or creativity could similarly attenuate or even reverse the photo-taking-impairment effect. Taking multiple photos, especially unique ones, could draw participants’ attention to the details of objects as they try to find new ways to capture the same subject."
+    },
+    {
+      "paragraph": 7,
+      "section": [],
+      "text": "Taking multiple photos, especially from multiple perspectives or framings, could also promote encoding variability (Martin, 1968). Several studies have found that studying information using a variety of encoding strategies can lead to better memory performance than using just one (e.g., D’Agostino & DeRemer, 1973; Hintzman & Stern, 1978; Smith et al., 1978). Taking different perspectives could cause participants to encode multiply-photographed information in different ways and increase the likelihood that they will find an appropriate retrieval cue during later retrieval attempts (Estes, 1950). Moreover, taking multiple photos could enhance the richness of the memory trace associated with photographed items and make them more accessible (Glenberg, 1979)."
+    },
+    {
+      "paragraph": 8,
+      "section": [],
+      "text": "Alternatively, taking multiple photos could lead to equivalent or more memory impairment than taking one photo. A cognitive offloading account argues that the photo-taking-impairment effect occurs because photo-takers come to rely on the external memory of the camera, and struggle to remember photographed information in the absence of that store (e.g., Henkel, 2014; Sparrow et al., 2011). According to this account, taking multiple photos would not protect photographed information from memory impairment because that information is no less externally stored than information that is photographed once. In fact, if more information is saved in multiple photos because the photo-taker uses different viewpoints, the photo-taking-impairment effect could be exacerbated. Multiple photos are also more resilient to corruption or deletion than one. Schooler and Storm (2021) found that participants demonstrated a memory impairment for saved information relative to deleted information only after they experienced a practice phase during which information was reliably saved, and that the effect was not observed when participants experienced unreliable saving. Multiple photos could seem more reliable than one photo, and therefore a more trustworthy site for offloading memory."
+    },
+    {
+      "paragraph": 9,
+      "section": [],
+      "text": "The photo-taking-impairment effect could also occur because photo-taking causes qualitative attentional disengagement that goes beyond the dual-task costs of using a camera (Soares & Storm, 2018). Based on this account, the effects of taking multiple photos may depend on how people go about taking the photos. If participants carelessly snap multiple similar photos, they could disengage to a similar or greater extent than when they take one photo, resulting in a similar or even larger memory impairment. But, if participants take multiple unique photos, which would require studying the object more intentionally, this practice could instead force engagement and protect against the photo-taking-impairment effect. In this way, determining whether taking five photos leads to a different effect on memory than taking one photo has the potential to inform our understanding of how attentional disengagement might underlie the photo-taking-impairment effect."
+    },
+    {
+      "paragraph": 10,
+      "section": [
+        "The current study"
+      ],
+      "text": "Experiment 1 investigated the effects of taking multiple photos on memory for photographed information, compared with taking one photo, or only observing. Participants viewed paintings on a computer screen and were instructed to photograph paintings either once, five times, or just observe. If the photo-taking-impairment effect is reduced in the five-photo condition relative to the one-photo condition, it would suggest that taking multiple photos could protect memory for photographed information, either by focusing attention on the photographed objects or by facilitating memory through encoding variability. Alternatively, taking multiple photos could exacerbate the effects of attentional disengagement or cognitive offloading, leading to a larger photo-taking-impairment effect than would be observed after taking a single photo."
+    },
+    {
+      "paragraph": 11,
+      "section": [
+        "The current study"
+      ],
+      "text": "In Experiment 2, we sought to replicate Experiment 1 using a between-subjects design. Specifically, participants were randomly assigned to one of three conditions such that they either observed, took one photo, or took five photos of all paintings. The photo-taking-impairment effect has yet to be observed between subjects and as previously discussed, could occur only when participants selectively photograph some objects but not others. If a photo-taking-impairment effect is observed between subjects, it would suggest that the impairment is driven by the effect of photo-taking on memory for the objects being photographed, and not to other dynamics such as how selective photo-taking affects memory for nonphotographed objects."
+    },
+    {
+      "paragraph": 12,
+      "section": [
+        "The current study"
+      ],
+      "text": "Experiment 3 replicated the design of Experiment 2, but participants who took five photos were explicitly instructed to take unique photos. When participants took multiple photos in Experiments 1 and 2, they did so however they liked. The experimenters observed that many participants took five nearly identical photos. This approach seems unlikely to foster encoding variability that could enhance memory or prevent the attentional disengagement that has been argued to underlie the photo-taking-impairment effect. As such, participants in the five-photo condition of Experiment 3 were instructed to take unique photos."
+    },
+    {
+      "paragraph": 13,
+      "section": [
+        "Experiment 1",
+        "Methods",
+        "Participants"
+      ],
+      "text": "Experiments 1 and 2 were approved under an exempt protocol through the IRB at University of California, Santa Cruz (UCSC). Sixty participants (Mage = 20.2, SD = 2.0) were recruited from the UCSC psychology participant pool and received partial course credit as compensation. This sample size was sufficient to observe an effect size of d = 0.37 between performance in two conditions with 80% power and α = .05. All target effect sizes were chosen based on pilot data. Participants were familiar with smartphone cameras; on average, participants reported using their smartphone cameras 8.0 times per day (SD = 14.2) with estimates ranging from 0.2 and 80 uses per day."
+    },
+    {
+      "paragraph": 14,
+      "section": [
+        "Experiment 1",
+        "Methods",
+        "Design"
+      ],
+      "text": "The experiment employed a within-subjects design with three conditions: Observe, 1-Photo, and 5-Photo. Participants saw a series of paintings on a computer screen with instructions for which photo-taking behavior to engage in for each painting. The order was randomized such that participants engaged in each of the three photo-taking behaviors throughout the session. This approach differs from prior lab-based studies in which participants were assigned to photo conditions in blocks (Lurie & Westerman, 2021; Soares & Storm, 2018). Counterbalancing across participants ensured that each painting was equally likely to appear in each of the three conditions. Two dependent measures were collected: (1) metacognitive judgements of memory performance1 and (2) memory performance on a final test."
+    },
+    {
+      "paragraph": 15,
+      "section": [
+        "Experiment 1",
+        "Methods",
+        "Materials"
+      ],
+      "text": "Participants used an Apple iPhone 6 with only two applications visible from the home screen: the Camera application and the Photo Album. Participants viewed images of paintings on a computer screen presented on slides through Microsoft PowerPoint. Thirty images of representational paintings appeared, including the 15 images used in Soares and Storm (2018), along with 15 additional images of paintings. Each painting slide was constructed with an image 4.95-in. in height and 9.00-in. in width, above which appeared the title and artist of the painting in 40-point black Calibri (Headings) font. The paintings appeared in the same random order for all participants. Below each painting, participants saw an instruction. If the painting was assigned to the no-photo condition, participants saw the following instruction: “Observe; Don’t take photos, leave the phone on the desk.” If the painting was assigned to the 1-Photo condition, participants saw the instruction “Photograph 1; Take 1 Photo, then leave the phone on the desk for the rest of the time.” If the painting was assigned to the 5-Photo condition, participants saw the instruction “Photograph 5; Take 5 Photos, then leave the phone on the desk for the rest of the time.” The final test consisted of 60 multiple-choice visual detail questions: two questions for each painting. An example of one of these questions is, “What phase is the moon in Moon River by R. C. Gorman?,” with the correct answer being Crescent."
+    },
+    {
+      "paragraph": 16,
+      "section": [
+        "Experiment 1",
+        "Methods",
+        "Procedure"
+      ],
+      "text": "Participants were run individually at a computer. After giving informed consent, participants were directed towards the computer screen by the experimenter, who read the following instructions aloud as they appeared on-screen: “For this study, you will be looking at a series of 30 paintings. You will be asked to take photos of some of the paintings you see. The relevant instruction will appear at the bottom of each slide.” Participants then saw the three sets of instructions for the Observe, 1-Photo, and 5-Photo conditions. The experimenter then showed the participant how to use the Camera application with the smartphone on an example painting slide. The participants were informed that they would be tested for their memory at the end of the study, that the “final test [would] be in multiple-choice format and ask about the visual details of the paintings,” and saw a sample test question. Participants were warned that they would not have access to any of their photos during the final test. Participants also saw a sample metamemory judgement and were provided a paper handout on which to record their metacognitive judgements. The handout had a numbered list with each painting title followed by a blank line with a percentage symbol at the end."
+    },
+    {
+      "paragraph": 17,
+      "section": [
+        "Experiment 1",
+        "Methods",
+        "Procedure"
+      ],
+      "text": "Participants then viewed slides with each of the 30 paintings and instructions, which appeared on screen for 20 s before the slide show proceeded. After each painting slide, participants were instructed to give a metacognitive judgement, prompted by the question, “How likely (out of 100%) are you to correctly answer questions about the painting’s visual details?” This prompt appeared for 10 s before the slide show continued. After all 30 paintings, participants saw a slide with a link to play Tetris. The experimenter timed them to play for 5-min before participants were directed to the final test."
+    },
+    {
+      "paragraph": 18,
+      "section": [
+        "Experiment 1",
+        "Methods",
+        "Procedure"
+      ],
+      "text": "The final test was administered through a Google Form with all 60 questions visible. Participants were given 20-min to complete the test. They then reported their age and approximate number of photos they took daily before being debriefed and dismissed."
+    },
+    {
+      "paragraph": 19,
+      "section": [
+        "Experiment 1",
+        "Results and discussion"
+      ],
+      "text": "Average performance was calculated for the 20 questions assigned to each of the conditions for each participant. A within-subjects one-way analysis of variance (ANOVA) revealed significant differences between the conditions F(2, 118) = 3.56, p = .032, ηp = .057, and a significant linear trend indicating that when more photos were taken, memory performance decreased F(1, 59) = 7.24, p = .009, ηp = .011 (see Fig. 1). Planned contrasts indicated that participants correctly answered fewer questions about paintings in the 5-Photo condition compared with the Observe condition, t(59) = 2.69, p = .009, d = 0.35, CI95% of d = [0.09, 0.61], while the comparisons between Observe and 1-Photo t(59) = 1.20, p = .235, d = 0.16, CI95% of d = [−0.10, 0.41], and 1-Photo and 5-Photo t(59) = 1.43, p = .157, d = 0.18, CI95% of d = [−0.07, 0.44], failed to reach statistical significance. It is possible that the interleaved design may have led to carryover effects between conditions that led to a smaller photo-taking-impairment effect than has been observed with designs in which photo conditions were presented in blocks. Still, the photo-taking-impairment effect was observed when participants took multiple photos.Fig. 1Mean Memory Performance Across Conditions in Experiments 1–3. Note. Performance on a multiple-choice visual detail memory test across Experiments 1–3. Since four answer options were available for each test question, chance performance was 25%. The Observe condition consisted of questions about paintings that were only observed, while the 1-Photo and 5-Photos conditions consisted of questions about paintings photographed once or five times, respectively. Error bars indicate standard error of the mean."
+    },
+    {
+      "paragraph": 20,
+      "section": [
+        "Experiment 2"
+      ],
+      "text": "Experiment 2 was designed to replicate Experiment 1 while manipulating photo-taking between-subjects."
+    },
+    {
+      "paragraph": 21,
+      "section": [
+        "Experiment 2",
+        "Methods",
+        "Participants"
+      ],
+      "text": "Ninety-six participants (Mage = 20.3, SD = 2.6) were recruited from the UCSC psychology participant pool for partial course credit. This sample size was sufficient to detect an effect of d = 0.72 with 80% power and α = .05. Participants reported using their smartphone cameras 5.1 times per day (SD = 6.3) and their estimates ranged from 0 to 35 uses per day."
+    },
+    {
+      "paragraph": 22,
+      "section": [
+        "Experiment 2",
+        "Methods",
+        "Design"
+      ],
+      "text": "Experiment 2 used a fully between-subjects design with the same three conditions as in Experiment 1: No Photo, 1-Photo, and 5-Photo. The same dependent variables as in Experiment 1 were measured."
+    },
+    {
+      "paragraph": 23,
+      "section": [
+        "Experiment 2",
+        "Methods",
+        "Materials"
+      ],
+      "text": "The same materials were used as in Experiment 1, except that the Observe, 1-Photo, and 5-Photo instructions no longer appeared on the painting slides. Instead, the instruction for all paintings appeared at the beginning of the study."
+    },
+    {
+      "paragraph": 24,
+      "section": [
+        "Experiment 2",
+        "Methods",
+        "Procedure"
+      ],
+      "text": "The procedure was the same as in Experiment 1 except participants received an instruction at the start of the study about what to do when they saw each painting, and each painting was displayed for 10 seconds. Participants assigned to the Observe condition were not supplied with a smartphone and no mention was made of taking photos."
+    },
+    {
+      "paragraph": 25,
+      "section": [
+        "Experiment 2",
+        "Results and discussion"
+      ],
+      "text": "An independent one-way ANOVA indicated significant differences between the conditions, F(2, 93) = 12.88, p < .001, ηp = .217 (see Fig. 1). A linear contrast analysis indicated a linear trend such that when more photos were taken, average performance decreased, F(1, 93) = 21.59, p < .001, ηp = .182. Planned contrasts also indicated significant differences between each group, with both photo-taking conditions showing impairments relative to Observe—1-Photo, t(62) = 2.86, p = .003, d = 0.72, CI95% of d = [0.21, 1.22], 5-Photo: t(62) = 5.10, p < .001, d = 1.27, CI95% of d = [0.73, 1.81]. Performance in the 1-Photo condition was also impaired relative to the 5-Photo condition, t(62) = 2.17, p = .033, d = 0.54, CI95% of d = [0.04, 1.04]. These findings indicate that the photo-taking-impairment effect is preserved between-subjects, and when multiple photos are taken."
+    },
+    {
+      "paragraph": 26,
+      "section": [
+        "Experiment 3"
+      ],
+      "text": "Experiment 3 replicated the design of Experiment 2 with one change—participants in the 5-Photo condition were instructed to take unique photos."
+    },
+    {
+      "paragraph": 27,
+      "section": [
+        "Experiment 3",
+        "Methods",
+        "Participants"
+      ],
+      "text": "Experiment 3 was approved through an exempt protocol by Mississippi State University’s IRB. A total of 243 participants were recruited from Mississippi State University’s psychology participant pool and compensated with partial course credit. This sample was sufficient to observe an effect size of d = .50 between any two conditions with 80% power and α = .05. Participants were randomly assigned to conditions through Qualtrics, so a few more participants were run in some groups than others. As such, 81 participants were run in the Observe condition, 84 in the 1-Photo condition, and 78 in the 5-Photo condition. Participants reported taking an average of 28 Photos per day (SD = 53) with estimates ranging from 0 to 400."
+    },
+    {
+      "paragraph": 28,
+      "section": [
+        "Experiment 3",
+        "Methods",
+        "Design"
+      ],
+      "text": "Experiment 3 used the same design and dependent variables as Experiment 2."
+    },
+    {
+      "paragraph": 29,
+      "section": [
+        "Experiment 3",
+        "Methods",
+        "Materials"
+      ],
+      "text": "The materials for Experiment 2 were adopted into a survey through Qualtrics, which allowed for all data to be collected through the computer. The same paintings were used, but the size was changed slightly, displaying at a height of 469 pixels and a width of 854 pixels. The order in which the paintings appeared was also randomized for each participant. In Experiment 3, participants were provided with a 7th Generation iPod Touch with the Camera and Photo Album apps available on the home screen of the device."
+    },
+    {
+      "paragraph": 30,
+      "section": [
+        "Experiment 3",
+        "Methods",
+        "Procedure"
+      ],
+      "text": "Participants were run in groups of up to 4 on individual computer desks with partitions between each desk. When they arrived at the lab, participants were asked COVID-19 screening questions and, if they did not have a known exposure or COVID-19 symptoms, were allowed inside to participate. All participants and experimenters were required to wear face masks the entire time they were in the lab."
+    },
+    {
+      "paragraph": 31,
+      "section": [
+        "Experiment 3",
+        "Methods",
+        "Procedure"
+      ],
+      "text": "Participants were seated at a computer desk with a Qualtrics study open in the internet browser, and participants gave informed consent by clicking a button indicating their agreement. Qualtrics then randomly assigned each participant to one of the three conditions: Observe, 1-Photo, and 5-Photos, and showed the participant the according instructions. The instructions for participants in the 5-Photos condition read: “Please take 5 different photos of each painting using the device provided. Try to make each photo different from the others.” Participants assigned to the 1-Photo and 5-Photos condition were provided with an iPod Touch and offered a demonstration of how to use the device if they were unfamiliar. No participant required a demonstration."
+    },
+    {
+      "paragraph": 32,
+      "section": [
+        "Experiment 3",
+        "Methods",
+        "Procedure"
+      ],
+      "text": "Participants then viewed the 30 paintings for 10 s each. Each painting was followed by a screen with a space for participants to type in their metacognitive judgements. After viewing all the paintings, the next page included an embedded Tetris game and participants were timed for 3 minutes of play. After this delay, participants saw the 60 multiple choice questions, which they had 20 minutes to complete. No participant ran out of time without answering all 60 questions. Participants then reported their age and estimated how many photos they took with their smartphone daily before being debriefed and dismissed."
+    },
+    {
+      "paragraph": 33,
+      "section": [
+        "Experiment 3",
+        "Results and discussion"
+      ],
+      "text": "An independent one-way ANOVA revealed significant differences in memory performance between the conditions, F(2, 240) = 5.63, p = .004, ηp = .045 (see Fig. 1). A linear contrast analysis indicated a linear trend such that when more photos were taken, average performance decreased, F(2, 240) = 9.53, p = .002, ηp = .038. Planned contrasts also indicated that participants in the 5-Photos condition showed impaired memory performance compared with Observe, t(157) = 3.48, p < .001, d = 0.55, CI95% of d = [0.23, 0.87]. The comparison between the Observe and 1-Photo condition was just above the conventional α-value for statistical significance, but numerically showed the same pattern as Experiment 2, t(163) = 1.85, p = .066, d = 0.29, CI95% of d = [−0.02, 0.60]. Performance in the 1-Photo condition compared with 5-Photo did not significantly differ, t(160) = 1.49, p = .139, d = 0.23, CI95% of d = [−0.08, 0.54]. These findings demonstrate that the photo-taking-impairment effect can occur even when participants are explicitly instructed to take unique photos."
+    },
+    {
+      "paragraph": 34,
+      "section": [
+        "Meta-analysis"
+      ],
+      "text": "A meta-analysis was conducted using SPSSv.28 (IBM Corp, 2021) on the findings of Experiments 1–3 to provide a more precise estimate of the size of the photo-taking-impairment effect in the two photo-taking conditions, and to address the variable level of statistical significance observed for specific comparisons in the individual experiments. The results reported used a fixed-effects model, but the same pattern of results was observed using a random-effects model. The combined weighted effect size for the photo-taking-impairment effect observed after taking multiple photos was significant and moderately large (Observe vs. 5-Photo: d = 0.62, CI95% = [0.40, 0.84]). The photo-taking-impairment effect observed after taking one photo was also significant, (Observe vs. 1-Photo: d = 0.35, CI95% = [0.14, 0.57]), as was the comparison between the 1-Photo and 5-Photo conditions with lower performance in the 5-Photos condition (d = 0.26, CI95% = [0.05, 0.47])."
+    },
+    {
+      "paragraph": 35,
+      "section": [
+        "General discussion"
+      ],
+      "text": "Across three experiments, participants showed a photo-taking-impairment effect after taking multiple photos as demonstrated by lower memory performance for objects photographed five times compared with objects that were just observed. In Experiment 1, this difference emerged using a within-subjects design typical of the published literature. In Experiments 2 and 3, the photo-taking-impairment effect was observed between-subjects, a finding that has not been previously reported. These findings indicate that photo-taking does indeed cause a memory impairment when compared with an independent baseline observe condition, and that the effect does not emerge only when a person engages in selective photo-taking. In Experiment 3, the photo-taking-impairment associated with taking multiple photos persisted even when participants were instructed to take multiple unique photos, which could have promoted encoding variability by encouraging participants to take multiple views of the objects."
+    },
+    {
+      "paragraph": 36,
+      "section": [
+        "General discussion"
+      ],
+      "text": "The finding that the photo-taking-impairment effect persists and may even grow when participants take multiple photos reinforces the robustness of the photo-taking-impairment effect. This finding can be interpreted in the context of the two major theoretical accounts of the photo-taking-impairment effect: the cognitive offloading account and the attentional disengagement account."
+    },
+    {
+      "paragraph": 37,
+      "section": [
+        "General discussion"
+      ],
+      "text": "The attentional disengagement account assumes that photo-taking impairs memory because it causes photo-takers to disconnect from the scene, thereby preventing them from fully encoding or attending to photographed objects. In this way, taking multiple photos could have moderated the effects of attentional disengagement, especially in Experiment 3 when participants were asked to focus on different aspects of the objects being photographed. In contrast, the current results suggest that if the photo-taking-impairment effect is caused by attentional disengagement, that the type of disengagement experienced by participants, and thus the consequences of that disengagement, cannot be prevented by having participants take multiple photos. Taking multiple photos could, for example, force attentional engagement on aspects related to photo-taking, but not focus attention on the object itself in a way that would benefit recall."
+    },
+    {
+      "paragraph": 38,
+      "section": [
+        "General discussion"
+      ],
+      "text": "The cognitive offloading account assumes that photo-taking causes memory impairment because photo-takers believe that the objects they photograph are saved by the camera, reducing the need to remember those objects internally. Compared with taking one photo, taking multiple photos may make photo-taking seem like a more reliable information-saving strategy, or like relatively more information is captured. Given these possibilities, the cognitive offloading account predicts the photo-taking-impairment to grow when multiple photos are taken. That said, all participants were warned that they would not have access to the photographs on the final test, a condition that should make at least intentional cognitive offloading a less viable explanation of the impairment effect. Indeed, the finding that the photo-taking-impairment effect was observed even though participants were warned that they would not have access to the photographs seems to provide more compelling evidence against the cognitive offloading hypothesis than the finding that taking multiple photos causes additional impairment relative to one photo provides evidence to support it."
+    },
+    {
+      "paragraph": 39,
+      "section": [
+        "General discussion"
+      ],
+      "text": "Henkel’s (2014) finding that zooming can attenuate the photo-taking-impairment effect indicates that certain photo-taking behaviors can protect memory for photographed items. The current results suggest that taking multiple photos is not one of those behaviors. There may be something qualitatively different about zooming and the act of taking multiple photos of that object, with the former perhaps disrupting the disengagement effects of photo-taking and not the latter. It is also possible that taking photos from multiple angles could attenuate the photo-taking-impairment, but only when participants view three-dimensional objects, a possibility that is worth exploration in future research. Small elements of choice (choosing how to differently frame multiple photos) could also be insufficient to attenuate, let alone reverse the photo-taking-impairment (Barasch et al., 2017). Future work should examine the effects of other common photo-taking behaviors like using filters, using camera modes like panorama or portrait mode, or making other adjustments to brightness or color balance. Such work would inform the boundary conditions of the photo-taking-impairment effect and further inform the theoretical mechanisms of the effect as well as the applied implications of camera use."
+    },
+    {
+      "paragraph": 40,
+      "section": [
+        "General discussion"
+      ],
+      "text": "Observing the photo-taking-impairment effect using a between-subjects design also constitutes an important step forward in this research area. This finding confirms that the photo-taking-impairment effect is driven by the effect of photo-taking on memory for photographed objects, and not effects on nonphotographed objects or other selective photo-taking dynamics. The leading proposed mechanisms of the effect assume that the photo-taking-impairment is driven by processes that target photographed items, so this was an important assumption to verify. In applied settings, this finding also suggests that the photo-taking-impairment is not limited to situations in which photos are taken selectively. Indeed, we found the photo-taking-impairment to be robust in a new variety of situations, suggesting the effect may not be easily avoided."
+    }
+  ],
+  "reference_count": 22
+}

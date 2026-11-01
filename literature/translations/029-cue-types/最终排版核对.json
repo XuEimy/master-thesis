@@ -1,0 +1,31 @@
+{
+  "pages": 16,
+  "page_sizes_match": true,
+  "doi_on_first_page": true,
+  "bibliography_unchanged": [
+    true,
+    true
+  ],
+  "numeric_tables": [
+    {
+      "page": 6,
+      "count": 36,
+      "match": true
+    },
+    {
+      "page": 7,
+      "count": 20,
+      "match": true
+    },
+    {
+      "page": 7,
+      "count": 32,
+      "match": true
+    },
+    {
+      "page": 12,
+      "count": 100,
+      "match": true
+    }
+  ]
+}

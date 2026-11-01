@@ -1,0 +1,1233 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="evan70051" xml:lang="en" article-type="review-article" dtd-version="1.4"><?da-xref-anchor-style autodetect?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Evol Anthropol</journal-id><journal-id journal-id-type="iso-abbrev">Evol Anthropol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="nlm-id">9306331</journal-id><journal-id journal-id-type="publisher-id">EVAN</journal-id><journal-title-group><journal-title>Evolutionary Anthropology</journal-title></journal-title-group><issn pub-type="ppub">1060-1538</issn><issn pub-type="epub">1520-6505</issn><?publisher_abbrev blackwell?><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13679482</article-id><article-id pub-id-type="pmcid-ver">PMC13679482.1</article-id><article-id pub-id-type="pmcaid">13679482</article-id><article-id pub-id-type="pmcaiid">13679482</article-id><article-id pub-id-type="pmid">42895355</article-id><article-id pub-id-type="doi">10.1002/evan.70051</article-id><article-id pub-id-type="publisher-id">EVAN70051</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>Homo Memorabiliaxis: Souvenirs and the Evolution of Autobiographical Memory and Self</article-title></title-group><contrib-group><contrib id="evan70051-cr-0001" contrib-type="author"><name name-style="western"><surname>Barkai</surname><given-names initials="R">Ran</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8125-8788</contrib-id><xref rid="evan70051-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="evan70051-cr-0002" contrib-type="author"><name name-style="western"><surname>Assaf</surname><given-names initials="E">Ella</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0489-7436</contrib-id><xref rid="evan70051-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="evan70051-cr-0003" contrib-type="author"><name name-style="western"><surname>Efrati</surname><given-names initials="B">Bar</given-names></name><xref rid="evan70051-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="evan70051-cr-0004" contrib-type="author"><name name-style="western"><surname>Simon</surname><given-names initials="T">Tal</given-names></name><xref rid="evan70051-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="evan70051-cr-0005" contrib-type="author"><name name-style="western"><surname>Mudrik</surname><given-names initials="L">Liad</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3564-6445</contrib-id><xref rid="evan70051-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="evan70051-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="evan70051-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Ram</surname><given-names initials="Y">Yoav</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9653-4458</contrib-id><xref rid="evan70051-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="evan70051-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>yoavram@tauex.tau.ac.il</email></address></contrib></contrib-group><aff id="evan70051-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Archaeology and Near Eastern Cultures</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><aff id="evan70051-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">School of Archaeology</named-content>
+<institution>University of Oxford</institution>
+<city>Oxford</city>
+<country country="GB">UK</country>
+</aff><aff id="evan70051-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Independent Researcher</institution>
+<city>Pardes Hanna–Karkur</city>
+<country country="IL">Israel</country>
+</aff><aff id="evan70051-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">School of Psychological Sciences</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><aff id="evan70051-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Sagol School of Neuroscience</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><aff id="evan70051-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">School of Zoology, Faculty of Life Sciences</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Yoav Ram (<email>yoavram@tauex.tau.ac.il</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>10</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2026</year></pub-date><volume>35</volume><issue seq="20">4</issue><issue-id pub-id-type="pmc-issue-id">523624</issue-id><issue-id pub-id-type="doi">10.1002/evan.v35.4</issue-id><elocation-id>e70051</elocation-id><history>
+<date date-type="rev-recd"><day>27</day><month>9</month><year>2026</year></date>
+<date date-type="received"><day>15</day><month>4</month><year>2026</year></date>
+<date date-type="accepted"><day>07</day><month>10</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>19</day><month>10</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>20</day><month>10</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-10-20 10:03:50.300"><day>20</day><month>10</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Evolutionary Anthropology</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="EVAN-35-e70051.pdf"><?pdf-name EVAN-35-e70051.pdf?><?pdf-size 1338403?><?pdf-md5 152702e365af2e360e6321b500b5a405?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:04dd/13679482/152702e365af/EVAN-35-e70051.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:EVAN-35-e70051.pdf"/><abstract><title>ABSTRACT</title><p>Humans routinely keep souvenirs objects retained for the memories they evoke, yet the evolutionary and cognitive consequences of mnemonic collecting remain unclear. Existing discussions of curated objects concentrate on later prehistory and modern humans and view such objects at the social level, as carriers of shared cultural meaning or as markers of status. Here, we address an earlier time period and locate the phenomenon at the personal rather than the social level. By integrating archaeology with theories of extended memory and niche construction, we synthesize evidence consistent with systematic curation of items beyond purely utilitarian needs from the terminal Lower Palaeolithic (~500 kya) onward, including transported distinctive stones, fossils, and the prolonged retention of patinated “old” stone tools whose earlier surfaces were deliberately preserved. We propose that curated keepsakes functioned as portable external memory devices. Beyond cueing recall, they may have helped authenticate self‐relevant past events by providing durable material traces that support source monitoring—distinguishing experienced from imagined events. As such practices became routine, they could have created a “souvenir niche” in which individuals who better integrated internal recollection with external tokens gained fitness benefits. The token's reference is personal, but its consequences can be social, supporting tasks like tracking alliances, reciprocity, and place‐based obligations. These benefits may have strengthened selection on neural systems facilitating the development of autobiographical memory and sense of self via gene–culture coevolution. We outline archaeological, developmental, and experimental predictions that distinguish this mnemonic‐authentication account from aesthetic or economic explanations and suggest approaches for testing them. Viewing curated objects as memory technology links early material culture to the evolutionary shaping of human autobiographical memory.</p></abstract><counts><fig-count count="3"/><table-count count="0"/><page-count count="12"/><word-count count="9171"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.8 mode:remove_FC converted:19.10.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="evan70051-sec-0010"><label>1</label><title>Hypothesis for the Evolutionary Role of Souvenirs</title><p>Humans collect and keep objects to remember. We collect stones from a place we may never see again, shells from a visit at the beach we want to recall, or artefacts passed down by loved ones. Have humans always been collectors and keepers? Since the emergence of the genus <italic toggle="yes">Homo</italic> some 2.5 million years ago, archaeological evidence indicates that early humans, like other great apes, acquired and transported resources needed for survival and reproduction, including fruits, nuts, and scavenged carcasses. Unlike most other animals, humans also systematically collected stones. Having no claws or sharp teeth, early humans used stone tools to make a living, and the procedures developed for stone tool production are the earliest evidence of human technology [<xref rid="evan70051-bib-0001" ref-type="bibr">1</xref>, <xref rid="evan70051-bib-0002" ref-type="bibr">2</xref>, <xref rid="evan70051-bib-0003" ref-type="bibr">3</xref>, <xref rid="evan70051-bib-0004" ref-type="bibr">4</xref>, <xref rid="evan70051-bib-0005" ref-type="bibr">5</xref>].</p><p>But what about collecting items for sentimental, mnemonic, or emotional reasons, a pattern so familiar to us from contemporary societies? When did this human behaviour emerge? How was it affected by and how did it affect human evolution? We argue that such souvenir practices have a long history and that, when they became routine features of early human life, they formed a cultural niche that altered selection pressures on autobiographical memory and the sense of self [<xref rid="evan70051-bib-0006" ref-type="bibr">6</xref>, <xref rid="evan70051-bib-0007" ref-type="bibr">7</xref>]. Here “autobiographical memory” refers to episodic memory for personally experienced events and to second‐hand family narratives integrated into one's personal identity. Such memories support continuity of the sense of self over time.</p><p>The hypothesis is specific: personally curated keepsakes acted as external memory devices that enactively cued recall and authenticated personal pasts, memories, and experiences through direct material engagement. We suggest that the reliance on the physical (e.g., visual and haptic) and contextual characteristics of keepsakes enhanced selection pressures on neural systems for linking memories with external cues and improving source monitoring (the ability to identify if a memory came from internal thought or an external event). Our hypothesis extends existing archaeological inferences about “memory objects” and 4E (embodied, embedded, enactive, extended) philosophical accounts of extended memory [<xref rid="evan70051-bib-0008" ref-type="bibr">8</xref>] by making an explicit evolutionary claim. It also differs in time depth and in level of analysis: we locate the behaviour in the late Lower Palaeolithic, among ancestral rather than modern human populations, and we treat keepsakes in the first instance as tokens of a personal, individual relationship with a particular place, event, or person, rather than as vehicles of collective meaning or as markers of rank.</p></sec><sec id="evan70051-sec-0020"><label>2</label><title>Context for the Hypothesis</title><p>The “extended mind” thesis argues for active externalism and cognitive coupling between internal processes and environmental resources [<xref rid="evan70051-bib-0009" ref-type="bibr">9</xref>] but does not provide an evolutionary model by itself. Important exceptions ask when in hominin history material scaffolding began to matter [<xref rid="evan70051-bib-0010" ref-type="bibr">10</xref>] and extend a distributed account of memory and reasoning into deep time [<xref rid="evan70051-bib-0011" ref-type="bibr">11</xref>], but neither treats personal keepsakes or specifies a selective consequence attached to them. Our proposal focuses on personal keepsakes as the precursors of current memory aids (e.g., notebooks, photos) that effectively extend one's mind. Unlike general extended‐mind arguments, our hypothesis includes an evolutionary model, provided by niche‐construction theory and gene–culture co‐evolution, explaining how organisms modify informational environments in ways that feedback on development and selection [<xref rid="evan70051-bib-0012" ref-type="bibr">12</xref>, <xref rid="evan70051-bib-0013" ref-type="bibr">13</xref>, <xref rid="evan70051-bib-0014" ref-type="bibr">14</xref>]. Neuroimaging studies show that culturally scaffolded tool use and toolmaking training can induce plastic changes in primate and human frontoparietal networks [<xref rid="evan70051-bib-0015" ref-type="bibr">15</xref>, <xref rid="evan70051-bib-0016" ref-type="bibr">16</xref>, <xref rid="evan70051-bib-0017" ref-type="bibr">17</xref>, <xref rid="evan70051-bib-0018" ref-type="bibr">18</xref>, <xref rid="evan70051-bib-0019" ref-type="bibr">19</xref>], and this has been explicitly linked to gene–culture pathways in which culturally stabilized developmental demands bias long‐term selection on cognitive mechanisms [<xref rid="evan70051-bib-0020" ref-type="bibr">20</xref>, <xref rid="evan70051-bib-0021" ref-type="bibr">21</xref>]. Our argument, which focuses on souvenirs as “memory tools,” uses extended‐memory insights to explain the cognitive function of keepsakes, and uses niche‐construction theory to specify how a stable “souvenir niche” can shape selection.</p></sec><sec id="evan70051-sec-0030"><label>3</label><title>Archaeological Motivation</title><p>It seems that souvenir collection appeared late in the archaeological record. Throughout human prehistory, and mostly during the first 2.5 My of human biological and cultural evolution, evidence of routine possession of items bearing potential mnemonic or sentimental value is anecdotal at best (e.g., [<xref rid="evan70051-bib-0022" ref-type="bibr">22</xref>]). A threshold for the emergence of the “souvenir niche” could be suggested during Middle Pleistocene times, ~500 kya in specific regions of the Old World. This threshold coincides with significant biological and cultural transformations related to the replacement of <italic toggle="yes">Homo erectus</italic> by Neanderthals, Denisovans and/or <italic toggle="yes">Homo sapiens</italic> and the termination of a long and successful mode of adaptation, the Acheulean cultural complex of the Lower Palaeolithic period [<xref rid="evan70051-bib-0023" ref-type="bibr">23</xref>, <xref rid="evan70051-bib-0024" ref-type="bibr">24</xref>, <xref rid="evan70051-bib-0025" ref-type="bibr">25</xref>].</p><p>Our starting point is behavioural: regardless of motive, the record shows systematic collection and retention of items curated beyond purely utilitarian needs, and this routine curation is what we call the “souvenir niche.” There are two lines of evidence supporting the presence of this niche since at least the terminal Lower Palaeolithic (~500 kya) across Africa, Europe, and Asia. First, some sites contain objects with no obvious utility, including transported marine fossils/shells [<xref rid="evan70051-bib-0026" ref-type="bibr">26</xref>, <xref rid="evan70051-bib-0027" ref-type="bibr">27</xref>], aesthetically distinctive stones possibly collected for their appearance [<xref rid="evan70051-bib-0028" ref-type="bibr">28</xref>], quartz crystals [<xref rid="evan70051-bib-0029" ref-type="bibr">29</xref>], eagle talons likely used as pendants [<xref rid="evan70051-bib-0030" ref-type="bibr">30</xref>], and selected pigment (ochre) pieces, sometimes modified with deliberate marking [<xref rid="evan70051-bib-0031" ref-type="bibr">31</xref>]. Our work in the Levant provides two examples. At Qesem Cave, small round and colourful pebbles were intentionally brought to the cave starting 400 Kya and throughout its 200 Ky use by humans. They show no evidence of practical use and were likely valued for aesthetic, mnemonic, or sentimental reasons [<xref rid="evan70051-bib-0032" ref-type="bibr">32</xref>]. Similarly, at the newly identified Acheulean landscape of Sakhnin Valley, Lower Galilee, Israel, about ten of over 200 surveyed handaxes were shaped around fossil imprints or geological features in the flint nodule, retained at the centre of the face where they can be seen and touched (Figure <xref rid="evan70051-fig-0003" ref-type="fig">3</xref> [<xref rid="evan70051-bib-0033" ref-type="bibr">33</xref>]). Such nodules are harder to knap and were avoided in ordinary handaxe production. Their features are diagnostic of the valley's fossil‐ and geode‐rich outcrops, thus tying the objects to a specific locale.</p><p>Second, some sites contain artefacts that were made and used earlier than the deposits in which they were found and show little evidence of intensive secondary use, suggesting they were curated rather than simply recycled. The recycling of old patinated items frequently involved exploiting them as materials from which new items were produced. However, analyses of double‐patinated flint artefacts from the Late Acheulean sites of Revadim and Jaljulia and from post‐Acheulean Qesem Cave emphasize an additional, distinct practice (Figures <xref rid="evan70051-fig-0001" ref-type="fig">1</xref>, <xref rid="evan70051-fig-0002" ref-type="fig">2</xref>). This latter trajectory involves the systematic collection of older tools and selective, minimal edge reshaping (small removals to refresh or shape a cutting edge) that preserves earlier “old” patinated surfaces and visible scars, that is, the artefacts' earlier “biographies” [<xref rid="evan70051-bib-0035" ref-type="bibr">35</xref>]; <underline underline-style="single">but these patinas</underline> imply an interval long enough that such items were re‐encountered in the landscape rather than handed on. Wear traces visible under magnification indicate that their second phase of use was generally light, consistent with curation as keepsakes or souvenirs [<xref rid="evan70051-bib-0036" ref-type="bibr">36</xref>]. Building on this, the authors interpret these pieces as “memory objects,” emphasizing that the working edge was refreshed without removing the older surfaces, so earlier traces remain visually prominent [<xref rid="evan70051-bib-0034" ref-type="bibr">34</xref>, <xref rid="evan70051-bib-0036" ref-type="bibr">36</xref>]. They further argue that this pattern is unlikely to reflect raw‐material scarcity or a least‐effort strategy, because fresh tools dominate the assemblage, yet recycled pieces repeatedly retain the older surfaces rather than being fully reworked [<xref rid="evan70051-bib-0034" ref-type="bibr">34</xref>, <xref rid="evan70051-bib-0037" ref-type="bibr">37</xref>]. Related work similarly interprets the collection and recycling of patinated scrapers as attention to object itineraries, explicitly framing them in mnemonic terms: In this context, Efrati [<xref rid="evan70051-bib-0037" ref-type="bibr">37</xref>] suggests that the distinct visual and tactile contrast of the double patina effect (where fresh reduction sequences are juxtaposed against older, weathered surfaces) afforded an enactive perceptual experience. By preserving these old colourful layers, the recycled artifacts may have served as tangible extensions of their source locations and past histories, including with particular individuals, thereby helping to physically authenticate memories through direct material engagement.</p><fig position="float" fig-type="Figure" id="evan70051-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Panel 1. A collected and recycled scraper from Qesem Cave that preserves the morphology and colours of the fully patinated “older” flake. Whitish surfaces demonstrate the patina the item has accumulated after it was discarded following its original first life cycle. Brown fresh edges are the resharpened new edges. Panel 2. Frontal view of the recycled scraper; dashed line shows the suggested patinated flake's original outline prior to recycling. Reproduced from Efrati [<xref rid="evan70051-bib-0034" ref-type="bibr">34</xref>] under a Creative Commons Attribution 4.0 International License (CC BY 4.0).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="EVAN-35-e70051-g002.webp"><?image-name EVAN-35-e70051-g002.webp?><?image-size 51002?><?image-md5 f6efe8b7bb99b8a9b8d827cca4e517ab?><?image-image-server-status NEED_LOADING?><?image-original-height 1112?><?image-original-width 1000?><?image-scaled-height 1112?><?image-scaled-width 1000?><?image-cloudpmc-urn urn:cdn:blobs/04dd/13679482/f6efe8b7bb99/EVAN-35-e70051-g002.webp?><?thumb-name EVAN-35-e70051-g002.gif?><?thumb-size 15662?><?thumb-md5 87070aab80d309926f1a12b3ba411245?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 200?><?thumb-scaled-width 180?><?thumb-cloudpmc-urn urn:cdn:blobs/04dd/13679482/87070aab80d3/EVAN-35-e70051-g002.gif?></graphic></fig><fig position="float" fig-type="Figure" id="evan70051-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Colourful patinated “old” flint items recovered from Qesem cave. These items were collected by the cave's inhabitants and brought to the cave from varied landscape localities outside of the cave, as each patination type and colour stands for different environmental conditions. Most items were recycled and resharpened in a way that clearly preserves the original outline and patina cover of the original specimen. Reproduced from Efrati [<xref rid="evan70051-bib-0034" ref-type="bibr">34</xref>] under a Creative Commons Attribution 4.0 International License (CC BY 4.0).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="EVAN-35-e70051-g001.webp"><?image-name EVAN-35-e70051-g001.webp?><?image-size 105194?><?image-md5 b90d4ab8306dc1ac25d7515cea93cab4?><?image-image-server-status NEED_LOADING?><?image-original-height 989?><?image-original-width 1054?><?image-scaled-height 989?><?image-scaled-width 1054?><?image-cloudpmc-urn urn:cdn:blobs/04dd/13679482/b90d4ab8306d/EVAN-35-e70051-g001.webp?><?thumb-name EVAN-35-e70051-g001.gif?><?thumb-size 28590?><?thumb-md5 16b5abd1135c8fcc86a98e210424dd8b?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 188?><?thumb-scaled-width 200?><?thumb-cloudpmc-urn urn:cdn:blobs/04dd/13679482/16b5abd1135c/EVAN-35-e70051-g001.gif?></graphic></fig><p>These accounts establish that Middle Pleistocene humans systematically curated old artifacts, special stones, and specific geological features for reasons partly independent of their immediate function, and that mnemonic roles are archaeologically plausible [<xref rid="evan70051-bib-0033" ref-type="bibr">33</xref>, <xref rid="evan70051-bib-0037" ref-type="bibr">37</xref>, <xref rid="evan70051-bib-0038" ref-type="bibr">38</xref>]. Empirically, these behaviours are inferred from repeated patterns of transport, long‐term retention, and deposition of items with little or no clear utilitarian advantage. For example, manuports and fossils carried far from their geological sources, and curated “heirloom” pieces showing long use‐lives and episodic reworking rather than single‐use discard. Such patterned curation across multiple contexts is difficult to explain by immediate functional needs alone but is consistent with keeping objects as durable prompts for remembering places, events, or people. As an interpretive analogue, later prehistoric research argues that some “cached” or deliberately deposited objects—including mundane household items—can be understood as emotionally charged and entwined with personal identities and continuing bonds, often retained for a time and then disposed of in culturally appropriate ways [<xref rid="evan70051-bib-0039" ref-type="bibr">39</xref>]. Notably, Kissel and Fuentes [<xref rid="evan70051-bib-0040" ref-type="bibr">40</xref>] have asked how Pleistocene objects “were able to mean something” for early humans, focusing on the ability to make objects intended to produce a response in the mind of another. Here, we extend the question to objects collected to evoke a memory in the mind of one's future self. Such keepsakes “were able to mean something” as indexes, rather than symbols—by their real connection to a past person, place, or event—and thus require no conventional symbolic meaning.</p><p>Comparable mnemonic interpretations have also been proposed for later prehistory [<xref rid="evan70051-bib-0038" ref-type="bibr">38</xref>]. In the Neolithic, personal ornaments are sometimes interpreted as curated heirlooms (a subtype of keepsake) that can carry memories of owners and makers and help maintain a perceived presence of the dead in the lives of the living [<xref rid="evan70051-bib-0041" ref-type="bibr">41</xref>]. Heirlooms may also have had broader social consequences: they could materialize links to an ancestral past and help legitimate identities, rank, and claims to resources, particularly in early chiefdom contexts, with examples from Late Neolithic Iberian polished stone toolheads and inscribed vessels in Zhou‐period China to Māori heirlooms linked by form and oral tradition to Eastern Polynesian origins [<xref rid="evan70051-bib-0042" ref-type="bibr">42</xref>]. A different form of keepsake is suggested in later prehistoric Britain (c. 2500–600 BC), where human remains were curated for multiple generations and then redeposited in settlements or graves, consistent with keepsakes linked to remembered individuals [<xref rid="evan70051-bib-0043" ref-type="bibr">43</xref>]. Such behaviours are also documented in contemporary Indigenous societies, where certain artefacts are termed “pieces of places” or “gifts of the ancestors” and serve to preserve memories and experiences tied to meaningful locations, often related to ancestors or to the creation of stories and myths [<xref rid="evan70051-bib-0044" ref-type="bibr">44</xref>, <xref rid="evan70051-bib-0045" ref-type="bibr">45</xref>, <xref rid="evan70051-bib-0046" ref-type="bibr">46</xref>]. Fossils were curated in much the same way, with sub‐Saharan African non‐western societies transporting fossil manuports away from their source outcrops, including a Stegodon molar at Ishango, DR Congo (~21 kya) and a trilobite carried ~10 km into a Later Stone Age shelter in the Cederberg, South Africa [<xref rid="evan70051-bib-0047" ref-type="bibr">47</xref>]. Relatedly, ethnographic research on intra‐African mobility describes “memory objects” as personal items that elicit memories of home, significant places, and social relations [<xref rid="evan70051-bib-0048" ref-type="bibr">48</xref>].</p><p>Humans occupied the Levant for at least 1.5 My, so one might wonder why this behaviour only emerged at ~500 kya. We suggest an ecological explanation: prey body size in the Levant declined through the Pleistocene [<xref rid="evan70051-bib-0049" ref-type="bibr">49</xref>, <xref rid="evan70051-bib-0050" ref-type="bibr">50</xref>], and the elephant, a stable and high‐return resource, disappeared around 400 kya, alongside the demise of <italic toggle="yes">H. erectus</italic> and the end of the Acheulean [<xref rid="evan70051-bib-0023" ref-type="bibr">23</xref>, <xref rid="evan70051-bib-0051" ref-type="bibr">51</xref>]. Hunting smaller, evasive, and more numerous prey demanded development of new methods and expansion to new territories, and this was likely experienced by hunter‐gatherers as rupture rather than adjustment [<xref rid="evan70051-bib-0052" ref-type="bibr">52</xref>]. It was met not only by re‐planning foraging but also by rebuilding one's relationship to the land through story, myth, and detailed ecological knowledge [<xref rid="evan70051-bib-0052" ref-type="bibr">52</xref>, <xref rid="evan70051-bib-0053" ref-type="bibr">53</xref>]. We propose that once a dependable relationship to particular places could no longer be taken for granted, portable pieces of those places and/or of the new hunting territories [<xref rid="evan70051-bib-0054" ref-type="bibr">54</xref>] became worth keeping, each tied to one person's own experience of the place rather than to the group's. This, rather than navigation, is what we mean by “place‐based obligations” and “access to places”: claims that follow from a remembered personal connection to a locale [<xref rid="evan70051-bib-0055" ref-type="bibr">55</xref>, <xref rid="evan70051-bib-0056" ref-type="bibr">56</xref>, <xref rid="evan70051-bib-0057" ref-type="bibr">57</xref>]. We would therefore expect the practice to track megaherbivore decline in space and time, rather than precede it.</p></sec><sec id="evan70051-sec-0040"><label>4</label><title>Keepsakes Versus Other Memory Technologies</title><p>Philosophical and cognitive‐science research suggests that autobiographical memory is often distributed across persons and things: “evocative objects” can cue, scaffold, or partly constitute personal memories, enabling more reliable and detailed recall [<xref rid="evan70051-bib-0058" ref-type="bibr">58</xref>, <xref rid="evan70051-bib-0059" ref-type="bibr">59</xref>, <xref rid="evan70051-bib-0060" ref-type="bibr">60</xref>]. From an interaction‐based perspective, such objects can be considered as facilitating a <italic toggle="yes">mnemonic experience</italic>. We use this term in the standard sense of episodic recollection: retrieval of the what–where–when of a particular past event, accompanied by autonoetic awareness, the sense of re‐experiencing one's own past, or “mental time travel” [<xref rid="evan70051-bib-0061" ref-type="bibr">61</xref>, <xref rid="evan70051-bib-0062" ref-type="bibr">62</xref>]. What keepsakes add is that such recollection is an effortful, active search ([<xref rid="evan70051-bib-0063" ref-type="bibr">63</xref>], 21–44) that is cued and sustained by multisensory engagement with the object itself, by seeing, holding and handling a thing that was present at the remembered event [<xref rid="evan70051-bib-0064" ref-type="bibr">64</xref>]. Our concern in what follows is not the architecture of episodic memory as such, but what it meant to collect and keep such objects in the Lower Palaeolithic, and how it might have facilitated such memories.</p><p>Most discussions, however, focus on general cognitive scaffolds (e.g., notebooks, photos, calendars) or on group‐level symbolic systems (e.g., numerical notation systems, writing, calendrical devices, and mapping systems), and they rarely distinguish the special role of <italic toggle="yes">personal</italic> keepsakes. For example, some suggest that European Upper Palaeolithic cave art acted as knowledge transmission systems and/or decoded astronomical/celestial information [<xref rid="evan70051-bib-0065" ref-type="bibr">65</xref>]. In other cases, Palaeolithic engravings and depictions were suggested to stand for early maps, intended to preserve knowledge about the landscape [<xref rid="evan70051-bib-0066" ref-type="bibr">66</xref>].</p><p>Souvenirs differ on four dimensions. First, <italic toggle="yes">episodic specificity</italic>: they are often indexically tied to a concrete person–place–event, supplying high‐diagnostic cues for hippocampal pattern completion [<xref rid="evan70051-bib-0067" ref-type="bibr">67</xref>]. This tie is material, not conventional: patina colour indexes the locality an “old” flint item came from (Figures <xref rid="evan70051-fig-0001" ref-type="fig">1</xref>, <xref rid="evan70051-fig-0002" ref-type="fig">2</xref>), fossil or geode inclusions index the outcrop a flint nodule came from (Figure <xref rid="evan70051-fig-0003" ref-type="fig">3</xref>). A keepsake need not be a non‐utilitarian object: the pieces in Figure <xref rid="evan70051-fig-0003" ref-type="fig">3</xref> are handaxes, but the feature that indexes their source has no functional role and was costly to retain. Second, <italic toggle="yes">authentication</italic>: because episodic memory is reconstructive and prone to error, keepsakes serve as more than recall cues—they provide external perceptual and contextual detail supporting attribution of a recollection to perception rather than imagination. In source‐monitoring terms [<xref rid="evan70051-bib-0068" ref-type="bibr">68</xref>], a material token strengthens perceptual and contextual features that help distinguish real experiences from imagination. We use “authentication” throughout in this minimal sense: a keepsake cannot by itself certify that a given recollection is veridical. What it does is narrow the space of plausible sources. Mahr and Csibra [<xref rid="evan70051-bib-0069" ref-type="bibr">69</xref>] stress a social version of this function, in which remembering an event lets a person assert it to others and be held responsible for that assertion; our claim is narrower, that the object serves its keeper as evidence that the memory represents a genuine event that happened. Third, <italic toggle="yes">intentional investment</italic>: acquiring, transporting, and maintaining a keepsake requires time, effort, and attention, effectively committing cognitive and material resources to make a particular episode memorable and to anchor it to an external, stable object. Fourth, <italic toggle="yes">personal reference</italic>: a keepsake's meaning is indexical and private rather than conventional and shared, so it need not be legible to anyone but its keeper. Objects can of course combine these roles: an heirloom may be both a personal keepsake and a public claim. But the mnemonic function we describe does not require an audience. Together, these features make keepsakes a distinctive class of mnemonic aid with potential fitness payoffs for social coordination when obligations, alliance histories, or claims to particular places depend on credible personal memory. Keepsakes are also affectively charged, and objects reliably at hand scaffold the regulation of emotion and mood as well as remembering [<xref rid="evan70051-bib-0070" ref-type="bibr">70</xref>, <xref rid="evan70051-bib-0071" ref-type="bibr">71</xref>]; affective salience is plausibly what made curation persistent enough to become routine.</p><fig position="float" fig-type="Figure" id="evan70051-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Lower Palaeolithic handaxes shaped around extraordinary features in the flint nodule, from the Acheulean landscape of the Sakhnin Valley, Lower Galilee, Israel. (a) A handaxe shaped around fossil imprints, retained on the face of the item. (b) A handaxe shaped around a concentric geological feature, shown enlarged at left. (c) A handaxe fashioned around a weathered fossil‐bearing surface, shown enlarged at upper right. In each case the feature is preserved at a visible and handleable position, although such nodules are harder to knap and were otherwise avoided in the production of the other handaxes from the same landscape. These are likely functional tools; what is at issue is the deliberate retention of a non‐functional feature that ties each tool to a particular outcrop. Scale bars 3 cm. Adapted from Barkai and Shalata [<xref rid="evan70051-bib-0033" ref-type="bibr">33</xref>] under a Creative Commons Attribution 4.0 International License (CC BY 4.0). Changes were made.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="EVAN-35-e70051-g003.webp"><?image-name EVAN-35-e70051-g003.webp?><?image-size 122870?><?image-md5 7331e743c76e6bbd176e71156052b57a?><?image-image-server-status NEED_LOADING?><?image-original-height 1439?><?image-original-width 1054?><?image-scaled-height 1439?><?image-scaled-width 1054?><?image-cloudpmc-urn urn:cdn:blobs/04dd/13679482/7331e743c76e/EVAN-35-e70051-g003.webp?><?thumb-name EVAN-35-e70051-g003.gif?><?thumb-size 17081?><?thumb-md5 3133459e9218dcdef533dad6a15c9d1c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 200?><?thumb-scaled-width 146?><?thumb-cloudpmc-urn urn:cdn:blobs/04dd/13679482/3133459e9218/EVAN-35-e70051-g003.gif?></graphic></fig></sec><sec id="evan70051-sec-0050"><label>5</label><title>Souvenir‐Keeping Is Likely Unique to Humans</title><p>Non‐human mammals and birds do not keep souvenirs in the human sense. They may use physical landmarks as memory aids (e.g., the big tree near the river), but object collection is tied to function. Previous claims to the contrary have later proved false. For example, the “magpie shiny thing” trope is a European cultural stereotype suggesting that Eurasian magpies (<italic toggle="yes">Pica pica</italic>) are attracted to shiny objects and collect them. However, a study of wild magpies found no evidence of attraction; instead, birds were wary of metallic objects [<xref rid="evan70051-bib-0072" ref-type="bibr">72</xref>]. Other examples come from corvids that manage and cache objects for food security and tool safekeeping [<xref rid="evan70051-bib-0073" ref-type="bibr">73</xref>, <xref rid="evan70051-bib-0074" ref-type="bibr">74</xref>, <xref rid="evan70051-bib-0075" ref-type="bibr">75</xref>], or bowerbird males, who amass decorations as extended sexual displays to attract females for mating [<xref rid="evan70051-bib-0076" ref-type="bibr">76</xref>]. Claims about dogs burying toys and cats “collecting” corpses also reduce to caching and provisioning: food hoarding across mammals is a widespread foraging adaptation, not memento keeping [<xref rid="evan70051-bib-0077" ref-type="bibr">77</xref>]. Pet cats return only a minority of kills to households, consistent with central‐place transport or owner provisioning rather than collecting souvenirs [<xref rid="evan70051-bib-0078" ref-type="bibr">78</xref>]. Woodrats (packrats) build refuse‐and‐nest middens that incidentally archive materials but serve ecological and architectural functions, not memory preservation [<xref rid="evan70051-bib-0079" ref-type="bibr">79</xref>]. Across these cases, collected items serve sexual displays, cache protection, or den construction. Two experimental studies show that captive great apes are attracted to odd, shiny objects (orangutans) and crystals (chimpanzees), but neither study demonstrated preservation of these objects as mementos of a particular place or event [<xref rid="evan70051-bib-0080" ref-type="bibr">80</xref>, <xref rid="evan70051-bib-0081" ref-type="bibr">81</xref>]: the chimpanzees even preserved a large crystal in their dormitory for 2 days before returning it in exchange for food, which demonstrates sustained interest in an unusual object but not curation tied to a remembered episode. Similarly, an experiment with stone‐handling Japanese macaques (<italic toggle="yes">Macaca fuscata</italic>) showed that they prefer stones and places where others had already handled stones, suggesting these places are “play stations” [<xref rid="evan70051-bib-0082" ref-type="bibr">82</xref>].</p><p>None of these behaviours entails retaining items as mnemonic keepsakes or demonstrates collection of objects as personal, beyond functional, mementos. Behaviourally, a souvenir would be identified by different criteria: an individual keeps one particular object safe over a long period, neither discarding it nor trading it for food, and returns to engage with it from time to time, in ways specific to that object and individual. Such a pattern may exist but go unobserved, as detecting it requires following a known individual and a known object over months.</p></sec><sec id="evan70051-sec-0060"><label>6</label><title>Mechanism: From Tokens to Traits</title><p>Autobiographical memory depends on binding items to contexts and on reconstructive retrieval. According to a three‐component model of medial temporal lobe function, the hippocampus supports pattern completion, reinstating full episodes from partial cues; the perirhinal cortex provides familiarity signals; and the parahippocampal cortex contributes contextual information [<xref rid="evan70051-bib-0083" ref-type="bibr">83</xref>, <xref rid="evan70051-bib-0084" ref-type="bibr">84</xref>, <xref rid="evan70051-bib-0085" ref-type="bibr">85</xref>]. When recollection is vivid and detailed, it further recruits a broader cortical network, including the angular gyrus and posterior cingulate cortex that integrate these elements into a consciously experienced memory [<xref rid="evan70051-bib-0086" ref-type="bibr">86</xref>, <xref rid="evan70051-bib-0087" ref-type="bibr">87</xref>]. Keepsakes operate as high‐diagnostic retrieval cues that increase the probability of successful pattern completion for person–place–object bindings. They also support <italic toggle="yes">source monitoring</italic>—the evaluative processes that attribute memories to internal or external origins—by increasing available sensory detail and contextual coherence [<xref rid="evan70051-bib-0068" ref-type="bibr">68</xref>, <xref rid="evan70051-bib-0088" ref-type="bibr">88</xref>]. Lateral and anterior prefrontal regions implicated in source monitoring can use the additional external evidence to reduce false recall.</p><p>Repeated use of keepsakes, supported by social practices that value them, directs attention to links between people, places, and objects [<xref rid="evan70051-bib-0089" ref-type="bibr">89</xref>]. This process parallels the way adult‐child conversations about past events scaffold the development of autobiographical memory by providing linguistic and cultural structure [<xref rid="evan70051-bib-0090" ref-type="bibr">90</xref>, <xref rid="evan70051-bib-0091" ref-type="bibr">91</xref>]. We do not posit a dedicated mechanism for combining internal and external memory, but two abilities that can be measured and that differ between people: telling remembered from imagined events [<xref rid="evan70051-bib-0092" ref-type="bibr">92</xref>, <xref rid="evan70051-bib-0093" ref-type="bibr">93</xref>], and judging when to rely on memory rather than on an external token [<xref rid="evan70051-bib-0094" ref-type="bibr">94</xref>]. Such differences are partly heritable [<xref rid="evan70051-bib-0095" ref-type="bibr">95</xref>], which is what selection requires. In populations where keepsakes are routine, individuals who are better at integrating internal traces with external tokens and at monitoring sources will perform better in credibility‐sensitive tasks, like maintaining alliances and tracking reciprocity. Source memory, rather than recognition memory, is selectively enhanced for the faces of cheaters [<xref rid="evan70051-bib-0096" ref-type="bibr">96</xref>], individuals with better source memory cooperate more with cooperators and less with cheaters [<xref rid="evan70051-bib-0097" ref-type="bibr">97</xref>], and ordinary memory errors are large enough to constrain which reciprocity strategies can be sustained [<xref rid="evan70051-bib-0098" ref-type="bibr">98</xref>].</p><p>The same selective logic, that accurate evaluation of the content and source of one's own information is advantageous, has been proposed for a later, language‐driven setting [<xref rid="evan70051-bib-0099" ref-type="bibr">99</xref>]. In this cultural niche, the ability to use keepsakes to support autobiographical memory would be beneficial for the organism, and therefore its underlying neural mechanisms should be favoured by natural selection. Neural plasticity data show that tool‐use and toolmaking training can induce lasting structural changes in primate and human frontoparietal networks [<xref rid="evan70051-bib-0017" ref-type="bibr">17</xref>, <xref rid="evan70051-bib-0019" ref-type="bibr">19</xref>]. Such plasticity has been proposed as a mechanism through which culturally stabilized tool use may create a consistent developmental demand and thereby selection pressures over evolutionary timescales [<xref rid="evan70051-bib-0020" ref-type="bibr">20</xref>, <xref rid="evan70051-bib-0021" ref-type="bibr">21</xref>]. Indeed, culture and technology can shape genetic evolution of cognition by favouring inherited changes that make the underlying learning and performance processes more efficient, a route often discussed under the “Baldwin effect” [<xref rid="evan70051-bib-0012" ref-type="bibr">12</xref>, <xref rid="evan70051-bib-0013" ref-type="bibr">13</xref>, <xref rid="evan70051-bib-0100" ref-type="bibr">100</xref>]. Exogram theories offer a longer‐term perspective: as external memory tools multiplied, they changed how people used memory and reshaped brain organization ([<xref rid="evan70051-bib-0101" ref-type="bibr">101</xref>]; see [<xref rid="evan70051-bib-0102" ref-type="bibr">102</xref>], on the subsequent interdisciplinary debate). We propose that a similar process might have taken place for souvenirs, where coevolutionary dynamics between external memory practices and neural organization facilitated the development of autobiographical memory and the sense of self.</p><p>Why is this hypothesis new? Three bodies of work set the stage for our proposal, though each falls short of fully explaining this phenomenon. First, Lower–Middle Pleistocene archaeology has offered specific cases of curated artefacts interpreted as mnemonic or biographical objects [<xref rid="evan70051-bib-0034" ref-type="bibr">34</xref>, <xref rid="evan70051-bib-0036" ref-type="bibr">36</xref>], without inquiring further into their psychological and evolutionary meaning. Second, the philosophy and psychology of extended and distributed memory have analysed how objects couple to autobiographical remembering, often highlighting how active, embodied engagement with material affordances scaffolds personal recall, and often with respect to modern aids, but generally without evolutionary claims [<xref rid="evan70051-bib-0058" ref-type="bibr">58</xref>, <xref rid="evan70051-bib-0059" ref-type="bibr">59</xref>, <xref rid="evan70051-bib-0060" ref-type="bibr">60</xref>]. Material engagement theory develops this line furthest and has placed memory and the self at its centre, treating remembering as enacted through and with things rather than merely cued by them [<xref rid="evan70051-bib-0006" ref-type="bibr">6</xref>, <xref rid="evan70051-bib-0103" ref-type="bibr">103</xref>, <xref rid="evan70051-bib-0104" ref-type="bibr">104</xref>]. Extended memory research has shown how many artifacts—from notebooks to digital devices—integrate with memory, yet rarely proposes selection consequences. Where it does reach into deep time [<xref rid="evan70051-bib-0010" ref-type="bibr">10</xref>, <xref rid="evan70051-bib-0011" ref-type="bibr">11</xref>], the focus is on scaffolding for skill, social learning and collective intelligence rather than on personal mnemonic objects. Third, niche construction and scaffolded cognition accounts treat language, numeracy, notation systems, and tool repertoires as drivers of evolutionary change [<xref rid="evan70051-bib-0013" ref-type="bibr">13</xref>, <xref rid="evan70051-bib-0100" ref-type="bibr">100</xref>, <xref rid="evan70051-bib-0105" ref-type="bibr">105</xref>, <xref rid="evan70051-bib-0106" ref-type="bibr">106</xref>], but have not directly addressed souvenirs. Closest to our own hypothesis, Jablonka [<xref rid="evan70051-bib-0099" ref-type="bibr">99</xref>] argues that autobiographical memory evolved culturally to counter the false memories and deceit that language made possible in large, differentiated groups. We complement this proposal by highlighting a material driver at a considerably earlier time period.</p><p>Our proposal bridges over these approaches to close the abovementioned gaps by focusing on souvenirs as a particular class of external cue and providing an evolutionary account for their importance in psychological development. People, places, and public objects such as rock art could already cue memory in prehistory, but they were fixed in place and publicly shared. Kelly [<xref rid="evan70051-bib-0107" ref-type="bibr">107</xref>] surveys many such devices, almost always for transmitting shared knowledge rather than personal episodes, and her corpus could be re‐examined for the personal use we propose. Souvenirs made such reminders portable and added a durable material trace that could help check and communicate the source of self‐relevant episodes. We therefore propose that routine souvenir practices created a cultural niche that strengthened selection on source monitoring and the integration of people‐place‐event details. This is consistent with evidence that sustained training can remodel neural systems through plasticity, as shown for tool‐use learning in macaques and stone‐toolmaking training in humans [<xref rid="evan70051-bib-0017" ref-type="bibr">17</xref>, <xref rid="evan70051-bib-0019" ref-type="bibr">19</xref>]. Selection need not be for ‘better memory in general,’ but for better use of external traces, such as by cognitive mechanisms that integrate internal recollection with these traces to weigh memories by reliability in credibility‐sensitive tasks.</p><p>Our contribution is threefold. First, <italic toggle="yes">time depth</italic>: earlier discussions of object curation, shared cultural meaning, and object‐mediated status concentrate on the Upper Palaeolithic and later, and on modern humans; we locate the behaviour in the late Lower Palaeolithic, among our Middle Pleistocene ancestors. Second, <italic toggle="yes">level of analysis</italic>: rather than viewing curated objects as carriers of collective meaning or as markers of rank, we treat them as tokens of an individual's own relationship with a place, event, or person. Personal and social functions are not mutually exclusive, and could have developed independently, at different orders. We emphasize the personal level because it relies on a simpler assumption: an object that indexes its owner's past requires no shared convention, no agreed meaning, and no audience, whereas heirlooms, legitimation, and authentication before others presuppose all three. Third, <italic toggle="yes">evolutionary consequence</italic>: we propose that once routine, this behavioural pattern might have fed back on selection for source monitoring and for the integration of person–place–event detail, thereby facilitating the evolution of autobiographical memory and the sense of self. What we share with earlier workers is the observation that non‐utilitarian curation is real and that mnemonic readings of it are plausible; what is original is the conjunction of these three claims.</p></sec><sec id="evan70051-sec-0070"><label>7</label><title>Counter‐Arguments and How to Test the Hypothesis</title><p>Multiple alternative explanations can be suggested. Non‐instrumental collecting may be explained by aesthetics per se, raw‐material caching, or craft practice. The authentication function might be achieved solely by language. Yet one can arbitrate between these explanations by testing the discriminating predictions of our hypothesis. If keepsakes served episodic memory and authentication, we expect deliberate preservation of prior surfaces and minimal reworking that retains visible biographies, as documented at several Lower Palaeolithic sites in Israel [<xref rid="evan70051-bib-0035" ref-type="bibr">35</xref>, <xref rid="evan70051-bib-0108" ref-type="bibr">108</xref>] and beyond [<xref rid="evan70051-bib-0109" ref-type="bibr">109</xref>, <xref rid="evan70051-bib-0110" ref-type="bibr">110</xref>, <xref rid="evan70051-bib-0111" ref-type="bibr">111</xref>, <xref rid="evan70051-bib-0112" ref-type="bibr">112</xref>], coupled with spatial associations to life‐history loci (e.g., dwelling areas, hearths, recurrent occupation layers) rather than only raw‐material caches. We further expect items with no functional role at all, such as fossils, crystals and colourful pebbles, and retention of features that make an item harder to produce or to use (Figure <xref rid="evan70051-fig-0003" ref-type="fig">3</xref>). If selection is mnemonic rather than economic, raw‐material availability should not predict souvenir density, and source, raw material and patina type should be more diverse than local procurement would yield (Figures <xref rid="evan70051-fig-0001" ref-type="fig">1</xref>, <xref rid="evan70051-fig-0002" ref-type="fig">2</xref>).</p><p>No single one of these is decisive, and the weakest is wear. Use‑wear may frequently reflect handling and light tasks; however, evidence of functional optimisation does not negate a mnemonic role, as actively integrating a curated item into daily tasks can further embed it within personal and cultural narratives [<xref rid="evan70051-bib-0036" ref-type="bibr">36</xref>, <xref rid="evan70051-bib-0037" ref-type="bibr">37</xref>]. The hypothesis therefore fails on the conjunction rather than on any single criterion, that is, on assemblages of curated items that are functionally optimised, locally sourced and undifferentiated in provenance. At a cognitive level, communities that valorise keepsakes should exhibit stronger source‐memory accuracy for self‐relevant events, controlling for narrative scaffolds, and heavier use of external cues in memory justification.</p><p>The burden of proof is thus empirical. Archaeology can combine microwear/residue analysis and micro‐polish with patina stratigraphy to test whether putative keepsakes show deliberate retention of older patinated surfaces with minimal edge‐refresh and wear consistent with repeated handling/light tasks (rather than task‐optimized cutting or chopping). It can also point at more potential items as souvenirs, such as grave goods like the extraordinary handaxe deposited together with pre‐Neanderthals at the Sima de los Huesos site in Spain [<xref rid="evan70051-bib-0113" ref-type="bibr">113</xref>]; handaxes shaped around fossils or special geological phenomena [<xref rid="evan70051-bib-0033" ref-type="bibr">33</xref>]; the collection of geodes, fossils and special stones [<xref rid="evan70051-bib-0053" ref-type="bibr">53</xref>, <xref rid="evan70051-bib-0114" ref-type="bibr">114</xref>] or specific animal body parts [<xref rid="evan70051-bib-0115" ref-type="bibr">115</xref>]. Spatial statistics can then test whether these curated items are non‐randomly associated with domestic or commemorative contexts—especially hearths and recurrent occupation levels—rather than only knapping floors or raw‐material caches. Cross‐cultural work can test whether keepsakes are disproportionately used as memory verification tools in credibility‐sensitive domains amongst past and contemporary indigenous groups, as well as modern societies. Developmental studies can test whether early caregiver–child token practices increase attention to person–place–object bindings and improve later source monitoring. Agent‐based models can assess whether token‐supported memory credibility increases coalition stability and cooperation sufficiently to produce selection for parameters that enhance cue integration and monitoring. None of these tests presupposes the conclusion; they do specify how the hypothesis could be wrong.</p></sec><sec id="evan70051-sec-0080"><label>8</label><title>Implications for Anthropology and Human Evolution</title><p>If supported, the hypothesis shifts how we interpret artefact collecting beyond the purely “functional” realm in human evolutionary history. Curated pieces become not just aesthetically or symbolically significant but serve as proto‐technologies in the service of the autobiographical self. Anthropologically, this suggests that durable keepsakes could have reinforced existing senses of identity by providing material anchors for personal narratives, relationships, and obligations [<xref rid="evan70051-bib-0056" ref-type="bibr">56</xref>, <xref rid="evan70051-bib-0057" ref-type="bibr">57</xref>]. Socially, it links material culture to how credibility is earned, displayed, and assessed in small‐scale societies, where proof of one's personal past affects alliance maintenance, gift exchange, and access to places [<xref rid="evan70051-bib-0055" ref-type="bibr">55</xref>]. Evolutionarily, the hypothesis adds an autobiographical strand to existing narratives about language, symbol systems, and material engagement as drivers of cognitive change [<xref rid="evan70051-bib-0103" ref-type="bibr">103</xref>]. It frames autobiographical memory as emerging within a niche that is not only social but also technological and material. If token‐guided retrieval and source‐checking improve performance in credibility‐sensitive social tasks, then routine engagement with keepsakes could, over long timescales, select for neural mechanisms that bind episodic detail to external cues and evaluate their provenance—consistent with evidence for neural plasticity [<xref rid="evan70051-bib-0017" ref-type="bibr">17</xref>, <xref rid="evan70051-bib-0019" ref-type="bibr">19</xref>] and gene–culture dynamics. This perspective treats the broadly shared practice of personal keepsakes as an evolutionary grounded mechanism for scaffolding and narrating the autobiographical self rather than a recent cultural phenomenon [<xref rid="evan70051-bib-0055" ref-type="bibr">55</xref>, <xref rid="evan70051-bib-0057" ref-type="bibr">57</xref>, <xref rid="evan70051-bib-0116" ref-type="bibr">116</xref>].</p><p>We emphasize scope. The claim is not that keepsakes alone gave rise to the self or autobiographical memory, nor that all curated artefacts are mnemonic. We also do not deny that keepsakes can serve a social function wherever they can be observed by others; we emphasize the personal only because it assumes the least, operating without shared conventions or an audience. Rather, where and when souvenir practices became routine and normative (possibly later than the earliest examples in the archaeological record), they provided reliable material support for two functions that were already useful in social life: reminding individuals of past episodes, and making those episodes easier to validate, privately or to others, by linking them to a durable trace. By stabilizing recall and enabling source‐checking, such practices could have strengthened selection for skills in remembering events and evaluating their provenance. This is a narrow but tractable evolutionary pathway, compatible with other drivers. Jablonka [<xref rid="evan70051-bib-0099" ref-type="bibr">99</xref>] and Sutton [<xref rid="evan70051-bib-0117" ref-type="bibr">117</xref>] also examined the evolution of autobiographical memory and source monitoring, but locate the pressure in language, larger groups, and delayed‐return economies, once shared experience no longer corrected individual memory. Ours is a material driver, set off by an ecological disruption that preceded all three.</p></sec><sec id="evan70051-sec-0090"><label>9</label><title>A Call to Action</title><p>Three lines of work can advance or falsify the proposal. First, targeted reanalysis of Lower–Middle Pleistocene assemblages that already contain candidate souvenir items should include systematic tests for authentication. For example, candidate keepsake items among reworked patinated artefacts are expected to show consistent patterning, including selective retention of earlier surfaces, minimal edge reshaping that preserves biographies, and occurrence in repeatedly used sites or layers (reoccupation contexts). Second, behavioural experiments can test key predictions by measuring whether personal keepsakes improve autobiographical recall, source monitoring, and credibility in cooperation tasks (e.g., partner choice, reciprocity tracking) compared with matched controls without keepsakes. Third, longitudinal training studies can test a neurobiological prediction: learning to use keepsakes to support recall and source monitoring should induce measurable neural plasticity, analogous to the effects of tool‐use and toolmaking training [<xref rid="evan70051-bib-0017" ref-type="bibr">17</xref>, <xref rid="evan70051-bib-0019" ref-type="bibr">19</xref>]. Nowadays, there is no doubt that memory serves both individual and social purposes, and that contemporary memory tools amplify these functions. If curated keepsakes are the precursors of such tools, we should be able to see their traces both in stones and in minds.</p></sec><sec sec-type="COI-statement" id="evan70051-sec-0110"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="evan70051-sec-0100"><title>Acknowledgments</title><p>We thank Arnon Lotem for comments and discussions.</p></ack><sec sec-type="data-availability" id="evan70051-sec-0130"><title>Data Availability Statement</title><p>Data sharing not applicable to this article as no datasets were generated or analysed during the current study.</p></sec><ref-list content-type="cited-references" id="evan70051-bibl-0001"><title>References</title><ref id="evan70051-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="evan70051-cit-0001">
+<string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Key</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>de la Torre</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Wood</surname>
+</string-name>, “<article-title>Who Made the Oldowan? Reviewing African Hominin Fossils and Archaeological Sites from 3.5 Million Years Ago</article-title>,” <source>Journal of Anthropological Archaeology</source>
+<volume>79</volume> (<year>2025</year>): <elocation-id>101704</elocation-id>.</mixed-citation></ref><ref id="evan70051-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="evan70051-cit-0002">
+<string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Braun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. V.</given-names>
+<surname>Palcu Rolier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. L.</given-names>
+<surname>Advokaat</surname>
+</string-name>, et al., “<article-title>Early Oldowan Technology Thrived During Pliocene Environmental Change in the Turkana Basin, Kenya</article-title>,” <source>Nature Communications</source>
+<volume>16</volume>, no. <issue>1</issue> (<year>2025</year>): <fpage>9401</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-025-64244-x</pub-id><pub-id pub-id-type="pmcid">PMC12586688</pub-id><pub-id pub-id-type="pmid">41188262</pub-id></mixed-citation></ref><ref id="evan70051-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="evan70051-cit-0003">
+<string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Finestone</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. W.</given-names>
+<surname>Plummer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. W.</given-names>
+<surname>Ditchfield</surname>
+</string-name>, et al., “<article-title>Selective Use of Distant Stone Resources by the Earliest Oldowan Toolmakers</article-title>,” <source>Science Advances</source>
+<volume>11</volume>, no. <issue>33</issue> (<year>2025</year>): <elocation-id>eadu5838</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/sciadv.adu5838</pub-id><pub-id pub-id-type="pmcid">PMC12356259</pub-id><pub-id pub-id-type="pmid">40815642</pub-id></mixed-citation></ref><ref id="evan70051-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="evan70051-cit-0004">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Harmand</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Lewis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. S.</given-names>
+<surname>Feibel</surname>
+</string-name>, et al., “<article-title>3.3‐million‐year‐old Stone Tools From Lomekwi 3, West Turkana, Kenya</article-title>,” <source>Nature</source>
+<volume>521</volume>, no. <issue>7552</issue> (<year>2015</year>): <fpage>310</fpage>–<lpage>315</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature14464</pub-id><pub-id pub-id-type="pmid">25993961</pub-id></mixed-citation></ref><ref id="evan70051-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="evan70051-cit-0005">
+<string-name name-style="western">
+<given-names>T. W.</given-names>
+<surname>Plummer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Harmand</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Finestone</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. P.</given-names>
+<surname>Wilson</surname>
+</string-name>, “<article-title>The First Million Years of Technology: The Lomekwian and the Early Oldowan</article-title>,” <source>Annual Review of Anthropology</source>
+<volume>54</volume> (<year>2025</year>): <fpage>359</fpage>–<lpage>375</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="evan70051-cit-0006">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Malafouris</surname>
+</string-name>, “<article-title>People Are STRANGE: Towards a Philosophical Archaeology of Self</article-title>,” <source>Phenomenology and the Cognitive Sciences</source>
+<volume>24</volume> (<year>2025</year>): <fpage>685</fpage>–<lpage>711</lpage>, <pub-id pub-id-type="doi">10.1007/s11097-024-10002-1</pub-id>.<pub-id pub-id-type="pmcid">PMC12334483</pub-id><pub-id pub-id-type="pmid">40786239</pub-id></mixed-citation></ref><ref id="evan70051-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="evan70051-cit-0007">
+<string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Prebble</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Addis</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Tippett</surname>
+</string-name>, “<article-title>Autobiographical Memory and Sense of Self</article-title>,” <source>Psychological Bulletin</source>
+<volume>139</volume>, no. <issue>4</issue> (<year>2013</year>): <fpage>815</fpage>–<lpage>840</lpage>, <pub-id pub-id-type="doi">10.1037/a0030146</pub-id>.<pub-id pub-id-type="pmid">23025923</pub-id></mixed-citation></ref><ref id="evan70051-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="evan70051-cit-0008">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wynn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Overmann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Malafouris</surname>
+</string-name>, “<article-title>4E Cognition in the Lower Palaeolithic</article-title>,” <source>Adaptive Behavior</source>
+<volume>29</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>99</fpage>–<lpage>106</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="evan70051-cit-0009">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Clark</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Chalmers</surname>
+</string-name>, “<article-title>The Extended Mind</article-title>,” <source>Analysis</source>
+<volume>58</volume>, no. <issue>1</issue> (<year>1998</year>): <fpage>7</fpage>–<lpage>19</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0010"><label>10</label><mixed-citation publication-type="book" id="evan70051-cit-0010">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Sterelny</surname>
+</string-name>, “<part-title>The archaeology of the extended mind</part-title>.” in <source>Andy Clark and His Critics</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Colombo</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Irvine</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Stapleton</surname>
+</string-name>
+</person-group> (<publisher-name>Oxford University Press</publisher-name>, <year>2019</year>), <fpage>143</fpage>–<lpage>160</lpage>, <pub-id pub-id-type="doi">10.1093/oso/9780190662813.003.0012</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="evan70051-cit-0011">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>D'errico</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Meneganzin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Colagè</surname>
+</string-name>, “<article-title>Scaffolding Minds: Human Collective Intelligence Through Space, Body and Material Symbols</article-title>,” <source>Philosophical Transactions of the Royal Society of London, Series B: Biological Sciences</source>
+<volume>381</volume>, no. <issue>1948</issue> (<year>2026</year>): <elocation-id>20240448</elocation-id>, <pub-id pub-id-type="doi">10.1098/rstb.2024.0448</pub-id>.<pub-id pub-id-type="pmid">41987723</pub-id></mixed-citation></ref><ref id="evan70051-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="evan70051-cit-0012">
+<string-name name-style="western">
+<given-names>K. N.</given-names>
+<surname>Laland</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Odling‐Smee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. W.</given-names>
+<surname>Feldman</surname>
+</string-name>, “<article-title>Niche Construction, Biological Evolution, and Cultural Change</article-title>,” <source>Behavioral and Brain Sciences</source>
+<volume>23</volume>, no. <issue>1</issue> (<year>2000</year>): <fpage>131</fpage>–<lpage>146</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/s0140525x00002417</pub-id><pub-id pub-id-type="pmid">11303338</pub-id></mixed-citation></ref><ref id="evan70051-bib-0013"><label>13</label><mixed-citation publication-type="book" id="evan70051-cit-0013">
+<string-name name-style="western">
+<given-names>F. J.</given-names>
+<surname>Odling‐Smee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. N.</given-names>
+<surname>Laland</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. W.</given-names>
+<surname>Feldman</surname>
+</string-name>, <source>Niche Construction: The Neglected Process in Evolution</source> (<publisher-name>Princeton University Press</publisher-name>, <year>2003</year>).</mixed-citation></ref><ref id="evan70051-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="evan70051-cit-0014">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Boyd</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Richerson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Henrich</surname>
+</string-name>, “<article-title>The Cultural Niche: Why Social Learning Is Essential for Human Adaptation</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>108</volume>, no. <issue>Suppl 2</issue> (<year>2011</year>): <fpage>10918</fpage>–<lpage>10925</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1100290108</pub-id><pub-id pub-id-type="pmcid">PMC3131818</pub-id><pub-id pub-id-type="pmid">21690340</pub-id></mixed-citation></ref><ref id="evan70051-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="evan70051-cit-0015">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Affinito</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Eteson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. T.</given-names>
+<surname>Cáceres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. T.</given-names>
+<surname>Moos</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F. A.</given-names>
+<surname>Karakostis</surname>
+</string-name>, “<article-title>Exploring the Cognitive Underpinnings of Early Hominin Stone Tool Use Through An Experimental Eeg Approach</article-title>,” <source>Scientific Reports</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>26936</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-77452-0</pub-id><pub-id pub-id-type="pmcid">PMC11576949</pub-id><pub-id pub-id-type="pmid">39562652</pub-id></mixed-citation></ref><ref id="evan70051-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="evan70051-cit-0016">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Stout</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E. E.</given-names>
+<surname>Hecht</surname>
+</string-name>, “<article-title>Evolutionary Neuroscience of Cumulative Culture</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>114</volume>, no. <issue>30</issue> (<year>2017</year>): <fpage>7861</fpage>–<lpage>7868</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1620738114</pub-id><pub-id pub-id-type="pmcid">PMC5544267</pub-id><pub-id pub-id-type="pmid">28739892</pub-id></mixed-citation></ref><ref id="evan70051-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="evan70051-cit-0017">
+<string-name name-style="western">
+<given-names>E. E.</given-names>
+<surname>Hecht</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Gutman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Khreisheh</surname>
+</string-name>, et al., “<article-title>Acquisition of Paleolithic Toolmaking Abilities Involves Structural Remodeling to Inferior Frontoparietal Regions</article-title>,” <source>Brain Structure and Function</source>
+<volume>220</volume>, no. <issue>4</issue> (<year>2015</year>): <fpage>2315</fpage>–<lpage>2331</lpage>, <pub-id pub-id-type="doi">10.1007/s00429-014-0789-6</pub-id>.<pub-id pub-id-type="pmid">24859884</pub-id></mixed-citation></ref><ref id="evan70051-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="evan70051-cit-0018">
+<string-name name-style="western">
+<given-names>E. E.</given-names>
+<surname>Hecht</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pargeter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Khreisheh</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Stout</surname>
+</string-name>, “<article-title>Neuroplasticity Enables Bio‐Cultural Feedback in Paleolithic Stone‐Tool Making</article-title>,” <source>Scientific Reports</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>2877</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-023-29994-y</pub-id><pub-id pub-id-type="pmcid">PMC9938911</pub-id><pub-id pub-id-type="pmid">36807588</pub-id></mixed-citation></ref><ref id="evan70051-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="evan70051-cit-0019">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Quallo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Price</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Ueno</surname>
+</string-name>, et al., “<article-title>Gray and White Matter Changes Associated with Tool‐Use Learning in Macaque Monkeys</article-title>,” <source>Proceedings of the National Academy of Sciences</source>
+<volume>106</volume>, no. <issue>43</issue> (<year>2009</year>): <fpage>18379</fpage>–<lpage>18384</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0909751106</pub-id><pub-id pub-id-type="pmcid">PMC2759710</pub-id><pub-id pub-id-type="pmid">19820167</pub-id></mixed-citation></ref><ref id="evan70051-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="evan70051-cit-0020">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Iriki</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Taoka</surname>
+</string-name>, “<article-title>Triadic (Ecological, Neural, Cognitive) Niche Construction: A Scenario of Human Brain Evolution Extrapolating Tool Use and Language From the Control of Reaching Actions</article-title>,” <source>Philosophical Transactions of the Royal Society, B: Biological Sciences</source>
+<volume>367</volume>, no. <issue>1585</issue> (<year>2012</year>): <fpage>10</fpage>–<lpage>23</lpage>, <pub-id pub-id-type="doi">10.1098/rstb.2011.0190</pub-id>.<pub-id pub-id-type="pmcid">PMC3223791</pub-id><pub-id pub-id-type="pmid">22106423</pub-id></mixed-citation></ref><ref id="evan70051-bib-0021"><label>21</label><mixed-citation publication-type="book" id="evan70051-cit-0021">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lotem</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Kolodny</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Arbilly</surname>
+</string-name>, “<part-title>Gene–Culture Coevolution in the Cognitive Domain</part-title>,” in <source>Oxford Handbook of Cultural Evolution, 1st</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Tehrani</surname>
+</string-name>
+</person-group> (<publisher-name>Oxford University Press</publisher-name>, <year>2023</year>), <pub-id pub-id-type="doi">10.1093/oxfordhb/9780198869252.013.66</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="evan70051-cit-0022">
+<string-name name-style="western">
+<given-names>M. H.</given-names>
+<surname>Moncel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chiotti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Gaillard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Onoratini</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Pleurdeau</surname>
+</string-name>, “<article-title>Non‐Utilitarian Lithic Objects from the European Paleolithic</article-title>,” <source>Archaeology, Ethnology and Anthropology of Eurasia</source>
+<volume>40</volume>, no. <issue>1</issue> (<year>2012</year>): <fpage>24</fpage>–<lpage>40</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="evan70051-cit-0023">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ben‐Dor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gopher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Hershkovitz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name>, “<article-title>Man the Fat Hunter: The Demise of Homo Erectus and the Emergence of a New Hominin Lineage in the Middle Pleistocene (Ca. 400 Kyr) Levant</article-title>,” <source>PLoS One</source>
+<volume>6</volume>, no. <issue>12</issue> (<year>2011</year>): <elocation-id>e28689</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0028689</pub-id><pub-id pub-id-type="pmcid">PMC3235142</pub-id><pub-id pub-id-type="pmid">22174868</pub-id></mixed-citation></ref><ref id="evan70051-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="evan70051-cit-0024">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Finkel</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name>, “<article-title>The Acheulean Handaxe Technological Persistence: A Case of Preferred Cultural Conservatism?</article-title>,” <source>Proceedings of the Prehistoric Society</source>
+<volume>84</volume> (<year>2018</year>): <fpage>1</fpage>–<lpage>19</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="evan70051-cit-0025">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rosell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Blasco</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gopher</surname>
+</string-name>, “<article-title>Fire for a Reason: Barbecue at Middle Pleistocene Qesem Cave, Israel</article-title>,” <source>Current Anthropology</source>
+<volume>58</volume>, no. <issue>S16</issue> (<year>2017</year>): <fpage>S314</fpage>–<lpage>S328</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="evan70051-cit-0026">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Navazo Ruiz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Benito‐Calvo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Lozano‐Francisco</surname>
+</string-name>, et al., “<article-title>Were Neanderthals the First Collectors? First Evidence Recovered in Level 4 of the Prado Vargas Cave, Cornejo, Burgos and Spain</article-title>,” <source>Quaternary</source>
+<volume>7</volume>, no. <issue>4</issue> (<year>2024</year>): <elocation-id>49</elocation-id>, <pub-id pub-id-type="doi">10.3390/quat7040049</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="evan70051-cit-0027">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Peresani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vanhaeren</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Quaggiotto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Queffelec</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>d'Errico</surname>
+</string-name>, “<article-title>An Ochered Fossil Marine Shell from the Mousterian of Fumane Cave, Italy</article-title>,” <source>PLoS One</source>
+<volume>8</volume>, no. <issue>7</issue> (<year>2013</year>): <elocation-id>e68572</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0068572</pub-id>.<pub-id pub-id-type="pmcid">PMC3707824</pub-id><pub-id pub-id-type="pmid">23874677</pub-id></mixed-citation></ref><ref id="evan70051-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="evan70051-cit-0028">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Radovčić</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Japundžić</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. O.</given-names>
+<surname>Sršen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Radovčić</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Frayer</surname>
+</string-name>, “<article-title>An Interesting Rock from Krapina</article-title>,” <source>Comptes Rendus Palevol</source>
+<volume>15</volume>, no. <issue>8</issue> (<year>2016</year>): <fpage>988</fpage>–<lpage>993</lpage>, <pub-id pub-id-type="doi">10.1016/j.crpv.2016.04.013</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0029"><label>29</label><mixed-citation publication-type="book" id="evan70051-cit-0029">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>d'Errico</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Gaillard</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V. N.</given-names>
+<surname>Misra</surname>
+</string-name>, “<part-title>Collection of non‐utilitarian objects by <italic toggle="yes">Homo erectus</italic> in India</part-title>.” in <source>Hominidae: Proceedings of the 2nd International Congress of Human Paleontology</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Giacobini</surname>
+</string-name>
+</person-group> (<publisher-name>Editoriale Jaca Book</publisher-name>, <year>1989</year>), <fpage>237</fpage>–<lpage>239</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="evan70051-cit-0030">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Radovčić</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. O.</given-names>
+<surname>Sršen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Radovčić</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Frayer</surname>
+</string-name>, “<article-title>Evidence for Neandertal Jewelry: Modified White‐Tailed Eagle Claws at Krapina</article-title>,” <source>PLoS One</source>
+<volume>10</volume>, no. <issue>3</issue> (<year>2015</year>): <elocation-id>e0119802</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0119802</pub-id>.<pub-id pub-id-type="pmcid">PMC4356571</pub-id><pub-id pub-id-type="pmid">25760648</pub-id></mixed-citation></ref><ref id="evan70051-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="evan70051-cit-0031">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>d'Errico</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Mauran</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Pitarch Martí</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Majkić</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Stepanchuk</surname>
+</string-name>, “<article-title>Evidence for Symbolic Use of Ochre by Micoquian Neanderthals in Crimea</article-title>,” <source>Science Advances</source>
+<volume>11</volume>, no. <issue>44</issue> (<year>2025</year>): <elocation-id>eadx4722</elocation-id>, <pub-id pub-id-type="doi">10.1126/sciadv.adx4722</pub-id>.<pub-id pub-id-type="pmcid">PMC12571073</pub-id><pub-id pub-id-type="pmid">41160703</pub-id></mixed-citation></ref><ref id="evan70051-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="evan70051-cit-0032">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Assaf</surname>
+</string-name>, “<article-title>Paleolithic Aesthetics: Collecting Colorful Flint Pebbles at Middle Pleistocene Qesem Cave, Israel</article-title>,” <source>Journal of Lithic Studies</source>
+<volume>5</volume>, no. <issue>1</issue> (<year>2018</year>).</mixed-citation></ref><ref id="evan70051-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="evan70051-cit-0033">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Shalata</surname>
+</string-name>, “<article-title>Lower Palaeolithic Tools of Potency: Handaxes Shaped Around Fossils and Other Extraordinary Features at Sakhnin Valley, Israel Tel‐Aviv.</article-title>,” <source>Journal of the Institute of Archaeology of Tel Aviv University</source>
+<volume>53</volume>, no. <issue>1</issue> (<year>2026</year>): <fpage>3</fpage>–<lpage>33</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="evan70051-cit-0034">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Efrati</surname>
+</string-name>, “<article-title>Memory Scrapers: Readymade Concepts and Techniques as Reflected in Collecting and Recycling Patinated Lower Palaeolithic Items at Qesem Cave, Israel</article-title>,” <source>Cambridge Archaeological Journal</source>
+<volume>31</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>337</fpage>–<lpage>347</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="evan70051-cit-0035">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Efrati</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name>, “<article-title>The Magnitude of a Practice: Collection and Recycling of Patinated ‘Old’ Flint Items During the Levantine Late Lower Paleolithic</article-title>,” <source>Quaternary</source>
+<volume>7</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>58</fpage>.</mixed-citation></ref><ref id="evan70051-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="evan70051-cit-0036">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Efrati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. N.</given-names>
+<surname>Cesaro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Venditti</surname>
+</string-name>, et al., “<article-title>Function, Life Histories, and Biographies of Lower Paleolithic Patinated Flint Tools from Late Acheulian Revadim, Israel</article-title>,” <source>Scientific Reports</source>
+<volume>12</volume> (<year>2022</year>): <fpage>2885</fpage>, <pub-id pub-id-type="doi">10.1038/s41598-022-06823-2</pub-id>.<pub-id pub-id-type="pmcid">PMC8894402</pub-id><pub-id pub-id-type="pmid">35241694</pub-id></mixed-citation></ref><ref id="evan70051-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="evan70051-cit-0037">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Efrati</surname>
+</string-name>, “<article-title>Material Sense: Perceptual Experience in Stone and Mineral Selection for Tool‐Making</article-title>,” <source>Archaeologies</source>
+<volume>20</volume> (<year>2024</year>): <fpage>24</fpage>–<lpage>63</lpage>, <pub-id pub-id-type="doi">10.1007/s11759-024-09490-z</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="evan70051-cit-0038">
+<string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Knight</surname>
+</string-name>, “<article-title>Nostalgia in the Prehistoric Archaeological Record</article-title>,” <source>Current Opinion in Psychology</source>
+<volume>50</volume> (<year>2023</year>): <elocation-id>101560</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.copsyc.2023.101560</pub-id>.<pub-id pub-id-type="pmid">36868137</pub-id></mixed-citation></ref><ref id="evan70051-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="evan70051-cit-0039">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Büster</surname>
+</string-name>, “<article-title>Problematic Stuff’: Death, Memory and the Interpretation of Cached Objects</article-title>,” <source>Antiquity</source>
+<volume>95</volume>, no. <issue>382</issue> (<year>2021</year>): <fpage>973</fpage>–<lpage>985</lpage>, <pub-id pub-id-type="doi">10.15184/aqy.2021.81</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="evan70051-cit-0040">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kissel</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Fuentes</surname>
+</string-name>, “<article-title>Semiosis in the Pleistocene</article-title>,” <source>Cambridge Archaeological Journal</source>
+<volume>27</volume>, no. <issue>3</issue> (<year>2017</year>): <fpage>397</fpage>–<lpage>412</lpage>, <pub-id pub-id-type="doi">10.1017/S0959774317000014</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="evan70051-cit-0041">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nowell</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Macdonald</surname>
+</string-name>, “<article-title>Culturing the Body in the Context of the Neolithisation of the Southern Levant</article-title>,” <source>Journal of Archaeological Science: Reports</source>
+<volume>55</volume> (<year>2024</year>): <elocation-id>104478</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.jasrep.2024.104478</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="evan70051-cit-0042">
+<string-name name-style="western">
+<given-names>K. T.</given-names>
+<surname>Lillios</surname>
+</string-name>, “<article-title>Objects of Memory: The Ethnography and Archaeology of Heirlooms</article-title>,” <source>Journal of Archaeological Method and Theory</source>
+<volume>6</volume>, no. <issue>3</issue> (<year>1999</year>): <fpage>235</fpage>–<lpage>262</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="evan70051-cit-0043">
+<string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Booth</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Brück</surname>
+</string-name>, “<article-title>Death Is Not the End: Radiocarbon and Histo‐Taphonomic Evidence for the Curation and Excarnation of Human Remains in Bronze Age Britain</article-title>,” <source>Antiquity</source>
+<volume>94</volume>, no. <issue>377</issue> (<year>2020</year>): <fpage>1186</fpage>–<lpage>1203</lpage>, <pub-id pub-id-type="doi">10.15184/aqy.2020.152</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="evan70051-cit-0044">
+<string-name name-style="western">
+<given-names>T. R.</given-names>
+<surname>Whyte</surname>
+</string-name>, “<article-title>Gifts of the Ancestors: Secondary Lithic Recycling in Appalachian Summit Prehistory</article-title>,” <source>American Antiquity</source>
+<volume>79</volume> (<year>2014</year>): <fpage>679</fpage>–<lpage>696</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="evan70051-cit-0045">
+<string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Machado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Tschucambang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Fonseca</surname>
+</string-name>, “<article-title>Stones, Clay and People Among the Laklãnõ Xokleng Indigenous People in Southern Brazil</article-title>,” <source>Archaeologies</source>
+<volume>16</volume>, no. <issue>3</issue> (<year>2020</year>): <fpage>460</fpage>–<lpage>491</lpage>, <pub-id pub-id-type="doi">10.1007/s11759-020-09405-8</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="evan70051-cit-0046">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Reimer</surname>
+</string-name>, “<article-title>The Social Importance of Volcanic Peaks for the Indigenous Peoples of British Columbia</article-title>,” <source>J. Northwest Anthropology</source>
+<volume>52</volume> (<year>2018</year>): <fpage>4</fpage>–<lpage>35</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="evan70051-cit-0047">
+<string-name name-style="western">
+<given-names>C. W.</given-names>
+<surname>Helm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Benoit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mayor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. C.</given-names>
+<surname>Cawthra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Penn‐Clarke</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rust</surname>
+</string-name>, “<article-title>Interest in Geological and Palaeontological Curiosities by Southern African Non‐Western Societies: A Review and Perspectives for Future Study</article-title>,” <source>Proceedings of the Geologists' Association</source>
+<volume>130</volume>, no. <issue>5</issue> (<year>2019</year>): <fpage>541</fpage>–<lpage>558</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="evan70051-cit-0048">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Marschall</surname>
+</string-name>, “<article-title>Memory Objects': Material Objects and Memories of Home in the Context of Intra‐African Mobility</article-title>,” <source>Journal of Material Culture</source>
+<volume>24</volume>, no. <issue>3</issue> (<year>2019</year>): <fpage>253</fpage>–<lpage>269</lpage>, <pub-id pub-id-type="doi">10.1177/1359183519832630</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="evan70051-cit-0049">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Dembitzer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ben‐Dor</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Meiri</surname>
+</string-name>, “<article-title>Levantine Overkill: 1.5 Million Years of Hunting down the Body Size Distribution</article-title>,” <source>Quaternary Science Reviews</source>
+<volume>276</volume> (<year>2022</year>): <elocation-id>107316</elocation-id>.</mixed-citation></ref><ref id="evan70051-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="evan70051-cit-0050">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ben‐Dor</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name>, “<article-title>Prey Size Decline as a Unifying Ecological Selecting Agent in Pleistocene Human Evolution</article-title>,” <source>Quaternary</source>
+<volume>4</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>7</fpage>.</mixed-citation></ref><ref id="evan70051-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="evan70051-cit-0051">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Litov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ben‐Dor</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name>, “<article-title>The Heavy Connection: Decline in Heavy‐Duty Tools Correlates with Megaherbivore Disappearance in the Paleolithic Levant</article-title>,” <source>Quaternary Science Reviews</source>
+<volume>377</volume> (<year>2026</year>): <elocation-id>109872</elocation-id>.</mixed-citation></ref><ref id="evan70051-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="evan70051-cit-0052">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Halfon</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name>, “<article-title>The Material and Mental Effects of Animal Disappearance on Indigenous Hunter‐Gatherers, Past and Present</article-title>,” <source>Time and Mind</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2020</year>): <fpage>5</fpage>–<lpage>33</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="evan70051-cit-0053">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Assaf</surname>
+</string-name> and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Romagnoli</surname>
+</string-name>, “<article-title>Beyond Tools and Function: The Selection of Materials and the Ontology of Hunter‐Gatherers. Ethnographic Evidences and Implications for Palaeolithic Archaeology</article-title>,” <source>Cambridge Archaeological Journal</source>
+<volume>31</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>281</fpage>–<lpage>291</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="evan70051-cit-0054">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Rivals</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Blasco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rosell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Efrati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gopher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Barkai</surname>
+</string-name>, “<article-title>Seasonality, Duration of the Hominin Occupations and Hunting Grounds at Middle Pleistocene Qesem Cave (Israel)</article-title>,” <source>Archaeological and Anthropological Sciences</source>
+<volume>13</volume>, no. <issue>11</issue> (<year>2021</year>): <fpage>205</fpage>.</mixed-citation></ref><ref id="evan70051-bib-0055"><label>55</label><mixed-citation publication-type="book" id="evan70051-cit-0055">
+<string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Weiner</surname>
+</string-name>, <source>Inalienable Possessions: The Paradox of Keeping‐While‐Giving</source> (<publisher-name>University of California Press</publisher-name>, <year>1992</year>).</mixed-citation></ref><ref id="evan70051-bib-0056"><label>56</label><mixed-citation publication-type="book" id="evan70051-cit-0056">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hoskins</surname>
+</string-name>, <source>Biographical Objects: How Things Tell the Stories of People's Lives</source> (<publisher-name>Routledge</publisher-name>, <year>1998</year>).</mixed-citation></ref><ref id="evan70051-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="evan70051-cit-0057">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Santos‐Granero</surname>
+</string-name>, “<article-title>Affectual Objects: Hybrid Notions of Materiality in the Western Lived World</article-title>,” <source>Journal of Anthropological Research</source>
+<volume>79</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>228</fpage>–<lpage>251</lpage>, <pub-id pub-id-type="doi">10.1086/724462</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="evan70051-cit-0058">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Heersmink</surname>
+</string-name>, “<article-title>The Narrative Self, Distributed Memory, and Evocative Objects</article-title>,” <source>Philosophical Studies</source>
+<volume>175</volume>, no. <issue>8</issue> (<year>2018</year>): <fpage>1829</fpage>–<lpage>1849</lpage>, <pub-id pub-id-type="doi">10.1007/s11098-017-0935-0</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="evan70051-cit-0059">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Heersmink</surname>
+</string-name>, “<article-title>Extended Mind and Artifactual Autobiographical Memory</article-title>,” <source>Mind &amp; Language</source>
+<volume>35</volume>, no. <issue>1</issue> (<year>2020a</year>): <fpage>1</fpage>–<lpage>15</lpage>, <pub-id pub-id-type="doi">10.1111/mila.12353</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="evan70051-cit-0060">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Heersmink</surname>
+</string-name>, “<article-title>Narrative Niche Construction: Memory Ecologies and Distributed Narrative Identities</article-title>,” <source>Biology &amp; Philosophy</source>
+<volume>35</volume> (<year>2020b</year>): <fpage>53</fpage>, <pub-id pub-id-type="doi">10.1007/s10539-020-09770-2</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="evan70051-cit-0061">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Tulving</surname>
+</string-name>, “<article-title>Episodic Memory: From Mind to Brain</article-title>,” <source>Annual Review of Psychology</source>
+<volume>53</volume>, no. <issue>1</issue> (<year>2002</year>): <fpage>1</fpage>–<lpage>25</lpage>, <pub-id pub-id-type="doi">10.1146/annurev.psych.53.100901.135114</pub-id>.<pub-id pub-id-type="pmid">11752477</pub-id></mixed-citation></ref><ref id="evan70051-bib-0062"><label>62</label><mixed-citation publication-type="book" id="evan70051-cit-0062">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Michaelian</surname>
+</string-name>, <source>Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past</source> (<publisher-name>MIT Press</publisher-name>, <year>2016</year>), <pub-id pub-id-type="doi">10.7551/mitpress/10591.001.0001</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0063"><label>63</label><mixed-citation publication-type="book" id="evan70051-cit-0063">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ricoeur</surname>
+</string-name>, <source>Memory, History, Forgetting</source> (<publisher-name>University of Chicago Press</publisher-name>, <year>2004</year>).</mixed-citation></ref><ref id="evan70051-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="evan70051-cit-0064">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Harries</surname>
+</string-name>, “<article-title>A Stone That Feels Right in the Hand: Tactile Memory, the Abduction of Agency and Presence of the Past</article-title>,” <source>Journal of Material Culture</source>
+<volume>22</volume>, no. <issue>1</issue> (<year>2017</year>): <fpage>110</fpage>–<lpage>130</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="evan70051-cit-0065">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Hayden</surname>
+</string-name> and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Villeneuve</surname>
+</string-name>, “<article-title>Astronomy in the Upper Palaeolithic?</article-title>,” <source>Cambridge Archaeological Journal</source>
+<volume>21</volume>, no. <issue>3</issue> (<year>2011</year>): <fpage>331</fpage>–<lpage>355</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="evan70051-cit-0066">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>García‐Diez</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vaquero</surname>
+</string-name>, “<article-title>Looking at the Camp: Paleolithic Depiction of a Hunter‐Gatherer Campsite</article-title>,” <source>PLoS One</source>
+<volume>10</volume> (<year>2015</year>): <elocation-id>e0143002</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0143002</pub-id><pub-id pub-id-type="pmcid">PMC4668041</pub-id><pub-id pub-id-type="pmid">26629824</pub-id></mixed-citation></ref><ref id="evan70051-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="evan70051-cit-0067">
+<string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Norman</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>O'Reilly</surname>
+</string-name>, “<article-title>Modeling Hippocampal and Neocortical Contributions to Recognition Memory: A Complementary‐Learning‐Systems Approach</article-title>,” <source>Psychological Review</source>
+<volume>110</volume>, no. <issue>4</issue> (<year>2003</year>): <fpage>611</fpage>–<lpage>646</lpage>, <pub-id pub-id-type="doi">10.1037/0033-295X.110.4.611</pub-id>.<pub-id pub-id-type="pmid">14599236</pub-id></mixed-citation></ref><ref id="evan70051-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="evan70051-cit-0068">
+<string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hashtroudi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Lindsay</surname>
+</string-name>, “<article-title>Source Monitoring</article-title>,” <source>Psychological Bulletin</source>
+<volume>114</volume>, no. <issue>1</issue> (<year>1993</year>): <fpage>3</fpage>–<lpage>28</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1037/0033-2909.114.1.3</pub-id><pub-id pub-id-type="pmid">8346328</pub-id></mixed-citation></ref><ref id="evan70051-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="evan70051-cit-0069">
+<string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Mahr</surname>
+</string-name> and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Csibra</surname>
+</string-name>, “<article-title>Why Do We Remember? The Communicative Function of Episodic Memory</article-title>,” <source>Behavioral and Brain Sciences</source>
+<volume>41</volume> (<year>2018</year>): <elocation-id>e1</elocation-id>, <pub-id pub-id-type="doi">10.1017/S0140525X17000012</pub-id>.<pub-id pub-id-type="pmcid">PMC5404722</pub-id><pub-id pub-id-type="pmid">28100294</pub-id></mixed-citation></ref><ref id="evan70051-bib-0070"><label>70</label><mixed-citation publication-type="book" id="evan70051-cit-0070">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sutton</surname>
+</string-name>, “<part-title>Shared Remembering and Distributed Affect: Varieties of Psychological Interdependence</part-title>.” in <source>New Directions in the Philosophy of Memory</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Michaelian</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Debus</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Perrin</surname>
+</string-name>
+</person-group> (<publisher-name>Routledge</publisher-name>, <year>2018</year>), <fpage>181</fpage>–<lpage>199</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="evan70051-cit-0071">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Colombetti</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Krueger</surname>
+</string-name>, “<article-title>Scaffoldings of the Affective Mind</article-title>,” <source>Philosophical Psychology</source>
+<volume>28</volume>, no. <issue>8</issue> (<year>2015</year>): <fpage>1157</fpage>–<lpage>1176</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="evan70051-cit-0072">
+<string-name name-style="western">
+<given-names>T. V.</given-names>
+<surname>Shephard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E. G.</given-names>
+<surname>Lea</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Hempel De Ibarra</surname>
+</string-name>, “<article-title>The Thieving Magpie'? No Evidence for Attraction to Shiny Objects</article-title>,” <source>Animal Cognition</source>
+<volume>18</volume>, no. <issue>1</issue> (<year>2015</year>): <fpage>393</fpage>–<lpage>397</lpage>, <pub-id pub-id-type="doi">10.1007/s10071-014-0794-4</pub-id>.<pub-id pub-id-type="pmid">25123853</pub-id></mixed-citation></ref><ref id="evan70051-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="evan70051-cit-0073">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Bugnyar</surname>
+</string-name> and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Heinrich</surname>
+</string-name>, “<article-title>Ravens (<italic toggle="yes">Corvus corax</italic>) Differentiate Between Knowledgeable and Ignorant Competitors</article-title>,” <source>Proceedings of the Royal Society B: Biological Sciences</source>
+<volume>272</volume> (<year>2005</year>): <fpage>1641</fpage>–<lpage>1646</lpage>, <pub-id pub-id-type="doi">10.1098/rspb.2005.3144</pub-id>.<pub-id pub-id-type="pmcid">PMC1559847</pub-id><pub-id pub-id-type="pmid">16087417</pub-id></mixed-citation></ref><ref id="evan70051-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="evan70051-cit-0074">
+<string-name name-style="western">
+<given-names>N. J.</given-names>
+<surname>Emery</surname>
+</string-name> and <string-name name-style="western">
+<given-names>N. S.</given-names>
+<surname>Clayton</surname>
+</string-name>, “<article-title>Effects of Experience and Social Context on Prospective Caching Strategies by Scrub‐Jays</article-title>,” <source>Nature</source>
+<volume>414</volume> (<year>2001</year>): <fpage>443</fpage>–<lpage>446</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/35106560</pub-id><pub-id pub-id-type="pmid">11719804</pub-id></mixed-citation></ref><ref id="evan70051-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="evan70051-cit-0075">
+<string-name name-style="western">
+<given-names>B. C.</given-names>
+<surname>Klump</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E. M.</given-names>
+<surname>van der Wal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. J. H.</given-names>
+<surname>St Clair</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Rutz</surname>
+</string-name>, “<article-title>Context‐Dependent “Safekeeping” of Foraging Tools in New Caledonian Crows</article-title>,” <source>Proceedings of the Royal Society B: Biological Sciences</source>
+<volume>282</volume> (<year>2015</year>): <elocation-id>20150278</elocation-id>, <pub-id pub-id-type="doi">10.1098/rspb.2015.0278</pub-id>.<pub-id pub-id-type="pmcid">PMC4455803</pub-id><pub-id pub-id-type="pmid">25994674</pub-id></mixed-citation></ref><ref id="evan70051-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="evan70051-cit-0076">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Borgia</surname>
+</string-name>, “<article-title>Bower Quality, Number of Decorations and Mating Success of Male Satin Bowerbirds (Ptilonorhynchus Violaceus): An Experimental Analysis</article-title>,” <source>Animal Behaviour</source>
+<volume>33</volume> (<year>1985</year>): <fpage>266</fpage>–<lpage>271</lpage>, <pub-id pub-id-type="doi">10.1016/S0003-3472(85)80140-8</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0077"><label>77</label><mixed-citation publication-type="book" id="evan70051-cit-0077">
+<string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Vander Wall</surname>
+</string-name>, <source>Food Hoarding in Animals</source> (<publisher-name>University of Chicago Press</publisher-name>, <year>1990</year>).</mixed-citation></ref><ref id="evan70051-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="evan70051-cit-0078">
+<string-name name-style="western">
+<given-names>K. A. T.</given-names>
+<surname>Loyd</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Hernandez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Carroll</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. J.</given-names>
+<surname>Abernathy</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Marshall</surname>
+</string-name>, “<article-title>Quantifying Free‐Roaming Domestic Cat Predation Using Animal‐Borne Video Cameras</article-title>,” <source>Biological Conservation</source>
+<volume>160</volume> (<year>2013</year>): <fpage>183</fpage>–<lpage>189</lpage>, <pub-id pub-id-type="doi">10.1016/j.biocon.2013.01.008</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0079"><label>79</label><mixed-citation publication-type="book" id="evan70051-cit-0079">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Betancourt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. R.</given-names>
+<surname>Van Devender</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. S.</given-names>
+<surname>Martin</surname>
+</string-name>, <source>Packrat Middens: The Last 40,000 Years of Biotic Change</source> (<publisher-name>University of Arizona Press</publisher-name>, <year>1990</year>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.250.4983.1021-a</pub-id><pub-id pub-id-type="pmid">17746928</pub-id></mixed-citation></ref><ref id="evan70051-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="evan70051-cit-0080">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Borel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ajzenherc</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. H.</given-names>
+<surname>Moncel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Saint Jalme</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Krief</surname>
+</string-name>, “<article-title>Do Orangutans Share Early Human Interest in Odd Objects?</article-title>,” <source>Current Anthropology</source>
+<volume>57</volume>, no. <issue>6</issue> (<year>2016</year>): <fpage>828</fpage>–<lpage>837</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="evan70051-cit-0081">
+<string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>García‐Ruiz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>De La Rosa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Delval</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bustelo</surname>
+</string-name>, “<article-title>On the Origin of Our Fascination with Crystals</article-title>,” <source>Frontiers in Psychology</source>
+<volume>17</volume> (<year>2026</year>): <elocation-id>1633599</elocation-id>, <pub-id pub-id-type="doi">10.3389/fpsyg.2026.1633599</pub-id>.<pub-id pub-id-type="pmcid">PMC12995665</pub-id><pub-id pub-id-type="pmid">41858451</pub-id></mixed-citation></ref><ref id="evan70051-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="evan70051-cit-0082">
+<string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Leca</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Gunst</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Huffman</surname>
+</string-name>, “<article-title>Indirect Social Influence in the Maintenance of the Stone‐Handling Tradition in Japanese Macaques <italic toggle="yes">Macaca fuscata</italic>
+</article-title>,” <source>Animal Behaviour</source>
+<volume>79</volume> (<year>2010</year>): <fpage>117</fpage>–<lpage>126</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="evan70051-cit-0083">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Daviddi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Yaya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sperduti</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Santangelo</surname>
+</string-name>, “<article-title>A Systematic Review and Meta‐Analysis of the Neural Correlates of Direct Vs. Generative Retrieval of Episodic Autobiographical Memory</article-title>,” <source>Neuropsychology Review</source>
+<volume>35</volume> (<year>2025</year>): <fpage>710</fpage>–<lpage>730</lpage>, <pub-id pub-id-type="doi">10.1007/s11065-024-09653-3</pub-id>.<pub-id pub-id-type="pmid">39653872</pub-id></mixed-citation></ref><ref id="evan70051-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="evan70051-cit-0084">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Renoult</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Irish</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Moscovitch</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Rugg</surname>
+</string-name>, “<article-title>From Knowing to Remembering: The Semantic–Episodic Distinction</article-title>,” <source>Trends in Cognitive Sciences</source>
+<volume>23</volume>, no. <issue>12</issue> (<year>2019</year>): <fpage>1041</fpage>–<lpage>1057</lpage>, <pub-id pub-id-type="doi">10.1016/j.tics.2019.09.008</pub-id>.<pub-id pub-id-type="pmid">31672430</pub-id></mixed-citation></ref><ref id="evan70051-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="evan70051-cit-0085">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shepardson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Dahlgren</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hamann</surname>
+</string-name>, “<article-title>Neural Correlates of Autobiographical Memory Retrieval: An SDM Neuroimaging Meta‐Analysis</article-title>,” <source>Cortex</source>
+<volume>166</volume> (<year>2023</year>): <fpage>59</fpage>–<lpage>79</lpage>, <pub-id pub-id-type="doi">10.1016/j.cortex.2023.05.006</pub-id>.<pub-id pub-id-type="pmid">37315358</pub-id></mixed-citation></ref><ref id="evan70051-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="evan70051-cit-0086">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Svoboda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>McKinnon</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Levine</surname>
+</string-name>, “<article-title>The Functional Neuroanatomy of Autobiographical Memory: A Meta‐Analysis</article-title>,” <source>Neuropsychologia</source>
+<volume>44</volume>, no. <issue>12</issue> (<year>2006</year>): <fpage>2189</fpage>–<lpage>2208</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuropsychologia.2006.05.023</pub-id><pub-id pub-id-type="pmcid">PMC1995661</pub-id><pub-id pub-id-type="pmid">16806314</pub-id></mixed-citation></ref><ref id="evan70051-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="evan70051-cit-0087">
+<string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Rugg</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Vilberg</surname>
+</string-name>, “<article-title>Brain Networks Underlying Episodic Memory Retrieval</article-title>,” <source>Current Opinion in Neurobiology</source>
+<volume>23</volume>, no. <issue>2</issue> (<year>2013</year>): <fpage>255</fpage>–<lpage>260</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.conb.2012.11.005</pub-id><pub-id pub-id-type="pmcid">PMC3594562</pub-id><pub-id pub-id-type="pmid">23206590</pub-id></mixed-citation></ref><ref id="evan70051-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="evan70051-cit-0088">
+<string-name name-style="western">
+<given-names>K. J.</given-names>
+<surname>Mitchell</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Johnson</surname>
+</string-name>, “<article-title>Source Monitoring 15 Years Later: What have We Learned from fMRI About the Neural Mechanisms of Source Memory?</article-title>,” <source>Psychology of Learning and Motivation</source>
+<volume>51</volume> (<year>2009</year>): <fpage>15</fpage>–<lpage>54</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1037/a0015849</pub-id><pub-id pub-id-type="pmcid">PMC2859897</pub-id><pub-id pub-id-type="pmid">19586165</pub-id></mixed-citation></ref><ref id="evan70051-bib-0089"><label>89</label><mixed-citation publication-type="book" id="evan70051-cit-0089">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Habermas</surname>
+</string-name> and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Paha</surname>
+</string-name>, “<part-title>Souvenirs and Other Personal Objects: Reminding of Past Events and Significant Others in the Transition to University</part-title>.” in <source>Critical Advances in Reminiscence Work: From Theory to Application</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Webster</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>B. K.</given-names>
+<surname>Haight</surname>
+</string-name>
+</person-group>. (<publisher-name>Springer</publisher-name>, <year>2002</year>), <fpage>123</fpage>–<lpage>138</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="evan70051-cit-0090">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, “<article-title>The Cultural Foundation of Human Memory</article-title>,” <source>Annual Review of Psychology</source>
+<volume>72</volume> (<year>2021</year>): <fpage>151</fpage>–<lpage>179</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-psych-070920-023638</pub-id><pub-id pub-id-type="pmid">32928062</pub-id></mixed-citation></ref><ref id="evan70051-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="evan70051-cit-0091">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Fivush</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Nelson</surname>
+</string-name>, “<article-title>Culture and Language in the Emergence of Autobiographical Memory</article-title>,” <source>Psychological Science</source>
+<volume>15</volume>, no. <issue>9</issue> (<year>2004</year>): <fpage>573</fpage>–<lpage>577</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.0956-7976.2004.00722.x</pub-id><pub-id pub-id-type="pmid">15327626</pub-id></mixed-citation></ref><ref id="evan70051-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="evan70051-cit-0092">
+<string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Simons</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Garrison</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Johnson</surname>
+</string-name>, “<article-title>Brain Mechanisms of Reality Monitoring</article-title>,” <source>Trends in Cognitive Sciences</source>
+<volume>21</volume>, no. <issue>6</issue> (<year>2017</year>): <fpage>462</fpage>–<lpage>473</lpage>, <pub-id pub-id-type="doi">10.1016/j.tics.2017.03.012</pub-id>.<pub-id pub-id-type="pmid">28462815</pub-id></mixed-citation></ref><ref id="evan70051-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="evan70051-cit-0093">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Buda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Fornito</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. M.</given-names>
+<surname>Bergström</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Simons</surname>
+</string-name>, “<article-title>A Specific Brain Structural Basis for Individual Differences in Reality Monitoring</article-title>,” <source>The Journal of neuroscience</source>
+<volume>31</volume>, no. <issue>40</issue> (<year>2011</year>): <fpage>14308</fpage>–<lpage>14313</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.3595-11.2011</pub-id><pub-id pub-id-type="pmcid">PMC3190297</pub-id><pub-id pub-id-type="pmid">21976516</pub-id></mixed-citation></ref><ref id="evan70051-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="evan70051-cit-0094">
+<string-name name-style="western">
+<given-names>E. F.</given-names>
+<surname>Risko</surname>
+</string-name> and <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Gilbert</surname>
+</string-name>, “<article-title>Cognitive Offloading</article-title>,” <source>Trends in Cognitive Sciences</source>
+<volume>20</volume>, no. <issue>9</issue> (<year>2016</year>): <fpage>676</fpage>–<lpage>688</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tics.2016.07.002</pub-id><pub-id pub-id-type="pmid">27542527</pub-id></mixed-citation></ref><ref id="evan70051-bib-0095"><label>95</label><mixed-citation publication-type="journal" id="evan70051-cit-0095">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Papassotiropoulos</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D. J.‐F.</given-names>
+<surname>de Quervain</surname>
+</string-name>, “<article-title>Genetics of Human Episodic Memory: Dealing With Complexity</article-title>,” <source>Trends in Cognitive Sciences</source>
+<volume>15</volume>, no. <issue>9</issue> (<year>2011</year>): <fpage>381</fpage>–<lpage>387</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tics.2011.07.005</pub-id><pub-id pub-id-type="pmid">21835680</pub-id></mixed-citation></ref><ref id="evan70051-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="evan70051-cit-0096">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Buchner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Mehl</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Musch</surname>
+</string-name>, “<article-title>No Enhanced Recognition Memory, but Better Source Memory for Faces of Cheaters</article-title>,” <source>Evolution and Human Behavior</source>
+<volume>30</volume>, no. <issue>3</issue> (<year>2009</year>): <fpage>212</fpage>–<lpage>224</lpage>, <pub-id pub-id-type="doi">10.1016/j.evolhumbehav.2009.01.004</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="evan70051-cit-0097">
+<string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Schaper</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mieth</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bell</surname>
+</string-name>, “<article-title>Adaptive Memory: Source Memory is Positively Associated with Adaptive Social Decision Making</article-title>,” <source>Cognition</source>
+<volume>186</volume> (<year>2019</year>): <fpage>7</fpage>–<lpage>14</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cognition.2019.01.014</pub-id><pub-id pub-id-type="pmid">30711769</pub-id></mixed-citation></ref><ref id="evan70051-bib-0098"><label>98</label><mixed-citation publication-type="journal" id="evan70051-cit-0098">
+<string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Stevens</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Volstorf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Schooler</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rieskamp</surname>
+</string-name>, “<article-title>Forgetting Constrains the Emergence of Cooperative Decision Strategies</article-title>,” <source>Frontiers in Psychology</source>
+<volume>1</volume> (<year>2011</year>): <fpage>235</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fpsyg.2010.00235</pub-id><pub-id pub-id-type="pmcid">PMC3153839</pub-id><pub-id pub-id-type="pmid">21833289</pub-id></mixed-citation></ref><ref id="evan70051-bib-0099"><label>99</label><mixed-citation publication-type="journal" id="evan70051-cit-0099">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Jablonka</surname>
+</string-name>, “<article-title>Collective Narratives, False Memories, and the Origins of Autobiographical Memory</article-title>,” <source>Biology &amp; Philosophy</source>
+<volume>32</volume> (<year>2017</year>): <fpage>839</fpage>–<lpage>853</lpage>, <pub-id pub-id-type="doi">10.1007/s10539-017-9593-z</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0100"><label>100</label><mixed-citation publication-type="journal" id="evan70051-cit-0100">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Heyes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Chater</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Dwyer</surname>
+</string-name>, “<article-title>Sinking in: The Peripheral Baldwinisation of Human Cognition</article-title>,” <source>Trends in Cognitive Sciences</source>
+<volume>24</volume>, no. <issue>11</issue> (<year>2020</year>): <fpage>884</fpage>–<lpage>899</lpage>, <pub-id pub-id-type="doi">10.1016/j.tics.2020.08.006</pub-id>.<pub-id pub-id-type="pmid">32981845</pub-id></mixed-citation></ref><ref id="evan70051-bib-0101"><label>101</label><mixed-citation publication-type="book" id="evan70051-cit-0101">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Donald</surname>
+</string-name>, <source>Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition</source> (<publisher-name>Harvard University Press</publisher-name>, <year>1991</year>).</mixed-citation></ref><ref id="evan70051-bib-0102"><label>102</label><mixed-citation publication-type="book" id="evan70051-cit-0102">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sutton</surname>
+</string-name>, “<part-title>Exograms and Interdisciplinarity: History, The Extended Mind, and the Civilizing Process</part-title>.” in <source>The Extended Mind</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>In. R.</given-names>
+<surname>Menary</surname>
+</string-name>
+</person-group> (<publisher-name>MIT Press</publisher-name>, <year>2010</year>), <fpage>189</fpage>–<lpage>225</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0103"><label>103</label><mixed-citation publication-type="book" id="evan70051-cit-0103">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Malafouris</surname>
+</string-name>, <source>How Things Shape the Mind: A Theory of Material Engagement</source> (<publisher-name>MIT Press</publisher-name>, <year>2013</year>).</mixed-citation></ref><ref id="evan70051-bib-0104"><label>104</label><mixed-citation publication-type="journal" id="evan70051-cit-0104">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Prezioso</surname>
+</string-name> and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Alessandroni</surname>
+</string-name>, “<article-title>Enacting Memories Through and With Things: Remembering as Material Engagement</article-title>,” <source>Memory Studies</source>
+<volume>16</volume>, no. <issue>4</issue> (<year>2023</year>): <fpage>962</fpage>–<lpage>983</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0105"><label>105</label><mixed-citation publication-type="journal" id="evan70051-cit-0105">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Boyd</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Richerson</surname>
+</string-name>, “<article-title>Why Does Culture Increase Human Adaptability?</article-title>,” <source>Ethology and Sociobiology</source>
+<volume>16</volume>, no. <issue>2</issue> (<year>1995</year>): <fpage>125</fpage>–<lpage>143</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0106"><label>106</label><mixed-citation publication-type="book" id="evan70051-cit-0106">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Sterelny</surname>
+</string-name>, <source>The Evolved Apprentice: How Evolution Made Humans Unique</source> (<publisher-name>MIT Press</publisher-name>, <year>2012</year>).</mixed-citation></ref><ref id="evan70051-bib-0107"><label>107</label><mixed-citation publication-type="book" id="evan70051-cit-0107">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Kelly</surname>
+</string-name>, <source>Knowledge and Power in Prehistoric Societies: Orality, Memory, and the Transmission of Culture</source> (<publisher-name>Cambridge University Press</publisher-name>, <year>2015</year>).</mixed-citation></ref><ref id="evan70051-bib-0108"><label>108</label><mixed-citation publication-type="journal" id="evan70051-cit-0108">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Shimelmitz</surname>
+</string-name>, “<article-title>The Recycling of Flint Throughout the Lower and Middle Paleolithic Sequence of Tabun Cave, Israel</article-title>,” <source>Quaternary International</source>
+<volume>361</volume>, no. <issue>2015</issue> (<year>2015</year>): <fpage>34</fpage>–<lpage>45</lpage>, <pub-id pub-id-type="doi">10.1016/j.quaint.2014.08.033</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0109"><label>109</label><mixed-citation publication-type="book" id="evan70051-cit-0109">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Brumm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pope</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Leroyer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Emery</surname>
+</string-name>, “<part-title>Hominin Evolution and Stone Tool Scavenging and Reuse in the Lower Paleolithic</part-title>.” in <source>Squeezing Minds from Stones: Cognitive Archaeology and the Evolution of the Human Mind</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Overmann</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>F. L.</given-names>
+<surname>Coolidge</surname>
+</string-name>
+</person-group> (<publisher-name>Oxford University Press</publisher-name>, <year>2019</year>), <fpage>149</fpage>–<lpage>178</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0110"><label>110</label><mixed-citation publication-type="journal" id="evan70051-cit-0110">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jagher</surname>
+</string-name>, “<article-title>Nadaouiyeh Aïn Askar, an Example of Upper Acheulean Variability in The Levant</article-title>,” <source>Quaternary International</source>
+<volume>411</volume> (<year>2016</year>): <fpage>44</fpage>–<lpage>58</lpage>, <pub-id pub-id-type="doi">10.1016/j.quaint.2016.02.006</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0111"><label>111</label><mixed-citation publication-type="journal" id="evan70051-cit-0111">
+<string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Ota</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Srivastava</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Pandey</surname>
+</string-name>, “<article-title>An Early Case of Lithic Recycling In India: Evidence from the Acheulian Site at Damdongri, Madhya Pradesh</article-title>,” <source>Current Science</source>
+<volume>118</volume>, no. <issue>1</issue> (<year>2020</year>): <elocation-id>132</elocation-id>, <pub-id pub-id-type="doi">10.18520/cs/v118/i1/123-132</pub-id>.</mixed-citation></ref><ref id="evan70051-bib-0112"><label>112</label><mixed-citation publication-type="book" id="evan70051-cit-0112">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pope</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Roberts</surname>
+</string-name>, “<part-title>Observations on the Relationship Between Palaeolithic Individuals and Artefact Scatters at the Middle Pleistocene Site of Boxgrove, UK</part-title>.” in <source>The Hominid Individual in Context: Archaeological Investigations of Lower and Middle Palaeolithic Landscapes, Locales and Artefacts</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Gamble</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Porr</surname>
+</string-name>
+</person-group> (<publisher-name>Routledge</publisher-name>, <year>2005</year>), <fpage>98</fpage>–<lpage>113</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0113"><label>113</label><mixed-citation publication-type="journal" id="evan70051-cit-0113">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Carbonell</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mosquera</surname>
+</string-name>, “<article-title>The Emergence of a Symbolic Behaviour: The Sepulchral Pit of Sima De Los Huesos, Sierra De Atapuerca, Burgos, Spain</article-title>,” <source>Comptes Rendus Palevol</source>
+<volume>5</volume>, no. <issue>1–2</issue> (<year>2006</year>): <fpage>155</fpage>–<lpage>160</lpage>.</mixed-citation></ref><ref id="evan70051-bib-0114"><label>114</label><mixed-citation publication-type="journal" id="evan70051-cit-0114">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Álvarez‐Alonso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>de Andrés‐Herrero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Díez‐Herrero</surname>
+</string-name>, et al., “<article-title>More Than a Fingerprint on a Pebble: A Pigment‐Marked Object from San Lázaro Rock‐Shelter in the Context of Neanderthal Symbolic Behavior</article-title>,” <source>Archaeological and Anthropological Sciences</source>
+<volume>17</volume>, no. <issue>6</issue> (<year>2025</year>): <fpage>131</fpage>.</mixed-citation></ref><ref id="evan70051-bib-0115"><label>115</label><mixed-citation publication-type="journal" id="evan70051-cit-0115">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Baquedano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Arsuaga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Pérez‐González</surname>
+</string-name>, et al., “<article-title>A Symbolic Neanderthal Accumulation of Large Herbivore Crania</article-title>,” <source>Nature Human Behaviour</source>
+<volume>7</volume> (<year>2023</year>): <fpage>342</fpage>–<lpage>352</lpage>, <pub-id pub-id-type="doi">10.1038/s41562-022-01503-7</pub-id>.<pub-id pub-id-type="pmcid">PMC10038806</pub-id><pub-id pub-id-type="pmid">36702939</pub-id></mixed-citation></ref><ref id="evan70051-bib-0116"><label>116</label><mixed-citation publication-type="journal" id="evan70051-cit-0116">
+<string-name name-style="western">
+<given-names>R. W.</given-names>
+<surname>Belk</surname>
+</string-name>, “<article-title>Possessions and the Extended Self</article-title>,” <source>Journal of Consumer Research</source>
+<volume>15</volume>, no. <issue>2</issue> (<year>1988</year>): <fpage>139</fpage>–<lpage>168</lpage>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.jstor.org/stable/2489522" ext-link-type="uri">https://www.jstor.org/stable/2489522</ext-link>.</mixed-citation></ref><ref id="evan70051-bib-0117"><label>117</label><mixed-citation publication-type="book" id="evan70051-cit-0117">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Sutton</surname>
+</string-name>, “<part-title>Personal memory, the Scaffolded Mind, and Cognitive Change in the Neolithic</part-title>.” in <source>Consciousness, Creativity and Self at the Dawn of Settled Life</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Hodder</surname>
+</string-name>
+</person-group>. (<publisher-name>Cambridge University Press</publisher-name>, <year>2020</year>), <fpage>209</fpage>–<lpage>229</lpage>.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1293 @@
+                                           Synthetic Human Memories: AI-Edited Images and Videos Can
+                                                 Implant False Memories and Distort Recollection
+                                                    Pat Pataranutaporn                    Chayapatr Archiwaranguprok                        Samantha W. T. Chan
+                                                MIT Media Lab, Massachusetts               University of the Thai Chamber of            MIT Media Lab, Massachusetts
+                                                   Institute of Technology                             Commerce                             Institute of Technology
+                                                 Boston, Massachusetts, USA                       Bangkok, Thailand                     Cambridge, Massachusetts, USA
+                                                   patpat@media.mit.edu                        chayapatr.arc@gmail.com                     swtchan@media.mit.edu
+
+                                                                             Elizabeth Loftus                              Pattie Maes
+
+
+
+
+arXiv:2409.08895v1 [cs.HC] 13 Sep 2024
+                                                                     UCI School of Social Ecology, UC           MIT Media Lab, Massachusetts
+                                                                                   Irvine                          Institute of Technology
+                                                                          Irvine, California, USA               Cambridge, Massachusetts, USA
+                                                                            eloftus@law.uci.edu                     pattie@media.mit.edu
+
+
+
+
+                                         Figure 1: Illustration of how AI-edited media can create false memories. The top row depicts a person using AI to enhance an
+                                         image or video to make it more positive. Over time, the person revisits the image without recalling that it was edited, leading to
+                                         the development of a false memory of the event. The lower section depicts a situation where AI inadvertently modifies an
+                                         image, eliminating bystanders from the frame as part of an automatic filter without retaining the original version (a feature
+                                         already available in Google Photos and other camera apps). Later, when the individual reviews the photograph—potentially
+                                         related to a crime scene—they develop a false recollection that matches the edited image rather than the actual event, leading
+                                         to false witness testimony. This figure highlights the impact of AI-generated edits on human memories, demonstrating how
+                                         subtle changes can distort recollection.
+                                         Abstract                                                              or deviate from reality. In a pre-registered study, 200 participants
+                                         AI is increasingly used to enhance images and videos, both in-        were divided into four conditions of 50 each. Participants viewed
+                                         tentionally and unintentionally. As AI editing tools become more      original images, completed a filler task, then saw stimuli corre-
+                                         integrated into smartphones, users can modify or animate photos       sponding to their assigned condition: unedited images, AI-edited
+                                         into realistic videos. This study examines the impact of AI-altered   images, AI-generated videos, or AI-generated videos of AI-edited
+                                         visuals on false memories—recollections of events that didn’t occur   images. AI-edited visuals significantly increased false recollections,
+                                                                                                               with AI-generated videos of AI-edited images having the strongest
+                                                                                                                             Pataranutaporn et al.
+
+
+effect (2.05x compared to control). Confidence in false memories         memories related to the depicted experience [28]. Researchers have
+was also highest for this condition (1.19x compared to control). We      employed various methods to visually induce false memories, in-
+discuss potential applications in HCI, such as therapeutic memory        cluding single presentations of thematic scenes with omitted ele-
+reframing, and challenges in ethical, legal, political, and societal     ments [77], personal photographs [56], and narrative instructions
+domains.                                                                 during interviews [107]. In a notable study, fifty percent of partici-
+                                                                         pants developed complete or partial false memories after exposure
+CCS Concepts                                                             to a fake childhood photograph and guided imagery exercises over
+• Human-centered computing → Interaction design theory,                  three interviews. These findings have significant implications for
+concepts and paradigms; Empirical studies in interaction                 clinical and legal professionals working with memory-related cases
+design; Empirical studies in HCI; HCI theory, concepts and               [107].
+models.                                                                     However, these studies have predominantly been conducted in
+                                                                         controlled laboratory settings, where images are manually edited
+Keywords                                                                 by researchers and interviews are carefully planned. The process
+                                                                         also involves human intervention in establishing trust, guiding par-
+Memory, AI-generated Media, Misinformation, Generative AI, Human-
+                                                                         ticipants, and presenting the manipulated images, which inherently
+AI Interaction
+                                                                         limits the scope and scale of false memory induction. With recent
+                                                                         advancements in artificial intelligence (AI), however, these limita-
+Introduction                                                             tions are beginning to change. AI has the potential to automate
+If a device existed that could help reframe your worst day in a more     and scale the creation and presentation of manipulated content,
+positive light, would you choose to use it? Memory-editing tech-         significantly expanding the possible impact of false memories on
+nologies have been a central theme in science fiction, prominently       individuals.
+featured in works such as Eternal Sunshine of the Spotless Mind,            AI-powered image enhancement is also increasingly becoming
+Men in Black, Total Recall, and Inception [86]. However, techniques      a standard feature in smartphones and cameras, operating both at
+for altering human memories are not confined to the realm of fic-        capture and during post-processing. At the moment of capturing,
+tion, as they represent a heavily studied area within psychology         AI may automatically remove unwanted elements or combine the
+and cognitive science [80].                                              best parts from multiple shots, as seen in Google’s "Best Take"
+    False memories, which refer to recollections of events that ei-      feature [25]. After the shot, applications such as Apple Photos,
+ther never occurred or are significantly distorted from reality, have    Google Photos, and Samsung’s Galaxy AI provide AI tools by default
+been a major focus in psychology research. The study of false            for users to edit, remove, or alter photo features with just a few
+memories is vital because they can distort witness testimonies,          steps. Additionally, generative AI models, such as OpenAI’s Sora,
+disrupt legal processes, and lead to faulty decision-making based        Luma’s Dream Machine, and Kling, are increasingly used to animate
+on incorrect information. Given these broad implications, under-         static images into realistic-looking videos.
+standing how false memories form is a critical area of investigation        The unprecedented proliferation of AI-driven image editing and
+[31, 62, 63, 66, 96, 119]. Unlike typical forms of misinformation        video manipulation technologies has raised significant concerns
+[117], false memories are particularly insidious because the indi-       regarding the integrity of consumed information. We argue that AI-
+vidual genuinely believes they recall accurate events, making them       generated content contributes to misinformation by distorting our
+resistant to correction and potentially more influential in shaping      understanding of the present (e.g., deepfakes) as well as reshaping
+beliefs and behaviors [60, 64]. Moreover, false memories can serve       how we remember the past. AI-generated media can potentially
+as a seed for making people more susceptible to additional false in-     create false memories and lead individuals to recall past events
+formation [46, 102], creating a cascading effect that further distorts   differently than they actually occurred and were initially experi-
+perceptions of reality and complicates efforts to establish accurate     enced. The implications of these technologies span both personal
+historical or personal narratives.                                       and societal domains, as illustrated in figure 2.
+    Research by Loftus and Palmer [65] showed how the wording of            On a personal level, there has been a notable trend, particularly
+questions can significantly influence eyewitness memory. When            on social media platforms such as TikTok, of users employing AI
+participants watched a video of a car accident, their estimates of       to animate photographs of deceased family members, simulating
+speed estimates varied based on the verb used in the question (e.g.,     interactions with departed loved ones. On a broader scale, the
+“collided,” “smashed”, “bumped,” “contacted,” or “hit”). Addition-       potential for AI-generated content to influence collective memory
+ally, the “Lost in the Mall” study [66] demonstrated that entirely       and historical narratives poses significant challenges to societal
+false childhood memories could be implanted. In a more recent            understanding and cohesion, potentially altering public perceptions
+replication [78], a larger sample size revealed that 35% of partici-     of past events and shaping future decision-making processes. For
+pants reported a false memory of being lost in a mall during child-      example, AI-edited images of public gatherings or protests could
+hood, compared to 25% in the original experiment. These findings         subtly alter the perceived scale or mood of these events, gradually
+strengthen the validity of the initial study and emphasize the rele-     reshaping how participants and observers remember their personal
+vance of such phenomena in legal settings.                               experiences and consequently influencing the collective memory
+    In the context of visually induced false memories [91, 98, 108],     of significant social movements.
+researchers have shown that exposure to images of fictitious events,        A crucial distinction must be made between deepfakes and AI-
+such as a hot-air-balloon ride, can lead to the formation of false       edits, as both leverage generative AI but differ significantly in their
+Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+
+
+
+
+Figure 2: The figure illustrates how AI-generated content can potentially create false memories, particularly through AI-altered
+videos on social media platforms like TikTok. A recent trend on these platforms involves using AI to animate photos of
+deceased relatives, creating simulated interactions. These artificial experiences may blur the line between genuine memories
+and digitally fabricated ones, potentially affecting how people remember their loved ones.
+
+
+real-world implications and how people encounter them. Deep-                         experiences. Particularly, this paper explores the following research
+fakes typically involve the creation of entirely fabricated audio                    questions:
+or video content, often for malicious purposes such as spreading
+disinformation. In contrast, AI-edits modify existing content, sub-                       (1) To what extent do AI-edited images influence participants’
+tly altering genuine memories or experiences. This distinction is                             memories of the original scenario, and how does this com-
+important, as people may be more vigilant against obviously fake                              pare to participants in a control condition who view unedited
+content but less aware of slight modifications to their own experi-                           images?
+ences or memories. While initial research has primarily explored                          (2) Does the conversion of images into AI-generated videos
+the effects of deep fakes on false memory formation in political                              further exacerbate the formation of false memories, both
+contexts [58, 79, 101], this study specifically focuses on exploring                          in terms of the number of false memories reported and the
+the effects and implications of AI-edited content.                                            confidence participants have in these memories, compared
+   While AI-edited content poses risks for distorting memories, it                            to static AI-edited images and the control condition?
+also holds potential for positive applications for human memory.                          (3) How do different types of AI editing (e.g., changes to ob-
+AI-assisted memory modification could help individuals process                                jects, people, or the environment) affect the severity of false
+traumatic experiences more effectively, potentially reducing symp-                            memories?
+toms of conditions like post-traumatic stress disorder (PTSD) or                          (4) What factors, such as familiarity with AI filters, memory
+depression. In addition, AI could assist in the creation of more com-                         efficacy, skepticism, age, gender, and education, moderate
+forting or positive recollections by emphasizing moments of joy or                            the severity and frequency of false memory formation when
+success. For example, AI might be used to enhance a photo from                                participants are exposed to AI-edited media?
+a difficult period by adjusting the atmosphere—making a gloomy
+day look sunny or adding vibrant details to a faded memory.                             In this pre-registered experiment involving 200 participants, sub-
+   The use of AI in memory alteration raises significant ethical                     jects were initially shown a set of 24 images designed to serve as
+questions and requires careful consideration of potential long-term                  base memories. After completing a filler task, participants were
+psychological effects. The balance between therapeutic benefit and                   then presented with a second set of visuals that had been modified
+the integrity of personal memories must be carefully weighed in                      by AI based on the experimental condition to which they were
+any application of such technology.                                                  randomly assigned. These modifications included changes such as
+   Motivated by both the potential risks and promising applications                  adding, removing, or altering objects, people, or environmental
+of AI-edited content in memory formation, this study investigates                    elements, thereby shifting the original context and meaning of the
+the effects of AI-edited images and videos on the formation of                       images. For example, some alterations included increasing the mili-
+false memories. Specifically, we aim to assess whether exposure                      tary presence in a scene, removing visible effects of climate change,
+to AI-edited visuals can influence individuals’ recollections of past                or changing the personal attributes of individuals depicted. In video
+                                                                                     conditions, the images (edited or unedited) are transformed into
+                                                                                                                            Pataranutaporn et al.
+
+
+videos using image-to-video AI, further enhancing the dynamism                 • Empirical Evidence on AI-implanted False Memories:
+and altering the interpretation of the original visuals.                         We report on one of the first evidence-based studies show-
+    After viewing the unedited set and doing a filler task, partici-             ing that AI-generated images and videos significantly in-
+pants were divided into four groups: one group viewed the original,              crease false memory formation, with AI-generated videos
+unedited images (control), another viewed AI-edited images, a third              of edited images having the greatest effect.
+group viewed AI-generated videos of the unedited images, and the               • Impact of AI on Memory Recollection: We demonstrate
+final group viewed AI-generated videos of the AI-edited images.                  that exposure to AI-edited media not only increases false
+    Our results demonstrate that AI-edited images and videos led                 memories but also boosts participants’ confidence in these
+to a significant increase in false recollections of the original sce-            inaccurate recollections.
+nario, with participants recalling incorrect details when exposed              • Effect of Different AI Edit Types: We explore how vari-
+to the altered visuals, compared to the control condition. Notably,              ous AI edits (e.g., changes to people, objects, and environ-
+AI-generated videos of AI-edited images had the most profound                    ments) influence the severity of false memories, finding that
+effect on the number of reported false memories (2.05x compared to               edits involving people have the most pronounced effect.
+control). The confidence in false memories was also higher for AI-             • Applications and Implications of AI-Generated False
+generated videos of AI-edited images (1.19x compared to control).                Memories: We discuss potential positive applications in
+Our study included a weighted score analysis and group homogene-                 HCI, such as therapeutic memory reframing and enhanc-
+ity checks to validate the experimental design.                                  ing self-esteem, as well as negative consequences in legal
+    Additional analyses exploring the effects across different types             (e.g., distorted eyewitness testimony), political (e.g., ma-
+of image content (daily life, news, documentary) and elements                    nipulation of public opinion), and societal (e.g., spread of
+edited by AI (people, objects, environments) consistently showed                 misinformation) domains.
+increased false memories with AI manipulation, with people-related             • Ethical Implications & Potential Mitigation Strategies:
+edits having the highest absolute number of false memories (AI-                  We examine the ethical concerns and broader implications
+generated videos of AI-edited image condition induced 45.3% false                of AI-edited media in misinformation and propose strate-
+memories of all memories reported) and environmental-related ed-                 gies, in the context of HCI, to reduce the risks of AI-induced
+its gaining the most dramatic increase (2.2x compared to control). A             false memories, including public awareness campaigns and
+mixed-effects regression model identified age as a small but signifi-            ethical AI design interventions
+cant factor in false memory formation, while other demographic
+and cognitive factors showed no significant relationship.
+    To our knowledge, this is one of the first studies with empirical    1     Related Work
+evidence demonstrating the impact of generative AI-based visual          This study builds upon and extends a rich foundation of interdisci-
+editing on the formation of false memories. Furthermore, we believe      plinary research at the intersection of cognitive psychology, human-
+this is the first study to examine the impact of manipulated videos      computer interaction, and AI. Our work synthesizes and advances
+on the formation of false memories.                                      knowledge from three primary domains: false memory research,
+    The paper also examines ethical considerations related to AI         the study of AI-generated misinformation, and HCI research.
+use in media and communication, including its potential influence
+on personal and collective memories. We explore the implications
+of these findings and discuss possible approaches to address AI-         1.1    HCI and Human Memory
+generated misinformation. The paper also touches on the societal,        HCI research has long explored ways to augment and support hu-
+political, and legal aspects of memory alteration through AI tech-       man memory through technology, a concept that can be traced
+nology.                                                                  back to Doug Engelbart’s pioneering work on augmenting human
+    Our research indicates that “externalizing” human memories,          intellect, where he envisioned the computer as an externalization of
+a concept long explored in Human-Computer Interaction (HCI)              human cognitive processes such as intellect and memory [19]. Early
+[19], by storing them as digital files like photos or videos, may        work proposed wearable systems as "remembrance agents" provid-
+fundamentally alter how we naturally remember things—especially          ing contextually relevant information [90]. More recent approaches
+when AI is involved in modifying these externalized memories.            have leveraged life-logging technologies to capture and retrieve
+This study highlights the critical responsibility of HCI researchers     personal experiences [15, 34, 35, 44]. Several studies have investi-
+and practitioners in guiding the design and ethical implementation       gated digital memory aids for older adults and those with memory
+of AI technologies that could profoundly impact human cognitive          impairments, including prospective memory training [12, 13] and
+functions. As AI increasingly influences how users interact with         safety settings for couples [73]. Researchers have also examined
+and interpret digital content, it is essential to understand how these   how to design for embodied remembering [83, 92] and support
+systems can unintentionally distort memory and alter perception          autobiographical memory in depression [88].
+and recollection of reality. To summarize, this paper contributes           Beyond individual memory, research has explored participatory
+to the discussion of false memories in the context of HCI and AI         approaches to collective and cultural memory-making [45]. The
+along the following dimensions:                                          emergence of virtual and augmented reality has opened up new
+                                                                         possibilities for memory augmentation, with researchers proposing
+                                                                         "superpowers" like enhanced recall [93] and exploring AR-based
+                                                                         memory cues [3].
+Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+
+
+   Wearable devices have been developed to enhance auditory at-                         Researchers are exploring novel approaches to leverage AI in
+tention and memory [105], as well as to leverage olfactory cues for                  combating misinformation, including the development of intelli-
+memory reactivation [1]. Personal knowledge management applica-                      gent tools that encourage metacognitive skills "in the wild" [104].
+tions have been designed to support long-term memory augmenta-                       The intersection of AI and misinformation presents both oppor-
+tion [94], while other work has investigated sound-based mementos                    tunities and challenges for the HCI community. Future research
+for people with visual impairments [115]. Recent advances in AI                      should focus on developing robust, transparent, and user-centered
+and large language models have enabled more sophisticated mem-                       AI systems to support users in navigating the complex information
+ory assistants, such as conversational agents that can infer memory                  landscape while addressing the implications and potential unin-
+needs in real-time [120] and AI-assisted journaling tools [50].                      tended consequences of AI-driven interventions.
+   Researchers have also explored gamification of memory experi-
+ments [18] and modeled language learning and forgetting [70]. As                     1.3     False Memories Research
+technologies for memory augmentation become more prevalent,
+                                                                                     Research by Loftus and colleagues has established false memories
+HCI researchers continue to grapple with design challenges around
+                                                                                     as a crucial area of psychological research [59, 61, 62, 65, 66]. Their
+user experience, privacy, and the ethical implications of outsourcing
+                                                                                     investigations into memory malleability and the misinformation
+human memory to digital systems.
+                                                                                     effect have significantly influenced our understanding of memory
+                                                                                     processes, with far-reaching implications across psychology, law,
+                                                                                     and education [59, 61, 67].
+1.2     AI-generated Media and Misinformation                                           A seminal study revealed the profound impact of linguistic fram-
+                                                                                     ing on eyewitness memory, demonstrating that the choice of verbs
+In recent years, the rapid advancement of AI technologies, partic-
+                                                                                     in questioning could markedly influence participants’ speed es-
+ularly large language models [14] and generative visual models
+                                                                                     timates of a car accident they had witnessed [65]. The "Lost in
+[114], has led to their widespread integration into work processes
+                                                                                     the Mall" experiment demonstrated the feasibility of implanting
+and daily life. This integration raises critical questions about the po-
+                                                                                     entirely fabricated childhood memories [66]. A recent replication,
+tential impact of AI on human cognition, particularly in the area of
+                                                                                     utilizing a larger sample size, corroborated and extended these find-
+misinformation (the spread of falsehoods regardless of intent) and
+                                                                                     ings, reporting a 35% false memory rate compared to the original
+disinformation (deliberately misleading content or propaganda).
+                                                                                     study’s 25% [78]. These results not only reinforce the robustness of
+    Researchers have identified an increase in AI-generated disin-
+                                                                                     the initial findings but also underscore the potential ramifications
+formation campaigns [30, 48] and the factors that make them dis-
+                                                                                     for eyewitness testimony in legal contexts.
+ruptive to people’s ability to discern true and false information
+                                                                                        In the context of visually induced false memories, visual stimuli
+[7, 20, 29, 32, 33, 51, 81, 95]. These factors include authoritative tone
+                                                                                     can generate false memories of fictitious events [28, 91, 98, 108].
+[47], persuasive language [29, 47, 106], and targeted personaliza-
+                                                                                     Methods include presenting scenes with omitted elements [77], per-
+tion [100]. AI-generated content has also been shown to influence
+                                                                                     sonal photos [56], and narrative instructions [107]. One study found
+people’s attitudes [40, 49, 106].
+                                                                                     50% of participants developed false memories after viewing fake
+    The concern about AI-generated misinformation is amplified by
+                                                                                     childhood photos and guided imagery, highlighting implications
+the known yet unresolved tendency of AI models to hallucinate or
+                                                                                     for clinical and legal professionals [107].
+generate false information, either intentionally or unintentionally
+                                                                                        Research on false memories has expanded to encompass vari-
+[17, 37, 113, 117]. Further, initial studies have provided evidence
+                                                                                     ous technological domains. The advent of immersive technologies
+for the potential of AI systems to influence memory formation. In
+                                                                                     has introduced new challenges in memory research, with studies
+a separate study, a social robot that provided users with incorrect
+                                                                                     demonstrating the occurrence of source confusion between reality
+information before a memory recognition test had an influence
+                                                                                     and VR experiences [5]. Researchers have developed frameworks
+comparable to that of humans. The study found that even though the
+                                                                                     categorizing XR Memory Manipulations (XRMMs) based on their
+inaccurate information was emotionally neutral and not inherently
+                                                                                     impact on memory processes, emphasizing the ethical concerns and
+memorable, 77% of the falsely provided words were incorporated
+                                                                                     potential opportunities associated with manipulating perception
+into the participants’ memories as errors [38].
+                                                                                     and memory in XR environments [6]. Additionally, vulnerabilities
+    The spread of misinformation on social media has become a
+                                                                                     in chatbot memory mechanisms that allow for the injection of
+major concern, prompting extensive HCI research. Studies have
+                                                                                     misinformation alongside personal knowledge have been demon-
+explored user interactions with misinformation [68, 71], the role
+                                                                                     strated [2]. These collective findings have fundamentally reshaped
+of visual content [57, 109], and various interventions to combat
+                                                                                     our understanding of memory processes, emphasizing the dynamic
+it [36, 39]. AI’s role in misinformation detection and mitigation
+                                                                                     and reconstructive nature of memory.
+has gained attention. Research has examined AI-based credibility
+indicators’ effects on news perception [69] and the potential of
+using layperson judgments to combat misinformation [21].                             2     Methodology
+    Studies have revealed risks associated with AI-generated content                 This study examines how AI-edited images and videos influence the
+[42] and explored AI-powered tools for fact-checking and misinfor-                   formation of false memories. Specifically, we aim to assess whether
+mation detection [74]. Research has also examined the characteris-                   exposure to AI-modified visuals affects individuals’ recollections
+tics of AI-generated misinformation compared to human-created                        of the original scenario. In a pre-registered between-group exper-
+content [118].                                                                       iment (AsPredicted #188511 - not yet public for anonymity), 200
+                                                                                                                            Pataranutaporn et al.
+
+
+participants were initially shown 24 baseline images. After a filler     do not take the time to do so [75]. Instead, they often trust the
+task, they viewed AI-altered versions of the images, with changes        media they encounter, especially when it appears realistic and au-
+such as adding or removing objects, altering people, or modify-          thoritative [24, 76]. Our study mirrors this behavior by presenting
+ing environmental features, depending on their randomly assigned         participants with edited media without requiring them to verify
+condition (50 participants per group). Examples include changing         their authenticity. This allows us to explore the extent to which
+ethnicity, time of day, or military presence, as seen in Figure 4. In    unverified AI-enhanced content can distort memories, as well as
+two conditions, the static images were converted into 5-second           the risks that come from widespread acceptance of such content
+videos using a generative AI tool. Participants then answered 24         without scrutiny.
+questions, one per image, to assess their memory of the originals.
+The following section details the study design, experimental condi-      2.1.4 Confidence in False Memories. One critical real-world issue
+tions, and protocols.                                                    is the cumulative effect of false memories. Once individuals have
+                                                                         formed a false memory, such as believing a political figure said cer-
+2.1    Study Design Rationale                                            tain words, they may be more persuasive in influencing themselves
+                                                                         and others that the memory is authentic [64, 66] and become more
+We particularly designed the study to simulate situations where          vulnerable to additional misinformation [46, 102]. Our study inves-
+individuals encounter AI-edited media in everyday contexts, partic-      tigates not only whether false memories form from AI-enhanced
+ularly through social media and news platforms. In these scenarios,      media but also how confident individuals are in these false memo-
+images are often anonymously altered or automatically edited by          ries. This reflects a key concern in today’s information ecosystem,
+AI filters, frequently without the user’s knowledge. The study also      where manipulated content can distort reality on a large scale.
+examines cases where others in the user’s social circle, such as
+friends or family members, might edit personal images on behalf of       2.1.5 Risk of False Memories in Sensitive Scenarios. False memo-
+the user without fully informing them of the details. In the "Future     ries formed through AI-altered content can have dangerous con-
+Research" section, we recommend exploring the impact of AI on            sequences. For instance, an AI-edited video could falsely depict a
+false memories when people edit images themselves. We hypothe-           President committing a crime, leading individuals to believe they
+size that individuals may eventually forget they made these edits,       witnessed such an event. This kind of misinformation could fuel
+potentially resulting in an effect similar to the scenarios described    conspiracy theories or political unrest. While our study uses exam-
+earlier. Our study’s design incorporates key elements reflective of      ples that are representative of what individuals might realistically
+how people currently interact with digital content, offering insights    encounter in daily life, we deliberately avoided using misleading
+into the potential risks associated with AI-manipulated media.           content that could cause harm or incite dangerous reactions. We
+                                                                         achieved this by carefully selecting our content: avoiding distor-
+2.1.1 AI-Enhanced Media is Ubiquitous. With the increasing inte-
+                                                                         tions that could cause reputational damage, using images of political
+gration of AI-powered image and video editing tools in widely-used
+                                                                         figures from countries with minimal impact on US politics, and ex-
+applications like Instagram, TikTok, and news websites, and in-
+                                                                         cluding any harmful ideologies or extremist content. This approach
+creasingly in phone cameras themselves. For example, features like
+                                                                         allowed us to examine effects of AI-altered media while minimizing
+Google’s “Best Take” [25] can remove unwanted elements or com-
+                                                                         potential negative influences on participants or society at large.
+bine the best parts of multiple shots seamlessly. Apps such as Apple
+Photos, Google Photos, and Samsung’s Galaxy AI offer built-in AI
+tools that allow users to easily edit, remove, or alter photo features
+                                                                         2.2    Stimulus Sets and Experiment Conditions
+with just a few simple steps. Users are frequently exposed to content    Our study employed a diverse set of visual stimuli to investigate
+that has been altered, often without their knowledge. Our study          participants’ perceptions and reactions to various types of media.
+reflects this reality by introducing both static (AI-edited images)      The stimulus set comprised four distinct categories: unedited im-
+and dynamic (AI-generated videos) content, highlighting the vari-        ages, AI-edited images, AI-generated videos from unedited images,
+ous forms in which individuals might encounter altered depictions        and AI-generated videos from AI-edited images:
+of events in their daily lives. Additionally, we explore scenarios             • Control (unedited images): Contains 24 copyright-free
+where AI-generated videos are created based on AI-edited images,                 images curated by researchers. The image set includes po-
+representing a multi-layered approach to content generation.                     litical figures, such as politicians shaking hands with other
+                                                                                 leaders; personal pictures, such as views taken from a trip;
+2.1.2 Use of AI Labels in Media. As social media platforms begin
+                                                                                 and documentary pictures, such as a NASA astronaut por-
+to introduce labels indicating that content has been altered or gen-
+                                                                                 trait. An example of the stimulus set is shown in Figure 4.
+erated by AI, our study incorporates a similar label to investigate
+                                                                               • AI-edited images: From the unedited set, we used Adobe
+its effectiveness. Participants in all conditions were shown images
+                                                                                 Photoshop AI to edit 12 images by either removing, adding,
+with a label indicating “enhanced image”. This feature provides an
+                                                                                 or altering details of the pictures (The remaining 12 were
+ecologically valid environment to explore whether transparency
+                                                                                 left unedited as a group homogeneity check). As shown
+about manipulation impacts participants’ memory accuracy, offer-
+                                                                                 in Figure 4, edits are categorized into 3 groups: Target-
+ing real-world insights.
+                                                                                 ing people (changing the woman’s expression, changing
+2.1.3 Minimal Verification by Users. While in the real world, in-                the runner’s ethnicity, changing the gender of a person in
+dividuals have the ability to fact-check or search for original im-              the group), targeting environment (removing the ice melt,
+ages to verify what they see, research indicates that most people                changing the time of day, changing the background setting),
+Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+
+
+
+
+Figure 3: This figure illustrates the study procedure for our experiment examining how AI-generated images and videos
+can induce false memories. Participants first viewed original images to establish baseline memories, then were exposed to
+AI-modified versions after a filler task. These modifications included changes like increased military presence or removed
+climate change indicators. Finally, participants’ memories of the original images were assessed through a series of questions,
+allowing researchers to measure the impact of AI-edited visuals on recall accuracy.
+
+
+        and targeting objects (adding a military vehicle, removing                      This two-by-two structure allowed for a clear comparison be-
+        military uniforms, and adding a stop sign).                                  tween static and dynamic AI-altered content, as well as between
+      • AI-generated videos of unedited images: Luma’s Dream                         unedited and AI-edited visuals, enabling us to explore how different
+        Machine is used to convert the unedited image set into                       forms of AI media affect memory distortion.
+        videos, primarily relying on the default auto-generation
+        mode to create realistic motion based on the existing con-                   2.3     Measurement
+        tent in the images. For most images, no additional prompts                   Participants were presented with a Memories Test Questionnaire
+        were provided. However, for a few images where the system                    consisting of 24 questions regarding their memory of the original,
+        struggled, we added supplementary prompts to guide the                       unedited images. Each question included a picture with the key
+        model while maintaining the same intended outcome. The                       detail of interest masked, while still providing enough context
+        video length is 5 seconds. Example frames of the videos are                  for participants to understand which image was being referenced.
+        shown in Figure 4.                                                           Example questions are shown in Figure 4.
+      • AI-generated videos of AI-edited images: Similar to                             These questions assessed whether participants recalled specific
+        AI-generated videos of unedited images, we used Luma’s                       details from the images, such as objects, people, or environmental
+        Dream Machine to convert the AI-edited image set into                        elements (e.g., “Did you remember seeing the bride smiling in the
+        videos. The video length is 5 seconds. Example frames of                     original picture?”). The participant could either answer agree, dis-
+        the videos are shown in Figure 4.                                            agree, or unsure. In addition, participants rated their confidence on
+                                                                                     a 7-point scale from 1 (extremely lacking confidence) to 7 (extremely
+   Participants were initially presented with the original, unedited                 confident).
+image set, followed by one of the stimulus sets from the four con-                      For the moderating factors, to measure AI Filter Familiarity,
+ditions. The stimuli were delivered through a customized web in-                     participants indicated their familiarity with using image or AI filter
+terface with "next" and "previous" buttons, allowing participants                    technologies on a 7-point scale (1 = Not familiar at all, 7 = Very
+to navigate through all 24 visuals. However, once they completed                     familiar). Frequency of Forgetting, adapted from [116], assessed
+viewing the original set, they could not go back to revisit it. The                  participants’ general memory performance, with responses ranging
+web interface was embedded within Qualtrics.                                         from 1 (Major problems) to 7 (No problems). Memory Efficacy
+   We employed a two-by-two design to investigate the influence                      was measured using a subset of items from [4], where participants
+of AI-generated images and videos on the formation of false memo-                    rated their ability to remember visual and verbal information, such
+ries. Participants were randomly assigned to one of four conditions                  as recalling names and objects, on a 7-point scale (1 = Strongly
+corresponding to four sets of stimuli. This two-by-two structure                     disagree, 7 = Strongly agree). Finally, Skepticism was assessed
+allowed for a clear comparison between static and dynamic AI-                        using a scale adapted from [23], where participants rated their
+altered content, as well as between unedited and AI-edited visuals,                  agreement with statements reflecting distrust in official information
+enabling us to explore how different forms of AI media affect mem-                   (e.g., “The official media provides false information”) on a 7-point
+ory distortion.                                                                      scale (1 = Strongly disagree, 7 = Strongly agree).
+                                                                                                                         Pataranutaporn et al.
+
+
+
+
+Figure 4: The stimulus set consisted of four distinct categories: unedited images, AI-edited images, AI-generated videos from
+unedited images, and AI-generated videos from AI-edited images. The edits were further divided into three subgroups based
+on the type of change: People, Objects, and Environment. In the questionnaire, masked versions of the images were used to
+facilitate recall without revealing the edited features.
+
+
+2.4   Experiment Protocol                                             minutes; participants could flip through the images by swiping,
+The experiment was conducted using Qualtrics. A total of 200 par-     similar to Instagram. Following this, participants engaged in a two-
+ticipants were recruited from CloudResearch, with an equal 1:1        minute filler task, playing Pac-Man. After the filler task, they were
+ratio of female to male participants. The study was limited to in-    presented with a new set of AI-edited images labeled “AI-enhanced
+dividuals residing in the United States, and participants ranged in   image.” These images featured subtle edits, though participants were
+age from 20 to 73 years old, M=38, s.d.=12.25. The experimental       not informed of the specific alterations. Participants were randomly
+procedure began with participants signing a consent form, which       assigned to different experimental conditions, and another attention
+included a disclosure regarding the possibility of deception in the   check was administered.
+study.                                                                   To assess memory distortion, participants were then asked 24
+   In the questionnaire’s introduction, participants are informed     memory test questions about their recollection of the original im-
+that they will be presented with a set of images, followed by their   ages. Each question was accompanied by a masked version of the
+corresponding "filtered" versions, and after observing both sets,     image to help facilitate recall without revealing the edited features.
+they will be asked to provide "feedback" on the filter through a      The questions were designed to determine whether false informa-
+series of questions.                                                  tion from the AI-edited images had been incorporated into par-
+   An initial attention check was administered to ensure focus.       ticipants’ memories. For instance, a question might ask, “Did you
+Participants were then shown a set of 24 unedited images for two      remember seeing military presence in the picture?” The questions
+Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+
+
+
+
+Figure 5: Survey interface components. From left to right: (1) Original image viewing instructions, (2) AI-enhanced image
+viewing instructions, (3) Questionnaire about original image details and confidence assessment. The sample images depict a
+wedding scene. The questionnaire prompts participants to recall specific details and rate their confidence in their memory.
+
+
+were balanced between positive prompts (asking about elements                              (3) Moderating Factors exploring the effect of moderating
+that had been added) and negative prompts (asking about elements                               factors on the number of false memory occurrences using
+that had been removed).                                                                        a mixed-effect regression model.
+   Finally, participants completed a demographic questionnaire and
+a post-survey, which included items related to potential technical                       We classified participants’ memories as false, uncertain, or non-
+issues and moderating factors such as familiarity with AI filters,                   false based on their responses (agree, disagree, or unsure) to specific
+memory efficacy, tendency for forgetting, and skepticism, as well                    questions about details of the original images. If a participant an-
+as age, gender, and education level.                                                 swered a question incorrectly, it was marked as a false memory. A
+                                                                                     correct answer was classified as a non-false memory, and if the par-
+                                                                                     ticipant responded with “unsure,” it was categorized as uncertain.
+                                                                                         For each test, we first assessed if the normality assumption was
+2.5     Analysis                                                                     met for each outcome variable distribution using the Shapiro-Wilk
+In order to evaluate the impact of AI-edited media on participants’                  test. If the normality assumption was not met, we performed a
+memory, we conducted 3 analyses, each designed to address dif-                       Kruskal-Wallis test followed by a post-hoc Dunn test using the
+ferent aspects of our hypothesis. The analyses were structured as                    Bonferroni error correction. If the normality assumption was met,
+follows:                                                                             we then conducted a homogeneity test using a Levene test to assess
+                                                                                     whether the samples were from populations with equal variances.
+                                                                                     If the samples were not homogeneous, we ran a Welch analysis of
+      (1) Primary analysis aimed to test the main hypothesis re-
+                                                                                     variance (ANOVA) and a Tukey’s honestly significant difference
+          garding the overall effect of each condition on memory.
+                                                                                     test (Tukey’s HSD) test. If the samples were homogeneous, we ran
+          Three key metrics were observed: (1) The Number of re-
+                                                                                     a basic ANOVA test with a Tukey post-hoc test.
+          ported false, uncertain, and non-false memories (i.e., how
+          many times participants recalled incorrectly, were unsure,
+          or recalled the original image correctly). (2) The Confi-                  2.6     Approvals
+          dence levels associated with each type of memory (false,                   This research was reviewed and approved by the [Anonymized]
+          uncertain, and non-false). (3) A Weighted score, calculated                Institutional Review Board, protocol number [Anonymized]. The
+          by assigning values to each memory type (false: -1, uncer-                 study was also preregistered at AsPredicted (#188511 - not yet
+          tain: 0, true: 1) and multiplying them by the corresponding                public for anonymity).
+          confidence levels, then summing these products.
+      (2) Subgroup analysis examining the number of false memory
+          occurrences across conditions in the subgroups separated                   3     Result of Primary Analysis
+          by two conditions, i.e., image content and subject of                      The results show that AI-edited images distort participants’ mem-
+          edit, to uncover any category-specific effects of generative               ories of the original images, leading them to report more false
+          content on memory.                                                         memories and higher levels of confidence in the false memories,
+                                                                                                                             Pataranutaporn et al.
+
+
+
+
+Figure 6: The percentage of reported false, uncertain, and non-false memories (i.e., how many times participants recalled
+incorrectly, were unsure, or recalled the original image correctly) were analyzed using a one-way Kruskal-Wallis and post hoc
+Dunn with FDR. P-value annotation legend: **, P<0.01; ***, P<0.001; ****, P<0.0001.
+
+
+while converting the images into videos further increases number          of unedited images, AI-edited images, and AI-gen videos of AI-
+of reported false memories. The statistics are illustrated in Figure 6.   edited images conditions respectively, compared to control . Sta-
+                                                                          tistics: control, M=66.156, s.d.=18.929, number of reported non-
+                                                                          false memories out of 12 (#)=7.939; AI-gen videos of unedited im-
+                                                                          ages: M=58.167, s.d.=19.543, #=6.980; AI-edited images: M=53.922,
+3.1    Number of Recalled Memories by Categories                          s.d.=20.032, #=6.471; AI-gen videos of AI-edited images: M=43.833,
+Shapiro-Wilk tests revealed non-normality across all four experi-         s.d.=18.545, #=5.260. post hoc Dunn test with Benjamini–Hochberg
+mental conditions (P-value ranging from 3.238e-5 to 5.79e-4). We          (FDR) correction: control vs AI-edited images, P=0.005; control
+employed one-way Kruskal-Wallis tests to analyze variation.               vs AI-gen videos of AI-edited images, P=5.594e-8; AI-generated
+                                                                          videos of unedited images vs AI-gen videos of AI-edited images,
+                                                                          P=5.086e-4; AI-edited images vs AI-gen videos of AI-edited images,
+3.1.1 Number of False Memories. As illustrated in the first column        P=0.0078.
+of Figure 6, the test indicates significant differences in the num-
+ber of reported false memories between the conditions, H =34.157,
+P=1.836e-07, P<.05. The AI-edited images induced significantly            3.2    Confidence in Recalled Memories
+more false memories than the unedited images (1.67x), while AI-           Shapiro-Wilk tests revealed non-normality across all four experi-
+generated videos of AI-edited images amplify the number of false          mental conditions (P-value ranging from 6.709e-12 to 1.167e-10).
+memories leading to a 2.05x number of reported false memories.            We employed one-way Kruskal-Wallis tests to analyze variation.
+However, AI-generated videos from unedited images result in 1.25x         The results are illustrated in Figure 7
+compared to control. Statistics: control, M=18.878, s.d.=14.164, num-
+ber of reported false memories out of 12 (#)=2.265; AI-gen videos         3.2.1 Confidence of False Memories. As shown in the first column
+of unedited images: M=23.667, s.d.=18.055, #=2.840; AI-edited im-         of Figure 7, the results indicate significant differences between the
+ages: M=31.373, s.d.=15.965, #=3.765; AI-gen videos of AI-edited          conditions, H =8.581, P=0.0354, P>0.05. AI-gen videos of AI-edited
+images: M=38.667, s.d.=18.838, #=4.640. post hoc Dunn test with           images and AI-edited images respectively induce 1.19x and 1.1x
+Benjamini–Hochberg (FDR) correction: control vs AI-edited images,         increase in the level of confidence in false memories vs control.
+P=2.5e-4; control vs AI-gen videos of AI-edited images, P=7.654e-         Statistics: control, M=4.536, s.d.=2.041; AI-gen videos of unedited
+08; AI-gen videos of unedited images vs AI-gen videos of AI-edited        images: M=4.383, s.d.=2.220; AI-edited images, M=5.027, s.d.=1.092;
+images, P=6.153e-05.                                                      AI-gen videos of AI-edited images: M=5.412, s.d.=1.449. post hoc
+                                                                          Dunn test with Benjamini–Hochberg (FDR) correction: control
+                                                                          vs AI-gen videos of AI-edited images, P=0.0139; AI-gen videos of
+3.1.2 Number of Uncertain and Non-false memories. There were no           unedited images vs AI-gen videos of AI-edited images, P=0.0150;
+significant differences in the number of reported uncertain memo-         AI-edited Images vs AI-gen videos of AI-edited images, P=0.0235.
+ries between conditions as shown in the second column of Figure 6,
+H =0.903, P=8.246, P>0.05. Meanwhile, in the third column, the test       3.2.2 Confidence in Uncertain and Non-False Memories. The tests
+indicates significant differences in the number of reported non-false     indicate no significant differences in the confidence in uncertain and
+memories between the conditions with, H =30.448, P=1.111e-06,             non-false memories, the numbers are illustrated in the second and
+P<.0071. All three edited sets introduce the lower number of re-          third column of Figure 7. Statistics: Uncertain Memories, H =0.726,
+ported non-false memories, i.e. 0.88x, 0.82x, 0.67x, in AI-gen videos     P=0.867, P>0.05; Non-false Memories, H =5.012, P=0.170, P>0.05.
+Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+
+
+
+
+Figure 7: The confidence of recalled memories in three categories (false/uncertain/true) were analyzed using a one-way Kruskal-
+Wallis and post hoc Dunn with FDR. P-value annotation legend: *, P<0.05.
+
+
+3.3     Weighted Score                                                               of AI-edited images (P=0.03). These findings suggest that the AI
+We calculated the weighted score by multiplying the score assigned                   editing interventions, especially those involving static AI image
+to each memory type (False = -1, Uncertain = 0, Non-False = 1) by the                edits and combination with AI video generation, have a significant
+participant’s confidence level for that memory (ranging from 1 to 7).                impact on the measured variable compared to the control condition.
+The Shapiro-Wilk test results for all groups show P<0.05, indicating
+that the data in each group is normally distributed. The Levene                      3.4     Group Homogeneity Checks for Primary
+test result (P=0.683) suggests homogeneity of variances across the                           Analysis
+groups. The one-way ANOVA test yielded a highly significant result
+                                                                                     To ensure the homogeneity of our test groups, we conducted a
+(F=14.577, P=1.312e-08, P<0.007), indicating substantial differences
+                                                                                     group homogeneity check. In the test set design, half of the images
+among the group means. Statistics: control, M=32.061, s.d.=21.989;
+                                                                                     remained unedited, even if they were part of AI-edited groups. For
+AI-gen of unedited images, M=24.760, s.d.=22.801; AI-edited images:
+                                                                                     example, in the AI-edited images group, 12 out of 24 images were
+M=15.803, s.d.=21.476; AI-gen videos of AI-edited images, M=3.040,
+                                                                                     left unedited and matched those in the control group. The same
+s.d.=24.933.
+                                                                                     approach was applied to the AI-generated videos of the AI-edited
+                                                                                     images group. We hypothesized that these unedited sets across
+                                                                                     groups would produce similar results in terms of the number and
+                                                                                     confidence of false, uncertain, and non-false memories across the
+                                                                                     three experimental conditions.
+                                                                                        Following the same procedure as our main analysis, we con-
+                                                                                     ducted statistical tests. The Shapiro-Wilk test results for normal-
+                                                                                     ity were as follows: control (W =0.934, P<0.001), AI-gen videos of
+                                                                                     unedited images (W =0.935, P<0.001), AI-edited images (W =0.937,
+                                                                                     P<0.001), and AI-gen videos of AI-edited images (W =0.942, P<0.001).
+                                                                                     Kruskal-Wallis tests resulted in P-values ranging from 0.425 to 0.927,
+                                                                                     indicating no significant differences between the groups. As hy-
+                                                                                     pothesized, we found no evidence that the unedited sets across
+                                                                                     groups produced differing results across the three experimental
+                                                                                     conditions. This finding supports the validity of our experimental
+Figure 8: The weighted score of recalled memories based                              design. The results of the Kruskal-Wallis test are shown in Table 1.
+on number and confidence was analyzed using a one-way
+ANOVA and post hoc Tukey. P-value annotation legend: *,
+P<0.05; **, P<0.01; ***, P<0.001.                                                    4 Results of Additional Analysis
+                                                                                     4.1 Number of false memories based on
+   The subsequent Tukey’s post-hoc test revealed significant dif-                        different types of image contents
+ferences between several pairs of groups, particularly between the                   The stimulus set is categorized into three distinct subgroups, each
+control and both AI-edited images (P=0.003) and AI-gen videos                        representing different domain topics in visual media. Daily life
+of AI-edited images groups (P=0.001), as well as between AI-gen                      photos include everyday scenes, activities, and objects that people
+videos of unedited images and AI-gen videos of AI-edited images                      encounter regularly, representing common visual experiences in fa-
+groups (P=0.001), and between AI-edited images and AI-gen videos                     miliar settings. News images comprise photographs typically found
+                                                                                                                            Pataranutaporn et al.
+
+
+
+
+Figure 9: The number of reported false memories in three subgroups were analyzed using a one-way Kruskal-Wallis and post
+hoc Dunn with FDR. P-value annotation legend: *, P<0.05; **, P<0.01; ***, P<0.001; ****, P<0.0001.
+
+   Condition                        H Statistic P-Value                   subject of the edit: people (alterations to facial features, changes
+   Number of False Memories              1.359    0.715                   in race or ethnicity, and adjustments to body shape or posture),
+   Number of Uncertain Memories          1.961    0.581                   objects (the addition or removal of items from scenes, or changes
+   Number of Non-False Memories          0.502    0.918                   to existing objects within the image), and environments (modifica-
+   Confidence in False Memories          1.073    0.784                   tions to backgrounds, lighting, weather conditions, or architectural
+   Confidence in Uncertain Memories      2.791    0.425                   elements). The number of false memory reports across these differ-
+   Confidence in Non-False Memories      0.460    0.928                   ent categories of AI-generated edits showed a consistent pattern
+Table 1: Group Homogeneity Checks for Primary Analysis                    of increasing false memories. Yet, the impact of AI manipulation
+Using Kruskal-Wallis Tests                                                varies across the different subjects of edit. While people-related
+                                                                          edits consistently produced the highest absolute number of false
+                                                                          memories, environmental edits showed the most dramatic increase
+                                                                          in false memory reported due to image edits, especially in the most
+in news media, such as sports events and political figures. Doc-          complex condition of AI-generated videos of AI-edited images (2.2x
+umentary and archival materials encompass images of historical            of control in AI-gen videos of AI-edited images condition).
+events or figures, and documentary-style shots of cultures or natu-
+ral phenomena. Each of these subgroups in our test set contains 4
+images, resulting in a total of 12 images across the three categories.
+We apply the main analysis procedure to each of these subgroups
+based on number of reported false memories, aiming to evaluate the
+consistency of AI effects across these diverse content types. As il-
+lustrated in Figure 9, the results demonstrate a consistent pattern in
+the effects of AI-generated content. Statistics: Daily Life, H =12.884,
+P=0.00489, P<0.005; News, H =27.712, P=4.174e-06=P<0.05; Docu-
+mentary and Archive, H =23.617, P=3.003e-05, P<0.0167.
+   In all three groups, there is a clear trend of increasing false
+memories from unedited images to AI-generated videos of AI-edited
+images. This similarity in trends suggests that the impact of AI-
+generated and AI-edited content on memory recall is robust across
+different types of visual stimuli, whether they depict everyday
+scenes, current events, or historical content, indicating that the
+observed effects of AI manipulation on memory are not limited to          Figure 10: The percentages of reported false memories by
+a specific type of visual content but appear to be a more general         subjects of edit.
+phenomenon.
+                                                                             Statistics: People: control, M=19.048, s.d.=22.335; AI-gen videos
+4.2    Number of false memories based on type of                          of unedited images, M=24.000, s.d.=24.980; AI-edited images, M=41.830,
+       subject edited by AI                                               s.d.=29.405; AI-gen videos of AI-edited images, M=45.333, s.d.=29.635.
+As part of an exploratory analysis with descriptive statistics, we        Objects: control, M=15.646, s.d.=24.376; AI-gen videos of unedited
+categorized the edited content into three subgroups based on the          images, M=18.667, s.d.=25.957; AI-edited images, M=20.915, s.d.=21.854;
+Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+
+
+AI-gen videos of AI-edited images, M=36.667, s.d.=24.267. Environ-                   possibly because of their complexity, they are less susceptible to
+ment: control, M=9.524, s.d.=19.048; AI-gen videos of unedited im-                   additional distortion from AI manipulation. Environmental manip-
+ages, M=16.000, s.d.=21.333; AI-edited images, M=24.837, s.d.=24.560;                ulations, such as altering the time of day or modifying landscape
+AI-gen videos of AI-edited images, M=33.333, s.d.=30.551.                            elements, proved particularly potent in distorting recall when sub-
+                                                                                     jected to AI editing and video generation. Object-related edits fell
+4.3     Moderating Factors                                                           between these two extremes. The data underscores the varying
+We employed a mixed effects regression approach to investigate                       susceptibility of different image elements to AI-induced false mem-
+how variables such as gender, age, education, familiarity with AI-                   ories, with contextual/environmental changes showing the most
+filter technology, and cognitive factors (frequency of forgetting and                striking relative increase. These findings highlight the complex
+memory efficiency) relate to number of false memories. Table 2                       interplay between AI manipulation techniques and human memory
+provides the result of the regression model. The result suggests that                across different aspects of visual information, suggesting that while
+age has a significant negative relationship (P=0.01) with the number                 human subjects may be naturally memorable (and thus more prone
+of false memories, yet the effect is small (Coef.=-0.031). Meanwhile,                to false memories), environmental details are more vulnerable to
+other factors do not show significant relationships in the model.                    AI-induced distortions.
+
+
+5 Discussion                                                                         5.3     Moderating Factors
+5.1 AI-Edited Content Boosts False Memories                                          Interestingly, the mixed-effects regression model shows that age
+    with Alarming Confidence                                                         has a statistically significant negative effect on AI-induced false
+                                                                                     memories, indicating that younger individuals are more suscepti-
+Our findings demonstrate the impact of AI-edited and AI-generated
+                                                                                     ble to such influences. This finding warrants further investigation
+media on human memory distortion. Participants exposed to AI-
+                                                                                     into the underlying mechanisms. One possible explanation could
+altered images exhibited a markedly higher propensity to report
+                                                                                     relate to the higher exposure of younger individuals to technology,
+false memories compared to those who viewed unedited control
+                                                                                     including AI-filtered media. The mere exposure effect suggests that
+images. This effect was even more pronounced when participants
+                                                                                     people tend to develop a preference for things they are more familiar
+were presented with AI-generated videos based on AI-edited images,
+                                                                                     with [11], which could lead to increased trust or decreased skepti-
+suggesting that dynamic AI-edited media significantly amplify the
+                                                                                     cism toward AI-generated content among younger users. However,
+distortion of memory, effectively embedding false details deeper
+                                                                                     with older adults increasingly adopting technology and becoming
+into participants’ recollections.
+                                                                                     more proficient in its use [22, 43], we may also observe a parallel re-
+   Perhaps the most disconcerting aspect of the study’s results is
+                                                                                     duction in skepticism among older users in the near future. Another
+the high degree of confidence participants reported in their in-
+                                                                                     explanation could involve the different modes of interaction with
+accurate recollections. The AI-edited images not only led to the
+                                                                                     technology across age groups. Younger individuals may allocate
+formation of false memories but also instilled a misplaced sense
+                                                                                     their attention differently when consuming information, potentially
+of certainty in these fabricated recollections. This effect is maxi-
+                                                                                     making them more susceptible to false memory formation. Nonethe-
+mized with AI-generated videos of edited images, which caused the
+                                                                                     less, it is crucial to emphasize that while the age-related difference
+most significant increase in both false memory formation and the
+                                                                                     is statistically significant, the effect size is relatively small, which
+associated confidence levels.
+                                                                                     suggests caution against overstating its practical implications.
+   The implications of these findings are far-reaching and poten-
+                                                                                        Familiarity with AI-filter technology, while positively correlated,
+tially alarming. The combination of false memories and high confi-
+                                                                                     does not have a statistically significant moderating effect, suggest-
+dence levels creates a particularly dangerous scenario, as individuals
+                                                                                     ing that mere exposure or understanding of the technology may
+are more likely to believe and act upon incorrect information they
+                                                                                     not provide protection against false memory implantation. This
+perceive as true. This phenomenon could have consequences in
+                                                                                     aligns with the earlier explanation of the inverse relationship be-
+various contexts, from eyewitness testimonies in legal proceed-
+                                                                                     tween familiarity and skepticism, wherein increased trust may lead
+ings to the spread of misinformation in social and political spheres.
+                                                                                     to greater susceptibility to false memories. Other variables, such
+Moreover, the study raises important questions about the nature of
+                                                                                     as education level, cognitive load, and memory efficiency, do not
+memory itself and how easily it can be manipulated by advanced
+                                                                                     show significant moderating effects, meaning these individual dif-
+AI technology. In the broader sense, our study shows that "exter-
+                                                                                     ferences do not strongly influence the likelihood of developing false
+nalizing" our memories by storing them digitally can change how
+                                                                                     memories in response to AI-edited media. Interestingly, skepticism
+we naturally remember things, especially when AI is involved in
+                                                                                     toward media and institutions, though negatively correlated, also
+enhancing or altering these externalized memories.
+                                                                                     lacks statistical significance, suggesting that even individuals with
+                                                                                     a more critical view of media may still be vulnerable to AI-induced
+5.2     The Impact of Different Types of Edits:                                      memory distortions. This suggests that false memory formation
+        People, Environment, and Objects                                             operates beyond a simple “trust vs. mistrust” framework [82, 97]:
+This study explored the impact of different types of AI-generated                    anyone, regardless of their background or expertise, could poten-
+edits—specifically changes to people, environments, and objects,                     tially fall victim to false memories when exposed to altered media.
+on the formation of false memories. The pattern in the results sug-                  In practical terms, this means that AI-altered media presents a chal-
+gests that while people-related details are generally harder to recall,              lenge to all segments of society. Educational campaigns may need
+                                                                                                                             Pataranutaporn et al.
+
+
+                                                                 Coef. Std.Err.     z   P>|z| [0.025 0.975]
+                       Familiarity with AI-Filter Technology     0.040   0.087 0.454 0.650 -0.131 0.211
+                       Age                                      -0.031   0.012 -2.583 0.010* -0.055 -0.008
+                       Gender (Male compared to Female)         -0.040   0.291 -0.138 0.891 -0.610 0.530
+                       Gender (Other compared to Female)         0.021   2.063 0.010 0.992 -4.022 4.065
+                       Education Level                           0.103   0.119 0.862 0.389 -0.131 0.336
+                       Cognitive Load                           -0.133   0.119 -1.121 0.262 -0.366 0.100
+                       Memory Efficiency                        -0.069   0.058 -1.194 0.232 -0.182 0.044
+                       Skepticism toward Media and Institutions -0.021   0.015 -1.376 0.169 -0.051 0.009
+                      Table 2: The mixed effects regression model result. P-value annotation legend: *, P<0.05
+
+
+
+to focus not just on technological literacy but also on promoting         5.5    Implications of AI-implanted False
+awareness of how our cognitive systems process and reconstruct                   Memories and Human-Computer
+information, making us all prone to forming false memories in                    Interaction
+certain contexts.
+                                                                          Our study has shown that AI has the capacity to manipulate human
+                                                                          memory by altering images or videos, creating false recollections
+                                                                          that may not align with reality. In Human-Computer Interaction,
+                                                                          the implications of these AI-implanted false memories are signifi-
+                                                                          cant, posing both challenges and opportunities, as shown in figure 2.
+5.4    The Impact of Label
+                                                                          In this section, we explore both the negative and positive implica-
+The study presented all AI-edited visuals with a label indicating         tions of AI-implanted false memories in HCI, as well as potential
+that the content had been altered by AI, similar to the notification      mitigation strategies for each.
+systems that some social media platforms have begun to implement
+to inform users about AI-generated or edited content. Despite these       5.5.1 Wrongful Legal Accusations. In the legal domain, AI-generated
+labels, we observed a significant increase in the formation of false      false memories pose a significant and potentially life-altering risk.
+memories in participants exposed to the AI-edited conditions. This        Altered media could falsely implicate individuals in crimes they did
+finding aligns with prior research which has demonstrated that            not commit, leading to a cascade of negative consequences. When
+passive notifications or labels alone may be insufficient to mitigate     AI is used to generate or manipulate this type of media, the poten-
+cognitive biases induced by manipulated media.                            tial for distorting public perception and influencing key figures in
+   For instance, previous studies [21], have shown that prompting         the legal process—such as witnesses—becomes even greater.
+users to actively consider the accuracy of social media posts can            Elizabeth Loftus, a psychologist who pioneered false memory
+reduce the likelihood of sharing misinformation online. This sug-         research, demonstrated the potential consequences of memory dis-
+gests that labels need to go beyond mere informational disclosure.        tortion in real-world cases. She highlighted the case of Steve Titus,
+Instead of serving as passive indicators, labels should be designed       who was wrongfully convicted of rape in 1980 [111]. Titus was
+to actively engage users in a more thoughtful, reflective process         identified by the victim with low confidence during a photo lineup,
+regarding the content they are viewing.                                   but by the time of the trial, her confidence had increased due to
+   One potential explanation for the persistence of false memories        suggestive identification procedures and additional police informa-
+despite labeling is that such notifications, while informative, do        tion. Despite this shaky identification, Titus was convicted. Months
+not sufficiently alter the cognitive processing of the visual material.   later, new evidence pointed to the actual culprit, and the witness
+Human memory is inherently reconstructive, and when individ-              realized her mistake. Although Titus was eventually exonerated,
+uals are presented with altered content—especially content that           the wrongful conviction caused financial and emotional ruin, lead-
+seems plausible or familiar—they may integrate it into their ex-          ing to his untimely death at age 35, just before his lawsuit against
+isting memory frameworks, regardless of the presence of a label.          the police was to be heard.
+Simply knowing that content has been edited may not prevent the              Today, news headlines are rapidly circulated and amplified through
+automatic processing of memory integration and reconstruction,            memes, posts, and viral content, which often simplify or sensation-
+which can lead to false memories.                                         alize events. When AI is used to generate or manipulate this type of
+   To effectively reduce the impact of AI-edited media on mem-            media, the potential for distorting public perception and influenc-
+ory, a more proactive approach to labeling may be necessary. This         ing key figures in the legal process—such as witnesses—becomes
+could involve enhancing the salience of the labels, providing users       even more extreme. An AI-generated meme that exaggerates or
+with interactive or cognitive prompts to reflect on the accuracy          fabricates details of a crime scene could rapidly spread on social
+or authenticity of the content, or even incorporating reminders           media platforms, creating a distorted narrative. Even a subtle alter-
+throughout the interaction with AI-edited material. Such interven-        ation to an image or video, like placing someone in a misleading
+tions would shift the role of labeling from a passive alert system to     context or falsely associating them with a crime, can easily go vi-
+an active cognitive tool that helps users critically engage with the      ral. This altered media could impact not just the general public’s
+content.                                                                  view of the case but also affect the memory of potential witnesses
+Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+
+
+
+
+Figure 11: Examples of the potential implications of AI-generated media. The first scenario, “Enhancing Self-Esteem,” shows
+how AI can be used to improve personal memories, boosting confidence by enhancing positive recollections. The second
+scenario, “Therapeutic Memory Reframing,” illustrates the use of AI to alter memories of past events, reframing distressing
+moments in a more positive light for therapeutic purposes. The third scenario, “Public Misinformation Spread,” demonstrates
+how AI can manipulate information in public media. For instance, a student may have seen an accurate NASA climate change
+video in a classroom, but later, their memory could be updated with an AI-generated false video from social media showing no
+evidence of climate change, altering their perception of the issue.
+
+
+and jury members. Witnesses who are exposed to AI-generated                          along with concerns about AI being used to manipulate images [8,
+memes or fake posts might unwittingly internalize the fabricated                     99]. In the context of false memories, a person who attended one
+details, incorporating them into their own recollections of the event.               of these events may later encounter AI-edited images or videos on
+What starts as a vague memory could solidify into false certainty,                   social media that subtly alter the crowd size or atmosphere. After
+influenced by the repeated exposure to such misleading content.                      seeing these modified visuals, their original memory of the event
+   This is especially dangerous in a courtroom setting where wit-                    may shift, leading to a distorted recollection of what they truly
+ness testimony often plays a pivotal role in the outcome of cases. If                experienced. This altered perception could cause them to believe
+a witness’s memory has been unknowingly shaped by AI-generated                       the candidate is more popular or influential than they actually are,
+online content, their testimony may seem credible but could be                       or that there was greater support for a particular policy than there
+completely inaccurate. As our study has shown, in cases where the                    was in reality. As a result, individuals might align their opinions
+witness originally had little confidence or memory of the event,                     with what they perceive as the majority view, potentially influenc-
+exposure to false narratives via social media could inflate their con-               ing voter preferences and election outcomes based on manipulated
+fidence and alter their recall, much like what happened in the Steve                 or exaggerated depictions.
+Titus case but amplified by the reach and power of AI-edited media.                     The ramifications of such misinformation are profound and far-
+Given that the use of digital media is increasingly common in legal                  reaching. It could lead to widespread public confusion, distorting
+settings, systems that handle evidence, such as courtroom presen-                    not only individual memories but also our collective understanding
+tation tools or police body camera footage, must integrate robust                    of historical events. This manipulation of shared memories has
+AI-detection mechanisms. These mechanisms should be capable of                       the potential to polarize societal beliefs and exacerbate existing
+preventing AI-altered media from being used as evidence in court,                    social divisions, especially when disseminated widely on social
+ensuring that AI-augmented interactions with digital content do                      media platforms and other digital channels. Moreover, the prolifer-
+not contribute to miscarriages of justice.                                           ation of AI-edited media is eroding trust in visual content, leading
+                                                                                     to increased skepticism towards all images and videos, including
+5.5.2 Public Misinformation Spread. One of the most pernicious                       authentic ones.
+and potentially damaging consequences of AI-edited false memories                       In the context of HCI, this type of misinformation underscores
+is the ability to manipulate public perception of historical or societal             the critical need for sophisticated interfaces that can help users dif-
+events on a grand scale. For instance, AI could be employed to alter                 ferentiate between authentic media and AI-generated or AI-altered
+an image or video footage of a peaceful protest by introducing                       content. For instance, a study has shown that a notification system
+elements such as military presence or violent altercations. This                     that primes people to focus on the accuracy of social media posts
+manipulation could cause individuals who view the altered media                      could help reduce the sharing of misinformation online [85].
+to falsely remember the event as violent or aggressive, even if they
+previously saw the original video or were present at the event.                      5.5.3 Reinforcement of Biases and Stereotypes. AI-generated false
+    For example, during the 2024 presidential election campaign, sig-                memories can reinforce existing biases and stereotypes by subtly
+nificant attention is given to crowd sizes at political events [26, 103],            altering images or videos to fit preconceived notions. For example,
+                                                                                                                               Pataranutaporn et al.
+
+
+AI editing could inadvertently modify media to emphasize negative          5.6    Positive Use Cases of AI-Generated False
+stereotypes about specific groups, which can lead to false memories               Memories
+that perpetuate harmful narratives. This is particularly dangerous in
+                                                                           While the potential for negative impact of AI-generated false mem-
+the context of racial, gender, or cultural bias, where AI-manipulated
+                                                                           ories is significant, it is equally important to explore the positive
+media could fuel prejudice and discrimination.
+                                                                           applications of this technology. When used ethically and under
+   The reinforcement of biases through AI-generated false memo-
+                                                                           controlled conditions, AI-generated false memories could offer sub-
+ries is a critical concern that intersects with issues of social justice
+                                                                           stantial benefits in various fields, particularly in mental health and
+and equality. AI systems, if not carefully designed and monitored,
+                                                                           personal development.
+can inadvertently perpetuate and amplify societal biases. For in-
+stance, an AI system trained on biased data might systematically           5.6.1 Therapeutic Memory Reframing. AI offers immense potential
+alter images to conform to stereotypical representations of certain        for therapeutic memory reframing [41, 52, 72, 112], a technique
+groups, leading to a feedback loop that reinforces these biases in         that could revolutionize the treatment of various psychological
+human memory and perception. This issue presents a significant             disorders, particularly those related to trauma and anxiety. In this
+challenge for HCI designers and researchers. How can we create             application, AI might assist in altering distressing memories for
+systems that not only avoid reinforcing biases but actively work           patients undergoing psychological treatment, providing a powerful
+to counteract them? One approach could be to develop AI systems            tool for mental health professionals [41, 52, 72, 112]. By subtly mod-
+that are specifically trained to detect and flag content that may          ifying or enhancing specific elements of a photo or video associated
+reinforce harmful stereotypes. These systems could be integrated           with a traumatic event, as shown in Figure 2, AI could help reduce
+into content moderation tools for social media platforms and other         the emotional intensity tied to these memories. For example, an
+digital spaces where user-generated content is shared.                     AI-altered image could remove or blur triggering elements from a
+   Additionally, HCI designers should consider implementing fea-           scene, allowing individuals to reframe their traumatic experiences
+tures that promote diversity and inclusion in digital spaces [9, 55,       in a less distressing way. This technique might be particularly ben-
+87]. This could include algorithms that ensure a diverse representa-       eficial for patients suffering from Post-Traumatic Stress Disorder
+tion in image feeds, or tools that help users critically examine their     (PTSD), phobias, or other anxiety disorders.
+own potential biases when interacting with digital content.                   The process of memory reframing through AI could involve
+                                                                           creating a series of gradually altered images or videos, each one
+                                                                           slightly less distressing than the last. As patients work through
+                                                                           this sequence with their therapist, they could potentially build new,
+5.5.4 Mitigating AI-implanted False Memories. Addressing the chal-         less emotionally charged associations with the traumatic memory.
+lenges posed by AI-implanted false memories requires a multifac-           This approach aligns with existing therapeutic techniques, such
+eted approach that combines technological solutions, policy mea-           as exposure therapy and cognitive restructuring, but offers a more
+sures, and public education initiatives. To combat the spread of           controlled and customizable experience.
+public misinformation, AI-detection tools should be developed and             It is crucial to note that such applications would require strict
+integrated into social media platforms and news aggregators. These         ethical guidelines and should only be implemented under the su-
+tools would actively scan and flag potentially manipulated content,        pervision of qualified mental health professionals. The goal would
+alerting users to the possibility of false information. Additionally,      be to aid in the healing process, not to erase or completely falsify
+media literacy programs should be expanded to educate the public           memories.
+on the prevalence of AI-altered media and the importance of critical
+evaluation of online content.                                              5.6.2 Enhancing Self-Esteem. Another promising application of
+   In the political sphere, stricter regulations should be imple-          AI-generated false memories lies in the realm of self-esteem en-
+mented regarding the use of AI-generated or AI-altered content in          hancement and personal development. AI-edited images of per-
+political campaigns. Political organizations and candidates should         sonal achievements or past performances can positively influence
+be required to disclose any use of AI in their campaign materials.         self-perception and boost confidence. HCI researchers have already
+   Furthermore, professionals in the legal field, including judges,        explored the use of AR filters to enhance confidence in public speak-
+lawyers, and law enforcement officers, should receive comprehen-           ing [54] and to foster creativity during brainstorming sessions[53].
+sive training on recognizing potential signs of AI manipulation in            With AI, subtly enhancing an image of someone delivering a
+digital evidence. This training should be regularly updated to keep        public speech - perhaps by improving their posture or making
+pace with advancements in AI technology. By adopting these miti-           their gestures appear more confident, as shown in figure 2, could
+gation strategies, the risks posed by AI-generated false memories in       reinforce the memory of that success. When an individual recalls
+critical areas, such as public misinformation, political manipulation,     this enhanced version of events, it could potentially boost their
+and legal justice, might be minimized. However, more research is           confidence in public speaking scenarios.
+needed to fully understand the extent of AI’s influence on human              Similarly, AI could be used to create or enhance visualizations
+memory and behavior, especially in high-stakes situations. There           of future success. By generating realistic images of an individual
+is a pressing need for interdisciplinary studies that bring together       achieving their goals, AI could help reinforce positive self-belief and
+experts in psychology, HCI, and AI to explore how automated AI             motivation. This application aligns with visualization techniques
+modifications, particularly those applied without user awareness,          already used in sports psychology and personal development coach-
+can distort perception and recollection.                                   ing [16, 89, 110]. It is important to emphasize that the aim here is
+Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+
+
+not to create entirely fabricated memories, but rather to enhance                       Another limitation is the constrained nature of our sample set,
+existing positive memories or create vivid, motivating visualiza-                    both in demographics and dataset size. Demographically, the study
+tions of future success. The ethical use of this technology would                    was confined to U.S. participants aged 18-100, despite efforts to
+involve full disclosure to the individual and should be implemented                  ensure diversity within these parameters. In terms of stimuli, our
+as part of a broader personal development or therapeutic program.                    study employed only 24 images, potentially limiting the represen-
+                                                                                     tativeness of AI-generated content. Future research should address
+                                                                                     these constraints by expanding to a more globally diverse sam-
+5.7     Ethical Considerations                                                       ple and utilizing a larger, more varied image set. This expansion
+The use of AI-generated content to influence human memory raises                     would enhance our understanding of how cultural factors, life ex-
+important ethical concerns that must be carefully considered. Key                    periences, and diverse range of stimuli may influence false memory
+issues include informed consent and transparency, as individuals                     susceptibility to AI-induced false memories.
+should be aware when viewing AI-altered content that may im-                            The study focused primarily on visual media (images and videos),
+pact their memories or perceptions. The potential for manipulation                   but AI is capable of generating and manipulating other forms of
+and misinformation through AI-generated false memories poses                         content, including audio and text. Future research should inves-
+risks in various domains, from politics to personal relationships,                   tigate the impact of AI-edited auditory cues (such as fabricated
+necessitating robust safeguards against intentional misuse. Privacy                  sound environments) and textual content (like AI-edit personal
+and data protection are crucial, both in terms of the datasets used                  narratives) on false memory formation. This could provide a more
+to train AI systems and the potential for highly personalized false                  holistic understanding of how different modalities of AI-generated
+memory generation. The psychological impact of AI-induced false                      content affect human cognition.
+memories, particularly in therapeutic contexts, requires careful                        Additionally, a follow-up study should test what difference it
+navigation. Ensuring equitable access to both protective measures                    makes whether it is the person themself or some other entity that
+and potential benefits is important to prevent uneven distribution                   does the editing. This exploration of agency in AI-assisted edit-
+of risks and advantages. Researchers, developers, and practitioners                  ing could reveal important insights into the mechanisms of false
+have an ethical obligation to consider the consequences of their                     memory formation and the role of perceived authorship in memory
+work and implement safeguards. The need for appropriate regu-                        implantation.
+latory frameworks to balance innovation with protection against                         While our study examined the formation of false memories, it did
+harm is evident, as is the importance of considering the long-term                   not extensively explore the persistence of these memories over time
+societal impact on trust, shared reality, and collective memory. Ad-                 or their resistance to correction. Future research should investigate
+dressing these ethical concerns requires clear guidelines, robust                    the longevity of AI-induced false memories and develop effective
+labeling systems, ongoing interdisciplinary research, enhanced me-                   strategies for correcting or mitigating them once they have formed.
+dia literacy education, ethical review processes, and collaboration                  Further, our experiment was conducted in a controlled setting,
+between AI developers, ethicists, policymakers, and cognitive sci-                   which may not fully capture the complexity of real-world scenarios
+entists to ensure responsible development and use of this powerful                   where individuals encounter AI-generated content. Future studies
+technology.                                                                          could employ more naturalistic designs, such as field experiments
+                                                                                     or ecological momentary assessments, to examine how AI-altered
+                                                                                     media affects memory in everyday life. This could include studying
+5.8     Limitations and Future Research                                              the impact of AI-generated content on social media platforms or in
+This study provides valuable insights into the impact of AI-ge3nerated               news consumption.
+and AI-edited media on memory formation, but it is not without                          The ethical implications of AI-generated false memories warrant
+limitations. These limitations, along with the study’s findings, point               further investigation. Future research should explore the long-term
+to several promising directions for future research.                                 psychological and social consequences of living in an environment
+   One primary limitation of this study is its reliance on relatively                where memories can be easily manipulated by AI. This could include
+short-term exposure to AI-altered media. Participants were exposed                   studies of the impact on personal identity, social relationships, and
+to the manipulated images and videos for a limited time, which may                   societal trust. As AI technology continues to advance, future studies
+not fully reflect real-world scenarios where individuals are repeat-                 should also examine the effectiveness of various countermeasures
+edly exposed to such content over extended periods. Moreover, as                     against AI-induced false memories. This could include evaluating
+demonstrated in Loftus’ research, false memory implantation often                    the impact of media literacy training, developing more sophisticated
+involves gradual and repeated suggestion rather than a single expo-                  AI detection tools, or exploring the potential of using AI itself to
+sure. However, our study reveals that even brief exposure to these                   identify and flag potentially misleading content.
+types of stimuli induces a significant false memory effect. Previous
+studies [10, 27, 66, 84] suggest this effect would likely intensify with
+increased exposure duration or frequency. Our findings lay crucial
+groundwork for further investigation, particularly into the cumu-
+lative effects of long-term, incremental exposure to AI-generated                    6     Conclusion
+media on memory formation and distortion. Longitudinal studies                       This research demonstrates the significant impact of AI-edited me-
+could provide valuable insights into how false memories evolve and                   dia on human memory distortion. The results reveal that exposure
+potentially become entrenched over time with repeated exposure.                      to AI-altered images substantially increases the likelihood of false
+                                                                                                                                                      Pataranutaporn et al.
+
+
+memory formation, with participants exposed to such content ex-                        [9] Elie Bursztein, Karla J Brown, Leonie M Sanderson, and Patrick Gage Kelley.
+hibiting a markedly higher propensity to report inaccurate recol-                          2024. Leveraging Virtual Reality to Enhance Diversity, Equity and Inclusion
+                                                                                           training at Google. In Extended Abstracts of the CHI Conference on Human Factors
+lections compared to those who viewed unedited control images.                             in Computing Systems. 1–7.
+This effect was even more pronounced when participants were                           [10] Samantha Chan, Pat Pataranutaporn, Aditya Suri, Wazeer Zulfikar, Pattie
+                                                                                           Maes, and Elizabeth F Loftus. 2024. Conversational AI Powered by Large
+presented with AI-generated videos based on AI-edited images,                              Language Models Amplifies False Memories in Witness Interviews. arXiv
+suggesting that dynamic AI media significantly amplifies memory                            preprint arXiv:2408.04681 (2024).
+distortion. Perhaps most concerning, participants reported high                       [11] Sam WT Chan, Tamil Selvan Gunasekaran, Yun Suen Pai, Haimo Zhang, and
+                                                                                           Suranga Nanayakkara. 2021. KinVoices: Using voices of friends and family in
+levels of confidence in their false memories, particularly in the                          voice interfaces. Proceedings of the ACM on Human-Computer Interaction 5,
+AI-generated video conditions.                                                             CSCW2 (2021), 1–25.
+   These findings have far-reaching implications across various                       [12] Samantha W. T. Chan, Thisum Buddhika, Haimo Zhang, and Suranga
+                                                                                           Nanayakkara. 2019. ProspecFit: In Situ Evaluation of Digital Prospective
+domains, including legal proceedings, political discourse, and mis-                        Memory Training for Older Adults. Proceedings of the ACM on Interac-
+information. However, the study also highlights potential positive                         tive, Mobile, Wearable and Ubiquitous Technologies 3, 3 (Sept. 2019), 1â€“20.
+                                                                                           https://doi.org/10.1145/3351235
+applications of this technology, particularly in therapeutic contexts.                [13] Samantha W. T. Chan, Shardul Sapkota, Rebecca Mathews, Haimo Zhang, and
+AI-generated content could be used to reframe traumatic mem-                               Suranga Nanayakkara. 2020. Prompto: Investigating Receptivity to Prompts
+ories, or enhance self-esteem when applied ethically and under                             Based on Cognitive Load from Memory Training Conversational Agent. Pro-
+                                                                                           ceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+professional supervision. These findings underscore the need for                           4, 4 (Dec. 2020), 1â€“23. https://doi.org/10.1145/3432190
+a balanced approach to AI development that maximizes benefits                         [14] Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao
+while mitigating risks.                                                                    Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, et al. 2024. A survey on
+                                                                                           evaluation of large language models. ACM Transactions on Intelligent Systems
+   Moving forward, this research calls for increased awareness                             and Technology 15, 3 (2024), 1–45.
+and stricter regulations regarding the use of AI in media creation                    [15] Yi Chen and Gareth J. F. Jones. 2010. Augmenting human memory using
+                                                                                           personal lifelogs. In Proceedings of the 1st Augmented Human International
+and dissemination. Future research should focus on developing                              Conference (AH ’10). ACM. https://doi.org/10.1145/1785455.1785479
+more effective interventions to mitigate the risk of AI-induced                       [16] Jennifer Cumming and Sarah E. Williams. 2013. Introducing the revised applied
+false memories, including improved content labeling systems and                            model of deliberate imagery use for sport, dance, exercise, and rehabilitation.
+                                                                                           Movement & Sport Sciences - Science & Motricité 82 (2013), 69–81. https://doi.
+public education campaigns. Additionally, interdisciplinary collab-                        org/10.1051/sm/2013098
+oration between AI researchers, cognitive scientists, ethicists, and                  [17] Valdemar Danry, Pat Pataranutaporn, Ziv Epstein, Matthew Groh, and Pattie
+policymakers will be crucial in addressing the complex challenges                          Maes. 2022. Deceptive AI Systems That Give Explanations Are Just as Convinc-
+                                                                                           ing as Honest AI Systems in Human-Machine Decision Making. arXiv preprint
+posed by AI’s influence on human memory and perception. Ul-                                arXiv:2210.08960 (2022).
+timately, this study serves as a compelling foundation for better                     [18] Passant ElAgroudy, Pedram Khoshdani, Tilman Dingler, Geoffrey Ward,
+                                                                                           Paweł W. Woźniak, and Albrecht Schmidt. 2021. Prisoner of Words: Lessons
+understanding and navigating the intricate relationships between                           Learnt from Mobile Gamification of Lab Memory Experiments. In Extended
+AI and human cognition, both now and in the future.                                        Abstracts of the 2021 Annual Symposium on Computer-Human Interaction in Play
+                                                                                           (CHI PLAY ’21). ACM, 256–261. https://doi.org/10.1145/3450337.3483502
+                                                                                      [19] Douglas C Engelbart. 2021. Augmenting human intellect: a conceptual frame-
+                                                                                           work (1962). (2021).
+References                                                                            [20] Ziv Epstein, Aaron Hertzmann, Investigators of Human Creativity, Memo Akten,
+ [1] Judith Amores Fernandez, Nirmita Mehra, Bjoern Rasch, and Pattie Maes. 2023.          Hany Farid, Jessica Fjeld, Morgan R Frank, Matthew Groh, Laura Herman, Neil
+     Olfactory Wearables for Mobile Targeted Memory Reactivation. In Proceedings           Leach, et al. 2023. Art and the science of generative AI. Science 380, 6650 (2023),
+     of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23).           1110–1111.
+     ACM, 1–20. https://doi.org/10.1145/3544548.3580892                               [21] Ziv Epstein, Gordon Pennycook, and David Rand. 2020. Will the Crowd Game
+ [2] Conor Atkins, Benjamin Zi Hao Zhao, Hassan Jameel Asghar, Ian Wood, and               the Algorithm? Using Layperson Judgments to Combat Misinformation on
+     Mohamed Ali Kaafar. 2023. Those Aren’t Your Memories, They’re Somebody Else’s:        Social Media by Downranking Distrusted Sources. In Proceedings of the 2020
+     Seeding Misinformation in Chat Bot Memories. Springer Nature Switzerland,             CHI Conference on Human Factors in Computing Systems (Honolulu, HI, USA)
+     284–308. https://doi.org/10.1007/978-3-031-33488-7_11                                 (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–11.
+ [3] Kilian L Bahnsen, Lucas Tiemann, Lucas Plabst, and Tobias Grundgeiger. 2024.          https://doi.org/10.1145/3313831.3376232
+     Augmented Reality Cues Facilitate Task Resumption after Interruptions in         [22] M Faverio. 2022. Share of those 65 and older who are tech users has grown in
+     Computer-Based and Physical Tasks. In Proceedings of the CHI Conference on            the past decade. https://www.pewresearch.org/short-reads/2022/01/13/share-
+     Human Factors in Computing Systems (CHI ’24, Vol. 2). ACM, 1–16. https:               of-those-65-and-older-who-are-tech-users-has-grown-in-the-past-decade/
+     //doi.org/10.1145/3613904.3642666                                                [23] Rodrigo Ferrer-Urbina, Yasna Ramírez, Patricio Mena-Chamorro, Marcos
+ [4] Jane M Berry, Robin L West, and Dierdre M Dennehey. 1989. Reliability and             Carmona-Halty, and Geraldy Sepúlveda-Páez. 2024. Naive skepticism scale:
+     validity of the Memory Self-Efficacy Questionnaire. Developmental psychology          development and validation tests applied to the chilean population. Psicologia:
+     25, 5 (1989), 701.                                                                    Reflexão e Crítica 37 (2024), 6.
+ [5] Elise Bonnail, Julian Frommel, Eric Lecolinet, Samuel Huron, and Jan Gugen-      [24] B. J. Fogg. 2003. Prominence-interpretation theory: explaining how people
+     heimer. 2024. Was it Real or Virtual? Confirming the Occurrence and Explaining        assess credibility online. In CHI ’03 extended abstracts on Human factors in
+     Causes of Memory Source Confusion between Reality and Virtual Reality. In             computing systems - CHI ’03 (CHI ’03). ACM Press, 722. https://doi.org/10.1145/
+     Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI          765891.765951
+     ’24, Vol. 4). ACM, 1–17. https://doi.org/10.1145/3613904.3641992                 [25] Geoffrey A. Fowler. 2008. How Google’s Best Take uses AI to edit your photos
+ [6] Elise Bonnail, Wen-Jie Tseng, Mark Mcgill, Eric Lecolinet, Samuel Huron, and          and fix smiles - The Washington Post. https://www.washingtonpost.com/
+     Jan Gugenheimer. 2023. Memory Manipulations in Extended Reality. In Pro-              technology/2023/10/11/ai-face-google-best-take/. Accessed: 2024-09-10.
+     ceedings of the 2023 CHI Conference on Human Factors in Computing Systems        [26] Kierra Frazier. [n. d.]. Harris tweaks Trump over crowd size ahead of debate -
+     (CHI ’23, Vol. 4). ACM, 1–20. https://doi.org/10.1145/3544548.3580988                 politico. https://www.politico.com/news/2024/09/10/harris-trump-crowd-size-
+ [7] Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan,                debate-00178116/. [Accessed 12-09-2024].
+     Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda       [27] Peter Frost. 2000. The quality of false memory over time: Is memory for
+     Askell, et al. 2020. Language models are few-shot learners. Advances in neural        misinformation “remembered” or “known”? Psychonomic Bulletin & Review 7, 3
+     information processing systems 33 (2020), 1877–1901.                                  (Sept. 2000), 531–536. https://doi.org/10.3758/bf03214367
+ [8] Kellen Browning. [n. d.]. Despite Trump’s Claims, Footage Shows Large Crowd      [28] Maryanne Garry and Matthew P Gerrie. 2005. When photographs create false
+     at Harris’s Detroit Rally — nytimes.com. https://www.nytimes.com/interactive/         memories. Current Directions in Psychological Science 14, 6 (2005), 321–325.
+     2024/08/12/us/elections/trump-harris-detroit-rally.html. [Accessed 12-09-        [29] Josh A Goldstein, Jason Chao, Shelby Grossman, Alex Stamos, and Michael
+     2024].                                                                                Tomz. 2024. How persuasive is AI-generated propaganda? PNAS nexus 3, 2
+Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+
+
+      (2024), pgae034.                                                                     [51] Himabindu Lakkaraju and Osbert Bastani. 2020. " How do I fool you?" Manipu-
+ [30] Josh A Goldstein, Girish Sastry, Micah Musser, Renee DiResta, Matthew Gentzel,            lating User Trust via Misleading Black Box Explanations. In Proceedings of the
+      and Katerina Sedova. 2023. Generative Language Models and Automated Influ-                AAAI/ACM Conference on AI, Ethics, and Society. 79–85.
+      ence Operations: Emerging Threats and Potential Mitigations. arXiv preprint          [52] Jinyoung Lee. 2019. The service design platform for people with dementia:
+      arXiv:2301.04246 (2023).                                                                  Person-centred reminiscence therapy with Artificial Intelligence in immersive
+ [31] Brian Gonsalves and Ken A Paller. 2000. Neural events that underlie remem-                environments. Temes de Disseny 35 (2019), 154–169.
+      bering something that never happened. Nature Neuroscience 3, 12 (2000), 1316–        [53] Joanne Leong, Pat Pataranutaporn, Yaoli Mao, Florian Perteneder, Ehsan Hoque,
+      1321.                                                                                     Janet M Baker, and Pattie Maes. 2021. Exploring the use of real-time camera
+ [32] Matthew Groh, Ziv Epstein, Chaz Firestone, and Rosalind Picard. 2022. Deep-               filters on embodiment and creativity. In extended abstracts of the 2021 CHI
+      fake detection by human crowds, machines, and machine-informed crowds.                    conference on Human Factors in Computing Systems. 1–7.
+      Proceedings of the National Academy of Sciences 119, 1 (2022), e2110013119.          [54] Joanne Leong, Florian Perteneder, Muhender Raj Rajvee, and Pattie Maes. 2023.
+ [33] Matthew Groh, Aruna Sankaranarayanan, Nikhil Singh, Dong Young Kim, An-                   “Picture the Audience...”: Exploring Private AR Face Filters for Online Pub-
+      drew Lippman, and Rosalind Picard. 2023. Human detection of political speech              lic Speaking. In Proceedings of the 2023 CHI Conference on Human Factors in
+      deepfakes across transcripts, audio, and video. arXiv preprint arXiv:2202.12883           Computing Systems. 1–13.
+      (2023).                                                                              [55] Sky Leslie, Mirjam Vosmeer, Casper Sterrenburg, Anastasia Maimenscu, Damir
+ [34] Cathal Gurrin, Alan F. Smeaton, and Aiden R. Doherty. 2014. LifeLogging:                  Catibovic, and Olico Matsjitadze. 2022. VR for Diversity: A Virtual Museum
+      Personal Big Data. Foundations and Trends® in Information Retrieval 8, 1 (2014),          Exhibition about LGBTIQ+. In Extended Abstracts of the 2022 CHI Conference
+      1–125. https://doi.org/10.1561/1500000033                                                 on Human Factors in Computing Systems (New Orleans, LA, USA) (CHI EA ’22).
+ [35] Morgan Harvey, Marc Langheinrich, and Geoff Ward. 2016. Remembering                       Association for Computing Machinery, New York, NY, USA, Article 203, 4 pages.
+      through lifelogging: A survey of human memory augmentation. Pervasive and                 https://doi.org/10.1145/3491101.3519917
+      Mobile Computing 27 (2016), 14–26.                                                   [56] D Stephen Lindsay, Lisa Hagen, J Don Read, Kimberley A Wade, and Maryanne
+ [36] Hendrik Heuer and Elena Leah Glassman. 2022. A Comparative Evaluation                     Garry. 2004. True photographs and false memories. Psychological Science 15, 3
+      of Interventions Against Misinformation: Augmenting the WHO Checklist. In                 (2004), 149–154.
+      Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems         [57] Maxim Lisnic, Alexander Lex, and Marina Kogan. 2024. "Yeah, this graph doesn’t
+      (New Orleans, LA, USA) (CHI ’22). Association for Computing Machinery, New                show that": Analysis of Online Engagement with Misleading Data Visualizations.
+      York, NY, USA, Article 241, 21 pages. https://doi.org/10.1145/3491102.3517717             In Proceedings of the CHI Conference on Human Factors in Computing Systems
+ [37] Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, Haotian                  (Honolulu, HI, USA) (CHI ’24). Association for Computing Machinery, New
+      Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, et al. 2023.                 York, NY, USA, Article 199, 14 pages. https://doi.org/10.1145/3613904.3642448
+      A survey on hallucination in large language models: Principles, taxonomy,            [58] Nadine Liv and Dov Greenbaum. 2020. Deep Fakes and Memory Malleability:
+      challenges, and open questions. arXiv preprint arXiv:2311.05232 (2023).                   False Memories in the Service of Fake News. AJOB Neuroscience 11, 2 (March
+ [38] Tsung-Ren Huang, Yu-Lan Cheng, and Suparna Rajaram. 2023. Unavoidable                     2020), 96–104. https://doi.org/10.1080/21507740.2020.1740351
+      social contagion of false memory from robots to humans. American Psychologist        [59] Elizabeth F Loftus. 1981. Eyewitness testimony: Psychological research and
+      (2023).                                                                                   legal thought. Crime and justice 3 (1981), 105–151.
+ [39] Farnaz Jahanbakhsh, Amy X. Zhang, and David R. Karger. 2022. Leveraging              [60] Elizabeth F. Loftus. 1992. When A Lie Becomes Memory’s Truth: Memory
+      Structured Trusted-Peer Assessments to Combat Misinformation. Proc. ACM                   Distortion After Exposure to Misinformation. Current Directions in Psychological
+      Hum.-Comput. Interact. 6, CSCW2, Article 524 (nov 2022), 40 pages. https:                 Science 1, 4 (Aug. 1992), 121–123. https://doi.org/10.1111/1467-8721.ep10769035
+      //doi.org/10.1145/3555637                                                            [61] Elizabeth F Loftus. 1996. Eyewitness testimony. Harvard University Press.
+ [40] Maurice Jakesch, Advait Bhat, Daniel Buschek, Lior Zalmanson, and Mor Naa-           [62] Elizabeth F Loftus. 1997. Creating false memories. Scientific American 277, 3
+      man. 2022. Interacting with Opinionated Language Models Changes Users’                    (1997), 70–75.
+      Views. Arxiv Open Access (2022).                                                     [63] Elizabeth F Loftus. 2003. Make-believe memories. American Psychologist 58, 11
+ [41] Meng Jiang, Qing Zhao, Jianqiang Li, Fan Wang, Tianyu He, Xinyan Cheng,                   (2003), 867.
+      Bing Xiang Yang, Grace WK Ho, and Guanghui Fu. 2024. A Generic Review                [64] Elizabeth F. Loftus. 2005. Planting misinformation in the human mind: A 30-
+      of Integrating Artificial Intelligence in Cognitive Behavioral Therapy. arXiv             year investigation of the malleability of memory: Figure 1. Learning & Memory
+      preprint arXiv:2407.19422 (2024).                                                         12, 4 (July 2005), 361–366. https://doi.org/10.1101/lm.94705
+ [42] Samia Kabir, David N. Udo-Imeh, Bonan Kou, and Tianyi Zhang. 2024. Is Stack          [65] Elizabeth F Loftus and John C Palmer. 1974. Reconstruction of automobile
+      Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT                   destruction: An example of the interaction between language and memory.
+      Answers to Stack Overflow Questions. In Proceedings of the CHI Conference on              Journal of verbal learning and verbal behavior 13, 5 (1974), 585–589.
+      Human Factors in Computing Systems (Honolulu, HI, USA) (CHI ’24). Association        [66] Elizabeth F Loftus and Jacqueline E Pickrell. 1995. The formation of false
+      for Computing Machinery, New York, NY, USA, Article 935, 17 pages. https:                 memories. , 720–725 pages.
+      //doi.org/10.1145/3613904.3642596                                                    [67] Elizabeth F Loftus and Guido Zanni. 1975. Eyewitness testimony: The influence
+ [43] Brittne Kakulla. 2022. 2022 Tech Trends and Adults 50-Plus. Washington, DC:               of the wording of a question. Bulletin of the Psychonomic Society 5, 1 (1975),
+      AARP Research, December 2021. https://doi.org/10.26419/res.00493.001                      86–88.
+ [44] Vaiva Kalnikaite, Abigail Sellen, Steve Whittaker, and David Kirk. 2010. Now let     [68] Zhicong Lu, Yue Jiang, Cheng Lu, Mor Naaman, and Daniel Wigdor. 2020. The
+      me see where i was: understanding how lifelogs mediate memory. In Proceedings             Government’s Dividend: Complex Perceptions of Social Media Misinforma-
+      of the SIGCHI conference on human factors in computing systems. 2045–2054.                tion in China. In Proceedings of the 2020 CHI Conference on Human Factors in
+ [45] Asnath Paula Kambunga, Heike Winschiers-Theophilus, and Rachel Charlotte                  Computing Systems (Honolulu, HI, USA) (CHI ’20). Association for Computing
+      Smith. 2020. Participatory Memory Making: Creating Postcolonial Dialogic                  Machinery, New York, NY, USA, 1–12. https://doi.org/10.1145/3313831.3376612
+      Engagements with Namibian Youth. In Proceedings of the 2020 ACM Designing            [69] Zhuoran Lu, Patrick Li, Weilong Wang, and Ming Yin. 2022. The Effects of
+      Interactive Systems Conference (DIS ’20). ACM. https://doi.org/10.1145/3357236.           AI-based Credibility Indicators on the Detection and Spread of Misinformation
+      3395441                                                                                   under Social Influence. Proc. ACM Hum.-Comput. Interact. 6, CSCW2, Article
+ [46] Irene P. Kan, Kendra L. Pizzonia, Anna B. Drummey, and Eli J. V. Mikkelsen.               461 (nov 2022), 27 pages. https://doi.org/10.1145/3555562
+      2021. Exploring factors that mitigate the continued influence of misinformation.     [70] Boxuan Ma, Gayan Prasad Hettiarachchi, Sora Fukui, and Yuji Ando. 2023. Each
+      Cognitive Research: Principles and Implications 6, 1 (Nov. 2021). https://doi.org/        Encounter Counts: Modeling Language Learning and Forgetting. In LAK23: 13th
+      10.1186/s41235-021-00335-9                                                                International Learning Analytics and Knowledge Conference (LAK 2023). ACM.
+ [47] Elise Karinshak, Sunny Xun Liu, Joon Sung Park, and Jeffrey Hancock. 2023.                https://doi.org/10.1145/3576050.3576062
+      Working with AI to persuade: Examining a large language model’s ability to           [71] Lisa Mekioussa Malki, Dilisha Patel, and Aneesha Singh. 2024. "The Headline
+      generate pro-vaccination messages. Stanford Preprint (2023).                              Was So Wild That I Had To Check": An Exploration of Women’s Encounters
+ [48] Katarina Kertysova. 2018. Artificial intelligence and disinformation: How                 With Health Misinformation on Social Media. Proc. ACM Hum.-Comput. Interact.
+      AI changes the way disinformation is produced, disseminated, and can be                   8, CSCW1, Article 128 (apr 2024), 26 pages. https://doi.org/10.1145/3637405
+      countered. Security and Human Rights 29, 1-4 (2018), 55–81.                          [72] Antti Mattila et al. 2001. " Seeing things in a new light": Reframing in therapeutic
+ [49] Celeste Kidd and Abeba Birhane. 2023. How AI can distort human beliefs.                   conversation. Ph. D. Dissertation. Citeseer.
+      Science 380, 6651 (2023), 1222–1223.                                                 [73] Nora McDonald and Helena M. Mentis. 2021. Building for ‘We’: Safety Settings
+ [50] Taewan Kim, Donghoon Shin, Young-Ho Kim, and Hwajung Hong. 2024. Di-                      for Couples with Memory Concerns. In Proceedings of the 2021 CHI Conference
+      aryMate: Understanding User Perceptions and Experience in Human-AI Collab-                on Human Factors in Computing Systems (CHI ’21). ACM. https://doi.org/10.
+      oration for Personal Journaling. In Proceedings of the CHI Conference on Human            1145/3411764.3445071
+      Factors in Computing Systems (CHI ’24). ACM, 1–15. https://doi.org/10.1145/          [74] Martino Mensio, Gregoire Burel, Tracie Farrell, and Harith Alani. 2023. Mis-
+      3613904.3642693                                                                           infoMe: A Tool for Longitudinal Assessment of Twitter Accounts’ Sharing of
+                                                                                                Misinformation. In Adjunct Proceedings of the 31st ACM Conference on User
+                                                                                                                                                         Pataranutaporn et al.
+
+
+     Modeling, Adaptation and Personalization (Limassol, Cyprus) (UMAP ’23 Ad-           [98] Christian Stephan-Otto, Sara Siddi, Carl Senior, Daniel Muñoz-Samons, Susana
+     junct). Association for Computing Machinery, New York, NY, USA, 72–75.                   Ochoa, Ana María Sánchez-Laforga, and Gildas Brébion. 2017. Visual imagery
+     https://doi.org/10.1145/3563359.3597396                                                  and false memory for pictures: a functional magnetic resonance imaging study
+[75] Miriam J Metzger. 2007. Making sense of credibility on the Web: Models                   in healthy participants. PLoS One 12, 1 (2017), e0169551.
+     for evaluating online information and recommendations for future research.          [99] Daniel Strain. [n. d.]. AI images abound this election cycle. Here’s how you can
+     Journal of the American society for information science and technology 58, 13            tell fact from fiction — colorado.edu. https://www.colorado.edu/today/2024/08/
+     (2007), 2078–2091.                                                                       29/ai-images-abound-election-cycle-heres-how-you-can-tell-fact-fiction. [Ac-
+[76] Miriam J Metzger and Andrew J Flanagin. 2013. Credibility and trust of in-               cessed 12-09-2024].
+     formation in online environments: The use of cognitive heuristics. Journal of      [100] Ben M Tappin, Chloe Wittenberg, Luke B Hewitt, Adam J Berinsky, and David G
+     pragmatics 59 (2013), 210–220.                                                           Rand. 2023. Quantifying the potential persuasive returns to political microtarget-
+[77] Michael B Miller and Michael S Gazzaniga. 1998. Creating false memories for              ing. Proceedings of the National Academy of Sciences 120, 25 (2023), e2216261120.
+     visual scenes. Neuropsychologia 36, 6 (1998), 513–520.                             [101] Rimke Tas. 2023. Changing memories via Deepfakes. Ph. D. Dissertation. Ghent
+[78] Gillian Murphy, Caroline A Dawson, Charlotte Huston, Lisa Ballantyne, Eliza-             University.
+     beth Barrett, Conor S Cowman, Christopher Fitzsimons, Julie Maher, Katie M         [102] Emily Thorson. 2015. Belief Echoes: The Persistent Effects of Corrected Mis-
+     Ryan, and Ciara M Greene. 2023. Lost in the mall again: a preregistered replica-         information. Political Communication 33, 3 (Nov. 2015), 460–480. https:
+     tion and extension of Loftus & Pickrell (1995). Memory 31, 6 (2023), 818–830.            //doi.org/10.1080/10584609.2015.1102187
+[79] Gillian Murphy and Emma Flynn. 2021. Deepfake false memories. Memory 30,           [103] Jay Ulfelder. [n. d.]. The Real Numbers: Tracking Crowd Sizes at Presidential
+     4 (April 2021), 480–492. https://doi.org/10.1080/09658211.2021.1919715                   Rallies – Ash Center — ash.harvard.edu. https://ash.harvard.edu/articles/the-
+[80] Beate Muschalla and Fabian Schönborn. 2021. Induction of false beliefs and               real-numbers-tracking-crowd-sizes-at-presidential-rallies/. [Accessed 12-09-
+     false memories in laboratory studies—A systematic review. Clinical Psychology            2024].
+     & Psychotherapy 28, 5 (Feb. 2021), 1194–1209. https://doi.org/10.1002/cpp.2567     [104] Jacqueline Urakami, Yeongdae Kim, Hiroki Oura, and Katie Seaborn. 2022.
+[81] Sophie J Nightingale and Hany Farid. 2022. AI-synthesized faces are indistin-            Finding Strategies Against Misinformation in Social Media: A Qualitative Study.
+     guishable from real faces and more trustworthy. Proceedings of the National              In Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing
+     Academy of Sciences 119, 8 (2022), e2120481119.                                          Systems (New Orleans, LA, USA) (CHI EA ’22). Association for Computing
+[82] Gabriel A Orenstein and Lindsay Lewis. 2022. Eriksons stages of psychosocial             Machinery, New York, NY, USA, Article 242, 7 pages. https://doi.org/10.1145/
+     development. In StatPearls [Internet]. StatPearls Publishing.                            3491101.3519661
+[83] Nathalie Overdevest, Rakesh Patibanda, Aryan Saini, Elise Van Den Hoven,           [105] Jacqueline Urakami, Akito Moriwaki, Shotaro Nagao, Kousuke Osumi, Erika
+     and Florian ‘Floyd’ Mueller. 2023. Towards Designing for Everyday Embodied               Yamamoto, and Toshikazu Kanaoka. 2023. Augmenting Auditory Attention
+     Remembering: Findings from a Diary Study. In Proceedings of the 2023 ACM                 and Memory to Reduce Cognitive Load in Dual Tasks: A wearable device to
+     Designing Interactive Systems Conference (DIS ’23). ACM. https://doi.org/10.             augment auditory attention and memory to improve performance in a duals
+     1145/3563657.3595999                                                                     task. In Extended Abstracts of the 2023 CHI Conference on Human Factors in
+[84] David G Payne, Claude J Elie, Jason M Blackwell, and Jeffrey S Neuschatz. 1996.          Computing Systems (CHI ’23). ACM. https://doi.org/10.1145/3544549.3585584
+     Memory illusions: Recalling, recognizing, and recollecting events that never       [106] Jan G Voelkel, Robb Willer, et al. 2023. Artificial Intelligence Can Persuade
+     occurred. Journal of Memory and Language 35, 2 (1996), 261–285.                          Humans on Political Issues. OSF Preprints (2023).
+[85] Gordon Pennycook, Ziv Epstein, Mohsen Mosleh, Antonio A Arechar, Dean              [107] Kimberley A Wade, Maryanne Garry, J Don Read, and D Stephen Lindsay. 2002.
+     Eckles, and David G Rand. 2021. Shifting attention to accuracy can reduce                A picture is worth a thousand lies: Using false photographs to create false
+     misinformation online. Nature 592, 7855 (2021), 590–595.                                 childhood memories. Psychonomic bulletin & review 9, 3 (2002), 597–603.
+[86] Elizabeth A Phelps and Stefan G Hofmann. 2019. Memory editing from science         [108] Jianqin Wang, Henry Otgaar, Mark L Howe, Felix Lippe, and Tom Smeets. 2018.
+     fiction to clinical practice. Nature 572, 7767 (2019), 43–50.                            The nature and consequences of false memories for visual stimuli. Journal of
+[87] Daniel Pillis, Pat Pataranutaporn, Pattie Maes, and Misha Sra. 2024. AI Comes            Memory and Language 101 (2018), 124–135.
+     Out of the Closet: Using AI-Generated Virtual Characters to Help Individuals       [109] Yuping Wang, Chen Ling, and Gianluca Stringhini. 2023. Understanding the
+     Practice LGBTQIA+ Advocacy. In Proceedings of the 29th International Conference          Use of Images to Spread COVID-19 Misinformation on Twitter. Proc. ACM
+     on Intelligent User Interfaces. 686–698.                                                 Hum.-Comput. Interact. 7, CSCW1, Article 108 (apr 2023), 32 pages. https:
+[88] Chengcheng Qu, Corina Sas, and Gavin Doherty. 2019. Exploring and De-                    //doi.org/10.1145/3579542
+     signing for Memory Impairments in Depression. In Proceedings of the 2019           [110] Robert Weinberg. 2008. Does Imagery Work? Effects on Performance and
+     CHI Conference on Human Factors in Computing Systems (CHI ’19). ACM.                     Mental Skills. Journal of Imagery Research in Sport and Physical Activity 3, 1
+     https://doi.org/10.1145/3290605.3300740                                                  (Feb. 2008). https://doi.org/10.2202/1932-0191.1025
+[89] Fritz Renner, Fionnuala C. Murphy, Julie L. Ji, Tom Manly, and Emily A.            [111] John T Wixted, Gary L Wells, Elizabeth F Loftus, and Brandon L Garrett. 2021.
+     Holmes. 2019. Mental imagery as a “motivational amplifier” to promote ac-                Test a witness’s memory of a suspect only once. Psychological Science in the
+     tivities. Behaviour Research and Therapy 114 (March 2019), 51–59. https:                 Public Interest 22, 1_suppl (2021), 1S–18S.
+     //doi.org/10.1016/j.brat.2019.02.002                                               [112] Mengxi Xiao, Qianqian Xie, Ziyan Kuang, Zhicheng Liu, Kailai Yang, Min
+[90] Bradley J Rhodes. 1997. The wearable remembrance agent: A system for aug-                Peng, Weiguang Han, and Jimin Huang. 2024. HealMe: Harnessing Cogni-
+     mented memory. Personal Technologies 1 (1997), 218–224.                                  tive Reframing in Large Language Models for Psychotherapy. arXiv preprint
+[91] Frédérique Robin, Emmanuelle Ménétrier, and Brice Beffara Bret. 2022. Effects            arXiv:2403.05574 (2024).
+     of visual imagery on false memories in DRM and misinformation paradigms.           [113] Danni Xu, Shaojing Fan, and Mohan Kankanhalli. 2023. Combating misin-
+     Memory 30, 6 (2022), 725–732.                                                            formation in the era of generative AI models. In Proceedings of the 31st ACM
+[92] Oscar Rosello, Marc Exposito, and Pattie Maes. 2016. NeverMind: Using Aug-               International Conference on Multimedia. 9291–9298.
+     mented Reality for Memorization. In Adjunct Proceedings of the 29th Annual         [114] Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao,
+     ACM Symposium on User Interface Software and Technology (Tokyo, Japan)                   Wentao Zhang, Bin Cui, and Ming-Hsuan Yang. 2023. Diffusion models: A
+     (UIST ’16 Adjunct). Association for Computing Machinery, New York, NY, USA,              comprehensive survey of methods and applications. Comput. Surveys 56, 4
+     215–216. https://doi.org/10.1145/2984751.2984776                                         (2023), 1–39.
+[93] Shadan Sadeghian and Marc Hassenzahl. 2021. From Limitations to “Superpow-         [115] MinYoung Yoo, William Odom, Arne Berger, Samuel Barnett, Sadhbh Kenny,
+     ers”: A Design Approach to Better Focus on the Possibilities of Virtual Reality          Priscilla Lo, Samein Shamsher, Gillian Russell, and Lauren Knight. 2024. Re-
+     to Augment Human Capabilities. In Designing Interactive Systems Conference               membering through Sound: Co-creating Sound-based Mementos together with
+     2021 (DIS ’21). ACM. https://doi.org/10.1145/3461778.3462111                             People with Blindness. In Proceedings of the CHI Conference on Human Factors
+[94] Christina Schneegass, Yannik Wojcicki, and Evangelos Niforatos. 2021. Design             in Computing Systems (CHI ’24, Vol. 21). ACM, 1–19. https://doi.org/10.1145/
+     for Long-term Memory Augmentation in Personal Knowledge Management                       3613904.3641940
+     Applications. In 12th Augmented Human International Conference (AH2021).           [116] Elizabeth M Zelinski, Michael J Gilewski, and Cheri R Anthony-Bergstone.
+     ACM. https://doi.org/10.1145/3460881.3460931                                             1990. Memory Functioning Questionnaire: concurrent validity with memory
+[95] Nathaniel Sirlin, Ziv Epstein, Antonio A Arechar, and David G Rand. 2021.                performance and self-reported memory failures. Psychology and aging 5, 3
+     Digital literacy is associated with more discerning accuracy judgments but not           (1990), 388.
+     sharing intentions. Harvard Kennedy School, Misinformation Review (2021).          [117] Jiawei Zhou, Yixuan Zhang, Qianni Luo, Andrea G Parker, and Munmun
+[96] Scott D Slotnick and Daniel L Schacter. 2004. A sensory signature that distin-           De Choudhury. 2023. Synthetic lies: Understanding ai-generated misinfor-
+     guishes true from false memories. Nature Neuroscience 7, 6 (2004), 664–672.              mation and evaluating algorithmic and human solutions. In Proceedings of the
+[97] Joel R. Sneed, Susan Krauss Whitbourne, and Michelle E. Culang. 2006. Trust,             2023 CHI Conference on Human Factors in Computing Systems. 1–20.
+     Identity, and Ego Integrity: Modeling Erikson’s Core Stages Over 34 Years.         [118] Jiawei Zhou, Yixuan Zhang, Qianni Luo, Andrea G Parker, and Munmun
+     Journal of Adult Development 13, 3–4 (Dec. 2006), 148–157. https://doi.org/10.           De Choudhury. 2023. Synthetic Lies: Understanding AI-Generated Misinfor-
+     1007/s10804-007-9026-3                                                                   mation and Evaluating Algorithmic and Human Solutions. In Proceedings of
+Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection
+
+
+      the 2023 CHI Conference on Human Factors in Computing Systems (Hamburg,         7 Supplementary Materials
+      Germany) (CHI ’23). Association for Computing Machinery, New York, NY,
+      USA, Article 436, 20 pages. https://doi.org/10.1145/3544548.3581318             7.1 False Memories Questionnaire
+[119] L Zhuang, J Wang, B Xiong, C Bian, L Hao, PJ Bayley, and S Qin. 2022. Rapid
+      neural reorganization during retrieval practice predicts subsequent long-term   Please answer the following questions regarding the original im-
+      retention and false memory. Nature Human Behaviour, 6 (1), 134-145.             ages:
+[120] Wazeer Deen Zulfikar, Samantha Chan, and Pattie Maes. 2024. Memoro:
+      Using Large Language Models to Realize a Concise Interface for Real-Time           (1) Did you remember seeing the bride smiling in the original
+      Memory Augmentation. In Proceedings of the CHI Conference on Human Fac-                picture?
+      tors in Computing Systems (Honolulu, HI, USA) (CHI ’24). Association for
+      Computing Machinery, New York, NY, USA, Article 450, 18 pages. https:
+                                                                                         (2) Did you remember seeing the sun in the original picture?
+      //doi.org/10.1145/3613904.3642450                                                  (3) Did you remember seeing this woman with blond hair?
+                                                                                         (4) Did you remember seeing a sign on the street?
+                                                                                         (5) Did you remember seeing the woman wearing any head-
+                                                                                             wear?
+                                                                                         (6) Did you remember seeing a flag in the picture?
+                                                                                         (7) Did you remember seeing one of the boys using a smart-
+                                                                                             phone?
+                                                                                         (8) Did you remember seeing a boat in the picture?
+                                                                                         (9) Did you remember seeing two black guys running in the
+                                                                                             picture?
+                                                                                        (10) Did you remember seeing military presence in the picture?
+                                                                                        (11) Did you remember seeing a military bodyguard in the pic-
+                                                                                             ture?
+                                                                                        (12) Did you remember seeing a military vehicle in the picture?
+                                                                                        (13) Did you remember seeing only one former US president in
+                                                                                             the picture?
+                                                                                        (14) Did you remember seeing this guy in a mask?
+                                                                                        (15) Did you remember seeing guys in hazmat suits walking
+                                                                                             with a suitcase?
+                                                                                        (16) Did you remember seeing coffee mugs on the table?
+                                                                                        (17) Did you remember seeing that all the land was covered by
+                                                                                             snow (no ocean water)?
+                                                                                        (18) Did you remember seeing a woman in this group shot?
+                                                                                        (19) Did you remember seeing the guy wearing a military uni-
+                                                                                             form?
+                                                                                        (20) Did you remember seeing a city in the picture?
+                                                                                        (21) Did you remember seeing an adult in the picture?
+                                                                                        (22) Did you remember seeing a woman in the picture?
+                                                                                        (23) Did you remember seeing a table in the middle?
+                                                                                        (24) Did you remember seeing a small bicycle in front of the
+                                                                                             boys?
+                                                                                        How confidence are you with the answer?
+                                                                                            • 1-Extremely lacking confidence
+                                                                                            • 2-Very lacking confidence
+                                                                                            • 3-Somewhat lacking confidence
+                                                                                            • 4-Neutral
+                                                                                            • 5-Somewhat confident
+                                                                                            • 6-Very confident
+                                                                                            • 7-Extremely confident
+
+                                                                                      7.2    AI filter familiarity
+                                                                                            • What is your level of familiarity with using image filter
+                                                                                              technologies or AI filter technologies? (1-Not familiar at all,
+                                                                                              7-Very Familiar)
+
+                                                                                      7.3    Frequency of forgetting
+                                                                                      Participants self-reported memory problems, using a scale ranging
+                                                                                      from 1 (major problems) to 7 (no problems), as adapted from [116].
+                                                                                                                       Pataranutaporn et al.
+
+
+      • How would you rate your memory in terms of the kinds           7.5   Skepticism
+        of problems that you have? (1= Major problems to 7= No         The scale to measure naive skepticism in the adult population is
+        problems)                                                      taken from [23].
+                                                                           (1) The official media provides false information
+7.4    Memory Efficacy                                                     (2) I distrust the information provided by government authori-
+A self-report measure of memory ability (Self-Efficacy Level) taken            ties
+from a subset of [4].                                                      (3) The World Health Organization (WHO) hides its true inter-
+    (1) If someone showed me the pictures of 16 common everyday                ests
+         objects‚ I could look at the pictures once and remember the       (4) The world press manipulates information
+         names of 2 of the objects.                                        (5) Social networks call those who tell uncomfortable truths
+    (2) If someone showed me the photographs of 10 people and                  crazy
+         told me their names once‚ I could identify 2 persons by           (6) The rich manipulate press
+         name if I saw the pictures again a few minutes later.             (7) International organizations only deliver information that
+      • 1-Strongly disagree                                                    benefits them
+      • 2-Disagree                                                           • 1-Strongly disagree
+      • 3-Somewhat disagree                                                  • 2-Disagree
+      • 4-Neither agree nor disagree                                         • 3-Somewhat disagree
+      • 5-Somewhat agree                                                     • 4-Neither agree nor disagree
+      • 6-Agree                                                              • 5-Somewhat agree
+      • 7-Strongly agree                                                     • 6-Agree
+                                                                             • 7-Strongly agree
+

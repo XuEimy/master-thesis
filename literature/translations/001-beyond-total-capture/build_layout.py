@@ -1,0 +1,81 @@
+from pathlib import Path
+import fitz,json,re,html
+ROOT=Path(__file__).resolve().parents[3];D=Path(__file__).parent
+P=(D/'中文译稿-进行中.md').read_text().split('\n\n')
+R=[]
+def cut(i,s):
+ k=P[i].index(s);return P[i][:k],P[i][k:]
+def g(*items):return '\n\n'.join(P[x] if isinstance(x,int) else x for x in items)
+def add(p,r,t,size=9,color='#111111',rotate=0):R.append(dict(page=p,rect=r,text=t,size=size,color=color,rotate=rotate))
+a,b=cut(7,'Gordon Bell与Jim Gemmell')
+c,e=cut(9,'生活日志可能永久改变')
+f,h=cut(12,'例如创建时间、地点')
+i,j=cut(13,'需要注意，')
+k,l=cut(15,'图像、视频')
+m,n=cut(19,'在心中')
+o,q=cut(22,'其价值与其说')
+r,s=cut(31,'例如，Filochat')
+t,u=cut(33,'这提示，')
+v,w=cut(38,'心理学研究帮助')
+x,y=cut(40,'这些研究提示，')
+z,aa=cut(43,'因此，这类系统')
+ab,ac=cut(46,'自身记忆优势与弱点')
+ad,ae=cut(52,'怀旧回忆、')
+add(0,[13,14,440,70],'研究文章',30,'#666666')
+add(0,[42,130,372,181],P[2].replace('副标题：',''),14,'#007f9d')
+add(0,[36,190,382,209],'Abigail Sellen、Steve Whittaker 著',9)
+add(0,[36,212,382,455],'超越全量记录：\n\n对生活日志的\n建设性批评',32)
+add(0,[36,518,373,743],g(6,a),12,'#666666')
+add(0,[382,120,545,547],g(b,8,c),9)
+add(0,[399,557,541,575],'主要观点',10,'#007f9d')
+add(0,[381,578,545,741],P[4].replace('- ','• '),8)
+add(0,[554,651,563,742],'插图：Giacomo Marchesi',5,rotate=90)
+add(2,[36,51,199,742],g(e,10,11,f),9)
+add(2,[209,51,372,248],g(h,i),9)
+add(2,[382,51,545,248],g(j,14,k),9)
+add(2,[209,489,543,502],'Vannevar Bush于1945年提出的“Memex”愿景。',7)
+add(2,[209,731,543,745],'Gordon Bell的MyLifeBits旨在终身存储一切，实现Memex愿景。',7)
+add(3,[42,51,205,742],g(l,16,17,18,m),9)
+add(3,[388,51,551,742],g(n,20,21,o),9)
+add(3,[215,96,379,246],'令人意外的是，许多生活日志系统缺乏对用户潜在价值的明确描述，反而聚焦技术挑战。',15,'#007f9d')
+add(4,[36,51,199,421],g(q,23,24,27,28),9)
+add(4,[209,51,372,421],g(29,30,r),9)
+add(4,[382,51,545,742],g(s,32,t),9)
+add(4,[36,715,372,744],'微软SenseCam根据运动等活动变化触发拍摄静态图像，并采集环境光照、温度等其他数据。图片由微软剑桥研究院提供。',7)
+add(5,[42,51,205,742],g(u,34,35,36,37,v),9)
+add(5,[388,51,551,742],g(w,39,x),9)
+add(5,[215,96,380,246],'数字数据集合可以作为线索，触发有关过去事件的自传体记忆，但数据本身不是记忆。',15,'#007f9d')
+add(6,[36,51,199,742],g(y,41,42,z),9)
+add(6,[382,51,545,742],g(aa,44,45,ab),9)
+add(6,[209,96,373,246],'与支持回想和信息检索的系统相比，支持怀旧回忆与反思的系统受到的关注少得多。',15,'#007f9d')
+add(7,[42,51,205,742],g(ac,47,48,49,50,51,ad),9)
+add(7,[215,51,378,432],g(ae,53,54),9)
+add(7,[388,665,549,698],P[58],7)
+add(7,[388,700,549,725],P[59],7)
+add(7,[215,447,378,453],'参考文献',7)
+# Running section labels and journal page information.
+for p in range(2,8):
+ rect=[16,12,150,31] if p%2==0 else [441,12,570,31]
+ add(p,rect,'研究文章',10,'#666666')
+# Add a restrained translator note in unused center-column area on page 6.
+add(5,[215,600,378,730],'译本说明\nAbigail Sellen、Steve Whittaker，2010。DOI：10.1145/1735223.1735243。\nAI中文翻译，未经作者审定。用于个人阅读；参考文献题录与软件界面截图保留原文。作者任职和技术评价均按原作历史时点理解。',7.5,'#555555')
+src=next((ROOT/'literature/sources/fulltext').glob('01-sellen*.pdf'));d=fitz.open(src)
+for r in R:
+ r['source_text']=d[r['page']].get_text(clip=fitz.Rect(r['rect']))
+ d[r['page']].add_redact_annot(fitz.Rect(r['rect']),fill=False)
+for p in d:p.apply_redactions(images=0,graphics=0)
+d[0].draw_rect(fitz.Rect(381,578,545,741),color=None,fill=(1,1,1),overlay=True)
+for r in R:
+ paras=[]
+ for t in r['text'].split('\n\n'):
+  head=t.startswith('#');t=re.sub(r'^#+\s*','',t);t=html.escape(t);t=re.sub(r'\*\*(.*?)\*\*',r'<b>\1</b>',t)
+  paras.append(('<p class="head">' if head else '<p>')+t.replace('\n','<br>')+'</p>')
+ css="@font-face{font-family:cn;src:url('001-songti.ttf')}body{font-family:cn;font-size:%spt;color:%s;margin:0;padding:0}p{margin:0 0 4pt;line-height:1.3}.head{font-weight:bold;margin:5pt 0}"%(r['size'],r['color'])
+ target=fitz.Rect(r['rect']); target.y0-=5 if r['text']=='参考文献' else 0
+ spare,scale=d[r['page']].insert_htmlbox(target,''.join(paras),css=css,archive=fitz.Archive(str(ROOT/'tmp/pdfs')),rotate=r['rotate'],scale_low=.8)
+ r.update(spare=spare,scale=scale)
+ if spare<0:raise RuntimeError((r['page'],r['rect'],r['size']))
+out=ROOT/'output/pdf/001-超越全量记录-中文排版草稿.pdf';d.save(out,garbage=3,deflate=True)
+(D/'版面映射-进行中.json').write_text(json.dumps(R,ensure_ascii=False,indent=2))
+print(out);print('min scale',min(x['scale'] for x in R))
+for i in range(8):d[i].get_pixmap(matrix=fitz.Matrix(1.4,1.4)).save(f'/tmp/001-qa-{i}.png')

@@ -1,0 +1,30 @@
+{
+  "pages": 8,
+  "sizes_match": true,
+  "missing_chinese": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "reference_regions": [
+    true,
+    true
+  ],
+  "image_digests_match": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "output": "/Users/EimyXu/Desktop/个人回忆唤起研究/output/pdf/001-超越全量记录-中文原版式译本.pdf",
+  "bytes": 8981773
+}

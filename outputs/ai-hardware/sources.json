@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-27",
+  "assets": [
+    {
+      "file": "qwen-g1.webp",
+      "source_page": "https://device.qianwen.com/",
+      "image_url": "https://g.alicdn.com/ai-fe/glasses-open-platform/0.0.35/assets/hw-g1.8fdbd8df.webp",
+      "bytes": 40624,
+      "content_type": "image/webp",
+      "downloaded": true
+    },
+    {
+      "file": "rayneo-io.png",
+      "source_page": "https://www.rayneo.com/pages/rayneo-io-ai-glasses",
+      "image_url": "https://www.rayneo.com/cdn/shop/files/37f524651cf08ff5dac004e94e1f7a57_2ea0c852-554c-4d24-8416-9755d9e65495.png?v=1788345969&width=1200",
+      "bytes": 170154,
+      "content_type": "image/png",
+      "downloaded": true
+    },
+    {
+      "file": "looki-l1.png",
+      "source_page": "https://www.looki.ai/products/looki-l1",
+      "image_url": "https://cdn.shopify.com/s/files/1/0690/3808/0182/files/looki-l1-black-front_0747ee6b-ddfd-4678-8314-ac303cd1830b%402x.png?v=1765794017",
+      "bytes": 267122,
+      "content_type": "image/png",
+      "downloaded": true
+    },
+    {
+      "file": "odyss-n1.png",
+      "source_page": "https://www.odyss.life/pages/odyss-n1",
+      "image_url": "https://www.odyss.life/cdn/shop/t/13/assets/odyss-n1-hero-desktop.png?v=124429614073571259901789729338",
+      "bytes": 6127219,
+      "content_type": "image/png",
+      "downloaded": true
+    },
+    {
+      "file": "omi.jpg",
+      "source_page": "https://www.omi.me/pages/product",
+      "image_url": "https://cdn.shopify.com/s/files/1/0879/7490/4100/files/buy-studio.jpg",
+      "bytes": 52328,
+      "content_type": "image/jpeg",
+      "downloaded": true
+    },
+    {
+      "file": "bee-frontier.webp",
+      "source_page": "https://bee.computer/",
+      "image_url": "https://cdn.prod.website-files.com/69dd7236d0d093258455ae93/69f35819bb4ca91928c739ec_device-black-small.webp",
+      "bytes": 540414,
+      "content_type": "image/webp",
+      "downloaded": true
+    },
+    {
+      "file": "plaud-notepin.webp",
+      "source_page": "https://www.plaud.ai/products/plaud-notepin",
+      "image_url": "https://www.plaud.ai/cdn/shop/files/plaud-notepin-gray-0225.webp?v=1774430287&width=2000",
+      "bytes": 783412,
+      "content_type": "image/png",
+      "downloaded": true
+    },
+    {
+      "file": "rayban-meta.png",
+      "source_page": "https://www.ray-ban.com/usa/ray-ban-meta-ai-glasses",
+      "image_url": "https://about.fb.com/wp-content/uploads/2025/09/rayban-wayfarer.png",
+      "bytes": 32751,
+      "content_type": "image/png",
+      "downloaded": true
+    }
+  ]
+}

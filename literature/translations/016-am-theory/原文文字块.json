@@ -1,0 +1,1388 @@
+[
+  [
+    {
+      "id": 0,
+      "bbox": [
+        56.692901611328125,
+        65.7812271118164,
+        159.4358673095703,
+        75.2458267211914
+      ],
+      "text": "ORIGINAL ARTICLE\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        51.02360153198242,
+        106.59728240966797,
+        363.2287292480469,
+        140.45286560058594
+      ],
+      "text": "Informing augmented memory system design\nthrough autobiographical memory theory\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        51.02360153198242,
+        158.56175231933594,
+        204.11184692382812,
+        168.59852600097656
+      ],
+      "text": "Elise van den Hoven Æ Berry Eggen\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        51.02360153198242,
+        244.38308715820312,
+        360.8361511230469,
+        263.08489990234375
+      ],
+      "text": "Received: 3 October 2005 / Accepted: 1 September 2006 / Published online: 17 July 2007\n\u0001 Springer-Verlag London Limited 2007\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        51.02360153198242,
+        282.6800231933594,
+        289.1196594238281,
+        454.6376647949219
+      ],
+      "text": "Abstract\nAutobiographical memory (AM) is the ‘‘mem-\nory for the events in one’s life’’ [1]. Often it is assumed that in\norder to remember all those events, you just need to record\neverything and when you replay these recordings you will\nremember those events. You can compare this with a library\nmetaphor that has been used to explain AM according to the\nrecord-keeping approach. However, after many years of\nAM-research it was concluded that AM is stored in a dif-\nferent manner, namely according to the constructionist ap-\nproach, which often is initiated by memory cues. This paper\nexplains these AM theories, surveys literature on existing\naugmented memory systems and describes our own work in\nthis area. All this input is combined into eight design rec-\nommendations for future augmented memory systems.\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        51.023590087890625,
+        469.4787292480469,
+        263.41925048828125,
+        504.4128112792969
+      ],
+      "text": "Keywords\nAutobiographical memory \u0001\nRecollecting memories \u0001 Interactive system design \u0001\nAugmented memory systems\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        51.023590087890625,
+        528.948486328125,
+        115.21762084960938,
+        538.9110717773438
+      ],
+      "text": "1 Introduction\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        51.023590087890625,
+        553.9767456054688,
+        289.12066650390625,
+        576.354736328125
+      ],
+      "text": "Most people are actively dealing with their personal\nmemories. Take for example the woman who just returned\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        306.140869140625,
+        282.7588806152344,
+        544.24609375,
+        554.2396850585938
+      ],
+      "text": "from a holiday. Probably she will talk about her experi-\nences with various people, which in fact is the rehearsal\nand perhaps the ﬁxation of her holiday memories. When\nshe refers to other related experiences and events in the\nsame conversation she is trying to relate her new memories\nto other existing memories, thereby working on her old\nmemories at the same time. There even is a fair chance that\nher listeners are doing the same thing. Reminiscing is a\nrecurring process, continuously shaping people’s personal\nhistories and identities.\nThis paper gives an overview of issues and answers that\nare relevant to people who are interested in recollecting\nmemories or in designing augmented memory systems.\nThese issues were subdivided into theory, on human\nmemories and memory cues (Sect. 2), and practice, pre-\nsenting a literature overview of (studies on) augmented\nmemory systems (Sect. 3). The lessons learned from lit-\nerature and ﬁndings of our own research efforts into the\ndesign of an augmented memory system are combined to\ndescribe a set of eight design recommendations for future\naugmented memory systems (Sect. 4). The paper ends with\nconclusions in Sect. 5.\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        306.14190673828125,
+        581.6107177734375,
+        429.8674011230469,
+        591.5733032226562
+      ],
+      "text": "2 Autobiographical memory\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        306.14190673828125,
+        606.5822143554688,
+        544.2410888671875,
+        716.2086181640625
+      ],
+      "text": "As Bush [2] already stated in his Memex article, we should\nstudy the associative way in which our mind works to\ncreate analogies that improve recording and retrieving in an\naugmented memory system. Since this paper is concerned\nwith people who are recollecting personal experiences,\nautobiographical memory (AM) is the most relevant (long-\nterm) memory type to study.\nThe deﬁnition of AM is ‘‘memory for the events of one’s\nlife’’ [1], which includes all the people’s memories that\n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        51.02360153198242,
+        597.5718994140625,
+        185.9754180908203,
+        656.2218017578125
+      ],
+      "text": "E. van den Hoven (&)\nDepartment of Industrial Design,\nEindhoven University of Technology,\nDen Dolech 2, HG 2.53, P.O.Box 513,\n5600 MB Eindhoven, The Netherlands\ne-mail: E.v.d.Hoven@tue.nl\n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        51.02362060546875,
+        667.6530151367188,
+        185.9754180908203,
+        715.976806640625
+      ],
+      "text": "B. Eggen\nDepartment of Industrial Design,\nEindhoven University of Technology,\nDen Dolech 2, HG 2.39, P.O.Box 513,\n5600 MB Eindhoven, The Netherlands\n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        504.6235046386719,
+        733.3864135742188,
+        544.4492797851562,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        51.02360153198242,
+        33.372100830078125,
+        193.21737670898438,
+        53.291839599609375
+      ],
+      "text": "Pers Ubiquit Comput (2008) 12:433–443\nDOI 10.1007/s00779-007-0177-9\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        51.02360153198242,
+        58.713600158691406,
+        289.1236267089844,
+        230.53057861328125
+      ],
+      "text": "have something to do with themselves. Episodic memory\nstores information relating to personal experiences, but\nepisodic memories can exist without being autobiographi-\ncal and vice versa. It is not yet known how these two\nmemory systems relate to each other, although it is certain\nthat they have a large overlap in memories [3].\nVarious long-term memory types have been proposed\nover the past years (see [4] for an overview), each memory-\npair is seen as independent of other memory systems. For\nexample, prospective and retrospective memory are related\nto the process of remembering, since they are concerned\nwith the future and the past: prospective memory helps\nremembering to carry out intended actions and retrospec-\ntive memory remembers past events.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        51.025596618652344,
+        245.51231384277344,
+        226.9351348876953,
+        255.47491455078125
+      ],
+      "text": "2.1 Functions of autobiographical memory\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        51.025596618652344,
+        270.4566345214844,
+        289.1255798339844,
+        292.83465576171875
+      ],
+      "text": "According to [5] six functions of autobiographical memory\ncan be distinguished:\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        51.025596618652344,
+        301.3536682128906,
+        289.129638671875,
+        535.41796875
+      ],
+      "text": "1.\nThe construction and maintenance of the self-concept\n(who you think you are) and self-history (what you\nhave experienced in life), which shapes the personal\nidentity.\n2.\nRegulating moods, e.g., when someone is feeling down\nit can help to think of positive memories.\n3.\nMaking friends and maintaining relationships by\nsharing experiences, e.g., when you share personal\nmemories with someone this creates a bond and as a\nresult the other person might feel the need to share his\nor her personal experiences with you too.\n4.\nProblem-solving based on previous experiences, e.g.,\nif someone encounters a problem, memories of related\nexperiences, actions and results are used as input to\novercome the current problem.\n5.\nShaping likes, dislikes, enthusiasms, beliefs and prej-\nudices, based on remembered experiences.\n6.\nHelping to predict the future based on the memories of\nthe past.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        51.02558898925781,
+        543.93701171875,
+        289.1336669921875,
+        628.5623168945312
+      ],
+      "text": "Note the wide range of AM-functions, from solely\ninternal usage, to communication between people. It is\nimportant to realize that for none of the above-mentioned\nfunctions the absolute truth behind the memory is needed.\nFor a long time it was assumed that memories represent the\nway events really occurred, which resulted in a memory-\nstorage theory called the record-keeping approach.\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        51.02558898925781,
+        643.5440673828125,
+        172.38397216796875,
+        653.5066528320312
+      ],
+      "text": "2.2 Record-keeping approach\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        51.02558898925781,
+        668.4884033203125,
+        289.1346740722656,
+        715.8107299804688
+      ],
+      "text": "The oldest theory for recollection storage and retrieval\n(already described by the Greek philosopher Plato) is\ncalled the record-keeping approach [6]. The main idea of\nthis approach is based on the metaphor that like a library is\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        306.14288330078125,
+        58.701515197753906,
+        544.2540283203125,
+        193.15875244140625
+      ],
+      "text": "ﬁlled with books, human memory is ﬁlled with memories.\nIn this library each book stands for a memory and every\nnew experience creates a new book. Searching for a book\nrepresents the retrieval process and in case a stored book is\nnot found, one speaks of forgetting. According to this\ntheory the more memories a person has the harder it gets to\nretrieve the right memory.\nThe literature examples in Sect. 3.1 show that projects\nexist which try to ‘‘record life’’ in order to ‘‘store people’s\nmemories’’. These projects are based on the record-keeping\napproach.\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        306.14288330078125,
+        208.14048767089844,
+        424.7416076660156,
+        218.10308837890625
+      ],
+      "text": "2.3 Constructionist approach\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        306.1416931152344,
+        233.08482360839844,
+        544.2460327148438,
+        716.2782592773438
+      ],
+      "text": "The record-keeping approach is particularly suitable to\n‘‘preserve the past’’, while the constructionist approach [6]\nis more suitable for ‘‘anticipating the future’’. This theory\ndescribes a constantly adapting memory system. Since\nmemories change connections between ideas and concepts,\nmainly recent events, patterns and unique events are stored.\nBy repeating or rehearsing events (talking about them or\nexperiencing similar events several times, such as eating\nbreakfast every day) the connections get stronger (e.g.,\nbetween cereals and breakfast). This explains why a person\nremembers information relating to her expertise with less\neffort compared to new information; the ideas, concepts\nand connections are already present.\nMemory recall happens by means of reconstruction.\nTake the example that someone tries to remember what she\ndid on a speciﬁc Friday around 6 p.m. First, she goes back\nto what she usually did on Fridays, she went to work.\nUsually she stopped working at about 5:30 p.m., thus she\nmust have been on her way home by 6 p.m. Unless it was a\nvery exceptional Friday, this person does not remember at\nwhat time she went home that day, but she infers it from\nher regular pattern. Although this person might be sure that\nshe was on her way home that day, she might have had a\nday off, instead.\nBecause of this reconstruction process memories change\nover time according to current knowledge and beliefs and\nno two recollections of a speciﬁc event are the same [7].\nForgetting occurs when reconstruction is no longer possible\ndue to too many adaptive changes.\nCurrently, the constructionist approach is taken forward\nby the majority of memory researchers (e.g., as in con-\nnectionism [8]). This theory is supported by both psycho-\nlogical and neurophysiological investigations [6]. From\nthis constructionist approach and the general knowledge of\nthe relation between memories and emotions [9], it follows\nthat central components in memory foundation are: prior\nknowledge, personal importance and affect [10]. In addi-\ntion, enduring memories should be: strongly emotional, a\nturning point in the life of the individual or (remain) rel-\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        51.02360153198242,
+        33.542083740234375,
+        544.2588500976562,
+        42.010284423828125
+      ],
+      "text": "434\nPers Ubiquit Comput (2008) 12:433–443\n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        52.44089889526367,
+        733.3864135742188,
+        92.26666259765625,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        51.022605895996094,
+        58.713600158691406,
+        289.1197204589844,
+        205.64300537109375
+      ],
+      "text": "atively unique [11]. The category ‘‘unique memories’’\ncontains a speciﬁc type of memory which is remembered\nwell, namely Flashbulb Memory. Flashbulb memories are\nmemories for dramatic world events, such as the death of\nLady Diana, the Princess of Wales, and the 11th of Sep-\ntember 2001 World Trade Center attacks. Those memories\nare vivid, detailed and long lasting [12].\nAccording to [9], in general, pleasant events are recalled\nbetter than unpleasant events. For more information on the\nstate of the art with respect to models trying to explain the\nrelations between emotion and memory, see for example\n[13].\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        51.022605895996094,
+        220.62474060058594,
+        151.3220672607422,
+        230.58734130859375
+      ],
+      "text": "2.4 Levels of speciﬁcity\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        51.022605895996094,
+        245.51329040527344,
+        289.1156311035156,
+        292.83563232421875
+      ],
+      "text": "A recent contribution to the constructionist theory on\nstorage and retrieval, relevant for the design of augmented\nmemory system, comes from a model that describes three\nlevels of speciﬁcity of autobiographical memories [14]:\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        51.02257537841797,
+        301.2524719238281,
+        289.131591796875,
+        560.36328125
+      ],
+      "text": "1.\nLifetime periods consist of temporal knowledge about\nthe duration of a certain period and thematic knowl-\nedge about common features of this period. Often such\na period lasts for years, for example ‘‘when I was at\nschool’’. Several lifetime periods may be grouped to\nform a higher order theme, such as ‘‘work’’ or ‘‘rela-\ntionships’’.\n2.\nGeneral events cover both repeated and single events,\nwhich lasted for days up to months, for example ‘‘I\nused to play with my best friends after school’’. Groups\nof general events can form clusters, such as ‘‘learning\nto ride a bike’’ or ‘‘being best friends with X’’.\n3.\nEvent-speciﬁc knowledge (ESK) concerns detailed\ninformation unique to a single event (which can again\nbe subdivided into ‘‘microdetails’’), with a duration of\nseconds or hours, for example ‘‘once when sleeping\nover at my friends house I fell and hurt myself when\ntrying to do a somersault’’. ESKs are often accompa-\nnied by ‘‘images that pop into mind’’ and ESKs are\npresumably used to convince listeners that the speaker\nreally remembers.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        51.02256774902344,
+        568.8255615234375,
+        289.1265869140625,
+        715.7549438476562
+      ],
+      "text": "It is thought that lifetime periods and general events are\nstored in a different structure in the brain compared to\nESKs, since ESKs, and also the links between general\nevents and ESKs, are easily forgotten except for rehearsed\nmemories.\nLifetime\nperiods\nand\ngeneral\nevents\nare\nremembered better than ESKs [14].\nMemory retrieval, as demonstrated in laboratory con-\nditions, happens in cycles. This means that recollecting\nstarts with a cue or a short memory description, a dive into\nlong-term memory and then a cycle starts going through\nlifetime periods, general events and ESKs. During and after\neach cycle the supervisory attentional system (SAS) checks\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        306.1398620605469,
+        58.702613830566406,
+        544.2360229492188,
+        130.91253662109375
+      ],
+      "text": "whether the information retrieved does not conﬂict with the\nconstraints imposed on the memory search, which include\nthe mental model of the task, the current self concept and\nthe active themes, goals, and plans of the self. The SAS\ndetermines to inhibit or increase certain activities and\neventually to terminate the search [7].\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        306.14080810546875,
+        145.89427185058594,
+        390.8757019042969,
+        155.85687255859375
+      ],
+      "text": "2.5 Cuing memories\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        306.1407470703125,
+        170.73643493652344,
+        544.2498779296875,
+        716.2757568359375
+      ],
+      "text": "In previous sections it was shown that people reconstruct\nevents according to the constructionist approach. This\nindicates that the memory itself cannot be stored in an\naugmented memory system, because a person is needed to\nrecreate this memory for every recollection. In order to help\npeople reconstruct a memory one can cue memories and\nthese cues could be stored in an augmented memory system.\nA cue (or trigger) is a stimulus that can help someone to\nretrieve information from long-term memory, but only if\nthis cue is related to the to-be-retrieved memory. The\nstimuli most often used in studies are photos, smells or text\nlabels. But anything could be a cue (a spoken word, a color,\nan action or a person), as long as there is a link between the\ncue and the to-be-remembered event. A combination of\ncues increases the chance of retrieving a memory, espe-\ncially when a subject in a cued-recall experiment has to\nperform activities, which have to be remembered later, such\nas to write with a pen or close a door [8, 15].\nIn general, there are two types of cue-usage, namely\ngenerative and direct retrieval, respectively caused by a\nconscious, cyclic memory search process and unconscious\nmemory cuing [14].\nWhat kind of cues might work best for memory retrieval?\nThree memory-type categories exist on this topic, namely\ncontext-, state- and mood-dependent memory [8]. They are\nall based on overlap of internal or external conditions dur-\ning the encoding of a memory and the retrieving of the same\nmemory. The ﬁrst example is called the encoding-speci-\nﬁcity principle [16] and falls within the category context-\ndependent memory. Both principle and category refer to the\nidea that a memory is easier to retrieve if the physical\ncontext during retrieval is (partly) the same as the physical\ncontext during encoding. A famous example of context-\ndependency comes from Godden and Baddeley (1975, as\nmentioned in [8]). They instructed divers to learn words\neither under water or on the beach. They found that the\nnumber of words recalled correctly was high if the retrieval\ncontext was the same as the encoding context, meaning if\nthe words were learned underwater they were best recalled\nunderwater and the same held for the beach condition. The\nperformance dropped signiﬁcantly when the context was\nchanged from underwater to beach or vice versa.\nThe second category explaining a relation between cue\nand retrieval result, is called state-dependent memory,\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        51.02360153198242,
+        33.542083740234375,
+        544.2537841796875,
+        42.010284423828125
+      ],
+      "text": "Pers Ubiquit Comput (2008) 12:433–443\n435\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        504.6235046386719,
+        733.3864135742188,
+        544.4492797851562,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        51.023590087890625,
+        58.713600158691406,
+        289.1336669921875,
+        218.11517333984375
+      ],
+      "text": "including the state-dependency effect [8]. This category\ndoes not focus on the external context of the person\nremembering, but the internal one, which is tested often\nwith participants who are drugged or drunk. In general, it\nappears that when something is learned when drunk, it is\nbest remembered when drunk.\nThe third and last category is called mood-dependent\nmemory, which states that retrieval is best if the mood at\nrecall is similar to the mood at encoding, because of\nhypothesized distinct emotion modes [9]. Although this\neffect, which can be studied with depressed people for\nexample, has been found to be strong for free-recall, the\neffect was not present in cued recall [4].\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        51.023590087890625,
+        233.04014587402344,
+        110.15959167480469,
+        243.00274658203125
+      ],
+      "text": "2.6 Forgetting\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        51.023590087890625,
+        257.9844665527344,
+        289.106689453125,
+        330.19439697265625
+      ],
+      "text": "Sometimes cuing does not help recalling a speciﬁc mem-\nory, and then one might speak of forgetting. Although\nforgetting is not yet understood completely, there is evi-\ndence in support of cue-dependent forgetting, which means\nthat memories are still present in memory but they cannot\nbe accessed, i.e., the right cues cannot be found [17].\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        51.023590087890625,
+        345.1761474609375,
+        200.58409118652344,
+        355.1387634277344
+      ],
+      "text": "2.7 Conclusions on theory overview\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        51.023590087890625,
+        370.1205139160156,
+        289.1336364746094,
+        504.5777587890625
+      ],
+      "text": "Recollecting memories from autobiographical memory,\n‘‘memory for the events of one’s life’’ [1], works by\nmeans of reconstructing memories, which in turn can be\ninitiated by memory cues. Due to changes in, e.g., per-\nsonal belief systems, the outcome of a memory recon-\nstruction can change over time. Therefore a memory is\nnot always a factual representation of what actually\nhappened but it can be a representation of how the event\nat this point in time reﬂects the goals of autobiographical\nmemory, such as creating a personal identity or main-\ntaining relationships.\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        51.02458190917969,
+        531.6648559570312,
+        225.20965576171875,
+        541.62744140625
+      ],
+      "text": "3 Augmented memory system literature\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        51.02458190917969,
+        556.693115234375,
+        289.12762451171875,
+        716.0947265625
+      ],
+      "text": "After the introduction into autobiographical memory the-\nory (Sect. 2) this section gives an overview of relevant\nliterature on augmented memory systems, or systems that\nhelp people recollect memories. Since this is quite a broad\ntopic, the literature is divided into four groups. Each group\nconsists of studies around a central theme in recollecting:\n(1) recording life, (2) reminding tasks, (3) creating cues,\nand (4) augmented memory systems (which can also in-\nclude recording life and creating cues as tools for recol-\nlecting). The studies discussed within these categories can\ninspire future work on any type of augmented memory\nsystems. As will be shown some even formulate recom-\nmendations for designing such systems.\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        306.1428527832031,
+        58.418617248535156,
+        381.98809814453125,
+        68.38121795654297
+      ],
+      "text": "3.1 Recording life\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        306.1416931152344,
+        83.36295318603516,
+        544.2527465820312,
+        715.9954223632812
+      ],
+      "text": "Based on the AM theories mentioned in Sect. 2 human\nmemory does not ‘‘record life’’ and even if a system would\nrecord an event these recordings do not have to be the same\nas the personal memories of this event. However, recording\na person’s life can be the start of recollecting memories,\nbecause when the recordings are later re-experienced they\ncan cue the viewer. The projects mentioned below do not\nfocus on cuing memories, but more on other aspects of\nhaving a database of facts, such as looking up appoint-\nments. The process of recording life is made possible with\nan automatic and, in these cases, electronic ‘‘diary’’, such\nas the familiar [18]. This system contains sensors, cameras\nand microphones, that try to record everything the user\nperceives or experiences. The familiar aims at learning to\nrecord the right event in the multimedia diary. A similar\nstudy was done for the workspace [19], making use of\ncameras, sensors, displays and RFID tags, where speciﬁc\nactivities with artifacts are recorded and replayed in order\nto make the user learn the location of that artifact. This\nproject aims at extending human memory by recording\nevents that are later shown to the user. The forget-me-not\ndevice [20] automatically records several types of ofﬁce\nbehavior, such as meeting people, using the PC and making\ntelephone calls. The user decides to look through the stored\nevents later on a portable device, when she tries to\nremember a name of a colleague or the location of a\ndocument.\nStarner et al. [21] created a remembrance agent which is\na text-based augmented-reality system. This agent is fed by\na database of information recorded by means of wearable\ncomputing that is partly integrated in special glasses and\npartly in special clothing. The wearable computing system\nrecords audio and video, performs face recognition, detects\nlocation and body responses of the wearer. The remem-\nbrance agent can be addressed by typing in commands and\nit can make suggestions to the wearer.\nApart from above-mentioned studies there are indica-\ntions that ‘‘recording life’’ is seen as one of the great\nchallenges for future research [22].\nIn addition to these projects, in which recordings of\nmemories are made automatically without user control,\nthere are also projects in which the user can decide what to\nrecord and what not. The very ﬁrst ideas were already\nwritten down by Bush [2] who proposed the ‘‘memex’’: ‘‘a\nmemex is a device in which an individual stores all his\nbooks, records, and communications, and which is mech-\nanized so that it may be consulted with exceeding speed\nand ﬂexibility. It is an enlarged intimate supplement to his\nmemory’’. According to Bush this memex looks like an\nordinary desk. A more recent description of such an idea is\ncalled ‘‘The Teddy’’ [23]. The Teddy is a small portable\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        51.02360153198242,
+        33.542083740234375,
+        544.2588500976562,
+        42.010284423828125
+      ],
+      "text": "436\nPers Ubiquit Comput (2008) 12:433–443\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        52.44089889526367,
+        733.3864135742188,
+        92.26666259765625,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        51.02360153198242,
+        58.713600158691406,
+        289.1266174316406,
+        317.72222900390625
+      ],
+      "text": "device that each individual carries around his whole life.\nThis device can record anything and the interaction nec-\nessary for retrieval, of e.g., telephone numbers, ID-num-\nbers, or bank accounts, goes via speech recognition.\nThe previous two examples consisted of ideas, while the\nfollowing projects were implemented to record a part of a\nperson’s life. The rememberer [24] is situated in a science\nmuseum and the beneﬁt for the user is that she can decide\nwhich information offered in this museum she wants to\nhave access to later. The user gets a portable PDA or an\nRFID card (both with the same functionality), that can be\nused to select interesting exhibits. When doing so four\nphotos are shot from the user at the speciﬁc stand. When\nthe user leaves the museum she receives a fridge magnet\nwith a unique URL, which links to a website with all the\npersonally requested information and the photos. The\nMyLifeBits project [25] aims at providing software for\npeople who record their own life by collecting all personal\ndocuments and media online. In the near future such\nsoftware could be the basis for an augmented memory\nsystem.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        51.02360534667969,
+        332.7039794921875,
+        136.2387237548828,
+        342.6665954589844
+      ],
+      "text": "3.2 Reminding tasks\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        51.02262878417969,
+        357.5925598144531,
+        289.1286315917969,
+        629.0733642578125
+      ],
+      "text": "Reminding people of tasks concerns prospective memory\n(see Sect. 2), which helps people remember things they\nhave to do, like the well-known knot tied in a handkerchief.\nExamples of investigations in this area include the Mem-\noClip [26]: a pin worn by the user reminds of a location-\nbased task when this user walks into a speciﬁc area. An-\nother example is the CybreMinder [27], a system using\nlocation sensors, cameras and speech recognition, which\nreminds users of speciﬁc conditions, e.g., to take an um-\nbrella when going outside if it is cloudy. This type of\nfunction is not so much related to remembering in the sense\nof reconstructing an event, as well as remembering facts.\nTherefore, the AM-theory is not needed per se, but could\nbe used to facilitate remembering these facts, e.g., by using\ncues. This is done in the following project. Memory\nGlasses [28] go along with a jacket full of computing,\nsensing and a speech recognition system. Reminders,\ndepending on the context, are projected on the inside of the\nmemory glasses.\nNote that the above-mentioned projects all require from\nthe users to insert the events they want to be reminded of\nlater.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        51.02262878417969,
+        643.772216796875,
+        124.077392578125,
+        653.7348022460938
+      ],
+      "text": "3.3 Creating cues\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        51.02162170410156,
+        668.7166137695312,
+        289.09576416015625,
+        716.0389404296875
+      ],
+      "text": "People use memory cues to help them remember (see\nSect. 2.5). One way to create cues is to use a recording of\nan event, which is shown in the ﬁrst project [29]. A history-\nof-use of digital artifacts was created, where the traces of\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        306.138916015625,
+        58.702613830566406,
+        544.2420654296875,
+        218.10418701171875
+      ],
+      "text": "usage implicitly could help people remember what hap-\npened to the artifact. Another way of creating cues is by\nmaking them explicit and let the user decide how to use\nthis knowledge. This was done in the Memory Palace\nproject [30] that used software to recreate a mnemonic\ndevice. The idea is that it helps people’s recall if they place\ntheir to-be-learned material in an imagined house. Later\nwhen they recollect the mental images of the rooms are\nused as cues to help recall.\nOne aspect of creating cues was not covered in any of\nthe studies mentioned in this paper and that is how an\naugmented memory system could extract information from\nan event that later could be used as a cue for recollection.\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        306.138916015625,
+        233.02915954589844,
+        441.88525390625,
+        242.99176025390625
+      ],
+      "text": "3.4 Augmented memory systems\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        306.138916015625,
+        257.9734802246094,
+        544.25,
+        666.4390869140625
+      ],
+      "text": "Browsing through digital photos is often the basis of an\naugmented memory system as can be seen in Table 1. This\ntable gives an overview of devices that are explicitly de-\nsigned to support recollecting or to augment human\nmemory. The text below explains the individual systems in\nsome more detail.\n(It should be noted that in some cases the applications\ndescribed are mere concepts which are not implemented as\nworking demonstrators.1)\nThe Personal Digital Historian [32] makes use of\ntabletop projection. Photos can be browsed by touching the\ncategories who, what, when and where that are presented as\ntext and based on metadata input. The system is especially\nsuitable for multi-user interaction, since people can sit\naround the circular table and turn the GUI in any direction.\nHowever, the ceiling projector ﬁxes it to one location.\nPenPal [33] is a communication device for children\ncreated for a design competition. With the PenPal children\ncan take photos and add sounds or voice annotations, they\ncan create and send images across the internet. The pro-\ntotype consisted of an LCD touch screen device with slots\nfor memory cards, a camera and a microphone.\nThe StoryTrack [34] is a portable touch-screen device\nwhich is meant for enhancing storytelling. The user can\nbrowse and display digital photos and add and play voice\nannotations on the prototype. The touch screen was not\nused; instead the authors mounted new input controls on\nthe edges of the device. The user interface contained a\ndisplay area, a scrollable thumbnail-overview and a section\nshowing information and controls for possible annotations\nassociated with the digital photo currently displayed.\nThe Storytable is an art installation that combines digital\nphotos, videos and songs [35]. This table contains three\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        306.14154052734375,
+        683.8096923828125,
+        544.2147216796875,
+        715.9757080078125
+      ],
+      "text": "1 Commercial devices that can show digital photos and e.g., texts are\nelectronic books, or e-books, such as SoftBook Reader and Rocket\neBook [31], laptops, mobile phones and PDAs.\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        51.02360153198242,
+        33.542083740234375,
+        544.2537841796875,
+        42.010284423828125
+      ],
+      "text": "Pers Ubiquit Comput (2008) 12:433–443\n437\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        504.6235046386719,
+        733.3864135742188,
+        544.4492797851562,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        51.021629333496094,
+        254.58750915527344,
+        289.153564453125,
+        712.8670654296875
+      ],
+      "text": "hidden PCs and three visible PC screens. The project aimed\nat the elderly user and was designed to have two large\nbuttons in the vicinity of each screen. With one of these\nbuttons the user can stop videos and songs from ﬂoating\nover the screen. The other button starts playing the cur-\nrently selected media item. Typed stories can also be added\nto the system.\nThe PhotoShare application [36] makes use of a pro-\njection on a table for displaying digital photos. The user\ninteracts via wooden blocks that can be put on top of a\nprojected thumbnail in order to enlarge it in an appointed\nlocation, both local and remote.\nA project called memoryBox [37] developed a concept\nsupporting random browsing and creating an interactive\nexperience. Clothing buttons are each linked to one digital\nphoto, just like the wooden blocks in the PhotoShare\napplication. When the user runs her hand through the\nbuttons in the memoryBox, the photos appear temporarily\non the display inside the box cover.\nThe Rosebud project [38] links children’s stories to\nkeepsake artifacts, in this case stuffed animals. The chil-\ndren can type stories on their PC, which are ‘‘told’’ to the\nanimal. The animal can even react to the stories by asking\nquestions or by moving, e.g., by nodding its head or\nclapping its paws. Rosebud wants to teach children to treat\ntheir stuffed animals as listeners of their stories. In this\nway, a learning environment is created to improve chil-\ndren’s verbal skills.\nArtifacts can also be attached to souvenirs which is\nshown by MiMe [39]. A prototype was built based on their\nGlowTags-concept, which concerns small artifacts that can\nbe linked to intimate media, such as a printed photo. Two\npeople could have a copy of the same photo, each having a\nGlowTag. Then when one person touches the photo, the\nother person’s tag could start to glow, showing an intimate\nconnection. The tag could also glow when the person in the\nphoto has his/her birthday.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        306.1348876953125,
+        254.57847595214844,
+        544.2427978515625,
+        613.2091064453125
+      ],
+      "text": "HP’s Memory Box [40] ‘‘was built to illustrate the\npossibility of recording and attaching stories to memora-\nbilia kept in a box’’. The project focused on recording and\nplaying spoken stories which were associated with a lim-\nited number of artifacts.\nPOEMs [41], which stands for physical objects with\nembedded memories, is a concept in which physical arti-\nfacts are linked to digital ‘‘memories’’, such as digital\nphotos, audio and video. Two scenarios and a video were\ncreated.\nBritish Telecom created a prototype of a scanner that\ncan scan artifacts, such as souvenirs [42]. When an artifact\nis scanned a PC plays the attached media, like e-mail, text\nmessages, websites and the TV shows photos, videos and\naudio.\nWork from Stevens et al. [43] focuses on parents who\nwant to preserve memories of and for their children. Based\non a series of interviews with parents, design activities and\nfocus groups they designed the so-called living memory\nbox, which makes it possible to link virtual information to\nphysical artifacts. This linking is done by putting an artifact\nin a dedicated box and by selecting media-ﬁles on an at-\ntached display.\nThe studies mentioned above worked on devices or\nartifacts to help people recollect their autobiographical\nmemories. Some of them remain concepts, while others\nhave been developed into working prototypes. Stevens\net al. [43], presented the following recommendations for\nthe design of a future augmented memory system:\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        306.1416931152344,
+        621.6713256835938,
+        544.23779296875,
+        706.3533935546875
+      ],
+      "text": "1.\nDevelop the process of annotating or organizing\nmemories into an activity of personal expression.\n2.\nMake the inclusion of practically any artifact possible\n(which is in line with our earlier ﬁndings, see\nSect. 4.1).\n3.\nBring the interaction away from the PC.\n4.\nDevelop ‘‘natural’’ interactions (i.e., touch and voice).\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        51.02360153198242,
+        58.52912139892578,
+        161.534423828125,
+        106.86746215820312
+      ],
+      "text": "Table 1 Augmented memory\nsystems, in the same order as\nthe description in this paper, are\ncategorized by the media types\nthey support\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        316.51605224609375,
+        63.362945556640625,
+        544.20556640625,
+        71.83114624023438
+      ],
+      "text": "Photo\nText\nSound\nVideo\nArtifact\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        178.58262634277344,
+        82.15306854248047,
+        371.8167724609375,
+        90.71017456054688
+      ],
+      "text": "Personal Digital Historian [32]\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        178.58262634277344,
+        94.90874481201172,
+        418.3046569824219,
+        103.46585083007812
+      ],
+      "text": "PenPal [33]\n·\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        178.58262634277344,
+        107.66442108154297,
+        418.3046569824219,
+        116.22152709960938
+      ],
+      "text": "StoryTrack [34]\n·\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        178.58262634277344,
+        120.42009735107422,
+        470.8591613769531,
+        128.97720336914062
+      ],
+      "text": "Storytable [35]\n·\n·\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        178.58262634277344,
+        133.17576599121094,
+        522.449951171875,
+        141.73287963867188
+      ],
+      "text": "PhotoShare [36]\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        178.58262634277344,
+        145.9314422607422,
+        522.449951171875,
+        154.48855590820312
+      ],
+      "text": "memoryBox [37]\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        178.58262634277344,
+        158.68711853027344,
+        522.449951171875,
+        167.24423217773438
+      ],
+      "text": "Rosebud [38]\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        178.58262634277344,
+        171.4427947998047,
+        522.449951171875,
+        192.69882202148438
+      ],
+      "text": "MiMe [39]\n·\n·\nMemory Box [40]\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        178.58175659179688,
+        196.8973846435547,
+        522.4482421875,
+        205.45449829101562
+      ],
+      "text": "POEMs [41]\n·\n·\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        178.58177185058594,
+        209.65306091308594,
+        522.4474487304688,
+        218.21017456054688
+      ],
+      "text": "Object scanner [42]\n·\n·\n·\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 15,
+      "bbox": [
+        178.58091735839844,
+        222.4087371826172,
+        522.4474487304688,
+        230.96585083007812
+      ],
+      "text": "Living Memory Box [43]\n·\n·\n·\n·\n·\n",
+      "type": 0
+    },
+    {
+      "id": 16,
+      "bbox": [
+        51.02360153198242,
+        33.542083740234375,
+        544.2588500976562,
+        42.010284423828125
+      ],
+      "text": "438\nPers Ubiquit Comput (2008) 12:433–443\n",
+      "type": 0
+    },
+    {
+      "id": 17,
+      "bbox": [
+        52.44089889526367,
+        733.3864135742188,
+        92.26666259765625,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        51.02360153198242,
+        58.430091857910156,
+        289.0917663574219,
+        105.75243377685547
+      ],
+      "text": "5.\nEncourage storytelling at any point.\n6.\nAssure the capability of multiple ‘‘voices’’.\n7.\nCreate unique experiences, especially for creating and\nviewing annotations.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        51.023597717285156,
+        126.7436294555664,
+        211.29885864257812,
+        136.70623779296875
+      ],
+      "text": "3.5 Conclusions on literature overview\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        51.023597717285156,
+        151.63121032714844,
+        289.12359619140625,
+        373.2850036621094
+      ],
+      "text": "The number of studies on augmented memory systems\nshows that the topic of helping people remember is a\npopular one. Despite the popularity the authors are not\naware of studies that mention (autobiographical) memory\ntheory or used it to inform their design. Most studies\ntherefore do not (explicitly) identify that cues are important\nfor recollecting, nor do they use the different levels of\nspeciﬁcity of memories.\nThe majority of examples focuses on ‘‘recording’’\nmemories and not on ‘‘retrieving’’, of which the latter\ncould be based on ‘‘cuing’’ or ‘‘reconstructing’’2 memories.\nSome studies do not even make a distinction between these\nprocesses, perhaps assuming that the process of recording\nmemories can automatically make people recollect.\nAll media types, from digital photos to physical arti-\nfacts, can be used as memory cues in an augmented\nmemory system, although none of the papers explicitly\nmentions cuing as such.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        51.02447509765625,
+        400.6560363769531,
+        169.15101623535156,
+        410.61865234375
+      ],
+      "text": "4 Design recommendations\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        51.02447509765625,
+        425.6842956542969,
+        289.1245422363281,
+        473.00665283203125
+      ],
+      "text": "Based on the literature overview of Sect. 2 we can con-\nclude that the natural way to recollect memories is by\nmeans of cues and this can be supported by an augmented\nmemory system. Therefore our ﬁrst recommendation (R-I):\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        61.00300979614258,
+        481.36669921875,
+        289.09161376953125,
+        516.319091796875
+      ],
+      "text": "R-I An augmented memory system should support\nmemory cuing. It could cue the user automatically and\ncontinuously, as in daily life.\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        51.02446746826172,
+        525.2913818359375,
+        289.12457275390625,
+        647.333251953125
+      ],
+      "text": "The design recommendations given by Stevens et al.\n[43] are a ﬁrst set of guidelines that can be used for the\ndesign of a future augmented memory system. In the fol-\nlowing sections these recommendations will be expanded\nderived from our research on creating an in-home memory-\nrecollection support [45]. The focus is on the interaction\nthrough physical artifacts to which memories are linked:\nsouvenirs (Sect. 4.1), the implemented Digital Photo\nBrowser demonstrator (Sect. 4.2) and autobiographical\nmemory theory and experimentation (Sect. 4.3).\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        306.1417236328125,
+        58.425025939941406,
+        363.5242919921875,
+        68.38762664794922
+      ],
+      "text": "4.1 Souvenirs\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        306.138671875,
+        83.3693618774414,
+        544.2478637695312,
+        715.9754638671875
+      ],
+      "text": "One promising memory cue type is souvenirs, because\nphysical souvenirs can create a counterbalance for the\nincreasing digitization of memory cues (such as digital\nphotos and digital video footage). The usage of souvenirs\nas memory cues is studied in the ﬁeld of autotopography\n[46].\nAutotopography\nstudies\npersonal\ncollections\nof\nphysical artifacts that serve as a memory landscape to the\nowner. These artifacts, such as photos, souvenirs, furni-\nture or jewelry, physically shape an autobiography be-\ncause they link to memories that are important for the\nowner, and therefore these artifacts are important too.\nThis link though is invisible and often unknown to other\npeople. The collection of artifacts, its arrangement (such\nas a home altar), and its location (stored in the attic or\nplaced in the middle of the living room) represent a part\nof the owner’s memory, history and thus identity. At the\nsame time, these artifacts might represent desire, identi-\nﬁcation and social relations, establishing a form of self-\nrepresentation.\nIn addition to some descriptive work on autotopography\nno investigations have been done on the real-world\nimplementation of this concept. There is no data on the\nnumber of autotopographical artifacts, which artifacts can\nbecome autotopographical or what types of memories are\nattached to them. Csikszentmihalyi and Rochberg-Halton\n[47] did study which artifacts people have at home, but\nthey did not ask which artifacts had a souvenir-meaning.\nThey asked for favorite artifacts and then wanted to know\nwhy these artifacts were favorites (the number one reason\nwas because of memories). We were interested the other\nway around, which physical artifacts are available in home\nthat can be used as souvenirs because they cue memories.\nTherefore, we conducted a questionnaire study [45] of\nwhich the most relevant conclusions are summarized be-\nlow.\nPeople appeared to have a collection of souvenirs at\nhome, on average over 50 and most of these souvenirs\ncould be found in the living room and the study. This\nshows that souvenirs are readily available for use together\nwith an augmented memory system. Three categories of\nsouvenirs were identiﬁed: holiday souvenirs, heirlooms\n(including furniture) and gifts. All three categories made\nthe participants recollect memories when they looked at it,\nmeaning they served as memory cues for them. Three-\nquarters of the participants had media-type associations\nwith their most valuable souvenirs, on average 24.3 asso-\nciations per souvenir, such as photos, videos, smells,\nsounds, texts. Therefore we can conclude that souvenirs\nshould be considered as powerful memory cues in an\naugmented memory system, which is our second recom-\nmendation (R-II):\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        51.02325439453125,
+        683.8096923828125,
+        289.12109375,
+        715.9757080078125
+      ],
+      "text": "2 Within the context of artiﬁcial intelligence case-based reasoning is\nused as a method to show how the reconstruction of memories could\nwork [44, pp 8–9].\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        51.02360153198242,
+        33.542083740234375,
+        544.2537841796875,
+        42.010284423828125
+      ],
+      "text": "Pers Ubiquit Comput (2008) 12:433–443\n439\n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        504.6235046386719,
+        733.3864135742188,
+        544.4492797851562,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        61.0015983581543,
+        58.32792663574219,
+        289.1201477050781,
+        80.86486053466797
+      ],
+      "text": "R-II Include souvenirs in an augmented memory system\nas memory cues.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        51.0240592956543,
+        101.7992935180664,
+        216.1461639404297,
+        111.76189422607422
+      ],
+      "text": "4.2 Digital Photo Browser demonstrator\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        51.02305221557617,
+        126.74466705322266,
+        289.1201171875,
+        460.4727783203125
+      ],
+      "text": "In parallel to the studies mentioned before, we also\ndeveloped our own augmented memory system that sup-\nported browsing, searching and sharing digital photos in\nthe home environment and it was called the Digital Photo\nBrowser. This team-effort was carried out in the Phenom\nproject, which was part of the Philips research program on\nambient intelligence [48].\nBased on the results of the souvenir study mentioned in\nthe previous section this Digital Photo Browser supported\nsouvenirs that cued personal recollections and simulta-\nneously could be used as tangible links to digital media, in\nthis case digital photo collections (see Fig. 1). One exam-\nple activity concerns placing a souvenir on the table, which\nwould trigger the handheld touch-screen device to display\nall the photos linked to the souvenir in the photo roll (on\nthe right of the screen). In case you were interested to view\none of these photos that scroll by, you could drag it to the\ncenter of the screen for a personal enlargement. If you\ndecided that you wanted to show a particular photo to your\nguests, you could drag it to the thumbnail of the TV (on the\nleft of the screen) and it would be displayed on the tele-\nvision. This supports both public and private photo\nbrowsing. Photos can also be displayed on a digital photo\nframe in the cupboard or can be sent to a photo printer, all\nwirelessly.\nFor more details on the working Digital Photo Browser\ndemonstrators, see [45, 49–52].\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        306.1383056640625,
+        58.707008361816406,
+        544.2682495117188,
+        541.8740844726562
+      ],
+      "text": "More and more people create digital recollection-cues,\nsuch as digital photos and digital video footage. Therefore\nthe design of an augmented memory system should be\nbased on a digital device in order to be able to store and\nplay those digital media. On the other hand, there is still the\nopportunity to combine the digital cues with the physical\nones, like the souvenirs in the Digital Photo Browser\ndemonstrator. This combination has several beneﬁts, such\nas using the physical artifacts people already have that are\noften valuable to them. Another beneﬁt is that souvenirs\nare traditionally used to cue memories, therefore helping\nthe recollection process in a natural way. The combination\nof physical and digital artifacts might also help people who\nare not experienced in working with digital devices in their\ninteraction with those new technologies.\nFor the Digital Photo Browser the link between souvenir\nand photo seems also useful since often souvenirs are\nbought on a holiday (see previous section) and the buyer\nalso creates the digital photos there, which later can be\nlinked easily to the corresponding souvenir. Therefore the\nbuyer and photographer, who is also the user of the Digital\nPhoto Browser, will automatically have a mental model\nlinking the souvenirs to the digital photos.\nPhysical artifacts representing shortcuts to subsets of\ndigital photos, which is called tangible interaction or a\ngraspable/tangible user interface [53, 54], were chosen for\nthe following reasons: (1) quick access to photos, (2) a self-\nchosen artifact is the link, so there is room for personali-\nzation, (3) people already know beforehand the mental link\nbetween the artifact or souvenir and the photos, since they\ncreated the link themselves, (4) the interaction style makes\nit possible to link physical with virtual, making digital\nphotos tangible, (5) at the same time the souvenirs provide\nmemory cues to the user, (6) the affordances of touching\nand releasing a physical artifact serve as natural start and\nstop events in the interaction [55] and (7) souvenirs might\nfacilitate storytelling, or sharing recollections [56]. Be-\ncause of these reasons the following recommendation can\nbe formulated:\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        316.1158447265625,
+        550.2341918945312,
+        544.244384765625,
+        585.1865234375
+      ],
+      "text": "R-III Include souvenirs in an augmented memory system\nin the same way as tangible artifacts in tangible\ninteraction.\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        51.02360153198242,
+        594.1588745117188,
+        544.2484130859375,
+        716.20068359375
+      ],
+      "text": "Physical artifacts, such as furniture, souvenirs, artifacts\nand printed photos, should be linked to the device and\nmaintain their original function. The user can decide what\nshe wants to associate to the augmented memory system\nand the options should include all kinds of media, ranging\nfrom a piece of text to a complete bodily experience. In this\npaper the focus is on media that are currently available for\nthe regular user, namely: sounds/music, video, photos/\npictures, physical artifacts/souvenirs/keepsakes/mementos/\nheirlooms/furniture, and text.\nFig. 1 The Digital Photo Browser demonstrator with souvenirs as\ntangible artifacts (photo: Philips Research)\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        51.02360153198242,
+        33.542083740234375,
+        544.2588500976562,
+        42.010284423828125
+      ],
+      "text": "440\nPers Ubiquit Comput (2008) 12:433–443\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        52.44089889526367,
+        733.3864135742188,
+        92.26666259765625,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        51.02360153198242,
+        58.430091857910156,
+        175.2841033935547,
+        68.39269256591797
+      ],
+      "text": "4.3 Autobiographical memory\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        51.023597717285156,
+        83.37442779541016,
+        289.1256103515625,
+        192.944091796875
+      ],
+      "text": "Section 2.1 mentioned the diverse functions of autobio-\ngraphical memory, including problem solving, regulating\nmoods and creating and maintaining relation ships. A fu-\nture augmented memory system could in theory support all\nthese functions. The question however is whether people\nwill use such a device for all these functions, since the\nfocus of the examples in this paper is predominantly on\nsupporting personal identity and sharing experiences with\nother people, only two of the six AM-functions.\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        61.00114059448242,
+        201.36094665527344,
+        289.11370849609375,
+        248.78546142578125
+      ],
+      "text": "R-IV Choose explicitly which functions of autobiograph-\nical memory should be supported by the augmented\nmemory system and base the design of the system on\nthese decisions.\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        51.023597717285156,
+        257.7019958496094,
+        289.1266174316406,
+        379.74383544921875
+      ],
+      "text": "Most augmented memory system examples mentioned\nin Sect. 3 did not explicitly choose a particular AM-func-\ntion that should be supported. Most examples focused on\nimplementing the recording part of the remembering pro-\ncess, without even mentioning retrieval. For an optimal\naugmented memory system the selected function and rec-\nollection process need to be optimized. For example, an\naugmented memory system focusing on personal identity,\nneeds a different recording and retrieval process, compared\nto a system recording one’s life.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        61.00114440917969,
+        388.1038818359375,
+        289.0888671875,
+        435.5284118652344
+      ],
+      "text": "R-V Choose which part of the remembering process\nshould be supported by the augmented memory system:\nrecording and/or retrieving memories. Design these with\nthe requirements of the chosen function (R-IV) in mind.\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        51.023597717285156,
+        444.5007019042969,
+        289.1196594238281,
+        678.621826171875
+      ],
+      "text": "An interesting remark resulting from the Maypole pro-\nject [57] was made about the truthfulness of physical ver-\nsus digital photos. A lot of people do not know whether to\nbelieve the contents of a digital photo, since anybody\nnowadays can change or edit them with software on their\nown personal PCs. But, according to Maypole, printed\nphotos do also not represent real everyday life in the sense\nthat people go to great lengths to make a family look\nhappy, successful and prosperous in a photograph, whether\nthis is true or not.\nFrom the literature mentioned in Sect. 2 it was learned\nthat memories do not stay the same over time, they are, just\nas photos, not per se a carbon-copy of reality. People’s\nbeliefs and contexts change and therefore the reconstruc-\ntion of memories can change as well. This is an important\nfact for an augmented memory system, since it implies that\nthis device is really only a support for the user. Ultimately,\nit is the user who has to recall the memories herself.\nTherefore:\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        61.00114822387695,
+        686.9818725585938,
+        289.12371826171875,
+        709.518798828125
+      ],
+      "text": "R-VI An augmented memory system should not neces-\nsarily present recorded material as the ‘‘only’’ instanti-\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        316.1184387207031,
+        58.419044494628906,
+        544.2271728515625,
+        80.85381317138672
+      ],
+      "text": "ation of what really happened, since this might interfere\nwith the actual recollections of the user.\n",
+      "type": 0
+    },
+    {
+      "id": 8,
+      "bbox": [
+        306.139892578125,
+        89.8261489868164,
+        544.2410278320312,
+        236.75555419921875
+      ],
+      "text": "In addition to remembering, recollection also comprises\nrehearsal. Every time a memory has been remembered\n(thought about or communicated) this information either\nwill be stored more securely, or the information changes,\nbecause the context has changed. This implies that adding,\ndeleting or changing metadata to an augmented memory\nsystem should be ﬂexible. People might change their mind\non the story behind a photo or souvenir, which requires a\nmetadata system that can easily be adapted. Perhaps it\ncould be interesting to keep an interaction history, such as\nthe one described in [50], which keeps certain changes\nmade by the user, e.g., to digital photos, as metadata.\n",
+      "type": 0
+    },
+    {
+      "id": 9,
+      "bbox": [
+        316.117431640625,
+        245.11558532714844,
+        544.2391967773438,
+        267.65252685546875
+      ],
+      "text": "R-VII Create a metadata system that can be changed\neasily by the user.\n",
+      "type": 0
+    },
+    {
+      "id": 10,
+      "bbox": [
+        306.1388854980469,
+        276.62481689453125,
+        544.2361450195312,
+        348.8347473144531
+      ],
+      "text": "The theory on AM’s levels of speciﬁcity (Sect. 2.4)\nassumes that the process of recollecting starts with the\nhighest of three levels of speciﬁcity, life-time periods, and\ncontinues to general events, ending with ESK. Depending\non the goal of the augmented memory system the design\nshould focus on different levels of speciﬁcity:\n",
+      "type": 0
+    },
+    {
+      "id": 11,
+      "bbox": [
+        316.1164245605469,
+        357.1947937011719,
+        544.2679443359375,
+        466.92340087890625
+      ],
+      "text": "R-VIII If an augmented memory system has the goal to\nsupport people’s remembering as much as possible, it\nshould focus on ESK. If the goal is to support the general\nstructure of memory, the focus has to be on lifetime\nperiods and general events. If the system should support\nthe user through the whole process of remembering the\npresented information should relate to the recollection\ncycle with its supervisory attentional system (SAS) and\nall three levels of speciﬁcity.\n",
+      "type": 0
+    },
+    {
+      "id": 12,
+      "bbox": [
+        306.1387939453125,
+        475.83990478515625,
+        544.2439575195312,
+        709.9609985351562
+      ],
+      "text": "An augmented memory system for recollection of\neveryday memories beneﬁts most from context-dependent\nmemory cues (Sect. 2.5). Such cues could consist of any-\nthing physically related to the external context of the to-be-\nremembered event, ranging from photos to sounds to\nphysical artifacts, which supports R-II.\nWithin the context of the encoding-speciﬁcity principle\na real-life cuing experiment was realized in order to test the\nefﬁciency of memory detail (or ESK) recall for ﬁve cue-\ntypes: photos, smells, sounds, souvenirs and videos [45, 58,\n59]. Against expectation, text cues (the no-cue condition)\ngenerated signiﬁcantly more ESKs than the cued condition.\nOur explanation for this unexpected result was that cues\nmake people focus on what they perceive instead of trying\nto think of other memories that might be related. For\nexample, when asking about a speciﬁc event, while giving\nthe participant a photo, this person might focus on photo-\nrelated memories instead of freely recall any related\nmemories. Therefore, if the goal is to remember as much as\n",
+      "type": 0
+    },
+    {
+      "id": 13,
+      "bbox": [
+        51.02360153198242,
+        33.542083740234375,
+        544.2537841796875,
+        42.010284423828125
+      ],
+      "text": "Pers Ubiquit Comput (2008) 12:433–443\n441\n",
+      "type": 0
+    },
+    {
+      "id": 14,
+      "bbox": [
+        504.6235046386719,
+        733.3864135742188,
+        544.4492797851562,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        51.02259826660156,
+        58.713600158691406,
+        289.1196594238281,
+        317.72222900390625
+      ],
+      "text": "possible text should be the main cue type in an augmented\nmemory system.\nHowever, it might be dangerous to restrict to text (based\non this experiment) since there are more dimensions to\nrecollecting that were not tested. Examples of these addi-\ntional dimensions are: pleasure while recollecting, the\nability to change the user’s mood, the intensity of the\nmemory, the effect of cues a long time after the memory-\ncreation, the speed of the memory-recall and perhaps per-\nsonal preferences for certain cue types. Although those\ndimensions were not investigated it is assumed that e.g., the\npleasure of the recall process is bigger with photos than with\nonly text, especially in a situation where someone is com-\nmunicating her memories to somebody else. The pleasure\naspect was often apparent during the summative evaluation\nof the Digital Photo Browser [45] in both storyteller and\nlistener, shown by smiling faces, pointing ﬁngers towards\nthe photos and concentrated conversations. In addition, cues\nmight have different effects for the different age groups\n[60]. Therefore, more research is needed to investigate these\nother dimensions of the recollection experience.\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        51.02259826660156,
+        345.09326171875,
+        112.41712951660156,
+        355.0558776855469
+      ],
+      "text": "5 Conclusions\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        51.02259826660156,
+        370.06573486328125,
+        289.1257019042969,
+        716.2660522460938
+      ],
+      "text": "It was long assumed that memories are stored as complete\nevents and that whenever you recollect a memory, the\ncomplete story of the event as it happened, will come back\nto you. This is not how autobiographical memory works.\nRemembering is a process in which you reconstruct what\nhappened, based on the strength of the relations between\nconcepts stored in memory. This means that what you\nrecollect does not have to be what happened at that speciﬁc\npoint in time, since the relations between concepts or the\nconcepts themselves can change over time or become\ninaccessible (which we experience as forgetting). There-\nfore an augmented memory system cannot store memories.\nUsers of such a system should be able to use cues to\ninitiate or facilitate this reconstruction process. They\nshould (implicitly) steer the recollection process to ﬁt their\ncurrent ‘‘vision’’ on the events that have occurred, because\nthere can be reasons behind memory changes and therefore\nthey should be supported. Examples of memory cues are\nphotos, sounds, smells, texts and souvenirs.\nInteresting areas for future research concern how the\ndifferent functions of autobiographical memory can be\nsupported by dedicated augmented memory systems and\nwhat the relations are between memory cues used and the\n(kind and strength of the) memories that are recollected\n(e.g., do the cues become memories?). Of course, longi-\ntudinal studies of augmented memory systems should give\ninsights in all related aspects of everyday recollecting (e.g.,\nthe actual use of cues, physical and digital media).\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        306.1416931152344,
+        58.41577911376953,
+        544.2606201171875,
+        116.78897094726562
+      ],
+      "text": "Acknowledgments\nThe authors would like to thank I. Wessel for\nintroducing us to and guiding us through the ﬁeld of autobiographical\nmemory, A. Kohlrausch and M. Rauterberg for their support during\nthe mentioned studies and the other members of the project team that\ncreated the Digital Photo Browser: E. Dijk, N. De Jong, E. Van\nLoenen, D. Tedd, D. Teixeira and Y. Qian.\n",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "bbox": [
+        306.1416931152344,
+        145.2564239501953,
+        352.7855529785156,
+        155.21900939941406
+      ],
+      "text": "References\n",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "bbox": [
+        306.140869140625,
+        168.92483520507812,
+        544.2716064453125,
+        715.3584594726562
+      ],
+      "text": "1. Conway MA, Rubin DC (1993) The structure of autobiographical\nmemory. In: Collins AF, Gathercole SE, Conway MA, Morris PE\n(eds) Theories of memory. Psychology Press, Hove, pp 103–137\n2. Bush V (1945) As we may think. Atl Mon 176(1):101–108\n3. Conway MA (2001) Sensory-perceptual episodic memory and its\ncontext: autobiographical memory. Philos Trans R Soc Lond B\n356:1375–1384\n4. Eysenck MW, Keane MT (2000) Cognitive psychology: a stu-\ndent’s handbook. Psychology Press, Hove\n5. Cohen G (1996) Memory in the real world. Psychology Press,\nHove\n6. Guenther RK (1998) Human cognition, upper saddle river. Pre-\nntice-Hall, USA\n7. Conway MA (1996) Autobiographical knowledge and autobio-\ngraphical memories. In: Rubin DC (ed) Remembering our past:\nstudies in autobiographical memory. Cambridge University Press,\nCambridge, pp 67–93\n8. Baddeley AD (1999) Essentials of human memory. Psychology\nPress, Hove\n9. Oatley K, Jenkins JM (1996) Understanding emotions. Blackwell,\nCambridge\n10. Rubin DC (1996) Remembering our past. Cambridge University\nPress, Cambridge\n11. Neisser U (1982) Memory observed: remembering in natural\ncontexts. WH Freeman, San Francisco\n12. Brown R, Kulik J (1977) Flashbulb memories. Cognition 5:73–99\n13. Philippot P, Schaefer A (2001) Emotion and memory. In: Mayne\nTJ, Bonanno GA (eds) Emotions. Current issues and future\ndirections. The Guilford Press, New York, pp 82–122\n14. Conway MA, Pleydell-Pearce CW (2000) The construction of\nautobiographical memories in the self-memory system. Psychol\nRev 107:261–288\n15. Engelkamp J (1998) Memory for actions. Psychology Press, Hove\n16. Tulving E (1983) Elements of episodic memory. Oxford Uni-\nversity Press, Oxford\n17. Tulving E (1974) Cue-dependent forgetting. Am Sci 62:74–82\n18. Clarkson B, Mase K, Pentland A (2001) The familiar: a living\ndiary and companion. In: Proceedings of the ACM conference on\nhuman factors in computing systems (CHI’01), pp 271–272\n19. Ikei Y, Hirose Y, Hirota K, Hirose M (2003) iFlashback: a\nwearable system for reinforcing memorization using interaction\nrecords. In: Proceedings of human–computer interaction inter-\nnational (HCI-Int. 2003), pp 754–758\n20. Lamming M, Flynn M (1994) ‘‘Forget-me-not’’ intimate com-\nputing in support of human memory. In: Proceedings of\nFRIEND21, ‘94 international symposium on next generation\nhuman interface\n21. Starner T, Mann S, Rhodes B, Levine J, Healey J, Kirsch D,\nPicard R, Pentland A (1997) Augmented reality through wearable\ncomputing. Presence 6(4):386–398\n22. Fitzgibbon A, Reiter E (2003) ‘‘Memories for life’’: managing\ninformation over a human lifetime, Retrieved 14 Mar 2007, from\nhttp://www.csd.abdn.ac.uk/publications/TR/2002/tr0207.pdf\n23. Norman DA (1992) The Teddy, chapter 6 of the book: Turn\nsignals are the facial expression of automobiles, Addison Weas-\n",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "bbox": [
+        51.02360153198242,
+        33.542083740234375,
+        544.2588500976562,
+        42.010284423828125
+      ],
+      "text": "442\nPers Ubiquit Comput (2008) 12:433–443\n",
+      "type": 0
+    },
+    {
+      "id": 7,
+      "bbox": [
+        52.44089889526367,
+        733.3864135742188,
+        92.26666259765625,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    }
+  ],
+  [
+    {
+      "id": 0,
+      "bbox": [
+        51.022464752197266,
+        58.940582275390625,
+        289.15667724609375,
+        625.273681640625
+      ],
+      "text": "ley, but now out of print. Retrieved 14 Mar 2007, from http://\nwww.jnd.org/TurnSignals/TS-TheTeddy.html\n24. Fleck M, Frid M, Kindberg, T, O’Brien-Strain, Eamonn, Rajani\nR, Spasojevic M (2002a) Rememberer: a tool for capturing mu-\nseum visits. In: Proceedings of the ubiquitous computing con-\nference (UbiComp 2002), pp 48–55\n25. Gemmell J, Bell G, Lueder R (2006) MyLifeBits: a personal\ndatabase for everything. Commun ACM 49(1):88–95\n26. Beigl M (2000) MemoClip: a location-based remembrance\nappliance. Pers Technol 4:230–233\n27. Dey AK, Abowd GD (2000) CybreMinder: a context-aware\nsystem for supporting reminder. In: Proceedings of handheld and\nubiquitous computing (HUC’00), pp 172–186\n28. DeVaul RW, Clarkson B, Pentland AS (nd) The Memory Glas-\nses: Towards a Wearable, Context Aware, Situation-appropriate\nReminder System, Retrieved 6 Oct, 2003, from the Citeseer-\nwebsite: http://citeseer.nj.nec.com/493611.html\n29. Schu¨tte AA (1998) Patina: layering a history-of-use on digital\nobjects, Masters thesis. MIT Media Laboratory, Cambridge\n30. Harman J (2001) Creating a memory palace using a computer. In:\nProceedings of the ACM conference on human factors in com-\nputing systems (CHI’01), pp 407–408\n31. Harrison BL (2000) E-Books and the future of reading. IEEE J\nComput Graph Appl, pp 32–39\n32. Shen C, Lesh N, Vernier F (2003) Personal digital historian: story\nsharing around the table. Interactions, pp 15–22\n33. Piernot PP, Felciano RM, Stancel R, Marsh J, Yvon M (1995)\nDesigning the PenPal: blending hardware and software in a user-\ninterface for children. In: Proceedings of the ACM conference on\nhuman factors in computing systems (CHI’95), pp 511–518\n34. Balabanovic´ M, Chu LL, Wolff GJ (2000) Storytelling with\ndigital photographs. In: Proceedings of the ACM conference on\nhuman factors in computing systems (CHI’00), pp 564–571\n35. De Verhalentafel (n.d.) Retrieved 14 Mar 2007 from De Waag’s\nwebsite: http://www.waag.org/verhalentafel (in Dutch and partly\nin English)\n36. Greef P de, IJsselsteijn WA (2001) Social presence in a home\ntele-application. Cyberpsychol Behav 4:307–315\n37. Mingo K, Dahiya R (2002) MemoryBox project, Retrieved 14\nMar 2007,\nfrom the\nIvrea\nUniversity\nwebsite:\nhttp://pro-\njects.interaction-ivrea.it/endofyear/en/student/desire/memory-\nbox.asp#\n38. Glos J, Cassell J (1997) Rosebud: technological toys for story-\ntelling. In: Proceedings of the ACM conference on human factors\nin computing systems (CHI’97), pp 359–360\n39. Multiple Intimate Media Environments (2001) Retrieved 14 Mar\n2007, from: http://www.mimeproject.org\n40. Frohlich DM, Murphy R (2000) The memory box. Pers Technol\n4:238–240\n41. Ullmer B (1997) Models and mechanisms for tangible user\ninterfaces, Masters thesis. MIT Media Laboratory, Cambridge\n42. British Telecom (2003) Seashell offers digital memories, Re-\ntrieved 14 Mar 2007 from BBCNews’ website: http://news.-\nbbc.co.uk/1/hi/technology/2985063.stm\n43. Stevens MM, Abowd GD, Truong KN, Vollmer F (2003) Getting\ninto the living memory box: family archives & holistic design.\nPers Ubiquitous Comput 7:210–216\n",
+      "type": 0
+    },
+    {
+      "id": 1,
+      "bbox": [
+        306.14056396484375,
+        58.608001708984375,
+        544.275634765625,
+        585.1293334960938
+      ],
+      "text": "44. Watson I, Marir F (1994) Case-based reasoning: a review.\nKnowledge Eng Rev 9(4):355–381\n45. Hoven EAWH van den (2004) Graspable cues for everyday\nrecollecting, Department of Industrial Design, Eindhoven Uni-\nversity of Technology, The Netherlands ISBN 90–386-1958-8\n46. Gonza´lez JA (1995) Autotopographies. In: Brahm G Jr, Driscoll\nM (eds) Prosthetic territories: politics and hypertechnologies.\nWestview Press, Boulder, pp 133–150\n47. Csikszentmihalyi M, Rochberg-Halton E (1981) The meaning of\nthings: domestic symbols and the self. Cambridge University\nPress, Cambridge\n48. Aarts E, Marzano S (2003) The new everyday, views on ambient\nintelligence. 010 Publishers, Rotterdam\n49. Hoven E van den, Eggen B (2003) Digital photo browsing with\nsouvenirs. In: Proceedings of the interact 2003, September 2003,\nZurich, pp 1000–1003\n50. Qian Y (2004) Data synchronization and browsing for home\nenvironments, Ph.D. thesis, Technische Universiteit Eindhoven,\nThe Netherlands, ISBN 90-386-0832-2\n51. Dijk EO (2004) Indoor ultrasonic position estimation using a\nsingle base station, Ph.D. thesis, Technische Universiteit Ein-\ndhoven, The Netherlands, ISBN 90-386-0912-4\n52. Teixeira D, Verhaegh W, Ferreira M (2003) An integrated\nframework for supporting photo retrieval activities in home\nenvironments. In: Proceedings of the ﬁrst european symposium\non ambient intelligence (EUSAI 2003). Veldhoven, The Neth-\nerlands, pp 288–303\n53. Fitzmaurice GW, Ishii H, Buxton W (1995) Bricks: laying the\nfoundations for graspable user interfaces. In: Proceedings of the\nACM conference on human factors in computing systems\n(CHI’95), pp 442–449\n54. Ullmer B, Ishii H (2000) Emerging frameworks for tangible user\ninterfaces. IBM Syst J 39(3/4):915–931\n55. Fitzmaurice GW (1996) Graspable user interfaces, Ph.D. thesis,\nDepartment of Computer Science, University of Toronto\n56. Glos J, Umaschi M (1997) Once upon an object... Computa-\ntionally-augmented toys for storytelling. In: Proceedings of the\ninternational conference on computational intelligence and mul-\ntimedia applications (ICCIMA’97), pp 245–249\n57. Pemberton S (1999) The digital hug. Special issue of interactions,\nNovember and December 1999\n58. Hoven E van den, Eggen B (2003) The design of a recollection\nsupporting device: a study into triggering personal recollections.\nIn: Proceedings of the HCI-Int. 2003, June 2003, Crete, part II, pp\n1034–1038\n59. Hoven E van den, Eggen B, Wessel I (2003) Context-dependency\nin the real world: how different retrieval cues affect Event-Spe-\nciﬁc Knowledge in recollections of a real-life event, SARMAC\nV, Aberdeen, July 2003\n60. Sauzeon H, N’Khaoua B, Lespinet V, Guillem F, Claverie B\n(2000) Age effect in recall performance according to levels of\nprocessing, elaboration, and retrieval cues. Exp Aging Res\n26:57–73\n",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "bbox": [
+        51.02360153198242,
+        33.542083740234375,
+        544.2537841796875,
+        42.010284423828125
+      ],
+      "text": "Pers Ubiquit Comput (2008) 12:433–443\n443\n",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "bbox": [
+        504.6235046386719,
+        733.3864135742188,
+        544.4492797851562,
+        748.3304443359375
+      ],
+      "text": "123\n",
+      "type": 0
+    }
+  ]
+]

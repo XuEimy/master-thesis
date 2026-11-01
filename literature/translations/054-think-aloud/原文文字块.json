@@ -1,0 +1,1498 @@
+[
+  {
+    "page": 0,
+    "block": 0,
+    "source_rect": [
+      56.62200164794922,
+      31.710655212402344,
+      263.91473388671875,
+      61.33465576171875
+    ],
+    "source_text": "Hutmacher et al. \nCognitive Research: Principles and Implications           (2025) 10:18  \nhttps://doi.org/10.1186/s41235-025-00627-4\n"
+  },
+  {
+    "page": 0,
+    "block": 1,
+    "source_rect": [
+      61.822898864746094,
+      89.10063934326172,
+      183.67190551757812,
+      105.2076416015625
+    ],
+    "source_text": "ORIGINAL ARTICLE\n"
+  },
+  {
+    "page": 0,
+    "block": 2,
+    "source_rect": [
+      56.62200164794922,
+      115.64900970458984,
+      538.31884765625,
+      196.48101806640625
+    ],
+    "source_text": "Mediated autobiographical remembering \nin the digital age: insights from an experimental \nthink‑aloud study\n"
+  },
+  {
+    "page": 0,
+    "block": 3,
+    "source_rect": [
+      56.62200164794922,
+      203.29855346679688,
+      408.62298583984375,
+      217.24761962890625
+    ],
+    "source_text": "Fabian Hutmacher1*   , Beate Conrad1, Markus Appel1    and Stephan Schwan2   \n"
+  },
+  {
+    "page": 0,
+    "block": 4,
+    "source_rect": [
+      63.122100830078125,
+      252.53594970703125,
+      517.76416015625,
+      388.22265625
+    ],
+    "source_text": "Abstract \nAutobiographical remembering may undergo significant transformations in the digital age, in which \nthe omnipresence of digital tools has led to an increased density of recorded life episodes. To gain deeper \ninsights into these processes, we conducted an experimental think-aloud study in which participants (N = 41) had \nto remember an important day and a random day that happened about one year ago. As the results demonstrate, \nparticipants repeatedly switched between information stored in their minds and information stored in external \nresources when remembering these events, with digital resources playing a particularly prominent role. The \nnumber of changes between internal memories and external resources as well as the number of digital resources \nthat individuals used were higher when remembering the random day. In sum, this suggests that the iterative \ncombination of information stored in one’s mind and information stored in external resources can be considered \na potentially symbiotic process.\n"
+  },
+  {
+    "page": 0,
+    "block": 5,
+    "source_rect": [
+      56.62200164794922,
+      412.00262451171875,
+      259.9599609375,
+      436.2226257324219
+    ],
+    "source_text": "Keywords  Autobiographical memory, Digital age, \nAMEDIA-model, Think-aloud method\n"
+  },
+  {
+    "page": 0,
+    "block": 6,
+    "source_rect": [
+      56.62200164794922,
+      447.5359191894531,
+      292.8587951660156,
+      582.90283203125
+    ],
+    "source_text": "Significance statement\nNever before have humans preserved more information \nabout their lives than today. In other words, the constant \naccumulation of data from different media sources has \nled to an increased density of recorded life episodes. It \nseems intuitively plausible to assume that this profoundly \nshapes the way we remember and reconstruct our lives. \nHow this impact may look like is largely unchartered \nterritory so far. To integrate the available evidence \nand to provide a framework for future research, we \nhave recently proposed a model for autobiographical \n"
+  },
+  {
+    "page": 0,
+    "block": 7,
+    "source_rect": [
+      304.7286071777344,
+      412.0692443847656,
+      540.9185180664062,
+      654.511474609375
+    ],
+    "source_text": "remembering in the digital age. In this model, we assume \nthat autobiographical remembering is an iterative \nprocess that is based on the combination of information \nstored in one’s mind and information stored in external \nresources. In addition, we also assume that digital \nexternal resources play a key role for autobiographical \nremembering in our modern-day societies. The present \nstudy tested and confirmed these assumptions. Apart \nfrom that, we also varied whether participants had to \nremember and reconstruct an important day or a random \nday. Participants used more external resources and \nchanged more frequently between information stored in \ntheir minds and information stored in external resources \nwhen remembering the random day. In sum, the present \nstudy provides compelling evidence for the importance of \nconsidering the interplay between information stored in \nour minds and information stored in external resources \nas well as the role of digital resources when it comes \nto autobiographical remembering in the twenty-first \ncentury.\n"
+  },
+  {
+    "page": 0,
+    "block": 8,
+    "source_rect": [
+      463.2865905761719,
+      87.50890350341797,
+      535.5147094726562,
+      103.61590576171875
+    ],
+    "source_text": "Open Access\n"
+  },
+  {
+    "page": 0,
+    "block": 9,
+    "source_rect": [
+      180.5449981689453,
+      685.4058837890625,
+      534.056884765625,
+      742.0848388671875
+    ],
+    "source_text": "© The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which \npermits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the \noriginal author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or \nother third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line \nto the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory \nregulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this \nlicence, visit http://creativecommons.org/licenses/by/4.0/.\n"
+  },
+  {
+    "page": 0,
+    "block": 10,
+    "source_rect": [
+      383.14801025390625,
+      30.728355407714844,
+      538.5855102539062,
+      60.75335693359375
+    ],
+    "source_text": "Cognitive Research: Principles\nand Implications\n"
+  },
+  {
+    "page": 0,
+    "block": 11,
+    "source_rect": [
+      56.692901611328125,
+      605.9751586914062,
+      255.67996215820312,
+      659.47265625
+    ],
+    "source_text": "*Correspondence:\nFabian Hutmacher\nfabian.hutmacher@uni-wuerzburg.de\n1 Human‑Computer‑Media Institute, Julius-Maximilians-Universität \nWürzburg, Oswald‑Külpe‑Weg 82, 97074 Würzburg, Germany\n2 Leibniz-Institut Für Wissensmedien, Tübingen, Germany\n"
+  },
+  {
+    "page": 1,
+    "block": 0,
+    "source_rect": [
+      56.693511962890625,
+      31.705528259277344,
+      538.6614990234375,
+      41.84954833984375
+    ],
+    "source_text": "Page 2 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n"
+  },
+  {
+    "page": 1,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      86.12085723876953,
+      292.8915710449219,
+      713.290771484375
+    ],
+    "source_text": "Introduction\nNever before have humans preserved more information \nabout their lives than today in our digital societies—\njust think about the pictures that we take using our \nsmartphones, the e-mails and WhatsApp-messages that \nwe write, the information that we post on social media \n(e.g., BeReal, Instagram, Snapchat), or the data that we \nrecord using health trackers and wearables (see, e.g., Cho \net al., 2023). In other words, the constant accumulation of \ndata from different media sources has led to an increased \ndensity of recorded life episodes (Heersmink & Carter, \n2020; Kalnikaitė & Whittaker, 2012). It seems intuitively \nplausible to assume that this profoundly shapes the \nway we remember and reconstruct our lives. To date, \nhowever, research on autobiographical remembering in \nthe digital age is still nascent.\nBuilding on previous discussions about the extended \nmind and technology-mediated memory (e.g., Clark & \nChalmers, 1998; Eliseev & Marsh, 2021; Finley & Naaz, \n2023; Finley et  al., 2018; Heersmink, 2022; Marsh & \nRajaram, 2019; Schönpflug & Esser, 1995; Sutton, 2010), \ntransactive memory (Wegner et  al., 1985; for a review, \nsee, e.g., Huebner, 2016; Peltokorpi, 2008), and electronic \nmemory (Clowes, 2013; see also Bell & Gemmell, 2009), \nwe recently suggested a model for Autobiographical \nMemory in the Digital Age (AMEDIA-Model; Hutmacher \net al., 2024a, 2024b) that tries to integrate the available \nevidence and to provide a framework for future research. \nIn short, the AMEDIA-Model views autobiographical \nremembering as the process of combining information \nstored in one’s mind (e.g., what one remembers about \none’s last birthday) and information stored in external \nresources (e.g., photos, videos, instant messages, and \ndiary entries about one’s last birthday). Crucially, the \ninterplay between information stored in one’s mind \nand external resources is dynamic and iterative rather \nthan static and unidirectional: For instance, you could \npick up your phone to scroll through the photo gallery \nbecause you are not sure anymore whether a certain \nfriend attended the birthday party. Assume that the \nphotographs confirm that the friend had indeed shown \nup. While scrolling through the photographs, however, \nyou also stumble upon a picture depicting the different \nfoods and snacks that you had prepared. Seeing this, you \nremember that another friend loved the salad dressing \nand asked for the recipe—and you also remember that \nthis friend has been going through difficult times lately, \nand so on. Put in one sentence, the AMEDIA-Model \nhypothesizes that autobiographical remembering (in \nthe digital age) is an iterative process that is based on \nthe combination of information stored in one’s mind \nand information stored in external resources. However, \n"
+  },
+  {
+    "page": 1,
+    "block": 2,
+    "source_rect": [
+      304.7243957519531,
+      86.23779296875,
+      540.9190673828125,
+      724.8744506835938
+    ],
+    "source_text": "this fundamental assumption underlying the AMEDIA-\nModel has not been tested empirically so far.\nThe same applies to a second assumption, namely the \nimportance of digital external resources for autobio-\ngraphical remembering in our modern-day societies: That \nindividuals use external resources for (autobiographical) \nremembering is not a peculiarity of the digital age but \nsomething that humans have been doing for thousands \nof years, relying on various techniques from cave paint-\nings and oral traditions to archives, monuments, and \nprinted books to paper diaries and photo albums (e.g., \nDonald, 1991, 2001; Heersmink, in press). In addition \nto such non-digital resources, people routinely also refer \nto other individuals as social resources for remembering \n(e.g., “You were at my birthday party. Do you remem-\nber whether …?”). However, the new digital resources \nthat have become available over the last years and dec-\nades differ significantly from these other resources—not \nonly because they have overcome previous storage limits \nbut also because they provide a combination of different \nkinds of media sources (e.g., photos, videos, audio record-\nings, text, quantitative parameters) and because they lead \nto a searchable database that can often be accessed any-\nwhere at any time (Hutmacher et al., 2024a; for the dis-\ntinction between the different kinds of resources, see also \nFinley et al., 2018). Against this background and given the \nworldwide proliferation of digital technologies, it seems \nplausible to hypothesize that digital external resources \nplay an important role when it comes to remembering \nautobiographical events in the digital age.\nApart from these general questions about the interplay \nof internal memories and information stored in external \nresources as well as the importance of digital resources, it \nseems plausible to assume that these processes are shaped \nby the kinds of events that individuals try to remember. \nGiven that individuals usually have more detailed \nand more vivid internal memories about important \nautobiographical events (e.g., their last birthday) \ncompared to less important autobiographical events (e.g., \nautobiographical memories regarding a random day one \nyear ago), one could speculate, for instance, that this \nalso impacts the way individuals interact with external \nresources when it comes to remembering these events. \nOn the one hand, one might think that individuals will \nhave more external information available for important \nevents compared to less important events; on the other \nhand, one could also think that individuals will rely more \non external resources for relatively unimportant events \ncompared to important events due to a lack of retrievable \ninternal memories.\nIn order to test the predictions derived from the \nAMEDIA-Model and to investigate that the kind \nof event plays in this context, we conducted an \n"
+  },
+  {
+    "page": 2,
+    "block": 0,
+    "source_rect": [
+      56.692901611328125,
+      31.708641052246094,
+      538.58349609375,
+      41.849609375
+    ],
+    "source_text": "Page 3 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n\t\n"
+  },
+  {
+    "page": 2,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      86.47540283203125,
+      292.8836669921875,
+      460.8645935058594
+    ],
+    "source_text": "experimental think-aloud study in which participants \nwere asked to remember and reconstruct an important \nday and a random day while being in their usual home \nenvironment in which they had access to all external \nresources they would usually have access to. That is, \nfollowing calls to embrace methodological pluralism \nin general (Araujo & Osbeck, 2023; Hutmacher, 2023; \nHutmacher & Franz, 2025; Mayrhofer & Hutmacher, \n2020; Zitzmann & Loreth, 2021) and to move beyond \npurely laboratory-based paradigms in research on \nautobiographical memory in particular (Brockmeier, \n2015; Fivush, 2013; Hutmacher et al., 2024a; Yamashiro \n& Roediger, 2019; see also Grysman, 2024) as well as \nfollowing exemplary studies in this direction that have \nbeen published in recent years (e.g., Armstrong et al., \n2023; Barnwell et  al., 2023; Hutmacher et  al., 2023; \nJohnson & Morley, 2021; Jungselius & Weilenmann, \n2023; Martin et  al., 2022; Talaifar, 2024), we decided \nto create a setting that closely resembles real-life \nsituations that individuals may encounter when \nthinking about events from their past (e.g., “How \nexactly did I celebrate my last birthday?”, “What did I do \nFriday afternoon two weeks ago?”). In addition, relying \non the think-aloud method allowed us to obtain verbal \nreports that closely mirror individuals’ actual thought \nprocesses and behaviors and that go far beyond the \ninformation that can be collected through self-reports \nalone (cf. Baumeister et al., 2007). Taken together, the \npresent study allowed us to gain important insights \ninto the way external resources shape autobiographical \nremembering in the twenty-first century.\n"
+  },
+  {
+    "page": 2,
+    "block": 2,
+    "source_rect": [
+      56.68309020996094,
+      482.0987243652344,
+      292.87103271484375,
+      725.4944458007812
+    ],
+    "source_text": "Method\nParticipants\nAs this was the first study investigating autobiographi-\ncal remembering in the digital age using a think-aloud \nprotocol, there were no effect sizes available from pre-\nvious studies on which we could have based our power \nanalysis. As we were particularly interested in compar-\ning our results for two kinds of events (important day vs. \nrandom day), we decided that we wanted to have enough \npower (0.80) to detect a medium-sized effect (d = 0.50) \nin a t-test with dependent samples (α = 0.05, two-tailed). \nUsing G*Power 3.1.9.7 (Faul et al., 2007), we calculated a \nminimum sample size of 34 participants. To account for \npotential exclusions, we decided to collect data from at \nleast 40 participants. Participants were recruited through \nthe participant recruitment system used by the Univer-\nsity of Würzburg (Germany). All participants received \ncourse credit. In total, 41 participants completed the \nstudy (18–33  years, M = 22.73, SD = 3.26, 10 male, 30 \nfemale, 1 diverse). In terms of educational attainment, \n"
+  },
+  {
+    "page": 2,
+    "block": 3,
+    "source_rect": [
+      304.7113037109375,
+      86.46588134765625,
+      540.897216796875,
+      149.0039825439453
+    ],
+    "source_text": "one participant had completed secondary education, 37 \nparticipants had completed high-school, and three par-\nticipants had a bachelor’s degree. The study was con-\nducted between March 22 and May 23, 2024. This study \nwas not preregistered.\n"
+  },
+  {
+    "page": 2,
+    "block": 4,
+    "source_rect": [
+      304.7243957519531,
+      158.84300231933594,
+      540.9132690429688,
+      724.9944458007812
+    ],
+    "source_text": "Design and procedure\nThe experiment was conducted in two sessions per par-\nticipant that were scheduled one week apart. In both ses-\nsions, a videoconferencing tool was used. Participants \nwere told beforehand that they should be in their usual \nhome environment for both sessions. During one of \nthe sessions, participants were asked to remember and \nreconstruct an important day in as much detail as pos-\nsible; during the other session, participants were asked \nto remember and reconstruct a random day in as much \ndetail as possible. During which session participants had \nto remember the important day and the random day, \nrespectively, was counterbalanced across participants. As \nfar as the important day is concerned, participants were \nasked to remember their last birthday (if their last birth-\nday occurred more than six months before the session) or \ntheir second last birthday (if their last birthday occurred \nless than six months before the session). This way, par-\nticipants on average remembered an important day from \nabout one year ago. We chose the birthday as an impor-\ntant day as we assumed that most participants would find \ntheir birthday important and consider it a day that stands \nout from the rest of the year. As far as the random day is \nconcerned, participants were asked to remember the day \nexactly one year before the session. That is, if the session \nwith the random day took place on May 14, 2024, the \nparticipant would be asked to remember May 14, 2023.\nIn the beginning of the first session, participants pro-\nvided informed consent and answered demographic \nquestions using an online questionnaire. Both sessions \nwere conducted using the think-aloud method. In set-\nting up the instructions, we followed extant recom-\nmendations (Ericsson & Simon, 1993; see also Eccles & \nArsal, 2017; Noushad et  al., 2024). That is, participants \nwere instructed to verbalize everything they think from \nthe point when they receive the instructions to the point \nwhen they complete the task. Participants were told \nthat they should not think about how to express their \nthoughts and that there was no need to explain their \nthoughts to the interviewer. Instead, participants were \ntold to behave as if they were alone in a room, talking \nto themselves. Participants were also told that the inter-\nviewer would remain passive while the participants per-\nform the think-aloud task, with the only exception that \nthe interviewer would remind them to think aloud in \ncase they should forget the instruction. To familiarize \nparticipants with the think-aloud method, two practice \n"
+  },
+  {
+    "page": 3,
+    "block": 0,
+    "source_rect": [
+      56.693511962890625,
+      31.705528259277344,
+      538.6614990234375,
+      41.84954833984375
+    ],
+    "source_text": "Page 4 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n"
+  },
+  {
+    "page": 3,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.890625,
+      664.2545166015625
+    ],
+    "source_text": "tasks were performed: While the first practice task was \ncompletely unrelated to autobiographical remembering \n(“Please calculate: What is 24 × 36?”), the second prac-\ntice task was related to autobiographical remembering \nbut unrelated to remembering the important day and the \nrandom day (“When and with whom did you eat pizza for \nthe last time?”). These practice tasks were only performed \nduring the first session as we assumed that participants \nwould be sufficiently familiar with the procedure during \nthe second session. In the second session, the interviewer \nrepeated the basic instructions regarding the think-aloud \nprocedure.\nNext, participants were informed that they will be \nasked to remember and reconstruct a specific day in as \nmuch detail as possible without already revealing which \nday it will be. Participants were told that they would have \nup to 15  min to perform this task. It was emphasized \nthat this time frame was not meant to create time pres-\nsure but to restrict the session to a reasonable length. \nParticipants were told that they can finish the task earlier \nif they have the impression that there is nothing more to \nbe remembered. In addition, participants were told that \nthe interviewer would inform them when the time is up \nso that they do not have to pay attention to the 15-min \ntime frame. Participants were told that they are allowed \nto use all kinds of digital and non-digital resources that \nthey may want to use to complete the task. It was empha-\nsized that participants are allowed to stand up and even \nto leave the room in case this should be necessary to get \naccess to a certain resource or to talk to another per-\nson. With respect to the day to be remembered, it was \nemphasized that a reconstruction of this day could—\namong others—give answers to the following questions: \nWhere were you? What happened? With whom did you \nspend the day? How did you feel during the day? Which \nthoughts and feelings did you experience during the day? \nIn case participants encountered information that they \nfound too personal to share, they were asked to give a \nfactually correct but more abstract description that left \nout the details that they did not want to be recorded. \nBefore being informed which specific day to remember, \nparticipants were given the opportunity to ask questions \nabout the procedure. After completing the think-aloud \ntask, the interviewer was allowed to ask ad-hoc ques-\ntions to ensure that all changes between different exter-\nnal resources and the source from which participants \nretrieved a certain piece of information can be identified \ncorrectly when looking at the interview transcripts later.\n"
+  },
+  {
+    "page": 3,
+    "block": 2,
+    "source_rect": [
+      56.692901611328125,
+      674.0983276367188,
+      292.8592529296875,
+      724.2545166015625
+    ],
+    "source_text": "Data analysis\nThe interviews were recorded and transcribed verbatim. \nWe processed and analyzed the transcripts with \nMAXQDA 2022 (VERBI software). First, a codebook \n"
+  },
+  {
+    "page": 3,
+    "block": 3,
+    "source_rect": [
+      304.7210998535156,
+      85.7257080078125,
+      540.9132080078125,
+      556.2545166015625
+    ],
+    "source_text": "was created: The overarching categories for analysis \n(i.e., changes between internal memory and external \nresources, \nkinds \nof \nexternal \nresources, \nretrieved \ninformation; for details, see below) were already \ndetermined prior to data collection. The sub-categories \nwithin these overarching categories (e.g., which digital \nresources participants used) were created based on \ninitiating text work (e.g., Kuckartz, 2019); that is, an \ninitial read-through of the material was used as an \ninductive coding strategy to deduce the different sub-\ncategories. More specifically, two coders first familiarized \nthemselves with the data independently from one \nanother. Then, each coder created an initial draft for a \ncodebook. These two drafts were discussed between the \ntwo coders and integrated into a final codebook. The final \ncodebook included definitions of each category as well as \nexamples and explicit coding rules.\nNext, the data were coded based on the codebook. To \nensure the objectivity of the coding process, about 20% \nof the data (i.e., both sessions from eight participants) \nwere coded by the two coders independently from one \nanother. After completing the independent coding, an \ninterrater reliability was calculated (Brennan & Prediger, \n1981). Two coded segments of the material were consid-\nered to match when the overlapping rate of the two codes \nwas 90% or higher. The interrater reliability (including \nthe additional analyses reported below) indicated an \nalmost perfect agreement, κ = 0.86 (cf. Landis & Koch, \n1977). The coders discussed the differences with respect \nto independently coded interviews and agreed upon a \nfinal solution. Given the substantial agreement between \nthe two coders, one coder coded the remaining mate-\nrial. However, open questions and potentially ambiguous \nsections were discussed between the two coders. After \ncompleting the coding procedure, code frequencies were \ncalculated to enable quantitative analysis. In the follow-\ning, we describe the different variables that resulted from \nthe qualitative data analysis and that were then used for \nthe statistical analyses.\n"
+  },
+  {
+    "page": 3,
+    "block": 4,
+    "source_rect": [
+      304.724365234375,
+      566.0983276367188,
+      540.9114379882812,
+      724.2113037109375
+    ],
+    "source_text": "Changes between internal processes and external resources\nNumber of  changes and  time to  first change  It was \ncoded how often participants changed between internal \nprocesses and external resources. Three kinds of changes \nwere distinguished: changes from internal processes to an \nexternal resource, that is, situations in which an internal \nthought process or memory leads to the use of an external \nresources (e.g., “I guess I had a doctor’s appointment \nin the afternoon, but I will check that in my calendar”); \nchanges from an external resource to internal processes, \nthat is, situations in which information encountered in \nan external resource leads to an internal thought process \nor memory (e.g., “Now that I see this picture from \n"
+  },
+  {
+    "page": 4,
+    "block": 0,
+    "source_rect": [
+      56.692901611328125,
+      31.708641052246094,
+      538.58349609375,
+      41.849609375
+    ],
+    "source_text": "Page 5 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n\t\n"
+  },
+  {
+    "page": 4,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.8856201171875,
+      460.1199035644531
+    ],
+    "source_text": "the restaurant, I also remember that we went to a bar \naround the corner later”); and changes from one external \nresource to another external resource, that is, situations in \nwhich two external resources are used one after another \nwithout detailed thought processes or memories being \ndescribed in-between (e.g., “Ok, there is nothing about \nthis afternoon in my calendar, so I will check my mails \nnext”). The frequencies for these three kinds of changes \nwere summed up to get an estimate for the overall \nnumber of changes between internal processes and \nexternal resources. During our analysis, we assumed—for \nlogical reasons—that the different kinds of changes form \nan unbroken chain in which a change from an internal \nprocess to an external resource is always followed by a \nchange from an external resource to an internal process \n(or a change to another external resource) and vice versa. \nIn addition, we also assumed that the first change during \nthe think-aloud procedure is always a change from internal \nprocesses to external resources (i.e., the moment in which \nparticipants decided to use an external resource for the \nfirst time) and that the last change during the think-aloud \nprocedure is always a change from external resources to \ninternal processes (i.e., the moment in which participant \ndecided to end the task). Ultimately, this implies that \nthe total number of changes from an internal process to \nan external resource is the same as the total number of \nchanges from an external resource to an internal process. \nApart from documenting the different kinds of changes, \nwe also determined how long it took participants from \nreceiving the instructions to consulting an external \nresource for the first time.\n"
+  },
+  {
+    "page": 4,
+    "block": 2,
+    "source_rect": [
+      56.692893981933594,
+      469.58673095703125,
+      292.8965148925781,
+      676.1968994140625
+    ],
+    "source_text": "Additional analyses  To gain deeper insights into the \nprocesses underlying the different kinds of changes, we \nconducted additional analyses.1 As far as the changes \nfrom internal processes to an external resource are \nconcerned, we distinguished three cases (based on our \ndata): (a) the change to an external resource is initiated \nbecause participants have no internal memory and hope \nto find information in an external resource (e.g., “I really \ndo not remember, what I did on this day; let me check \nmy phone”); (b) the change to an external resource is \ninitiated because participants have a vague internal \nmemory, but are lacking details, which they hope to find \nin an external resource (e.g., “I think I spent the day with \nmy usual group of friends, but I am not exactly sure what \nwe did”); (c) the change to an external resource is initiated \nbecause participants have a detailed internal memory but \nwant to confirm this internal memory (e.g., “I am pretty \n"
+  },
+  {
+    "page": 4,
+    "block": 3,
+    "source_rect": [
+      304.72216796875,
+      85.65869140625,
+      540.9060668945312,
+      268.12457275390625
+    ],
+    "source_text": "sure that I went to a restaurant with my usual group of \nfriends that day, but let me check whether this is actually \ntrue”). As far as the changes from an external resource to \ninternal memory are concerned, we first distinguished \nwhether consulting an external resource was successful \n(i.e., participants found useful information in the external \nresource) or unsuccessful (i.e., participants did not find \nuseful information in the external resource). In case \nconsulting an external resource was successful, we further \ndistinguished whether the external resource (a) merely \nconfirmed previous knowledge (e.g., “Yes, we went to a \nrestaurant that day, exactly as I had thought”) or whether \nit (b) led to new insights and/or triggered new internal \nmemories (e.g., “Oh, and I had this fancy cocktail, I had \ncompletely forgotten that – now I remember!”).\n"
+  },
+  {
+    "page": 4,
+    "block": 4,
+    "source_rect": [
+      304.7243957519531,
+      278.09832763671875,
+      540.8934936523438,
+      388.2641296386719
+    ],
+    "source_text": "Kinds of external resources\nIt was coded, which social resources (e.g., family, partner), \nnon-digital resources (e.g., paper diary, paper calendar), \nand digital resources (e.g., smartphone photo gallery, \ndigital calendar, instant messaging apps, social media) \nindividuals used. Based on this, we calculated the num-\nber of social, non-digital, and digital resources as well as \nthe total number of different external resources that indi-\nviduals used.\n"
+  },
+  {
+    "page": 4,
+    "block": 5,
+    "source_rect": [
+      56.692901611328125,
+      398.09832763671875,
+      540.9281005859375,
+      728.4205322265625
+    ],
+    "source_text": "Retrieved information\nIt was coded whether the information that individuals \nretrieved was based on a mental representation (internal \nretrieval) or whether it was solely based on information \nstored in an external resource (external retrieval). Note \nthat internal retrieval comprises cases of unaided inter-\nnal retrieval (i.e., internal retrieval of information with-\nout the use of an external resource; e.g., “I remember \nspending that evening in a restaurant”) and aided internal \nretrieval (i.e., internal retrieval of information through \nthe use of an external resource; e.g., “Now that I see it on \nthe picture, I also remember spending that evening in a \nrestaurant”). As it was not always clear from the think-\naloud protocols whether participants remembered a cer-\ntain piece of information on their own or whether their \nrecorded data helped them to remember, we decided to \nuse internal retrieval as an umbrella category.\nTo capture the full range of different kinds of informa-\ntion that individuals remember, additional sub-categories \nwere used to code whether the retrieved information con-\ncerned external characteristics (i.e., information about \nthe place where an event happened, information about \nthe details of an event, information about the persons \nwho were present, and information about the conversa-\ntional content) or internal states (i.e., information about \nthoughts and feelings). For instance, the sentence “On this \npicture, I can see that I spent a nice evening with friends \n1  We are indebted to the editor and the reviewers for suggesting these more \nfine-grained analyses during the revision process.\n"
+  },
+  {
+    "page": 5,
+    "block": 0,
+    "source_rect": [
+      56.693511962890625,
+      31.705528259277344,
+      538.6614990234375,
+      41.84954833984375
+    ],
+    "source_text": "Page 6 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n"
+  },
+  {
+    "page": 5,
+    "block": 1,
+    "source_rect": [
+      56.692893981933594,
+      85.730712890625,
+      292.89263916015625,
+      520.2545166015625
+    ],
+    "source_text": "in restaurant X in city Y” would be coded in the category \nexternal retrieval (“on this picture”) and, more specifi-\ncally, in the sub-categories place (“in restaurant X in city \nY”), event (“a nice evening with friends in restaurant X”), \nand persons (“with friends”). If the sentence had begun \nwith “I remember that” instead of “On this picture”, the \nsame sub-categories would have been assigned, but under \nthe higher-order category internal retrieval. Note that \ncomparing the number of external characteristics and the \nnumber of internal states that participants remembered \nis difficult because the number of sub-categories was dif-\nferent (four for external characteristics and two for inter-\nnal states) and because these sub-categories represent \nphenomenologically diverse kinds of information (e.g., \nremembering a certain feeling vs. remembering the name \nof a restaurant). Against this background, we decided \nto sum up the number of external characteristics and \nthe number of internal states that participants remem-\nbered to get a joint estimate for information remembered \nthrough internal retrieval and external retrieval, respec-\ntively. However, we report the frequencies of the different \ntypes of information (i.e., the different kinds of internal \nstates and external characteristics) for the different types \nof retrieval (i.e., internal versus external retrieval) and the \ndifferent types of events (i.e., random day vs. important \nday) in Table 4. Note also that each piece of information \nwas only counted once, even if it was mentioned sev-\neral times during the think-aloud procedure (e.g., when \nthe same restaurant was mentioned three times, this \nwas only counted as one piece of information) so that \nthe retrieved amount of information equals the num-\nber of different pieces of information that participants \nretrieved. In addition to counting the amount of informa-\ntion that participants retrieved, we determined the total \namount of time that participants spent performing the \nthink-aloud procedure.\n"
+  },
+  {
+    "page": 5,
+    "block": 2,
+    "source_rect": [
+      56.692901611328125,
+      528.85400390625,
+      292.8316955566406,
+      568.25927734375
+    ],
+    "source_text": "Results\nAll statistical analyses were performed using JASP (2024) \n(Version 0.19.3).\n"
+  },
+  {
+    "page": 5,
+    "block": 3,
+    "source_rect": [
+      56.692901611328125,
+      578.0983276367188,
+      292.8895568847656,
+      724.2545166015625
+    ],
+    "source_text": "Time spent on the think‑aloud procedure\nThe time that participants spent on performing the \nthink-aloud procedure did not differ significantly \nbetween remembering the important day (M = 6.87 min, \nSD = 3.11) \nand \nremembering \nthe \nrandom \nday \n(M = 7.47 min, SD = 3.45), t(40) = 1.31, p = 0.098, d = 0.21, \n95% CI [t0.11, 0.51]. As there was a descriptive tendency \nthat participants spent more time on remembering the \nrandom day, we nevertheless checked whether correct-\ning the parameters analyzed in the following for the time \nspent on the task changes the results in any meaningful \nway. This was not the case: All significances remained the \n"
+  },
+  {
+    "page": 5,
+    "block": 4,
+    "source_rect": [
+      304.7210998535156,
+      298.13092041015625,
+      538.5828247070312,
+      324.67120361328125
+    ],
+    "source_text": "same. Hence, these analyses are reported in the Supple-\nmental Material.\n"
+  },
+  {
+    "page": 5,
+    "block": 5,
+    "source_rect": [
+      304.7048034667969,
+      334.5054016113281,
+      540.8945922851562,
+      588.6663818359375
+    ],
+    "source_text": "Changes between internal processes and external \nresources\nNumber of changes and time to first change\nParticipants repeatedly changed between internal pro-\ncesses and external resources, both when remember-\ning the important day (M = 5.90, SD = 4.80) and when \nremembering the random day (M = 8.05, SD = 5.27). \nOverall, and as indicated by a t-test for dependent sam-\nples, participants changed more frequently between \ninternal processes and external resources when remem-\nbering the random day compared to remember-\ning the important day, t(40) = 3.82, p < 0.001, d = 0.60, \n95% CI [0.26, 0.93]. As indicated by another t-test for \ndependent samples, it took participants less time until \nthey consulted an external resource for the first time \nwhen remembering the random day (M = 0.23  min, \nSD = 0.25) compared to remembering the important day \n(M = 1.21 min, SD = 1.54), t(36) = 3.86, p < 0.001, d = 0.64, \n95% CI [0.28, 0.99].2 In sum, this suggests that par-\nticipants were more reliant on external resources when \nremembering the random day.\n"
+  },
+  {
+    "page": 5,
+    "block": 6,
+    "source_rect": [
+      304.714599609375,
+      598.50537109375,
+      540.9004516601562,
+      684.671142578125
+    ],
+    "source_text": "Additional analyses\nAn overview of the number and kind of changes between \ninternal processes and external resources is provided in \nTable 1. First, we ran a 2 × 3  repeated-measures ANOVA \nto determine whether the number of changes from an \ninternal process to an external resource changed depend-\ning on the kind of event (important day vs. random day) \n"
+  },
+  {
+    "page": 5,
+    "block": 7,
+    "source_rect": [
+      304.7243957519531,
+      86.431640625,
+      507.86883544921875,
+      108.58062744140625
+    ],
+    "source_text": "Table 1  Number and kind of changes between internal \nprocesses and external resources\n"
+  },
+  {
+    "page": 5,
+    "block": 8,
+    "source_rect": [
+      425.10101318359375,
+      114.7650146484375,
+      533.6893920898438,
+      124.541015625
+    ],
+    "source_text": "Important day\nRandom day\n"
+  },
+  {
+    "page": 5,
+    "block": 9,
+    "source_rect": [
+      425.09820556640625,
+      130.6610107421875,
+      530.8421630859375,
+      140.43701171875
+    ],
+    "source_text": "M\nSD\nM\nSD\n"
+  },
+  {
+    "page": 5,
+    "block": 10,
+    "source_rect": [
+      304.7221984863281,
+      149.30099487304688,
+      534.3302001953125,
+      158.364990234375
+    ],
+    "source_text": "Changes from internal to external\n2.71\n2.11\n3.44\n2.16\n"
+  },
+  {
+    "page": 5,
+    "block": 11,
+    "source_rect": [
+      304.7221984863281,
+      161.39700317382812,
+      534.3302001953125,
+      170.46099853515625
+    ],
+    "source_text": "No internal memory\n0.46\n0.67\n1.83\n1.53\n"
+  },
+  {
+    "page": 5,
+    "block": 12,
+    "source_rect": [
+      304.7221984863281,
+      173.50100708007812,
+      534.3302001953125,
+      182.56500244140625
+    ],
+    "source_text": "Vague internal memory\n2.00\n1.69\n1.56\n1.47\n"
+  },
+  {
+    "page": 5,
+    "block": 13,
+    "source_rect": [
+      304.7221984863281,
+      185.59701538085938,
+      534.3302001953125,
+      194.6610107421875
+    ],
+    "source_text": "Detailed internal memory\n0.24\n0.54\n0.05\n0.22\n"
+  },
+  {
+    "page": 5,
+    "block": 14,
+    "source_rect": [
+      304.7221984863281,
+      197.69302368164062,
+      534.3302001953125,
+      206.75701904296875
+    ],
+    "source_text": "Changes from external to internal\n2.71\n2.11\n3.44\n2.16\n"
+  },
+  {
+    "page": 5,
+    "block": 15,
+    "source_rect": [
+      304.7221984863281,
+      209.78903198242188,
+      534.3302001953125,
+      218.85302734375
+    ],
+    "source_text": "Successful: confirming\n0.44\n0.59\n0.15\n0.53\n"
+  },
+  {
+    "page": 5,
+    "block": 16,
+    "source_rect": [
+      304.7221984863281,
+      221.88504028320312,
+      534.3302001953125,
+      230.94903564453125
+    ],
+    "source_text": "Successful: new\n1.68\n1.69\n2.00\n1.24\n"
+  },
+  {
+    "page": 5,
+    "block": 17,
+    "source_rect": [
+      304.7221984863281,
+      233.98904418945312,
+      534.3302001953125,
+      243.05303955078125
+    ],
+    "source_text": "Unsuccessful\n0.59\n0.89\n1.29\n1.44\n"
+  },
+  {
+    "page": 5,
+    "block": 18,
+    "source_rect": [
+      304.7221984863281,
+      246.08505249023438,
+      534.3302001953125,
+      255.1490478515625
+    ],
+    "source_text": "Changes from external to external\n0.49\n0.90\n1.17\n1.53\n"
+  },
+  {
+    "page": 5,
+    "block": 19,
+    "source_rect": [
+      304.7221984863281,
+      258.2370300292969,
+      534.3302001953125,
+      267.301025390625
+    ],
+    "source_text": "Total number of changes\n5.90\n4.80\n8.05\n5.27\n"
+  },
+  {
+    "page": 5,
+    "block": 20,
+    "source_rect": [
+      304.7243957519531,
+      705.5905151367188,
+      540.3757934570312,
+      728.4205322265625
+    ],
+    "source_text": "2  Naturally, this t-test only involved participants who used at least one \nexternal resource per session. This applied to 37 of the 41 participants.\n"
+  },
+  {
+    "page": 6,
+    "block": 0,
+    "source_rect": [
+      56.692901611328125,
+      31.708641052246094,
+      538.58349609375,
+      41.849609375
+    ],
+    "source_text": "Page 7 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n\t\n"
+  },
+  {
+    "page": 6,
+    "block": 1,
+    "source_rect": [
+      56.458900451660156,
+      85.730712890625,
+      292.89251708984375,
+      172.2641143798828
+    ],
+    "source_text": "and the reason for the change (no internal memory vs. \nvague internal memory vs. detailed internal memory). We \nfound a significant main effect for the kind of event, F(1, \n40) = 7.84, p = 0.008, ω2\np = 0.025 , a significant main effect \nfor the reason of the change, F(2, 80) = 38.49, p < 0.001, \nω2\np = 0.326 , and a significant interaction between the two \nfactors, F(2, 80) = 17.80, p < 0.001, ω2\np = 0.159.3\n"
+  },
+  {
+    "page": 6,
+    "block": 2,
+    "source_rect": [
+      56.68312072753906,
+      169.730712890625,
+      292.8924865722656,
+      676.23046875
+    ],
+    "source_text": "To better understand this interaction, we additionally \ncalculated post-hoc t-tests using a Bonferroni correction. \nAs far as the important day is concerned, more changes \nfrom an internal process to an external resource were ini-\ntiated based on a vague internal memory than based on \nno internal memory, t(40) = 6.22, p < 0.001, d = 1.32, 95% \nCI [0.51, 2.13], or a detailed internal memory, t(40) = 6.56, \np < 0.001, d = 1.51, 95% CI [0.62, 2.40]. There was no sig-\nnificant difference between the amount of changes from \nan internal process to an external resource initiated \nbased on no internal memory and a detailed internal \nmemory, t(40) = 1.50, p = 0.423, d = 0.19, 95% CI [t0.21, \n0.59]. That is, for the important day, the dominant reason \nfor consulting an external resource was having a vague \ninternal memory. As far as the random day is concerned, \nmore changes from an internal process to an external \nresource were initiated based on no internal memory \nthan based on a detailed internal memory, t(40) = 7.25, \np < 0.001, d = 1.53, 95% CI [0.68, 2.38], as well as based on \na vague internal memory than based on a detailed inter-\nnal memory, t(40) = 6.67, p < 0.001, d = 1.30, 95% CI [0.54, \n2.06]. There was no significant difference between the \namount of changes from an internal process to an exter-\nnal resource initiated based on no internal memory and \na vague internal memory, t(40) = 0.82, p = 1.00, d = 0.23, \n95% CI [−  0.65, 1.11]. That is, for the random day, the \ndominant reasons for consulting an external resource \nwere having either no internal memory or a vague inter-\nnal memory. In addition, there were more changes from \nan internal process to an external resource based on no \ninternal memory for the random day compared to the \nimportant day, t(40) = 6.63, p < 0.001, d = 1.17, 95% CI \n[0.49, 1.86], more changes based on a detailed internal \nmemory for the important day compared to the ran-\ndom day, t(40) = 2.24, p = 0.031, d = 0.17, 95% CI [− 0.07, \n0.41], and no significant difference between the number \nof changes based on a vague internal memory for the \nimportant day compared to the random day, t(40) = 1.55, \np = 0.130, d = 0.38, 95% CI [− 0.40, 1.15].\nNext, we ran another 2 × 3       repeated-measures \nANOVA to determine whether the number of changes \nfrom an external resource to an internal resource varied as \n"
+  },
+  {
+    "page": 6,
+    "block": 3,
+    "source_rect": [
+      304.49029541015625,
+      85.6922607421875,
+      540.9112548828125,
+      700.2064819335938
+    ],
+    "source_text": "a function of the kind of event (important day vs. random \nday) and the reason for the end of the consultation of the \nexternal resource (confirming previous knowledge vs. \nnew insights vs. unsuccessful consultation). We found \na significant main effect for the kind of event, F(1, \n40) = 7.84, p = 0.008, ω2\np = 0.025 , a significant main effect \nfor the reason of the change, F(2, 80) = 35.52, p < 0.001, \nω2\np = 0.305 , and a significant interaction between the two \nfactors, F(2, 80) = 5.00, p < 0.009, ω2\np = 0.042.\nTo better understand this interaction, we addition-\nally calculated post-hoc t-tests using a Bonferroni cor-\nrection. As far as the important day is concerned, the \nchanges back to internal processes happened more fre-\nquently after gaining new insights than after confirming \nprevious knowledge t(40) = 4.57, p < 0.001, d = 1.08, 95% \nCI [0.25, 1.91], or after an unsuccessful consultation of \nan external resource, t(40) = 3.76, p = 0.002, d = 0.96, 95% \nCI [0.10, 1.82]. There was no significant difference for \nthe number of changes after confirming previous knowl-\nedge and after an unsuccessful consultation, t(40) = 0.90, \np = 1.00, d = 0.13, 95% CI [− 0.32, 0.57]. That is, for the \nimportant day, most changes back to internal processes \nhappened after gaining new insights from an external \nresource, indicating that consulting an external resource \nwas an overall successful strategy. As far as the random \nday is concerned, the changes back to internal processes \nhappened more frequently after gaining new insights \nthan after confirming previous knowledge, t(40) = 9.60, \np < 0.001, d = 1.61, 95% CI [0.84, 2.38], or after an unsuc-\ncessful consultation of an external resource, t(40) = 2.57, \np = 0.042, d = 0.62, 95% CI [−  0.16, 1.40]. Interestingly, \nthe changes back to internal processes also happened \nmore frequently after an unsuccessful consultation of an \nexternal resource than after confirming previous knowl-\nedge, t(40) = 4.76, p < 0.001, d = 1.00, 95% CI [0.26, 1.74]. \nThat is, while consulting an external resource was also an \neffective strategy in the case of the random day, there was \nalso a relatively high number of cases in which consult-\ning an external resource was unsuccessful. In addition, \nthe number of changes from an external resource to an \ninternal process after gaining new insights did not differ \nsignificantly between the important day and the random \nday, t(40) = 1.31, p = 0.199, d = 0.28, 95% CI [− 0.39, 0.94]. \nHowever, there were more changes back to an internal \nprocess after an unsuccessful consultation of an external \nresource for the random day compared to the important \nday, t(40) = 3.12, p = 0.003, d = 0.62, 95% CI [0.04, 1.27]. \nThere were also more changes back to an internal process \nafter confirming previous knowledge for the important \nday compared to the random day, t(40) = 2.50, p = 0.017, \nd = 0.26, 95% CI [− 0.08, 0.59].\n"
+  },
+  {
+    "page": 6,
+    "block": 4,
+    "source_rect": [
+      56.692901611328125,
+      696.5905151367188,
+      292.3479919433594,
+      728.4205322265625
+    ],
+    "source_text": "3  We decided to report omega squared instead of the more common eta \nsquared because omega squared can be considered to be less biased (for \ndetails, see Kroes & Finley, 2023).\n"
+  },
+  {
+    "page": 7,
+    "block": 0,
+    "source_rect": [
+      56.693511962890625,
+      31.705528259277344,
+      538.6614990234375,
+      41.84954833984375
+    ],
+    "source_text": "Page 8 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n"
+  },
+  {
+    "page": 7,
+    "block": 1,
+    "source_rect": [
+      56.69288635253906,
+      573.4549560546875,
+      292.8837585449219,
+      719.5726928710938
+    ],
+    "source_text": "Kinds of external resources\nThe descriptive results for the kinds of external \nresources that participants used are displayed in \nTables 2 and 3. While Table 2 gives a detailed overview \nof the different kinds of external resources and the \nnumber of participants who used them, Table  3 shows \nthe average number of digital, non-digital, and social \nresources that participants used in the two conditions. \nAs the descriptive numbers clearly indicate, digital \nresources were used much more frequently than non-\ndigital and social resources. Whereas the vast majority \nof participants used digital resources (38 of our 41 \n"
+  },
+  {
+    "page": 7,
+    "block": 2,
+    "source_rect": [
+      304.7112731933594,
+      85.67926025390625,
+      540.900146484375,
+      340.1163635253906
+    ],
+    "source_text": "participants when remembering the important day and \n40 participants when remembering the random day), \nnon-digital (important day: 1 participant; random day: \n2 participants) and social resources (important day: 1 \nparticipant; random day: 5 participants) were hardly \nused at all. Against this background, we decided to focus \non the digital resources for this part of our statistical \nanalysis. In this context, a t-test for dependent samples \nshows that participants used more digital resources when \nremembering the random day compared to remembering \nthe important day, t(40) = 5.33, p < 0.001, d = 0.83, 95% \nCI [0.47, 1.19]. Interestingly, the digital resources that \nwere used most frequently when remembering the \nimportant day (i.e., smartphone photo gallery, digital \ncalendar, instant messaging, snapchat) were the same \ndigital resources that were also used most frequently \nwhen remembering the random day, indicating that \nremembering a random day versus remembering an \nimportant day does not so much change the kind of \nresources that individuals use but rather the frequency \nwith which these resources are consulted.\n"
+  },
+  {
+    "page": 7,
+    "block": 3,
+    "source_rect": [
+      304.72369384765625,
+      354.81561279296875,
+      540.9032592773438,
+      728.938232421875
+    ],
+    "source_text": "Retrieved information\nAs already stated above, the amount of retrieved infor-\nmation was operationalized as the number of different \npieces of information that participants retrieved for the \nimportant day and the random day based on internal \nmemory and external resources, respectively. A detailed \noverview of the different types of information (i.e., the \ndifferent kinds of internal states and external charac-\nteristics) for the different types of retrieval (i.e., inter-\nnal versus external retrieval) and the different types of \nevents (i.e., random day vs. important day) is reported in \nTable 4.\nWe ran a 2 × 2   repeated-measures ANOVA to \ndetermine whether the kind of event (important day vs. \nrandom day) and the kind of retrieval (internal retrieval \nvs. external retrieval) influenced the amount of retrieved \ninformation. We found a significant main effect for the \nkind of event, F(1, 40) = 20.18, p < 0.001, ω2\np = 0.152 , \na significant main effect for the kind of retrieval, F(1, \n40) = 29.68, p < 0.001, ω2\np = 0.295 , and a significant \ninteraction between the two factors, F(1, 40) = 22.64, \np < 0.001, ω2\np = 0.191 . As indicated by post-hoc t-tests \nusing a Bonferroni adjustment, participants retrieved \nmore information through internal retrieval for the \nimportant day compared to the random day, t(40) = 5.00, \np < 0.001, d = 1.24, 95% CI [0.45, 2.02]; for external \nretrieval, however, there was no difference between the \namount of information retrieved for the important day \ncompared to the random day, t(40) = 1.15, p = 0.259, \nd = −0.12, 95% CI [− 0.40, 0.17]. In addition, participants \nretrieved more information through internal retrieval \n"
+  },
+  {
+    "page": 7,
+    "block": 4,
+    "source_rect": [
+      56.692901611328125,
+      86.431640625,
+      274.1293029785156,
+      108.58062744140625
+    ],
+    "source_text": "Table 2  Number of participants using the different external \nresources\n"
+  },
+  {
+    "page": 7,
+    "block": 5,
+    "source_rect": [
+      56.69288635253906,
+      365.6470031738281,
+      287.9140319824219,
+      400.0519714355469
+    ],
+    "source_text": "The table displays the number of participants (N = 41) who used the different \nsocial, non-digital, and digital resources. The numbers next to the overarching \ncategories (i.e., digital, non-digital, and social resources) indicate the number of \nparticipants who used at least one resource from this category\n"
+  },
+  {
+    "page": 7,
+    "block": 6,
+    "source_rect": [
+      168.12879943847656,
+      114.7650146484375,
+      286.3039855957031,
+      124.541015625
+    ],
+    "source_text": "Important day\nrandom day\n"
+  },
+  {
+    "page": 7,
+    "block": 7,
+    "source_rect": [
+      56.69679260253906,
+      133.40499877929688,
+      252.4647979736328,
+      142.468994140625
+    ],
+    "source_text": "Digital resources\n38\n40\n"
+  },
+  {
+    "page": 7,
+    "block": 8,
+    "source_rect": [
+      56.69677734375,
+      145.50900268554688,
+      252.4647979736328,
+      154.572998046875
+    ],
+    "source_text": "Smartphone photo gallery\n27\n31\n"
+  },
+  {
+    "page": 7,
+    "block": 9,
+    "source_rect": [
+      56.69677734375,
+      157.60501098632812,
+      252.4647979736328,
+      166.66900634765625
+    ],
+    "source_text": "Digital calendar\n18\n30\n"
+  },
+  {
+    "page": 7,
+    "block": 10,
+    "source_rect": [
+      56.69677734375,
+      169.70101928710938,
+      252.4647979736328,
+      178.7650146484375
+    ],
+    "source_text": "Instant messaging\n10\n17\n"
+  },
+  {
+    "page": 7,
+    "block": 11,
+    "source_rect": [
+      56.69677734375,
+      181.79702758789062,
+      252.4647979736328,
+      190.86102294921875
+    ],
+    "source_text": "Snapchat\n10\n14\n"
+  },
+  {
+    "page": 7,
+    "block": 12,
+    "source_rect": [
+      56.69677734375,
+      193.89303588867188,
+      252.456787109375,
+      202.95703125
+    ],
+    "source_text": "BeReal\n3\n3\n"
+  },
+  {
+    "page": 7,
+    "block": 13,
+    "source_rect": [
+      56.69677734375,
+      205.99703979492188,
+      252.456787109375,
+      215.06103515625
+    ],
+    "source_text": "E-mails\n2\n4\n"
+  },
+  {
+    "page": 7,
+    "block": 14,
+    "source_rect": [
+      56.69677734375,
+      218.09304809570312,
+      252.456787109375,
+      227.15704345703125
+    ],
+    "source_text": "Internet search\n2\n6\n"
+  },
+  {
+    "page": 7,
+    "block": 15,
+    "source_rect": [
+      56.69677734375,
+      230.18905639648438,
+      252.456787109375,
+      239.2530517578125
+    ],
+    "source_text": "Digital notes\n2\n4\n"
+  },
+  {
+    "page": 7,
+    "block": 16,
+    "source_rect": [
+      56.69677734375,
+      242.28506469726562,
+      252.456787109375,
+      251.34906005859375
+    ],
+    "source_text": "University websites\n2\n4\n"
+  },
+  {
+    "page": 7,
+    "block": 17,
+    "source_rect": [
+      56.69677734375,
+      254.38107299804688,
+      252.456787109375,
+      263.445068359375
+    ],
+    "source_text": "Instagram\n0\n2\n"
+  },
+  {
+    "page": 7,
+    "block": 18,
+    "source_rect": [
+      56.69677734375,
+      266.4850769042969,
+      252.456787109375,
+      275.549072265625
+    ],
+    "source_text": "Local hard drive\n0\n6\n"
+  },
+  {
+    "page": 7,
+    "block": 19,
+    "source_rect": [
+      56.69677734375,
+      278.5810852050781,
+      252.456787109375,
+      287.64508056640625
+    ],
+    "source_text": "Other\n4\n6\n"
+  },
+  {
+    "page": 7,
+    "block": 20,
+    "source_rect": [
+      56.69677734375,
+      290.6770935058594,
+      252.456787109375,
+      299.7410888671875
+    ],
+    "source_text": "Non-digital resources\n1\n2\n"
+  },
+  {
+    "page": 7,
+    "block": 21,
+    "source_rect": [
+      56.69677734375,
+      302.7731018066406,
+      252.456787109375,
+      311.83709716796875
+    ],
+    "source_text": "Printed calendar\n0\n1\n"
+  },
+  {
+    "page": 7,
+    "block": 22,
+    "source_rect": [
+      56.69677734375,
+      314.8691101074219,
+      252.456787109375,
+      323.93310546875
+    ],
+    "source_text": "Paper diary\n1\n1\n"
+  },
+  {
+    "page": 7,
+    "block": 23,
+    "source_rect": [
+      56.69677734375,
+      326.9651184082031,
+      252.456787109375,
+      336.02911376953125
+    ],
+    "source_text": "Social resources\n1\n5\n"
+  },
+  {
+    "page": 7,
+    "block": 24,
+    "source_rect": [
+      56.69677734375,
+      339.0611267089844,
+      252.456787109375,
+      348.1251220703125
+    ],
+    "source_text": "Family\n0\n2\n"
+  },
+  {
+    "page": 7,
+    "block": 25,
+    "source_rect": [
+      56.69677734375,
+      351.213134765625,
+      252.456787109375,
+      360.2771301269531
+    ],
+    "source_text": "Partner\n1\n3\n"
+  },
+  {
+    "page": 7,
+    "block": 26,
+    "source_rect": [
+      56.692901611328125,
+      424.1385192871094,
+      290.8783264160156,
+      446.2875061035156
+    ],
+    "source_text": "Table 3  Average number of different external resources used by \nparticipants\n"
+  },
+  {
+    "page": 7,
+    "block": 27,
+    "source_rect": [
+      56.692901611328125,
+      525.8510131835938,
+      272.5980224609375,
+      551.260986328125
+    ],
+    "source_text": "The table displays the average number of different external resources that \nparticipants (N = 41) used when remembering the important day and the \nrandom day\n"
+  },
+  {
+    "page": 7,
+    "block": 28,
+    "source_rect": [
+      151.48190307617188,
+      452.4720153808594,
+      277.6287841796875,
+      462.2480163574219
+    ],
+    "source_text": "Important day\nRandom day\n"
+  },
+  {
+    "page": 7,
+    "block": 29,
+    "source_rect": [
+      151.485595703125,
+      468.3680114746094,
+      285.3255920410156,
+      478.1440124511719
+    ],
+    "source_text": "M\nSD\nM\nSD\n"
+  },
+  {
+    "page": 7,
+    "block": 30,
+    "source_rect": [
+      56.69358825683594,
+      487.0080261230469,
+      288.8135681152344,
+      496.072021484375
+    ],
+    "source_text": "Digital resources\n2.02\n1.47\n3.22\n1.92\n"
+  },
+  {
+    "page": 7,
+    "block": 31,
+    "source_rect": [
+      56.69358825683594,
+      499.1040344238281,
+      288.8135681152344,
+      508.16802978515625
+    ],
+    "source_text": "Non-digital resources\n0.02\n0.16\n0.05\n0.22\n"
+  },
+  {
+    "page": 7,
+    "block": 32,
+    "source_rect": [
+      56.69358825683594,
+      511.2560729980469,
+      288.8135681152344,
+      520.320068359375
+    ],
+    "source_text": "Social resources\n0.02\n0.16\n0.12\n0.33\n"
+  },
+  {
+    "page": 8,
+    "block": 0,
+    "source_rect": [
+      56.692901611328125,
+      31.708641052246094,
+      538.58349609375,
+      41.849609375
+    ],
+    "source_text": "Page 9 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n\t\n"
+  },
+  {
+    "page": 8,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      298.1378173828125,
+      292.8916015625,
+      384.6424560546875
+    ],
+    "source_text": "than through external retrieval when remembering an \nimportant day, t(40) = 6.60, p < 0.001, d = 1.72, 95% CI \n[0.82, 2.62]; when remembering a random day, however, \nthere was no significant difference between the amount \nof information retrieved through internal retrieval and \nexternal retrieval, t(40) = 1.72, p = 0.092, d = 0.37, 95% CI \n[−0.24, 0.98].\n"
+  },
+  {
+    "page": 8,
+    "block": 2,
+    "source_rect": [
+      56.683128356933594,
+      394.5054016113281,
+      292.8818054199219,
+      696.6614990234375
+    ],
+    "source_text": "External resources and retrieved information\nThe higher the total number of different external \nresources (i.e., the higher the total number of social, non-\ndigital, and digital resources combined), the more infor-\nmation they remembered through external retrieval, both \nwhen remembering the important day, r = 0.71, p < 0.001, \n95% CI [0.51, 0.83], and when remembering the random \nday, r = 0.37, p = 0.018, 95% CI [0.07, 0.61]. The correla-\ntion for the important day is significantly stronger than \nthe correlation for the random day, z = 2.17, p = 0.030. \nThese results remain virtually unchanged when using the \nnumber of different digital resources (instead of the total \nnumber of different external resources): In other words, \nthe more different digital resources participants used, \nthe more information they remembered through exter-\nnal retrieval, both when remembering the important day, \nr = 0.72, p < 0.001, 95% CI [0.53, 0.84], and when remem-\nbering the random day, r = 0.39, p = 0.011, 95% CI [0.10, \n0.63]. Again, the correlation for the important day was \nsignificantly stronger than the correlation for the random \nday, z = 2.13, p = 0.033. Similar to the analysis regarding \nthe frequency of successful and unsuccessful consulta-\ntions of an external resource, this analysis demonstrates \nthat using external resources is effective, albeit less so for \nthe random day.\n"
+  },
+  {
+    "page": 8,
+    "block": 3,
+    "source_rect": [
+      304.714599609375,
+      297.7450256347656,
+      540.904296875,
+      445.1072082519531
+    ],
+    "source_text": "Discussion\nThe present study was designed to gain new insights \ninto autobiographical remembering in the twenty-first \ncentury. In addition, it was also designed to test some \nof the key assumptions underlying our AMEDIA-Model \n(Hutmacher et al., 2024a, 2024b), namely the assumption \nthat autobiographical remembering is an iterative process \nbased on the combination of information stored in one’s \nmind and information stored in external resources \nand the assumption that digital external resources \nplay an important role when it comes to remembering \nautobiographical events in the digital age.\n"
+  },
+  {
+    "page": 8,
+    "block": 4,
+    "source_rect": [
+      304.7243957519531,
+      454.9894104003906,
+      540.913330078125,
+      721.1503295898438
+    ],
+    "source_text": "Summary of findings and theoretical implications\nAs far as the first assumption is concerned, our data \nconvincingly demonstrate that individuals repeatedly \nchange between internal memories and information \nstored in external resources, no matter whether they try \nto remember an important day or a random day. Three \nmore observations are important in this context. First, \nour data do not only show that individuals rely on exter-\nnal resources for autobiographical remembering but also \nthat this is an effective strategy: For both the important \nday and the random day, consulting an external resource \nmore frequently led to new insights than it remained \nunsuccessful. In addition, the more external resources \nindividuals used, the more information they retrieved \nfrom these external resources. Interestingly, this pattern \nwas less pronounced for the random day compared to \nthe important day as indicated by a higher frequency of \nunsuccessful consultations of an external resource as well \nas a weaker correlation between the number of external \nresources that participants used and the amount of infor-\nmation that they were able to retrieve. As we see it, there \nare at least two explanations for these findings. On the \n"
+  },
+  {
+    "page": 8,
+    "block": 5,
+    "source_rect": [
+      56.692901611328125,
+      86.431640625,
+      364.91229248046875,
+      97.5826416015625
+    ],
+    "source_text": "Table 4  Type of retrieval for different types of information across both types of events\n"
+  },
+  {
+    "page": 8,
+    "block": 6,
+    "source_rect": [
+      134.46470642089844,
+      103.7650146484375,
+      412.31195068359375,
+      113.541015625
+    ],
+    "source_text": "Internal retrieval\nExternal retrieval\n"
+  },
+  {
+    "page": 8,
+    "block": 7,
+    "source_rect": [
+      134.46470642089844,
+      119.86505126953125,
+      507.1200866699219,
+      129.64105224609375
+    ],
+    "source_text": "Important day\nRandom day\nImportant day\nRandom day\n"
+  },
+  {
+    "page": 8,
+    "block": 8,
+    "source_rect": [
+      134.46490478515625,
+      135.76104736328125,
+      526.9288940429688,
+      145.53704833984375
+    ],
+    "source_text": "M\nSD\nM\nSD\nM\nSD\nM\nSD\n"
+  },
+  {
+    "page": 8,
+    "block": 9,
+    "source_rect": [
+      56.680938720703125,
+      154.48106384277344,
+      126.22415924072266,
+      163.38507080078125
+    ],
+    "source_text": "External characteristics\n"
+  },
+  {
+    "page": 8,
+    "block": 10,
+    "source_rect": [
+      56.680938720703125,
+      166.41708374023438,
+      534.304931640625,
+      175.4810791015625
+    ],
+    "source_text": "Places\n1.37\n1.28\n0.56\n0.71\n0.44\n0.87\n0.61\n0.833\n"
+  },
+  {
+    "page": 8,
+    "block": 11,
+    "source_rect": [
+      56.664947509765625,
+      178.51309204101562,
+      530.3849487304688,
+      187.57708740234375
+    ],
+    "source_text": "Events\n5.05\n2.56\n2.37\n2.40\n0.93\n1.13\n1.49\n1.23\n"
+  },
+  {
+    "page": 8,
+    "block": 12,
+    "source_rect": [
+      56.648956298828125,
+      190.61709594726562,
+      530.3689575195312,
+      199.68109130859375
+    ],
+    "source_text": "Persons\n2.76\n1.85\n0.95\n1.53\n0.63\n0.94\n0.63\n0.86\n"
+  },
+  {
+    "page": 8,
+    "block": 13,
+    "source_rect": [
+      56.632965087890625,
+      202.71310424804688,
+      530.3529663085938,
+      220.777099609375
+    ],
+    "source_text": "Conversational \ncontent\n0.56\n1.23\n0.46\n1.00\n0.66\n1.70\n0.51\n1.10\n"
+  },
+  {
+    "page": 8,
+    "block": 14,
+    "source_rect": [
+      56.616973876953125,
+      223.9770965576172,
+      99.28097534179688,
+      232.881103515625
+    ],
+    "source_text": "Internal states\n"
+  },
+  {
+    "page": 8,
+    "block": 15,
+    "source_rect": [
+      56.616973876953125,
+      235.91311645507812,
+      530.3369750976562,
+      244.97711181640625
+    ],
+    "source_text": "Thoughts\n0.22\n0.65\n0.24\n0.66\n0.00\n0.00\n0.02\n0.16\n"
+  },
+  {
+    "page": 8,
+    "block": 16,
+    "source_rect": [
+      56.600982666015625,
+      248.00912475585938,
+      530.3209838867188,
+      257.0731201171875
+    ],
+    "source_text": "Feelings\n1.41\n1.96\n0.59\n0.95\n0.07\n0.26\n0.05\n0.22\n"
+  },
+  {
+    "page": 8,
+    "block": 17,
+    "source_rect": [
+      56.584991455078125,
+      260.1611022949219,
+      530.3049926757812,
+      269.22509765625
+    ],
+    "source_text": "Total\n11.37\n7.05\n5.17\n5.39\n2.73\n3.62\n3.32\n2.93\n"
+  },
+  {
+    "page": 9,
+    "block": 0,
+    "source_rect": [
+      56.693603515625,
+      31.705528259277344,
+      538.6615600585938,
+      41.84954833984375
+    ],
+    "source_text": "Page 10 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n"
+  },
+  {
+    "page": 9,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.8896179199219,
+      724.2640991210938
+    ],
+    "source_text": "one hand, it could be that looking at different resources \nis less effective for the random day because the partici-\npants search strategy is less targeted. Assuming that par-\nticipants have fewer internal memories about the random \nday compared to the important day, they may be less \nsure where to look for the respective information. On the \nother hand, it could be that the external resources sim-\nply contain fewer information for the random day com-\npared to the important day so that consulting an external \nresource has a higher chance of remaining without a \nresult.\nSecond, the amount of information that individuals \nwere able to retrieve based on internal memories was \nhigher when remembering an important day compared \nto remembering a random day. Note, however, that this \npattern is difficult to interpret: It might be that individu-\nals are able to retrieve more information for the impor-\ntant day because it was an important day, that is, because \nthey ascribe a higher value to the things that happened \nduring this day. At the same time, it is also possible that \nsimply more happened during the important day so \nthat the maximum amount of information than can be \nretrieved for the important day is higher than the maxi-\nmum amount of information that can be retrieved for the \nrandom day. Interestingly, there was no significant dif-\nference between the important day and the random day \nregarding the amount of information that individuals \nwere able to retrieve solely based on external resources. \nIf anything, there was a descriptive tendency that more \ninformation was retrieved from external resources when \nremembering the random day. This suggests that external \nresources provide a valuable basis for remembering and \nreconstructing both important and comparably unim-\nportant autobiographical events.\nThird, we observed more changes between internal \nprocesses and external resources for the random day \ncompared to the important day. In line with this, we also \nobserved that individuals used more (digital) external \nresources and that they used these resources earlier when \nremembering the random day compared to remembering \nthe important day. As remembering a random day based \non internal memory alone is harder than remembering \nan important day, this seems to suggest that individuals \ntend to access external resources whenever the informa-\ntion stored in internal memory seems insufficient. This \nconclusion is also supported by our additional analyses \ndemonstrating that individuals only rarely switch to an \nexternal resource when they already have a detailed inter-\nnal memory, but rather when they have either no internal \nmemory or merely a vague internal memory. Moreover, \ninitiating a switch to an external resource because one \nhad no internal memory was more frequent for the ran-\ndom day compared to the important day.\n"
+  },
+  {
+    "page": 9,
+    "block": 2,
+    "source_rect": [
+      304.72430419921875,
+      85.730712890625,
+      540.9181518554688,
+      724.2305297851562
+    ],
+    "source_text": "Taken together, these results indicate that the itera-\ntive combination of information stored in one’s mind \nand information stored in the environment is—at least \npotentially—complementary and symbiotic in the sense \nthat it improves remembering compared to unaided \nand unmediated recall. This does not only support the \nfoundations of the AMEDIA-Model (Hutmacher et al., \n2024a, 2024b) but also of related frameworks (Eliseev & \nMarsh, 2021; Finley & Naaz, 2023; Finley et al., 2018), \nwhich all emphasize that external resources are not \nso much used for offloading and externalization but \nrather to create an extended memory system. In this \ncontext, it should be noted that retrieving informa-\ntion from external resources and retrieving informa-\ntion from internal memory are in fact not independent \nbut constantly interact: On the one hand, the available \ninternal memories may guide one’s search strategies \nwhen browsing external resources; on the other hand, \nthe information found in external resources may make \ninternal memories available that one would not have \nbeen able to retrieve without using external resources. \nIn fact, and as described in the method section, internal \nretrieval—as understood in the present manuscript—\ncomprised cases of unaided internal retrieval (e.g., “I \nremember being in a restaurant that day”) and aided \ninternal retrieval (e.g., “Now that I see it on the pic-\nture, I also remember being in a restaurant that day”). \nAlthough we were not able to distinguish between \nthese cases based on our think-aloud protocols, we \nencourage future research that is able to make these \nmore fine-grained distinctions.\nApart from that, the data also confirm the assumption \nthat digital resources play a key role for autobiographi-\ncal remembering in the digital age. More specifically, \nthe number of digital resources that individuals used \nwas much higher than the number of non-digital and \nsocial resources. To a certain degree, this could of course \nbe a result of the study setting (i.e., a videoconferenc-\ning tool being used for recording both sessions). At the \nsame time, participants were explicitly told that they \nare allowed to stand up, leave the room, and talk to oth-\ners to minimize such effects. That is, although we cau-\ntion against overinterpreting the relative frequency with \nwhich participants made use of social, non-digital, and \ndigital tools, the importance of digital tools for autobio-\ngraphical remembering in the twenty-first century seems \nundeniable. As it has been shown that remembering and \nnarrating autobiographical events often takes place in \nconversation with others (Grysman et  al., 2024; Nelson \n& Fivush, 2004; Pasupathi & Wainryb, 2010), however, it \ncould nevertheless be enlightening to repeat the study in \ndifferent settings. With respect to digital resources, one \nmore interesting finding emerged: The most frequently \n"
+  },
+  {
+    "page": 10,
+    "block": 0,
+    "source_rect": [
+      56.692901611328125,
+      31.708641052246094,
+      538.5835571289062,
+      41.849609375
+    ],
+    "source_text": "Page 11 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n\t\n"
+  },
+  {
+    "page": 10,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      85.730712890625,
+      292.88177490234375,
+      148.2641143798828
+    ],
+    "source_text": "used digital resources were the same for remembering \nthe important day and the random day. This implies that \nindividuals have their preferred sources for storing and \nretrieving information about their lives that they consist-\nently use under varying circumstances.\n"
+  },
+  {
+    "page": 10,
+    "block": 2,
+    "source_rect": [
+      56.692901611328125,
+      158.0983123779297,
+      292.8885498046875,
+      712.2401123046875
+    ],
+    "source_text": "Limitations and constraints on generality\nWe note three limitations. First, our results could be \ninfluenced by the choice of the days that we compared. \nWe picked the participants’ (second) last birthday as the \nimportant day to be remembered as we assumed that \nmost participants would find their birthday important \nand consider it a day that stands out from the rest of the \nyear. Nevertheless, future research could explore differ-\nent kinds of important events to test the generalizabil-\nity of our results. Also note that the important day was \nthe same for all participants (namely their last birthday), \nwhile the random day could be anything so that the com-\nparison between the important day and the random day \nultimately is a comparison of one specific important day \nwith many different random days.\nSecond, the results could also be influenced by the spe-\ncifics of our instructions. Our main goal was to create a \nstudy setting that is much closer to real-world scenarios \nthan many other studies on autobiographical remem-\nbering in that it did not isolate individuals from their \nenvironment and but invited them to use the available \nexternal resources. In line with this, we gave our par-\nticipants a maximum of 15 min to reconstruct each day \nto restrict the session to a reasonable length, but also \nemphasized that participants can finish the task earlier \nif they have the impression that there is nothing more to \nbe remembered. In addition, participants were told that \nthey are allowed to use external resources; whether and \nto what degree they decided to do so, however, remained \ncompletely up to them. That being said, the participants’ \ntask was to reconstruct the two days in as much detail \nas possible. Although this is something that partici-\npants may decide to do in real-world situations, both for \nan important day (e.g., “How exactly did I celebrate my \nlast birthday?”) and for a random day (e.g., “What did I \ndo Friday afternoon two weeks ago?”), one can easily \nimagine different instructions. For instance, participants \ncould be instructed to reflect upon or reminisce about \npast events (cf. Sellen & Whittaker, 2010) rather than to \nreconstruct them in as much detail as possible. Alter-\nnatively, one could also ask participants to remember \nevents that are not related to a specific pre-defined date \nas in the present study (e.g., the day one’s first child was \nborn, the last time one had pizza with friends) and that \nmight therefore require a different way of accessing and \nusing external resources.\n"
+  },
+  {
+    "page": 10,
+    "block": 3,
+    "source_rect": [
+      304.73089599609375,
+      85.70648193359375,
+      540.9188232421875,
+      256.17718505859375
+    ],
+    "source_text": "Third, our study addressed the interplay between \ninternal \nautobiographical \nmemory \nand \nexternal \nresources. As outlined in previous research, however, \nindividuals do not only make use of external resources \nfor autobiographical memory purposes, but also for \nsemantic, procedural, and prospective purposes (Finley \n& Naaz, 2023). Importantly, the frequency and ease \nof use varies across these different memory purposes, \nsuggesting that the degree to which individuals are \nwilling and able to use external resources may depend \non the goal that they have in mind. Hence, we caution \nagainst overinterpreting our results: More research is \nneeded to determine whether the same patterns can also \nbe observed for non-autobiographical memory purposes.\n"
+  },
+  {
+    "page": 10,
+    "block": 4,
+    "source_rect": [
+      304.724365234375,
+      266.0982971191406,
+      540.9229125976562,
+      724.2640991210938
+    ],
+    "source_text": "Directions for future research\nAlthough the present study provided empirical evidence \nfor some of the key claims underlying the AMEDIA-\nModel (Hutmacher et  al., 2024a, 2024b), many open \nresearch questions remain. In addition to the limita-\ntions already discussed above, we want to mention two \npoints: First, the AMEDIA-Model hypothesizes that \nthe way data have been encoded and curated influences \nhow the respective autobiographical events are remem-\nbered later (see also Henkel & St. Jacques, 2024). In the \npresent study, participants combined all available exter-\nnal resources to reconstruct the two days in as much \ndetail as possible. Nevertheless, it would be interest-\ning to know which separable effects different resources \nhave on remembering past events. In addition, it could \nbe insightful to compare conditions in which individuals \nhave access to (different) external resources to a control \ncondition, in which they do not, in order to capture the \nfull potential of having a digital database of our lives. This \nmight also include checking the reliability of different \nsources and the probability with which they might lead \nto false recognitions and distorted reconstructions (cf. St. \nJacques & Schacter, 2013). Second, we asked participants \nto remember events that they experienced about one year \nago. One potential avenue for future research could be to \nextend this time interval. This could be particularly inter-\nesting as file formats and the applications that individuals \nuse have undergone constant changes over the last years \nand decades (e.g., Blum & Beyer, 2019; see also Petrelli & \nWhittaker, 2010; van den Hoven et al., 2012; van House & \nChurchill, 2008), suggesting that it could be more difficult \nto reconstruct autobiographical events using external \nresources from the more distant past. In a similar vein, \nit could also be interesting to shorten the time interval. \nUltimately, using different time intervals would enable \ncomparisons between the ways internal memories and \nexternal resources are used to reconstruct autobiographi-\ncal events from one month, one year, or one decade ago.\n"
+  },
+  {
+    "page": 11,
+    "block": 0,
+    "source_rect": [
+      56.693603515625,
+      31.705528259277344,
+      538.6615600585938,
+      41.84954833984375
+    ],
+    "source_text": "Page 12 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n"
+  },
+  {
+    "page": 11,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      85.84104919433594,
+      292.8807373046875,
+      243.9538116455078
+    ],
+    "source_text": "Conclusion\nIn sum, the present study provides compelling evidence \nfor the importance of considering the interplay between \ninformation stored in our minds and information \nstored in external resources as well as the role of \ndigital resources when it comes to autobiographical \nremembering in the twenty-first century. Although \nhumans have used external resources for remembering \nfor thousands of years already, the proliferation of digital \ntechnologies has significantly transformed the memory \necologies in which humans are embedded. Further \nexploring how this shapes the way we remember our lives \nwill be an important task in the coming years.\n"
+  },
+  {
+    "page": 11,
+    "block": 2,
+    "source_rect": [
+      56.692901611328125,
+      252.59674072265625,
+      184.9680938720703,
+      265.35845947265625
+    ],
+    "source_text": "Supplementary Information\n"
+  },
+  {
+    "page": 11,
+    "block": 3,
+    "source_rect": [
+      56.692901611328125,
+      268.16094970703125,
+      283.1838684082031,
+      285.658447265625
+    ],
+    "source_text": "The online version contains supplementary material available at https://​doi.​\norg/​10.​1186/​s41235-​025-​00627-4.\n"
+  },
+  {
+    "page": 11,
+    "block": 4,
+    "source_rect": [
+      62.692901611328125,
+      298.16094970703125,
+      139.90464782714844,
+      306.658447265625
+    ],
+    "source_text": "Supplementary Material 1\n"
+  },
+  {
+    "page": 11,
+    "block": 5,
+    "source_rect": [
+      56.692901611328125,
+      323.4959411621094,
+      121.28966522216797,
+      341.66094970703125
+    ],
+    "source_text": "Acknowledgements\nNot applicable.\n"
+  },
+  {
+    "page": 11,
+    "block": 6,
+    "source_rect": [
+      56.692901611328125,
+      350.4959411621094,
+      288.225341796875,
+      422.66094970703125
+    ],
+    "source_text": "Author contributions\nFH, MA, and SS contributed to the conceptualization of the study. FH and BC \nwere involved in data curation. FH was responsible for project administration. \nFH and BC analyzed the data. All authors interpreted the results. FH drafted a \nfirst version of the manuscript. BC, MA, and SS provided comments and sug-\ngestions and edited the manuscript. FH revised the manuscript. BC, MA, and \nSS provided comments and suggestions. All authors read and approved the \nfinal manuscript.\n"
+  },
+  {
+    "page": 11,
+    "block": 7,
+    "source_rect": [
+      56.692901611328125,
+      431.4959411621094,
+      241.77711486816406,
+      449.66094970703125
+    ],
+    "source_text": "Funding\nOpen Access funding enabled and organized by Projekt DEAL.\n"
+  },
+  {
+    "page": 11,
+    "block": 8,
+    "source_rect": [
+      56.692901611328125,
+      458.4959411621094,
+      289.9938049316406,
+      485.66094970703125
+    ],
+    "source_text": "Availability of data and materials\nQuantitative data, study materials, and the codebook that was used for analyz-\ning the qualitative data are available at https://​osf.​io/​n2t7u/.\n"
+  },
+  {
+    "page": 11,
+    "block": 9,
+    "source_rect": [
+      56.692901611328125,
+      498.84100341796875,
+      106.57530212402344,
+      510.0834045410156
+    ],
+    "source_text": "Declarations\n"
+  },
+  {
+    "page": 11,
+    "block": 10,
+    "source_rect": [
+      56.692901611328125,
+      518.4934692382812,
+      289.3121032714844,
+      563.658447265625
+    ],
+    "source_text": "Ethics approval and consent to participate\nThe study was conducted in accordance with the Declaration of Helsinki and \nthe ethical guidelines of the German Psychological Society (DGPs). Based on \nthe regulations for conducting psychological research in Germany, no formal \nIRB approval was required. All participants provided written informed consent.\n"
+  },
+  {
+    "page": 11,
+    "block": 11,
+    "source_rect": [
+      56.692901611328125,
+      572.4934692382812,
+      132.79539489746094,
+      590.658447265625
+    ],
+    "source_text": "Consent for publication\nNot applicable.\n"
+  },
+  {
+    "page": 11,
+    "block": 12,
+    "source_rect": [
+      56.692901611328125,
+      599.4934692382812,
+      232.86793518066406,
+      617.658447265625
+    ],
+    "source_text": "Competing interests\nThe authors declare that they have no competing interests.\n"
+  },
+  {
+    "page": 11,
+    "block": 13,
+    "source_rect": [
+      56.692901611328125,
+      635.6434326171875,
+      232.31295776367188,
+      644.658447265625
+    ],
+    "source_text": "Received: 17 September 2024   Accepted: 31 March 2025\n"
+  },
+  {
+    "page": 11,
+    "block": 14,
+    "source_rect": [
+      304.724365234375,
+      86.3475112915039,
+      540.2019653320312,
+      347.51251220703125
+    ],
+    "source_text": "References\nAraujo, S. F., & Osbeck, L. M. (2023). Ever not quite: Pluralism(s) in William James \nand contemporary psychology. Cambridge University Press. https://​doi.​\norg/​10.​1017/​97811​08954​327\nArmstrong, A., Briggs, J., Moncur, W., Carey, D. P., Nicol, E., & Schafer, B. (2023). \nEveryday digital traces. Big Data & Society, 10(2), 20539517231213828. \nhttps://​doi.​org/​10.​1177/​20539​51723​12138​27\nBarnwell, A., Neves, B. B., & Ravn, S. (2023). Captured and captioned: \nRepresenting family life on Instagram. New Media & Society, 25(5), \n921–942. https://​doi.​org/​10.​1177/​14614​44821​10127​91\nBaumeister, R. F., Vohs, K. D., & Funder, D. C. (2007). Psychology as the \nscience of self-reports and finger movements: Whatever happened to \nactual behavior? Perspectives on Psychological Science, 2(4), 396–403. \nhttps://​doi.​org/​10.​1111/j.​1745-​6916.​2007.​00051.x\nBell, G., & Gemmell, J. (2009). Total recall. How the e-memory revolution will \nchange everything. Dutton.\nBlum, R., & Beyer, B. (2019). Achieving digital permanence. Communications \nof the ACM, 62(5), 36–42. https://​doi.​org/​10.​1145/​33038​72\nBrennan, R. L., & Prediger, D. J. (1981). Coefficient kappa: Some uses, misuses, \nand alternatives. Educational and Psychological Measurement, 41, \n687–699. https://​doi.​org/​10.​1177/​00131​64481​04100​307\nBrockmeier, J. (2015). Beyond the archive: Memory, narrative, and the \nautobiographical process. Oxford University Press.\nCho, M. J., Reeves, B., Robinson, T. N., & Ram, N. (2023). Media production on \nsmartphones: Analysis of the timing, content, and context of message \nproduction using real-world smartphone use data. Cyberpsychology, \nBehavior, and Social Networking, 26(5), 371–379. https://​doi.​org/​10.​\n1089/​cyber.​2021.​0350\nClark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 10–23. \n"
+  },
+  {
+    "page": 11,
+    "block": 15,
+    "source_rect": [
+      304.724365234375,
+      348.0150146484375,
+      539.4668579101562,
+      725.5125122070312
+    ],
+    "source_text": "https://​doi.​org/​10.​1093/​analys/​58.1.7\nClowes, R. W. (2013). The cognitive integration of e-memory. Review of \nPhilosophy and Psychology, 4(1), 107–133. https://​doi.​org/​10.​1007/​\ns13164-​013-​0130-y\nDonald, M. (1991). Origins of the modern mind: Three stages in the evolution of \nculture and cognition. Harvard University Press.\nDonald, M. (2001). A mind so rare: The evolution of human consciousness. W. \nW. Norton & Company.\nEccles, D. W., & Arsal, G. (2017). The think aloud method: What is it and \nhow do I use it? Qualitative Research in Sport, Exercise and Health, 9(4), \n514–531. https://​doi.​org/​10.​1080/​21596​76X.​2017.​13315​01\nEliseev, E. D., & Marsh, E. J. (2021). Externalizing autobiographical memories \nin the digital age. Trends in Cognitive Sciences, 25(12), 1072–1081. \nhttps://​doi.​org/​10.​1016/j.​tics.​2021.​08.​005\nEricsson, K. A., & Simon, H. A. (1993). Protocol analysis: Verbal reports as data \n(2nd ed.). MIT Press.\nFaul, F., Erdfelder, E., Lang, A. G., & Buchner, A. (2007). G*Power 3: A flexible \nstatistical power analysis program for the social, behavioral, and \nbiomedical sciences. Behavior Research Methods, 39(2), 175–191. \nhttps://​doi.​org/​10.​3758/​BF031​93146\nFinley, J. R., & Naaz, F. (2023). Strategic use of internal and external memory \nin everyday life: Episodic, semantic, procedural, and prospective \npurposes. Memory, 31(1), 108–126. https://​doi.​org/​10.​1080/​09658​211.​\n2022.​21268​58\nFinley, J. R., Naaz, F., & Goh, F. W. (2018). Memory and technology. How we use \ninformation in the brain and the world. Springer.\nFivush, R. (2013). Autobiographical memory. In E. Kneightley & M. Pickering \n(Eds.), Research methods for memory studies (pp. 13–28). Edinburgh \nUniversity Press.\nGrysman, A. (2024). Does technology-mediated memory differ from human-\nmediated memory? Psychological Inquiry, 35(2), 113–116. https://​doi.​\norg/​10.​1080/​10478​40X.​2024.​23841​37\nGrysman, A., Camia, C., & Pasupathi, M. (2024). Different routes to \nconversational influences on autobiographical memory. Journal of \nApplied Research in Memory and Cognition, 13(1), 40–56. https://​doi.​org/​\n10.​1037/​mac00​00101\nHeersmink, R. (in press). A history of memory artifacts. In L. M. Bietti & M. \nPogacar (Eds.), The Palgrave encyclopedia of memory studies. Palgrave \nMacmillan.\nHeersmink, R. (2022). Extended mind and artifactual autobiographical \nmemory. Mind & Language, 37(4), 659–673. https://​doi.​org/​10.​1111/​\nmila.​12353\n"
+  },
+  {
+    "page": 12,
+    "block": 0,
+    "source_rect": [
+      56.692901611328125,
+      31.708641052246094,
+      538.5835571289062,
+      41.849609375
+    ],
+    "source_text": "Page 13 of 13\nHutmacher et al. Cognitive Research: Principles and Implications           (2025) 10:18 \n\t\n"
+  },
+  {
+    "page": 12,
+    "block": 1,
+    "source_rect": [
+      56.692901611328125,
+      87.0150146484375,
+      291.4946594238281,
+      716.5125122070312
+    ],
+    "source_text": "Heersmink, R., & Carter, J. A. (2020). The philosophy of memory technologies: \nMetaphysics, knowledge, and values. Memory Studies, 13(4), 416–433. \nhttps://​doi.​org/​10.​1177/​17506​98017​703810\nHenkel, L. A., & St. Jacques, P. L. (2024). Remembering digitally: Unpacking the \nimpact of technology on autobiographical memory. Psychological Inquiry, \n35(2), 117–123. https://​doi.​org/​10.​1080/​10478​40X.​2024.​23841​34\nHuebner, B. (2016). Transactive memory reconstructed: Rethinking Wegner’s \nresearch program. The Southern Journal of Philosophy, 54(1), 48–69. \nhttps://​doi.​org/​10.​1111/​sjp.​12160\nHutmacher, F. (2023). Taking methodological pluralism seriously: \nConsiderations based on the work of Norbert Groeben. Frontiers in \nPsychology, 14, 1215737. https://​doi.​org/​10.​3389/​fpsyg.​2023.​12157​37\nHutmacher, F., Appel, M., & Schwan, S. (2024a). Understanding \nautobiographical memory in the digital age: The AMEDIA-model. \nPsychological Inquiry, 35(2), 83–105. https://​doi.​org/​10.​1080/​10478​40X.​\n2024.​23841​25\nHutmacher, F., Appel, M., & Schwan, S. (2024b). Remembering our lives in the \n21st century. Psychological Inquiry, 35(2), 150–157. https://​doi.​org/​10.​\n1080/​10478​40X.​2024.​23841​28\nHutmacher, F., & Franz, D. J. (2025). Approaching psychology’s current crises by \nexploring the vagueness of psychological concepts: Recommendations \nfor advancing the discipline. American Psychologist, 80(2), 220-231. \nhttps://​doi.​org/​10.​1037/​amp00​01300\nHutmacher, F., Schläger, L., & Meerson, R. (2023). Autobiographical memory in \nthe digital age: Insights based on the subjective reports of users of smart \njournaling apps. Applied Cognitive Psychology, 37(4), 686–698. https://​doi.​\norg/​10.​1002/​acp.​4033\nJASP Team (2024). JASP (Version 0.19.3)[Computer software]\nJohnson, A. J., & Morley, E. G. (2021). Sharing personal memories on ephemeral \nsocial media facilitates autobiographical memory. Cyberpsychology, \nBehavior, and Social Networking, 24(11), 745–749. https://​doi.​org/​10.​1089/​\ncyber.​2020.​0511\nJungselius, B., & Weilenmann, A. (2023). Keeping memories alive: A decennial \nstudy of social media reminiscing, memories, and nostalgia. Social \nMedia + Society, 9(4), 1–15. https://​doi.​org/​10.​1177/​20563​05123​12078​50\nKalnikaitė, V., & Whittaker, S. (2012). Synergetic recollection: How to design \nlifelogging tools that help locate the right information. In M. Zacarias & J. \nV. de Oliveira (Eds.), Human-computer interaction: The agency perspective \n(pp. 329–348). Springer. https://​doi.​org/​10.​1007/​978-3-​642-​25691-2_​14\nKroes, A. D. A., & Finley, J. R. (2023). Demystifying omega squared: Practical \nguidance for effect size in common analysis of variance designs. Advance \nonline publication. https://​doi.​org/​10.​1037/​met00​00581\nKuckartz, U. (2019). Qualitative text analysis: A systematic approach. In G. \nKaiser & N. Presmeg (Eds.), Compendium for early career researchers in \nmathematics education (pp. 181–197). Springer. https://​doi.​org/​10.​1007/​\n978-3-​030-​15636-7_8\nLandis, J. R., & Koch, G. G. (1977). The measurement of observer agreement \nfor categorical data. Biometrics, 33(1), 159–174. https://​doi.​org/​10.​2307/​\n25293​10\nMarsh, E. J., & Rajaram, S. (2019). The digital expansion of the mind: \nImplications of internet usage for memory and cognition. Journal of \nApplied Research in Memory and Cognition, 8(1), 1–14. https://​doi.​org/​10.​\n1016/j.​jarmac.​2018.​11.​001\nMartin, C. B., Hong, B., Newsome, R. N., Savel, K., Meade, M. E., Xia, A., & \nBarense, M. D. (2022). A smartphone intervention that enhances real-\nworld memory and promotes differentiation of hippocampal activity \nin older adults. Proceedings of the National Academy of Sciences, 119(51), \ne2214285119. https://​doi.​org/​10.​1073/​pnas.​22142​85119\nMayrhofer, R., & Hutmacher, F. (2020). The principle of inversion: Why the \nquantitative-empirical paradigm cannot serve as a unifying basis for \npsychology as an academic discipline. Frontiers in Psychology, 11, 3389. \nhttps://​doi.​org/​10.​3389/​fpsyg.​2020.​596425\nNelson, K., & Fivush, R. (2004). The emergence of autobiographical memory: \nA social cultural developmental theory. Psychological Review, 111(2), \n486–511. https://​doi.​org/​10.​1037/​0033-​295X.​111.2.​486\nNoushad, B., Van Gerven, P. W., & de Bruin, A. B. (2024). Twelve tips for applying \nthe think-aloud method to capture cognitive processes. Medical Teacher, \n46(7), 892–897. https://​doi.​org/​10.​1080/​01421​59X.​2023.​22898​47\nPasupathi, M., & Wainryb, C. (2010). On telling the whole story: Facts and \ninterpretations in autobiographical memory narratives from childhood \n"
+  },
+  {
+    "page": 12,
+    "block": 2,
+    "source_rect": [
+      304.72540283203125,
+      87.0150146484375,
+      540.2175903320312,
+      464.51251220703125
+    ],
+    "source_text": "through midadolescence. Developmental Psychology, 46(3), 735–746. \nhttps://​doi.​org/​10.​1037/​a0018​897\nPeltokorpi, V. (2008). Transactive memory systems. Review of General Psychology, \n12(4), 378–394. https://​doi.​org/​10.​1037/​1089-​2680.​12.4.​378\nPetrelli, D., & Whittaker, S. (2010). Family memories in the home: Contrasting \nphysical and digital mementos. Personal and Ubiquitous Computing, 14(2), \n153–169. https://​doi.​org/​10.​1007/​s00779-​009-​0279-7\nSchönpflug, W., & Esser, K. B. (1995). Memory and its Graeculi: Metamemory \nand control in extended memory systems. In C. A. Weaver, S. Mannes, \n& C. R. Fletcher (Eds.), Discourse comprehension: Essays in honor of Walter \nKintsch (pp. 245–255). Erlbaum.\nSellen, A. J., & Whittaker, S. (2010). Beyond total capture: A constructive critique \nof lifelogging. Communications of the ACM, 53(5), 70–77. https://​doi.​org/​\n10.​1145/​17352​23.​17352​43\nSt. Jacques, P. L., & Schacter, D. L. (2013). Modifying memory: Selectively \nenhancing and updating personal memories for a museum tour by \nreactivating them. Psychological Science, 24(4), 537–543. https://​doi.​org/​\n10.​1177/​09567​97612​457377\nSutton, J. (2010). Exograms and interdisciplinarity: History, the extended mind, \nand the civilizing process. In R. Menary (Ed.), The extended mind (pp. \n189–225). MIT Press.\nTalaifar, S. (2024). Alphabetical diaries and autobiographical memory in the \ndigital age. Psychological Inquiry, 35(2), 141–144. https://​doi.​org/​10.​1080/​\n10478​40X.​2024.​23841​30\nvan den Hoven, E., Sas, C., & Whittaker, S. (2012). Introduction to this special \nissue on designing for personal memories: Past, present, and future. \nHuman-Computer Interaction, 27(1–2), 1–12. https://​doi.​org/​10.​1080/​\n07370​024.​2012.​673451\nvan House, N., & Churchill, E. F. (2008). Technologies of memory: Key issues and \ncritical perspectives. Memory Studies, 1(3), 295–310. https://​doi.​org/​10.​\n1177/​17506​98008​093795\nWegner, D. M., Giuliano, T., & Hertel, P. T. (1985). Cognitive interdependence \nin close relationships. In W. Ickes (Ed.), Compatible and incompatible \nrelationships (pp. 253–276). Springer. https://​doi.​org/​10.​1007/​978-1-​4612-​\n5044-9_​12\nYamashiro, J. K., & Roediger, H. L. I. I. I. (2019). Expanding cognition: A brief \nconsideration of technological advances over the past 4000 years. Journal \nof Applied Research in Memory and Cognition, 8(1), 15–19. https://​doi.​org/​\n10.​1016/j.​jarmac.​2018.​12.​004\nZitzmann, S., & Loreth, L. (2021). Regarding an “almost anything goes” attitude \ntoward methods in psychology. Frontiers in Psychology, 12, 612570. \nhttps://​doi.​org/​10.​3389/​fpsyg.​2021.​612570\n"
+  },
+  {
+    "page": 12,
+    "block": 3,
+    "source_rect": [
+      304.7243957519531,
+      476.4508361816406,
+      527.931884765625,
+      506.5125427246094
+    ],
+    "source_text": "Publisher’s Note\nSpringer Nature remains neutral with regard to jurisdictional claims in pub-\nlished maps and institutional affiliations.\n"
+  }
+]

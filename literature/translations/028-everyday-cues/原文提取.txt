@@ -1,0 +1,1111 @@
+ 
+Things That Make Us Reminisce: Everyday Memory Cues 
+as Opportunities for Interaction Design 
+Doménique van Gennip1,2 
+Elise van den Hoven1,2 
+Panos Markopoulos2,1 
+Faculty of Design, Architecture and Building 
+University of Technology, Sydney 
+domenique.vangennip@uts.edu.au 
+elise.vandenhoven@uts.edu.au 
+Department of Industrial Design 
+Eindhoven University of Technology, the 
+Netherlands 
+p.markopoulos@tue.nl 
+ 
+ABSTRACT 
+Interactive devices can support personal remembering to 
+benefit well-being. These designs require insight into what 
+brings the past to mind, and how people relate to such cues. 
+Prior work focused on mementos in the home; instead, this 
+paper presents a diary and interview study of involuntary 
+memory cueing in everyday life. Data was collected from 
+fifteen adult individuals, using sentence completion diaries, 
+combined with debriefing interviews. Qualitative analysis 
+of the data showed that these participants were relying on 
+everyday physical objects like food items for cueing 
+memories during everyday life, locations and (repeated) 
+activities, while digital items and photos were shown to be 
+less frequent stimulants. Meaningful relations to memory 
+cues can be partially explained from a memory cueing 
+perspective. We discuss how design for remembering can 
+benefit from our insights, through careful trade-offs in 
+timing, exposure to cues, and supporting a process of 
+personal attachment with items invoking memories. 
+Author Keywords 
+Interaction Design, Memories, Memory cueing, 
+Remembering, Diary study 
+ACM Classification Keywords 
+H.5.m. Information interfaces and presentation (e.g., HCI): 
+Miscellaneous. 
+INTRODUCTION 
+In everyday life we often remember our past: sometimes by 
+deliberate effort, and sometimes because thoughts, people 
+or elements in our environment remind us. Think of using 
+social media to view and share family stories, or 
+reminiscing while taking a walk in the park. Such 
+reminiscing and reflecting on autobiographical memories 
+has clear mental benefits, as remembering is vital to our 
+self-image, personal identity, how we express ourselves, 
+and relate to others [8]. These activities based on memories, 
+and by extension the elements in the environment that 
+trigger such memories, help us feel well and balance 
+emotional 
+needs 
+[6, 
+30]. 
+Stimulating 
+beneficial 
+remembering in daily life thus can be a worthwhile goal, as 
+underlined by recent attention within the field of interaction 
+design [e.g., 17, 30]. People have long used mementos for 
+this purpose, and capture (for example) photographs to use 
+as memory cues later on [30]. Interactive devices can 
+support reminiscing using captured images and other data 
+as memory cues, provided design efforts are based on a 
+solid understanding of what makes people remember their 
+past, how this colors their experience, and whether such 
+interactivity is appropriate at a given time. 
+Figure 1. Examples invoking memories: Photo of a trip on 
+Facebook; Thunderstorm; Boboti dish; Transistor radio. 
+Digital items stand a lesser chance of evoking memories 
+and emotions compared to physical items due to lesser 
+salience, often captured and stored but not reviewed [31]. 
+People put meaningful items on display, and vice versa tend 
+to attach meaning to items available in their environment. 
+Personal mementos are increasingly stored digitally and are 
+becoming more numerous due to lower perceived cost of 
+capture, which also reduces chances of finding it again to 
+help remembering [30]. When people were asked to 
+indicate valuable items during home visits, digital 
+mementos were often overlooked [20, 27]. Digitalization of 
+personal media can reduce opportunities to evoke memories 
+without effort [31], or as Schwarz argues do the opposite as 
+we may frequently come across files when looking for 
+Final author version. Imprint omitted. 
+http://dx.doi.org/10.1145/2702123.2702460 
+
+
+ 
+something else [29]. The latter would alter our relation to 
+those memories to become more casual as memory-related 
+items would involuntarily cue us more often (beyond direct 
+control over such exposures, which may be undesired). 
+This raises the challenge of how to assist the revisiting of 
+personal digital items. We believe that if such revisiting 
+(involuntary or otherwise) can influence wellbeing (as 
+shown for positive memories [6]), this challenges designers 
+to do (or refrain from doing) so sensibly. Good design of 
+supportive devices can make a difference, provided that 
+people’s experiential needs are met. Still, empirical 
+understanding to inform design lacks in two ways [17, 32]. 
+First, the relation between cueing medium (e.g., digital or 
+physical) and resultant remembering experience is not 
+clearly understood. It is not evident whether the 
+representation of a memory cue (e.g., photo, audio, writing) 
+influences cueing of a memory, and how we think about 
+this memory [15]. Some forms may stimulate a more 
+positive remembering experience than others, perhaps 
+because certain ways of cueing allow more freedom to 
+imagine the event and emotions as desired. If photographs 
+of an event do not support someone to relate to their own 
+experience at the time (e.g., a photo may depict a different 
+feeling), would another representation be more suitable for 
+a device to adopt for experiential reliving? Second, the way 
+this knowledge can be applied to actual interactive designs 
+needs refinement. 
+In this work, we look into remembering experiences as cued 
+by stimuli such as mementos, public images, and particular 
+spaces (see Fig.1). We aim to relate memory cues with the 
+memories and meaning within individuals’ lives, and casted 
+a wider net compared to earlier works focusing on a home 
+context [20, e.g., 27]. Our focus is on external stimuli (in 
+contrast to internal stimuli such as thoughts, which we 
+cannot design or modify), as these external cues provide an 
+opportunity for design to appropriate for everyday 
+remembering. In addition, we discuss perceived differences 
+between digital and physical items as cues. We argue this 
+focus on digital, involuntary memory cues is warranted 
+given the accumulation in people’s archives and potential 
+for appropriation by interactive devices. This work adds 
+insight on involuntary memory cueing and related trade-
+offs to enable future design work to contextualize and 
+explore this challenge. 
+RELATED WORK 
+Memory & cues in cognitive psychology 
+Remembered events of our life can differ in specificity: 
+lifetime periods (e.g., being a teenager), general events 
+lasting days to months, or event-specific knowledge for 
+events lasting up to hours at most [8]. Memories come to 
+our awareness based on intentional effort (e.g., seeing a 
+vase and then trying to remember how you got it), or 
+involuntarily (e.g., remembering your neighbor gave you a 
+vase upon seeing that vase) [4]. Involuntary memories thus 
+need some way of invocation, whether taking a cue from 
+(for example) thoughts, activities, or external items. 
+Based on diary studies, Berntsen finds involuntary cueing 
+happens between one to five times per day. Cues are most 
+often external (e.g., objects), some internal, with only a 
+small amount of sensorial cues (e.g., sound, smell) or 
+having 
+no 
+identifiable 
+cues 
+[4]. 
+Despite 
+limited 
+understanding of the cueing process, some correlation 
+between a memory and a potential cue is assumed [8]. 
+Distinctiveness, recency, frequent rehearsal, or relation to a 
+highly emotional event may improve a perceived item’s 
+ability to cue a memory [4]. However, other mental 
+processes interact to modulate a cue’s effects: one can see a 
+photo frame many times without becoming aware of related 
+memories. Such selective recall illustrates that motivations 
+matter, as does recent activation of related memories [e.g., 
+4]. During mundane activities (e.g., cooking) some people 
+are more likely to be involuntarily triggered, perhaps 
+because they are open to stimulation [e.g., 4, 28]. 
+Personal collections as memory cues 
+Items are able to stimulate vivid re-experience of the past 
+[10]. Because interactive devices can stimulate similar 
+functions via cues (e.g., display of photos, old messages, 
+audio recordings), it is relevant what types of cues people 
+relate to. People actively shape their environment to support 
+and portray their identity through curation of items 
+reminiscent of past memories, with the goal of keeping 
+things around as symbols of the self [e.g., 10, 20]. This 
+behavior, known as autotopography [27], shows the 
+complex relations between objects and the self. The 
+popularity of everyday objects as mementos is “by the 
+virtue of what the owner has invested in them, be it time or 
+emotion,” and such meaning develops over time through 
+cultivation, selection, and how items relate to others [27]. 
+Such cultivation practices are harder to support with digital 
+mementos not being present in the everyday environment. 
+Not surprisingly those are mentioned infrequently in studies 
+of personally relevant memory objects [20, 26, 27]. 
+However, this belies that there is an ever-increasing use and 
+reliance on digital capturing of memory cues (i.e., digital 
+photos, social network communication, email). The ease or 
+even automaticity of digital capturing has grown the 
+collections people keep, as reflected in the life logging 
+movement [30]. However, this ‘cue hoarding’ has led to too 
+many cues with too little relevance as filtering gets less 
+attention [30]. Work on digital legacy, inheritance and 
+memorials highlights people may at times be confronted to 
+deal with vast and often unstructured digital collections 
+[e.g., 13, 22]. These issues raise questions on what kind of 
+items would be considered beneficial as memory cues, and 
+at which moments this cueing might be done (if at all). 
+Such changed practices fundamentally alter the way we 
+remember and support recollection [31], and the changing 
+landscape begets answers on how design can best support 
+this trend. 
+
+
+ 
+Memory cues in interaction design 
+We would like to highlights several works that have tapped 
+into the opportunities provided by interaction design for 
+involuntarily cued reminiscing. Smell is rare but noticeable 
+as involuntary cue, and offers a strong ability to bring back 
+memories if a device would be aware of personally 
+meaningful odors [24]. It is noticeable several works 
+employ a tactic of random selection for serendipitous 
+effects. Pensieve explored the use of digital mementos by 
+using earlier social media posts as emailed prompts for 
+reminiscing [9]. 4Photos, a dinner table photo displaying 
+device [23], aimed to start dinner conversation by 
+presenting random photos from social network streams. A 
+similar tactic was employed by Cueb to support parent-
+teenager communication through random display of digital 
+photos on tangible objects [12]. Meerkat and Tuba also 
+went for serendipitous presentation of digital media in the 
+home, abdicating user control in favor of surprise [14]. 
+Knowing what to present and when requires keen 
+understanding of what is personally meaningful, questions 
+of interest in this work. 
+Petrelli et al. [27] argue reflective value of a memento 
+comes out of reencountering and re-evaluating our 
+disposition towards an item and its related memories 
+(although this evaluative process happens in the mind, and 
+is not evident to interactive devices). Echo uses this 
+principle to encourage reflection on cues captured earlier 
+[18]. Data Souvenirs does similarly by placing ambiguous 
+digitally augmented objects in the home environment that 
+upon seeing may stimulate reflection [1]. 
+Knowledge gap 
+Notwithstanding 
+the 
+above 
+illustrations 
+of 
+how 
+understanding memory, cueing, and interaction design can 
+support remembering our past, questions remain. As some 
+of the related work reveals, additional understanding of 
+what is of value, and when people would (not) appreciate 
+being cued is needed. Despite an increasing interest in 
+memory cues, and effects on recollection [e.g., 15], the 
+effect of cue attributes on remembering remains ambiguous 
+and is often not directly addressed. Contradictory to the 
+studies quoted above, van den Hoven et al. [16] found that 
+a no-cue condition compared to several types of cues gave 
+rise to richer recollection of a past event. This appears to 
+suggest interactive devices might also miss out on intended 
+effects using such cues (e.g., photos on phones). We argue 
+this ambiguity impedes successful design of interventions 
+to support everyday remembering. 
+This is why it is valuable to look into memory cues from a 
+design perspective. What kind of items cue memories in 
+everyday life, as opposed to lab studies or just the home 
+environment? Memory retrieval may largely be an 
+involuntary process, but cues could be in the surroundings 
+for voluntary reasons (e.g., a photo frame deliberately put 
+somewhere). To which cues do people attach value, and for 
+what reason? Is there a difference between digital and 
+physical memory cues for the remembering experience? 
+This work qualitatively explores what elements in daily life 
+cue a remembering experience, similar to the more 
+quantitative approach in studies using diaries for data 
+gathering [4, 28] and qualitative accounts of home visits 
+[e.g., 10, 20, 27]. We were interested in items as memory 
+cues and the related remembering experiences and meaning 
+these items take on. Besides a general interest in the kind of 
+memory cues encountered, we were especially interested in 
+digital memory cues (if encountered). We believe our 
+findings contribute towards successful designing for 
+remembering support systems by further unpacking the 
+relation between items and cued memories, and by 
+outlining opportunities for future work through elucidating 
+dimensions and trade-offs that designers may consider. 
+STUDY METHOD 
+This study explored the relation between memory cues and 
+reminiscing in everyday life, in which diaries and 
+debriefing interviews were used for data collection. We 
+were interested in the type of cues and related memories, 
+and how people relate to these cues. Involuntary memory 
+cueing is a fleeting cognitive phenomenon quickly 
+forgotten if not captured shortly after being cued. Akin to 
+earlier work on involuntary memories [4, 28], participants 
+were asked to record involuntary memories themselves in a 
+diary as soon as they became aware of such a memory 
+being cued. Self-reports provide a good account when 
+initiated by a participant while the cued memory is still 
+fresh, because reporting need not rely on retrospection (as 
+might the case with other methods like experience sampling 
+where delays between event and report are inevitable), at 
+the cost of some subjectivity as interpretation may differ 
+between participants [7]. Diary entries also provided input 
+for debriefing interviews, which expanded on and added 
+qualitative insight to themes found across diary entries. 
+Participants 
+Fifteen adults participated (another 5 started but did not 
+complete). They were recruited via personal networks of 
+the authors and university notices, via social network posts, 
+emails, flyers, and in person. Participants were told the 
+purpose of the study was to learn about the various ways 
+people may be reminded of their past by encountering 
+things in daily life. All respondents were included to 
+maximize diversity, and no rewards were given for 
+participation. Participants were aged 24 to 66 (M=39 years), 
+11 were female (73%), and most were affiliated to the 
+university of the first author as postgraduate student or 
+staff. Living situations varied from single, with flatmates, 
+divorced (with children), to complete families. Half were 
+born in Australia, others had been there for at least one year 
+and had comparable to native language skills. 
+Diaries 
+Participants were handed a paper diary to record 
+involuntary memories and related cues (see Fig. 2). They 
+
+
+ 
+were instructed to ‘write down things you encounter 
+throughout the day that remind you of something about 
+your own past, and perhaps made you go back to that 
+moment for a while.’ This phrase was chosen to satisfy a 
+focus on external memory cues, while trying to be open. It 
+was explained to participants that ‘things’ could refer to all 
+modalities. People logged their responses via sentence 
+completion, with three questions to be completed per entry: 
+‘I remembered..,’ ‘Because I noticed..,’ and ‘This made me 
+feel..’ This format garners free responses with a minimum 
+of guidance necessary for the study interests. Participants 
+kept the diary for a minimum of ten days, although it was 
+allowed to keep the diary longer if the first ten days proved 
+unfruitful (e.g., due to forgetting or not (realizing) being 
+cued). Diary entries were transcribed prior to interviews, 
+with unclear and interesting entries marked for further 
+questioning. Diaries were contrasted with earlier entries to 
+help grounding of early findings. 
+Figure 2. Example of a completed and filled in diary. 
+Interviews 
+Three to seven days after handing in the diary an interview 
+was held to aid interpretation of the diary, and discussed 
+reminiscing practices and perspectives. The semi-structured 
+interview elaborated on diary entries and how significant 
+these listed memory cues were to the participant, how 
+important reminiscing and reflection is in their life and in 
+what way items play a role, and how they perceive 
+differences (if any) between physical and digital mementos. 
+The interviews were held in a quiet space on campus and 
+lasted up to one hour. 
+Analysis 
+Data from 15 participants have been used (see Fig.3), 
+including interview data for one participant who withheld 
+her diary because she thought that its content was too 
+personal for her to share, and another person handed in a 
+diary but was not available for an interview. In total, 208 
+diary entries were used. Seven diary entries did not relate to 
+a past memory and were excluded (e.g., observations about 
+in-the-moment events). Entries based on involuntary 
+internal cueing (i.e., thoughts), although infrequent and not 
+the focus here, were left in. Qualitative thematic analysis 
+aimed for data reduction through quantitative summaries of 
+diary entries and identified recurring themes through 
+inductive coding of the data, using a single coder [cf. 5]. 
+Entries were coded twice: first in a directive approach on 
+summative measures as in earlier work to enable 
+comparison (i.e., categorizing as objects, or smells, or 
+people, etc.) [4], and second, entries were clustered based 
+on emergent affinity which allowed finer grained 
+categorization and contrasts (i.e., not just objects as 
+category, but split into tools, souvenirs, clothing, etc.). 
+Further measures per entry included memory valence 
+(positive/ambivalent/negative), 
+memory 
+specificity 
+(lifetime periods/general events/event-specific knowledge 
+[8]), and whether the participant controlled the exposure to 
+a memory cue (as interpreted by the coder via entry text). 
+Interviews were transcribed and all relevant statements (i.e., 
+excluding elaborations on tangential matters) were printed 
+and cut into separate paper strips. These strips from all 
+participants were clustered by similarity into a hierarchical 
+structure to support examination. Recurring themes 
+emerging across interviews, and diverse views on these 
+themes were used as the basis for organization and analysis. 
+Together with the diary clusters this provides the structure 
+for our insights into what role memory cues play in 
+people’s lives, how people relate to their past, and what 
+potential role HCI can play. 
+FINDINGS 
+We give an overview of the data, and discuss several 
+themes that emerged during analysis, and relate the findings 
+to our research questions. When relevant, findings will be 
+contrasted with earlier work. Quotes from diaries are 
+marked (P2-d), interview quotes show (P2-i). 
+What cues memories? 
+Quantitative overview of diary entries 
+We would like to give a brief quantitative impression 
+(although our qualitative findings do not depend on these). 
+The median number of reported cued memories was 11 
+(range: 2-37). This study limited itself to externally cued 
+memories, while other studies included internal cues (e.g., 
+thoughts) and those reported a slightly higher average of 
+recorded memories [4]. Following a categorization similar 
+to Berntsen, most cues relate to physical objects (52%), 
+locations (14%), activities (9%), people (9%), digital items 
+(e.g., photos or social media; 10%), and 7% other (e.g., 
+sensory, feeling, wording). Objects were mentioned more 
+often compared to ~17% in earlier work on involuntary 
+memories using diaries [e.g., 4, 28]. This bias towards 
+objects may result from our request for external cueing.. 
+Valence showed strong dominance of positive (51%) 
+compared to negative (21%) and ambivalent feelings 
+(27%). In prior diary studies a higher percentage of 
+negative memories surfaced (positives were similar), 
+perhaps due to inclusion of internal memory cueing [4]. The 
+cued memories related to event-specific knowledge in 45% 
+
+
+ 
+of entries, with 40% cueing general events, and 15% related 
+to lifetime periods. Both measures showed variance 
+between participants, which may either be genuine, due to 
+style and specificity of writing, or due to a low number of 
+entries for some. Our data is inconclusive on this aspect. 
+For half of the cues reported on participants had some 
+control over the exposure to a cue by means of ownership 
+and/or deliberately seeking out these stimuli. This was 
+clearly the case for categories such as tools, souvenirs, 
+(digital) photos and websites visited. Other categories 
+related to locations, music, social events, and social media 
+did not give much control over exposure to cues. 
+[I remembered] breakfast in my 
+childhood - my father made 
+breakfast every day, and we always 
+had a porridge as part of our 
+breakfast, which he was very 
+particular about cooking 
+[I remembered] 
+sitting with my dad 
+while he talked about 
+‘how’ to do things 
+[Because I noticed] I still love to 
+cook & eat porridge for breakfast – 
+but my porridge is from the 
+supermarket. My dad bought a 
+special mix from the health food 
+shop 
+[Because I noticed] I 
+was sitting 
+explaining what the 
+plumber was doing 
+with my friend’s son 
+[This made me feel] connected 
+back to my childhood, which was 
+very happy and the routines + care 
+of my father, which always gave me 
+lots of safety + love. 
+[This made me feel] 
+very happy, teary 
+Figure 3. Two examples of typical diary entries. 
+Objects as cues 
+Physical things proved the most common memory cues. 
+While incidence of objects was higher compared to other 
+diary studies, this was not the case for all participants. 
+Some participants perceived less sensitivity to objects: 
+“The nature of the diary led me to believe that physical 
+objects were the cause of my memories, but what I found 
+was that it was actions that made me remember things,” 
+(P8-i) according to a participant who noted not keeping a 
+lot of things around in his home. 
+The kind of objects varied widely, with tools, clothing, 
+souvenirs, gifts, books, decorative pieces, images, and food 
+being the main subcategories. Not every object may bring 
+back memories, but for those that do there is usually a story 
+in which the object played a (minor) role and has since 
+become a signifier for this story: “[I noticed] My transistor 
+radio! I listen to the ABC through the day - sport, news, and 
+classical music! [I remembered] my father listening to his 
+transistor radio all day as he carried it about with him 
+around the house & garden (…) [This made me feel] fond + 
+proud of my dad, and happy for everything that he taught 
+me” (P3-d). This entry illustrates that an object often cues 
+memories not because of itself, but rather because it, or the 
+cued memory, relates to other people. A part of the 
+memories reported relate only to the participant, but the 
+majority involved a social relation. This can range from 
+rather mundane (e.g., acquaintances having the same 
+cutlery set) to teddy bears that played a role in significant 
+periods of someone’s intimate relationships. 
+Photos as cues 
+With few exceptions people display photographs around the 
+house, as told during interviews, but entries were infrequent 
+for photos as cues. Most participants were active users of 
+the camera function on their mobile phones. An interesting 
+aspect of this use is the occasional glancing at taken photos 
+people engage in whenever they have some time to kill. 
+Recent and not so recent photos are flicked through ever so 
+often for relaxation purposes. 
+Practices and values on personal photographs differ widely 
+between people, as some take less and attach less value to 
+images, whereas others appreciate photography as a hobby 
+and enjoy having aesthetically pleasing examples around. 
+Therefore, photos (and other items) in the home can take on 
+a position beyond memory cue as a medium of expression 
+of (family) identity, a conclusion similar to Kirk et al. [20]. 
+Photographs may be a familiar sight and did not capture 
+attention with related memories. When prompted, people 
+could report on related events, but in daily life such items 
+appear to be no constant source of involuntary memories: 
+“we do have lots of photographs around, but those in the 
+living room weren't the ones stimulating memories. (…) It’s 
+nice to have some pictures around the house. I would be 
+sorry if I'd lost them” (P11-i). 
+Digital versus physical cues 
+Digital cues account for a small amount of entries, with 
+social media posts most prevalent (e.g., photos posted by 
+others). These photos were not deliberately sought by 
+participants but rather appeared in the digital environment 
+people frequent. All participants mentioned digital photos 
+although only one diary entry listed a digital photo as cue. 
+Perhaps people realize memory cueing more with physical 
+than with digital items, including photographs. An example 
+of such different perceptions is this quote by a male 
+participant on family photos: “I don't really pay much 
+attention to the computer-stored ones. For me family 
+pictures in frames around the house are important.” This 
+seems in contrast with a later quote on digital photos: 
+“When the laptops are on there is a rotation of family 
+pictures on them. And I do enjoy the process of seeing 'm 
+come up.” (P11-i). Family pictures in frames take on extra 
+meaning given their placement in the home. Digital media, 
+when merely stored and not put to use as a background 
+image or otherwise, as a result could be valued less. This 
+finding, while not original [19, 25], appears robust across 
+participants. 
+A majority expressed preference for physical compared to 
+digital items as mementos. The following quote summarizes 
+the opinions well: “Things... you can feel and touch 
+
+
+ 
+something. (…) Whereas with the digital (…) there is 
+something removed about that, in a sense.” (P3-i). One 
+participant explicitly mentioned his preference for digital 
+media given that voluntarily bringing back memories feels 
+equal to him, but physical things can be a practical burden 
+(he kept hardly any himself). 
+Participants felt that digital media, such as photos taken on 
+a phone, were lower in perceived value and usefulness, 
+almost ephemeral. Such qualities have merit: digital 
+snapshots are considered well suited to share with others as 
+a means of keeping in touch. Preservation is not a big topic 
+for some of the interviewees, with one participant 
+mentioning she lost digital images by giving away an old 
+phone to a friend and not feeling too bothered about the 
+fact. A somewhat paradoxical case of preservation is seen 
+in another participant’s efforts to complete his life’s 
+timeline on Facebook by scanning and uploading old 
+pictures. Despite considerable effort to make sure “his story 
+is told” (P15-i), he mentioned not feeling much attachment 
+to this result. In case of losing it (e.g., due to demise of 
+Facebook), he would still have the memories, as well as the 
+original photos. The tendency to ascribe lower value to 
+digital mementos is generalizable [25, 27]. It appears 
+positive values derived from digital media are less evident. 
+Locations as memory cues 
+Locations, and actions in specific locations, were reported 
+on frequently. Most entries related to earlier experiences in 
+the same environment, but just similarity was enough in 
+some cases to invoke memories. For example, a sandy 
+beach and high temperatures were distinct enough to cue 
+memories of another beach far away in time and space. In 
+other cases it was not so much the location as the 
+opportunities afforded, such as the ability to go somewhere 
+at a ferry terminal. The latter example could be described as 
+reflective, similar to motivations to go to a park that later 
+sparks many related memories. 
+This study provides no clear perspective on whether a 
+location as a whole is the cue, or rather something specific 
+within this environment. For example, in an entry noted at a 
+beach a low moon reflected in the ocean, triggering a 
+participant’s memory of “going in the ocean at night for the 
+first time a couple of weeks ago. [This made me feel] 
+excited: keen on going swimming at night soon again” 
+(P17-d). Being in the same place may evoke a similar state 
+of mind and makes it likely some aspect pulls past events to 
+the surface, making it difficult to retrospectively tell if it 
+really was just that element as cue. Another entry 
+underlines this by pointing to the column portico of a 
+university building upon returning there. The act of going 
+back, and taking that familiar walk, contributed to the sense 
+of nostalgia before seeing the distinctive portico. 
+Activities as memory cues 
+Activity was often named as a cue for events in which a 
+similar action had been performed. A few participants 
+realized that for them it often wasn’t specific items that 
+brought back memories but rather it was doing something 
+similar as in the past. For one person, aware of his 
+proclivity to remember by doing, it became part of his 
+practice (and tendency not to take many photos): “When 
+doing things, you get a déjà vu: what you were seeing, 
+smelling, and feeling as well. […] An image... I'd think 'oh, 
+yeah, that was really, really good,' but doing something 
+engages that whole process of remembering.” (P8-i). 
+Why do activities cue memories? When trying to fit 
+groceries in a bicycle bag, a participant was reminded of 
+previous times she faced the challenge. Without an 
+immediate challenge present, it is less straightforward: 
+“When I swim in the morning, I always remember my 
+boyfriend. [Sporting] became part of something we did 
+together (...) and then you think about a person and it 
+becomes a habit” (P4-i). We argue it may be repetition, and 
+through this the accumulation of meaning that aids 
+remembering of events in which the activity took place. 
+Although mundane activities like cleaning and cooking 
+were mentioned as well, it appears sports provide a unique 
+opportunity through the repetition and relation to values in 
+life. This diary entry captures it well: “[I noticed] how 
+good I felt after going for a jog, and arguably during the 
+jog. [I remembered] how good I felt when I was more 
+active. (Used to run frequently). [This made me feel] good, 
+proud that I have restarted the regime.” (P1-d). 
+Food related cues 
+Eating and food-related materials came up often, and 
+included ingredients, making food, related tools, and 
+sharing a meal (see Fig.2). Although not mentioned often 
+within HCI [23], food is one category where items, 
+activities, social gatherings and accumulated meaning 
+combine. Food-related cues prompted memories on social 
+gatherings, past events, people’s preferences, and the 
+relationship with family members: “[I remembered] 
+cooking with my mother – as a child living at home, 
+[Because I noticed] her handwriting on a recipe I was 
+about to use that evening. [This made me feel] a little sad – 
+that I can no longer call her & chat about day-to-day 
+things. That she is no longer with us.” (P9-d). Like 
+activities, food and its social practices appear to accumulate 
+meaning over time and as such the repetition makes for a 
+stronger memory. The cooking example indicates dishes 
+can be specific to an event or a period and take on a role as 
+signifier for those moments, presumably cementing its 
+ability to cue memories later. 
+Which memory cues are valuable? 
+While our focus was on involuntary cueing, discussions on 
+valuable items as cues centered on practices in the home as 
+the place for storage and display of items for their related 
+memories and/or aesthetics. We found a relationship 
+between the perceived need of access to related memories 
+and item placement. For some, items were deliberately put 
+on display to serve as signifiers of positive moments and 
+self-attributes. These items thus served to display and cue 
+
+
+ 
+positive attributes of identity: “it's like each of those things 
+paint a stroke in your own painting” (P4-i). This desire to 
+have the home reflect identity is found with nearly all 
+participants, and echoes prior work [e.g., 10, 20, 27]. This 
+highlights that the need for reminiscing ties into 
+perspectives on the past, and how it relates to the present. 
+An item’s relation to the present may morph over time as it 
+may take on new meaning after influential events, and 
+remain valuable partly because of this. For example, a 
+hand-knitted scarf once received as a gift from a friend 
+since lost has come to signify personal growth: “it's 
+ultimately a symbol of rejection [in the past]; it's also a 
+symbol of love. (...) And when you keep things of your own 
+failures around, it keeps you humble. (...) It encourages you 
+to keep growing” (P4-i). Such tokens of important life 
+events relate to complex emotions. Other work on digital 
+remains and heirlooms corroborate these findings [20]. 
+Meaning develops over time for many personal items, as 
+these things get put on display, get used, scarred, or fall out 
+of use and are reencountered after a while. A good example 
+is a story on a bike that a participant uses to go to work 
+daily, which was bought years ago and has since 
+accompanied him around the world: “… I need to replace a 
+few things. So I think 'do I get a new bike? Or do I replace 
+the components?' And I replaced the components, because 
+of the memories I think, and probably as a keepsake.” (P8-
+i). Other people illustrated similar stories that showed a 
+gradual attachment over time as an item played a small part 
+in their life. This complements other work on personal 
+belongings that emphasize the beneficial role of a 
+repeatedly observed (or used) factor for investment of 
+meaning [20, 27]. 
+DISCUSSION 
+In the reported study, we investigated involuntary memory 
+cueing to inform design for remembering. Our findings 
+show that a broad range of external stimuli can trigger 
+remembering experiences. We found physical items took 
+precedence as involuntary memory cues; environments such 
+as parks and beaches got frequent mention, as did activities. 
+The latter is not often discussed, perhaps because activities 
+are not typically thought of as a cue for earlier events. Yet, 
+psychology studies on involuntary memory cues back up 
+our findings for these kinds of cues [e.g., 4, 28]. 
+The use of self-reports throughout the day brought in 
+reports beyond the personal and curated. However, for 
+personal items people were able to relate stories and 
+histories in which these items played a role. Meaningful 
+items are often put on display (e.g., photos to display family 
+bonds) or, like inherited dinner plates, are “honoring 
+through use” [20]. Indeed, when discussing personal 
+memory-related practices in the home, our findings dovetail 
+with earlier ethnographic accounts [10, 20, 27], although 
+these works oriented towards voluntary memories, and 
+employ a broader sociological perspective [cf. 20]. 
+In earlier involuntary cueing work there was no attention to 
+the media representation of a cue, so no comments were 
+possible on digital cues [e.g., 4, 28]. We did categorize 
+these, and found digital items were not common as 
+involuntary cues. Most participants who use digital social 
+media were able to remember instances of reminiscing 
+invoked this way. Browsing photos on a phone gave no 
+diary entries, but was mentioned by several participants as a 
+pleasant activity. It may be that participants regarded this as 
+a voluntary act, while the focus here was on involuntary 
+cues. Alternatively, if digital media are encountered 
+involuntarily as on social media, these are able to foster 
+reminiscing, but for self-managed material this value may 
+be overlooked due to accessibility (e.g., participants 
+mentioned storage and management burden). Photos on 
+phones may lower the bar, being within easy reach. 
+Despite intent to focus on digital cues, this study does not 
+make clear whether there is a difference in remembering 
+experience for cues that could be both digitally and 
+physically presented. Our findings suggest ability to cue 
+extends to a wide variety of items, but availability to be 
+observed is key (which may explain the prevalence of 
+physical items in the responses). This question of 
+representation is in need of future attention, because if 
+remembering experiences differ depending on the way a 
+memory cue is presented this has implications for future 
+devices that support remembering using cues. 
+Some methodological limitations apply. Using diaries 
+enabled self-reports directly after being cued. However, 
+some people wrote in the diary a while after because they 
+felt burdened carrying it around. Such practices may 
+introduce retrospection on memories invoked earlier or 
+leave 
+ephemeral 
+and 
+quickly 
+forgotten 
+memories 
+unreported. Diaries were then filled out upon coming home, 
+perhaps around dinnertime, which may have primed food-
+related entries. Future studies could employ a staged 
+capturing of data (e.g., noting keywords, with full 
+descriptions added later) to ease reporting. 
+Observed differences between participants might be 
+attributed to different task interpretations. In particular, 
+some felt restricted to physical observations and, for 
+example, excluded music as cue. This may partly explain 
+the higher count of objects in our data compared to other 
+work [4], and could have reduced the number of digital 
+cues. However, comparing is difficult, as those did not 
+specify involuntary memory cues as digital. Furthermore, 
+we suspect some filtering took place on what was recorded. 
+While unexpected when relying on someone’s awareness of 
+being involuntarily cued, some participants might have 
+discarded cued memories that did not feel very personally 
+relevant, which may bias our findings. 
+Although we stressed people to not look for things that 
+reminded them of personal memories, and rather rely on 
+involuntarily cueing, we could not control for this other 
+than retrospectively asking about their motivations to note 
+
+
+ 
+certain entries. While responses suggest entries were indeed 
+based on unintentional invocation of memories, in many 
+instances in the home items were deliberately put on 
+display to serve as occasional reminders and evidently did 
+so, blurring the line on intentionality. 
+It needs acknowledgement that memory cueing is not a 
+straightforward process and a cue can via cascading 
+thoughts lead to a memory that may no longer be 
+recognized as brought about by the original cue. The act of 
+writing in the diary (or remembering to do so later) may 
+equally modify one’s perspective on the original cueing 
+event and related memories. This modifying aspect is 
+relevant to consider for interactive devices, but here it can 
+be seen as a potential influence outside our control. 
+The remainder of this section relates implications and 
+opportunities for interaction design to support reminiscing, 
+which are described as dimensions of trade-offs to consider. 
+These dimensions are timing, exposure, and the process of 
+becoming a meaningful memory cue. 
+Timing: moments for presenting cues 
+Reminiscing and reflection are not activities people set out 
+to do for a while, according to participants. A reflective 
+mood will certainly increase the odds, but it is rather 
+something that comes up while doing another task (e.g., 
+doing laundry, cooking, riding a bike). Depending on 
+cognitive demands, a task may allow the main activity to 
+move to the periphery of attention [2]. Opportunities for 
+reminiscing can be facilitated by augmenting existing 
+interactions that are prone to mind wandering. Making food 
+was indicated as an example of such a low-key activity, and 
+a device could capitalize on the opportunity to inspire 
+positive reminiscing. Facilitation is certainly challenging 
+because it may be hard to steer the wandering mind, but 
+such suggestive devices embedded into everyday activities 
+have potential to tap into moments when people say they 
+enjoy thinking about their lives. 
+To engage people in reminiscing via designed cueing 
+requires sensitivity to opportune moments. By definition 
+involuntary cueing is unsolicited, but devices that aim to do 
+so would benefit from a way to sense (un) desirability, or 
+alternatively, provide the means for people to indicate in 
+retrospect whether they appreciated the experience of being 
+cued. Over time, a system may be able to learn from such 
+feedback. Other technical means may be available to 
+sensing appreciation (e.g., facial expressions, time spent 
+looking at an item). Similarly, user activity could be 
+classified as relaxed and open to interruption, or in a state 
+of flow. The opposite end on this spectrum would entail no 
+cueing is commenced without prior voluntary action. 
+Exposing a cue: what and how 
+A key element for any system is to find out which available 
+items relate to a valued memory for someone, and in which 
+way these items are best presented. Finding out about 
+perceived value (whether of an item-as-cue or a related 
+memory) could be done in advance through explicit inquiry, 
+or retrospectively through feedback. One issue for automated 
+gathering of such knowledge is that meaning of an item is 
+idiosyncratic and perhaps ambivalent, as our findings 
+indicate. While (for example) number of interactions may be 
+a telling signifier (e.g., how often a song was played), a 
+system may not know why. Previous work has sidestepped 
+this issue by considering random viewing as a way of 
+achieving serendipity [e.g., 9, 14]. 
+Next comes the question of which form this exposure should 
+take. While our data suggests a related memory is a stronger 
+indicator of appreciation than the cueing itself, our findings 
+leave room for exploration of this cueing manifestation. 
+Remembering through action is worthwhile for further 
+investigation. We imagine interactions can be leveraged not 
+just as means to access content, but also be conducive to 
+reminiscing. If a device is aware of reminiscence-prone 
+activities, there may be opportunities to reminisce on earlier 
+events through stimulation of activities. Relating to positive 
+memories could stimulate similar experiences, as seen with 
+the jogging example. 
+People expressed no need to consider the past all the time. 
+Potential overexposure is important to consider for 
+interactive devices as digital devices enable us to frequently 
+encounter many mementos: we can quickly retrieve any old 
+item, whenever we want, which may change how we develop 
+relations with these mementos [29]. It is a contrast with the 
+normally hidden shoeboxes of old, and explorations building 
+on this theme [e.g., 11]. Frequent interaction with the past 
+can have adverse effects, both for painful memories and the 
+inability to move on with one’s life, as pointed out by two 
+participants familiar with depression. There is equal value in 
+forgetting as part of a healthy memory system, and 
+indiscriminate invocation of unpleasant memories can 
+adversely affect people’s wellbeing [3]. Still, we believe that 
+when done right, designs can engage with the process of 
+reflecting on meaningful events of the past [e.g., 21]. 
+Process of becoming meaningful as a cue 
+Can meaning be designed for or cultivated through design? 
+This is a design challenge we seek to contribute to. The study 
+presented in this paper was concerned with existing items 
+that had the ability to bring back memories without being 
+designed explicitly for that goal. Based on our findings we 
+note that memories and meaning do not form a 
+straightforward relationship with an item. This sometimes 
+tangential relationship can be idiosyncratic [27]. For 
+example, the scarf discussed earlier symbolizes a lost 
+friendship, but this symbol could have been another item. We 
+speculate everything might be able to become a memory cue 
+depending on how people relate to it, but some designs may 
+be better suited to bring back memories. The scarf’s 
+handmade materiality may be such a design element that 
+signifies emotional investment, a quality harder to replicate 
+in digital media. Therefore, especially for digital devices that 
+
+
+ 
+could cue memories, we believe a very relevant question is 
+how it can be designed to become meaningful. 
+The notion that meaning develops over time is interesting to 
+investigate in future designs, and echoes similar findings by 
+Petrelli et al. [27]. Repeated exposure and engagement with 
+potential memory cues seems important, and such investment 
+of time hampers digital cues to pick up meaning. Compared 
+to physical cues, digital ones get comparatively less exposure 
+in everyday life, if going by our results (although Schwarz 
+points at a different trend [29]). If repetition is key to accrue 
+meaning, designs could explore ways in which meaning 
+develops and grows over time (e.g., through repeated 
+exposure). If indeed how people come to relate to something 
+is more relevant than what the thing is, we should consider 
+how we could foster a relationship between a personal 
+memory and a cue. Designing for this process and facilitation 
+of reminiscing and reflective thought appears a veritable 
+direction of inquiry. This is different from designing an item 
+to be able to cue an autobiographical memory, and rather 
+may use items to facilitate the process. 
+Whether such accrual of meaning is deliberately sought via 
+interactions with someone (e.g., by repeated exposure) or, as 
+per the opposite, that increasing meaning is derived from 
+usage data (e.g., how often an item is revisited), is a design 
+decision to be made. It relates to the other dimensions by 
+focusing on what could become valuable if given time. As an 
+example, our findings suggest items that relate to social 
+connections would be likely to become regarded as valuable, 
+if this connection is indeed seen as such. 
+Limits to what technology could accomplish 
+The aforementioned dimensions all require trade-offs to be 
+made considering the desirability of involuntary cueing from 
+a user’s perspective. For example, obtrusiveness of cueing 
+relates to insensitive timing and/or misjudging exposure to a 
+cue for an undesired memory. Whether a system can be 
+successful depends on how well it is able to understand the 
+context of its use and how well it adapts to such knowledge. 
+The challenge is to judge this desirability within the means of 
+technology, and handle the cases where it cannot adequately 
+know in an appropriate manner. 
+Getting the necessary understanding may depend on machine 
+learning algorithms that may or may not be sufficiently 
+capable to do so given hard to measure data such as personal 
+attachment to an item or openness to consider one’s past. The 
+latter issue implies a fully involuntarily experienced system 
+may be imperfect, and a balance with some voluntary 
+interactions could serve people’s needs better (e.g., using 
+retrospectively marking of certain cues as desired or not). 
+Furthermore, there are aspects that are hard to prepare for 
+with a technological system, as shown in earlier work on 
+inheritance of digital data [e.g., 13, 22]. However, the ways 
+imperfect moments play out are malleable. We believe 
+designers should acknowledge the limitations of technology 
+by not relying extensively on it and rather opt for a dialogue, 
+similar to how physical items, their meaning, and visible (dis) 
+placement form a dialogue with their owner through 
+manipulation of place (e.g., hiding things). 
+Reflections on HCI research for remembering 
+Having made the argument that meaningful connections 
+between items, the self and memories are forged over time, 
+this has implications for design research. Careful study of 
+designed interventions should consider the effects of repeated 
+user engagement, and would therefore benefit from 
+longitudinal evaluation. Most of the design examples 
+discussed in this text were studied for a limited period of time 
+(as are many not discussed here), perhaps falling short of the 
+time necessary to become related to at a deeper level. 
+Because passage of time may alter our perspective on earlier 
+events, remembering experiences after two years can yield 
+different insights from doing so after one month, the former 
+closer to a real life use case. An emphasis on longitudinal 
+evaluation can thus provide necessary insight on designing 
+for remembering support. 
+CONCLUSIONS 
+We believe understanding what makes people remember 
+their past and how this colors their experience is important to 
+inform designs that aim to support everyday remembering. 
+Our work contributes to the literature by integrating diary 
+self-reports with follow-up interviews to further our 
+understanding about the relation between involuntary 
+memories and the things that cue such memories, and how 
+people relate to particularly meaningful items. The findings 
+illustrate memory cueing happens everywhere: meaningful 
+cues are not limited to the home, nor should its study be 
+limited to that environment. 
+Repeated encounters in daily life, in which the item may be 
+tangential to the task at hand, provide opportunities for items 
+to take on meaning. Such practices do not easily extend to 
+digital items, although nowadays many potential cues are 
+digital. While physical items can be put on display or used 
+for common tasks (e.g., inherited cutlery), we believe this 
+proves a challenge for digital items to be used for everyday 
+remembering as these are often not encountered on a regular 
+basis (or serendipitously for that matter). Even though easy 
+capture of media for future recall seems a problem solved – 
+too well perhaps [29, 30] – our work addressed how these 
+items are currently encountered and can be used as support 
+for reminiscing and wellbeing. 
+Considering our insights we can now state what we believe to 
+be effective practices for interaction design to support 
+everyday remembering. Integrating with common activities 
+that stimulate the mind to wander provide opportunities for 
+reminiscing through design; involuntary cueing can lead to 
+surprise revisiting of memories, including undesired ones. 
+Designs should allow for some control over (non) exposure 
+to certain cues. Meaningful connections grow over time: 
+designs can support this process. Evaluation of HCI designs 
+for remembering can benefit from a longitudinal focus. 
+
+
+ 
+ACKNOWLEDGEMENTS 
+We would like to thank all participants for their time and 
+contributions. This study was approved by the UTS Ethics 
+Committee (#2012000570), and supported by STW VIDI 
+grant number 016.128.303 of The Netherlands Organization 
+for Scientific Research (NWO) and a UTS PhD Scholarship, 
+both awarded to Elise van den Hoven.  
+REFERENCES 
+1. Aipperspach, R., Hooker, B., and Woodruff, A. Data 
+Souvenirs: Environmental psychology and reflective 
+design. International Journal of Human-Computer 
+Studies 69, 5 (2011), 338–349. 
+2. Bakker, S., Hoven, E., van den, and Eggen, J.H. 
+Peripheral interaction: characteristics and considerations. 
+Personal and Ubiquitous Comp, (2014). 
+3. Bannon, L.J. Forgetting as a feature, not a bug: the 
+duality of memory and implications for ubiquitous 
+computing. CoDesign 2, 1 (2006), 3–15. 
+4. Berntsen, D. Involuntary Autobiographical Memories. 
+Cambridge University Press, 2009. 
+5. Braun, V. and Clarke, V. Using thematic analysis in 
+psychology. Qual. Research in Psy 3, 2 (2006), 77–101. 
+6. Bryant, F.B., Smart, C.M., and King, S.P. Using the Past 
+to Enhance the Present: Boosting Happiness Through 
+Positive Reminiscence. Happiness Studies 6, (2005), 
+227–260. 
+7. Carter, S. and Mankoff, J. When participants do the 
+capturing. In Proc. CHI '05, ACM Press (2005), 899–
+908. 
+8. Conway, M.A. and Pleydell-Pearce, C.W. The 
+construction of autobiographical memories in the self-
+memory system. Psychological review 107, 2 (2000), 
+261–287. 
+9. Cosley, D., Sosik, V.S., Schultz, J., et al. Experiences 
+With Designing Tools for Everyday Reminiscing. 
+Human–Computer Interaction 27, (2012), 175–198. 
+10. Csikszentmihalyi, M. and Rochberg-Halton, E. The 
+Meaning of Things. Cambridge University Press, 1981. 
+11. Frohlich, D. and Murphy, R. The Memory Box. Personal 
+and Ubiquitous Comp 4, 4 (2000), 238–240. 
+12. Golsteijn, C. and Hoven, E., van den. Facilitating parent-
+teenager communication through interactive photo cubes. 
+Personal and Ubiquitous Computing 17, 2 (2013), 273–
+286. 
+13. Gulotta, R., Odom, W., Forlizzi, J., and Faste, H. Digital 
+artifacts as legacy: exploring the lifespan and value of 
+digital data. In Proc. CHI '13, ACM Press (2013), 1813–
+1822. 
+14. Helmes, J., O'Hara, K., Vilar, N., and Taylor, A.S. 
+Meerkat and tuba: design alternatives for randomness, 
+surprise and serendipity in reminiscing. In Proc. 
+INTERACT'11, Springer-Verlag (2011), 376–391. 
+15. Hoven, E., van den and Eggen, B. The cue is key: Design 
+for real-life remembering. Zeitschrift für Psychologie 
+222, 2 (2014), 110–117. 
+16. Hoven, E., van den and Eggen, J.H. The effect of cue 
+media on recollections. Human Technology 5, 1 (2009), 
+47–67. 
+17. Hoven, E., van den, Sas, C., and Whittaker, S. 
+Introduction to this Special Issue on Designing for 
+Personal Memories: Past, Present, and Future. Human–
+Computer Interaction 27, 1-2 (2012), 1–12. 
+18. Isaacs, E., Konrad, A., Walendowski, A., et al. Echoes 
+from the past: how technology mediated reflection 
+improves well-being. In Proc. CHI '13, ACM (2013), 
+1071–1080. 
+19. Kalnikaite, V. and Whittaker, S. A saunter down memory 
+lane: Digital reflection on personal mementos. 
+International Journal of Human-Computer Studies 69, 5 
+(2011), 298–310. 
+20. Kirk, D.S. and Sellen, A.J. On human remains: Values 
+and practice in the home archiving of cherished objects. 
+ACM TOCHI 17, 3, Article 10 (2010), 43 pages. 
+21. Massimi, M. and Baecker, R.M. A death in the family: 
+opportunities for designing technologies for the bereaved. 
+In Proc. CHI '10, ACM (2010), 1821–1830. 
+22. Moncur, W. and Kirk, D.S. An emergent framework for 
+digital memorials. In Proc. DIS '14, ACM Press (2014), 
+965–974. 
+23. O'Hara, K., Helmes, J., Sellen, A.J., et al. Food for Talk: 
+Phototalk in the Context of Sharing a Meal. Human–
+Computer Interaction 27, 1 (2012). 
+24. Obrist, M., Tuch, A.N., and Hornbaek, K. Opportunities 
+for odor: experiences with smell and implications for 
+technology. In Proc. CHI '14, ACM Press (2014), 2843–
+2852. 
+25. Petrelli, D. and Whittaker, S. Family memories in the 
+home: contrasting physical and digital mementos. 
+Personal and Ubiquitous Comp 14, 2 (2010), 153–169. 
+26. Petrelli, D., Hoven, E., van den, and Whittaker, S. 
+Making history: intentional capture of future memories. 
+In Proc. CHI '09, ACM Press (2009), 1723–1732. 
+27. Petrelli, D., Whittaker, S., and Brockmeier, J. 
+AutoTopography: what can physical mementos tell us 
+about digital memories? In Proc. CHI '08, ACM (2008), 
+53–62. 
+28. Schlagman, S., Kvavilashvili, L., and Schulz, J. Effects of 
+age on involuntary autobiographical memories. In J.H. 
+Mace, ed., Involuntary Memory. Blackwell, Malden, MA, 
+2007, 87–112. 
+29. Schwarz, O. The past next door: Neighbourly relations 
+with digital memory-artefacts. Memory Studies 7, 1 
+(2014), 7–21. 
+30. Sellen, A.J. and Whittaker, S. Beyond Total Capture: A 
+Constructive Critique of Lifelogging. Communications of 
+the ACM 53, (2010), 70–77. 
+31. van Dijck, J. Mediated Memories in the Digital Age. 
+Stanford University Press, 2007. 
+32. Whittaker, S., Kalnikaite, V., Petrelli, D., et al. Socio-
+Technical Lifelogging: Deriving Design Principles for a 
+Future Proof Digital Past. Human–Computer Interaction 
+27, (2012), 37–62. 
+ 
